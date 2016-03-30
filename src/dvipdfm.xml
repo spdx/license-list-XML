@@ -1,0 +1,12 @@
+<SPDX name="dvipdfm License" identifier="dvipdfm" osi-approved="false">
+  <urls>
+    <url>https://fedoraproject.org/wiki/Licensing/dvipdfm</url>
+  </urls>
+  <license>
+    <body>
+      <p>A modified version of this file may be distributed, but it should be distributed with a *different* name.
+         Changed files must be distributed *together with a complete and unchanged* distribution of these
+         files.</p>
+    </body>
+  </license>
+</SPDX>
