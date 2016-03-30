@@ -1,0 +1,28 @@
+<SPDX name="Do What The F*ck You Want To Public License" identifier="WTFPL" osi-approved="false">
+  <urls>
+    <url>http://sam.zoy.org/wtfpl/COPYING</url>
+  </urls>
+  <license>
+    <title>
+      <p>DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+        <br/>Version 2, December 2004 
+      </p>
+    </title>
+    <copyright>
+      <p>Copyright (C) 2004 Sam Hocevar &lt;sam@hocevar.net&gt;</p>
+    </copyright>
+    <body>
+      <p>Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and
+         changing it is allowed as long as the name is changed.</p>
+      <p>DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+        <br/>TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+      </p>
+      <list>
+        <li>
+          <b>0.</b>
+          <p>You just DO WHAT THE FUCK YOU WANT TO.</p>
+        </li>
+      </list>
+    </body>
+  </license>
+</SPDX>
