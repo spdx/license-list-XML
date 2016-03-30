@@ -1,0 +1,91 @@
+<SPDX name="Ruby License" identifier="Ruby" osi-approved="false">
+  <urls>
+    <url>http://www.ruby-lang.org/en/LICENSE.txt</url>
+  </urls>
+  <notes>Ruby is disjunctively licensed project that allows the choice of this license and another. The other license
+         choice has changed over time (from GPL originally, to BSD-2-Clause currently), so one needs to be
+         aware of that change. The Ruby License itself is un-versioned, but has varied a bit over the years,
+         the last substantive variation being in 2002.</notes>
+  <license>
+    <body>
+      <list>
+        <li>
+          <b>1.</b>
+          <p>You may make and give away verbatim copies of the source form of the software without
+             restriction, provided that you duplicate all of the original copyright notices and associated
+             disclaimers.</p>
+        </li>
+        <li>
+          <b>2.</b>
+          <p>You may modify your copy of the software in any way, provided that you do at least ONE of the
+             following:</p>
+        </li>
+      </list>
+      <list>
+        <li>
+          <b>a)</b>
+          <p>place your modifications in the Public Domain or otherwise make them Freely Available, such as by
+             posting said modifications to Usenet or an equivalent medium, or by allowing the author to
+             include your modifications in the software.</p>
+        </li>
+        <li>
+          <b>b)</b>
+          <p>use the modified software only within your corporation or organization.</p>
+        </li>
+        <li>
+          <b>c)</b>
+          <p>give non-standard binaries non-standard names, with instructions on where to get the original
+             software distribution.</p>
+        </li>
+        <li>
+          <b>d)</b>
+          <p>make other distribution arrangements with the author.</p>
+        </li>
+        <li>
+          <b>3.</b>
+          <p>You may distribute the software in object code or binary form, provided that you do at least ONE
+             of the following:</p>
+        </li>
+      </list>
+      <list>
+        <li>
+          <b>a)</b>
+          <p>distribute the binaries and library files of the software, together with instructions (in the
+             manual page or equivalent) on where to get the original distribution.</p>
+        </li>
+        <li>
+          <b>b)</b>
+          <p>accompany the distribution with the machine-readable source of the software.</p>
+        </li>
+        <li>
+          <b>c)</b>
+          <p>give non-standard binaries non-standard names, with instructions on where to get the original
+             software distribution.</p>
+        </li>
+        <li>
+          <b>d)</b>
+          <p>make other distribution arrangements with the author.</p>
+        </li>
+        <li>
+          <b>4.</b>
+          <p>You may modify and include the part of the software into any other software (possibly
+             commercial). But some files in the distribution are not written by the author, so that they
+             are not under these terms.</p>
+          <p>For the list of those files and their copying conditions, see the file LEGAL.</p>
+        </li>
+        <li>
+          <b>5.</b>
+          <p>The scripts and library files supplied as input to or produced as output from the software do not
+             automatically fall under the copyright of the software, but belong to whomever generated them,
+             and may be sold commercially, and may be aggregated with this software.</p>
+        </li>
+        <li>
+          <b>6.</b>
+          <p>THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
+             WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+             PURPOSE.</p>
+        </li>
+      </list>
+    </body>
+  </license>
+</SPDX>
