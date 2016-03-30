@@ -1,0 +1,42 @@
+<SPDX name="BSD 2-clause NetBSD License" identifier="BSD-2-Clause-NetBSD" osi-approved="false">
+  <urls>
+    <url>http://www.netbsd.org/about/redistribution.html#default</url>
+  </urls>
+  <notes>NetBSD adopted this 2-clause license in 2008 for code contributed to NetBSD Foundation.</notes>
+  <license>
+    <copyright>
+      <p>Copyright (c) 2008 The NetBSD Foundation, Inc. All rights reserved.</p>
+    </copyright>
+    <body>
+      <p>This code is derived from software contributed to The NetBSD Foundation by 
+        <alt name="contributors" match=".*"></alt>
+      </p>
+      <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
+         that the following conditions are met:</p>
+      <list>
+        <li>
+          <b>1.</b>
+          <p>Redistributions of source code must retain the above copyright notice, this list of conditions
+             and the following disclaimer.</p>
+        </li>
+        <li>
+          <b>2.</b>
+          <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+             and the following disclaimer in the documentation and/or other materials provided with the
+             distribution.</p>
+        </li>
+      </list>
+      <p>THIS SOFTWARE IS PROVIDED BY 
+        <alt name="copyrightHolderAsIs" match=".+">THE NETBSD FOUNDATION, INC. AND CONTRIBUTORS</alt> ``AS IS''
+        AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+        MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL 
+        <alt name="copyrightHolderLiability" match=".+">THE FOUNDATION OR CONTRIBUTORS</alt> BE LIABLE FOR ANY
+        DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+        TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+        INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+        TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+        ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+      </p>
+    </body>
+  </license>
+</SPDX>
