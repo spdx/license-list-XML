@@ -70,26 +70,6 @@
              those regarding import, export, and use of encryption software.</p>
         </li>
       </list>
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>
-            <alt name="author" match=".+">Name</alt> ("AUTHOR"), 
-          </p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>
-            <alt name="profIdent" match=".+">Professional identification</alt> ("PROFESSIONAL IDENTIFICATION"), and 
-          </p>
-        </li>
-        <li>
-          <b>(c)</b>
-          <p>
-            <alt name="url" match=".+">URL</alt> ("URL"). 
-          </p>
-        </li>
-      </list>
       <p>THIS FREE SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
          BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
          DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR ANY CONTRIBUTOR BE LIABLE FOR ANY DIRECT, INDIRECT,
