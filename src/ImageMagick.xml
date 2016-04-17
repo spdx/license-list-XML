@@ -98,96 +98,6 @@
           </li>
         </list>
       </list>
-      <list>
-        <li>
-          <b>*</b>
-          <p>freely download and use ImageMagick software, in whole or in part, for personal, company
-             internal, or commercial purposes;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>use ImageMagick software in packages or distributions that you create;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>link against a library under a different license;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>link code under a different license against a library under this license;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>merge code into a work under a different license;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>extend patent grants to any code using code under this license;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>and extend patent protection.</p>
-          <p>It forbids you to:</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>redistribute any piece of ImageMagick-originated software without proper attribution;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>use any marks owned by ImageMagick Studio LLC in any way that might state or imply that
-             ImageMagick Studio LLC endorses your distribution;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>use any marks owned by ImageMagick Studio LLC in any way that might state or imply that you
-             created the ImageMagick software in question.</p>
-          <p>It requires you to:</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>include a copy of the license in any redistribution you may make that includes ImageMagick software;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>provide clear attribution to ImageMagick Studio LLC for any distributions that include
-             ImageMagick software.</p>
-          <p>It does not require you to:</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>include the source of the ImageMagick software itself, or of any modifications you may have made
-             to it, in any redistribution you may assemble that includes it;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>submit changes that you make to the software back to the ImageMagick Studio LLC (though such
-             feedback is encouraged).</p>
-          <p>A few other clarifications include:</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>ImageMagick is freely available without charge;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>you may include ImageMagick on a DVD as long as you comply with the terms of the license;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>you can give modified code away for free or sell it under the terms of the ImageMagick license or
-             distribute the result under a different license, but you need to acknowledge the use of the
-             ImageMagick software;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>the license is compatible with the GPL V3.</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>when exporting the ImageMagick software, review its export classification.</p>
-        </li>
-      </list>
       <p>Terms and Conditions for Use, Reproduction, and Distribution</p>
       <p>The legally binding and authoritative terms and conditions for use, reproduction, and distribution of
          ImageMagick follow:</p>
@@ -345,41 +255,6 @@
              defend, and hold each Contributor harmless for any liability incurred by, or claims asserted
              against, such Contributor by reason of your accepting any such warranty or additional
              liability.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>You must give any other recipients of the Work or Derivative Works a copy of this License; and</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>You must cause any modified files to carry prominent notices stating that You changed the files; and</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>You must retain, in the Source form of any Derivative Works that You distribute, all copyright,
-             patent, trademark, and attribution notices from the Source form of the Work, excluding those
-             notices that do not pertain to any part of the Derivative Works; and</p>
-        </li>
-        <li>
-          <b>d.</b>
-          <p>If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works
-             that You distribute must include a readable copy of the attribution notices contained within
-             such NOTICE file, excluding those notices that do not pertain to any part of the Derivative
-             Works, in at least one of the following places: within a NOTICE text file distributed as part
-             of the Derivative Works; within the Source form or documentation, if provided along with the
-             Derivative Works; or, within a display generated by the Derivative Works, if and wherever such
-             third-party notices normally appear. The contents of the NOTICE file are for informational
-             purposes only and do not modify the License. You may add Your own attribution notices within
-             Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the
-             Work, provided that such additional attribution notices cannot be construed as modifying the
-             License.</p>
-          <p>You may add Your own copyright statement to Your modifications and may provide additional or
-             different license terms and conditions for use, reproduction, or distribution of Your
-             modifications, or for any such Derivative Works as a whole, provided Your use, reproduction,
-             and distribution of the Work otherwise complies with the conditions stated in this
-             License.</p>
         </li>
       </list>
     </body>
