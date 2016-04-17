@@ -1,4 +1,4 @@
-<SPDX name="ODC Open Database License v1.0" identifier="ODbL-1.0" osi-approved="false">
+<spdx name="ODC Open Database License v1.0" identifier="ODbL-1.0" osi-approved="false">
   <urls>
     <url>http://www.opendatacommons.org/licenses/odbl/1.0/</url>
   </urls>
@@ -36,56 +36,65 @@
         <li>
           <b>1.0</b>
           <p>Definitions of Capitalised Words</p>
-          <p>"Collective Database" – Means this Database in unmodified form as part of a collection of
-             independent databases in themselves that together are assembled into a collective whole. A
-             work that constitutes a Collective Database will not be considered a Derivative Database.</p>
-          <p>"Convey" – As a verb, means Using the Database, a Derivative Database, or the Database as part of
-             a Collective Database in any way that enables a Person to make or receive copies of the
-             Database or a Derivative Database. Conveying does not include interaction with a user through
-             a computer network, or creating and Using a Produced Work, where no transfer of a copy of the
-             Database or a Derivative Database occurs. "Contents" – The contents of this Database, which
-             includes the information, independent works, or other material collected into the Database.
-             For example, the contents of the Database could be factual data or works such as images,
-             audiovisual material, text, or sounds.</p>
-          <p>"Database" – A collection of material (the Contents) arranged in a systematic or methodical way
-             and individually accessible by electronic or other means offered under the terms of this
+          <p>&quot;Collective Database&quot; &#x2013; Means this Database in unmodified form as part of a
+             collection of independent databases in themselves that together are assembled into a
+             collective whole. A work that constitutes a Collective Database will not be considered a
+             Derivative Database.</p>
+          <p>&quot;Convey&quot; &#x2013; As a verb, means Using the Database, a Derivative Database, or the
+             Database as part of a Collective Database in any way that enables a Person to make or receive
+             copies of the Database or a Derivative Database. Conveying does not include interaction with a
+             user through a computer network, or creating and Using a Produced Work, where no transfer of a
+             copy of the Database or a Derivative Database occurs. &quot;Contents&quot; &#x2013; The
+             contents of this Database, which includes the information, independent works, or other
+             material collected into the Database. For example, the contents of the Database could be
+             factual data or works such as images, audiovisual material, text, or sounds.</p>
+          <p>&quot;Database&quot; &#x2013; A collection of material (the Contents) arranged in a systematic or
+             methodical way and individually accessible by electronic or other means offered under the
+             terms of this License.</p>
+          <p>&quot;Database Directive&quot; &#x2013; Means Directive 96/9/EC of the European Parliament and of
+             the Council of 11 March 1996 on the legal protection of databases, as amended or
+             succeeded.</p>
+          <p>&quot;Database Right&quot; &#x2013; Means rights resulting from the Chapter III (&quot;sui
+             generis&quot;) rights in the Database Directive (as amended and as transposed by member
+             states), which includes the Extraction and Re-utilisation of the whole or a Substantial part
+             of the Contents, as well as any similar rights available in the relevant jurisdiction under
+             Section 10.4.</p>
+          <p>&quot;Derivative Database&quot; &#x2013; Means a database based upon the Database, and includes
+             any translation, adaptation, arrangement, modification, or any other alteration of the
+             Database or of a Substantial part of the Contents. This includes, but is not limited to,
+             Extracting or Re-utilising the whole or a Substantial part of the Contents in a new
+             Database.</p>
+          <p>&quot;Extraction&quot; &#x2013; Means the permanent or temporary transfer of all or a Substantial
+             part of the Contents to another medium by any means or in any form.</p>
+          <p>&quot;License&quot; &#x2013; Means this license agreement and is both a license of rights such as
+             copyright and Database Rights and an agreement in contract.</p>
+          <p>&quot;Licensor&quot; &#x2013; Means the Person that offers the Database under the terms of this
              License.</p>
-          <p>"Database Directive" – Means Directive 96/9/EC of the European Parliament and of the Council of
-             11 March 1996 on the legal protection of databases, as amended or succeeded.</p>
-          <p>"Database Right" – Means rights resulting from the Chapter III ("sui generis") rights in the
-             Database Directive (as amended and as transposed by member states), which includes the
-             Extraction and Re-utilisation of the whole or a Substantial part of the Contents, as well as
-             any similar rights available in the relevant jurisdiction under Section 10.4.</p>
-          <p>"Derivative Database" – Means a database based upon the Database, and includes any translation,
-             adaptation, arrangement, modification, or any other alteration of the Database or of a
-             Substantial part of the Contents. This includes, but is not limited to, Extracting or
-             Re-utilising the whole or a Substantial part of the Contents in a new Database.</p>
-          <p>"Extraction" – Means the permanent or temporary transfer of all or a Substantial part of the
-             Contents to another medium by any means or in any form.</p>
-          <p>"License" – Means this license agreement and is both a license of rights such as copyright and
-             Database Rights and an agreement in contract.</p>
-          <p>"Licensor" – Means the Person that offers the Database under the terms of this License.</p>
-          <p>"Person" – Means a natural or legal person or a body of persons corporate or incorporate.</p>
-          <p>"Produced Work" – a work (such as an image, audiovisual material, text, or sounds) resulting from
-             using the whole or a Substantial part of the Contents (via a search or other query) from this
-             Database, a Derivative Database, or this Database as part of a Collective Database.</p>
-          <p>"Publicly" – means to Persons other than You or under Your control by either more than 50%
-             ownership or by the power to direct their activities (such as contracting with an independent
-             consultant).</p>
-          <p>"Re-utilisation" – means any form of making available to the public all or a Substantial part of
-             the Contents by the distribution of copies, by renting, by online or other forms of
-             transmission.</p>
-          <p>"Substantial" – Means substantial in terms of quantity or quality or a combination of both. The
-             repeated and systematic Extraction or Re-utilisation of insubstantial parts of the Contents
-             may amount to the Extraction or Re-utilisation of a Substantial part of the Contents.</p>
-          <p>"Use" – As a verb, means doing any act that is restricted by copyright or Database Rights whether
-             in the original medium or any other; and includes without limitation distributing, copying,
-             publicly performing, publicly displaying, and preparing derivative works of the Database, as
-             well as modifying the Database as may be technically necessary to use it in a different mode
-             or format.</p>
-          <p>"You" – Means a Person exercising rights under this License who has not previously violated the
-             terms of this License with respect to the Database, or who has received express permission
-             from the Licensor to exercise rights under this License despite a previous violation.</p>
+          <p>&quot;Person&quot; &#x2013; Means a natural or legal person or a body of persons corporate or
+             incorporate.</p>
+          <p>&quot;Produced Work&quot; &#x2013; a work (such as an image, audiovisual material, text, or
+             sounds) resulting from using the whole or a Substantial part of the Contents (via a search or
+             other query) from this Database, a Derivative Database, or this Database as part of a
+             Collective Database.</p>
+          <p>&quot;Publicly&quot; &#x2013; means to Persons other than You or under Your control by either
+             more than 50% ownership or by the power to direct their activities (such as contracting with
+             an independent consultant).</p>
+          <p>&quot;Re-utilisation&quot; &#x2013; means any form of making available to the public all or a
+             Substantial part of the Contents by the distribution of copies, by renting, by online or other
+             forms of transmission.</p>
+          <p>&quot;Substantial&quot; &#x2013; Means substantial in terms of quantity or quality or a
+             combination of both. The repeated and systematic Extraction or Re-utilisation of insubstantial
+             parts of the Contents may amount to the Extraction or Re-utilisation of a Substantial part of
+             the Contents.</p>
+          <p>&quot;Use&quot; &#x2013; As a verb, means doing any act that is restricted by copyright or
+             Database Rights whether in the original medium or any other; and includes without limitation
+             distributing, copying, publicly performing, publicly displaying, and preparing derivative
+             works of the Database, as well as modifying the Database as may be technically necessary to
+             use it in a different mode or format.</p>
+          <p>&quot;You&quot; &#x2013; Means a Person exercising rights under this License who has not
+             previously violated the terms of this License with respect to the Database, or who has
+             received express permission from the Licensor to exercise rights under this License despite a
+             previous violation.</p>
           <p>Words in the singular include the plural and vice versa.</p>
         </li>
         <li>
@@ -294,9 +303,9 @@
             <p>Contains information from DATABASE NAME, which is made available here under the Open Database
                License (ODbL).</p>
             <p>DATABASE NAME should be replaced with the name of the Database and a hyperlink to the URI of
-               the Database. "Open Database License" should contain a hyperlink to the URI of the text of
-               this License. If hyperlinks are not possible, You should include the plain text of the
-               required URI's with the above notice. 4.4 Share alike.</p>
+               the Database. &quot;Open Database License&quot; should contain a hyperlink to the URI of
+               the text of this License. If hyperlinks are not possible, You should include the plain
+               text of the required URI&apos;s with the above notice. 4.4 Share alike.</p>
           </li>
           <li>
             <b>a.</b>
@@ -339,8 +348,9 @@
           <li>
             <b>e.</b>
             <p>Compatible licenses. Licensors may authorise a proxy to determine compatible licenses under
-               Section 4.4 a iii. If they do so, the authorised proxy's public statement of acceptance of
-               a compatible license grants You permission to use the compatible license.</p>
+               Section 4.4 a iii. If they do so, the authorised proxy&apos;s public statement of
+               acceptance of a compatible license grants You permission to use the compatible
+               license.</p>
           </li>
         </list>
         <li>
@@ -404,10 +414,10 @@
           <li>
             <b>b.</b>
             <p>Parallel distribution. You may impose terms or technological measures on the Database, a
-               Derivative Database, or the whole or a Substantial part of the Contents (a "Restricted
-               Database") in contravention of Section 4.74 a. only if You also make a copy of the
-               Database or a Derivative Database available to the recipient of the Restricted
-               Database:</p>
+               Derivative Database, or the whole or a Substantial part of the Contents (a
+               &quot;Restricted Database&quot;) in contravention of Section 4.74 a. only if You also make
+               a copy of the Database or a Derivative Database available to the recipient of the
+               Restricted Database:</p>
           </li>
           <list>
             <li>
@@ -418,7 +428,8 @@
               <b>ii.</b>
               <p>That is available in a medium that does not alter or restrict the terms of this License,
                  or any rights granted under it, or have the effect or intent of restricting the
-                 ability of any person to exercise those rights (an "Unrestricted Database"); and</p>
+                 ability of any person to exercise those rights (an &quot;Unrestricted Database&quot;);
+                 and</p>
             </li>
             <li>
               <b>iii.</b>
@@ -453,8 +464,8 @@
         <li>
           <b>5.1</b>
           <p>Moral rights. This section covers moral rights, including any rights to be identified as the
-             author of the Database or to object to treatment that would otherwise prejudice the author's
-             honour and reputation, or any other derogatory treatment:</p>
+             author of the Database or to object to treatment that would otherwise prejudice the
+             author&apos;s honour and reputation, or any other derogatory treatment:</p>
         </li>
         <list>
           <li>
@@ -517,9 +528,9 @@
         </li>
         <li>
           <b>7.1</b>
-          <p>The Database is licensed by the Licensor "as is" and without any warranty of any kind, either
-             express, implied, or arising by statute, custom, course of dealing, or trade usage. Licensor
-             specifically disclaims any and all implied warranties or conditions of title,
+          <p>The Database is licensed by the Licensor &quot;as is&quot; and without any warranty of any kind,
+             either express, implied, or arising by statute, custom, course of dealing, or trade usage.
+             Licensor specifically disclaims any and all implied warranties or conditions of title,
              non-infringement, accuracy or completeness, the presence or absence of errors, fitness for a
              particular purpose, merchantability, or otherwise. Some jurisdictions do not allow the
              exclusion of implied warranties, so this exclusion may not apply to You.</p>
@@ -629,351 +640,6 @@
              rights granted under applicable copyright law and Database Rights in the relevant jurisdiction
              includes additional rights not granted under this License, these additional rights are granted
              in this License in order to meet the terms of this License.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>A license of applicable copyright and neighbouring rights;</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>A license of the Database Right; and</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>An agreement in contract between You and the Licensor.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>Copyright. Any copyright or neighbouring rights in the Database. The copyright licensed includes
-             any individual elements of the Database, but does not cover the copyright over the Contents
-             independent of this Database. See Section 2.4 for details. Copyright law varies between
-             jurisdictions, but is likely to cover: the Database model or schema, which is the structure,
-             arrangement, and organisation of the Database, and can also include the Database tables and
-             table indexes; the data entry and output sheets; and the Field names of Contents stored in the
-             Database;</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>Database Rights. Database Rights only extend to the Extraction and Re-utilisation of the whole or
-             a Substantial part of the Contents. Database Rights can apply even when there is no copyright
-             over the Database. Database Rights can also apply when the Contents are removed from the
-             Database and are selected and arranged in a way that would not infringe any applicable
-             copyright; and</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>Contract. This is an agreement between You and the Licensor for access to the Database. In return
-             you agree to certain conditions of use on this access as outlined in this License.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>This License does not apply to computer programs used in the making or operation of the Database;</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>This License does not cover any patents over the Contents or the Database; and</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>This License does not cover any trademarks associated with the Database.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>Extraction and Re-utilisation of the whole or a Substantial part of the Contents;</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>Creation of Derivative Databases;</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>Creation of Collective Databases;</p>
-        </li>
-        <li>
-          <b>d.</b>
-          <p>Creation of temporary or permanent reproductions by any means and in any form, in whole or in
-             part, including of any Derivative Databases or as a part of Collective Databases; and</p>
-        </li>
-        <li>
-          <b>e.</b>
-          <p>Distribution, communication, display, lending, making available, or performance to the public by
-             any means and in any form, in whole or in part, including of any Derivative Database or as a
-             part of Collective Databases.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>Non-waivable compulsory license schemes. In those jurisdictions in which the right to collect
-             royalties through any statutory or compulsory licensing scheme cannot be waived, the Licensor
-             reserves the exclusive right to collect such royalties for any exercise by You of the rights
-             granted under this License;</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>Waivable compulsory license schemes. In those jurisdictions in which the right to collect
-             royalties through any statutory or compulsory licensing scheme can be waived, the Licensor
-             waives the exclusive right to collect such royalties for any exercise by You of the rights
-             granted under this License; and,</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>Voluntary license schemes. The Licensor waives the right to collect royalties, whether
-             individually or, in the event that the Licensor is a member of a collecting society that
-             administers voluntary licensing schemes, via that society, from any exercise by You of the
-             rights granted under this License.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>Do so only under the terms of this License or another license permitted under Section 4.4;</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>Include a copy of this License (or, as applicable, a license permitted under Section 4.4) or its
-             Uniform Resource Identifier (URI) with the Database or Derivative Database, including both in
-             the Database or Derivative Database and in any relevant documentation; and</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>Keep intact any copyright or Database Right notices and notices that refer to this License.</p>
-        </li>
-        <li>
-          <b>d.</b>
-          <p>If it is not possible to put the required notices in a particular file due to its structure, then
-             You must include the notices in a location (such as a relevant directory) where users would be
-             likely to look for it.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>Example notice. The following text will satisfy notice under Section 4.3:</p>
-          <p>Contains information from DATABASE NAME, which is made available here under the Open Database
-             License (ODbL).</p>
-          <p>DATABASE NAME should be replaced with the name of the Database and a hyperlink to the URI of the
-             Database. "Open Database License" should contain a hyperlink to the URI of the text of this
-             License. If hyperlinks are not possible, You should include the plain text of the required
-             URI's with the above notice. 4.4 Share alike.</p>
-        </li>
-        <li>
-          <b>a.</b>
-          <p>Any Derivative Database that You Publicly Use must be only under the terms of:</p>
-        </li>
-        <list>
-          <li>
-            <b>i.</b>
-            <p>This License;</p>
-          </li>
-          <li>
-            <b>ii.</b>
-            <p>A later version of this License similar in spirit to this License; or</p>
-          </li>
-          <li>
-            <b>iii.</b>
-            <p>A compatible license.</p>
-            <p>If You license the Derivative Database under one of the licenses mentioned in (iii), You must
-               comply with the terms of that license.</p>
-          </li>
-        </list>
-        <li>
-          <b>b.</b>
-          <p>For the avoidance of doubt, Extraction or Re-utilisation of the whole or a Substantial part of
-             the Contents into a new database is a Derivative Database and must comply with Section
-             4.4.</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>Derivative Databases and Produced Works. A Derivative Database is Publicly Used and so must
-             comply with Section 4.4. if a Produced Work created from the Derivative Database is Publicly
-             Used.</p>
-        </li>
-        <li>
-          <b>d.</b>
-          <p>Share Alike and additional Contents. For the avoidance of doubt, You must not add Contents to
-             Derivative Databases under Section 4.4 a that are incompatible with the rights granted under
-             this License.</p>
-        </li>
-        <li>
-          <b>e.</b>
-          <p>Compatible licenses. Licensors may authorise a proxy to determine compatible licenses under
-             Section 4.4 a iii. If they do so, the authorised proxy's public statement of acceptance of a
-             compatible license grants You permission to use the compatible license.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>i.</b>
-          <p>This License;</p>
-        </li>
-        <li>
-          <b>ii.</b>
-          <p>A later version of this License similar in spirit to this License; or</p>
-        </li>
-        <li>
-          <b>iii.</b>
-          <p>A compatible license.</p>
-          <p>If You license the Derivative Database under one of the licenses mentioned in (iii), You must
-             comply with the terms of that license.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>For the avoidance of doubt, You are not required to license Collective Databases under this
-             License if You incorporate this Database or a Derivative Database in the collection, but this
-             License still applies to this Database or a Derivative Database as a part of the Collective
-             Database;</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>Using this Database, a Derivative Database, or this Database as part of a Collective Database to
-             create a Produced Work does not create a Derivative Database for purposes of Section 4.4;
-             and</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>Use of a Derivative Database internally within an organisation is not to the public and therefore
-             does not fall under the requirements of Section 4.4.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>The entire Derivative Database; or</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>A file containing all of the alterations made to the Database or the method of making the
-             alterations to the Database (such as an algorithm), including any additional Contents, that
-             make up all the differences between the Database and the Derivative Database.</p>
-          <p>The Derivative Database (under a.) or alteration file (under b.) must be available at no more
-             than a reasonable production cost for physical distributions and free of charge if distributed
-             over the internet.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>This License does not allow You to impose (except subject to Section 4.7 b.) any terms or any
-             technological measures on the Database, a Derivative Database, or the whole or a Substantial
-             part of the Contents that alter or restrict the terms of this License, or any rights granted
-             under it, or have the effect or intent of restricting the ability of any person to exercise
-             those rights.</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>Parallel distribution. You may impose terms or technological measures on the Database, a
-             Derivative Database, or the whole or a Substantial part of the Contents (a "Restricted
-             Database") in contravention of Section 4.74 a. only if You also make a copy of the Database or
-             a Derivative Database available to the recipient of the Restricted Database:</p>
-        </li>
-        <list>
-          <li>
-            <b>i.</b>
-            <p>That is available without additional fee;</p>
-          </li>
-          <li>
-            <b>ii.</b>
-            <p>That is available in a medium that does not alter or restrict the terms of this License, or
-               any rights granted under it, or have the effect or intent of restricting the ability of
-               any person to exercise those rights (an "Unrestricted Database"); and</p>
-          </li>
-          <li>
-            <b>iii.</b>
-            <p>The Unrestricted Database is at least as accessible to the recipient as a practical matter as
-               the Restricted Database.</p>
-          </li>
-        </list>
-        <li>
-          <b>c.</b>
-          <p>For the avoidance of doubt, You may place this Database or a Derivative Database in an
-             authenticated environment, behind a password, or within a similar access control scheme
-             provided that You do not alter or restrict the terms of this License or any rights granted
-             under it or have the effect or intent of restricting the ability of any person to exercise
-             those rights.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>i.</b>
-          <p>That is available without additional fee;</p>
-        </li>
-        <li>
-          <b>ii.</b>
-          <p>That is available in a medium that does not alter or restrict the terms of this License, or any
-             rights granted under it, or have the effect or intent of restricting the ability of any person
-             to exercise those rights (an "Unrestricted Database"); and</p>
-        </li>
-        <li>
-          <b>iii.</b>
-          <p>The Unrestricted Database is at least as accessible to the recipient as a practical matter as the
-             Restricted Database.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>For jurisdictions allowing waiver of moral rights, Licensor waives all moral rights that Licensor
-             may have in the Database to the fullest extent possible by the law of the relevant
-             jurisdiction under Section 10.4;</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>If waiver of moral rights under Section 5.1 a in the relevant jurisdiction is not possible,
-             Licensor agrees not to assert any moral rights over the Database and waives all claims in
-             moral rights to the fullest extent possible by the law of the relevant jurisdiction under
-             Section 10.4; and</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>For jurisdictions not allowing waiver or an agreement not to assert moral rights under Section
-             5.1 a and b, the author may retain their moral rights over certain aspects of the
-             Database.</p>
-          <p>Please note that some jurisdictions do not allow for the waiver of moral rights, and so moral
-             rights may still subsist over the Database in some jurisdictions.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>Exceptions to the Database Right including: Extraction of Contents from non-electronic Databases
-             for private purposes, Extraction for purposes of illustration for teaching or scientific
-             research, and Extraction or Re-utilisation for public security or an administrative or
-             judicial procedure.</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>Fair dealing, fair use, or any other legally recognised limitation or exception to infringement
-             of copyright or other applicable laws.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>Provisionally and subject to permanent termination until the 60th day after cessation of breach;</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>Permanently on the 60th day after cessation of breach unless otherwise reasonably notified by the
-             Licensor; or</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>Permanently if reasonably notified by the Licensor of the violation, this is the first time You
-             have received notice of violation of this License from the Licensor, and You cure the
-             violation prior to 30 days after your receipt of the notice.</p>
-          <p>Persons subject to permanent termination of rights are not eligible to be a recipient and receive
-             a license under Section 4.8.</p>
         </li>
       </list>
     </body>
