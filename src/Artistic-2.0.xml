@@ -1,4 +1,4 @@
-<SPDX name="Artistic License 2.0" identifier="Artistic-2.0" osi-approved="true">
+<spdx name="Artistic License 2.0" identifier="Artistic-2.0" osi-approved="true">
   <urls>
     <url>http://www.perlfoundation.org/artistic_license_2_0 </url>
     <url>http://www.opensource.org/licenses/artistic-license-2.0</url>
@@ -26,27 +26,29 @@
     </optional>
     <body>
       <p>Definitions</p>
-      <p>"Copyright Holder" means the individual(s) or organization(s) named in the copyright notice for the
-         entire Package.</p>
-      <p>"Contributor" means any party that has contributed code or other material to the Package, in accordance
-         with the Copyright Holder's procedures.</p>
-      <p>"You" and "your" means any person who would like to copy, distribute, or modify the Package.</p>
-      <p>"Package" means the collection of files distributed by the Copyright Holder, and derivatives of that
-         collection and/or of those files. A given Package may consist of either the Standard Version, or a
-         Modified Version.</p>
-      <p>"Distribute" means providing a copy of the Package or making it accessible to anyone else, or in the case
-         of a company or organization, to others outside of your company or organization.</p>
-      <p>"Distributor Fee" means any fee that you charge for Distributing this Package or providing support for
-         this Package to another party. It does not mean licensing fees.</p>
-      <p>"Standard Version" refers to the Package if it has not been modified, or has been modified only in ways
+      <p>&quot;Copyright Holder&quot; means the individual(s) or organization(s) named in the copyright notice for
+         the entire Package.</p>
+      <p>&quot;Contributor&quot; means any party that has contributed code or other material to the Package, in
+         accordance with the Copyright Holder&apos;s procedures.</p>
+      <p>&quot;You&quot; and &quot;your&quot; means any person who would like to copy, distribute, or modify the
+         Package.</p>
+      <p>&quot;Package&quot; means the collection of files distributed by the Copyright Holder, and derivatives of
+         that collection and/or of those files. A given Package may consist of either the Standard Version, or
+         a Modified Version.</p>
+      <p>&quot;Distribute&quot; means providing a copy of the Package or making it accessible to anyone else, or
+         in the case of a company or organization, to others outside of your company or organization.</p>
+      <p>&quot;Distributor Fee&quot; means any fee that you charge for Distributing this Package or providing
+         support for this Package to another party. It does not mean licensing fees.</p>
+      <p>&quot;Standard Version&quot; refers to the Package if it has not been modified, or has been modified only
+         in ways explicitly requested by the Copyright Holder.</p>
+      <p>&quot;Modified Version&quot; means the Package, if it has been changed, and such changes were not
          explicitly requested by the Copyright Holder.</p>
-      <p>"Modified Version" means the Package, if it has been changed, and such changes were not explicitly
-         requested by the Copyright Holder.</p>
-      <p>"Original License" means this Artistic License as Distributed with the Standard Version of the Package,
-         in its current version or as it may be modified by The Perl Foundation in the future.</p>
-      <p>"Source" form means the source code, documentation source, and configuration files for the Package.</p>
-      <p>"Compiled" form means the compiled bytecode, object code, binary, or any other form resulting from
-         mechanical transformation or translation of the Source form.</p>
+      <p>&quot;Original License&quot; means this Artistic License as Distributed with the Standard Version of the
+         Package, in its current version or as it may be modified by The Perl Foundation in the future.</p>
+      <p>&quot;Source&quot; form means the source code, documentation source, and configuration files for the
+         Package.</p>
+      <p>&quot;Compiled&quot; form means the compiled bytecode, object code, binary, or any other form resulting
+         from mechanical transformation or translation of the Source form.</p>
       <p>Permission for Use and Modification Without Distribution</p>
       <list>
         <li>
@@ -183,60 +185,12 @@
           <p>Disclaimer of Warranty:</p>
         </li>
       </list>
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>make the Modified Version available to the Copyright Holder of the Standard Version, under the
-             Original License, so that the Copyright Holder may include your modifications in the Standard
-             Version.</p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>ensure that installation of your Modified Version does not prevent the user installing or running
-             the Standard Version. In addition, the Modified Version must bear a name that is different
-             from the name of the Standard Version.</p>
-        </li>
-        <li>
-          <b>(c)</b>
-          <p>allow anyone who receives a copy of the Modified Version to make the Source form of the Modified
-             Version available to others under</p>
-        </li>
-        <list>
-          <li>
-            <b>(i)</b>
-            <p>the Original License or</p>
-          </li>
-          <li>
-            <b>(ii)</b>
-            <p>a license that permits the licensee to freely copy, modify and redistribute the Modified
-               Version using the same licensing terms that apply to the copy that the licensee received,
-               and requires that the Source form of the Modified Version, and of any works derived from
-               it, be made freely available in that license fees are prohibited but Distributor Fees are
-               allowed.</p>
-            <p>Distribution of Compiled Forms of the Standard Version or Modified Versions without the Source</p>
-          </li>
-        </list>
-      </list>
-      <list>
-        <li>
-          <b>(i)</b>
-          <p>the Original License or</p>
-        </li>
-        <li>
-          <b>(ii)</b>
-          <p>a license that permits the licensee to freely copy, modify and redistribute the Modified Version
-             using the same licensing terms that apply to the copy that the licensee received, and requires
-             that the Source form of the Modified Version, and of any works derived from it, be made freely
-             available in that license fees are prohibited but Distributor Fees are allowed.</p>
-          <p>Distribution of Compiled Forms of the Standard Version or Modified Versions without the Source</p>
-        </li>
-      </list>
-      <p>THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS IS' AND WITHOUT ANY EXPRESS OR
-         IMPLIED WARRANTIES. THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
-         NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL LAW. UNLESS REQUIRED BY LAW, NO
-         COPYRIGHT HOLDER OR CONTRIBUTOR WILL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
-         DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
-         DAMAGE.</p>
+      <p>THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS &quot;AS IS&apos; AND WITHOUT ANY
+         EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+         PURPOSE, OR NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL LAW. UNLESS REQUIRED
+         BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR
+         CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF ADVISED OF THE
+         POSSIBILITY OF SUCH DAMAGE.</p>
     </body>
   </license>
 </SPDX>
