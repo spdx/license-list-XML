@@ -1,5 +1,5 @@
 <!-- REVIEW -->
-<SPDX name="NRL License" identifier="NRL" osi-approved="false">
+<spdx name="NRL License" identifier="NRL" osi-approved="false">
   <urls>
     <url>http://web.mit.edu/network/isakmp/nrllicense.html</url>
   </urls>
@@ -65,44 +65,13 @@
           </li>
         </list>
       </list>
-      <list>
-        <li>
-          <b>1.</b>
-          <p>All terms of the UC Berkeley copyright and license must be followed.</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>Redistributions of source code must retain the above copyright notice, this list of conditions
-             and the following disclaimer.</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
-             and the following disclaimer in the documentation and/or other materials provided with the
-             distribution.</p>
-        </li>
-        <li>
-          <b>4.</b>
-          <p>All advertising materials mentioning features or use of this software must display the following
-             acknowledgements:</p>
-          <p>This product includes software developed by the University of California, Berkeley and its
-             contributors.</p>
-          <p>This product includes software developed at the Information Technology Division, US Naval
-             Research Laboratory.</p>
-        </li>
-        <li>
-          <b>5.</b>
-          <p>Neither the name of the NRL nor the names of its contributors may be used to endorse or promote
-             products derived from this software without specific prior written permission.</p>
-        </li>
-      </list>
-      <p>THE SOFTWARE PROVIDED BY NRL IS PROVIDED BY NRL AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED
-         WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
-         PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL NRL OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
-         INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-         PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-         HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-         (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+      <p>THE SOFTWARE PROVIDED BY NRL IS PROVIDED BY NRL AND CONTRIBUTORS ``AS IS&apos;&apos; AND ANY EXPRESS OR
+         IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+         FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL NRL OR CONTRIBUTORS BE LIABLE FOR
+         ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+         LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+         INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+         TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
          ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
       <p>The views and conclusions contained in the software and documentation are those of the authors and should
          not be interpreted as representing official policies, either expressed or implied, of the US Naval
