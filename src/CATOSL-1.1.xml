@@ -1,4 +1,4 @@
-<SPDX name="Computer Associates Trusted Open Source License 1.1" identifier="CATOSL-1.1" osi-approved="true">
+<spdx name="Computer Associates Trusted Open Source License 1.1" identifier="CATOSL-1.1" osi-approved="true">
   <urls>
     <url>http://opensource.org/licenses/CATOSL-1.1</url>
   </urls>
@@ -10,9 +10,9 @@
     </title>
     <optional>
       <p>PLEASE READ THIS DOCUMENT CAREFULLY AND IN ITS ENTIRETY. THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE
-         TERMS OF THIS COMPUTER ASSOCIATES TRUSTED OPEN SOURCE LICENSE ("LICENSE"). ANY USE, REPRODUCTION,
-         MODIFICATION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES THE RECIPIENT'S ACCEPTANCE OF THIS
-         LICENSE.</p>
+         TERMS OF THIS COMPUTER ASSOCIATES TRUSTED OPEN SOURCE LICENSE (&quot;LICENSE&quot;). ANY USE,
+         REPRODUCTION, MODIFICATION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES THE RECIPIENT&apos;S ACCEPTANCE
+         OF THIS LICENSE.</p>
       <p>License Background</p>
       <p>Computer Associates International, Inc. (CA) believes in open source. We believe that the open source
          development approach can take appropriate software programs to unprecedented levels of quality,
@@ -398,8 +398,8 @@
           <b>11.5</b>
           <p>Where Recipient is located in the province of Quebec, Canada, the following clause applies: The
              parties hereby confirm that they have requested that this License and all related documents be
-             drafted in English. Les parties contractantes confirment qu'elles ont exige que le present
-             contrat et tous les documents associes soient rediges en anglais.</p>
+             drafted in English. Les parties contractantes confirment qu&apos;elles ont exige que le
+             present contrat et tous les documents associes soient rediges en anglais.</p>
         </li>
         <li>
           <b>11.6</b>
@@ -413,76 +413,6 @@
           <b>11.7</b>
           <p>This License constitutes the entire agreement between the parties with respect to the subject
              matter hereof.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>*</b>
-          <p>it complies with the terms and conditions of this License; and</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>its license agreement:</p>
-        </li>
-        <list>
-          <li>
-            <b>*</b>
-            <p>effectively disclaims on behalf of all Contributors all warranties and conditions, express
-               and implied, including warranties or conditions of title and non-infringement, and implied
-               warranties or conditions of merchantability and fitness for a particular purpose, to the
-               maximum extent permitted by applicable law;</p>
-          </li>
-          <li>
-            <b>*</b>
-            <p>effectively excludes on behalf of all Contributors all liability for damages, including
-               direct, indirect, special, incidental and consequential damages, such as lost profits, to
-               the maximum extent permitted by applicable law;</p>
-          </li>
-          <li>
-            <b>*</b>
-            <p>states that any provisions which are inconsistent with this License are offered by that
-               Contributor alone and not by any other party; and</p>
-          </li>
-          <li>
-            <b>*</b>
-            <p>states that source code for the Program is available from such Contributor at the cost of
-               distribution, and informs licensees how to obtain it in a reasonable manner.</p>
-          </li>
-        </list>
-      </list>
-      <list>
-        <li>
-          <b>*</b>
-          <p>effectively disclaims on behalf of all Contributors all warranties and conditions, express and
-             implied, including warranties or conditions of title and non-infringement, and implied
-             warranties or conditions of merchantability and fitness for a particular purpose, to the
-             maximum extent permitted by applicable law;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>effectively excludes on behalf of all Contributors all liability for damages, including direct,
-             indirect, special, incidental and consequential damages, such as lost profits, to the maximum
-             extent permitted by applicable law;</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>states that any provisions which are inconsistent with this License are offered by that
-             Contributor alone and not by any other party; and</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>states that source code for the Program is available from such Contributor at the cost of
-             distribution, and informs licensees how to obtain it in a reasonable manner.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>*</b>
-          <p>it must be made available under this License; and</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>a copy of this License must be included with each copy of the Program.</p>
         </li>
       </list>
     </body>
