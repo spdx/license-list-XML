@@ -1,4 +1,4 @@
-<SPDX name="CeCILL Free Software License Agreement v1.1" identifier="CECILL-1.1" osi-approved="false">
+<spdx name="CeCILL Free Software License Agreement v1.1" identifier="CECILL-1.1" osi-approved="false">
   <urls>
     <url>http://www.cecill.info/licences/Licence_CeCILL_V1.1-US.html</url>
   </urls>
@@ -27,9 +27,9 @@
       </list>
       <p>The following bodies are the authors of this license CeCILL (Ce : CEA, C : CNRS, I : INRIA, LL : Logiciel
          Libre):</p>
-      <p>Commissariat à l'Energie Atomique - CEA, a public scientific, technical and industrial establishment,
-         having its principal place of business at 31-33 rue de la Fédération, 75752 PARIS cedex 15,
-         France.</p>
+      <p>Commissariat &#xE0; l&apos;Energie Atomique - CEA, a public scientific, technical and industrial
+         establishment, having its principal place of business at 31-33 rue de la F&#xE9;d&#xE9;ration, 75752
+         PARIS cedex 15, France.</p>
       <p>Centre National de la Recherche Scientifique - CNRS, a public scientific and technological establishment,
          having its principal place of business at 3 rue Michel-Ange 75794 Paris cedex 16, France.</p>
       <p>Institut National de Recherche en Informatique et en Automatique - INRIA, a public scientific and
@@ -37,21 +37,21 @@
          Rocquencourt, BP 105, 78153 Le Chesnay cedex.</p>
       <p>PREAMBLE</p>
       <p>The purpose of this Free Software Licensing Agreement is to grant users the right to modify and
-         redistribute the software governed by this license within the framework of an "open source"
+         redistribute the software governed by this license within the framework of an &quot;open source&quot;
          distribution model.</p>
       <p>The exercising of these rights is conditional upon certain obligations for users so as to ensure that
          this status is retained for subsequent redistribution operations.</p>
       <p>As a counterpart to the access to the source code and rights to copy, modify and redistribute granted by
-         the license, users are provided only with a limited warranty and the software's author, the holder of
-         the economic rights, and the successive licensors only have limited liability.</p>
-      <p>In this respect, it is brought to the user's attention that the risks associated with loading, using,
-         modifying and/or developing or reproducing the software by the user given its nature of Free Software,
-         that may mean that it is complicated to manipulate, and that also therefore means that it is reserved
-         for developers and experienced professionals having in-depth computer knowledge. Users are therefore
-         encouraged to load and test the Software's suitability as regards their requirements in conditions
-         enabling the security of their systems and/or data to be ensured and, more generally, to use and
-         operate it in the same conditions of security. This Agreement may be freely reproduced and published,
-         provided it is not altered, and that no Articles are either added or removed herefrom.</p>
+         the license, users are provided only with a limited warranty and the software&apos;s author, the
+         holder of the economic rights, and the successive licensors only have limited liability.</p>
+      <p>In this respect, it is brought to the user&apos;s attention that the risks associated with loading,
+         using, modifying and/or developing or reproducing the software by the user given its nature of Free
+         Software, that may mean that it is complicated to manipulate, and that also therefore means that it is
+         reserved for developers and experienced professionals having in-depth computer knowledge. Users are
+         therefore encouraged to load and test the Software&apos;s suitability as regards their requirements in
+         conditions enabling the security of their systems and/or data to be ensured and, more generally, to
+         use and operate it in the same conditions of security. This Agreement may be freely reproduced and
+         published, provided it is not altered, and that no Articles are either added or removed herefrom.</p>
       <p>This Agreement may apply to any or all software for which the holder of the economic rights decides to
          submit the operation thereof to its provisions.</p>
     </optional>
@@ -61,13 +61,13 @@
          shall have the following meaning:</p>
       <p>Agreement: means this Licensing Agreement, and any or all of its subsequent versions.</p>
       <p>Software: means the software in its Object Code and/or Source Code form and, where applicable, its
-         documentation, "as is" at the time when the Licensee accepts the Agreement.</p>
+         documentation, &quot;as is&quot; at the time when the Licensee accepts the Agreement.</p>
       <p>Initial Software: means the Software in its Source Code and/or Object Code form and, where applicable,
-         its documentation, "as is" at the time when it is distributed for the first time under the terms and
-         conditions of the Agreement.</p>
+         its documentation, &quot;as is&quot; at the time when it is distributed for the first time under the
+         terms and conditions of the Agreement.</p>
       <p>Modified Software: means the Software modified by at least one Contribution.</p>
-      <p>Source Code: means all the Software's instructions and program lines to which access is required so as to
-         modify the Software.</p>
+      <p>Source Code: means all the Software&apos;s instructions and program lines to which access is required so
+         as to modify the Software.</p>
       <p>Object Code: means the binary files originating from the compilation of the Source Code.</p>
       <p>Holder: means the holder of the economic rights over the Initial Software.</p>
       <p>Licensee(s): mean(s) the Software user(s) having accepted the Agreement.</p>
@@ -191,13 +191,13 @@
           </li>
           <li>
             <b>2.</b>
-            <p>a notice relating to the limitation of both the Licensor's warranty and liability as set
+            <p>a notice relating to the limitation of both the Licensor&apos;s warranty and liability as set
                forth in Articles 8 and 9,</p>
-            <p>and that, in the event that only the Software's Object Code is redistributed, the Licensee
-               allows future Licensees unhindered access to the Software's full Source Code by providing
-               them with the terms and conditions for access thereto, it being understood that the
-               additional cost of acquiring the Source Code shall not exceed the cost of transferring the
-               data.</p>
+            <p>and that, in the event that only the Software&apos;s Object Code is redistributed, the
+               Licensee allows future Licensees unhindered access to the Software&apos;s full Source Code
+               by providing them with the terms and conditions for access thereto, it being understood
+               that the additional cost of acquiring the Source Code shall not exceed the cost of
+               transferring the data.</p>
             <p>5.3.2. REDISTRIBUTION OF MODIFIED SOFTWARE</p>
             <p>When the Licensee makes a Contribution to the Software, the terms and conditions for the
                redistribution of the Modified Software shall then be subject to all the provisions
@@ -212,13 +212,13 @@
           </li>
           <li>
             <b>2.</b>
-            <p>a notice relating to the limitation of both the Licensor's warranty and liability as set
+            <p>a notice relating to the limitation of both the Licensor&apos;s warranty and liability as set
                forth in Articles 8 and 9,</p>
-            <p>and that, in the event that only the Modified Software's Object Code is redistributed, the
-               Licensee allows future Licensees unhindered access to the Modified Software's full Source
-               Code by providing them with the terms and conditions for access thereto, it being
-               understood that the additional cost of acquiring the Source Code shall not exceed the cost
-               of transferring the data.</p>
+            <p>and that, in the event that only the Modified Software&apos;s Object Code is redistributed,
+               the Licensee allows future Licensees unhindered access to the Modified Software&apos;s
+               full Source Code by providing them with the terms and conditions for access thereto, it
+               being understood that the additional cost of acquiring the Source Code shall not exceed
+               the cost of transferring the data.</p>
             <p>5.3.3. redistribution OF DYNAMIC MODULES</p>
             <p>When the Licensee has developed a Dynamic Module, the terms and conditions hereof do not
                apply to said Dynamic Module, that may be distributed under a separate Licensing
@@ -272,9 +272,9 @@
             <b>2.</b>
             <p>to reproduce said notices, in an identical manner, in the copies of the Software.</p>
             <p>6.4.2. The Licensee undertakes not to directly or indirectly infringe the intellectual
-               property rights of the Holder and/or Contributors and to take, where applicable, vis-à-vis
-               its staff, any or all measures required to ensure respect for said intellectual property
-               rights of the Holder and/or Contributors.</p>
+               property rights of the Holder and/or Contributors and to take, where applicable,
+               vis-&#xE0;-vis its staff, any or all measures required to ensure respect for said
+               intellectual property rights of the Holder and/or Contributors.</p>
             <p>Article 7 - RELATED SERVICES</p>
           </li>
         </list>
@@ -305,13 +305,13 @@
         </li>
         <li>
           <b>8.2.</b>
-          <p>The Licensor's liability is limited to the commitments made under this Licensing Agreement and
-             shall not be incurred as a result , in particular: (i) of loss due the Licensee's total or
-             partial failure to fulfill its obligations, (ii) direct or consequential loss due to the
-             Software's use or performance that is suffered by the Licensee, when the latter is a
+          <p>The Licensor&apos;s liability is limited to the commitments made under this Licensing Agreement
+             and shall not be incurred as a result , in particular: (i) of loss due the Licensee&apos;s
+             total or partial failure to fulfill its obligations, (ii) direct or consequential loss due to
+             the Software&apos;s use or performance that is suffered by the Licensee, when the latter is a
              professional using said Software for professional purposes and (iii) consequential loss due to
-             the Software's use or performance. The Parties expressly agree that any or all pecuniary or
-             business loss (i.e. loss of data, loss of profits, operating loss, loss of customers or
+             the Software&apos;s use or performance. The Parties expressly agree that any or all pecuniary
+             or business loss (i.e. loss of data, loss of profits, operating loss, loss of customers or
              orders, opportunity cost, any disturbance to business activities) or any or all legal
              proceedings instituted against the Licensee by a third party, shall constitute consequential
              loss and shall not provide entitlement to any or all compensation from the Licensor.</p>
@@ -322,11 +322,12 @@
           <p>The Licensee acknowledges that the current situation as regards scientific and technical know-how
              at the time when the Software was distributed did not enable all possible uses to be tested
              and verified, nor for the presence of any or all faults to be detected. In this respect, the
-             Licensee's attention has been drawn to the risks associated with loading, using, modifying
-             and/or developing and reproducing the Software that are reserved for experienced users.</p>
-          <p>The Licensee shall be responsible for verifying, by any or all means, the product's suitability
-             for its requirements, its due and proper functioning, and for ensuring that it shall not cause
-             damage to either persons or property.</p>
+             Licensee&apos;s attention has been drawn to the risks associated with loading, using,
+             modifying and/or developing and reproducing the Software that are reserved for experienced
+             users.</p>
+          <p>The Licensee shall be responsible for verifying, by any or all means, the product&apos;s
+             suitability for its requirements, its due and proper functioning, and for ensuring that it
+             shall not cause damage to either persons or property.</p>
         </li>
         <li>
           <b>9.2.</b>
@@ -336,13 +337,14 @@
         </li>
         <li>
           <b>9.3.</b>
-          <p>The Licensee acknowledges that the Software is supplied "as is" by the Licensor without any or
-             all other express or tacit warranty, other than that provided for in Article 9.2 and, in
-             particular, without any or all warranty as to its market value, its secured, innovative or
+          <p>The Licensee acknowledges that the Software is supplied &quot;as is&quot; by the Licensor without
+             any or all other express or tacit warranty, other than that provided for in Article 9.2 and,
+             in particular, without any or all warranty as to its market value, its secured, innovative or
              relevant nature.</p>
           <p>Specifically, the Licensor does not warrant that the Software is free from any or all error, that
-             it shall operate continuously, that it shall be compatible with the Licensee's own equipment
-             and its software configuration, nor that it shall meet the Licensee's requirements.</p>
+             it shall operate continuously, that it shall be compatible with the Licensee&apos;s own
+             equipment and its software configuration, nor that it shall meet the Licensee&apos;s
+             requirements.</p>
         </li>
         <li>
           <b>9.4.</b>
@@ -354,9 +356,9 @@
              the Licensee, the Licensor shall provide it with technical and legal assistance for its
              defense. Such technical and legal assistance shall be decided upon on a case-by-case basis
              between the relevant Licensor and the Licensee pursuant to a memorandum of understanding. The
-             Licensor disclaims any or all liability as regards the Licensee's use of the Software's name.
-             No warranty shall be provided as regards the existence of prior rights over the name of the
-             Software and as regards the existence of a trademark.</p>
+             Licensor disclaims any or all liability as regards the Licensee&apos;s use of the
+             Software&apos;s name. No warranty shall be provided as regards the existence of prior rights
+             over the name of the Software and as regards the existence of a trademark.</p>
           <p>Article 10 - TERMINATION</p>
         </li>
         <li>
@@ -442,99 +444,6 @@
           <p>In the absence of an out-of-court settlement within two (2) months as from their occurrence, and
              unless emergency proceedings are necessary, the disagreements or disputes shall be referred to
              the Paris Courts having jurisdiction, by the first Party to take action.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>(i)</b>
-          <p>loading the Software by any or all means, notably, by downloading from a remote server, or by
-             loading from a physical medium;</p>
-        </li>
-        <li>
-          <b>(ii)</b>
-          <p>the first time the Licensee exercises any of the rights granted hereunder.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>1.</b>
-          <p>permanent or temporary reproduction of all or part of the Software by any or all means and in any
-             or all form.</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>loading, displaying, running, or storing the Software on any or all medium.</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>entitlement to observe, study or test the operation thereof so as to establish the ideas and
-             principles that form the basis for any or all constituent elements of said Software. This
-             shall apply when the Licensee carries out any or all loading, displaying, running,
-             transmission or storage operation as regards the Software, that it is entitled to carry out
-             hereunder.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>1.</b>
-          <p>a copy of the Agreement,</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>a notice relating to the limitation of both the Licensor's warranty and liability as set forth in
-             Articles 8 and 9,</p>
-          <p>and that, in the event that only the Software's Object Code is redistributed, the Licensee allows
-             future Licensees unhindered access to the Software's full Source Code by providing them with
-             the terms and conditions for access thereto, it being understood that the additional cost of
-             acquiring the Source Code shall not exceed the cost of transferring the data.</p>
-          <p>5.3.2. REDISTRIBUTION OF MODIFIED SOFTWARE</p>
-          <p>When the Licensee makes a Contribution to the Software, the terms and conditions for the
-             redistribution of the Modified Software shall then be subject to all the provisions
-             hereof.</p>
-          <p>The Licensee is authorized to redistribute the Modified Software, in Source Code or Object Code
-             form, provided that said redistribution complies with all the provisions of the Agreement and
-             is accompanied by:</p>
-        </li>
-        <li>
-          <b>1.</b>
-          <p>a copy of the Agreement,</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>a notice relating to the limitation of both the Licensor's warranty and liability as set forth in
-             Articles 8 and 9,</p>
-          <p>and that, in the event that only the Modified Software's Object Code is redistributed, the
-             Licensee allows future Licensees unhindered access to the Modified Software's full Source Code
-             by providing them with the terms and conditions for access thereto, it being understood that
-             the additional cost of acquiring the Source Code shall not exceed the cost of transferring the
-             data.</p>
-          <p>5.3.3. redistribution OF DYNAMIC MODULES</p>
-          <p>When the Licensee has developed a Dynamic Module, the terms and conditions hereof do not apply to
-             said Dynamic Module, that may be distributed under a separate Licensing Agreement.</p>
-          <p>5.3.4. COMPATIBILITY WITH THE GPL LICENSE</p>
-          <p>In the event that the Modified or unmodified Software is included in a code that is subject to
-             the provisions of the GPL License, the Licensee is authorized to redistribute the whole under
-             the GPL License.</p>
-          <p>In the event that the Modified Software includes a code that is subject to the provisions of the
-             GPL License, the Licensee is authorized to redistribute the Modified Software under the GPL
-             License.</p>
-          <p>Article 6 - INTELLECTUAL PROPERTY</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>1.</b>
-          <p>not to remove, or modify, in any or all manner, the intellectual property notices affixed to the
-             Software;</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>to reproduce said notices, in an identical manner, in the copies of the Software.</p>
-          <p>6.4.2. The Licensee undertakes not to directly or indirectly infringe the intellectual property
-             rights of the Holder and/or Contributors and to take, where applicable, vis-à-vis its staff,
-             any or all measures required to ensure respect for said intellectual property rights of the
-             Holder and/or Contributors.</p>
-          <p>Article 7 - RELATED SERVICES</p>
         </li>
       </list>
     </body>
