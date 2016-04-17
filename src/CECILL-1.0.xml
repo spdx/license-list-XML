@@ -13,21 +13,6 @@
              respect de deux grands principes préside à sa rédaction: 
       </p>
       <list>
-        <list>
-          <li>
-            <b>•</b>
-            <p>d’une part, sa conformité au droit français, tant au regard du droit de la responsabilité
-               civile que du droit de la propriété intellectuelle et de la protection qu’il offre aux
-               auteurs et titulaires des droits patrimoniaux sur un logiciel.</p>
-          </li>
-          <li>
-            <b>•</b>
-            <p>d’autre part, le respect des principes de diffusion des logiciels libres: accès au code
-               source, droits étendus conférés aux utilisateurs.</p>
-          </li>
-        </list>
-      </list>
-      <list>
         <li>
           <b>•</b>
           <p>d’une part, sa conformité au droit français, tant au regard du droit de la responsabilité civile
@@ -472,104 +457,6 @@
           <p>A défaut d’accord amiable dans un délai de deux (2) mois à compter de leur survenance et sauf
              situation relevant d’une procédure d’urgence, les différends ou litiges seront portés par la
              Partie la plus diligente devant les Tribunaux compétents de Paris.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>•</b>
-          <p>(i) le chargement du Logiciel par tout moyen notamment par téléchargement à partir d’un serveur
-             distant ou par chargement à partir d’un support physique;</p>
-        </li>
-        <li>
-          <b>•</b>
-          <p>(ii) le premier exercice par le Licencié de l’un quelconque des droits concédés par le Contrat.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>1.</b>
-          <p>la reproduction permanente ou provisoire du Logiciel en tout ou partie par tout moyen et sous
-             toute forme.</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>le chargement, l’affichage, l’exécution, ou le stockage du Logiciel sur tout support.</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>la possibilité d’en observer, d’en étudier, ou d’en tester le fonctionnement afin de déterminer
-             les idées et principes qui sont à la base de n’importe quel élément de ce Logiciel; et ceci,
-             lorsque le Licencié effectue toute opération de chargement, d’affichage, d’exécution, de
-             transmission ou de stockage du Logiciel qu’il est en droit d’effectuer en vertu du
-             Contrat.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>1.</b>
-          <p>d’un exemplaire du Contrat,</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>d’un avertissement relatif à la restriction de garantie et de responsabilité du Concédant telle
-             que prévue aux articles 8 et 9, 
-            <br/>et que, dans le cas où seul le Code Objet du Logiciel est redistribué, le Licencié permette
-                 aux futurs Licenciés d’accéder facilement au Code Source complet du Logiciel en
-                 indiquant les modalités d’accès, étant entendu que le coût additionnel d’acquisition
-                 du Code Source ne devra pas excéder le simple coût de transfert des données. 
-            <br/>5.3.2. REDISTRIBUTION DU LOGICIEL MODIFIE 
-            <br/>Lorsque le Licencié apporte une Contribution au Logiciel, les conditions de redistribution
-                 du Logiciel Modifié sont alors soumises à l’intégralité des dispositions du Contrat. 
-            <br/>Le Licencié est autorisé à redistribuer le Logiciel Modifié, sous forme de Code Source ou
-                 de Code Objet, à condition que cette redistribution respecte les dispositions du
-                 Contrat dans leur totalité et soit accompagnée: 
-          </p>
-        </li>
-        <li>
-          <b>1.</b>
-          <p>d’un exemplaire du Contrat,</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>d’un avertissement relatif à la restriction de garantie et de responsabilité du concédant telle
-             que prévue aux articles 8 et 9, 
-            <br/>et que, dans le cas où seul le Code Objet du Logiciel Modifié est redistribué, le Licencié
-                 permette aux futurs Licenciés d’accéder facilement au Code Source complet du Logiciel
-                 Modifié en indiquant les modalités d’accès, étant entendu que le coût additionnel
-                 d’acquisition du Code Source ne devra pas excéder le simple coût de transfert des
-                 données. 
-          </p>
-          <p>5.3.3. REDISTRIBUTION DES MODULES DYNAMIQUES 
-            <br/>Lorsque le Licencié a développé un Module Dynamique les conditions du Contrat ne
-                 s’appliquent pas à ce Module Dynamique, qui peut être distribué sous un contrat de
-                 licence différent. 
-          </p>
-          <p>5.3.4. COMPATIBILITE AVEC LA LICENCE GPL 
-            <br/>Dans le cas où le Logiciel, Modifié ou non, est intégré à un code soumis aux dispositions
-                 de la licence GPL, le Licencié est autorisé à redistribuer l’ensemble sous la licence
-                 GPL. 
-            <br/>Dans le cas où le Logiciel Modifié intègre un code soumis aux dispositions de la licence
-                 GPL, le Licencié est autorisé à redistribuer le Logiciel Modifié sous la licence GPL. 
-          </p>
-          <p>Article 6 - PROPRIETE INTELLECTUELLE</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>1.</b>
-          <p>à ne pas supprimer ou modifier de quelque manière que ce soit les mentions de propriété
-             intellectuelle apposées sur le Logiciel;</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>à reproduire à l’identique lesdites mentions de propriété intellectuelle sur les copies du Logiciel. 
-            <br/>6.4.2. Le Licencié s’engage à ne pas porter atteinte, directement ou indirectement, aux
-                 droits de propriété intellectuelle du Titulaire et/ou des Contributeurs et à prendre,
-                 le cas échéant, à l’égard de son personnel toutes les mesures nécessaires pour assurer
-                 le respect des dits droits de propriété intellectuelle du Titulaire et/ou des
-                 Contributeurs. 
-          </p>
-          <p>Article 7 - SERVICES ASSOCIES</p>
         </li>
       </list>
       <p>1 Ce: CEA, C: CNRS, I: INRIA, LL: Logiciel Libre</p>
