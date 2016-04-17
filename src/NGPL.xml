@@ -1,4 +1,4 @@
-<SPDX name="Nethack General Public License" identifier="NGPL" osi-approved="true">
+<spdx name="Nethack General Public License" identifier="NGPL" osi-approved="true">
   <urls>
     <url>http://www.opensource.org/licenses/NGPL</url>
   </urls>
@@ -10,7 +10,8 @@
       <p>(Copyright 1989 M. Stephenson)</p>
     </copyright>
     <optional>
-      <br>(Based on the BISON general public license, copyright 1988 Richard M. Stallman)</br>
+      <br/>(Based on the BISON general public license, copyright 1988 Richard M. Stallman)
+      <br/>
     </optional>
     <body>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license, but changing it is not
@@ -75,40 +76,6 @@
           </li>
         </list>
       </list>
-      <list>
-        <li>
-          <b>a)</b>
-          <p>cause the modified files to carry prominent notices stating that you changed the files and the
-             date of any change; and</p>
-        </li>
-        <li>
-          <b>b)</b>
-          <p>cause the whole of any work that you distribute or publish, that in whole or in part contains or
-             is a derivative of NetHack or any part thereof, to be licensed at no charge to all third
-             parties on terms identical to those contained in this License Agreement (except that you may
-             choose to grant more extensive warranty protection to some or all third parties, at your
-             option)</p>
-        </li>
-        <li>
-          <b>c)</b>
-          <p>You may charge a distribution fee for the physical act of transferring a copy, and you may at
-             your option offer warranty protection in exchange for a fee.</p>
-          <p>You may copy and distribute NetHack (or a portion or derivative of it, under Paragraph 2) in
-             object code or executable form under the terms of Paragraphs 1 and 2 above provided that you
-             also do one of the following:</p>
-        </li>
-        <li>
-          <b>a)</b>
-          <p>accompany it with the complete machine-readable source code, which must be distributed under the
-             terms of Paragraphs 1 and 2 above; or,</p>
-        </li>
-        <li>
-          <b>b)</b>
-          <p>accompany it with full information as to how to obtain the complete machine-readable source code
-             from an appropriate archive site. (This alternative is allowed only for noncommercial
-             distribution.)</p>
-        </li>
-      </list>
       <p>For these purposes, complete source code means either the full source distribution as originally released
          over Usenet or updated copies of the files in this distribution used to create the object code or
          executable.</p>
@@ -120,8 +87,8 @@
         <br/>Stated plainly: You are permitted to modify NetHack, or otherwise use parts of NetHack, provided
              that you comply with the conditions specified above; in particular, your modified NetHack or
              program containing parts of NetHack must remain freely available as provided in this License
-             Agreement. In other words, go ahead and share NetHack, but don't try to stop anyone else from
-             sharing it farther. 
+             Agreement. In other words, go ahead and share NetHack, but don&apos;t try to stop anyone else
+             from sharing it farther. 
       </p>
     </body>
   </license>
