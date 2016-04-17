@@ -1,4 +1,4 @@
-<SPDX name="IBM Public License v1.0" identifier="IPL-1.0" osi-approved="true">
+<spdx name="IBM Public License v1.0" identifier="IPL-1.0" osi-approved="true">
   <urls>
     <url>http://www.opensource.org/licenses/IPL-1.0</url>
   </urls>
@@ -9,19 +9,19 @@
     </title>
     <body>
       <p>THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS IBM 
-        <br/>PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION 
-        <br/>OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT. 
+        <br/>PUBLIC LICENSE (&quot;AGREEMENT&quot;). ANY USE, REPRODUCTION OR DISTRIBUTION 
+        <br/>OF THE PROGRAM CONSTITUTES RECIPIENT&apos;S ACCEPTANCE OF THIS AGREEMENT. 
       </p>
       <list>
         <li>
           <b>1.</b>
           <p>DEFINITIONS 
-            <br/>"Contribution" means: 
+            <br/>&quot;Contribution&quot; means: 
           </p>
         </li>
         <li>
           <b>a.</b>
-          <p>in the case of International Business Machines Corporation ("IBM"), the Original Program, and</p>
+          <p>in the case of International Business Machines Corporation (&quot;IBM&quot;), the Original Program, and</p>
         </li>
         <li>
           <b>b.</b>
@@ -37,8 +37,8 @@
             <p>additions to the Program; 
               <br/>where such changes and/or additions to the Program originate from and 
               <br/>are distributed by that particular Contributor. A Contribution 
-              <br/>'originates' from a Contributor if it was added to the Program by 
-              <br/>such Contributor itself or anyone acting on such Contributor's 
+              <br/>&apos;originates&apos; from a Contributor if it was added to the Program by 
+              <br/>such Contributor itself or anyone acting on such Contributor&apos;s 
               <br/>behalf. Contributions do not include additions to the Program which: 
             </p>
           </li>
@@ -49,17 +49,17 @@
             <br/>the Program under their own license agreement, and (ii) are not 
             <br/>derivative works of the Program. 
           </p>
-          <p>"Contributor" means IBM and any other entity that distributes the Program.</p>
-          <p>"Licensed Patents " mean patent claims licensable by a 
+          <p>&quot;Contributor&quot; means IBM and any other entity that distributes the Program.</p>
+          <p>&quot;Licensed Patents &quot; mean patent claims licensable by a 
             <br/>Contributor which are necessarily infringed by the use or sale of its 
             <br/>Contribution alone or when combined with the Program. 
           </p>
-          <p>"Original Program" means the original version of the software 
+          <p>&quot;Original Program&quot; means the original version of the software 
             <br/>accompanying this Agreement as released by IBM, including source 
             <br/>code, object code and documentation, if any. 
           </p>
-          <p>"Program" means the Original Program and Contributions.</p>
-          <p>"Recipient" means anyone who receives the Program under this 
+          <p>&quot;Program&quot; means the Original Program and Contributions.</p>
+          <p>&quot;Recipient&quot; means anyone who receives the Program under this 
             <br/>Agreement, including all Contributors. 
           </p>
         </li>
@@ -105,7 +105,7 @@
             <br/>sole responsibility to secure any other intellectual property rights 
             <br/>needed, if any. For example, if a third party patent license is 
             <br/>required to allow Recipient to distribute the Program, it is 
-            <br/>Recipient's responsibility to acquire that license before 
+            <br/>Recipient&apos;s responsibility to acquire that license before 
             <br/>distributing the Program. 
           </p>
         </li>
@@ -189,9 +189,9 @@
             <br/>commercial product offering should do so in a manner which does not 
             <br/>create potential liability for other Contributors. Therefore, if a 
             <br/>Contributor includes the Program in a commercial product offering, 
-            <br/>such Contributor ("Commercial Contributor") hereby agrees to defend 
-            <br/>and indemnify every other Contributor ("Indemnified Contributor") 
-            <br/>against any losses, damages and costs (collectively "Losses") arising 
+            <br/>such Contributor (&quot;Commercial Contributor&quot;) hereby agrees to defend 
+            <br/>and indemnify every other Contributor (&quot;Indemnified Contributor&quot;) 
+            <br/>against any losses, damages and costs (collectively &quot;Losses&quot;) arising 
             <br/>from claims, lawsuits and other legal actions brought by a third 
             <br/>party against the Indemnified Contributor to the extent caused by the 
             <br/>acts or omissions of such Commercial Contributor in connection with 
@@ -209,7 +209,7 @@
             <br/>product offering, Product X. That Contributor is then a Commercial 
             <br/>Contributor. If that Commercial Contributor then makes performance 
             <br/>claims, or offers warranties related to Product X, those performance 
-            <br/>claims and warranties are such Commercial Contributor's 
+            <br/>claims and warranties are such Commercial Contributor&apos;s 
             <br/>responsibility alone. Under this section, the Commercial Contributor 
             <br/>would have to defend claims against the other Contributors related to 
             <br/>those performance claims and warranties, and if a court requires any 
@@ -221,7 +221,7 @@
           <b>5.</b>
           <p>NO WARRANTY 
             <br/>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS 
-            <br/>PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY 
+            <br/>PROVIDED ON AN &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY 
             <br/>KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY 
             <br/>WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY 
             <br/>OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely 
@@ -251,53 +251,6 @@
           <p>GENERAL</p>
         </li>
       </list>
-      <list>
-        <li>
-          <b>i.</b>
-          <p>changes to the Program, and</p>
-        </li>
-        <li>
-          <b>ii.</b>
-          <p>additions to the Program; 
-            <br/>where such changes and/or additions to the Program originate from and 
-            <br/>are distributed by that particular Contributor. A Contribution 
-            <br/>'originates' from a Contributor if it was added to the Program by 
-            <br/>such Contributor itself or anyone acting on such Contributor's 
-            <br/>behalf. Contributions do not include additions to the Program which: 
-          </p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>i.</b>
-          <p>effectively disclaims on behalf of all Contributors all warranties 
-            <br/>and conditions, express and implied, including warranties or 
-            <br/>conditions of title and non-infringement, and implied warranties or 
-            <br/>conditions of merchantability and fitness for a particular purpose; 
-          </p>
-        </li>
-        <li>
-          <b>ii.</b>
-          <p>effectively excludes on behalf of all Contributors all liability 
-            <br/>for damages, including direct, indirect, special, incidental and 
-            <br/>consequential damages, such as lost profits; 
-          </p>
-        </li>
-        <li>
-          <b>iii.</b>
-          <p>states that any provisions which differ from this Agreement are 
-            <br/>offered by that Contributor alone and not by any other party; and 
-          </p>
-        </li>
-        <li>
-          <b>iv.</b>
-          <p>states that source code for the Program is available from such 
-            <br/>Contributor, and informs licensees how to obtain it in a reasonable 
-            <br/>manner on or through a medium customarily used for software exchange. 
-            <br/>When the Program is made available in source code form: 
-          </p>
-        </li>
-      </list>
       <p>If any provision of this Agreement is invalid or unenforceable under 
         <br/>applicable law, it shall not affect the validity or enforceability of 
         <br/>the remainder of the terms of this Agreement, and without further 
@@ -312,17 +265,17 @@
         <br/>Recipient institutes patent litigation against any entity (including 
         <br/>a cross-claim or counterclaim in a lawsuit) alleging that the Program 
         <br/>itself (excluding combinations of the Program with other software or 
-        <br/>hardware) infringes such Recipient's patent(s), then such Recipient's 
+        <br/>hardware) infringes such Recipient&apos;s patent(s), then such Recipient&apos;s 
         <br/>rights granted under Section 2(b) shall terminate as of the date such 
         <br/>litigation is filed. 
       </p>
-      <p>All Recipient's rights under this Agreement shall terminate if it 
+      <p>All Recipient&apos;s rights under this Agreement shall terminate if it 
         <br/>fails to comply with any of the material terms or conditions of this 
         <br/>Agreement and does not cure such failure in a reasonable period of 
-        <br/>time after becoming aware of such noncompliance. If all Recipient's 
+        <br/>time after becoming aware of such noncompliance. If all Recipient&apos;s 
         <br/>rights under this Agreement terminate, Recipient agrees to cease use 
         <br/>and distribution of the Program as soon as reasonably practicable. 
-        <br/>However, Recipient's obligations under this Agreement and any 
+        <br/>However, Recipient&apos;s obligations under this Agreement and any 
         <br/>licenses granted by Recipient relating to the Program shall continue 
         <br/>and survive. 
       </p>
