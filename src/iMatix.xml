@@ -20,24 +20,6 @@
       <p>You do not need to provide the source code for the Product as part of your product. However, you must do
          one of these things to comply with the Product License Agreement:</p>
       <list>
-        <list>
-          <li>
-            <b>1.</b>
-            <p>Provide the source code for Product modules that you use, or</p>
-          </li>
-          <li>
-            <b>2.</b>
-            <p>Make your product freely available according to a license similar to the GNU General Public
-               License, or the Perl Artistic License, or</p>
-          </li>
-          <li>
-            <b>3.</b>
-            <p>Add this phrase to the documentation for your product: "This product uses parts of the iMatix
-               SFL, Copyright © 1991-2000 iMatix Corporation &lt;http://www.imatix.com&gt;".</p>
-          </li>
-        </list>
-      </list>
-      <list>
         <li>
           <b>1.</b>
           <p>Provide the source code for Product modules that you use, or</p>
@@ -66,6 +48,7 @@
          obviously part of the Product. This derived code does not fall under the Product License Agreement
          directly, but you must include a credit at the start of each source file indicating the original
          authorship and source of the code, and a statement of copyright as follows: 
+        <br/>"Parts copyright (c) 1991-2000 iMatix Corporation." 
         <p>Rights Of Distribution</p>
         <p>You may freely distribute the Product, or any subset of the Product, by any means. The License, in
            the form of the file called "LICENSE.TXT" must accompany any such distribution.</p>
