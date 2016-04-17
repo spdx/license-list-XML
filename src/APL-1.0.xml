@@ -81,7 +81,7 @@
         <li>
           <b>1.8.</b>
           <p>"INITIAL CONTRIBUTOR" means the Person or entity identified as the Initial Contributor in the
-             notice required byPart 1 of Exhibit A.</p>
+             notice required by Part 1 of Exhibit A.</p>
         </li>
         <li>
           <b>1.9.</b>
@@ -312,7 +312,7 @@
                License, and must include a copy of this License (including without limitation Exhibit A
                and the accompanying Supplement File) with each copy of the Licensed Work distributed. In
                particular, this License must be prominently distributed with the Licensed Work in a file
-               called "license.txt." In addition, the License Notice in Part 5 of Exhibit Amust be
+               called "license.txt." In addition, the License Notice in Part 5 of Exhibit A must be
                included at the beginning of all Source Code files, and viewable to a user in any
                executable such that the License Notice is reasonably brought to the attention of any
                party using the Licensed Work.</p>
@@ -426,7 +426,7 @@
             <p>Each Subsequent Contributor (including the Initial Contributor where the Initial Contributor
                also qualifies as a Subsequent Contributor) must cause each Subsequent Work created or
                contributed to by that Subsequent Contributor to contain a file documenting the changes,
-               in accordance with the requirements ofPart 1 of the Supplement File, that such Subsequent
+               in accordance with the requirements of Part 1 of the Supplement File, that such Subsequent
                Contributor made in the creation or contribution to that Subsequent Work. If no Supplement
                File exists or no requirements are set out in Part 1 of the Supplement File, then there
                are no requirements for Subsequent Contributors to document changes that they make
@@ -515,7 +515,7 @@
           <li>
             <b>(c)</b>
             <p>Each Recipient acknowledges that all trademarks, service marks and/or trade names contained
-               withinPart 2 of the Supplement File distributed with the Licensed Work are the exclusive
+               within Part 2 of the Supplement File distributed with the Licensed Work are the exclusive
                property of the Initial Contributor and may only be used with the permission of the
                Initial Contributor, or under circumstances otherwise permitted by law, or as expressly
                set out in this License.</p>
@@ -714,11 +714,11 @@
         <li>
           <b>9.1.</b>
           <p>This License shall be governed by and construed in accordance with the laws of the Governing
-             Jurisdiction assigned inPart 3 of Exhibit A, without regard to its conflict of law provisions.
-             No party may bring a legal action under this License more than one year after the cause of the
-             action arose. Each party waives its rights (if any) to a jury trial in any litigation arising
-             under this License. Note that if the Governing Jurisdiction is not assigned in Part 3 of
-             Exhibit A, then the Governing Jurisdiction shall be the State of New York.</p>
+             Jurisdiction assigned in Part 3 of Exhibit A, without regard to its conflict of law
+             provisions. No party may bring a legal action under this License more than one year after the
+             cause of the action arose. Each party waives its rights (if any) to a jury trial in any
+             litigation arising under this License. Note that if the Governing Jurisdiction is not assigned
+             in Part 3 of Exhibit A, then the Governing Jurisdiction shall be the State of New York.</p>
         </li>
         <li>
           <b>9.2.</b>
@@ -790,288 +790,6 @@
              relating thereto be drafted in the English language.</p>
         </li>
       </list>
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>In the case of the Initial Contributor, the Initial Work distributed under this License by the
-             Initial Contributor; and</p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>In the case of each Subsequent Contributor, the Subsequent Work originating from and distributed
-             by such Subsequent Contributor.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>the Initial Work;</p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>any other Subsequent Work; or</p>
-        </li>
-        <li>
-          <b>(c)</b>
-          <p>to any combination of the Initial Work and any such other Subsequent Work; 
-            <br/>where such changes and/or additions originate from a Subsequent Contributor. A Subsequent
-                 Work will "originate" from a Subsequent Contributor if the Subsequent Work was a
-                 result of efforts by such Subsequent Contributor (or anyone acting on such Subsequent
-                 Contributor's behalf, such as, a contractor or other entity that is engaged by or
-                 under the direction of the Subsequent Contributor). For greater certainty, a
-                 Subsequent Work expressly excludes and shall not capture within its meaning any
-                 Independent Module. 
-          </p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>Subject to the terms of this License, the Initial Contributor hereby grants each Recipient a
-             world-wide, royalty-free, non-exclusive copyright license to:</p>
-        </li>
-        <list>
-          <li>
-            <b>(i)</b>
-            <p>reproduce, prepare derivative works of, publicly display, publicly perform, distribute and
-               sublicense the Initial Work; and</p>
-          </li>
-          <li>
-            <b>(ii)</b>
-            <p>reproduce, publicly display, publicly perform, distribute, and sublicense any derivative
-               works (if any) prepared by Recipient; 
-              <br/>in Source Code and Executable form, either with other Modifications, on an unmodified
-                   basis, or as part of a Larger Work. 
-            </p>
-          </li>
-        </list>
-        <li>
-          <b>(b)</b>
-          <p>Subject to the terms of this License, each Subsequent Contributor hereby grants each Recipient a
-             world-wide, royalty-free, non-exclusive copyright license to:</p>
-        </li>
-        <list>
-          <li>
-            <b>(i)</b>
-            <p>reproduce, prepare derivative works of, publicly display, publicly perform, distribute and
-               sublicense the Subsequent Work of such Subsequent Contributor; and</p>
-          </li>
-          <li>
-            <b>(ii)</b>
-            <p>reproduce, publicly display, publicly perform, distribute, and sublicense any derivative
-               works (if any) prepared by Recipient; 
-              <br/>in Source Code and Executable form, either with other Modifications, on an unmodified
-                   basis, or as part of a Larger Work. 
-            </p>
-          </li>
-        </list>
-      </list>
-      <list>
-        <li>
-          <b>(i)</b>
-          <p>reproduce, prepare derivative works of, publicly display, publicly perform, distribute and
-             sublicense the Initial Work; and</p>
-        </li>
-        <li>
-          <b>(ii)</b>
-          <p>reproduce, publicly display, publicly perform, distribute, and sublicense any derivative works
-             (if any) prepared by Recipient; 
-            <br/>in Source Code and Executable form, either with other Modifications, on an unmodified
-                 basis, or as part of a Larger Work. 
-          </p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>(i)</b>
-          <p>reproduce, prepare derivative works of, publicly display, publicly perform, distribute and
-             sublicense the Subsequent Work of such Subsequent Contributor; and</p>
-        </li>
-        <li>
-          <b>(ii)</b>
-          <p>reproduce, publicly display, publicly perform, distribute, and sublicense any derivative works
-             (if any) prepared by Recipient; 
-            <br/>in Source Code and Executable form, either with other Modifications, on an unmodified
-                 basis, or as part of a Larger Work. 
-          </p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>This License does not include or grant any patent license whatsoever from the Initial
-             Contributor, Subsequent Contributor, or any Distributor unless, at the time the Initial Work
-             is first distributed or made available under this License (as the case may be), the Initial
-             Contributor has selected pursuant to Part 6 of Exhibit A the patent terms in paragraphs A, B,
-             C, D and E from Part 6 of Exhibit A. If this is not done then the Initial Work and any other
-             Subsequent Work is made available under the License without any patent license (the
-             "PATENTS-EXCLUDED LICENSE").</p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>However, the Initial Contributor may subsequently distribute or make available (as the case may
-             be) future copies of: (1) the Initial Work; or (2) any Licensed Work distributed by the
-             Initial Contributor which includes the Initial Work (or any portion thereof) and/or any
-             Modification made by the Initial Contributor; available under a License which includes a
-             patent license (the "PATENTS-INCLUDED LICENSE") by selecting pursuant to Part 6 of Exhibit A
-             the patent terms in paragraphs A, B, C, D and E from Part 6 of Exhibit A, when the Initial
-             Contributor distributes or makes available (as the case may be) such future copies under this
-             License.</p>
-        </li>
-        <li>
-          <b>(c)</b>
-          <p>If any Recipient receives or obtains one or more copies of the Initial Work or any other portion
-             of the Licensed Work under the Patents-Included License, then all licensing of such copies
-             under this License shall include the terms in paragraphs A, B, C, D and E from Part 6 of
-             Exhibit A and that Recipient shall not be able to rely upon the Patents-Excluded License for
-             any such copies. However, all Recipients that receive one or more copies of the Initial Work
-             or any other portion of the Licensed Work under a copy of the License which includes the
-             Patents-Excluded License shall have no patent license with respect to such copies received
-             under the Patents-Excluded License and availability and distribution of such copies, including
-             Modifications made by such Recipient to such copies, shall be under a copy of the License
-             without any patent license.</p>
-        </li>
-        <li>
-          <b>(d)</b>
-          <p>Where a Recipient uses in combination or combines any copy of the Licensed Work (or portion
-             thereof) licensed under a copy of the License having a Patents-Excluded License with any copy
-             of the Licensed Work (or portion thereof) licensed under a copy of the License having a
-             Patents-Included License, the combination (and any portion thereof) shall, from the first time
-             such Recipient uses, makes available or distributes the combination (as the case may be), be
-             subject to only the terms of the License having the Patents-Included License which shall
-             include the terms in paragraphs A, B, C, D and E from Part 6 of Exhibit A.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>A Subsequent Contributor shall make that Subsequent Contributor's Subsequent Work(s) available to
-             the public via an Electronic Distribution Mechanism for a period of at least twelve (12)
-             months. The aforesaid twelve (12) month period shall begin within a reasonable time after the
-             creation of the Subsequent Work and no later than sixty (60) days after first distribution of
-             that Subsequent Contributor's Subsequent Work.</p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>All Distributors must distribute the Licensed Work in accordance with the terms of the License,
-             and must include a copy of this License (including without limitation Exhibit A and the
-             accompanying Supplement File) with each copy of the Licensed Work distributed. In particular,
-             this License must be prominently distributed with the Licensed Work in a file called
-             "license.txt." In addition, the License Notice in Part 5 of Exhibit Amust be included at the
-             beginning of all Source Code files, and viewable to a user in any executable such that the
-             License Notice is reasonably brought to the attention of any party using the Licensed
-             Work.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>The Executable Distribution must be accompanied by the Source Code for the Licensed Work making
-             up the Executable Distribution, and the Source Code must be distributed on the same media as
-             the Executable Distribution or using an Electronic Distribution Mechanism; or</p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>The Executable Distribution must be accompanied with a written offer, valid for at least thirty
-             six (36) months, to give any third party under the terms of this License, for a charge no more
-             than the cost of physically performing source distribution, a complete machine-readable copy
-             of the Source Code for the Licensed Work making up the Executable Distribution, to be
-             available and distributed using an Electronic Distribution Mechanism, and such Executable
-             Distribution must remain available in Source Code form to any third party via the Electronic
-             Distribution Mechanism (or any replacement Electronic Distribution Mechanism the particular
-             Distributor may reasonably need to turn to as a substitute) for said at least thirty six (36)
-             months.</p>
-          <p>For greater certainty, the above-noted requirements apply to any Licensed Work or portion thereof
-             distributed to any third party in Executable form, whether such distribution is made alone, in
-             combination with a Larger Work or Independent Modules, or in some other combination.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>Each Subsequent Contributor (including the Initial Contributor where the Initial Contributor also
-             qualifies as a Subsequent Contributor) must cause each Subsequent Work created or contributed
-             to by that Subsequent Contributor to contain a file documenting the changes, in accordance
-             with the requirements ofPart 1 of the Supplement File, that such Subsequent Contributor made
-             in the creation or contribution to that Subsequent Work. If no Supplement File exists or no
-             requirements are set out in Part 1 of the Supplement File, then there are no requirements for
-             Subsequent Contributors to document changes that they make resulting in Subsequent Works.</p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>The Initial Contributor may at any time introduce requirements or add to or change earlier
-             requirements (in each case, the "EARLIER DESCRIPTION REQUIREMENTS") for documenting changes
-             resulting in Subsequent Works by revising Part 1 of each copy of the Supplement File
-             distributed by the Initial Contributor with future copies of the Licensed Work so that Part 1
-             then contains new requirements (the "NEW DESCRIPTION REQUIREMENTS") for documenting such
-             changes.</p>
-        </li>
-        <li>
-          <b>(c)</b>
-          <p>Any Recipient receiving at any time any copy of an Initial Work or any Subsequent Work under a
-             copy of this License (in each case, an "Earlier LICENSED COPY") having the Earlier Description
-             Requirements may choose, with respect to each such Earlier Licensed Copy, to comply with the
-             Earlier Description Requirements or the New Description Requirements. Where a Recipient
-             chooses to comply with the New Description Requirements, that Recipient will, when thereafter
-             distributing any copies of any such Earlier Licensed Copy, include a Supplement File having a
-             section entitled Part 1 that contains a copy of the New Description Requirements.</p>
-        </li>
-        <li>
-          <b>(d)</b>
-          <p>For greater certainty, the intent of Part 1 of the Supplement File is to provide a mechanism (if
-             any) by which Subsequent Contributors must document changes that they make to the Licensed
-             Work resulting in Subsequent Works. Part 1 of any Supplement File shall not be used to
-             increase or reduce the scope of the license granted in Article 2 of this License or in any
-             other way increase or decrease the rights and obligations of any Recipient, and shall at no
-             time serve as the basis for terminating the License. Further, a Recipient can be required to
-             correct and change its documentation procedures to comply with Part 1 of the Supplement File,
-             but cannot be penalised with damages. Part 1 of any Supplement File is only binding on each
-             Recipient of any Licensed Work to the extent Part 1 sets out the requirements for documenting
-             changes to the Initial Work or any Subsequent Work.</p>
-        </li>
-        <li>
-          <b>(e)</b>
-          <p>An example of a set of requirements for documenting changes and contributions made by Subsequent
-             Contributor is set out in Part 7 of Exhibit A of this License. Part 7 is a sample only and is
-             not binding on Recipients, unless (subject to the earlier paragraphs of this Section 3.8)
-             those are the requirements that the Initial Contributor includes in Part 1 of the Supplement
-             File with the copies of the Initial Work distributed under this License.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>As a modest attribution to the Initial Contributor, in the hope that its promotional value may
-             help justify the time, money and effort invested in writing the Initial Work, the Initial
-             Contributor may include in Part 2 of the Supplement File a requirement that each time an
-             executable program resulting from the Initial Work or any Subsequent Work, or a program
-             dependent thereon, is launched or run, a prominent display of the Initial Contributor's
-             attribution information must occur (the "ATTRIBUTION INFORMATION"). The Attribution
-             Information must be included at the beginning of each Source Code file. For greater certainty,
-             the Initial Contributor may specify in the Supplement File that the above attribution
-             requirement only applies to an executable program resulting from the Initial Work or any
-             Subsequent Work, but not a program dependent thereon. The intent is to provide for reasonably
-             modest attribution, therefore the Initial Contributor may not require Recipients to display,
-             at any time, more than the following Attribution Information: (a) a copyright notice including
-             the name of the Initial Contributor; (b) a word or one phrase (not exceeding 10 words); (c)
-             one digital image or graphic provided with the Initial Work; and (d) a URL (collectively, the
-             "ATTRIBUTION LIMITS").</p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>If no Supplement File exists, or no Attribution Information is set out in Part 2 of the
-             Supplement File, then there are no requirements for Recipients to display any Attribution
-             Information of the Initial Contributor.</p>
-        </li>
-        <li>
-          <b>(c)</b>
-          <p>Each Recipient acknowledges that all trademarks, service marks and/or trade names contained
-             withinPart 2 of the Supplement File distributed with the Licensed Work are the exclusive
-             property of the Initial Contributor and may only be used with the permission of the Initial
-             Contributor, or under circumstances otherwise permitted by law, or as expressly set out in
-             this License.</p>
-        </li>
-      </list>
     </body>
     <optional>
       <p>//***THE LICENSE TERMS END HERE (OTHER THAN AS SET OUT IN EXHIBIT A).***//</p>
@@ -1100,6 +818,7 @@
       <p>PART 3: GOVERNING JURISDICTION</p>
       <p>For the purposes of this License, the Governing Jurisdiction is
          _________________________________________________. 
+        <br/>[Initial Contributor to Enter Governing Jurisdiction here] 
         <p>PART 4: THIRD PARTIES</p>
         <p>For the purposes of this License, "Third Party" has the definition set forth below in the ONE
            paragraph selected by the Initial Contributor from paragraphs A, B, C, D and E when the Initial
