@@ -1,4 +1,4 @@
-<SPDX name="No Limit Public License" identifier="NLPL" osi-approved="false">
+<spdx name="No Limit Public License" identifier="NLPL" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/NLPL</url>
   </urls>
@@ -29,12 +29,6 @@
             <p>No limit to do anything with this work and this license.</p>
           </li>
         </list>
-      </list>
-      <list>
-        <li>
-          <b>0.</b>
-          <p>No limit to do anything with this work and this license.</p>
-        </li>
       </list>
     </body>
   </license>
