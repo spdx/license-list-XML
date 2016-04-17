@@ -344,6 +344,7 @@
       <p>The Standard is defined as the following: 
         <br/>OpenOffice.org XML File Format Specification, located at http://xml.openoffice.org 
         <br/>OpenOffice.org Application Programming Interface Specification, located at 
+        <br/>http://api.openoffice.org 
       </p>
     </optional>
   </license>
