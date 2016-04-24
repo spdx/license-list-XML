@@ -12,7 +12,7 @@
       <p>Preamble 
         <br/>-------- 
       </p>
-      <p>The Berkeley Software Distribution (&quot;BSD&quot;) license has proven very effective over the years at
+      <p>The Berkeley Software Distribution ("BSD") license has proven very effective over the years at
          allowing for a wide spread of work throughout both commercial and non-commercial products. For
          programmers whose primary intention is to improve the general quality of available software, it is
          arguable that there is no better license than the BSD license, as it permits improvements to be used
@@ -23,17 +23,17 @@
          models).</p>
       <p>With the rapid proliferation of software licensed under the GNU General Public License, however, the
          continued success of this role is called into question. Given that the inclusion of a few lines of
-         &quot;GPL-tainted&quot; work into a larger body of work will result in restricted distribution -- and
-         given that further work will likely build upon the &quot;tainted&quot; portions, making them difficult
+         "GPL-tainted" work into a larger body of work will result in restricted distribution -- and
+         given that further work will likely build upon the "tainted" portions, making them difficult
          to remove at a future date -- there are inevitable circumstances where authors would, in order to
          protect their goal of providing for the widespread usage of their work, wish to guard against such
-         &quot;GPL-taint&quot;.</p>
+         "GPL-taint".</p>
       <p>In addition, one can imagine that companies which operate by producing and selling (possibly
          closed-source) code would wish to protect themselves against the rise of a GPL-licensed competitor.
          While under existing licenses this would mean not releasing their code under any form of open license,
          if a license existed under which they could incorporate any improvements back into their own
          (commercial) products then they might be far more willing to provide for non-closed distribution.</p>
-      <p>For the above reasons, we put forth this &quot;BSD Protection License&quot;: A license designed to retain
+      <p>For the above reasons, we put forth this "BSD Protection License": A license designed to retain
          the freedom granted by the BSD license to use licensed works in a wide variety of settings, both
          non-commercial and commercial, while protecting the work from having future contributors restrict that
          freedom.</p>
@@ -50,21 +50,21 @@
         <list>
           <li>
             <b>a)</b>
-            <p>&quot;Program&quot;, below, refers to any program or work distributed under the terms of this
+            <p>"Program", below, refers to any program or work distributed under the terms of this
                license.</p>
           </li>
           <li>
             <b>b)</b>
-            <p>A &quot;work based on the Program&quot;, below, refers to either the Program or any
+            <p>A "work based on the Program", below, refers to either the Program or any
                derivative work under copyright law.</p>
           </li>
           <li>
             <b>c)</b>
-            <p>&quot;Modification&quot;, below, refers to the act of creating derivative works.</p>
+            <p>"Modification", below, refers to the act of creating derivative works.</p>
           </li>
           <li>
             <b>d)</b>
-            <p>&quot;You&quot;, below, refers to each licensee.</p>
+            <p>"You", below, refers to each licensee.</p>
           </li>
         </list>
         <li>
@@ -152,7 +152,7 @@
           <p>NO WARRANTY.</p>
         </li>
       </list>
-      <p>THIS SOFTWARE IS PROVIDED &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+      <p>THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
          LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
          DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR
          REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
