@@ -1,6 +1,7 @@
 <SPDX name="Beerware License" identifier="Beerware" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/Beerware</url>
+    <url>https://people.freebsd.org/~phk/</url>
   </urls>
   <license>
     <body>
