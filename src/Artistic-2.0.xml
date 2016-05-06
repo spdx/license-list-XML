@@ -26,29 +26,52 @@
     </optional>
     <body>
       <p>Definitions</p>
-      <p>&quot;Copyright Holder&quot; means the individual(s) or organization(s) named in the copyright notice for
+      <list>
+        <li>
+          <p>"Copyright Holder" means the individual(s) or organization(s) named in the copyright notice for
          the entire Package.</p>
-      <p>&quot;Contributor&quot; means any party that has contributed code or other material to the Package, in
-         accordance with the Copyright Holder&apos;s procedures.</p>
-      <p>&quot;You&quot; and &quot;your&quot; means any person who would like to copy, distribute, or modify the
-         Package.</p>
-      <p>&quot;Package&quot; means the collection of files distributed by the Copyright Holder, and derivatives of
+         </li>
+        <li>
+          <p>"Contributor" means any party that has contributed code or other material to the Package, in
+         accordance with the Copyright Holder's procedures.</p>
+        </li>
+        <li>
+          <p>"You" and "your" means any person who would like to copy, distribute, or modify the Package.</p>
+        </li>
+        <li>
+          <p>"Package" means the collection of files distributed by the Copyright Holder, and derivatives of
          that collection and/or of those files. A given Package may consist of either the Standard Version, or
          a Modified Version.</p>
-      <p>&quot;Distribute&quot; means providing a copy of the Package or making it accessible to anyone else, or
+        </li>
+        <li>
+          <p>"Distribute" means providing a copy of the Package or making it accessible to anyone else, or
          in the case of a company or organization, to others outside of your company or organization.</p>
-      <p>&quot;Distributor Fee&quot; means any fee that you charge for Distributing this Package or providing
+        </li>
+        <li>
+          <p>"Distributor Fee" means any fee that you charge for Distributing this Package or providing
          support for this Package to another party. It does not mean licensing fees.</p>
-      <p>&quot;Standard Version&quot; refers to the Package if it has not been modified, or has been modified only
+        </li>
+        <li>
+          <p>"Standard Version" refers to the Package if it has not been modified, or has been modified only
          in ways explicitly requested by the Copyright Holder.</p>
-      <p>&quot;Modified Version&quot; means the Package, if it has been changed, and such changes were not
+        </li>
+        <li>
+          <p>"Modified Version" means the Package, if it has been changed, and such changes were not
          explicitly requested by the Copyright Holder.</p>
-      <p>&quot;Original License&quot; means this Artistic License as Distributed with the Standard Version of the
+        </li>
+        <li>
+          <p>"Original License" means this Artistic License as Distributed with the Standard Version of the
          Package, in its current version or as it may be modified by The Perl Foundation in the future.</p>
-      <p>&quot;Source&quot; form means the source code, documentation source, and configuration files for the
+        </li>
+        <li>
+          <p>"Source" form means the source code, documentation source, and configuration files for the
          Package.</p>
-      <p>&quot;Compiled&quot; form means the compiled bytecode, object code, binary, or any other form resulting
+        </li>
+        <li>
+          <p>"Compiled" form means the compiled bytecode, object code, binary, or any other form resulting
          from mechanical transformation or translation of the Source form.</p>
+        </li>
+      </list>
       <p>Permission for Use and Modification Without Distribution</p>
       <list>
         <li>
@@ -185,7 +208,7 @@
           <p>Disclaimer of Warranty:</p>
         </li>
       </list>
-      <p>THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS &quot;AS IS&apos; AND WITHOUT ANY
+      <p>THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS IS" AND WITHOUT ANY
          EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
          PURPOSE, OR NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL LAW. UNLESS REQUIRED
          BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR
