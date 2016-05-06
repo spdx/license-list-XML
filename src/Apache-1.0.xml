@@ -50,12 +50,10 @@
         <li>
           <b>6.</b>
           <p>Redistributions of any form whatsoever must retain the following acknowledgment:</p>
+          <p>"This product includes software developed by <alt name="nameClause6" match=".+">the 
+          Apache Group for use in the Apache HTTP server project (http://www.apache.org/)</alt>.</p>
         </li>
       </list>
-      <p>"This product includes software developed by 
-        <alt name="nameClause6" match=".+">the Apache Group for use in the Apache HTTP server project
-        (http://www.apache.org/)</alt>. 
-      </p>
       <p>THIS SOFTWARE IS PROVIDED BY 
         <alt name="copyrightHolderAsIs" match=".+">THE APACHE GROUP</alt> ``AS IS'' AND ANY EXPRESSED OR IMPLIED
         WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
