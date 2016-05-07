@@ -1,4 +1,3 @@
-<!-- REVIEW -->
 <SPDX name="Sleepycat License" identifier="Sleepycat" osi-approved="true">
   <urls>
     <url>http://www.opensource.org/licenses/Sleepycat</url>
@@ -10,7 +9,6 @@
     <body>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
-      <list></list>
       <list>
         <li>
           <b>-</b>
@@ -49,7 +47,6 @@
     <body>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
-      <list></list>
       <list>
         <li>
           <b>-</b>
@@ -83,7 +80,6 @@
     <body>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
-      <list></list>
       <list>
         <li>
           <b>-</b>
