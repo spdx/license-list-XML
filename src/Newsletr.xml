@@ -1,0 +1,26 @@
+<SPDX name="Newsletr License" identifier="Newsletr" osi-approved="false">
+  <urls>
+    <url>https://fedoraproject.org/wiki/Licensing/Newsletr</url>
+  </urls>
+  <license>
+    <copyright>
+      <p>Copyright 1989--2004 by Hunter Goatley.</p>
+    </copyright>
+    <body>
+      <p>Permission is granted to anyone to use this software for any purpose on any computer system, and to
+         redistribute it freely, subject to the following restrictions:</p>
+      <list>
+        <li>
+          <b>1.</b>
+          <p>This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+             without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</p>
+        </li>
+        <li>
+          <b>2.</b>
+          <p>Altered versions must be plainly marked as such, and must not be misrepresented as being the
+             original software.</p>
+        </li>
+      </list>
+    </body>
+  </license>
+</SPDX>
