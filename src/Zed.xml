@@ -1,0 +1,15 @@
+<SPDX name="Zed License" identifier="Zed" osi-approved="false">
+  <urls>
+    <url>https://fedoraproject.org/wiki/Licensing/Zed</url>
+  </urls>
+  <license>
+    <copyright>
+      <p>(c) Jim Davies, January 1995</p>
+    </copyright>
+    <body>
+      <p>You may copy and distribute this file freely. Any queries and complaints should be forwarded to
+         Jim.Davies@comlab.ox.ac.uk.</p>
+      <p>If you make any changes to this file, please do not distribute the results under the name `zed-csp.sty'.</p>
+    </body>
+  </license>
+</SPDX>
