@@ -1,0 +1,37 @@
+<SPDX name="Spencer License 94" identifier="Spencer-94" osi-approved="false">
+  <urls>
+    <url>https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License</url>
+  </urls>
+  <license>
+    <title>
+      <p>Copyright 1992, 1993, 1994 Henry Spencer. All rights reserved.</p>
+    </title>
+    <body>
+      <p>This software is not subject to any license of the American Telephone and Telegraph Company or of the
+         Regents of the University of California.
+      <br/>Permission is granted to anyone to use this software for any purpose on any computer system, and to alter it
+         and redistribute it, subject to the following restrictions:</p>
+      <list>
+        <li>
+          <b>1.</b>
+          <p>The author is not responsible for the consequences of use of this software, no matter how awful, even
+             if they arise from flaws in it.</p>
+        </li>
+        <li>
+          <b>2.</b>
+          <p>The origin of this software must not be misrepresented, either by explicit claim or by omission.
+             Since few users ever read sources, credits must appear in the documentation.</p>
+        </li>
+        <li>
+          <b>3.</b>
+          <p>Altered versions must be plainly marked as such, and must not be misrepresented as being the original
+             software. Since few users ever read sources, credits must appear in the documentation.</p>
+        </li>
+        <li>
+          <b>4.</b>
+          <p>This notice may not be removed or altered.</p>
+        </li>
+      </list>
+    </body>
+  </license>
+</SPDX>
