@@ -34,6 +34,7 @@
          copyright or other rights in the material. A licensor may make special requests, such as asking that
          all changes be marked or described. Although not required by our licenses, you are encouraged to
          respect those requests where reasonable. More considerations for the public.</p>
+    </optional>
       <p>Creative Commons Attribution 4.0 International Public License</p>
       <p>By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and
          conditions of this Creative Commons Attribution 4.0 International Public License ("Public License").
@@ -41,10 +42,11 @@
          Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You
          such rights in consideration of benefits the Licensor receives from making the Licensed Material
          available under these terms and conditions.</p>
-    </optional>
     <body>
+    <list>
+      <li>
       <p>Section 1 – Definitions.</p>
-      <list>
+      </li>
         <list>
           <li>
             <b>a.</b>
@@ -117,8 +119,12 @@
             <b>k.</b>
             <p>You means the individual or entity exercising the Licensed Rights under this Public License.
                Your has a corresponding meaning.</p>
-            <p>Section 2 – Scope.</p>
           </li>
+        </list>
+      <li>
+      <p>Section 2 – Scope.</p>
+      </li>
+      <list>
           <li>
             <b>a.</b>
             <p>License grant.</p>
