@@ -3,9 +3,9 @@
     <url>https://fedoraproject.org/wiki/Licensing/Xinetd_License</url>
   </urls>
   <license>
-    <title>
+    <optional>
       <p>ORIGINAL LICENSE: This software is</p>
-    </title>
+    </optional>
     <copyright>
       <p>(c) Copyright 1992 by Panagiotis Tsirigotis</p>
     </copyright>
