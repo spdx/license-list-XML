@@ -23,12 +23,10 @@
         <br/>or anything else. 
       </p>
       <list>
-        <list>
-          <li>
-            <b>0.</b>
-            <p>No limit to do anything with this work and this license.</p>
-          </li>
-        </list>
+        <li>
+          <b>0.</b>
+          <p>No limit to do anything with this work and this license.</p>
+        </li>
       </list>
     </body>
   </license>
