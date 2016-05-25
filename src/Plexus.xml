@@ -1,4 +1,4 @@
-<SPDX name="Plexus Classworlds License" identifier="Plexus" osi-approved="false">
+<spdx name="Plexus Classworlds License" identifier="Plexus" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/Plexus_Classworlds_License</url>
   </urls>
@@ -64,4 +64,4 @@
       </p>
     </body>
   </license>
-</SPDX>
+</spdx>
