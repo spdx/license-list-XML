@@ -1,4 +1,4 @@
-<SPDX name="NTP License" identifier="NTP" osi-approved="true">
+<spdx name="NTP License" identifier="NTP" osi-approved="true">
   <urls>
     <url>http://www.opensource.org/licenses/NTP</url>
   </urls>
@@ -23,4 +23,4 @@
       </p>
     </body>
   </license>
-</SPDX>
+</spdx>
