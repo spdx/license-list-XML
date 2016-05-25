@@ -1,4 +1,4 @@
-<SPDX name="Apple MIT License" identifier="AML" osi-approved="false">
+<spdx name="Apple MIT License" identifier="AML" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/Apple_MIT_License</url>
   </urls>
@@ -34,4 +34,4 @@
          POSSIBILITY OF SUCH DAMAGE.</p>
     </body>
   </license>
-</SPDX>
+</spdx>
