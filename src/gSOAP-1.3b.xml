@@ -1,4 +1,3 @@
-<!-- REVIEW -->
 <spdx name="gSOAP Public License v1.3b" identifier="gSOAP-1.3b" osi-approved="false">
   <urls>
     <url>http://www.cs.fsu.edu/~engelen/license.html</url>
@@ -20,9 +19,8 @@
          www.genivia.com.</p>
     </optional>
     <body>
-      <p>1 DEFINITIONS. 
-        <br/>1.0.1. 
-      </p>
+      <p><b>1</b> DEFINITIONS.</p>
+      <p><b>1.0.1.</b></p>
       <list>
         <list>
           <li>
@@ -402,37 +400,35 @@
       <p>EXHIBIT A.</p>
       <p>&quot;The contents of this file are subject to the gSOAP Public License Version 1.3 (the
          &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain
-         a copy of the License at 
-        <br/>http://www.cs.fsu.edu/ engelen/soaplicense.html 
-        <br/>Software distributed under the License is distributed on an &quot;AS IS&quot; basis, WITHOUT
-             WARRANTY OF ANY KIND, either express or implied. See the License for the specific language
-             governing rights and limitations under the License. 
-        <br/>The Original Code of the gSOAP Software is: stdsoap.h, stdsoap2.h, stdsoap.c, stdsoap2.c,
-             stdsoap.cpp, stdsoap2.cpp, soapcpp2.h, soapcpp2.c, soapcpp2_lex.l, soapcpp2_yacc.y, error2.h,
-             error2.c, symbol2.c, init2.c, soapdoc2.html, and soapdoc2.pdf, httpget.h, httpget.c, stl.h,
-             stldeque.h, stllist.h, stlvector.h, stlset.h. 
-        <br/>The Initial Developer of the Original Code is Robert A. van Engelen. Portions created by Robert A.
-             van Engelen are Copyright (C) 2001-2004 Robert A. van Engelen, Genivia inc. All Rights
-             Reserved. 
-        <br/>Contributor(s): 
-        <br/>&quot;________________________.&quot; 
-        <br/>[Note: The text of this Exhibit A may differ slightly form the text of the notices in the Source
-             Code files of the Original code. You should use the text of this Exhibit A rather than the
-             text found in the Original Code Source Code for Your Modifications.] 
-      </p>
+         a copy of the License at</p>
+      <p>http://www.cs.fsu.edu/ engelen/soaplicense.html</p>
+      <p>Software distributed under the License is distributed on an &quot;AS IS&quot; basis, WITHOUT
+           WARRANTY OF ANY KIND, either express or implied. See the License for the specific language
+           governing rights and limitations under the License.</p>
+      <p>The Original Code of the gSOAP Software is: stdsoap.h, stdsoap2.h, stdsoap.c, stdsoap2.c,
+           stdsoap.cpp, stdsoap2.cpp, soapcpp2.h, soapcpp2.c, soapcpp2_lex.l, soapcpp2_yacc.y, error2.h,
+           error2.c, symbol2.c, init2.c, soapdoc2.html, and soapdoc2.pdf, httpget.h, httpget.c, stl.h,
+           stldeque.h, stllist.h, stlvector.h, stlset.h.</p>
+      <p>The Initial Developer of the Original Code is Robert A. van Engelen. Portions created by Robert A.
+           van Engelen are Copyright (C) 2001-2004 Robert A. van Engelen, Genivia inc. All Rights
+           Reserved.</p>
+      <p>Contributor(s):</p>
+      <p>&quot;________________________.&quot;</p>
+      <p>[Note: The text of this Exhibit A may differ slightly form the text of the notices in the Source
+           Code files of the Original code. You should use the text of this Exhibit A rather than the
+           text found in the Original Code Source Code for Your Modifications.]</p>
       <p>EXHIBIT B.</p>
-      <p>&quot;Part of the software embedded in this product is gSOAP software. 
-        <br/>Portions created by gSOAP are Copyright (C) 2001-2009 Robert A. van Engelen, Genivia inc. All
-             Rights Reserved. 
-        <br/>THE SOFTWARE IN THIS PRODUCT WAS IN PART PROVIDED BY GENIVIA INC AND ANY EXPRESS OR IMPLIED
+      <p>&quot;Part of the software embedded in this product is gSOAP software.</p>
+        <p>Portions created by gSOAP are Copyright (C) 2001-2009 Robert A. van Engelen, Genivia inc. All
+             Rights Reserved.</p>
+        <p>THE SOFTWARE IN THIS PRODUCT WAS IN PART PROVIDED BY GENIVIA INC AND ANY EXPRESS OR IMPLIED
              WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
              FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
              ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
              NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
              BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
              STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
-             USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.&quot; 
-      </p>
+             USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.&quot;</p>
     </optional>
   </license>
-</SPDX>
+</spdx>
