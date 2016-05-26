@@ -1,4 +1,4 @@
-<spdx name="Computer Associates Trusted Open Source License 1.1" identifier="CATOSL-1.1" osi-approved="true">
+<SPDX name="Computer Associates Trusted Open Source License 1.1" identifier="CATOSL-1.1" osi-approved="true">
   <urls>
     <url>http://opensource.org/licenses/CATOSL-1.1</url>
   </urls>
@@ -241,6 +241,7 @@
                  reasonably allows subsequent Recipients to identify the originator of the Contribution.</p>
             </li>
           </list>
+        </li>
         <li>
           <b>4.</b>
           <p>CONTRIBUTION RESTRICTIONS</p>
