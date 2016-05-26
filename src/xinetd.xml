@@ -1,4 +1,4 @@
-<SPDX name="xinetd License" identifier="xinetd" osi-approved="false">
+<spdx name="xinetd License" identifier="xinetd" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/Xinetd_License</url>
   </urls>
@@ -55,4 +55,4 @@
          next release 2.3.0 would put to rest the confusion about 2.2.1 and 2.1.8.*.</p>
     </optional>
   </license>
-</SPDX>
+</spdx>
