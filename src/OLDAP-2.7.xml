@@ -44,8 +44,10 @@
          the sale, use or other dealing in this Software without specific, written prior permission. Title to
          copyright in this Software shall at all times remain with copyright holders.</p>
       <p>OpenLDAP is a registered trademark of the OpenLDAP Foundation.</p>
-      <p>Copyright 1999-2001 The OpenLDAP Foundation, Redwood City, California, USA. All Rights Reserved.
-         Permission to copy and distribute verbatim copies of this document is granted.</p>
+      <p>
+        <copyright>Copyright 1999-2001 The OpenLDAP Foundation, Redwood City, California, USA. All Rights Reserved.</copyright>
+        Permission to copy and distribute verbatim copies of this document is granted.
+      </p>
     </body>
   </license>
 </SPDX>
