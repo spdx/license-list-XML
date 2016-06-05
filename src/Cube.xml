@@ -29,8 +29,10 @@
         <li>
           <b>3.</b>
           <p>This notice may not be removed or altered from any source distribution.</p>
-          <p>additional clause specific to Cube:</p>
         </li>
+      </list>
+      <p>additional clause specific to Cube:</p>
+      <list>
         <li>
           <b>4.</b>
           <p>Source versions may not be &quot;relicensed&quot; under a different license without my
