@@ -412,14 +412,14 @@
         </li>
         <li>
           <b>12.</b>
-          <p>RESPONSIBILITY FOR CLAIMS.</p>
+          <p>RESPONSIBILITY FOR CLAIMS.
+            <br/>Except in cases where another Contributor has failed to comply with Section 3.4, You are responsible for
+                 damages arising, directly or indirectly, out of Your utilization of rights under this License, based
+                 on the number of copies of Covered Code you made available, the revenues you received from utilizing
+                 such rights, and other relevant factors. You agree to work with affected parties to distribute
+                 responsibility on an equitable basis.</p>
         </li>
       </list>
-      <p>Except in cases where another Contributor has failed to comply with Section 3.4, You are responsible for
-         damages arising, directly or indirectly, out of Your utilization of rights under this License, based
-         on the number of copies of Covered Code you made available, the revenues you received from utilizing
-         such rights, and other relevant factors. You agree to work with affected parties to distribute
-         responsibility on an equitable basis.</p>
     </body>
     <optional>
       <p>EXHIBIT A.</p>
