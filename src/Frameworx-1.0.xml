@@ -23,143 +23,146 @@
       <p>AGREEMENT TERMS 
         <br/>The Frameworx Company and You have agreed as follows: 
       </p>
-      <p>1.Definitions.The following terms have the following respective meanings:</p>
       <list>
-        <list>
-          <li>
-            <b>(a)</b>
-            <p>Frameworx Code Base means the software developed by The Frameworx Company and made available
-               under this License Agreement</p>
-          </li>
-          <li>
-            <b>(b)</b>
-            <p>Downstream Distribution means any direct or indirect release, distribution or remote
-               availability of software (i) that directly or indirectly contains, or depends for its
-               intended functioning on, the Frameworx Code Base or any portion or element thereof and
-               (ii) in which rights to use and distribute such Frameworx Code Base software depend,
-               directly or indirectly, on the License provided in Section 2 below.</p>
-          </li>
-          <li>
-            <b>(c)</b>
-            <p>&quot;Source Code&quot; to any software means the preferred form for making modifications to
-               that software, including any associated documentation, interface definition files and
-               compilation or installation scripts, or any version thereof that has been compressed or
-               archived, and can be reconstituted, using an appropriate and generally available archival
-               or compression technology.</p>
-          </li>
-          <li>
-            <b>(d)</b>
-            <p>Value-Added Services means any commercial or fee-based software-related service, including
-               without limitation: system or application development or consulting; technical or end-user
-               support or training; distribution maintenance, configuration or versioning; or outsourced,
-               hosted or network-based application services.</p>
-          </li>
-        </list>
+        <li>
+          <b>1.</b>
+          <p>Definitions.The following terms have the following respective meanings:</p>
+          <list>
+            <li>
+              <b>(a)</b>
+              <p>Frameworx Code Base means the software developed by The Frameworx Company and made available
+                 under this License Agreement</p>
+            </li>
+            <li>
+              <b>(b)</b>
+              <p>Downstream Distribution means any direct or indirect release, distribution or remote
+                 availability of software (i) that directly or indirectly contains, or depends for its
+                 intended functioning on, the Frameworx Code Base or any portion or element thereof and
+                 (ii) in which rights to use and distribute such Frameworx Code Base software depend,
+                 directly or indirectly, on the License provided in Section 2 below.</p>
+            </li>
+            <li>
+              <b>(c)</b>
+              <p>&quot;Source Code&quot; to any software means the preferred form for making modifications to
+                 that software, including any associated documentation, interface definition files and
+                 compilation or installation scripts, or any version thereof that has been compressed or
+                 archived, and can be reconstituted, using an appropriate and generally available archival
+                 or compression technology.</p>
+            </li>
+            <li>
+              <b>(d)</b>
+              <p>Value-Added Services means any commercial or fee-based software-related service, including
+                 without limitation: system or application development or consulting; technical or end-user
+                 support or training; distribution maintenance, configuration or versioning; or outsourced,
+                 hosted or network-based application services.</p>
+            </li>
+          </list>
+        </li>
         <li>
           <b>2.</b>
           <p>License Grant. Subject to the terms and conditions hereof, The Frameworx Company hereby grants
              You a non-exclusive license (the License), subject to third party intellectual property
              claims, and for no fee other than a nominal charge reflecting the costs of physical
              distribution, to:</p>
+          <list>
+            <li>
+              <b>(a)</b>
+              <p>use the Frameworx Code Base, in either Source Code or machine-readable form;</p>
+            </li>
+            <li>
+              <b>(b)</b>
+              <p>make modifications, additions and deletions to the content or structure of the Frameworx Code
+                 Base; or</p>
+            </li>
+            <li>
+              <b>(c)</b>
+              <p>create larger works or derivative works including the Frameworx Code Base or any portion or
+                 element thereof; and</p>
+            </li>
+            <li>
+              <b>(d)</b>
+              <p>release, distribute or make available, either generally or to any specific third-party, any
+                 of the foregoing in Source Code or binary form.</p>
+            </li>
+          </list>
         </li>
-        <list>
-          <li>
-            <b>(a)</b>
-            <p>use the Frameworx Code Base, in either Source Code or machine-readable form;</p>
-          </li>
-          <li>
-            <b>(b)</b>
-            <p>make modifications, additions and deletions to the content or structure of the Frameworx Code
-               Base; or</p>
-          </li>
-          <li>
-            <b>(c)</b>
-            <p>create larger works or derivative works including the Frameworx Code Base or any portion or
-               element thereof; and</p>
-          </li>
-          <li>
-            <b>(d)</b>
-            <p>release, distribute or make available, either generally or to any specific third-party, any
-               of the foregoing in Source Code or binary form.</p>
-          </li>
-        </list>
         <li>
           <b>3.</b>
           <p>License Conditions. The grant of the License under Section 1 hereof, and your exercise of all
              rights in connection with this License Agreement, will remain subject to the following terms
              and conditions, as well as to the other provisions hereof:</p>
-        </li>
-        <list>
-          <li>
-            <b>(a)</b>
-            <p>Complete Source Code for any Downstream Distribution directly or indirectly made by You that
-               contains, or depends for its intended functionality on, the Frameworx Code Base, or any
-               portion or element thereof, shall be made freely available to all users thereof on terms
-               and conditions no more restrictive, and no less favorable for any user (including, without
-               limitation, with regard to Source Code availability and royalty-free use) than those terms
-               and conditions provided in this License Agreement.</p>
-          </li>
-          <li>
-            <b>(b)</b>
-            <p>Any Value-Added Services that you offer or provide, directly or indirectly, in relation to
-               any Downstream Distribution shall be offered and provided on commercial terms that are
-               reasonably commensurate to the fair market value of such Value-Added Services. In
-               addition, the terms and conditions on which any such Value Added Services are so offered
-               or provided shall be consistent with, and shall fully support, the intent and purpose of
-               this License Agreement.</p>
-          </li>
-          <li>
-            <b>(c)</b>
-            <p>All Downstream Distributions shall:</p>
-          </li>
           <list>
             <li>
-              <b>(i)</b>
-              <p>include all portions and elements of the Frameworx Code Base required to build the Source
-                 Code of such Downstream Distribution into a fully functional machine-executable
-                 system, or additional build scripts or comparable software necessary and sufficient
-                 for such purposes;</p>
+              <b>(a)</b>
+              <p>Complete Source Code for any Downstream Distribution directly or indirectly made by You that
+                 contains, or depends for its intended functionality on, the Frameworx Code Base, or any
+                 portion or element thereof, shall be made freely available to all users thereof on terms
+                 and conditions no more restrictive, and no less favorable for any user (including, without
+                 limitation, with regard to Source Code availability and royalty-free use) than those terms
+                 and conditions provided in this License Agreement.</p>
             </li>
             <li>
-              <b>(ii)</b>
-              <p>include, in each file containing any portion or element of the Frameworx Code Base, the
-                 following identifying legend: This file contains software that has been made available
-                 under The Frameworx Open License 1.0. Use and distribution hereof are subject to the
-                 restrictions set forth therein.</p>
+              <b>(b)</b>
+              <p>Any Value-Added Services that you offer or provide, directly or indirectly, in relation to
+                 any Downstream Distribution shall be offered and provided on commercial terms that are
+                 reasonably commensurate to the fair market value of such Value-Added Services. In
+                 addition, the terms and conditions on which any such Value Added Services are so offered
+                 or provided shall be consistent with, and shall fully support, the intent and purpose of
+                 this License Agreement.</p>
             </li>
             <li>
-              <b>(iii)</b>
-              <p>include all other copyright notices, authorship credits, warranty disclaimers (including
-                 that provided in Section 6 below), legends, documentation, annotations and comments
-                 contained in the Frameworx Code Base as provided to You hereunder;</p>
-            </li>
-            <li>
-              <b>(iv)</b>
-              <p>contain an unaltered copy of the html file named frameworx_community_invitation.html
-                 included within the Frameworx Code Base that acknowledges new users and provides them
-                 with information on the Frameworx Code Base community;</p>
-            </li>
-            <li>
-              <b>(v)</b>
-              <p>contain an unaltered copy of the text file named the_frameworx_license.txt included
-                 within the Frameworx Code Base that includes a text copy of the form of this License
-                 Agreement; and</p>
-            </li>
-            <li>
-              <b>(vi)</b>
-              <p>prominently display to any viewer or user of the Source Code of such Open Downstream
-                 Distribution, in the place and manner normally used for such displays, the following
-                 legend:</p>
-              <p>Source code licensed under from The Frameworx Company is contained herein, and such
-                 source code has been obtained either under The Frameworx Open License, or another
-                 license granted by The Frameworx Company. Use and distribution hereof is subject to
-                 the restrictions provided in the relevant such license and to the copyrights of the
-                 licensor thereunder. A copy of The Frameworx Open License is provided in a file named
-                 the_frameworx_license.txt and included herein, and may also be available for
-                 inspection at http://www.frameworx.com.</p>
+              <b>(c)</b>
+              <p>All Downstream Distributions shall:</p>
+              <list>
+                <li>
+                  <b>(i)</b>
+                  <p>include all portions and elements of the Frameworx Code Base required to build the Source
+                     Code of such Downstream Distribution into a fully functional machine-executable
+                     system, or additional build scripts or comparable software necessary and sufficient
+                     for such purposes;</p>
+                </li>
+                <li>
+                  <b>(ii)</b>
+                  <p>include, in each file containing any portion or element of the Frameworx Code Base, the
+                     following identifying legend: This file contains software that has been made available
+                     under The Frameworx Open License 1.0. Use and distribution hereof are subject to the
+                     restrictions set forth therein.</p>
+                </li>
+                <li>
+                  <b>(iii)</b>
+                  <p>include all other copyright notices, authorship credits, warranty disclaimers (including
+                     that provided in Section 6 below), legends, documentation, annotations and comments
+                     contained in the Frameworx Code Base as provided to You hereunder;</p>
+                </li>
+                <li>
+                  <b>(iv)</b>
+                  <p>contain an unaltered copy of the html file named frameworx_community_invitation.html
+                     included within the Frameworx Code Base that acknowledges new users and provides them
+                     with information on the Frameworx Code Base community;</p>
+                </li>
+                <li>
+                  <b>(v)</b>
+                  <p>contain an unaltered copy of the text file named the_frameworx_license.txt included
+                     within the Frameworx Code Base that includes a text copy of the form of this License
+                     Agreement; and</p>
+                </li>
+                <li>
+                  <b>(vi)</b>
+                  <p>prominently display to any viewer or user of the Source Code of such Open Downstream
+                     Distribution, in the place and manner normally used for such displays, the following
+                     legend:</p>
+                </li>
+              </list>
             </li>
           </list>
-        </list>
+          <p>Source code licensed under from The Frameworx Company is contained herein, and such
+             source code has been obtained either under The Frameworx Open License, or another
+             license granted by The Frameworx Company. Use and distribution hereof is subject to
+             the restrictions provided in the relevant such license and to the copyrights of the
+             licensor thereunder. A copy of The Frameworx Open License is provided in a file named
+             the_frameworx_license.txt and included herein, and may also be available for
+             inspection at http://www.frameworx.com.</p>
+        </li>
         <li>
           <b>4.</b>
           <p>Restrictions on Open Downstream Distributions. Each Downstream Distribution made by You, and by
@@ -168,30 +171,30 @@
              distributee under that Downstream Distribution will be subject to the same restrictions on
              re-distribution and use as are binding on You hereunder. You may satisfy this licensing
              requirement either by:</p>
+          <list>
+            <li>
+              <b>(a)</b>
+              <p>requiring as a condition to any Downstream Distribution made by you, or by any direct or
+                 indirect distributee of Your Downstream Distribution (or any portion or element thereof),
+                 that each distributee under the relevant Downstream Distribution obtain a direct license
+                 (on the same terms and conditions as those in this License Agreement) from The Frameworx
+                 Company; or</p>
+            </li>
+            <li>
+              <b>(b)</b>
+              <p>sub-licensing all (and not less than all) of Your rights and obligations hereunder to that
+                 distributee, including (without limitation) Your obligation to require distributees to be
+                 bound by license restrictions as contemplated by this Section 4 above.</p>
+            </li>
+          </list>
+          <p>The Frameworx Company hereby grants to you all rights to sub-license your rights hereunder as
+             necessary to fully effect the intent and purpose of this Section 4 above, provided,
+             however, that your rights and obligations hereunder shall be unaffected by any such
+             sublicensing. In addition, The Frameworx Company expressly retains all rights to take all
+             appropriate action (including legal action) against any such direct or indirect
+             sub-licensee to ensure its full compliance with the intent and purposes of this License
+             Agreement.</p>
         </li>
-        <list>
-          <li>
-            <b>(a)</b>
-            <p>requiring as a condition to any Downstream Distribution made by you, or by any direct or
-               indirect distributee of Your Downstream Distribution (or any portion or element thereof),
-               that each distributee under the relevant Downstream Distribution obtain a direct license
-               (on the same terms and conditions as those in this License Agreement) from The Frameworx
-               Company; or</p>
-          </li>
-          <li>
-            <b>(b)</b>
-            <p>sub-licensing all (and not less than all) of Your rights and obligations hereunder to that
-               distributee, including (without limitation) Your obligation to require distributees to be
-               bound by license restrictions as contemplated by this Section 4 above.</p>
-            <p>The Frameworx Company hereby grants to you all rights to sub-license your rights hereunder as
-               necessary to fully effect the intent and purpose of this Section 4 above, provided,
-               however, that your rights and obligations hereunder shall be unaffected by any such
-               sublicensing. In addition, The Frameworx Company expressly retains all rights to take all
-               appropriate action (including legal action) against any such direct or indirect
-               sub-licensee to ensure its full compliance with the intent and purposes of this License
-               Agreement.</p>
-          </li>
-        </list>
         <li>
           <b>5.</b>
           <p>Intellectual Property. Except as expressly provided herein, this License Agreement preserves and
@@ -222,11 +225,8 @@
           <p>Your agreement to the foregoing as of the date hereof has been evidenced by your acceptance of
              the relevant software distribution hereunder.</p>
         </li>
-        <li>
-          <b>(C)</b>
-          <p>THE FRAMEWORX COMPANY 2003</p>
-        </li>
       </list>
+      <copyright>(C) THE FRAMEWORX COMPANY 2003</copyright>
     </body>
   </license>
 </SPDX>
