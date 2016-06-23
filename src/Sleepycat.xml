@@ -5,12 +5,11 @@
   </urls>
   <license>
     <title>
-      <p>The Sleepycat License Copyright (c) 1990-1999 Sleepycat Software. All rights reserved.</p>
+      <p>The Sleepycat License <copyright>Copyright (c) 1990-1999 Sleepycat Software. All rights reserved.</copyright></p>
     </title>
     <body>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
-      <list></list>
       <list>
         <li>
           <b>-</b>
@@ -49,7 +48,6 @@
     <body>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
-      <list></list>
       <list>
         <li>
           <b>-</b>
@@ -83,7 +81,6 @@
     <body>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
-      <list></list>
       <list>
         <li>
           <b>-</b>
