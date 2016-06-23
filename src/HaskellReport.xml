@@ -7,7 +7,9 @@
       <p>Code derived from the document "Report on the Programming Language 
         <br/>Haskell 2010", is distributed under the following license: 
       </p>
-      <p>Copyright (c) 2010 Simon Marlow</p>
+      <p>
+        <copyright>Copyright (c) 2010 Simon Marlow</copyright>
+      </p>
       <p>The authors intend this Report to belong to the entire Haskell community, and so we grant permission to
          copy and distribute it for any purpose, provided that it is reproduced in its entirety, including this
          Notice. Modified versions of this Report may also be copied and distributed for any purpose, provided
