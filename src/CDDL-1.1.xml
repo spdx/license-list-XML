@@ -397,12 +397,12 @@
         <li>
           <b>10.</b>
           <p>RESPONSIBILITY FOR CLAIMS.</p>
+          <p>As between Initial Developer and the Contributors, each party is responsible for claims and damages
+             arising, directly or indirectly, out of its utilization of rights under this License and You agree to
+             work with Initial Developer and Contributors to distribute such responsibility on an equitable basis.
+             Nothing herein is intended or shall be deemed to constitute any admission of liability.</p>
         </li>
       </list>
-      <p>As between Initial Developer and the Contributors, each party is responsible for claims and damages
-         arising, directly or indirectly, out of its utilization of rights under this License and You agree to
-         work with Initial Developer and Contributors to distribute such responsibility on an equitable basis.
-         Nothing herein is intended or shall be deemed to constitute any admission of liability.</p>
       <p>NOTICE PURSUANT TO SECTION 9 OF THE COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) 
         <br/>The code released under the CDDL shall be governed by the laws of the State of California
              (excluding conflict-of-law provisions). Any litigation relating to this License shall be
