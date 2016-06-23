@@ -1,19 +1,20 @@
-<spdx name="Open Software License 3.0" identifier="OSL-3.0" osi-approved="true">
+<SPDX name="Open Software License 3.0" identifier="OSL-3.0" osi-approved="true">
   <urls>
     <url>http://www.rosenlaw.com/OSL3.0.htm</url>
     <url>http://www.opensource.org/licenses/OSL-3.0</url>
   </urls>
+  <header>
+    <p>Licensed under the Open Software License version 3.0</p>
+  </header>
   <license>
     <title>
       <p>Open Software License v. 3.0 (OSL-3.0)</p>
     </title>
-    <optional>
+    <body>
       <p>This Open Software License (the &quot;License&quot;) applies to any original work of authorship (the
          &quot;Original Work&quot;) whose owner (the &quot;Licensor&quot;) has placed the following licensing
          notice adjacent to the copyright notice for the Original Work:</p>
       <p>Licensed under the Open Software License version 3.0</p>
-    </optional>
-    <body>
       <list>
         <li>
           <b>1)</b>
