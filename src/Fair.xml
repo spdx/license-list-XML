@@ -1,6 +1,7 @@
 <SPDX name="Fair License" identifier="Fair" osi-approved="true">
   <urls>
     <url>http://www.opensource.org/licenses/Fair</url>
+    <url>http://fairlicense.org/</url>
   </urls>
   <license>
     <title>
@@ -14,13 +15,5 @@
          entity that uses the works is notified of this instrument.</p>
       <p>DISCLAIMER: THE WORKS ARE WITHOUT WARRANTY.</p>
     </body>
-    <optional>
-      <list>
-        <li>
-          <b>[2004,</b>
-          <p>Fair License: rhid.com/fair (this URL no longer works)]</p>
-        </li>
-      </list>
-    </optional>
   </license>
 </SPDX>
