@@ -47,56 +47,56 @@
           <p>You may otherwise modify your copy of this Package in any way, provided that you insert a
              prominent notice in each changed file stating how and when you changed that file, and provided
              that you do at least ONE of the following:</p>
+            <list>
+              <li>
+                <b>a)</b>
+                <p>place your modifications in the Public Domain or otherwise make them Freely Available, such
+                   as by posting said modifications to Usenet or an equivalent medium, or placing the
+                   modifications on a major archive site such as uunet.uu.net, or by allowing the Copyright
+                   Holder to include your modifications in the Standard Version of the Package.</p>
+              </li>
+              <li>
+                <b>b)</b>
+                <p>use the modified Package only within your corporation or organization.</p>
+              </li>
+              <li>
+                <b>c)</b>
+                <p>rename any non-standard executables so the names do not conflict with standard executables,
+                   which must also be provided, and provide a separate manual page for each non-standard
+                   executable that clearly documents how it differs from the Standard Version.</p>
+              </li>
+              <li>
+                <b>d)</b>
+                <p>make other distribution arrangements with the Copyright Holder.</p>
+              </li>
+            </list>
         </li>
-        <list>
-          <li>
-            <b>a)</b>
-            <p>place your modifications in the Public Domain or otherwise make them Freely Available, such
-               as by posting said modifications to Usenet or an equivalent medium, or placing the
-               modifications on a major archive site such as uunet.uu.net, or by allowing the Copyright
-               Holder to include your modifications in the Standard Version of the Package.</p>
-          </li>
-          <li>
-            <b>b)</b>
-            <p>use the modified Package only within your corporation or organization.</p>
-          </li>
-          <li>
-            <b>c)</b>
-            <p>rename any non-standard executables so the names do not conflict with standard executables,
-               which must also be provided, and provide a separate manual page for each non-standard
-               executable that clearly documents how it differs from the Standard Version.</p>
-          </li>
-          <li>
-            <b>d)</b>
-            <p>make other distribution arrangements with the Copyright Holder.</p>
-          </li>
-        </list>
         <li>
           <b>4.</b>
           <p>You may distribute the programs of this Package in object code or executable form, provided that
              you do at least ONE of the following:</p>
+            <list>
+              <li>
+                <b>a)</b>
+                <p>distribute a Standard Version of the executables and library files, together with
+                   instructions (in the manual page or equivalent) on where to get the Standard Version.</p>
+              </li>
+              <li>
+                <b>b)</b>
+                <p>accompany the distribution with the machine-readable source of the Package with your modifications.</p>
+              </li>
+              <li>
+                <b>c)</b>
+                <p>give non-standard executables non-standard names, and clearly document the differences in
+                   manual pages (or equivalent), together with instructions on where to get the Standard
+                   Version.</p>
+              </li>
+              <li>
+                <b>d)</b>
+                <p>make other distribution arrangements with the Copyright Holder.</p>
+              </li>
+            </list>
         </li>
-        <list>
-          <li>
-            <b>a)</b>
-            <p>distribute a Standard Version of the executables and library files, together with
-               instructions (in the manual page or equivalent) on where to get the Standard Version.</p>
-          </li>
-          <li>
-            <b>b)</b>
-            <p>accompany the distribution with the machine-readable source of the Package with your modifications.</p>
-          </li>
-          <li>
-            <b>c)</b>
-            <p>give non-standard executables non-standard names, and clearly document the differences in
-               manual pages (or equivalent), together with instructions on where to get the Standard
-               Version.</p>
-          </li>
-          <li>
-            <b>d)</b>
-            <p>make other distribution arrangements with the Copyright Holder.</p>
-          </li>
-        </list>
         <li>
           <b>5.</b>
           <p>You may charge a reasonable copying fee for any distribution of this Package. You may charge any
@@ -151,4 +151,4 @@
       <p>The End</p>
     </optional>
   </license>
-</SPDX>
+</spdx>
