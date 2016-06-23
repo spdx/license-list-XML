@@ -2,23 +2,21 @@
   <urls>
     <url>http://web.archive.org/web/20041020171434/http://www.rosenlaw.com/osl2.0.html</url>
   </urls>
+  <header>Licensed under the Open Software License version 2.0</header>
   <license>
     <title>
       <p>Open Software Licensev. 2.0</p>
     </title>
-    <optional>
+    <body>
       <p>This Open Software License (the &quot;License&quot;) applies to any original work of authorship (the
          &quot;Original Work&quot;) whose owner (the &quot;Licensor&quot;) has placed the following notice
          immediately following the copyright notice for the Original Work:</p>
       <p>Licensed under the Open Software License version 2.0</p>
-    </optional>
-    <body>
       <list>
         <li>
           <b>1)</b>
           <p>Grant of Copyright License. Licensor hereby grants You a world-wide, royalty-free, non-exclusive,
              perpetual, sublicenseable license to do the following:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -43,6 +41,7 @@
             <p>to display the Original Work publicly.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2)</b>
           <p>Grant of Patent License. Licensor hereby grants You a world-wide, royalty-free, non-exclusive,
