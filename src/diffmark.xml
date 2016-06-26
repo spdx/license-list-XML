@@ -1,4 +1,4 @@
-<SPDX name="diffmark license" identifier="diffmark" osi-approved="false">
+<spdx name="diffmark license" identifier="diffmark" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/diffmark</url>
   </urls>
@@ -16,4 +16,4 @@
       </list>
     </body>
   </license>
-</SPDX>
+</spdx>
