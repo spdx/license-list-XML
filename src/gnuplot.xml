@@ -1,0 +1,43 @@
+<spdx name="gnuplot License" identifier="gnuplot" osi-approved="false">
+  <urls>
+    <url>https://fedoraproject.org/wiki/Licensing/Gnuplot</url>
+  </urls>
+  <license>
+    <copyright>
+      <p>Copyright 1986 - 1993, 1998, 2004 Thomas Williams, Colin Kelley</p>
+    </copyright>
+    <body>
+      <p>Permission to use, copy, and distribute this software and its documentation for any purpose with or
+         without fee is hereby granted, provided that the above copyright notice appear in all copies and that
+         both that copyright notice and this permission notice appear in supporting documentation.</p>
+      <p>Permission to modify the software is granted, but not the right to distribute the complete modified
+         source code. Modifications are to be distributed as patches to the released version. Permission to
+         distribute binaries produced by compiling modified sources is granted, provided you</p>
+      <list>
+        <li>
+          <b>1.</b>
+          <p>distribute the corresponding source modifications from the released version in the form of a
+             patch file along with the binaries,</p>
+        </li>
+        <li>
+          <b>2.</b>
+          <p>add special version identification to distinguish your version in addition to the base
+             release version number,</p>
+        </li>
+        <li>
+          <b>3.</b>
+          <p>provide your name and address as the primary contact for the support of your modified version, and</p>
+        </li>
+        <li>
+          <b>4.</b>
+          <p>retain our contact information in regard to use of the base software.</p>
+        </li>
+      </list>
+      <p>Permission to distribute the released version of the source code along with corresponding source
+         modifications in the form of a patch file is granted with same provisions 2 through 4 for binary
+         distributions.</p>
+      <p>This software is provided &quot;as is&quot; without express or implied warranty to the extent permitted
+         by applicable law.</p>
+    </body>
+  </license>
+</SPDX>
