@@ -1,4 +1,4 @@
-<SPDX name="Academic Free License v1.1" identifier="AFL-1.1" osi-approved="true">
+<spdx name="Academic Free License v1.1" identifier="AFL-1.1" osi-approved="true">
   <urls>
     <url>http://opensource.linux-mirror.org/licenses/afl-1.1.txt</url>
   </urls>
@@ -75,4 +75,4 @@
       </p>
     </body>
   </license>
-</SPDX>
+</spdx>
