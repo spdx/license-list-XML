@@ -1,4 +1,4 @@
-<SPDX name="dvipdfm License" identifier="dvipdfm" osi-approved="false">
+<spdx name="dvipdfm License" identifier="dvipdfm" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/dvipdfm</url>
   </urls>
@@ -9,4 +9,4 @@
          files.</p>
     </body>
   </license>
-</SPDX>
+</spdx>
