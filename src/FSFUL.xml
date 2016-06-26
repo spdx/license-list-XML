@@ -1,4 +1,4 @@
-<SPDX name="FSF Unlimited License" identifier="FSFUL" osi-approved="false">
+<spdx name="FSF Unlimited License" identifier="FSFUL" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License</url>
   </urls>
@@ -11,4 +11,4 @@
          distribute and modify it.</p>
     </body>
   </license>
-</SPDX>
+</spdx>
