@@ -1,4 +1,4 @@
-<SPDX name="FSF Unlimited License (with License Retention)" identifier="FSFULLR" osi-approved="false">
+<spdx name="FSF Unlimited License (with License Retention)" identifier="FSFULLR" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License#License_Retention_Variant</url>
   </urls>
@@ -11,4 +11,4 @@
          distribute it, with or without modifications, as long as this notice is preserved.</p>
     </body>
   </license>
-</SPDX>
+</spdx>
