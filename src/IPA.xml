@@ -61,14 +61,16 @@
           <b>8.</b>
           <p>&quot;Recipient&quot; shall mean anyone who receives the Licensed Program under this Agreement,
              including one that receives the Licensed Program from a Recipient.</p>
-          <p>Article 2 (Grant of License)</p>
-          <p>The Licensor grants to the Recipient a license to use the Licensed Program in any and all
-             countries in accordance with each of the provisions set forth in this Agreement. However, any
-             and all rights underlying in the Licensed Program shall be held by the Licensor. In no sense
-             is this Agreement intended to transfer any right relating to the Licensed Program held by the
-             Licensor except as specifically set forth herein or any right relating to any trademark, trade
-             name, or service mark to the Recipient.</p>
         </li>
+      </list>
+      <p>Article 2 (Grant of License)</p>
+      <p>The Licensor grants to the Recipient a license to use the Licensed Program in any and all
+         countries in accordance with each of the provisions set forth in this Agreement. However, any
+         and all rights underlying in the Licensed Program shall be held by the Licensor. In no sense
+         is this Agreement intended to transfer any right relating to the Licensed Program held by the
+         Licensor except as specifically set forth herein or any right relating to any trademark, trade
+         name, or service mark to the Recipient.</p>
+      <list>
         <li>
           <b>1.</b>
           <p>The Recipient may install the Licensed Program on any number of Computers and use the same in
@@ -110,76 +112,78 @@
           <p>The Recipient may create, use, reproduce and/or Redistribute a Derived Program under the terms
              stated above for the Licensed Program: provided, that the Recipient shall follow the
              provisions set forth in Article 3 Paragraph 1 when Redistributing the Derived Program.</p>
-          <p>Article 3 (Restriction)</p>
-          <p>The license granted in the preceding Article shall be subject to the following restrictions:</p>
         </li>
+      </list>
+      <p>Article 3 (Restriction)</p>
+      <p>The license granted in the preceding Article shall be subject to the following restrictions:</p>
+      <list>
         <li>
           <b>1.</b>
           <p>If a Derived Program is Redistributed pursuant to Paragraph 4 and 7 of the preceding Article, the
              following conditions must be met :</p>
-        </li>
-        <list>
-          <li>
-            <b>(1)</b>
-            <p>The following must be also Redistributed together with the Derived Program, or be made
-               available online or by means of mailing mechanisms in exchange for a cost which does not
-               exceed the total costs of postage, storage medium and handling fees:</p>
-          </li>
           <list>
             <li>
-              <b>(a)</b>
-              <p>a copy of the Derived Program; and</p>
+              <b>(1)</b>
+              <p>The following must be also Redistributed together with the Derived Program, or be made
+                 available online or by means of mailing mechanisms in exchange for a cost which does not
+                 exceed the total costs of postage, storage medium and handling fees:</p>
+              <list>
+                <li>
+                  <b>(a)</b>
+                  <p>a copy of the Derived Program; and</p>
+                </li>
+                <li>
+                  <b>(b)</b>
+                  <p>any additional file created by the font developing program in the course of creating the
+                     Derived Program that can be used for further modification of the Derived Program, if
+                     any.</p>
+                </li>
+              </list>
             </li>
             <li>
-              <b>(b)</b>
-              <p>any additional file created by the font developing program in the course of creating the
-                 Derived Program that can be used for further modification of the Derived Program, if
-                 any.</p>
+              <b>(2)</b>
+              <p>It is required to also Redistribute means to enable recipients of the Derived Program to
+                 replace the Derived Program with the Licensed Program first released under this License
+                 (the &quot;Original Program&quot;). Such means may be to provide a difference file from
+                 the Original Program, or instructions setting out a method to replace the Derived Program
+                 with the Original Program.</p>
+            </li>
+            <li>
+              <b>(3)</b>
+              <p>The Recipient must license the Derived Program under the terms and conditions of this Agreement.</p>
+            </li>
+            <li>
+              <b>(4)</b>
+              <p>No one may use or include the name of the Licensed Program as a program name, font name or
+                 file name of the Derived Program.</p>
+            </li>
+            <li>
+              <b>(5)</b>
+              <p>Any material to be made available online or by means of mailing a medium to satisfy the
+                 requirements of this paragraph may be provided, verbatim, by any party wishing to do
+                 so.</p>
             </li>
           </list>
-          <li>
-            <b>(2)</b>
-            <p>It is required to also Redistribute means to enable recipients of the Derived Program to
-               replace the Derived Program with the Licensed Program first released under this License
-               (the &quot;Original Program&quot;). Such means may be to provide a difference file from
-               the Original Program, or instructions setting out a method to replace the Derived Program
-               with the Original Program.</p>
-          </li>
-          <li>
-            <b>(3)</b>
-            <p>The Recipient must license the Derived Program under the terms and conditions of this Agreement.</p>
-          </li>
-          <li>
-            <b>(4)</b>
-            <p>No one may use or include the name of the Licensed Program as a program name, font name or
-               file name of the Derived Program.</p>
-          </li>
-          <li>
-            <b>(5)</b>
-            <p>Any material to be made available online or by means of mailing a medium to satisfy the
-               requirements of this paragraph may be provided, verbatim, by any party wishing to do
-               so.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>2.</b>
           <p>If the Recipient Redistributes the Licensed Program pursuant to Paragraph 6 of the preceding
              Article, the Recipient shall meet all of the following conditions:</p>
+          <list>
+            <li>
+              <b>(1)</b>
+              <p>The Recipient may not change the name of the Licensed Program.</p>
+            </li>
+            <li>
+              <b>(2)</b>
+              <p>The Recipient may not alter or otherwise modify the Licensed Program.</p>
+            </li>
+            <li>
+              <b>(3)</b>
+              <p>The Recipient must attach a copy of this Agreement to the Licensed Program.</p>
+            </li>
+          </list>
         </li>
-        <list>
-          <li>
-            <b>(1)</b>
-            <p>The Recipient may not change the name of the Licensed Program.</p>
-          </li>
-          <li>
-            <b>(2)</b>
-            <p>The Recipient may not alter or otherwise modify the Licensed Program.</p>
-          </li>
-          <li>
-            <b>(3)</b>
-            <p>The Recipient must attach a copy of this Agreement to the Licensed Program.</p>
-          </li>
-        </list>
         <li>
           <b>3.</b>
           <p>THIS LICENSED PROGRAM IS PROVIDED BY THE LICENSOR &quot;AS IS&quot; AND ANY EXPRESSED OR IMPLIED
@@ -199,8 +203,10 @@
           <p>The Licensor is under no obligation to respond to any technical questions or inquiries, or
              provide any other user support in connection with the installation, use or the Reproduction
              and Other Exploitation of the Licensed Program or Derived Programs thereof.</p>
-          <p>Article 4 (Termination of Agreement)</p>
         </li>
+      </list>
+      <p>Article 4 (Termination of Agreement)</p>
+      <list>
         <li>
           <b>1.</b>
           <p>The term of this Agreement shall begin from the time of receipt of the Licensed Program by the
@@ -216,8 +222,10 @@
              Program: provided that such termination shall not affect any rights of any other Recipient
              receiving the Licensed Program or the Derived Program from such Recipient who breached this
              Agreement.</p>
-          <p>Article 5 (Governing Law)</p>
         </li>
+      </list>
+      <p>Article 5 (Governing Law)</p>
+      <list>
         <li>
           <b>1.</b>
           <p>IPA may publish revised and/or new versions of this License. In such an event, the Recipient may
