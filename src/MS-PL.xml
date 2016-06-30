@@ -25,62 +25,62 @@
         <li>
           <b>2.</b>
           <p>Grant of Rights</p>
+          <list>
+            <li>
+              <b>(A)</b>
+              <p>Copyright Grant- Subject to the terms of this license, including the license conditions and
+                 limitations in section 3, each contributor grants you a non-exclusive, worldwide,
+                 royalty-free copyright license to reproduce its contribution, prepare derivative works of
+                 its contribution, and distribute its contribution or any derivative works that you
+                 create.</p>
+            </li>
+            <li>
+              <b>(B)</b>
+              <p>Patent Grant- Subject to the terms of this license, including the license conditions and
+                 limitations in section 3, each contributor grants you a non-exclusive, worldwide,
+                 royalty-free license under its licensed patents to make, have made, use, sell, offer for
+                 sale, import, and/or otherwise dispose of its contribution in the software or derivative
+                 works of the contribution in the software.</p>
+            </li>
+          </list>
         </li>
-        <list>
-          <li>
-            <b>(A)</b>
-            <p>Copyright Grant- Subject to the terms of this license, including the license conditions and
-               limitations in section 3, each contributor grants you a non-exclusive, worldwide,
-               royalty-free copyright license to reproduce its contribution, prepare derivative works of
-               its contribution, and distribute its contribution or any derivative works that you
-               create.</p>
-          </li>
-          <li>
-            <b>(B)</b>
-            <p>Patent Grant- Subject to the terms of this license, including the license conditions and
-               limitations in section 3, each contributor grants you a non-exclusive, worldwide,
-               royalty-free license under its licensed patents to make, have made, use, sell, offer for
-               sale, import, and/or otherwise dispose of its contribution in the software or derivative
-               works of the contribution in the software.</p>
-          </li>
-        </list>
         <li>
           <b>3.</b>
           <p>Conditions and Limitations</p>
+          <list>
+            <li>
+              <b>(A)</b>
+              <p>No Trademark License- This license does not grant you rights to use any contributors&apos;
+                 name, logo, or trademarks.</p>
+            </li>
+            <li>
+              <b>(B)</b>
+              <p>If you bring a patent claim against any contributor over patents that you claim are infringed
+                 by the software, your patent license from such contributor to the software ends
+                 automatically.</p>
+            </li>
+            <li>
+              <b>(C)</b>
+              <p>If you distribute any portion of the software, you must retain all copyright, patent,
+                 trademark, and attribution notices that are present in the software.</p>
+            </li>
+            <li>
+              <b>(D)</b>
+              <p>If you distribute any portion of the software in source code form, you may do so only under
+                 this license by including a complete copy of this license with your distribution. If you
+                 distribute any portion of the software in compiled or object code form, you may only do so
+                 under a license that complies with this license.</p>
+            </li>
+            <li>
+              <b>(E)</b>
+              <p>The software is licensed &quot;as-is.&quot; You bear the risk of using it. The contributors
+                 give no express warranties, guarantees, or conditions. You may have additional consumer
+                 rights under your local laws which this license cannot change. To the extent permitted
+                 under your local laws, the contributors exclude the implied warranties of merchantability,
+                 fitness for a particular purpose and non-infringement.</p>
+            </li>
+          </list>
         </li>
-        <list>
-          <li>
-            <b>(A)</b>
-            <p>No Trademark License- This license does not grant you rights to use any contributors&apos;
-               name, logo, or trademarks.</p>
-          </li>
-          <li>
-            <b>(B)</b>
-            <p>If you bring a patent claim against any contributor over patents that you claim are infringed
-               by the software, your patent license from such contributor to the software ends
-               automatically.</p>
-          </li>
-          <li>
-            <b>(C)</b>
-            <p>If you distribute any portion of the software, you must retain all copyright, patent,
-               trademark, and attribution notices that are present in the software.</p>
-          </li>
-          <li>
-            <b>(D)</b>
-            <p>If you distribute any portion of the software in source code form, you may do so only under
-               this license by including a complete copy of this license with your distribution. If you
-               distribute any portion of the software in compiled or object code form, you may only do so
-               under a license that complies with this license.</p>
-          </li>
-          <li>
-            <b>(E)</b>
-            <p>The software is licensed &quot;as-is.&quot; You bear the risk of using it. The contributors
-               give no express warranties, guarantees, or conditions. You may have additional consumer
-               rights under your local laws which this license cannot change. To the extent permitted
-               under your local laws, the contributors exclude the implied warranties of merchantability,
-               fitness for a particular purpose and non-infringement.</p>
-          </li>
-        </list>
       </list>
     </body>
   </license>
