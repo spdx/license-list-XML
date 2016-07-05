@@ -11,23 +11,23 @@
     <body>
       <p>Permission is hereby granted to use, copy, modify and/or distribute this package, provided that:</p>
       <list>
-        <list>
-          <li>
-            <b>-</b>
-            <p>copyright notices are retained unchanged</p>
+        <li>
+          <b>-</b>
+          <p>copyright notices are retained unchanged</p>
+        </li>
+        <li>
+          <b>-</b>
+          <p>any distribution of this package, whether modified or not, includes this file</p>
           </li>
-          <li>
-            <b>-</b>
-            <p>any distribution of this package, whether modified or not, includes this file</p>
-            <p>Permission is hereby also granted to distribute binary programs which depend on this package,
-               provided that:</p>
-          </li>
-          <li>
-            <b>-</b>
-            <p>if the binary program depends on a modified version of this package, you must publicly
-               release the modified version of this package</p>
-          </li>
-        </list>
+      </list>
+      <p>Permission is hereby also granted to distribute binary programs which depend on this package,
+         provided that:</p>
+      <list>
+        <li>
+          <b>-</b>
+          <p>if the binary program depends on a modified version of this package, you must publicly
+             release the modified version of this package</p>
+        </li>
       </list>
       <p>THIS PACKAGE IS PROVIDED &quot;AS IS&quot; AND WITHOUT WARRANTY. ANY EXPRESS OR IMPLIED WARRANTIES,
          INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
