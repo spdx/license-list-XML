@@ -1,4 +1,4 @@
-<SPDX name="iMatix Standard Function Library Agreement" identifier="iMatix" osi-approved="false">
+<spdx name="iMatix Standard Function Library Agreement" identifier="iMatix" osi-approved="false">
   <urls>
     <url>http://legacy.imatix.com/html/sfl/sfl4.htm#license</url>
   </urls>
@@ -65,4 +65,4 @@
            full cost of repair, servicing, or correction lies with you.</p>
       </body>
     </license>
-  </SPDX>
+  </spdx>
