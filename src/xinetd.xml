@@ -20,18 +20,18 @@
         <li>
           <b>1.</b>
           <p>The version number will be modified as follows:</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>The first 3 components of the version number (i.e &lt;number&gt;.&lt;number&gt;.&lt;number&gt;)
-             will remain unchanged.</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>A new component will be appended to the version number to indicate the modification level. The
-             form of this component is up to the author of the modifications.</p>
+          <list>
+            <li>
+              <b>a.</b>
+              <p>The first 3 components of the version number (i.e &lt;number&gt;.&lt;number&gt;.&lt;number&gt;)
+                 will remain unchanged.</p>
+            </li>
+            <li>
+              <b>b.</b>
+              <p>A new component will be appended to the version number to indicate the modification level. The
+                 form of this component is up to the author of the modifications.</p>
+            </li>
+          </list>
         </li>
         <li>
           <b>2.</b>
