@@ -8,7 +8,7 @@
         <br/>Version 1.1 
       </p>
     </title>
-    <optional>
+    <body>
       <p>PLEASE READ THIS DOCUMENT CAREFULLY AND IN ITS ENTIRETY. THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE
          TERMS OF THIS COMPUTER ASSOCIATES TRUSTED OPEN SOURCE LICENSE (&quot;LICENSE&quot;). ANY USE,
          REPRODUCTION, MODIFICATION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES THE RECIPIENT&apos;S ACCEPTANCE
@@ -25,8 +25,6 @@
          this License unless you choose to do so. Thus, only your Contributions to the Program must be
          distributed under the terms of this License.</p>
       <p>The provisions that follow set forth the terms and conditions under which you may use the Program.</p>
-    </optional>
-    <body>
       <list>
         <li>
           <b>1.</b>
