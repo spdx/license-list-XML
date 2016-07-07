@@ -6,7 +6,7 @@
     <title>
       <p>Yahoo! Public License, Version 1.1 (YPL)</p>
     </title>
-    <optional>
+    <body>
       <p>This Yahoo! Public License (this "Agreement") is a legal agreement that describes the terms under which
          Yahoo! Inc., a Delaware corporation having its principal place of business at 701 First Avenue,
          Sunnyvale, California 94089 ("Yahoo!") will provide software to you via download or otherwise
@@ -14,8 +14,6 @@
          this Agreement.</p>
       <p>In consideration of the mutual promises and upon the terms and conditions set forth below, the parties
          agree as follows:</p>
-    </optional>
-    <body>
       <list>
         <li>
           <b>1.</b>
