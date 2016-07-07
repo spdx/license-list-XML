@@ -9,6 +9,7 @@
         <br/>Version 1.1 
       </p>
     </title>
+    <body>
       <p>This BitTorrent Open Source License (the &quot;License&quot;) applies to the BitTorrent client and
          related software products as well as any updates or maintenance releases of that software
          (&quot;BitTorrent Products&quot;) that are distributed by BitTorrent, Inc. (&quot;Licensor&quot;). Any
@@ -92,7 +93,6 @@
       <p>This License relies on precise definitions for certain terms. Those terms are defined when they are first
          used, and the definitions are repeated for your convenience in a Glossary at the end of the
          License.</p>
-    <body>
       <p>License Terms</p>
       <list>
         <li>
