@@ -43,50 +43,53 @@
          were not aware of the fact, act appropriately as soon as you become aware of that problem, seek an
          amicable solution for all parties, and never knowingly distribute a work without being authorised to
          do so by its licensors. 
-        <br/>R_E_F_E_R_E_N_C_E_S_:_ 
       </p>
-      <list>
-        <li>
-          <b>(1)</b>
-          <p>also at http://mirbsd.de/MirOS-Licence</p>
-        </li>
-        <li>
-          <b>(2)</b>
-          <p>http://www.opensource.org/licenses/historical.php</p>
-        </li>
-        <li>
-          <b>(3)</b>
-          <p>http://www.debian.org/social_contract#guidelines</p>
-        </li>
-        <li>
-          <b>(4)</b>
-          <p>http://www.opendefinition.org/1.0</p>
-        </li>
-        <li>
-          <b>(5)</b>
-          <p>http://www.opensource.org/docs/osd</p>
-        </li>
-        <li>
-          <b>(6)</b>
-          <p>http://www.gnu.org/philosophy/free-sw.html</p>
-        </li>
-        <li>
-          <b>(7)</b>
-          <p>http://www.gnu.org/philosophy/free-doc.html</p>
-        </li>
-        <li>
-          <b>(8)</b>
-          <p>http://www.ifross.de/ifross_html/lizenzcenter.html</p>
-        </li>
-        <li>
-          <b>(9)</b>
-          <p>http://www.opendefinition.org/licenses</p>
-        </li>
-        <li>
-          <b>(10)</b>
-          <p>http://opensource.org/licenses/miros.html</p>
-        </li>
-      </list>
+      <p>
+        R_E_F_E_R_E_N_C_E_S_:_
+        <br/>
+        <list>
+          <li>
+            <b>(1)</b>
+            <p>also at http://mirbsd.de/MirOS-Licence</p>
+          </li>
+          <li>
+            <b>(2)</b>
+            <p>http://www.opensource.org/licenses/historical.php</p>
+          </li>
+          <li>
+            <b>(3)</b>
+            <p>http://www.debian.org/social_contract#guidelines</p>
+          </li>
+          <li>
+            <b>(4)</b>
+            <p>http://www.opendefinition.org/1.0</p>
+          </li>
+          <li>
+            <b>(5)</b>
+            <p>http://www.opensource.org/docs/osd</p>
+          </li>
+          <li>
+            <b>(6)</b>
+            <p>http://www.gnu.org/philosophy/free-sw.html</p>
+          </li>
+          <li>
+            <b>(7)</b>
+            <p>http://www.gnu.org/philosophy/free-doc.html</p>
+          </li>
+          <li>
+            <b>(8)</b>
+            <p>http://www.ifross.de/ifross_html/lizenzcenter.html</p>
+          </li>
+          <li>
+            <b>(9)</b>
+            <p>http://www.opendefinition.org/licenses</p>
+          </li>
+          <li>
+            <b>(10)</b>
+            <p>http://opensource.org/licenses/miros.html</p>
+          </li>
+        </list>
+      </p>
     </optional>
   </license>
 </SPDX>
