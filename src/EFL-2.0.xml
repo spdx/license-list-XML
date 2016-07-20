@@ -12,17 +12,17 @@
         <li>
           <b>1.</b>
           <p>Permission is hereby granted to use, copy, modify and/or distribute this package, provided that:</p>
+          <list>
+            <li>
+              <b>-</b>
+              <p>copyright notices are retained unchanged,</p>
+            </li>
+            <li>
+              <b>-</b>
+              <p>any distribution of this package, whether modified or not, includes this license text.</p>
+            </li>
+          </list>
         </li>
-        <list>
-          <li>
-            <b>-</b>
-            <p>copyright notices are retained unchanged,</p>
-          </li>
-          <li>
-            <b>-</b>
-            <p>any distribution of this package, whether modified or not, includes this license text.</p>
-          </li>
-        </list>
         <li>
           <b>2.</b>
           <p>Permission is hereby also granted to distribute binary programs which depend on this package. If
