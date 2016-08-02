@@ -1,4 +1,4 @@
-<spdx name="Creative Commons Attribution Non Commercial 3.0" identifier="CC-BY-NC-3.0" osi-approved="false">
+<SPDX name="Creative Commons Attribution Non Commercial 3.0" identifier="CC-BY-NC-3.0" osi-approved="false">
   <urls>
     <url>http://creativecommons.org/licenses/by-nc/3.0/legalcode</url>
   </urls>
@@ -25,7 +25,6 @@
         <li>
           <b>1.</b>
           <p>Definitions</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -115,6 +114,7 @@
                digital form or other electronic medium.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2.</b>
           <p>Fair Dealing Rights. Nothing in this License is intended to reduce, limit, or restrict any uses
@@ -126,7 +126,6 @@
           <p>License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a
              worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable
              copyright) license to exercise the rights in the Work as stated below:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -155,11 +154,11 @@
                the rights set forth in Section 4(d).</p>
           </li>
         </list>
+        </li>
         <li>
           <b>4.</b>
           <p>Restrictions. The license granted in Section 3 above is expressly made subject to and limited by
              the following restrictions:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -220,7 +219,6 @@
           <li>
             <b>d.</b>
             <p>For the avoidance of doubt:</p>
-          </li>
           <list>
             <li>
               <b>i.</b>
@@ -248,6 +246,7 @@
                  otherwise than noncommercial as permitted under Section 4(c).</p>
             </li>
           </list>
+          </li>
           <li>
             <b>e.</b>
             <p>Except as otherwise agreed in writing by the Licensor or as may be otherwise permitted by
@@ -264,6 +263,7 @@
                otherwise.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>5.</b>
           <p>Representations, Warranties and Disclaimer</p>
@@ -285,7 +285,6 @@
         <li>
           <b>7.</b>
           <p>Termination</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -306,10 +305,10 @@
                effect unless terminated as stated above.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>8.</b>
           <p>Miscellaneous</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -359,6 +358,7 @@
                intended to restrict the license of any rights under applicable law.</p>
           </li>
         </list>
+        </li>
       </list>
       <p>Creative Commons Notice</p>
       <p>Creative Commons is not a party to this License, and makes no warranty whatsoever in connection with the
