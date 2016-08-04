@@ -1,4 +1,4 @@
-<spdx name="Creative Commons Attribution Non Commercial Share Alike 1.0" identifier="CC-BY-NC-SA-1.0" osi-approved="false">
+<SPDX name="Creative Commons Attribution Non Commercial Share Alike 1.0" identifier="CC-BY-NC-SA-1.0" osi-approved="false">
   <urls>
     <url>http://creativecommons.org/licenses/by-nc-sa/1.0/legalcode</url>
   </urls>
@@ -24,7 +24,6 @@
         <li>
           <b>1.</b>
           <p>Definitions</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -64,6 +63,7 @@
                despite a previous violation.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2.</b>
           <p>Fair Use Rights. Nothing in this license is intended to reduce, limit, or restrict any rights
@@ -75,7 +75,6 @@
           <p>License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a
              worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable
              copyright) license to exercise the rights in the Work as stated below:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -96,17 +95,17 @@
             <b>d.</b>
             <p>to distribute copies or phonorecords of, display publicly, perform publicly, and perform
                publicly by means of a digital audio transmission Derivative Works;</p>
+          </li>
+        </list>
             <p>The above rights may be exercised in all media and formats whether now known or hereafter
                devised. The above rights include the right to make such modifications as are technically
                necessary to exercise the rights in other media and formats. All rights not expressly
                granted by Licensor are hereby reserved.</p>
-          </li>
-        </list>
+        </li>     
         <li>
           <b>4.</b>
           <p>Restrictions. The license granted in Section 3 above is expressly made subject to and limited by
              the following restrictions:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -168,10 +167,10 @@
                prominent as such other comparable authorship credit.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>5.</b>
           <p>Representations, Warranties and Disclaimer</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -201,6 +200,7 @@
                REGARDING THE CONTENTS OR ACCURACY OF THE WORK.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>6.</b>
           <p>Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, AND EXCEPT FOR DAMAGES
@@ -212,7 +212,6 @@
         <li>
           <b>7.</b>
           <p>Termination</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -234,10 +233,10 @@
                effect unless terminated as stated above.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>8.</b>
           <p>Miscellaneous</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -273,6 +272,7 @@
                mutual written agreement of the Licensor and You.</p>
           </li>
         </list>
+        </li>
       </list>
       <p>Creative Commons is not a party to this License, and makes no warranty whatsoever in connection with the
          Work. Creative Commons will not be liable to You or any party on any legal theory for any damages
