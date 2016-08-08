@@ -1,4 +1,4 @@
-<SPDX name="Entessa Public License v1.0" identifier="Entessa" osi-approved="true">
+<spdx name="Entessa Public License v1.0" identifier="Entessa" osi-approved="true">
   <urls>
     <url>http://opensource.org/licenses/Entessa</url>
   </urls>
@@ -7,7 +7,7 @@
       <p>Entessa Public License Version. 1.0</p>
     </title>
     <copyright>
-      <br/>Copyright (c) 2003 Entessa, LLC. All rights reserved.</br>
+      <p>Copyright (c) 2003 Entessa, LLC. All rights reserved.</p>
   </copyright>
   <body>
     <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided that
@@ -56,4 +56,4 @@
        the openSEAL, please see &lt;http://www.openseal.org/&gt;.</p>
   </body>
  </license>
-</SPDX>
+</spdx>
