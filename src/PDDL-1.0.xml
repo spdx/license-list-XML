@@ -1,4 +1,4 @@
-<spdx name="ODC Public Domain Dedication &amp; License 1.0" identifier="PDDL-1.0" osi-approved="false">
+<SPDX name="ODC Public Domain Dedication &amp; License 1.0" identifier="PDDL-1.0" osi-approved="false">
   <urls>
     <url>http://opendatacommons.org/licenses/pddl/1.0/</url>
   </urls>
@@ -6,7 +6,7 @@
     <title>
       <p>Open Data Commons - Public Domain Dedication &amp; License (PDDL)</p>
     </title>
-    <optional>
+    <body>
       <p>Preamble 
         <br/>The Open Data Commons - Public Domain Dedication &amp; Licence is a document intended to allow you
              to freely share, modify, and use this work for any purpose and without any restrictions. This
@@ -66,8 +66,6 @@
          material available under this document.</p>
       <p>This document permanently and irrevocably makes the Work available to the public for any use of any kind,
          and it should not be used unless the rightsholder is prepared for this to happen.</p>
-    </optional>
-    <body>
       <p>Part I: Introduction</p>
       <p>The Rightsholder (the Person holding rights or claims over the Work) agrees as follows:</p>
       <list>
@@ -107,7 +105,6 @@
         <li>
           <b>2.1.</b>
           <p>Legal effect of this Document. This Document is:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -119,10 +116,10 @@
                for relinquishment or waiver.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2.2.</b>
           <p>Legal rights covered.</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -142,10 +139,10 @@
                copyright.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2.2</b>
           <p>Rights not covered.</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -164,14 +161,17 @@
                other licences.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2.3</b>
           <p>Facts are free. The Rightsholder takes the position that factual information is not covered by
              Copyright. This Document however covers the Work in jurisdictions that may protect the factual
              information in the Work by Copyright, and to cover any information protected by Copyright that
              is contained in the Work.</p>
-          <p>Part II: Dedication to the public domain</p>
         </li>
+      </list>    
+      <p>Part II: Dedication to the public domain</p>
+      <list>
         <li>
           <b>3.0</b>
           <p>Dedication, waiver, and licence of Copyright and Database Rights</p>
@@ -181,7 +181,6 @@
           <p>Dedication of Copyright and Database Rights to the public domain. The Rightsholder by using this
              Document, dedicates the Work to the public domain for the benefit of the public and
              relinquishes all rights in Copyright and Database Rights over the Work.</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -198,13 +197,13 @@
                or created in the future.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>3.2</b>
           <p>Waiver of rights and claims in Copyright and Database Rights when Section 3.1 dedication
              inapplicable. If the dedication in Section 3.1 does not apply in the relevant jurisdiction
              under Section 6.4, the Rightsholder waives any rights and claims that the Rightsholder may
              have or acquire in the future over the Work in:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -219,12 +218,12 @@
                over the Work.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>3.3</b>
           <p>Licence of Copyright and Database Rights when Sections 3.1 and 3.2 inapplicable. If the
              dedication and waiver in Sections 3.1 and 3.2 does not apply in the relevant jurisdiction
              under Section 6.4, the Rightsholder and You agree as follows:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -235,12 +234,12 @@
                whether now known or created in the future.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>3.4</b>
           <p>Moral rights. This section covers moral rights, including the right to be identified as the
              author of the Work or to object to treatment that would otherwise prejudice the
              author&#x2019;s honour and reputation, or any other derogatory treatment:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -264,6 +263,7 @@
                rights may still subsist over the work in some jurisdictions.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>4.0</b>
           <p>Relationship to other rights</p>
@@ -284,9 +284,11 @@
           <b>4.3</b>
           <p>Relationship to trade marks. This Document does not grant You a licence for any trade marks that
              the Rightsholder may own or that the Rightsholder may use to cover the Work. Users of this
-             Database are cautioned that they may have to clear other rights or consult other licences.
-             Part III: General provisions</p>
+             Database are cautioned that they may have to clear other rights or consult other licences.</p>
         </li>
+      </list>
+      <p>Part III: General provisions</p>
+      <list>
         <li>
           <b>5.0</b>
           <p>Warranties, disclaimer, and limitation of liability</p>
