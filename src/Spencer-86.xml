@@ -1,4 +1,4 @@
-<SPDX name="Spencer License 86" identifier="Spencer-86" osi-approved="false">
+<spdx name="Spencer License 86" identifier="Spencer-86" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License</url>
   </urls>
@@ -27,4 +27,4 @@
       </list>
     </body>
   </license>
-</SPDX>
+</spdx>
