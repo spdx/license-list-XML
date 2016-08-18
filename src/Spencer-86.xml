@@ -1,0 +1,30 @@
+<spdx name="Spencer License 86" identifier="Spencer-86" osi-approved="false">
+  <urls>
+    <url>https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License</url>
+  </urls>
+  <license>
+    <copyright>
+      <p>Copyright (c) 1986 by University of Toronto. Written by Henry Spencer. Not derived from licensed software.</p>
+    </copyright>
+    <body>
+      <p>Permission is granted to anyone to use this software for any purpose on any computer system, and to
+         redistribute it freely, subject to the following restrictions:</p>
+      <list>
+        <li>
+          <b>1.</b>
+          <p>The author is not responsible for the consequences of use of this software, no matter how awful,
+             even if they arise from defects in it.</p>
+        </li>
+        <li>
+          <b>2.</b>
+          <p>The origin of this software must not be misrepresented, either by explicit claim or by omission.</p>
+        </li>
+        <li>
+          <b>3.</b>
+          <p>Altered versions must be plainly marked as such, and must not be misrepresented as being the
+             original software.</p>
+        </li>
+      </list>
+    </body>
+  </license>
+</spdx>
