@@ -7,13 +7,12 @@
       <p>NO LIMIT PUBLIC LICENSE</p>
       <p>Version 0, June 2012</p>
     </title>
-    <copyright>
-      <p>Gilles LAMIRAL 
-        <br/>La Billais 
-        <br/>35580 Baulon 
-        <br/>France 
-      </p>
-    </copyright>
+    <optional>
+      <p>Gilles LAMIRAL</p>
+      <p>La Billais</p>
+      <p>35580 Baulon</p>
+      <p>France</p>
+    </optional>
     <title>
       <p>NO LIMIT PUBLIC LICENSE</p>
     </title>
@@ -27,4 +26,4 @@
       </list>
     </body>
   </license>
-</SPDX>
+</spdx>
