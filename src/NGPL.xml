@@ -9,10 +9,8 @@
     <copyright>
       <p>(Copyright 1989 M. Stephenson)</p>
     </copyright>
-    <optional>
-      <p>(Based on the BISON general public license, copyright 1988 Richard M. Stallman)</p>
-    </optional>
     <body>
+      <p>(Based on the BISON general public license, copyright 1988 Richard M. Stallman)</p>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license, but changing it is not
          allowed. You can also use this wording to make the terms for other programs.</p>
       <p>The license agreements of most software companies keep you at the mercy of those companies. By contrast,
