@@ -1,4 +1,4 @@
-<spdx name="Creative Commons Attribution Share Alike 2.0" identifier="CC-BY-SA-2.0" osi-approved="false">
+<SPDX name="Creative Commons Attribution Share Alike 2.0" identifier="CC-BY-SA-2.0" osi-approved="false">
   <urls>
     <url>http://creativecommons.org/licenses/by-sa/2.0/legalcode</url>
   </urls>
@@ -25,7 +25,7 @@
         <li>
           <b>1.</b>
           <p>Definitions</p>
-        </li>
+
         <list>
           <li>
             <b>a.</b>
@@ -73,6 +73,7 @@
                Licensor and indicated in the title of this License: Attribution, ShareAlike.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2.</b>
           <p>Fair Use Rights. Nothing in this license is intended to reduce, limit, or restrict any rights
@@ -84,7 +85,6 @@
           <p>License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a
              worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable
              copyright) license to exercise the rights in the Work as stated below:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -109,7 +109,6 @@
           <li>
             <b>e.</b>
             <p>For the avoidance of doubt, where the work is a musical composition:</p>
-          </li>
           <list>
             <li>
               <b>i.</b>
@@ -127,6 +126,7 @@
                  Section 115 of the US Copyright Act (or the equivalent in other jurisdictions).</p>
             </li>
           </list>
+          </li>
           <li>
             <b>f.</b>
             <p>Webcasting Rights and Statutory Royalties. For the avoidance of doubt, where the Work is a
@@ -134,17 +134,17 @@
                via a performance-rights society (e.g. SoundExchange), royalties for the public digital
                performance (e.g. webcast) of the Work, subject to the compulsory license created by 17
                USC Section 114 of the US Copyright Act (or the equivalent in other jurisdictions).</p>
+          </li>
+        </list>
             <p>The above rights may be exercised in all media and formats whether now known or hereafter
                devised. The above rights include the right to make such modifications as are technically
                necessary to exercise the rights in other media and formats. All rights not expressly
                granted by Licensor are hereby reserved.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>4.</b>
           <p>Restrictions. The license granted in Section 3 above is expressly made subject to and limited by
              the following restrictions:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -203,6 +203,7 @@
                comparable authorship credit.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>5.</b>
           <p>Representations, Warranties and Disclaimer</p>
@@ -224,7 +225,6 @@
         <li>
           <b>7.</b>
           <p>Termination</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -285,6 +285,7 @@
                mutual written agreement of the Licensor and You.</p>
           </li>
         </list>
+        </li>
       </list>
       <p>Creative Commons is not a party to this License, and makes no warranty whatsoever in connection with the
          Work. Creative Commons will not be liable to You or any party on any legal theory for any damages
