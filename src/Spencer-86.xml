@@ -25,8 +25,6 @@
              original software.</p>
         </li>
       </list>
-      <p>Beware that some of this code is subtly aware of the way operator precedence is structured in regular
-         expressions. Serious changes in regular-expression syntax might require a total rethink.</p>
     </body>
   </license>
 </SPDX>
