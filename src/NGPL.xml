@@ -1,4 +1,4 @@
-<spdx name="Nethack General Public License" identifier="NGPL" osi-approved="true">
+<SPDX name="Nethack General Public License" identifier="NGPL" osi-approved="true">
   <urls>
     <url>http://www.opensource.org/licenses/NGPL</url>
   </urls>
@@ -63,6 +63,7 @@
                  your option offer warranty protection in exchange for a fee.</p>
             </li>
           </list>
+        </li>  
         <li>
           <b>3.</b>
           <p>You may copy and distribute NetHack (or a portion or derivative of it, under Paragraph 2) in
