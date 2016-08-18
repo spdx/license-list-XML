@@ -1,8 +1,15 @@
-<SPDX name="Attribution Assurance License" identifier="AAL" osi-approved="true">
+<spdx name="Attribution Assurance License" identifier="AAL" osi-approved="true">
   <urls>
     <url>http://www.opensource.org/licenses/attribution</url>
   </urls>
-  <notes>This license was released: 2002</notes>
+  <notes>
+    <p>This license was released: 2002</p>
+    <p>Originally written by Edwin A. Suominen for licensing his PRIVARIA secure networking software 
+        (see www.privaria.org). The author, who is not an attorney, places this license template into 
+        the public domain along with a complete disclaimer of any warranty or responsibility for its 
+        content or legal efficacy. You may use or modify the language freely, but entirely at your 
+        own risk.</p>
+  </notes>
   <license>
     <title>
       <p>Attribution Assurance License</p>
@@ -80,4 +87,4 @@
          USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
     </body>
   </license>
-</SPDX>
+</spdx>
