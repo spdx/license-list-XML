@@ -19,10 +19,9 @@
              software tools and components commercially, a commercial license is required and can be obtained from
              www.genivia.com.</p>
         </optional>
-        
         <list>
             <li>
-                <b>1</b> 
+                <b>1</b>
                 <p>DEFINITIONS.</p>
                 <list>
                     <li>
@@ -123,9 +122,6 @@
                          of more than fifty percent (50%) of the outstanding shares or beneficial ownership of such
                          entity.</p>
                     </li>
-                    
-                    
-                    
                 </list>
             </li>
             <li>
@@ -192,30 +188,30 @@
                     </li>
                 </list>
             </li>
-      
-      
-      
-      
-      
-      
+
+
+
+
+
+
       <---------- Brad finished review through here ------->
-    
-          
-          
-          
-          
-          
-            
-        
-          
-          
-            
-          
-        
-        
-        
-        
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             <p>3 DISTRIBUTION OBLIGATIONS.</p>
           </li>
         </list>
@@ -234,7 +230,7 @@
         </li>
         <li>
           <b>3.2.</b>
-          <p>Availability of Source Code.</p> 
+          <p>Availability of Source Code.</p>
           <p>Any Modification created by You will be provided to the Initial Developer in Source Code
                form and are subject to the terms of the License.</p>
         </li>
@@ -437,7 +433,7 @@
          Nothing herein is intended or shall be deemed to constitute any admission of liability.</p>
         </list>
     </body>
-    
+
     <optional>
         <p>EXHIBIT A.</p>
         <p>&quot;The contents of this file are subject to the gSOAP Public License Version 1.3 (the
