@@ -128,6 +128,70 @@
                     
                 </list>
             </li>
+            <li>
+                <b>2</b>
+                <p>SOURCE CODE LICENSE.</p>
+                <list>
+                    <li>
+                        <b>2.1.</b>
+                        <p>The Initial Developer Grant.</p>
+                        <p>The Initial Developer hereby grants You a world-wide, royalty-free, non-exclusive license,
+                         subject to third party intellectual property claims:</p>
+                        <list>
+                            <li>
+                                <b>(a)</b>
+                                <p>under intellectual property rights (other than patent or trademark) Licensable by Initial
+                                 Developer to use, reproduce, modify, display, perform, sublicense and distribute the
+                                 Original Code (or portions thereof) with or without Modifications, and/or as part of a
+                                 Larger Work; and</p>
+                            </li>
+                            <li>
+                                <b>(b)</b>
+                                <p>under patents now or hereafter owned or controlled by Initial Developer, to make, have made,
+                                 use and sell (&quot;offer to sell and import&quot;) the Original Code, Modifications, or
+                                 portions thereof, but solely to the extent that any such patent is reasonably necessary to
+                                 enable You to utilize, alone or in combination with other software, the Original Code,
+                                 Modifications, or any combination or portions thereof.</p>
+                            </li>
+                            <li>
+                                <b>(c)</b>
+                            </li>
+                            <li>
+                                <b>(d)</b>
+                            </li>
+                        </list>
+                    </li>
+                    <li>
+                        <b>2.2.</b>
+                        <p>Contributor Grant.</p>
+                        <p>Subject to third party intellectual property claims, each Contributor hereby grants You a
+                         world-wide, royalty-free, non-exclusive license</p>
+                        <list>
+                            <li>
+                                <b>(a)</b>
+                                <p>under intellectual property rights (other than patent or trademark) Licensable by
+                                 Contributor, to use, reproduce, modify, display, perform, sublicense and distribute the
+                                 Modifications created by such Contributor (or portions thereof) either on an unmodified
+                                 basis, with other Modifications, as Covered Code and/or as part of a Larger Work; and</p>
+                            </li>
+                            <li>
+                                <b>(b)</b>
+                                <p>under patents now or hereafter owned or controlled by Contributor, to make, have made, use
+                                 and sell (&quot;offer to sell and import&quot;) the Contributor Version (or portions
+                                 thereof), but solely to the extent that any such patent is reasonably necessary to enable
+                                 You to utilize, alone or in combination with other software, the Contributor Version (or
+                                 portions thereof).</p>
+                            </li>
+                            <li>
+                                <b>(c)</b>
+                            </li>
+                            <li>
+                                <b>(d)</b>
+                            </li>
+                        </list>
+                    </li>
+                </list>
+            </li>
       
       
       
@@ -147,59 +211,11 @@
           
             
           
-          
-        </list>
-        <li>
-            
-            <p>2 SOURCE CODE LICENSE.</p>
-          <b>2.1.</b>
-          <p>The Initial Developer Grant.</p>
-          <p>The Initial Developer hereby grants You a world-wide, royalty-free, non-exclusive license,
-              subject to third party intellectual property claims:</p>
-        </li>
-        <list>
-          <li>
-            <b>(a)</b>
-            <p>under intellectual property rights (other than patent or trademark) Licensable by Initial
-               Developer to use, reproduce, modify, display, perform, sublicense and distribute the
-               Original Code (or portions thereof) with or without Modifications, and/or as part of a
-               Larger Work; and</p>
-          </li>
-          <li>
-            <b>(b)</b>
-            <p>under patents now or hereafter owned or controlled by Initial Developer, to make, have made,
-               use and sell (&quot;offer to sell and import&quot;) the Original Code, Modifications, or
-               portions thereof, but solely to the extent that any such patent is reasonably necessary to
-               enable You to utilize, alone or in combination with other software, the Original Code,
-               Modifications, or any combination or portions thereof.</p>
-              <b>(c)</b> 
-              <b>(d)</b>
-          </li>
-        </list>
-        <li>
-          <b>2.2.</b>
-          <p>Contributor Grant.</p>
-          <p>Subject to third party intellectual property claims, each Contributor hereby grants You a
-             world-wide, royalty-free, non-exclusive license</p>
-        </li>
-        <list>
-          <li>
-            <b>(a)</b>
-            <p>under intellectual property rights (other than patent or trademark) Licensable by
-               Contributor, to use, reproduce, modify, display, perform, sublicense and distribute the
-               Modifications created by such Contributor (or portions thereof) either on an unmodified
-               basis, with other Modifications, as Covered Code and/or as part of a Larger Work; and</p>
-          </li>
-          <li>
-            <b>(b)</b>
-            <p>under patents now or hereafter owned or controlled by Contributor, to make, have made, use
-               and sell (&quot;offer to sell and import&quot;) the Contributor Version (or portions
-               thereof), but solely to the extent that any such patent is reasonably necessary to enable
-               You to utilize, alone or in combination with other software, the Contributor Version (or
-               portions thereof). 
-              <b>(c)</b> 
-              <b>(d)</b>
-            </p>
+        
+        
+        
+        
+        
             <p>3 DISTRIBUTION OBLIGATIONS.</p>
           </li>
         </list>
