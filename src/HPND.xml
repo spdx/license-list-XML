@@ -2,7 +2,17 @@
   <urls>
     <url>http://www.opensource.org/licenses/HPND</url>
   </urls>
-  <notes>This license has been voluntarily deprecated by its author.</notes>
+  <notes>
+    This license has been voluntarily deprecated by its author.
+    
+    Per the copy of this license at http://www.opensource.org/licenses/HPND
+    Explanation:
+      * Angle brackets hold "fields", e.g. &lt;copyright holder&gt;.
+      * Square brackets hold optional text, e.g. [or &lt;related entities&gt;].
+      * A license can have variations in capitalization and whitespace, and still be considered an instance of this template.
+    It may be possible to construct a grammatically incorrect license from this template, or one that lacks a disclaimer, or one that includes a double-disclaimer. That is acceptable, as long as it remains impossible to construct a non-OSD-compliant license that matches the pattern.
+    
+  </notes>
   <license>
     <title>
       <p>Historical Permission Notice and Disclaimer</p>
