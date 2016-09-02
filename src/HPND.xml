@@ -1,4 +1,4 @@
-<SPDX name="Historic Permission Notice and Disclaimer" identifier="HPND" osi-approved="true">
+<spdx name="Historic Permission Notice and Disclaimer" identifier="HPND" osi-approved="true">
   <urls>
     <url>http://www.opensource.org/licenses/HPND</url>
   </urls>
@@ -37,4 +37,4 @@
       </optional>
     </body>
   </license>
-</SPDX>
+</spdx>
