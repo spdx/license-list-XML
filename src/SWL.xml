@@ -1,4 +1,4 @@
-<SPDX name="Scheme Widget Library (SWL) Software License Agreement" identifier="SWL" osi-approved="false">
+<spdx name="Scheme Widget Library (SWL) Software License Agreement" identifier="SWL" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/SWL</url>
   </urls>
@@ -29,4 +29,4 @@
          AND THAT YOU AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.</p>
     </body>
   </license>
-</SPDX>
+</spdx>
