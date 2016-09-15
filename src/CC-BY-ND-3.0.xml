@@ -1,4 +1,4 @@
-<spdx name="Creative Commons Attribution No Derivatives 3.0" identifier="CC-BY-ND-3.0" osi-approved="false">
+<SPDX name="Creative Commons Attribution No Derivatives 3.0" identifier="CC-BY-ND-3.0" osi-approved="false">
   <urls>
     <url>http://creativecommons.org/licenses/by-nd/3.0/legalcode</url>
   </urls>
@@ -25,7 +25,6 @@
         <li>
           <b>1.</b>
           <p>Definitions</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -115,6 +114,7 @@
                digital form or other electronic medium.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2.</b>
           <p>Fair Dealing Rights. Nothing in this License is intended to reduce, limit, or restrict any uses
@@ -126,7 +126,6 @@
           <p>License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a
              worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable
              copyright) license to exercise the rights in the Work as stated below:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -140,7 +139,6 @@
           <li>
             <b>c.</b>
             <p>For the avoidance of doubt:</p>
-          </li>
           <list>
             <li>
               <b>i.</b>
@@ -162,19 +160,20 @@
                  individually or, in the event that the Licensor is a member of a collecting society
                  that administers voluntary licensing schemes, via that society, from any exercise by
                  You of the rights granted under this License.</p>
-              <p>The above rights may be exercised in all media and formats whether now known or hereafter
-                 devised. The above rights include the right to make such modifications as are
-                 technically necessary to exercise the rights in other media and formats, but otherwise
-                 you have no rights to make Adaptations. Subject to Section 8(f), all rights not
-                 expressly granted by Licensor are hereby reserved.</p>
             </li>
           </list>
+          </li>
         </list>
+      <p>The above rights may be exercised in all media and formats whether now known or hereafter
+         devised. The above rights include the right to make such modifications as are
+         technically necessary to exercise the rights in other media and formats, but otherwise
+         you have no rights to make Adaptations. Subject to Section 8(f), all rights not
+         expressly granted by Licensor are hereby reserved.</p>
+        </li>
         <li>
           <b>4.</b>
           <p>Restrictions. The license granted in Section 3 above is expressly made subject to and limited by
              the following restrictions:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -226,6 +225,7 @@
                Author&apos;s honor or reputation.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>5.</b>
           <p>Representations, Warranties and Disclaimer</p>
@@ -247,7 +247,6 @@
         <li>
           <b>7.</b>
           <p>Termination</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -268,10 +267,10 @@
                effect unless terminated as stated above.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>8.</b>
           <p>Miscellaneous</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -315,6 +314,7 @@
                intended to restrict the license of any rights under applicable law.</p>
           </li>
         </list>
+        </li>
       </list>
       <p>Creative Commons Notice</p>
       <p>Creative Commons is not a party to this License, and makes no warranty whatsoever in connection with the
