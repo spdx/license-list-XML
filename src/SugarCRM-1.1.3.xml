@@ -1,4 +1,4 @@
-<spdx name="SugarCRM Public License v1.1.3" identifier="SugarCRM-1.1.3" osi-approved="false">
+<SPDX name="SugarCRM Public License v1.1.3" identifier="SugarCRM-1.1.3" osi-approved="false">
   <urls>
     <url>http://www.sugarcrm.com/crm/SPL</url>
   </urls>
@@ -374,114 +374,94 @@
                  INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO
                  YOU.</p>
             </li>
+            <li>
+                <b>10.</b>
+                <p>U.S. GOVERNMENT END USERS.</p>
+                <p>The Covered Code is a "commercial item," as that term is defined in 48 C.F.R. 2.101 (Oct. 1995),
+                 consisting of "commercial computer software" and "commercial computer software documentation,"
+                 as such terms are used in 48 C.F.R. 12.212 (Sept. 1995). Consistent with 48 C.F.R. 12.212 and
+                 48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995), all U.S. Government End Users acquire
+                 Covered Code with only those rights set forth herein.</p>
+            </li>
+            <li>
+                <b>11.</b>
+                <p>MISCELLANEOUS.</p>
+                <p>This License represents the complete agreement concerning subject matter hereof. If any provision
+                 of this License is held to be unenforceable, such provision shall be reformed only to the
+                 extent necessary to make it enforceable. This License shall be governed by California law
+                 provisions (except to the extent applicable law, if any, provides otherwise), excluding its
+                 conflict-of-law provisions. With respect to disputes in which at least one party is a citizen
+                 of, or an entity chartered or registered to do business in the United States of America, any
+                 litigation relating to this License shall be subject to the jurisdiction of the Federal Courts
+                 of the Northern District of California, with venue lying in Santa Clara County, California,
+                 with the losing party responsible for costs, including without limitation, court costs and
+                 reasonable attorneys' fees and expenses. The application of the United Nations Convention on
+                 Contracts for the International Sale of Goods is expressly excluded. Any law or regulation
+                 which provides that the language of a contract shall be construed against the drafter shall
+                 not apply to this License.</p>
+            </li>
+            <li>
+                <b>12.</b>
+                <p>RESPONSIBILITY FOR CLAIMS.</p>
+                <p>As between Initial Developer and the Contributors, each party is responsible for claims and
+                 damages arising, directly or indirectly, out of its utilization of rights under this License
+                 and You agree to work with Initial Developer and Contributors to distribute such
+                 responsibility on an equitable basis. Nothing herein is intended or shall be deemed to
+                 constitute any admission of liability.</p>
+            </li>
+            <li>
+                <b>13.</b>
+                <p>MULTIPLE-LICENSED CODE.</p>
+                <p>Initial Developer may designate portions of the Covered Code as "Multiple-Licensed". "Multiple-Licensed"
+                 means that the Initial Developer permits you to utilize portions of the Covered Code under Your choice
+                 of the SPL or the alternative licenses, if any, specified by the Initial Developer in the file
+                 described in Exhibit A.</p>
+            </li>
         </list>
-      
-        
-    <----- Brad reviewed structure through here ----->
-
-        
-        
-        
-      
-    
-        
-        
-      
-      
-      
-        
-        
-        
-        
-        <li>
-          <b>10.</b>
-          <p>U.S. GOVERNMENT END USERS.</p>
-          <p>The Covered Code is a "commercial item," as that term is defined in 48 C.F.R. 2.101 (Oct. 1995),
-             consisting of "commercial computer software" and "commercial computer software documentation,"
-             as such terms are used in 48 C.F.R. 12.212 (Sept. 1995). Consistent with 48 C.F.R. 12.212 and
-             48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995), all U.S. Government End Users acquire
-             Covered Code with only those rights set forth herein.</p>
-        </li>
-        <li>
-          <b>11.</b>
-          <p>MISCELLANEOUS.</p>
-          <p>This License represents the complete agreement concerning subject matter hereof. If any provision
-             of this License is held to be unenforceable, such provision shall be reformed only to the
-             extent necessary to make it enforceable. This License shall be governed by California law
-             provisions (except to the extent applicable law, if any, provides otherwise), excluding its
-             conflict-of-law provisions. With respect to disputes in which at least one party is a citizen
-             of, or an entity chartered or registered to do business in the United States of America, any
-             litigation relating to this License shall be subject to the jurisdiction of the Federal Courts
-             of the Northern District of California, with venue lying in Santa Clara County, California,
-             with the losing party responsible for costs, including without limitation, court costs and
-             reasonable attorneys' fees and expenses. The application of the United Nations Convention on
-             Contracts for the International Sale of Goods is expressly excluded. Any law or regulation
-             which provides that the language of a contract shall be construed against the drafter shall
-             not apply to this License.</p>
-        </li>
-        <li>
-          <b>12.</b>
-          <p>RESPONSIBILITY FOR CLAIMS.</p>
-          <p>As between Initial Developer and the Contributors, each party is responsible for claims and
-             damages arising, directly or indirectly, out of its utilization of rights under this License
-             and You agree to work with Initial Developer and Contributors to distribute such
-             responsibility on an equitable basis. Nothing herein is intended or shall be deemed to
-             constitute any admission of liability.</p>
-        </li>
-        <li>
-          <b>13.</b>
-          <p>MULTIPLE-LICENSED CODE.</p>
-        </li>
-      </list>
-      <p>Initial Developer may designate portions of the Covered Code as "Multiple-Licensed". "Multiple-Licensed"
-         means that the Initial Developer permits you to utilize portions of the Covered Code under Your choice
-         of the SPL or the alternative licenses, if any, specified by the Initial Developer in the file
-         described in Exhibit A.</p>
     </body>
     <optional>
-      <p>SugarCRM Public License 1.1.3 - Exhibit A</p>
-      <p>The contents of this file are subject to the SugarCRM Public License Version 1.1.3 ("License"); You may
+        <p>SugarCRM Public License 1.1.3 - Exhibit A</p>
+        <p>The contents of this file are subject to the SugarCRM Public License Version 1.1.3 ("License"); You may
          not use this file except in compliance with the License. You may obtain a copy of the License at
          http://www.sugarcrm.com/SPL Software distributed under the License is distributed on an "AS IS" basis,
          WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language
          governing rights and limitations under the License.</p>
-      <p>The Original Code is: SugarCRM Open Source</p>
-      <p>The Initial Developer of the Original Code is SugarCRM, Inc. 
-        <br/>Portions created by SugarCRM are Copyright (C) 2004 SugarCRM, Inc.; 
-        <br/>All Rights Reserved. 
-        <br/>Contributor(s): ______________________________________. 
-      </p>
-      <p>[NOTE: The text of this Exhibit A may differ slightly from the text of the notices in the Source Code
+        <p>The Original Code is: SugarCRM Open Source</p>
+        <p>The Initial Developer of the Original Code is SugarCRM, Inc.</p>
+        <p>Portions created by SugarCRM are Copyright (C) 2004 SugarCRM, Inc.;</p>
+        <p>All Rights Reserved.</p>
+        <p>Contributor(s): ______________________________________.</p>
+      
+        <p>[NOTE: The text of this Exhibit A may differ slightly from the text of the notices in the Source Code
          files of the Original Code. You should use the text of this Exhibit A rather than the text found in
          the Original Code Source Code for Your Modifications.]</p>
-      <p>SugarCRM Public License 1.1.3 - Exhibit B</p>
-      <p>Additional Terms applicable to the SugarCRM Public License.</p>
-      <list>
-        <li>
-          <b>I.</b>
-          <p>Effect. 
-            <br/>These additional terms described in this SugarCRM Public License - Additional Terms shall
-                 apply to the Covered Code under this License. 
-          </p>
-        </li>
-        <li>
-          <b>II.</b>
-          <p>SugarCRM and logo.</p>
-        </li>
+        <p>SugarCRM Public License 1.1.3 - Exhibit B</p>
+        <p>Additional Terms applicable to the SugarCRM Public License.</p>
+        <list>
+            <li>
+                <b>I.</b>
+                <p>Effect.,</p>
+                <p>These additional terms described in this SugarCRM Public License - Additional Terms shall
+                 apply to the Covered Code under this License.</p>
+            </li>
+            <li>
+                <b>II.</b>
+                <p>SugarCRM and logo.</p>
+                <p>This License does not grant any rights to use the trademarks "SugarCRM" and the "SugarCRM" logos even if
+                 such marks are included in the Original Code or Modifications.</p>
+                <p>However, in addition to the other notice obligations, all copies of the Covered Code in Executable and
+                 Source Code form distributed must, as a form of attribution of the original author, include on each
+                 user interface screen (i) the "Powered by SugarCRM" logo and (ii) the copyright notice in the same
+                 form as the latest version of the Covered Code distributed by SugarCRM, Inc. at the time of
+                 distribution of such copy. In addition, the "Powered by SugarCRM" logo must be visible to all users
+                 and be located at the very bottom center of each user interface screen. Notwithstanding the above, the
+                 dimensions of the "Powered By SugarCRM" logo must be at least 106 x 23 pixels. When users click on the
+                 "Powered by SugarCRM" logo it must direct them back to http://www.sugarforge.org. In addition, the
+                 copyright notice must remain visible to all users at all times at the bottom of the user interface
+                 screen. When users click on the copyright notice, it must direct them back to
+                 http://www.sugarcrm.com</p>
+            </li>
       </list>
-      <p>This License does not grant any rights to use the trademarks "SugarCRM" and the "SugarCRM" logos even if
-         such marks are included in the Original Code or Modifications.</p>
-      <p>However, in addition to the other notice obligations, all copies of the Covered Code in Executable and
-         Source Code form distributed must, as a form of attribution of the original author, include on each
-         user interface screen (i) the "Powered by SugarCRM" logo and (ii) the copyright notice in the same
-         form as the latest version of the Covered Code distributed by SugarCRM, Inc. at the time of
-         distribution of such copy. In addition, the "Powered by SugarCRM" logo must be visible to all users
-         and be located at the very bottom center of each user interface screen. Notwithstanding the above, the
-         dimensions of the "Powered By SugarCRM" logo must be at least 106 x 23 pixels. When users click on the
-         "Powered by SugarCRM" logo it must direct them back to http://www.sugarforge.org. In addition, the
-         copyright notice must remain visible to all users at all times at the bottom of the user interface
-         screen. When users click on the copyright notice, it must direct them back to
-         http://www.sugarcrm.com</p>
     </optional>
   </license>
-</spdx>
+</SPDX>
