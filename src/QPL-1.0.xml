@@ -10,7 +10,7 @@
     <copyright>
       <p>Copyright (C) 1999-2005 Trolltech AS, Norway.</p>
     </copyright>
-    <optional>
+    <body>
       <p>Everyone is permitted to copy and distribute this license document.</p>
       <p>The intent of this license is to establish freedom to share and change the software regulated by this
          license under the open source model.</p>
@@ -19,8 +19,6 @@
          referred to as the Software. This license covers modification and distribution of the Software, use of
          third-party application programs based on the Software, and development of free software which uses
          the Software.</p>
-    </optional>
-    <body>
       <p>Granted Rights</p>
       <list>
         <li>
@@ -41,43 +39,43 @@
           <p>You may make modifications to the Software and distribute your modifications, in a form that is
              separate from the Software, such as patches. The following restrictions apply to
              modifications:</p>
+            <list>
+              <li>
+                <b>a.</b>
+                <p>Modifications must not alter or remove any copyright notices in the Software.</p>
+              </li>
+              <li>
+                <b>b.</b>
+                <p>When modifications to the Software are released under this license, a non-exclusive royalty-free
+                  right is granted to the initial developer of the Software to distribute your modification in
+                  future versions of the Software provided such versions remain available under these terms in
+                  addition to any other license(s) of the initial developer.</p>
+              </li>
+            </list>
         </li>
-        <list>
-          <li>
-            <b>a.</b>
-            <p>Modifications must not alter or remove any copyright notices in the Software.</p>
-          </li>
-          <li>
-            <b>b.</b>
-            <p>When modifications to the Software are released under this license, a non-exclusive royalty-free
-              right is granted to the initial developer of the Software to distribute your modification in
-              future versions of the Software provided such versions remain available under these terms in
-              addition to any other license(s) of the initial developer.</p>
-          </li>
-        </list>
         <li>
           <b>4.</b>
           <p>You may distribute machine-executable forms of the Software or machine-executable forms of
              modified versions of the Software, provided that you meet these restrictions:</p>
+           <list>
+              <li>
+               <b>a.</b>
+                <p>You must include this license document in the distribution.</p>
+              </li>
+              <li>
+                <b>b.</b>
+                <p>You must ensure that all recipients of the machine-executable forms are also able to receive the
+                 complete machine-readable source code to the distributed Software, including all
+                 modifications, without any charge beyond the costs of data transfer, and place prominent
+                 notices in the distribution explaining this.</p>
+              </li>
+              <li>
+                <b>c.</b>
+                <p>You must ensure that all modifications included in the machine-executable forms are available
+                   under the terms of this license.</p>
+              </li>
+            </list>
         </li>
-       <list>
-          <li>
-           <b>a.</b>
-            <p>You must include this license document in the distribution.</p>
-          </li>
-          <li>
-            <b>b.</b>
-            <p>You must ensure that all recipients of the machine-executable forms are also able to receive the
-             complete machine-readable source code to the distributed Software, including all
-             modifications, without any charge beyond the costs of data transfer, and place prominent
-             notices in the distribution explaining this.</p>
-          </li>
-          <li>
-            <b>c.</b>
-            <p>You must ensure that all modifications included in the machine-executable forms are available
-               under the terms of this license.</p>
-          </li>
-        </list>
         <li>
           <b>5.</b>
           <p>You may use the original or modified versions of the Software to compile, link and run
@@ -88,27 +86,28 @@
           <p>You may develop application programs, reusable components and other software items that link with
              the original or modified versions of the Software. These items, when distributed, are subject
              to the following requirements:</p>
-        </li>
-        <list>
-          <li>
-            <b>a.</b>
-            <p>You must ensure that all recipients of machine-executable forms of these items are also able to
-               receive and use the complete machine-readable source code to the items without any charge
-               beyond the costs of data transfer.</p>
-          </li>
-          <li>
-            <b>b.</b>
-            <p>You must explicitly license all recipients of your items to use and re-distribute original and
-               modified versions of the items in both machine-executable and source code forms. The
-               recipients must be able to do so without any charges whatsoever, and they must be able to
-               re-distribute to anyone they choose.</p>
-          </li>
-          <li>
-            <b>c.</b>
-            <p>If the items are not available to the general public, and the initial developer of the Software
-               requests a copy of the items, then you must supply one.</p>
-          </li>
-      </list>
+            <list>
+              <li>
+                <b>a.</b>
+                <p>You must ensure that all recipients of machine-executable forms of these items are also able to
+                   receive and use the complete machine-readable source code to the items without any charge
+                   beyond the costs of data transfer.</p>
+              </li>
+              <li>
+                <b>b.</b>
+                <p>You must explicitly license all recipients of your items to use and re-distribute original and
+                   modified versions of the items in both machine-executable and source code forms. The
+                   recipients must be able to do so without any charges whatsoever, and they must be able to
+                   re-distribute to anyone they choose.</p>
+              </li>
+              <li>
+                <b>c.</b>
+                <p>If the items are not available to the general public, and the initial developer of the Software
+                   requests a copy of the items, then you must supply one.</p>
+              </li>
+          </list>
+         </li>
+        </list>
       <p>Limitations of Liability</p>
       <p>In no event shall the initial developers or copyright holders be liable for any damages whatsoever,
          including - but not restricted to - lost revenue or profits or other direct, indirect, special,
