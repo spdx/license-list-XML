@@ -226,16 +226,14 @@
         <li>
           <b>15.</b>
           <p>Applicable Law</p>
+          <p>This Licence shall be governed by the law of the European Union country where the Licensor resides or has
+             his registered office.</p>
+          <p>This licence shall be governed by the Belgian law if:</p>
+          <p>− a litigation arises between the European Commission, as a Licensor, and any Licensee;</p>
+          <p>− the Licensor, other than the European Commission, has no residence or registered office inside a
+             European Union country.</p>
         </li>
       </list>
-      <p>This Licence shall be governed by the law of the European Union country where the Licensor resides or has
-         his registered office.</p>
-      <p>This licence shall be governed by the Belgian law if:</p>
-      <p>− a litigation arises between the European Commission, as a Licensor, and any Licensee;</p>
-      <p>− the Licensor, other than the European Commission, has no residence or registered office inside a
-         European Union country.</p>
-    </body>
-    <optional>
       <p>Appendix</p>
       <p>“Compatible Licences” according to article 5 EUPL are:</p>
       <p>− General Public License (GPL) v. 2 
@@ -244,6 +242,6 @@
         <br/>− Eclipse Public License v. 1.0 
         <br/>− Cecill v. 2.0 
       </p>
-    </optional>
+    </body>
   </license>
 </SPDX>
