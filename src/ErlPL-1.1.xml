@@ -57,18 +57,18 @@
           <p>``Modifications&apos;&apos; means any addition to or deletion from the substance or structure of
              either the Original Code or any previous Modifications. When Covered Code is released as a
              series of files, a Modification is:</p>
+          <list>
+            <li>
+              <b>A.</b>
+              <p>Any addition to or deletion from the contents of a file containing Original Code or previous
+                 Modifications.</p>
+            </li>
+            <li>
+              <b>B.</b>
+              <p>Any new file that contains any part of the Original Code or previous Modifications.</p>
+            </li>
+          </list>
         </li>
-        <list>
-          <li>
-            <b>A.</b>
-            <p>Any addition to or deletion from the contents of a file containing Original Code or previous
-               Modifications.</p>
-          </li>
-          <li>
-            <b>B.</b>
-            <p>Any new file that contains any part of the Original Code or previous Modifications.</p>
-          </li>
-        </list>
         <li>
           <b>1.10.</b>
           <p>``Original Code&apos;&apos; means Source Code of computer software code which is described in the
@@ -103,43 +103,43 @@
           <b>2.1.</b>
           <p>The Initial Developer Grant. The Initial Developer hereby grants You a world-wide, royalty-free,
              non-exclusive license, subject to third party intellectual property claims:</p>
+          <list>
+            <li>
+              <b>(a)</b>
+              <p>to use, reproduce, modify, display, perform, sublicense and distribute the Original Code (or
+                 portions thereof) with or without Modifications, or as part of a Larger Work; and</p>
+            </li>
+            <li>
+              <b>(b)</b>
+              <p>under patents now or hereafter owned or controlled by Initial Developer, to make, have made,
+                 use and sell (``Utilize&apos;&apos;) the Original Code (or portions thereof), but solely
+                 to the extent that any such patent is reasonably necessary to enable You to Utilize the
+                 Original Code (or portions thereof) and not to any greater extent that may be necessary to
+                 Utilize further Modifications or combinations.</p>
+            </li>
+          </list>
         </li>
-        <list>
-          <li>
-            <b>(a)</b>
-            <p>to use, reproduce, modify, display, perform, sublicense and distribute the Original Code (or
-               portions thereof) with or without Modifications, or as part of a Larger Work; and</p>
-          </li>
-          <li>
-            <b>(b)</b>
-            <p>under patents now or hereafter owned or controlled by Initial Developer, to make, have made,
-               use and sell (``Utilize&apos;&apos;) the Original Code (or portions thereof), but solely
-               to the extent that any such patent is reasonably necessary to enable You to Utilize the
-               Original Code (or portions thereof) and not to any greater extent that may be necessary to
-               Utilize further Modifications or combinations.</p>
-          </li>
-        </list>
         <li>
           <b>2.2.</b>
           <p>Contributor Grant. Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive
              license, subject to third party intellectual property claims:</p>
+          <list>
+            <li>
+              <b>(a)</b>
+              <p>to use, reproduce, modify, display, perform, sublicense and distribute the Modifications
+                 created by such Contributor (or portions thereof) either on an unmodified basis, with
+                 other Modifications, as Covered Code or as part of a Larger Work; and</p>
+            </li>
+            <li>
+              <b>(b)</b>
+              <p>under patents now or hereafter owned or controlled by Contributor, to Utilize the Contributor
+                 Version (or portions thereof), but solely to the extent that any such patent is reasonably
+                 necessary to enable You to Utilize the Contributor Version (or portions thereof), and not
+                 to any greater extent that may be necessary to Utilize further Modifications or
+                 combinations.</p>
+            </li>
+          </list>
         </li>
-        <list>
-          <li>
-            <b>(a)</b>
-            <p>to use, reproduce, modify, display, perform, sublicense and distribute the Modifications
-               created by such Contributor (or portions thereof) either on an unmodified basis, with
-               other Modifications, as Covered Code or as part of a Larger Work; and</p>
-          </li>
-          <li>
-            <b>(b)</b>
-            <p>under patents now or hereafter owned or controlled by Contributor, to Utilize the Contributor
-               Version (or portions thereof), but solely to the extent that any such patent is reasonably
-               necessary to enable You to Utilize the Contributor Version (or portions thereof), and not
-               to any greater extent that may be necessary to Utilize further Modifications or
-               combinations.</p>
-          </li>
-        </list>
         <li>
           <b>3.</b>
           <p>Distribution Obligations.</p>
@@ -178,27 +178,27 @@
         <li>
           <b>3.4.</b>
           <p>Intellectual Property Matters</p>
+          <list>
+            <li>
+              <b>(a)</b>
+              <p>Third Party Claims. If You have knowledge that a party claims an intellectual property right
+                 in particular functionality or code (or its utilization under this License), you must
+                 include a text file with the source code distribution titled ``LEGAL&apos;&apos; which
+                 describes the claim and the party making the claim in sufficient detail that a recipient
+                 will know whom to contact. If you obtain such knowledge after You make Your Modification
+                 available as described in Section 3.2, You shall promptly modify the LEGAL file in all
+                 copies You make available thereafter and shall take other steps (such as notifying
+                 appropriate mailing lists or newsgroups) reasonably calculated to inform those who
+                 received the Covered Code that new knowledge has been obtained.</p>
+            </li>
+            <li>
+              <b>(b)</b>
+              <p>Contributor APIs. If Your Modification is an application programming interface and You own or
+                 control patents which are reasonably necessary to implement that API, you must also
+                 include this information in the LEGAL file.</p>
+            </li>
+          </list>
         </li>
-        <list>
-          <li>
-            <b>(a)</b>
-            <p>Third Party Claims. If You have knowledge that a party claims an intellectual property right
-               in particular functionality or code (or its utilization under this License), you must
-               include a text file with the source code distribution titled ``LEGAL&apos;&apos; which
-               describes the claim and the party making the claim in sufficient detail that a recipient
-               will know whom to contact. If you obtain such knowledge after You make Your Modification
-               available as described in Section 3.2, You shall promptly modify the LEGAL file in all
-               copies You make available thereafter and shall take other steps (such as notifying
-               appropriate mailing lists or newsgroups) reasonably calculated to inform those who
-               received the Covered Code that new knowledge has been obtained.</p>
-          </li>
-          <li>
-            <b>(b)</b>
-            <p>Contributor APIs. If Your Modification is an application programming interface and You own or
-               control patents which are reasonably necessary to implement that API, you must also
-               include this information in the LEGAL file.</p>
-          </li>
-        </list>
         <li>
           <b>3.5.</b>
           <p>Required Notices. You must duplicate the notice in Exhibit A in each file of the Source Code, and
@@ -299,15 +299,15 @@
         </li>
         <li>
           <b>10.</b>
-          <p>MISCELLANEOUS</p>
+          <p>MISCELLANEOUS
+          <br/>This License represents the complete agreement concerning the subject matter hereof. If any provision is
+             held to be unenforceable, such provision shall be reformed only to the extent necessary to make it
+             enforceable. This License shall be construed by and in accordance with the substantive laws of Sweden.
+             Any dispute, controversy or claim arising out of or relating to this License, or the breach,
+             termination or invalidity thereof, shall be subject to the exclusive jurisdiction of Swedish courts,
+             with the Stockholm City Court as the first instance.</p>
         </li>
       </list>
-      <p>This License represents the complete agreement concerning the subject matter hereof. If any provision is
-         held to be unenforceable, such provision shall be reformed only to the extent necessary to make it
-         enforceable. This License shall be construed by and in accordance with the substantive laws of Sweden.
-         Any dispute, controversy or claim arising out of or relating to this License, or the breach,
-         termination or invalidity thereof, shall be subject to the exclusive jurisdiction of Swedish courts,
-         with the Stockholm City Court as the first instance.</p>
     </body>
     <optional>
       <p>EXHIBIT A.</p>
