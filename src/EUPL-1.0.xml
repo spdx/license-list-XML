@@ -27,45 +27,97 @@
           <b>1.</b>
           <p>Definitions</p>
           <p>In this Licence, the following terms have the following meaning:</p>
-          <p>− The Licence: this Licence.</p>
-          <p>− The Original Work or the Software: the software distributed and/or communicated by the Licensor
-             under this Licence, available as Source Code and also as Executable Code as the case may
-             be.</p>
-          <p>− Derivative Works: the works or software that could be created by the Licensee, based upon the
-             Original Work or modifications thereof. This Licence does not define the extent of
-             modification or dependence on the Original Work required in order to classify a work as a
-             Derivative Work; this extent is determined by copyright law applicable in the country
-             mentioned in Article 15.</p>
-          <p>− The Work: the Original Work and/or its Derivative Works.</p>
-          <p>− The Source Code: the human-readable form of the Work which is the most convenient for people to
-             study and modify.</p>
-          <p>− The Executable Code: any code which has generally been compiled and which is meant to be
-             interpreted by a computer as a program.</p>
-          <p>− The Licensor: the natural or legal person that distributes and/or communicates the Work under
-             the Licence.</p>
-          <p>− Contributor(s): any natural or legal person who modifies the Work under the Licence, or
-             otherwise contributes to the creation of a Derivative Work.</p>
-          <p>− The Licensee or “You”: any natural or legal person who makes any usage of the Software under
-             the terms of the Licence. − Distribution and/or Communication: any act of selling, giving,
-             lending, renting, distributing, communicating, transmitting, or otherwise making available,
-             on-line or off-line, copies of the Work at the disposal of any other natural or legal
-             person.</p>
+          <list>
+              <li>
+                  <b>−</b>
+                  <p>The Licence: this Licence.</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>The Original Work or the Software: the software distributed and/or communicated by the Licensor
+                     under this Licence, available as Source Code and also as Executable Code as the case may
+                     be.</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>Derivative Works: the works or software that could be created by the Licensee, based upon the
+                     Original Work or modifications thereof. This Licence does not define the extent of
+                     modification or dependence on the Original Work required in order to classify a work as a
+                     Derivative Work; this extent is determined by copyright law applicable in the country
+                     mentioned in Article 15.</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>The Work: the Original Work and/or its Derivative Works.</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>The Source Code: the human-readable form of the Work which is the most convenient for people to
+                    study and modify.</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>The Executable Code: any code which has generally been compiled and which is meant to be
+                    interpreted by a computer as a program.</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>The Licensor: the natural or legal person that distributes and/or communicates the Work under
+                    the Licence.</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>Contributor(s): any natural or legal person who modifies the Work under the Licence, or
+                    otherwise contributes to the creation of a Derivative Work.</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>The Licensee or “You”: any natural or legal person who makes any usage of the Software under
+                     the terms of the Licence. − Distribution and/or Communication: any act of selling, giving,
+                     lending, renting, distributing, communicating, transmitting, or otherwise making available,
+                     on-line or off-line, copies of the Work at the disposal of any other natural or legal
+                     person.</p>
+              </li>
+          </list>
         </li>
         <li>
           <b>2.</b>
           <p>Scope of the rights granted by the Licence</p>
           <p>The Licensor hereby grants You a world-wide, royalty-free, non-exclusive, sub-licensable licence
              to do the following, for the duration of copyright vested in the Original Work:</p>
-          <p>− use the Work in any circumstance and for all usage,</p>
-          <p>− reproduce the Work,</p>
-          <p>− modify the Original Work, and make Derivative Works based upon the Work,</p>
-          <p>− communicate to the public, including the right to make available or display the Work or copies
-             thereof to the public and perform publicly, as the case may be, the Work,</p>
-          <p>− distribute the Work or copies thereof,</p>
-          <p>− lend and rent the Work or copies thereof,</p>
-          <p>− sub-license rights in the Work or copies thereof.</p>
+          <list>
+              <li>
+                  <b>−</b>
+                  <p>use the Work in any circumstance and for all usage,</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>reproduce the Work,</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>modify the Original Work, and make Derivative Works based upon the Work,</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>communicate to the public, including the right to make available or display the Work or copies
+                    thereof to the public and perform publicly, as the case may be, the Work,</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>distribute the Work or copies thereof,</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>lend and rent the Work or copies thereof,</p>
+              </li>
+              <li>
+                  <b>−</b>
+                  <p>sub-license rights in the Work or copies thereof.</p>
+              </li>
+          </list>
           <p>Those rights can be exercised on any media, supports and formats, whether now known or later
-             invented, as far as the applicable law permits so.</p>
+                    invented, as far as the applicable law permits so.</p>
           <p>In the countries where moral rights apply, the Licensor waives his right to exercise his moral
              right to the extent allowed by law in order to make effective the licence of the economic
              rights here above listed.</p>
@@ -229,19 +281,43 @@
           <p>This Licence shall be governed by the law of the European Union country where the Licensor resides or has
              his registered office.</p>
           <p>This licence shall be governed by the Belgian law if:</p>
-          <p>− a litigation arises between the European Commission, as a Licensor, and any Licensee;</p>
-          <p>− the Licensor, other than the European Commission, has no residence or registered office inside a
-             European Union country.</p>
+          <list>
+              <li>
+                  <b>−</b> 
+                  <p>a litigation arises between the European Commission, as a Licensor, and any Licensee;</p>
+              </li>
+              <li>
+                  <b>−</b> 
+                  <p>the Licensor, other than the European Commission, has no residence or registered office inside a
+                    European Union country.</p>
+              </li>
+          </list>
         </li>
       </list>
       <p>Appendix</p>
       <p>“Compatible Licences” according to article 5 EUPL are:</p>
-      <p>− General Public License (GPL) v. 2 
-        <br/>− Open Software License (OSL) v. 2.1, v. 3.0 
-        <br/>− Common Public License v. 1.0 
-        <br/>− Eclipse Public License v. 1.0 
-        <br/>− Cecill v. 2.0 
-      </p>
+      <list>
+          <li>
+              <b>−</b>
+              <p>General Public License (GPL) v. 2</p>
+          </li>
+          <li>
+              <b>−</b>
+              <p>Open Software License (OSL) v. 2.1, v. 3.0</p>
+          </li>
+          <li>
+              <b>−</b>
+              <p>Common Public License v. 1.0</p>
+          </li>
+          <li>
+              <b>−</b>
+              <p>Eclipse Public License v. 1.0</p>
+          </li>
+          <li>
+              <b>−</b>
+              <p>Cecill v. 2.0</p>
+          </li>
+      </list>
     </body>
   </license>
 </SPDX>
