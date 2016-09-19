@@ -1,20 +1,17 @@
-<spdx name="Intel ACPI Software License Agreement" identifier="Intel-ACPI" osi-approved="false">
+<SPDX name="Intel ACPI Software License Agreement" identifier="Intel-ACPI" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/Intel_ACPI_Software_License_Agreement</url>
   </urls>
   <license>
     <title>
-      <p>ACPI - Software License Agreement 
-        <br/>Software License Agreement IMPORTANT - READ BEFORE COPYING, INSTALLING OR USING. 
-      </p>
+      <p>ACPI - Software License Agreement</p>
     </title>
-    <optional>
+    <body>
+      <p>Software License Agreement IMPORTANT - READ BEFORE COPYING, INSTALLING OR USING.</p>
       <p>Do not use or load this software and any associated materials (collectively, the &quot;Software&quot;)
          until you have carefully read the following terms and conditions. By loading or using the Software,
          you agree to the terms of this Agreement. If you do not wish to so agree, do not install or use the
          Software.</p>
-    </optional>
-    <body>
       <list>
         <li>
           <b>1.</b>
