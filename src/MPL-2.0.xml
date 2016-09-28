@@ -1,4 +1,4 @@
-<spdx name="Mozilla Public License 2.0" identifier="MPL-2.0" osi-approved="true">
+<SPDX name="Mozilla Public License 2.0" identifier="MPL-2.0" osi-approved="true">
   <urls>
     <url>http://www.mozilla.org/MPL/2.0/</url>
     <url>http://opensource.org/licenses/MPL-2.0</url>
@@ -120,8 +120,8 @@
           <list>
             <li>
               <b>2.1.</b>
-              <p>Grants 
-                <br/>Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license: 
+              <p>Grants</p>
+                <p>Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license: 
               </p>
               <list>
                 <li>
@@ -141,16 +141,16 @@
             </li>
             <li>
               <b>2.2.</b>
-              <p>Effective Date 
-                <br/>The licenses granted in Section 2.1 with respect to any Contribution become effective
+              <p>Effective Date</p>
+                <p>The licenses granted in Section 2.1 with respect to any Contribution become effective
                      for each Contribution on the date the Contributor first distributes such
                      Contribution. 
               </p>
             </li>
             <li>
               <b>2.3.</b>
-              <p>Limitations on Grant Scope 
-                <br/>The licenses granted in this Section 2 are the only rights granted under this License.
+              <p>Limitations on Grant Scope</p>
+                <p>The licenses granted in this Section 2 are the only rights granted under this License.
                      No additional rights or licenses will be implied from the distribution or
                      licensing of Covered Software under this License. Notwithstanding Section 2.1(b)
                      above, no patent license is granted by a Contributor: 
@@ -177,33 +177,31 @@
             </li>
             <li>
               <b>2.4.</b>
-              <p>Subsequent Licenses 
-                <br/>No Contributor makes additional grants as a result of Your choice to distribute the
+              <p>Subsequent Licenses</p>
+                <p>No Contributor makes additional grants as a result of Your choice to distribute the
                      Covered Software under a subsequent version of this License (see Section 10.2) or
                      under the terms of a Secondary License (if permitted under the terms of Section
-                     3.3). 
-              </p>
+                     3.3).</p>
             </li>
             <li>
               <b>2.5.</b>
-              <p>Representation 
-                <br/>Each Contributor represents that the Contributor believes its Contributions are its
+              <p>Representation</p>
+                <p>Each Contributor represents that the Contributor believes its Contributions are its
                      original creation(s) or it has sufficient rights to grant the rights to its
                      Contributions conveyed by this License. 
               </p>
             </li>
             <li>
               <b>2.6.</b>
-              <p>Fair Use 
-                <br/>This License is not intended to limit any rights You have under applicable copyright
+              <p>Fair Use</p>
+                <p>This License is not intended to limit any rights You have under applicable copyright
                      doctrines of fair use, fair dealing, or other equivalents. 
               </p>
             </li>
             <li>
               <b>2.7.</b>
-              <p>Conditions 
-                <br/>Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses granted in Section 2.1. 
-              </p>
+              <p>Conditions</p> 
+                <p>Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses granted in Section 2.1.</p>
             </li>
           </list>
         </li>
@@ -213,8 +211,8 @@
           <list>
             <li>
               <b>3.1.</b>
-              <p>Distribution of Source Form 
-                <br/>All distribution of Covered Software in Source Code Form, including any Modifications
+              <p>Distribution of Source Form</p>
+                <p>All distribution of Covered Software in Source Code Form, including any Modifications
                      that You create or to which You contribute, must be under the terms of this
                      License. You must inform recipients that the Source Code Form of the Covered
                      Software is governed by the terms of this License, and how they can obtain a copy
@@ -224,9 +222,8 @@
             </li>
             <li>
               <b>3.2.</b>
-              <p>Distribution of Executable Form 
-                <br/>If You distribute Covered Software in Executable Form then: 
-              </p>
+              <p>Distribution of Executable Form</p>
+                <p>If You distribute Covered Software in Executable Form then:</p>
               <list>
                 <li>
                   <b>(a)</b>
@@ -246,8 +243,8 @@
             </li>
             <li>
               <b>3.3.</b>
-              <p>Distribution of a Larger Work 
-                <br/>You may create and distribute a Larger Work under terms of Your choice, provided that
+              <p>Distribution of a Larger Work</p>
+                <p>You may create and distribute a Larger Work under terms of Your choice, provided that
                      You also comply with the requirements of this License for the Covered Software. If
                      the Larger Work is a combination of Covered Software with a work governed by one
                      or more Secondary Licenses, and the Covered Software is not Incompatible With
@@ -259,8 +256,8 @@
             </li>
             <li>
               <b>3.4.</b>
-              <p>Notices 
-                <br/>You may not remove or alter the substance of any license notices (including copyright
+              <p>Notices</p>
+                <p>You may not remove or alter the substance of any license notices (including copyright
                      notices, patent notices, disclaimers of warranty, or limitations of liability)
                      contained within the Source Code Form of the Covered Software, except that You may
                      alter any license notices to the extent required to remedy known factual
@@ -269,8 +266,8 @@
             </li>
             <li>
               <b>3.5.</b>
-              <p>Application of Additional Terms 
-                <br/>You may choose to offer, and to charge a fee for, warranty, support, indemnity or
+              <p>Application of Additional Terms</p>
+                <p>You may choose to offer, and to charge a fee for, warranty, support, indemnity or
                      liability obligations to one or more recipients of Covered Software. However, You
                      may do so only on Your own behalf, and not on behalf of any Contributor. You must
                      make it absolutely clear that any such warranty, support, indemnity, or liability
@@ -285,8 +282,8 @@
         </li>
         <li>
           <b>4.</b>
-          <p>Inability to Comply Due to Statute or Regulation 
-            <br/>If it is impossible for You to comply with any of the terms of this License with respect to
+          <p>Inability to Comply Due to Statute or Regulation</p>
+            <p>If it is impossible for You to comply with any of the terms of this License with respect to
                  some or all of the Covered Software due to statute, judicial order, or regulation then
                  You must: (a) comply with the terms of this License to the maximum extent possible;
                  and (b) describe the limitations and the code they affect. Such description must be
@@ -331,8 +328,8 @@
         </li>
         <li>
           <b>6.</b>
-          <p>Disclaimer of Warranty 
-            <br/>Covered Software is provided under this License on an &quot;as is&quot; basis, without
+          <p>Disclaimer of Warranty</p>
+            <p>Covered Software is provided under this License on an &quot;as is&quot; basis, without
                  warranty of any kind, either expressed, implied, or statutory, including, without
                  limitation, warranties that the Covered Software is free of defects, merchantable, fit
                  for a particular purpose or non-infringing. The entire risk as to the quality and
@@ -345,8 +342,8 @@
         </li>
         <li>
           <b>7.</b>
-          <p>Limitation of Liability 
-            <br/>Under no circumstances and under no legal theory, whether tort (including negligence),
+          <p>Limitation of Liability</p>
+            <p>Under no circumstances and under no legal theory, whether tort (including negligence),
                  contract, or otherwise, shall any Contributor, or anyone who distributes Covered
                  Software as permitted above, be liable to You for any direct, indirect, special,
                  incidental, or consequential damages of any character including, without limitation,
@@ -361,8 +358,8 @@
         </li>
         <li>
           <b>8.</b>
-          <p>Litigation 
-            <br/>Any litigation relating to this License may be brought only in the courts of a jurisdiction
+          <p>Litigation</p>
+            <p>Any litigation relating to this License may be brought only in the courts of a jurisdiction
                  where the defendant maintains its principal place of business and such litigation
                  shall be governed by laws of that jurisdiction, without reference to its
                  conflict-of-law provisions. Nothing in this Section shall prevent a party&apos;s
@@ -371,8 +368,8 @@
         </li>
         <li>
           <b>9.</b>
-          <p>Miscellaneous 
-            <br/>This License represents the complete agreement concerning the subject matter hereof. If any
+          <p>Miscellaneous</p>
+            <p>This License represents the complete agreement concerning the subject matter hereof. If any
                  provision of this License is held to be unenforceable, such provision shall be
                  reformed only to the extent necessary to make it enforceable. Any law or regulation
                  which provides that the language of a contract shall be construed against the drafter
@@ -385,24 +382,24 @@
           <list>
             <li>
               <b>10.1.</b>
-              <p>New Versions 
-                <br/>Mozilla Foundation is the license steward. Except as provided in Section 10.3, no one
+              <p>New Versions</p>
+                <p>Mozilla Foundation is the license steward. Except as provided in Section 10.3, no one
                      other than the license steward has the right to modify or publish new versions of
                      this License. Each version will be given a distinguishing version number. 
               </p>
             </li>
             <li>
               <b>10.2.</b>
-              <p>Effect of New Versions 
-                <br/>You may distribute the Covered Software under the terms of the version of the License
+              <p>Effect of New Versions</p>
+                <p>You may distribute the Covered Software under the terms of the version of the License
                      under which You originally received the Covered Software, or under the terms of
                      any subsequent version published by the license steward. 
               </p>
             </li>
             <li>
               <b>10.3.</b>
-              <p>Modified Versions 
-                <br/>If you create software not governed by this License, and you want to create a new
+              <p>Modified Versions</p>
+                <p>If you create software not governed by this License, and you want to create a new
                      license for such software, you may create and use a modified version of this
                      License if you rename the license and remove any references to the name of the
                      license steward (except to note that such modified license differs from this
@@ -411,8 +408,8 @@
             </li>
             <li>
               <b>10.4.</b>
-              <p>Distributing Source Code Form that is Incompatible With Secondary Licenses
-                <br/>If You choose to distribute Source Code Form that is Incompatible With Secondary Licenses under the terms
+              <p>Distributing Source Code Form that is Incompatible With Secondary Licenses</p>
+                <p>If You choose to distribute Source Code Form that is Incompatible With Secondary Licenses under the terms
                      of this version of the License, the notice described in Exhibit B of this License must be
                      attached.</p>
             </li>
