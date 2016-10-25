@@ -1,4 +1,4 @@
-<spdx name="Eclipse Public License 1.0" identifier="EPL-1.0" osi-approved="true">
+<SPDX name="Eclipse Public License 1.0" identifier="EPL-1.0" osi-approved="true">
   <urls>
     <url>http://www.eclipse.org/legal/epl-v10.html</url>
     <url>http://www.opensource.org/licenses/EPL-1.0</url>
@@ -18,7 +18,6 @@
           <p>DEFINITIONS 
             <br/>&quot;Contribution&quot; means: 
           </p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -28,7 +27,6 @@
           <li>
             <b>b)</b>
             <p>in the case of each subsequent Contributor:</p>
-          </li>
           <list>
             <li>
               <b>i)</b>
@@ -43,22 +41,22 @@
                  Contributor&apos;s behalf. Contributions do not include additions to the Program
                  which: (i) are separate modules of software distributed in conjunction with the
                  Program under their own license agreement, and (ii) are not derivative works of the
-                 Program. 
-                <br/>&quot;Contributor&quot; means any person or entity that distributes the Program. 
-              </p>
-              <p>&quot;Licensed Patents&quot; mean patent claims licensable by a Contributor which are
-                 necessarily infringed by the use or sale of its Contribution alone or when combined
-                 with the Program.</p>
-              <p>&quot;Program&quot; means the Contributions distributed in accordance with this Agreement.</p>
-              <p>&quot;Recipient&quot; means anyone who receives the Program under this Agreement,
-                 including all Contributors.</p>
+                 Program. </p>
             </li>
           </list>
-        </list>
+          </li>
+        </list>  
+          <p>&quot;Contributor&quot; means any person or entity that distributes the Program. </p>
+          <p>&quot;Licensed Patents&quot; mean patent claims licensable by a Contributor which are
+             necessarily infringed by the use or sale of its Contribution alone or when combined
+             with the Program.</p>
+          <p>&quot;Program&quot; means the Contributions distributed in accordance with this Agreement.</p>
+          <p>&quot;Recipient&quot; means anyone who receives the Program under this Agreement,
+             including all Contributors.</p>
+        </li>
         <li>
           <b>2.</b>
           <p>GRANT OF RIGHTS</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -98,13 +96,13 @@
                Contribution, if any, to grant the copyright license set forth in this Agreement.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>3.</b>
           <p>REQUIREMENTS 
             <br/>A Contributor may choose to distribute the Program in object code form under its own
                  license agreement, provided that: 
           </p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -113,7 +111,6 @@
           <li>
             <b>b)</b>
             <p>its license agreement:</p>
-          </li>
           <list>
             <li>
               <b>i)</b>
@@ -138,9 +135,12 @@
               <p>states that source code for the Program is available from such Contributor, and informs
                  licensees how to obtain it in a reasonable manner on or through a medium customarily
                  used for software exchange.</p>
-              <p>When the Program is made available in source code form:</p>
             </li>
           </list>
+        </li>
+        </list>
+        <p>When the Program is made available in source code form:</p>
+        <list>
           <li>
             <b>a)</b>
             <p>it must be made available under this Agreement; and</p>
@@ -150,11 +150,12 @@
             <p>a copy of this Agreement must be included with each copy of the Program. 
               <br/>Contributors may not remove or alter any copyright notices contained within the Program. 
             </p>
+          </li>
+        </list>
             <p>Each Contributor must identify itself as the originator of its Contribution, if any, in a
                manner that reasonably allows subsequent Recipients to identify the originator of the
                Contribution.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>4.</b>
           <p>COMMERCIAL DISTRIBUTION 
@@ -214,8 +215,6 @@
         <li>
           <b>7.</b>
           <p>GENERAL</p>
-        </li>
-      </list>
       <p>If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect
          the validity or enforceability of the remainder of the terms of this Agreement, and without further
          action by the parties hereto, such provision shall be reformed to the minimum extent necessary to make
@@ -247,6 +246,8 @@
          United States of America. No party to this Agreement will bring a legal action under this Agreement
          more than one year after the cause of action arose. Each party waives its rights to a jury trial in
          any resulting litigation.</p>
+      </li>
+    </list>  
     </body>
   </license>
 </SPDX>
