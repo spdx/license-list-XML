@@ -16,7 +16,7 @@
     <copyright>
       <p>Copyright 1999 LaTeX3 Project</p>
     </copyright>
-    <optional>
+
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but modification
          is not allowed.</p>
       <p>Preamble</p>
@@ -53,8 +53,7 @@
         <br/>Terms And Conditions For Copying, Distribution And Modification 
         <br/>=============================================================== 
       </p>
-    </optional>
-    <body>
+
       <p>WARRANTY 
         <br/>======== 
       </p>
@@ -83,49 +82,47 @@
       <p>The distribution of changed versions of certain files included in the The Program, and the reuse of code
          from The Program, are allowed under the following restrictions:</p>
       <list>
-        <list>
-          <li>
-            <b>*</b>
-            <p>It is allowed only if the legal notice in the file does not expressly forbid it. See note
-               below, under "Conditions on individual files".</p>
-          </li>
-          <li>
-            <b>*</b>
-            <p>You rename the file before you make any changes to it, unless the file explicitly says that
-               renaming is not required. Any such changed files must be distributed under a license that
-               forbids distribution of those files, and any files derived from them, under the names used
-               by the original files in the distribution of The Program.</p>
-          </li>
-          <li>
-            <b>*</b>
-            <p>You change any `identification string' in The Program to clearly indicate that the file is
-               not part of the standard system.</p>
-          </li>
-          <li>
-            <b>*</b>
-            <p>If The Program includes an `error report address' so that errors may be reported to The
-               Copyright Holder, or other specified addresses, this address must be changed in any
-               modified versions of The Program, so that reports for files not maintained by the original
-               program maintainers are directed to the maintainers of the changed files.</p>
-          </li>
-          <li>
-            <b>*</b>
-            <p>You acknowledge the source and authorship of the original version in the modified file.</p>
-          </li>
-          <li>
-            <b>*</b>
-            <p>You also distribute the unmodified version of the file or alternatively provide sufficient
+        <li>
+          <b>*</b>
+          <p>It is allowed only if the legal notice in the file does not expressly forbid it. See note
+           below, under "Conditions on individual files".</p>
+        </li>
+        <li>
+          <b>*</b>
+          <p>You rename the file before you make any changes to it, unless the file explicitly says that
+           renaming is not required. Any such changed files must be distributed under a license that
+           forbids distribution of those files, and any files derived from them, under the names used
+           by the original files in the distribution of The Program.</p>
+        </li>
+        <li>
+          <b>*</b>
+          <p>You change any `identification string' in The Program to clearly indicate that the file is
+           not part of the standard system.</p>
+        </li>
+        <li>
+          <b>*</b>
+          <p>If The Program includes an `error report address' so that errors may be reported to The
+           Copyright Holder, or other specified addresses, this address must be changed in any
+           modified versions of The Program, so that reports for files not maintained by the original
+           program maintainers are directed to the maintainers of the changed files.</p>
+        </li>
+        <li>
+          <b>*</b>
+          <p>You acknowledge the source and authorship of the original version in the modified file.</p>
+        </li>
+        <li>
+          <b>*</b>
+          <p>You also distribute the unmodified version of the file or alternatively provide sufficient
                information so that the user of your modified file can be reasonably expected to be able
                to obtain an original, unmodified copy of The Program. For example, you may specify a URL
                to a site that you expect will freely provide the user with a copy of The Program (either
                the version on which your modification is based, or perhaps a later version).</p>
-          </li>
-          <li>
-            <b>*</b>
-            <p>If The Program is intended to be used with, or is based on, LaTeX, then files with the
+        </li>
+        <li>
+          <b>*</b>
+          <p>If The Program is intended to be used with, or is based on, LaTeX, then files with the
                following file extensions which have special meaning in LaTeX Software, have special
                modification rules under the license:</p>
-          </li>
           <list>
             <li>
               <b>-</b>
@@ -147,12 +144,10 @@
                  files.</p>
             </li>
           </list>
+          </li>
         </list>
-      </list>
       <p>The above restrictions are not intended to prohibit, and hence do not apply to, the updating, by any
          method, of a file so that it becomes identical to the latest version of that file in The Program.</p>
-    </body>
-    <optional>
       <p>========================================================================</p>
       <p>NOTES 
         <br/>===== 
@@ -188,6 +183,5 @@
              meets these requirements.</p>
         </li>
       </list>
-    </optional>
   </license>
 </SPDX>
