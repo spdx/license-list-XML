@@ -13,6 +13,7 @@
          “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed
          under their terms and conditions, or any related information. Creative Commons disclaims all liability
          for damages resulting from their use to the fullest extent possible.</p>
+    </optional>
       <p>Using Creative Commons Public Licenses</p>
       <p>Creative Commons public licenses provide a standard set of terms and conditions that creators and other
          rights holders may use to share original works of authorship and other material subject to copyright
@@ -41,10 +42,7 @@
          granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the
          Licensor grants You such rights in consideration of benefits the Licensor receives from making the
          Licensed Material available under these terms and conditions.</p>
-    </optional>
-    <body>
-      <p>Section 1 – Definitions.</p>
-      <list>
+    <p>Section 1 – Definitions.</p>
         <list>
           <li>
             <b>a.</b>
@@ -111,19 +109,19 @@
             <b>j.</b>
             <p>You means the individual or entity exercising the Licensed Rights under this Public License.
                Your has a corresponding meaning.</p>
-            <p>Section 2 – Scope.</p>
           </li>
+        </list>
+    <p>Section 2 – Scope.</p>
+        <list>
           <li>
             <b>a.</b>
             <p>License grant.</p>
-          </li>
           <list>
             <li>
               <b>1.</b>
               <p>Subject to the terms and conditions of this Public License, the Licensor hereby grants
                  You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license
                  to exercise the Licensed Rights in the Licensed Material to:</p>
-            </li>
             <list>
               <li>
                 <b>A.</b>
@@ -134,6 +132,7 @@
                 <p>produce and reproduce, but not Share, Adapted Material.</p>
               </li>
             </list>
+            </li>
             <li>
               <b>2.</b>
               <p>Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations
@@ -158,7 +157,6 @@
             <li>
               <b>5.</b>
               <p>Downstream recipients.</p>
-            </li>
             <list>
               <li>
                 <b>A.</b>
@@ -174,6 +172,7 @@
                    recipient of the Licensed Material.</p>
               </li>
             </list>
+            </li>
             <li>
               <b>6.</b>
               <p>No endorsement. Nothing in this Public License constitutes or may be construed as
@@ -183,10 +182,10 @@
                  3(a)(1)(A)(i).</p>
             </li>
           </list>
+          </li>
           <li>
             <b>b.</b>
             <p>Other rights.</p>
-          </li>
           <list>
             <li>
               <b>1.</b>
@@ -206,26 +205,25 @@
                  the exercise of the Licensed Rights, whether directly or through a collecting society
                  under any voluntary or waivable statutory or compulsory licensing scheme. In all other
                  cases the Licensor expressly reserves any right to collect such royalties.</p>
-              <p>Section 3 – License Conditions.</p>
-              <p>Your exercise of the Licensed Rights is expressly made subject to the following conditions.</p>
             </li>
           </list>
+          </li>
+        </list>  
+    <p>Section 3 – License Conditions.</p>
+    <p>Your exercise of the Licensed Rights is expressly made subject to the following conditions.</p>
+        <list>
           <li>
             <b>a.</b>
             <p>Attribution.</p>
-          </li>
           <list>
             <li>
               <b>1.</b>
               <p>If You Share the Licensed Material, You must:</p>
-            </li>
             <list>
               <li>
                 <b>A.</b>
                 <p>retain the following if it is supplied by the Licensor with the Licensed Material:</p>
-              </li>
               <list>
-                <list>
                   <li>
                     <b>i.</b>
                     <p>identification of the creator(s) of the Licensed Material and any others
@@ -243,10 +241,13 @@
                   <li>
                     <b>iv.</b>
                     <p>a notice that refers to the disclaimer of warranties;</p>
-                    <p>v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;</p>
                   </li>
-                </list>
+                  <li>
+                    <b>v.</b>
+                    <p>a URI or hyperlink to the Licensed Material to the extent reasonably practicable;</p>
+                  </li>
               </list>
+              </li>
               <li>
                 <b>B.</b>
                 <p>indicate if You modified the Licensed Material and retain an indication of any
@@ -258,6 +259,7 @@
                    text of, or the URI or hyperlink to, this Public License.</p>
               </li>
             </list>
+            </li>
             <li>
               <b>2.</b>
               <p>For the avoidance of doubt, You do not have permission under this Public License to Share
@@ -274,11 +276,14 @@
               <b>4.</b>
               <p>If requested by the Licensor, You must remove any of the information required by Section
                  3(a)(1)(A) to the extent reasonably practicable.</p>
-              <p>Section 4 – Sui Generis Database Rights.</p>
-              <p>Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of
-                 the Licensed Material:</p>
             </li>
           </list>
+          </li>
+        </list>
+    <p>Section 4 – Sui Generis Database Rights.</p>
+    <p>Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of
+        the Licensed Material:</p>
+        <list>
           <li>
             <b>a.</b>
             <p>for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse,
@@ -299,8 +304,10 @@
                    obligations under this Public License where the Licensed Rights include other
                    Copyright and Similar Rights. 
             </p>
-            <p>Section 5 – Disclaimer of Warranties and Limitation of Liability.</p>
-          </li>
+          </li> 
+        </list>
+    <p>Section 5 – Disclaimer of Warranties and Limitation of Liability.</p>
+        <list>
           <li>
             <b>a.</b>
             <p>Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor
@@ -327,8 +334,10 @@
             <p>The disclaimer of warranties and limitation of liability provided above shall be interpreted
                in a manner that, to the extent possible, most closely approximates an absolute disclaimer
                and waiver of all liability.</p>
-            <p>Section 6 – Term and Termination.</p>
           </li>
+        </list>  
+    <p>Section 6 – Term and Termination.</p>
+        <list>
           <li>
             <b>a.</b>
             <p>This Public License applies for the term of the Copyright and Similar Rights licensed here.
@@ -338,7 +347,6 @@
           <li>
             <b>b.</b>
             <p>Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:</p>
-          </li>
           <list>
             <li>
               <b>1.</b>
@@ -350,6 +358,7 @@
               <p>upon express reinstatement by the Licensor.</p>
             </li>
           </list>
+          </li>
           <li>
             <b>c.</b>
             <p>For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have
@@ -364,8 +373,10 @@
           <li>
             <b>e.</b>
             <p>Sections 1, 5, 6, 7, and 8 survive termination of this Public License.</p>
-            <p>Section 7 – Other Terms and Conditions.</p>
           </li>
+        </list>  
+    <p>Section 7 – Other Terms and Conditions.</p>
+        <list>
           <li>
             <b>a.</b>
             <p>The Licensor shall not be bound by any additional or different terms or conditions
@@ -376,8 +387,10 @@
             <p>Any arrangements, understandings, or agreements regarding the Licensed Material not stated
                herein are separate from and independent of the terms and conditions of this Public
                License.</p>
-            <p>Section 8 – Interpretation.</p>
           </li>
+        </list>
+    <p>Section 8 – Interpretation.</p>
+        <list>
           <li>
             <b>a.</b>
             <p>For the avoidance of doubt, this Public License does not, and shall not be interpreted to,
@@ -403,7 +416,6 @@
                the legal processes of any jurisdiction or authority.</p>
           </li>
         </list>
-      </list>
       <p>Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to
          apply one of its public licenses to material it publishes and in those instances will be considered
          the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative
@@ -414,6 +426,5 @@
          licenses or any other arrangements, understandings, or agreements concerning use of licensed material.
          For the avoidance of doubt, this paragraph does not form part of the public licenses. 
         <br/>Creative Commons may be contacted at creativecommons.org. 
-      </body>
     </license>
   </SPDX>
