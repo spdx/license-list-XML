@@ -1,4 +1,4 @@
-<spdx name="LaTeX Project Public License v1.2" identifier="LPPL-1.2" osi-approved="false">
+<SPDX name="LaTeX Project Public License v1.2" identifier="LPPL-1.2" osi-approved="false">
   <urls>
     <url>http://www.latex-project.org/lppl/lppl-1-2.txt</url>
   </urls>
@@ -20,7 +20,6 @@
     <copyright>
       <p>Copyright 1999 LaTeX3 Project</p>
     </copyright>
-    <optional>
       <p>Everyone is allowed to distribute verbatim copies of this license document, but modification of it is not
          allowed.</p>
       <p>PREAMBLE 
@@ -51,14 +50,11 @@
       <p>CONDITIONS ON DISTRIBUTION AND MODIFICATION 
         <br/>=========================================== 
       </p>
-    </optional>
-    <body>
       <p>You may distribute a complete, unmodified copy of The Program. Distribution of only part of The Program
          is not allowed.</p>
       <p>You may not modify in any way a file of The Program that bears a legal notice forbidding modification of
          that file.</p>
       <p>You may distribute a modified file of The Program if, and only if, the following eight conditions are met:</p>
-      <list>
         <list>
           <li>
             <b>1.</b>
@@ -101,7 +97,6 @@
           <li>
             <b>8.</b>
             <p>You must do either (A) or (B):</p>
-          </li>
           <list>
             <li>
               <b>(A)</b>
@@ -119,49 +114,52 @@
                  (URL) for a site that you expect will provide them with a copy of The Program free of
                  charge (either the version from which your modification is derived, or perhaps a later
                  version).</p>
-              <p>Note that in the above, `distribution&apos; of a file means making the file available to
-                 others by any means. This includes, for instance, installing the file on any machine
-                 in such a way that the file is accessible by users other than yourself.
-                 `Modification&apos; of a file means any procedure that produces a derivative file
-                 under any applicable law -- that is, a file containing the original file or a
-                 significant portion of it, either verbatim or with modifications and/or translated
-                 into another language.</p>
-              <p>Changing the name of a file (other than as necessitated by the file conventions of the
-                 target file systems) is considered to be a modification of the file.</p>
-              <p>The distribution conditions in this license do not have to be applied to files that have
-                 been modified in accordance with the above conditions. Note, however, that Condition
-                 7. does apply to any such modified file.</p>
-              <p>The conditions above are not intended to prohibit, and hence do not apply to, the
-                 updating, by any method, of a file so that it becomes identical to the latest version
-                 of that file of The Program.</p>
-              <p>A Recommendation on Modification Without Distribution
-                 -----------------------------------------------------</p>
-              <p>It is wise never to modify a file of The Program, even for your own personal use, without
-                 also meeting the above eight conditions for distributing the modified file. While you
-                 might intend that such modified files will never be distributed, often this will
-                 happen by accident -- you may forget that you have modified the file; or it may not
-                 occur to you when allowing others to access the modified file that you are thus
-                 distributing it and violating the conditions of this license. It is usually in your
-                 best interest to keep your copy of The Program identical with the public one. Many
-                 programs provide ways to control the behavior of that program without altering its
-                 licensed files.</p>
-              <p>Additional Conditions on Individual Files of The Program
-                 --------------------------------------------------------</p>
-              <p>An individual file of The Program may bear additional conditions that supplement and/or
-                 supersede the conditions in this license if, and only if, such additional conditions
-                 exclusively concern modification of the file or distribution of a modified version of
-                 the file. The conditions on individual files of The Program therefore may differ only
-                 with respect to the kind and extent of modification of those files that is allowed,
-                 and with respect to the distribution of modified versions of those files.</p>
-              <p>Additional Conditions on LaTeX Software Files 
-                <br/>--------------------------------------------- 
-              </p>
-              <p>If a file of The Program is intended to be used with LaTeX (that is, if it is a LaTeX
-                 software file), then the following additional conditions, which supplement and/or
-                 supersede the conditions above, apply to the file according to its filename
-                 extension:</p>
             </li>
           </list>
+          </li>
+        </list>
+      <p>Note that in the above, `distribution&apos; of a file means making the file available to
+         others by any means. This includes, for instance, installing the file on any machine
+         in such a way that the file is accessible by users other than yourself.
+         `Modification&apos; of a file means any procedure that produces a derivative file
+         under any applicable law -- that is, a file containing the original file or a
+         significant portion of it, either verbatim or with modifications and/or translated
+         into another language.</p>
+      <p>Changing the name of a file (other than as necessitated by the file conventions of the
+         target file systems) is considered to be a modification of the file.</p>
+      <p>The distribution conditions in this license do not have to be applied to files that have
+         been modified in accordance with the above conditions. Note, however, that Condition
+         7. does apply to any such modified file.</p>
+      <p>The conditions above are not intended to prohibit, and hence do not apply to, the
+         updating, by any method, of a file so that it becomes identical to the latest version
+         of that file of The Program.</p>
+      <p>A Recommendation on Modification Without Distribution
+         -----------------------------------------------------</p>
+      <p>It is wise never to modify a file of The Program, even for your own personal use, without
+         also meeting the above eight conditions for distributing the modified file. While you
+         might intend that such modified files will never be distributed, often this will
+         happen by accident -- you may forget that you have modified the file; or it may not
+         occur to you when allowing others to access the modified file that you are thus
+         distributing it and violating the conditions of this license. It is usually in your
+         best interest to keep your copy of The Program identical with the public one. Many
+         programs provide ways to control the behavior of that program without altering its
+         licensed files.</p>
+      <p>Additional Conditions on Individual Files of The Program
+         --------------------------------------------------------</p>
+      <p>An individual file of The Program may bear additional conditions that supplement and/or
+         supersede the conditions in this license if, and only if, such additional conditions
+         exclusively concern modification of the file or distribution of a modified version of
+         the file. The conditions on individual files of The Program therefore may differ only
+         with respect to the kind and extent of modification of those files that is allowed,
+         and with respect to the distribution of modified versions of those files.</p>
+      <p>Additional Conditions on LaTeX Software Files 
+        <br/>--------------------------------------------- 
+      </p>
+      <p>If a file of The Program is intended to be used with LaTeX (that is, if it is a LaTeX
+         software file), then the following additional conditions, which supplement and/or
+         supersede the conditions above, apply to the file according to its filename
+         extension:</p>
+        <list>
           <li>
             <b>-</b>
             <p>You may not modify any file with filename extension `.ins&apos; since these are installation
@@ -173,7 +171,6 @@
                definition files) under the standard conditions of the LPPL as described above. You may
                also distribute such modified LaTeX font definition files with their original names
                provided that:</p>
-          </li>
           <list>
             <li>
               <b>(1)</b>
@@ -186,6 +183,7 @@
                  control which set of LaTeX font definition files is actually used by TeX).</p>
             </li>
           </list>
+          </li>
           <li>
             <b>-</b>
             <p>You may distribute modified versions of files with filename extension `.cfg&apos;
@@ -193,7 +191,6 @@
                specify the range of commands that are allowed in a particular configuration file.</p>
           </li>
         </list>
-      </list>
       <p>Because of portability and exchangeability issues in LaTeX software, The LaTeX3 Project deprecates the
          distribution of modified versions of components of LaTeX or of generally available contributed code
          for them, but such distribution can meet the conditions of this license.</p>
@@ -212,8 +209,6 @@
          loss of data, data being rendered inaccurate, or losses sustained by anyone as a result of any failure
          of The Program to operate with any other programs), even if The Copyright Holder or said author or
          said other party has been advised of the possibility of such damages.</p>
-    </body>
-    <optional>
       <p>WHETHER AND HOW TO DISTRIBUTE PROGRAMS UNDER THIS LICENSE
          =========================================================</p>
       <p>This section contains important instructions, examples, and recommendations for authors who are
@@ -276,6 +271,5 @@
          `.cfg&apos;) are examples of files bearing less restrictive conditions on the distribution of a
          modified version of the file. The additional conditions on LaTeX software given above are examples of
          declaring a category of files bearing exceptional additional conditions.</p>
-    </optional>
   </license>
 </SPDX>
