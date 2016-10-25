@@ -1,4 +1,4 @@
-<spdx name="LaTeX Project Public License v1.3c" identifier="LPPL-1.3c" osi-approved="true">
+<SPDX name="LaTeX Project Public License v1.3c" identifier="LPPL-1.3c" osi-approved="true">
   <urls>
     <url>http://www.latex-project.org/lppl/lppl-1-3c.txt</url>
     <url>http://www.opensource.org/licenses/LPPL-1.3c</url>
@@ -23,7 +23,6 @@
     <copyright>
       <p>Copyright 1999 2002-2008 LaTeX3 Project</p>
     </copyright>
-    <optional>
       <p>Everyone is allowed to distribute verbatim copies of this license document, but modification of it is not
          allowed.</p>
       <p>PREAMBLE 
@@ -44,8 +43,6 @@
          maintaining the availability, integrity, and reliability of that work. If you do not see how to
          achieve your goal while meeting these conditions, then read the document `cfgguide.tex&apos; and
          `modguide.tex&apos; in the base LaTeX distribution for suggestions.</p>
-    </optional>
-    <body>
       <p>DEFINITIONS 
         <br/>=========== 
       </p>
@@ -116,7 +113,6 @@
              following conditions are met for every component of the Work unless that component clearly
              states in the copyright notice that it is exempt from that condition. Only the Current
              Maintainer is allowed to add such statements of exemption to a component of the Work.</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -144,7 +140,6 @@
           <li>
             <b>d.</b>
             <p>You distribute at least one of the following with the Derived Work:</p>
-          </li>
           <list>
             <li>
               <b>1.</b>
@@ -159,7 +154,9 @@
               <p>Information that is sufficient to obtain a complete, unmodified copy of the Work.</p>
             </li>
           </list>
+          </li>
         </list>
+        </li>
         <li>
           <b>7.</b>
           <p>If you are not the Current Maintainer of the Work, you may distribute a Compiled Work generated
@@ -182,8 +179,7 @@
              applying that process.</p>
         </li>
         <li>
-          <p>10.</p>
-        </li>
+          <b>10.</b>
         <list>
           <li>
             <b>a.</b>
@@ -198,6 +194,7 @@
                honor the restrictions in Clause 6 above, concerning changes from the Work.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>11.</b>
           <p>This license places no restrictions on works that are unrelated to the Work, nor does this
@@ -207,42 +204,44 @@
           <b>12.</b>
           <p>Nothing in this license is intended to, or may be used to, prevent complete compliance by all
              parties with all applicable laws.</p>
-          <p>NO WARRANTY 
-            <br/>=========== 
-          </p>
-          <p>There is no warranty for the Work. Except when otherwise stated in writing, the Copyright Holder
-             provides the Work `as is&apos;, without warranty of any kind, either expressed or implied,
-             including, but not limited to, the implied warranties of merchantability and fitness for a
-             particular purpose. The entire risk as to the quality and performance of the Work is with you.
-             Should the Work prove defective, you assume the cost of all necessary servicing, repair, or
-             correction.</p>
-          <p>In no event unless required by applicable law or agreed to in writing will The Copyright Holder,
-             or any author named in the components of the Work, or any other party who may distribute
-             and/or modify the Work as permitted above, be liable to you for damages, including any
-             general, special, incidental or consequential damages arising out of any use of the Work or
-             out of inability to use the Work (including, but not limited to, loss of data, data being
-             rendered inaccurate, or losses sustained by anyone as a result of any failure of the Work to
-             operate with any other programs), even if the Copyright Holder or said author or said other
-             party has been advised of the possibility of such damages.</p>
-          <p>MAINTENANCE OF THE WORK 
-            <br/>======================= 
-          </p>
-          <p>The Work has the status `author-maintained&apos; if the Copyright Holder explicitly and
-             prominently states near the primary copyright notice in the Work that the Work can only be
-             maintained by the Copyright Holder or simply that it is `author-maintained&apos;.</p>
-          <p>The Work has the status `maintained&apos; if there is a Current Maintainer who has indicated in
-             the Work that they are willing to receive error reports for the Work (for example, by
-             supplying a valid e-mail address). It is not required for the Current Maintainer to
-             acknowledge or act upon these error reports.</p>
-          <p>The Work changes from status `maintained&apos; to `unmaintained&apos; if there is no Current
-             Maintainer, or the person stated to be Current Maintainer of the work cannot be reached
-             through the indicated means of communication for a period of six months, and there are no
-             other significant signs of active maintenance.</p>
-          <p>You can become the Current Maintainer of the Work by agreement with any existing Current
-             Maintainer to take over this role.</p>
-          <p>If the Work is unmaintained, you can become the Current Maintainer of the Work through the
-             following steps:</p>
         </li>
+        </list>
+      <p>NO WARRANTY 
+        <br/>=========== 
+      </p>
+      <p>There is no warranty for the Work. Except when otherwise stated in writing, the Copyright Holder
+         provides the Work `as is&apos;, without warranty of any kind, either expressed or implied,
+         including, but not limited to, the implied warranties of merchantability and fitness for a
+         particular purpose. The entire risk as to the quality and performance of the Work is with you.
+         Should the Work prove defective, you assume the cost of all necessary servicing, repair, or
+         correction.</p>
+      <p>In no event unless required by applicable law or agreed to in writing will The Copyright Holder,
+         or any author named in the components of the Work, or any other party who may distribute
+         and/or modify the Work as permitted above, be liable to you for damages, including any
+         general, special, incidental or consequential damages arising out of any use of the Work or
+         out of inability to use the Work (including, but not limited to, loss of data, data being
+         rendered inaccurate, or losses sustained by anyone as a result of any failure of the Work to
+         operate with any other programs), even if the Copyright Holder or said author or said other
+         party has been advised of the possibility of such damages.</p>
+      <p>MAINTENANCE OF THE WORK 
+        <br/>======================= 
+      </p>
+      <p>The Work has the status `author-maintained&apos; if the Copyright Holder explicitly and
+         prominently states near the primary copyright notice in the Work that the Work can only be
+         maintained by the Copyright Holder or simply that it is `author-maintained&apos;.</p>
+      <p>The Work has the status `maintained&apos; if there is a Current Maintainer who has indicated in
+         the Work that they are willing to receive error reports for the Work (for example, by
+         supplying a valid e-mail address). It is not required for the Current Maintainer to
+         acknowledge or act upon these error reports.</p>
+      <p>The Work changes from status `maintained&apos; to `unmaintained&apos; if there is no Current
+         Maintainer, or the person stated to be Current Maintainer of the work cannot be reached
+         through the indicated means of communication for a period of six months, and there are no
+         other significant signs of active maintenance.</p>
+      <p>You can become the Current Maintainer of the Work by agreement with any existing Current
+         Maintainer to take over this role.</p>
+      <p>If the Work is unmaintained, you can become the Current Maintainer of the Work through the
+         following steps:</p>
+      <list>
         <li>
           <b>1.</b>
           <p>Make a reasonable attempt to trace the Current Maintainer (and the Copyright Holder, if the two
@@ -251,7 +250,6 @@
         <li>
           <b>2.</b>
           <p>If this search is successful, then enquire whether the Work is still maintained.</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -264,14 +262,18 @@
                Current Maintainer, then announce within the pertinent community your intention to take
                over maintenance. (If the Work is a LaTeX work, this could be done, for example, by
                posting to comp.text.tex.)</p>
-            <p>3a. If the Current Maintainer is reachable and agrees to pass maintenance of the Work to you,
+          </li>       
+          <li>
+            <b>3a.</b> 
+            <p>If the Current Maintainer is reachable and agrees to pass maintenance of the Work to you,
                then this takes effect immediately upon announcement.</p>
           </li>
-        </list>
-        <li>
+          <li>
           <b>b.</b>
           <p>If the Current Maintainer is not reachable and the Copyright Holder agrees that maintenance of
              the Work be passed to you, then this takes effect immediately upon announcement.</p>
+          </li>
+        </list>
         </li>
         <li>
           <b>4.</b>
@@ -293,8 +295,6 @@
       <p>If you become the Current Maintainer of the Work, you should immediately provide, within the Work, a
          prominent and unambiguous statement of your status as Current Maintainer. You should also announce
          your new status to the same pertinent community as in 2b) above.</p>
-    </body>
-    <optional>
       <p>WHETHER AND HOW TO DISTRIBUTE WORKS UNDER THIS LICENSE 
         <br/>====================================================== 
       </p>
@@ -379,6 +379,5 @@
       <p>in that place. In the absence of an unequivocal list it might be impossible for the licensee to determine
          what is considered by you to comprise the Work and, in such a case, the licensee would be entitled to
          make reasonable conjectures as to which files comprise the Work.</p>
-    </optional>
   </license>
 </SPDX>
