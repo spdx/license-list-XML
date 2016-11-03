@@ -1,4 +1,4 @@
-<spdx name="Code Project Open License 1.02" identifier="CPOL-1.02" osi-approved="false">
+<SPDX name="Code Project Open License 1.02" identifier="CPOL-1.02" osi-approved="false">
   <urls>
     <url>http://www.codeproject.com/info/cpol10.aspx</url>
   </urls>
@@ -6,7 +6,7 @@
     <title>
       <p>The Code Project Open License (CPOL) 1.02</p>
     </title>
-    <optional>
+
       <p>Preamble</p>
       <p>This License governs Your use of the Work. This License is intended to allow developers to use the Source
          Code and Executable Files provided as part of the Work in any application in any form. 
@@ -40,8 +40,7 @@
          the Work licensed pursuant to this License and the individual or other entity which offers the Work
          under the terms of this License (&quot;Author&quot;).</p>
       <p>License</p>
-    </optional>
-    <body>
+
       <p>THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CODE PROJECT OPEN LICENSE
          (&quot;LICENSE&quot;). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE
          WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.</p>
@@ -53,7 +52,6 @@
         <li>
           <b>1.</b>
           <p>Definitions.</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -103,6 +101,7 @@
                rights under this License.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2.</b>
           <p>Fair Use/Fair Use Rights. Nothing in this License is intended to reduce, limit, or restrict any
@@ -114,7 +113,6 @@
           <p>License Grant. Subject to the terms and conditions of this License, the Author hereby grants You
              a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable
              copyright) license to exercise the rights in the Work as stated below:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -145,11 +143,12 @@
                Articles. You may use the Executable Files and Source Code pursuant to this License but
                you may not repost or republish or otherwise distribute or make available the Articles,
                without the prior written consent of the Author.</p>
+          </li>
+        </list>  
             <p>Any subroutines or modules supplied by You and linked into the Source Code or Executable
                Files of this Work shall not be considered part of this Work and will not be subject to
                the terms of this License.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>4.</b>
           <p>Patent License. Subject to the terms and conditions of this License, each Author hereby grants to
@@ -161,7 +160,6 @@
           <b>5.</b>
           <p>Restrictions. The license granted in Section 3 above is expressly made subject to and limited by
              the following restrictions:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -206,6 +204,7 @@
                after Your receipt of the Work.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>6.</b>
           <p>Representations, Warranties and Disclaimer. THIS WORK IS PROVIDED &quot;AS IS&quot;, &quot;WHERE
@@ -236,7 +235,6 @@
         <li>
           <b>9.</b>
           <p>Termination.</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -263,6 +261,7 @@
                terminated as stated above.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>10.</b>
           <p>Publisher. The parties hereby confirm that the Publisher shall not, under any circumstances, be
@@ -276,7 +275,6 @@
         <li>
           <b>11.</b>
           <p>Miscellaneous</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -306,7 +304,7 @@
                without the mutual written agreement of the Author and You.</p>
           </li>
         </list>
-      </list>
-    </body>
+        </li>
+      </list>    
   </license>
 </SPDX>
