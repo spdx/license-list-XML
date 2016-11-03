@@ -1,4 +1,4 @@
-<spdx name="Clarified Artistic License" identifier="ClArtistic" osi-approved="false">
+<SPDX name="Clarified Artistic License" identifier="ClArtistic" osi-approved="false">
   <urls>
     <url>http://www.ncftp.com/ncftp/doc/LICENSE.txt</url>
   </urls>
@@ -6,14 +6,11 @@
     <title>
       <p>The Clarified Artistic License</p>
     </title>
-    <optional>
       <p>Preamble</p>
       <p>The intent of this document is to state the conditions under which a Package may be copied, such that the
          Copyright Holder maintains some semblance of artistic control over the development of the package,
          while giving the users of the package the right to use and distribute the Package in a more-or-less
          customary fashion, plus the right to make reasonable modifications.</p>
-    </optional>
-    <body>
       <p>Definitions:</p>
       <p>&quot;Package&quot; refers to the collection of files distributed by the Copyright Holder, and
          derivatives of that collection of files created through textual modification.</p>
@@ -43,7 +40,6 @@
           <p>You may otherwise modify your copy of this Package in any way, provided that you insert a
              prominent notice in each changed file stating how and when you changed that file, and provided
              that you do at least ONE of the following:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -73,11 +69,11 @@
                your modifications Freely Available in some specific way.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>4.</b>
           <p>You may distribute the programs of this Package in object code or executable form, provided that
              you do at least ONE of the following:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -103,6 +99,7 @@
             <p>offer the machine-readable source of the Package, with your modifications, by mail order.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>5.</b>
           <p>You may charge a distribution fee for any distribution of this Package. If you offer support for
@@ -154,9 +151,6 @@
              PARTICULAR PURPOSE.</p>
         </li>
       </list>
-    </body>
-    <optional>
       <p>The End</p>
-    </optional>
   </license>
 </SPDX>
