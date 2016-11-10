@@ -10,7 +10,9 @@
       * Angle brackets hold "fields", e.g. &lt;copyright holder&gt;.
       * Square brackets hold optional text, e.g. [or &lt;related entities&gt;].
       * A license can have variations in capitalization and whitespace, and still be considered an instance of this template.
-    It may be possible to construct a grammatically incorrect license from this template, or one that lacks a disclaimer, or one that includes a double-disclaimer. That is acceptable, as long as it remains impossible to construct a non-OSD-compliant license that matches the pattern.
+    It may be possible to construct a grammatically incorrect license from this template, or one that lacks a disclaimer, or 
+    one that includes a double-disclaimer. That is acceptable, as long as it remains impossible to construct a non-OSD-compliant 
+    license that matches the pattern.
   </notes>
   <license>
     <title>
@@ -21,19 +23,19 @@
     </copyright>
     <body>
       <p>Permission to use, copy, modify and distribute this software and its documentation for any purpose and
-         without fee is hereby granted, provided that the above copyright notice appear in all copies<optional>,</optional> <optional>and</optional>
-         that both <optional>that</optional> <optional>the</optional> copyright notice and this permission notice appear in supporting
-         documentation<optional>, and that the name <optional>of</optional> <alt match=".*">&lt;copyright holder&gt;</alt> <optional>
-         or <alt match=".*">&lt;related entities&gt;</alt></optional> not be
-         used in advertising or publicity pertaining to distribution of the software without specific, written
-         prior permission</optional>. <optional><alt match=".*">&lt;copyright holder&gt;</alt> makes no representations about the suitability of this
-         software for any purpose. It is provided "as is" without express or implied warranty.</optional></p>
+         without fee is hereby granted, provided that the above copyright notice appear in all copies<optional>,</optional> 
+         <optional>and</optional> that both <optional>that</optional> <optional>the</optional> copyright notice 
+         and this permission notice appear in supporting documentation<optional>, and that the name <optional>of</optional> 
+         <alt match=".*">&lt;copyright holder&gt;</alt> <optional><alt match=".*">&lt;or related entities&gt;</alt></optional> 
+         not be used in advertising or publicity pertaining to distribution of the software without specific, written
+         prior permission</optional>. <optional><alt match=".*">&lt;copyright holder&gt;</alt> makes no representations 
+         about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty.</optional></p>
       <optional>
-        <p><alt match=".*">&lt;copyright holder&gt;</alt> DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED
-           WARRANTIES OF MERCHANTABILITY AND FITNESS<alt match="[.,]?">.</alt> IN NO EVENT SHALL <alt match=".*">&lt;copyright holder&gt;</alt> BE LIABLE
-           FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF
-           USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
-           OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</p>
+        <p><alt match=".*">&lt;copyright holder&gt;</alt> DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING 
+           ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS<alt match="[.,]?">.</alt> IN NO EVENT SHALL 
+           <alt match=".*">&lt;copyright holder&gt;</alt> BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES 
+           OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, 
+           NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</p>
       </optional>
     </body>
   </license>
