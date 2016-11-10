@@ -1,4 +1,4 @@
-<spdx name="GNU Affero General Public License v3.0" identifier="AGPL-3.0" osi-approved="true">
+<SPDX name="GNU Affero General Public License v3.0" identifier="AGPL-3.0" osi-approved="true">
   <urls>
     <url>http://www.gnu.org/licenses/agpl.txt</url>
     <url>http://www.opensource.org/licenses/AGPL-3.0</url>
@@ -22,7 +22,6 @@
     <copyright>
       <p>Copyright (C) 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;</p>
     </copyright>
-    <optional>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>
       <p>Preamble</p>
@@ -55,9 +54,8 @@
          accomplish similar goals. This is a different license, not a version of the Affero GPL, but Affero has
          released a new version of the Affero GPL which permits relicensing under this license.</p>
       <p>The precise terms and conditions for copying, distribution and modification follow.</p>
+
       <p>TERMS AND CONDITIONS</p>
-    </optional>
-    <body>
       <list>
         <li>
           <b>0.</b>
@@ -176,7 +174,6 @@
                  Program, in the form of source code under the terms of section 4, provided that you
                  also meet all of these conditions: 
           </p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -201,6 +198,8 @@
             <p>If the work has interactive user interfaces, each must display Appropriate Legal Notices;
                however, if the Program has interactive interfaces that do not display Appropriate Legal
                Notices, your work need not make them do so.</p>
+          </li>
+        </list>
             <p>A compilation of a covered work with other separate and independent works, which are not by
                their nature extensions of the covered work, and which are not combined with it such as to
                form a larger program, in or on a volume of a storage or distribution medium, is called an
@@ -208,8 +207,7 @@
                the access or legal rights of the compilation&apos;s users beyond what the individual
                works permit. Inclusion of a covered work in an aggregate does not cause this License to
                apply to the other parts of the aggregate.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>6.</b>
           <p>Conveying Non-Source Forms. 
@@ -217,7 +215,6 @@
                  provided that you also convey the machine-readable Corresponding Source under the
                  terms of this License, in one of these ways: 
           </p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -260,6 +257,8 @@
             <p>Convey the object code using peer-to-peer transmission, provided you inform other peers where
                the object code and Corresponding Source of the work are being offered to the general
                public at no charge under subsection 6d.</p>
+          </li>
+        </list>
             <p>A separable portion of the object code, whose source code is excluded from the Corresponding
                Source as a System Library, need not be included in conveying the object code work.</p>
             <p>A &quot;User Product&quot; is either (1) a &quot;consumer product&quot;, which means any
@@ -296,8 +295,7 @@
                section must be in a format that is publicly documented (and with an implementation
                available to the public in source code form), and must require no special password or key
                for unpacking, reading or copying.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>7.</b>
           <p>Additional Terms. 
@@ -317,7 +315,6 @@
           <p>Notwithstanding any other provision of this License, for material you add to a covered work, you
              may (if authorized by the copyright holders of that material) supplement the terms of this
              License with terms:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -350,6 +347,8 @@
                material (or modified versions of it) with contractual assumptions of liability to the
                recipient, for any liability that these contractual assumptions directly impose on those
                licensors and authors.</p>
+          </li>
+        </list>               
             <p>All other non-permissive additional terms are considered &quot;further restrictions&quot;
                within the meaning of section 10. If the Program as you received it, or any part of it,
                contains a notice stating that it is governed by this License along with a term that is a
@@ -362,8 +361,7 @@
                notice indicating where to find the applicable terms.</p>
             <p>Additional terms, permissive or non-permissive, may be stated in the form of a separately
                written license, or stated as exceptions; the above requirements apply either way.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>8.</b>
           <p>Termination.</p>
@@ -548,7 +546,7 @@
          effect according to their terms, reviewing courts shall apply local law that most closely approximates
          an absolute waiver of all civil liability in connection with the Program, unless a warranty or
          assumption of liability accompanies a copy of the Program in return for a fee.</p>
-    </body>
+
     <optional>
       <p>END OF TERMS AND CONDITIONS</p>
       <p>How to Apply These Terms to Your New Programs</p>
