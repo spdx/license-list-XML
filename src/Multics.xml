@@ -2,11 +2,7 @@
   <urls>
     <url>http://www.opensource.org/licenses/Multics</url>
   </urls>
-  <license>
-    <title>
-      <p>Multics License</p>
-    </title>
-    <optional>
+  <notes>
       <p>Historical Background</p>
       <p>This edition of the Multics software materials and documentation is provided and donated to Massachusetts
          Institute of Technology by Group BULL including BULL HN Information Systems Inc. as a contribution to
@@ -20,9 +16,12 @@
          programs. Many subsequent operating systems incorporated Multics principles. Multics was distributed
          in 1975 to 2000 by Group Bull in Europe , and in the U.S. by Bull HN Information Systems Inc., as
          successor in interest by change in name only to Honeywell Bull Inc. and Honeywell Information Systems
-         Inc. .</p>
-      <p>-----------------------------------------------------------</p>
-    </optional>
+         Inc.</p>
+  </notes>
+  <license>
+    <title>
+      <p>Multics License</p>
+    </title>
     <body>
       <p>Permission to use, copy, modify, and distribute these programs and their documentation for any purpose
          and without fee is hereby granted,provided that the below copyright notice and historical background
