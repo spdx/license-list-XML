@@ -1,4 +1,4 @@
-<SPDX name="BSD Zero Clause License" identifier="0BSD" osi-approved="false">
+<spdx name="BSD Zero Clause License" identifier="0BSD" osi-approved="false">
   <urls>
     <url>http://landley.net/toybox/license.html</url>
   </urls>
@@ -16,4 +16,4 @@
          ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</p>
     </body>
   </license>
-</SPDX>
+</spdx>

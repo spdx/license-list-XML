@@ -1,4 +1,3 @@
-<!-- REVIEW -->
 <spdx name="Motosoto License" identifier="Motosoto" osi-approved="true">
   <urls>
     <url>http://www.opensource.org/licenses/Motosoto</url>
@@ -402,4 +401,4 @@
          LIABILITY SHALL NOT APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY RESULTING FROM SUCH PARTY</p>
     </body>
   </license>
-</SPDX>
+</spdx>

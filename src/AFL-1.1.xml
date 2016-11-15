@@ -1,13 +1,12 @@
-<SPDX name="Academic Free License v1.1" identifier="AFL-1.1" osi-approved="true">
+<spdx name="Academic Free License v1.1" identifier="AFL-1.1" osi-approved="true">
   <urls>
     <url>http://opensource.linux-mirror.org/licenses/afl-1.1.txt</url>
   </urls>
   <notes>This license has been superseded by later versions.</notes>
   <license>
     <title>
-      <p>Academic Free License 
-        <br/>Version 1.1 
-      </p>
+      <p>Academic Free License</p>
+      <p>Version 1.1</p>
     </title>
     <optional>
       <p>The Academic Free License applies to any original work of authorship (the "Original Work") whose owner
@@ -69,10 +68,9 @@
          that any OSI Certified open source software that is licensed under any license containing this "Mutual
          Termination for Patent Action" clause infringes any patent claims that are essential to use that
          software.</p>
-      <p>This license is Copyright (C) 2002 Lawrence E. Rosen. All rights reserved. 
-        <br/>Permission is hereby granted to copy and distribute this license without modification. This license
-             may not be modified without the express written permission of its copyright owner. 
-      </p>
+      <p>This license is Copyright (C) 2002 Lawrence E. Rosen. All rights reserved.</p>
+        <p>Permission is hereby granted to copy and distribute this license without modification. This license
+             may not be modified without the express written permission of its copyright owner.</p>
     </body>
   </license>
-</SPDX>
+</spdx>

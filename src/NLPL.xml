@@ -1,0 +1,29 @@
+<spdx name="No Limit Public License" identifier="NLPL" osi-approved="false">
+  <urls>
+    <url>https://fedoraproject.org/wiki/Licensing/NLPL</url>
+  </urls>
+  <license>
+    <title>
+      <p>NO LIMIT PUBLIC LICENSE</p>
+      <p>Version 0, June 2012</p>
+    </title>
+    <optional>
+      <p>Gilles LAMIRAL</p>
+      <p>La Billais</p>
+      <p>35580 Baulon</p>
+      <p>France</p>
+    </optional>
+    <title>
+      <p>NO LIMIT PUBLIC LICENSE</p>
+    </title>
+    <body>
+      <p>Terms and conditions for copying, distribution, modification or anything else.</p>
+      <list>
+        <li>
+          <b>0.</b>
+          <p>No limit to do anything with this work and this license.</p>
+        </li>
+      </list>
+    </body>
+  </license>
+</spdx>

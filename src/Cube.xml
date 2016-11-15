@@ -1,0 +1,44 @@
+<SPDX name="Cube License" identifier="Cube" osi-approved="false">
+  <urls>
+    <url>https://fedoraproject.org/wiki/Licensing/Cube</url>
+  </urls>
+  <license>
+    <title>
+      <p>Cube game engine source code, 20 dec 2003 release.</p>
+    </title>
+    <copyright>
+      <p>Copyright (C) 2001-2003 Wouter van Oortmerssen.</p>
+    </copyright>
+    <body>
+      <p>This software is provided &apos;as-is&apos;, without any express or implied warranty. In no event will
+         the authors be held liable for any damages arising from the use of this software.</p>
+      <p>Permission is granted to anyone to use this software for any purpose, including commercial applications,
+         and to alter it and redistribute it freely, subject to the following restrictions:</p>
+      <list>
+        <li>
+          <b>1.</b>
+          <p>The origin of this software must not be misrepresented; you must not claim that you wrote the
+             original software. If you use this software in a product, an acknowledgment in the product
+             documentation would be appreciated but is not required.</p>
+        </li>
+        <li>
+          <b>2.</b>
+          <p>Altered source versions must be plainly marked as such, and must not be misrepresented as
+             being the original software.</p>
+        </li>
+        <li>
+          <b>3.</b>
+          <p>This notice may not be removed or altered from any source distribution.</p>
+        </li>
+      </list>
+      <p>additional clause specific to Cube:</p>
+      <list>
+        <li>
+          <b>4.</b>
+          <p>Source versions may not be &quot;relicensed&quot; under a different license without my
+             explicitly written permission.</p>
+        </li>
+      </list>
+    </body>
+  </license>
+</SPDX>

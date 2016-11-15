@@ -1,0 +1,19 @@
+<spdx name="Fair License" identifier="Fair" osi-approved="true">
+  <urls>
+    <url>http://www.opensource.org/licenses/Fair</url>
+    <url>http://fairlicense.org/</url>
+  </urls>
+  <license>
+    <title>
+      <p>Fair License</p>
+    </title>
+    <copyright>
+      <p>&lt;Copyright Information&gt;</p>
+    </copyright>
+    <body>
+      <p>Usage of the works is permitted provided that this instrument is retained with the works, so that any
+         entity that uses the works is notified of this instrument.</p>
+      <p>DISCLAIMER: THE WORKS ARE WITHOUT WARRANTY.</p>
+    </body>
+  </license>
+</spdx>

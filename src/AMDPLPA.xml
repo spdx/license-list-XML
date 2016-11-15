@@ -1,4 +1,4 @@
-<SPDX name="AMD&apos;s plpa_map.c License" identifier="AMDPLPA" osi-approved="false">
+<spdx name="AMD&apos;s plpa_map.c License" identifier="AMDPLPA" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/AMD_plpa_map_License</url>
   </urls>
@@ -70,4 +70,4 @@
          of these courts.</p>
     </body>
   </license>
-</SPDX>
+</spdx>

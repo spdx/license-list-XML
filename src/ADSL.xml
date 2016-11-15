@@ -1,4 +1,4 @@
-<SPDX name="Amazon Digital Services License" identifier="ADSL" osi-approved="false">
+<spdx name="Amazon Digital Services License" identifier="ADSL" osi-approved="false">
   <urls>
     <url>https://fedoraproject.org/wiki/Licensing/AmazonDigitalServicesLicense</url>
   </urls>
@@ -11,4 +11,4 @@
          your use of this software code. (c) 2006 Amazon Digital Services, Inc. or its affiliates.</p>
     </body>
   </license>
-</SPDX>
+</spdx>

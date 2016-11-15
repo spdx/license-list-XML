@@ -1,0 +1,40 @@
+<SPDX name="Eiffel Forum License v2.0" identifier="EFL-2.0" osi-approved="true">
+  <urls>
+    <url>http://www.eiffel-nice.org/license/eiffel-forum-license-2.html</url>
+    <url>http://opensource.org/licenses/EFL-2.0</url>
+  </urls>
+  <license>
+    <title>
+      <p>Eiffel Forum License, version 2</p>
+    </title>
+    <body>
+      <list>
+        <li>
+          <b>1.</b>
+          <p>Permission is hereby granted to use, copy, modify and/or distribute this package, provided that:</p>
+          <list>
+            <li>
+              <b>-</b>
+              <p>copyright notices are retained unchanged,</p>
+            </li>
+            <li>
+              <b>-</b>
+              <p>any distribution of this package, whether modified or not, includes this license text.</p>
+            </li>
+          </list>
+        </li>
+        <li>
+          <b>2.</b>
+          <p>Permission is hereby also granted to distribute binary programs which depend on this package. If
+             the binary program depends on a modified version of this package, you are encouraged to
+             publicly release the modified version of this package.</p>
+        </li>
+      </list>
+      <p>THIS PACKAGE IS PROVIDED &quot;AS IS&quot; AND WITHOUT WARRANTY. ANY EXPRESS OR IMPLIED WARRANTIES,
+         INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+         PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHORS BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT,
+         INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS
+         PACKAGE.</p>
+    </body>
+  </license>
+</SPDX>
