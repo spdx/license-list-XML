@@ -30,12 +30,12 @@
          notice appear in supporting documentation, and that the names of MIT, HIS, BULL or BULL HN not be used
          in advertising or publicity pertaining to distribution of the programs without specific prior written
          permission.</p>
-    </body>
-    <copyright>
-      <p>Copyright 1972 by Massachusetts Institute of Technology and Honeywell Information Systems Inc. 
-        <br/>Copyright 2006 by BULL HN Information Systems Inc. 
-        <br/>Copyright 2006 by Bull SAS All Rights Reserved 
-      </p>
-    </copyright>
+      <copyright>
+        <p>Copyright 1972 by Massachusetts Institute of Technology and Honeywell Information Systems Inc. 
+          <br/>Copyright 2006 by BULL HN Information Systems Inc. 
+          <br/>Copyright 2006 by Bull SAS All Rights Reserved 
+        </p>
+      </copyright>
+      </body>
   </license>
 </SPDX>
