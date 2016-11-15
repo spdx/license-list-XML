@@ -35,9 +35,12 @@
         <li>
           <b>1.</b>
           <p>Definitions.</p>
-          <p>1.0.1. &quot;Commercial Use&quot; means distribution or otherwise making the Covered Code
-             available to a third party.</p>
           <list>
+            <li>
+              <b>1.0.1.</b>
+              <p>&quot;Commercial Use&quot; means distribution or otherwise making the Covered Code
+                 available to a third party.</p>
+            </li>          
             <li>
               <b>1.1.</b>
               <p>&quot;Contributor&quot; means each entity that creates or contributes to the creation of
