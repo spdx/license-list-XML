@@ -74,7 +74,10 @@
             <li>
               <b>1.8.</b>
               <p>"License" means this document.</p>
-              <p>1.8.1. "Licensable" means having the right to grant, to the maximum extent possible, whether at
+            </li>
+            <li>
+              <b>1.8.1.</b>
+              <p>"Licensable" means having the right to grant, to the maximum extent possible, whether at
                  the time of the initial grant or subsequently acquired, any and all of the rights conveyed
                  herein.</p>
             </li>
@@ -100,7 +103,10 @@
               <p>"Original Code"../ means Source Code of computer software code which is described in the Source
                  Code notice required by Exhibit A as Original Code, and which, at the time of its release
                  under this License is not already Covered Code governed by this License.</p>
-              <p>1.10.1. "Patent Claims" means any patent claim(s), now owned or hereafter acquired, including
+            </li>
+            <li>
+              <b>1.10.1.</b>
+              <p>"Patent Claims" means any patent claim(s), now owned or hereafter acquired, including
                  without limitation, method, process, and apparatus claims, in any patent Licensable by
                  grantor.</p>
             </li>
