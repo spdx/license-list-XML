@@ -22,12 +22,23 @@
       <p>This license was inspired by the BSD, Artistic, and IJG (Independent JPEG Group) licenses, which all
          encourage inclusion and use of free software in commercial and freeware products alike. As a
          consequence, its main points are that:</p>
-      <p>o We don't promise that this software works. However, we will be interested in any kind of bug reports.
-         (`as is' distribution)</p>
-      <p>o You can use this software for whatever you want, in parts or full form, without having to pay us.
-         (`royalty-free' usage)</p>
-      <p>o You may not pretend that you wrote this software. If you use it, or only parts of it, in a program, you
-         must acknowledge somewhere in your documentation that you have used the FreeType code. (`credits')</p>
+      <list>
+        <li>
+          <b>o</b>
+          <p>We don't promise that this software works. However, we will be interested in any kind of bug reports.
+             (`as is' distribution)</p>
+        </li>
+        <li>
+          <b>o</b>
+          <p>You can use this software for whatever you want, in parts or full form, without having to pay us.
+             (`royalty-free' usage)</p>
+        </li>
+        <li>
+          <b>o</b>
+          <p>You may not pretend that you wrote this software. If you use it, or only parts of it, in a program, you
+             must acknowledge somewhere in your documentation that you have used the FreeType code. (`credits')</p>
+        </li>
+      </list>
       <p>We specifically permit and encourage the inclusion of this software, with or without modifications, in
          commercial products. We disclaim all warranties covering The FreeType Project and assume no liability
          related to The FreeType Project.</p>
@@ -36,9 +47,9 @@
       <p>""" Portions of this software are copyright © &lt;year&gt; The FreeType Project (www.freetype.org). All
          rights reserved. """</p>
       <p>Please replace &lt;year&gt; with the value from the FreeType version you actually use.</p>
-      <p>Legal Terms</p>
     </optional>
     <body>
+      <p>Legal Terms</p>
       <list>
         <li>
           <b>0.</b>
@@ -72,14 +83,22 @@
              sublicense the FreeType Project (in both source and object code forms) and derivative works
              thereof for any purpose; and to authorize others to exercise some or all of the rights granted
              herein, subject to the following conditions:</p>
-          <p>o Redistribution of source code must retain this license file (`FTL.TXT') unaltered; any
-             additions, deletions or changes to the original files must be clearly indicated in
-             accompanying documentation. The copyright notices of the unaltered, original files must be
-             preserved in all copies of source files.</p>
-          <p>o Redistribution in binary form must provide a disclaimer that states that the software is based
-             in part of the work of the FreeType Team, in the distribution documentation. We also encourage
-             you to put an URL to the FreeType web page in your documentation, though this isn't
-             mandatory.</p>
+          <list>
+            <li>
+              <b>o</b>
+              <p>Redistribution of source code must retain this license file (`FTL.TXT') unaltered; any
+                 additions, deletions or changes to the original files must be clearly indicated in
+                 accompanying documentation. The copyright notices of the unaltered, original files must be
+                 preserved in all copies of source files.</p>
+            </li>
+            <li>
+              <b>o</b>
+              <p>Redistribution in binary form must provide a disclaimer that states that the software is based
+                 in part of the work of the FreeType Team, in the distribution documentation. We also encourage
+                 you to put an URL to the FreeType web page in your documentation, though this isn't
+                 mandatory.</p>
+            </li>
+          </list>
           <p>These conditions apply to any software derived from or based on the FreeType Project, not just
              the unmodified files. If you use our work, you must acknowledge us. However, no fee need be
              paid to us.</p>
@@ -105,12 +124,20 @@
         </li>
       </list>
       <p>There are two mailing lists related to FreeType:</p>
-      <p>o freetype@nongnu.org</p>
-      <p>Discusses general use and applications of FreeType, as well as future and wanted additions to the library
-         and distribution. If you are looking for support, start in this list if you haven't found anything to
-         help you in the documentation.</p>
-      <p>o freetype-devel@nongnu.org</p>
-      <p>Discusses bugs, as well as engine internals, design issues, specific licenses, porting, etc.</p>
+      <list>
+        <li>
+          <b>o</b>
+          <p>freetype@nongnu.org</p>
+          <p>Discusses general use and applications of FreeType, as well as future and wanted additions to the library
+             and distribution. If you are looking for support, start in this list if you haven't found anything to
+             help you in the documentation.</p>
+        </li>
+        <li>
+          <b>o</b>
+          <p>freetype-devel@nongnu.org</p>
+          <p>Discusses bugs, as well as engine internals, design issues, specific licenses, porting, etc.</p>
+        </li>
+      </list>
       <p>Our home page can be found at</p>
       <p>http://www.freetype.org</p>
     </body>
