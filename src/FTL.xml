@@ -121,25 +121,25 @@
         <li>
           <b>4.</b>
           <p>Contacts</p>
+          <p>There are two mailing lists related to FreeType:</p>
+          <list>
+            <li>
+              <b>o</b>
+              <p>freetype@nongnu.org</p>
+              <p>Discusses general use and applications of FreeType, as well as future and wanted additions to the library
+                 and distribution. If you are looking for support, start in this list if you haven't found anything to
+                 help you in the documentation.</p>
+            </li>
+            <li>
+              <b>o</b>
+              <p>freetype-devel@nongnu.org</p>
+              <p>Discusses bugs, as well as engine internals, design issues, specific licenses, porting, etc.</p>
+            </li>
+          </list>
+          <p>Our home page can be found at</p>
+          <p>http://www.freetype.org</p>
         </li>
       </list>
-      <p>There are two mailing lists related to FreeType:</p>
-      <list>
-        <li>
-          <b>o</b>
-          <p>freetype@nongnu.org</p>
-          <p>Discusses general use and applications of FreeType, as well as future and wanted additions to the library
-             and distribution. If you are looking for support, start in this list if you haven't found anything to
-             help you in the documentation.</p>
-        </li>
-        <li>
-          <b>o</b>
-          <p>freetype-devel@nongnu.org</p>
-          <p>Discusses bugs, as well as engine internals, design issues, specific licenses, porting, etc.</p>
-        </li>
-      </list>
-      <p>Our home page can be found at</p>
-      <p>http://www.freetype.org</p>
     </body>
     <optional>
       <p>--- end of FTL.TXT ---</p>
