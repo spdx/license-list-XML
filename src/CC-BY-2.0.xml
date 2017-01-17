@@ -1,4 +1,4 @@
-<spdx name="Creative Commons Attribution 2.0" identifier="CC-BY-2.0" osi-approved="false">
+<SPDX name="Creative Commons Attribution 2.0" identifier="CC-BY-2.0" osi-approved="false">
   <urls>
     <url>http://creativecommons.org/licenses/by/2.0/legalcode</url>
   </urls>
@@ -131,11 +131,12 @@
                    USC Section 114 of the US Copyright Act (or the equivalent in other jurisdictions).</p>
               </li>
             </list>
-        </li>
+
       <p>The above rights may be exercised in all media and formats whether now known or hereafter
          devised. The above rights include the right to make such modifications as are technically
          necessary to exercise the rights in other media and formats. All rights not expressly
          granted by Licensor are hereby reserved.</p>
+        </li>
         <li>
           <b>4.</b>
           <p>Restrictions. The license granted in Section 3 above is expressly made subject to and limited by
@@ -277,4 +278,4 @@
       <p>Creative Commons may be contacted at http://creativecommons.org/.</p>
     </body>
   </license>
-</spdx>
+</SPDX>
