@@ -20,12 +20,12 @@
         <br/>Phone: (801) 717-3700 
         <br/>Web: www.adaptivecomputing.com www.clusterresources.com 
       </p>
+    </optional>
       <p>This license covers use of the TORQUE v2.5 software (the "Software") at your site or location, and, for
          certain users, redistribution of the Software to other sites and locations1. Later versions of TORQUE are
          also covered by this license. Use and redistribution of TORQUE v2.5 in source and binary forms, with or
          without modification, are permitted provided that all of the following conditions are met.</p>
-    </optional>
-    <body>
+
       <list>
         <li>
           <b>1.</b>
@@ -72,7 +72,6 @@
         </li>
       </list>
       <p>This license will be governed by the laws of Utah, without reference to its choice of law rules.</p>
-    </body>
     <optional>
       <p>Note 1: TORQUE is developed from an earlier version v2.3 of OpenPBS. TORQUE has been developed beyond OpenPBS
          v2.3. The OpenPBS v2.3 license and OpenPBS software can be obtained at: 
