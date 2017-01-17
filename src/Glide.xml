@@ -26,8 +26,6 @@
              derived from the licensed software. The precise terms and conditions for copying, distribution and
              modification follow.</p>
         </li>
-      </list>
-      <list>
         <li>
           <b>2.</b>
           <p>DEFINITIONS</p>
@@ -249,6 +247,8 @@
                 </li>
               </list>
             </li>
+            </list>
+            </li>
             <li>
               <b>4.</b>
               <p>MISCELLANEOUS</p>
@@ -307,8 +307,6 @@
               </list>
             </li>
           </list>
-        </li>
-      </list>
     </body>
   </license>
 </SPDX>
