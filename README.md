@@ -1,4 +1,3 @@
-TEST
 # license-list-XML
 This is workspace for developing and implementing a new XML format for the SPDX License List.
 
