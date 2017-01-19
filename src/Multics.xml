@@ -3,7 +3,15 @@
     <url>http://www.opensource.org/licenses/Multics</url>
   </urls>
   <notes>
-      <p>Historical Background</p>
+     
+  </notes>
+  <license>
+    <title>
+      <p>Multics License</p>
+    </title>
+    <body>
+      <optional>
+       <p>Historical Background</p>
       <p>This edition of the Multics software materials and documentation is provided and donated to Massachusetts
          Institute of Technology by Group BULL including BULL HN Information Systems Inc. as a contribution to
          computer science knowledge. This donation is made also to give evidence of the common contributions of
@@ -17,12 +25,7 @@
          in 1975 to 2000 by Group Bull in Europe , and in the U.S. by Bull HN Information Systems Inc., as
          successor in interest by change in name only to Honeywell Bull Inc. and Honeywell Information Systems
          Inc.</p>
-  </notes>
-  <license>
-    <title>
-      <p>Multics License</p>
-    </title>
-    <body>
+      </optional>
       <p>Permission to use, copy, modify, and distribute these programs and their documentation for any purpose
          and without fee is hereby granted,provided that the below copyright notice and historical background
          appear in all copies and that both the copyright notice and historical background and this permission
