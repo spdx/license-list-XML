@@ -1,5 +1,4 @@
-<!-- REVIEW -->
-<spdx name="NRL License" identifier="NRL" osi-approved="false">
+<SPDX name="NRL License" identifier="NRL" osi-approved="false">
   <urls>
     <url>http://web.mit.edu/network/isakmp/nrllicense.html</url>
   </urls>
@@ -51,11 +50,14 @@
         <li>
           <b>4.</b>
           <p>All advertising materials mentioning features or use of this software must display the
-             following acknowledgements:</p>
-          <p>This product includes software developed by the University of California, Berkeley and its
-             contributors.</p>
-          <p>This product includes software developed at the Information Technology Division, US Naval
-             Research Laboratory.</p>
+             following acknowledgements:
+            <list>
+              <li><p>This product includes software developed by the University of California, Berkeley and its
+                contributors.</p></li>
+              <li><p>This product includes software developed at the Information Technology Division, US Naval
+                Research Laboratory.</p></li>
+            </list>
+          </p>
         </li>
         <li>
           <b>5.</b>
