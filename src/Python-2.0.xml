@@ -1,9 +1,8 @@
-<!-- REVIEW -->
 <SPDX name="Python License 2.0" identifier="Python-2.0" osi-approved="true">
   <urls>
     <url>http://www.opensource.org/licenses/Python-2.0</url>
   </urls>
-  <notes>overall Python license</notes>
+  <notes>This is the overall Python license, which is comprised of several licenses.</notes>
   <license>
     <title>
       <p>PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2</p>
