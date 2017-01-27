@@ -1,4 +1,4 @@
-<spdx name="Open Software License 1.0" identifier="OSL-1.0" osi-approved="true">
+<SPDX name="Open Software License 1.0" identifier="OSL-1.0" osi-approved="true">
   <urls>
     <url>http://opensource.org/licenses/OSL-1.0</url>
   </urls>
@@ -176,4 +176,4 @@
          express written permission of its copyright owner.</p>
     </body>
   </license>
-</spdx>
+</SPDX>
