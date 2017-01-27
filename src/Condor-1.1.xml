@@ -114,15 +114,17 @@
              other than the Condor Team has the right to modify the terms of this License.</p>
         </li>
       </list>
-      <p>For more information:</p>
-      <p>Condor Team 
-        <br/>Attention: Professor Miron Livny 
-        <br/>7367 Computer Sciences 
-        <br/>1210 W. Dayton St. 
-        <br/>Madison, WI 53706-1685 
-        <br/>miron@cs.wisc.edu 
-        <br/>http://pages.cs.wisc.edu/~miron/miron.html 
-      </p>
+      <optional>
+        <p>For more information:</p>
+        <p>Condor Team 
+          <br/>Attention: Professor Miron Livny 
+          <br/>7367 Computer Sciences 
+          <br/>1210 W. Dayton St. 
+          <br/>Madison, WI 53706-1685 
+          <br/>miron@cs.wisc.edu 
+          <br/>http://pages.cs.wisc.edu/~miron/miron.html 
+        </p>
+      </optional>
     </body>
   </license>
 </SPDX>
