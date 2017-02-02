@@ -1,4 +1,4 @@
-<spdx name="Lucent Public License v1.02" identifier="LPL-1.02" osi-approved="true">
+<SPDX name="Lucent Public License v1.02" identifier="LPL-1.02" osi-approved="true">
   <urls>
     <url>http://plan9.bell-labs.com/plan9/license.html</url>
     <url>http://www.opensource.org/licenses/LPL-1.02</url>
@@ -16,7 +16,6 @@
           <b>1.</b>
           <p>DEFINITIONS</p>
           <p>&quot;Contribution&quot; means:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -25,7 +24,6 @@
           <li>
             <b>b.</b>
             <p>in the case of each Contributor,</p>
-          </li>
           <list>
             <li>
               <b>i.</b>
@@ -38,6 +36,8 @@
                  Contributor itself or anyone acting on such Contributor&apos;s behalf, and the
                  Contributor explicitly consents, in accordance with Section 3C, to characterization of
                  the changes and/or additions as Contributions.</p>
+            </li>
+          </list>
               <p>&quot;Contributor&quot; means LUCENT and any other entity that has Contributed a
                  Contribution to the Program.</p>
               <p>&quot;Distributor&quot; means a Recipient that distributes the Program, modifications to
@@ -52,12 +52,11 @@
               <p>&quot;Recipient&quot; means anyone who receives the Program under this Agreement,
                  including all Contributors.</p>
             </li>
-          </list>
         </list>
+        </li>
         <li>
           <b>2.</b>
           <p>GRANT OF RIGHTS</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -99,16 +98,15 @@
                Contribution, if any, to grant the copyright license set forth in this Agreement.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>3.</b>
           <p>REQUIREMENTS</p>
-        </li>
         <list>
           <li>
             <b>A.</b>
             <p>Distributor may choose to distribute the Program in any form under this Agreement or under
                its own license agreement, provided that:</p>
-          </li>
           <list>
             <li>
               <b>1.</b>
@@ -123,7 +121,6 @@
             <li>
               <b>3.</b>
               <p>if distributed under Distributor&apos;s own license agreement, such license agreement:</p>
-            </li>
             <list>
               <li>
                 <b>a.</b>
@@ -144,7 +141,9 @@
                    Contributor alone and not by any other party.</p>
               </li>
             </list>
+            </li>
           </list>
+          </li>
           <li>
             <b>B.</b>
             <p>Each Distributor must include the following in a conspicuous location in the Program:</p>
@@ -158,7 +157,8 @@
                intended to be a Contribution. Once a Contribution is contributed, it may not thereafter
                be revoked.</p>
           </li>
-        </list>
+          </list>
+        </li>
         <li>
           <b>4.</b>
           <p>COMMERCIAL DISTRIBUTION</p>
@@ -219,8 +219,6 @@
         <li>
           <b>8.</b>
           <p>GENERAL</p>
-        </li>
-      </list>
       <p>If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect
          the validity or enforceability of the remainder of the terms of this Agreement, and without further
          action by the parties hereto, such provision shall be reformed to the minimum extent necessary to make
@@ -252,6 +250,8 @@
          United States of America. No party to this Agreement will bring a legal action under this Agreement
          more than one year after the cause of action arose. Each party waives its rights to a jury trial in
          any resulting litigation.</p>
+    </li>
+    </list>
     </body>
   </license>
 </SPDX>
