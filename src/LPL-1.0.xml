@@ -14,7 +14,6 @@
           <b>1.</b>
           <p>DEFINITIONS</p>
           <p>"Contribution" means:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -26,7 +25,6 @@
           <li>
             <b>b.</b>
             <p>in the case of each Contributor,</p>
-          </li>
           <list>
             <li>
               <b>i.</b>
@@ -61,11 +59,12 @@
               <p>"Recipient" means anyone who receives the Program under this Agreement, including all Contributors.</p>
             </li>
           </list>
+          </li>
         </list>
+        </li>
         <li>
           <b>2.</b>
           <p>GRANT OF RIGHTS</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -107,16 +106,15 @@
                Contribution, if any, to grant the copyright license set forth in this Agreement.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>3.</b>
           <p>REQUIREMENTS</p>
-        </li>
         <list>
           <li>
             <b>A.</b>
             <p>Distributor may choose to distribute the Program in any form under this Agreement or under
                its own license agreement, provided that:</p>
-          </li>
           <list>
             <li>
               <b>1.</b>
@@ -131,7 +129,6 @@
             <li>
               <b>3.</b>
               <p>if distributed under Distributor's own license agreement, such license agreement:</p>
-            </li>
             <list>
               <li>
                 <b>a.</b>
@@ -152,7 +149,9 @@
                    Contributor alone and not by any other party.</p>
               </li>
             </list>
+            </li>
           </list>
+          </li>
           <li>
             <b>B.</b>
             <p>Each Distributor must include the following in a conspicuous location in the Program:</p>
@@ -170,6 +169,7 @@
                revoked.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>4.</b>
           <p>COMMERCIAL DISTRIBUTION</p>
@@ -222,8 +222,6 @@
         <li>
           <b>7.</b>
           <p>GENERAL</p>
-        </li>
-      </list>
       <p>If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect
          the validity or enforceability of the remainder of the terms of this Agreement, and without further
          action by the parties hereto, such provision shall be reformed to the minimum extent necessary to make
@@ -261,6 +259,8 @@
         after the cause of action arose. Each party waives its rights to a jury trial in any resulting
         litigation. 
       </p>
+      </li>
+      </list>
     </body>
   </license>
 </SPDX>
