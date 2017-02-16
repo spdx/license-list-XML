@@ -1,11 +1,12 @@
-<spdx name="Educational Community License v2.0" identifier="ECL-2.0" osi-approved="true">
+<SPDX name="Educational Community License v2.0" identifier="ECL-2.0" osi-approved="true">
   <urls>
     <url>http://opensource.org/licenses/ECL-2.0</url>
   </urls>
   <notes>The Educational Community License version 2.0 (&quot;ECL&quot;) consists of the Apache 2.0 license, modified
          to change the scope of the patent grant in section 3 to be specific to the needs of the education
          communities using this license. The url included in the boilerplate notice does not work.
-         (15/10/10)</notes>
+         (15/10/10)
+  </notes>
   <header> Copyright 
     <alt name="copyright" match=".+">[yyyy] [copyright owner]</alt> Licensed under the Educational Community
     License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License.
@@ -26,9 +27,8 @@
          modified to change the scope of the patent grant in section 3 to be specific to the needs of the
          education communities using this license. The original Apache 2.0 license can be found at:
          http://www.apache.org/licenses/LICENSE-2.0</p>
-      <p>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</p>
     </optional>
-    <body>
+      <p>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</p>
       <list>
         <li>
           <b>1.</b>
@@ -106,7 +106,6 @@
           <p>You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium,
              with or without modifications, and in Source or Object form, provided that You meet the
              following conditions:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -142,6 +141,7 @@
                in this License.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>5.</b>
           <p>Submission of Contributions.</p>
@@ -192,7 +192,7 @@
          Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify,
          defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against,
          such Contributor by reason of your accepting any such warranty or additional liability.</p>
-    </body>
+
     <optional>
       <p>END OF TERMS AND CONDITIONS</p>
       <p>APPENDIX: How to apply the Educational Community License to your work</p>
