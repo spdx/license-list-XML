@@ -247,98 +247,161 @@
                   </li>
                 </list>
               </li>
-              <li>             
-                <p>Section 3 – License Conditions.</p>
-                <p>Your exercise of the Licensed Rights is expressly made subject to the following conditions.</p>
+            </list>
+        </li>
+        <li>             
+            <p>Section 3 – License Conditions.</p>
+            <p>Your exercise of the Licensed Rights is expressly made subject to the following conditions.</p>
+            <li>
+              <b>a.</b>
+              <p>Attribution.</p>
+              <list>
                 <li>
-                  <b>a.</b>
-                  <p>Attribution.</p>
+                  <b>1.</b>
+                  <p>If You Share the Licensed Material (including in modified form), You must:</p>
                   <list>
                     <li>
-                      <b>1.</b>
-                      <p>If You Share the Licensed Material (including in modified form), You must:</p>
+                      <b>A.</b>
+                      <p>retain the following if it is supplied by the Licensor with the Licensed Material:</p>
                       <list>
                         <li>
-                          <b>A.</b>
-                          <p>retain the following if it is supplied by the Licensor with the Licensed Material:</p>
-                          <list>
-                            <li>
-                              <b>i.</b>
-                              <p>identification of the creator(s) of the Licensed Material and any others
-                                 designated to receive attribution, in any reasonable manner requested by
-                                 the Licensor (including by pseudonym if designated);</p>
-                            </li>
-                            <li>
-                              <b>ii.</b>
-                              <p>a copyright notice;</p>
-                            </li>
-                            <li>
-                              <b>iii.</b>
-                              <p>a notice that refers to this Public License;</p>
-                            </li>
-                            <li>
-                              <b>iv.</b>
-                              <p>a notice that refers to the disclaimer of warranties;</p>
-                            </li>
-                            <li>
-                              <p>v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;</p>
-                            </li>
-                          </list>
+                          <b>i.</b>
+                          <p>identification of the creator(s) of the Licensed Material and any others
+                             designated to receive attribution, in any reasonable manner requested by
+                             the Licensor (including by pseudonym if designated);</p>
                         </li>
                         <li>
-                          <b>B.</b>
-                          <p>indicate if You modified the Licensed Material and retain an indication of any
-                           previous modifications; and</p>
+                          <b>ii.</b>
+                          <p>a copyright notice;</p>
                         </li>
                         <li>
-                          <b>C.</b>
-                          <p>indicate the Licensed Material is licensed under this Public License, and include the
-                           text of, or the URI or hyperlink to, this Public License.</p>
-                        </li>                
+                          <b>iii.</b>
+                          <p>a notice that refers to this Public License;</p>
+                        </li>
+                        <li>
+                          <b>iv.</b>
+                          <p>a notice that refers to the disclaimer of warranties;</p>
+                        </li>
+                        <li>
+                          <p>v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;</p>
+                        </li>
                       </list>
                     </li>
                     <li>
-                      <b>2.</b>
-                      <p>You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the
-                         medium, means, and context in which You Share the Licensed Material. For example, it
-                         may be reasonable to satisfy the conditions by providing a URI or hyperlink to a
-                         resource that includes the required information.</p>
+                      <b>B.</b>
+                      <p>indicate if You modified the Licensed Material and retain an indication of any
+                       previous modifications; and</p>
                     </li>
                     <li>
-                      <b>3.</b>
-                      <p>If requested by the Licensor, You must remove any of the information required by Section
-                         3(a)(1)(A) to the extent reasonably practicable.</p>           
-                    </li>
+                      <b>C.</b>
+                      <p>indicate the Licensed Material is licensed under this Public License, and include the
+                       text of, or the URI or hyperlink to, this Public License.</p>
+                    </li>                
                   </list>
                 </li>
                 <li>
-                  <b>b.</b>
-                  <p>ShareAlike.In addition to the conditions in Section 3(a), if You Share Adapted Material You
-                     produce, the following conditions also apply.</p>
-                  <list>
-                    <li>
-                      <b>1.</b>
-                      <p>The Adapter’s License You apply must be a Creative Commons license with the same License
-                         Elements, this version or later, or a BY-NC-SA Compatible License.</p>
-                    </li>
-                    <li>
-                      <b>2.</b>
-                      <p>You must include the text of, or the URI or hyperlink to, the Adapter's License You
-                         apply. You may satisfy this condition in any reasonable manner based on the medium,
-                         means, and context in which You Share Adapted Material.</p>
-                    </li>
-                    <li>
-                      <b>3.</b>
-                      <p>You may not offer or impose any additional or different terms or conditions on, or apply
-                         any Effective Technological Measures to, Adapted Material that restrict exercise of
-                         the rights granted under the Adapter's License You apply.</p>
-                    </li>
-                  </list>
+                  <b>2.</b>
+                  <p>You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the
+                     medium, means, and context in which You Share the Licensed Material. For example, it
+                     may be reasonable to satisfy the conditions by providing a URI or hyperlink to a
+                     resource that includes the required information.</p>
                 </li>
+                <li>
+                  <b>3.</b>
+                  <p>If requested by the Licensor, You must remove any of the information required by Section
+                     3(a)(1)(A) to the extent reasonably practicable.</p>           
+                </li>
+              </list>
+            </li>
+            <li>
+              <b>b.</b>
+              <p>ShareAlike.In addition to the conditions in Section 3(a), if You Share Adapted Material You
+                 produce, the following conditions also apply.</p>
+              <list>
+                <li>
+                  <b>1.</b>
+                  <p>The Adapter’s License You apply must be a Creative Commons license with the same License
+                     Elements, this version or later, or a BY-NC-SA Compatible License.</p>
+                </li>
+                <li>
+                  <b>2.</b>
+                  <p>You must include the text of, or the URI or hyperlink to, the Adapter's License You
+                     apply. You may satisfy this condition in any reasonable manner based on the medium,
+                     means, and context in which You Share Adapted Material.</p>
+                </li>
+                <li>
+                  <b>3.</b>
+                  <p>You may not offer or impose any additional or different terms or conditions on, or apply
+                     any Effective Technological Measures to, Adapted Material that restrict exercise of
+                     the rights granted under the Adapter's License You apply.</p>
+                </li>
+              </list>
+            </li>
+        </li>
+        <li>
+            <p>Section 4 – Sui Generis Database Rights.</p>
+            <p>Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of
+              the Licensed Material:</p>
+            <list>
+              <li>
+                <b>a.</b>
+                <p>for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse,
+                   reproduce, and Share all or a substantial portion of the contents of the database for
+                   NonCommercial purposes only;</p>
+              </li>
+              <li>
+                <b>b.</b>
+                <p>if You include all or a substantial portion of the database contents in a database in which
+                   You have Sui Generis Database Rights, then the database in which You have Sui Generis
+                   Database Rights (but not its individual contents) is Adapted Material, including for
+                   purposes of Section 3(b); and</p>
+              </li>
+              <li>
+                <b>c.</b>
+                <p>You must comply with the conditions in Section 3(a) if You Share all or a substantial portion
+                   of the contents of the database. 
+                    <br/>
+                    For the avoidance of doubt, this Section 4 supplements and does not replace Your
+                    obligations under this Public License where the Licensed Rights include other
+                    Copyright and Similar Rights.</p>
               </li>
             </list>
+        </li>
+        <li>
+            <p>Section 5 – Disclaimer of Warranties and Limitation of Liability.</p>
+            <list>
+                <li>
+                  <b>a.</b>
+                  <p>Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor
+                   offers the Licensed Material as-is and as-available, and makes no representations or
+                   warranties of any kind concerning the Licensed Material, whether express, implied,
+                   statutory, or other. This includes, without limitation, warranties of title,
+                   merchantability, fitness for a particular purpose, non-infringement, absence of latent or
+                   other defects, accuracy, or the presence or absence of errors, whether or not known or
+                   discoverable. Where disclaimers of warranties are not allowed in full or in part, this
+                   disclaimer may not apply to You.</p>
+                </li>
+                <li>
+                  <b>b.</b>
+                  <p>To the extent possible, in no event will the Licensor be liable to You on any legal theory
+                   (including, without limitation, negligence) or otherwise for any direct, special,
+                   indirect, incidental, consequential, punitive, exemplary, or other losses, costs,
+                   expenses, or damages arising out of this Public License or use of the Licensed Material,
+                   even if the Licensor has been advised of the possibility of such losses, costs, expenses,
+                   or damages. Where a limitation of liability is not allowed in full or in part, this
+                   limitation may not apply to You.</p>
+                </li>
+                <li>
+                  <b>c.</b>
+                  <p>The disclaimer of warranties and limitation of liability provided above shall be interpreted
+                   in a manner that, to the extent possible, most closely approximates an absolute disclaimer
+                   and waiver of all liability.</p>
+                </li>
+            </list>
           </li>
+        </list>
           
+        
           
           
             <<----  Brad done through here ---->>
@@ -346,60 +409,19 @@
               
               
               
-              <p>Section 4 – Sui Generis Database Rights.</p>
-              <p>Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of
-                 the Licensed Material:</p>
-            </li>
-          </list>
-          <li>
-            <b>a.</b>
-            <p>for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse,
-               reproduce, and Share all or a substantial portion of the contents of the database for
-               NonCommercial purposes only;</p>
-          </li>
-          <li>
-            <b>b.</b>
-            <p>if You include all or a substantial portion of the database contents in a database in which
-               You have Sui Generis Database Rights, then the database in which You have Sui Generis
-               Database Rights (but not its individual contents) is Adapted Material, including for
-               purposes of Section 3(b); and</p>
-          </li>
-          <li>
-            <b>c.</b>
-            <p>You must comply with the conditions in Section 3(a) if You Share all or a substantial portion
-               of the contents of the database. 
-              <br/>For the avoidance of doubt, this Section 4 supplements and does not replace Your
-                   obligations under this Public License where the Licensed Rights include other
-                   Copyright and Similar Rights. 
-            </p>
-            <p>Section 5 – Disclaimer of Warranties and Limitation of Liability.</p>
-          </li>
-          <li>
-            <b>a.</b>
-            <p>Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor
-               offers the Licensed Material as-is and as-available, and makes no representations or
-               warranties of any kind concerning the Licensed Material, whether express, implied,
-               statutory, or other. This includes, without limitation, warranties of title,
-               merchantability, fitness for a particular purpose, non-infringement, absence of latent or
-               other defects, accuracy, or the presence or absence of errors, whether or not known or
-               discoverable. Where disclaimers of warranties are not allowed in full or in part, this
-               disclaimer may not apply to You.</p>
-          </li>
-          <li>
-            <b>b.</b>
-            <p>To the extent possible, in no event will the Licensor be liable to You on any legal theory
-               (including, without limitation, negligence) or otherwise for any direct, special,
-               indirect, incidental, consequential, punitive, exemplary, or other losses, costs,
-               expenses, or damages arising out of this Public License or use of the Licensed Material,
-               even if the Licensor has been advised of the possibility of such losses, costs, expenses,
-               or damages. Where a limitation of liability is not allowed in full or in part, this
-               limitation may not apply to You.</p>
-          </li>
-          <li>
-            <b>c.</b>
-            <p>The disclaimer of warranties and limitation of liability provided above shall be interpreted
-               in a manner that, to the extent possible, most closely approximates an absolute disclaimer
-               and waiver of all liability.</p>
+              
+            
+
+          
+            
+          
+          
+          
+          
+          
+          
+          
+          
             <p>Section 6 – Term and Termination.</p>
           </li>
           <li>
