@@ -10,7 +10,6 @@
     <title>
       <p>The Educational Community License</p>
     </title>
-    <body>
       <p>This Educational Community License (the "License") applies to any original work of authorship (the
          "Original Work") whose owner (the "Licensor") has placed the following notice immediately following
          the copyright notice for the Original Work:</p>
@@ -41,6 +40,5 @@
          the Original or Derivative Works without specific, written prior permission. Title to copyright in the
          Original Work and any associated documentation will at all times remain with the copyright
          holders.</p>
-    </body>
   </license>
 </SPDX>
