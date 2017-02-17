@@ -1,4 +1,4 @@
-<spdx name="Licence Art Libre 1.2" identifier="LAL-1.2" osi-approved="false">
+<SPDX name="Licence Art Libre 1.2" identifier="LAL-1.2" osi-approved="false">
   <urls>
     <url>http://artlibre.org/licence/lal/licence-art-libre-12/</url>
   </urls>
@@ -14,8 +14,7 @@ Spanish: http://artlibre.org/licence/lal/es/</notes>
       </p>
       <p>Version 1.2</p>
     </title>
-    <body>
-      <p>Préambule :</p>
+         <p>Préambule :</p>
       <p>Avec cette Licence Art Libre, l’autorisation est donnée de
          copier, de diffuser et de transformer librement les oeuvres
          dans le respect des droits de l’auteur.</p>
@@ -161,6 +160,5 @@ Spanish: http://artlibre.org/licence/lal/es/</notes>
         </li>
       </list>
       <p>Cette licence est soumise au droit français.</p>
-    </body>
-  </license>
-</spdx>
+    </license>
+</SPDX>
