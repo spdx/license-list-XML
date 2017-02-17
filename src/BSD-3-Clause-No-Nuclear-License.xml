@@ -1,4 +1,4 @@
-<spdx name="BSD 3-Clause No Nuclear License" identifier="BSD-3-Clause-No-Nuclear-License" osi-approved="false">
+<SPDX name="BSD 3-Clause No Nuclear License" identifier="BSD-3-Clause-No-Nuclear-License" osi-approved="false">
   <urls>
     <url>http://download.oracle.com/otn-pub/java/licenses/bsd.txt?AuthParam=1467140197_43d516ce1776bd08a58235a7785be1cc</url>
   </urls>
@@ -11,7 +11,6 @@
     <copyright>
       <p>Copyright 1994-2009 Sun Microsystems, Inc. All Rights Reserved.</p>
     </copyright>
-    <body>
       <p>Redistribution and use in source and binary forms, with or
          without modification, are permitted provided that the
          following conditions are met:</p>
@@ -54,6 +53,5 @@
       <p>You acknowledge that this software is not designed, licensed or
          intended for use in the design, construction, operation or
          maintenance of any nuclear facility.</p>
-    </body>
   </license>
-</spdx>
+</SPDX>
