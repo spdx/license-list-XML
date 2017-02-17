@@ -1,4 +1,4 @@
-<spdx name="Norwegian Licence for Open Government Data" identifier="NLOD-1.0" osi-approved="false">
+<SPDX name="Norwegian Licence for Open Government Data" identifier="NLOD-1.0" osi-approved="false">
   <urls>
     <url>http://data.norge.no/nlod/en/1.0</url>
   </urls>
@@ -8,8 +8,7 @@
     <title>
       <p>Norwegian Licence for Open Government Data (NLOD)</p>
     </title>
-    <body>
-      <p>Preface of licence</p>
+          <p>Preface of licence</p>
       <p>This licence grants you the right to copy, use and distribute
          information, provided you acknowledge the contributors and
          comply with the terms and conditions stipulated in this
@@ -295,6 +294,5 @@
          claim at other competent legal venues and/or based on the laws
          of the country where the intellectual property rights are
          sought enforced.</p>
-    </body>
   </license>
-</spdx>
+</SPDX>
