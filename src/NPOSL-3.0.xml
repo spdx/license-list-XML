@@ -1,4 +1,4 @@
-<spdx name="Non-Profit Open Software License 3.0" identifier="NPOSL-3.0" osi-approved="true">
+<SPDX name="Non-Profit Open Software License 3.0" identifier="NPOSL-3.0" osi-approved="true">
   <urls>
     <url>http://www.opensource.org/licenses/NOSL3.0</url>
   </urls>
@@ -6,20 +6,16 @@
     <title>
       <p>Non-Profit Open Software License 3.0</p>
     </title>
-    <optional>
       <p>This Non-Profit Open Software License (&quot;Non-Profit OSL&quot;) version 3.0 (the &quot;License&quot;)
          applies to any original work of authorship (the &quot;Original Work&quot;) whose owner (the
          &quot;Licensor&quot;) has placed the following licensing notice adjacent to the copyright notice for
          the Original Work:</p>
       <p>Licensed under the Non-Profit Open Software License version 3.0</p>
-    </optional>
-    <body>
       <list>
         <li>
           <b>1)</b>
           <p>Grant of Copyright License. Licensor grants You a worldwide, royalty-free, non-exclusive,
              sublicensable license, for the duration of the copyright, to do the following:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -46,6 +42,7 @@
             <p>to display the Original Work publicly.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2)</b>
           <p>Grant of Patent License. Licensor grants You a worldwide, royalty-free, non-exclusive,
@@ -203,7 +200,6 @@
           <p>Non-Profit Amendment. The name of this amended version of the Open Software License (&quot;OSL
              3.0&quot;) is &quot;Non-Profit Open Software License 3.0&quot;. The original OSL 3.0 license
              has been amended as follows:</p>
-        </li>
         <list>
           <li>
             <b>(a)</b>
@@ -242,7 +238,7 @@
                license.</p>
           </li>
         </list>
+        </li>
       </list>
-    </body>
   </license>
 </SPDX>
