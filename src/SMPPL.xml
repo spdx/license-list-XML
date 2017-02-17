@@ -1,4 +1,4 @@
-<spdx name="Secure Messaging Protocol Public License" identifier="SMPPL" osi-approved="false">
+<SPDX name="Secure Messaging Protocol Public License" identifier="SMPPL" osi-approved="false">
   <urls>
     <url>https://github.com/dcblake/SMP/blob/master/Documentation/License.txt</url>
   </urls>
@@ -6,8 +6,7 @@
     <title>
       <p>Secure Messaging Protocol (SMP) Libraries [ACL, CML, SFL]</p>
     </title>
-    <body>
-      <p>Distribution Rights</p>
+         <p>Distribution Rights</p>
       <p>All source code for the SMP is being provided at no cost and with
          no financial limitations regarding its use and distribution.
          Organizations can use the SMP without paying any royalties or
@@ -66,9 +65,8 @@
          None of the GNU public licenses apply to the eSNACC ASN.1 C++
          Library.  The eSNACC Compiler is not distributed as part of
          the SMP.</p>
-    </body>
-    <copyright>
+       <copyright>
       <p>Copyright © 1997-2002 National Security Agency</p>
     </copyright>
   </license>
-</spdx>
+</SPDX>
