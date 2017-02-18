@@ -1,4 +1,4 @@
-<spdx name="Open CASCADE Technology Public License" identifier="OCCT-PL" osi-approved="false">
+<SPDX name="Open CASCADE Technology Public License" identifier="OCCT-PL" osi-approved="false">
   <urls>
     <url>http://www.opencascade.com/content/occt-public-license</url>
   </urls>
@@ -8,7 +8,6 @@
         <br/>Version 6.6, April 2013 
       </p>
     </title>
-    <body>
       <p>OPEN CASCADE releases and makes publicly available the source code of the software Open CASCADE
          Technology to the free software development community under the terms and conditions of this
          license.</p>
@@ -211,7 +210,6 @@
         <li>
           <b>15.</b>
           <p>Miscellaneous</p>
-        </li>
         <list>
           <li>
             <b>15.1</b>
@@ -237,8 +235,9 @@
                extent.</p>
           </li>
         </list>
+        </li>
       </list>
-    </body>
+
     <optional>
       <p>END OF THE TERMS AND CONDITIONS OF THIS LICENSE</p>
       <p>OPEN CASCADE is a French soci&#xE9;t&#xE9; par actions simplifi&#xE9;e having its registered head office
