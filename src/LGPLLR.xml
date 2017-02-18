@@ -1,4 +1,4 @@
-<spdx name="Lesser General Public License For Linguistic Resources" identifier="LGPLLR" osi-approved="false">
+<SPDX name="Lesser General Public License For Linguistic Resources" identifier="LGPLLR" osi-approved="false">
   <urls>
     <url>http://www-igm.univ-mlv.fr/~unitex/lgpllr.html</url>
   </urls>
@@ -7,7 +7,7 @@
     <title>
       <p>Lesser General Public License For Linguistic Resources</p>
     </title>
-    <optional>
+
       <p>Preamble</p>
       <p>The licenses for most data are designed to take away your freedom to share and change it. By contrast,
          this License is intended to guarantee your freedom to share and change free data--to make sure the
@@ -15,8 +15,7 @@
       <p>This License, the Lesser General Public License for Linguistic Resources, applies to some specially
          designated linguistic resources -- typically lexicons and grammars.</p>
       <p>TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION</p>
-    </optional>
-    <body>
+
       <list>
         <li>
           <b>0.</b>
@@ -56,7 +55,6 @@
           <p>You may modify your copy or copies of the Linguistic Resource or any portion of it, thus forming
              a work based on the Linguistic Resource, and copy and distribute such modifications or work
              under the terms of Section 1 above, provided that you also meet all of these conditions:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -71,6 +69,8 @@
             <b>c)</b>
             <p>You must cause the whole of the work to be licensed at no charge to all third parties under
                the terms of this License.</p>
+          </li>
+          </list>
             <p>These requirements apply to the modified work as a whole. If identifiable sections of that
                work are not derived from the Linguistic Resource, and can be reasonably considered
                independent and separate works in themselves, then this License, and its terms, do not
@@ -86,8 +86,7 @@
                Linguistic Resource (or with a work based on the Linguistic Resource) on a volume of a
                storage or distribution medium does not bring the other work under the scope of this
                License.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>3.</b>
           <p>A program that contains no derivative of any portion of the Linguistic Resource, but is designed
@@ -115,7 +114,6 @@
              must include the copyright notice for the Linguistic Resource among them, as well as a
              reference directing the user to the copy of this License. Also, you must do one of these
              things:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -149,6 +147,8 @@
             <b>e)</b>
             <p>Verify that the user has already received a copy of these materials or that you have already
                sent this user a copy.</p>
+          </li>
+          </list>
             <p>If the package includes an encrypted form of the Linguistic Resource, the required form of
                the &quot;work that uses the Linguistic Resource&quot; must include any data and utility
                programs needed for reproducing the package from it. However, as a special exception, the
@@ -160,8 +160,7 @@
                libraries that do not normally accompany the operating system. Such a contradiction means
                you cannot use both them and the Linguistic Resource together in a package that you
                distribute.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>5.</b>
           <p>You may not copy, modify, sublicense, link with, or distribute the Linguistic Resource except as
@@ -265,9 +264,6 @@
              SUCH DAMAGES.</p>
         </li>
       </list>
-    </body>
-    <optional>
       <p>END OF TERMS AND CONDITIONS</p>
-    </optional>
   </license>
 </SPDX>
