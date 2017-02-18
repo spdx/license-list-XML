@@ -1,4 +1,4 @@
-<spdx name="GNU Free Documentation License v1.2" identifier="GFDL-1.2" osi-approved="false">
+<SPDX name="GNU Free Documentation License v1.2" identifier="GFDL-1.2" osi-approved="false">
   <urls>
     <url>http://www.gnu.org/licenses/old-licenses/fdl-1.2.txt</url>
   </urls>
@@ -19,15 +19,13 @@
       <p>Copyright (C) 2000,2001,2002 Free Software Foundation, Inc. 51 Franklin St, Fifth Floor, Boston, MA
          02110-1301 USA</p>
     </copyright>
-    <optional>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>
       <list>
         <li>
           <b>0.</b>
           <p>PREAMBLE</p>
-        </li>
-      </list>
+
       <p>The purpose of this License is to make a manual, textbook, or other functional and useful document
          &quot;free&quot; in the sense of freedom: to assure everyone the effective freedom to copy and
          redistribute it, with or without modifying it, either commercially or noncommercially. Secondarily,
@@ -41,9 +39,7 @@
          software does. But this License is not limited to software manuals; it can be used for any textual
          work, regardless of subject matter or whether it is published as a printed book. We recommend this
          License principally for works whose purpose is instruction or reference.</p>
-    </optional>
-    <body>
-      <list>
+        </li>
         <li>
           <b>1.</b>
           <p>APPLICABILITY AND DEFINITIONS</p>
@@ -155,7 +151,6 @@
              the Modified Version filling the role of the Document, thus licensing distribution and
              modification of the Modified Version to whoever possesses a copy of it. In addition, you must
              do these things in the Modified Version:</p>
-        </li>
         <list>
           <li>
             <b>A.</b>
@@ -241,6 +236,8 @@
           <li>
             <b>O.</b>
             <p>Preserve any Warranty Disclaimers.</p>
+          </li>
+          </list>
             <p>If the Modified Version includes new front-matter sections or appendices that qualify as
                Secondary Sections and contain no material copied from the Document, you may at your
                option designate some or all of these sections as invariant. To do this, add their titles
@@ -260,8 +257,7 @@
             <p>The author(s) and publisher(s) of the Document do not by this License give permission to use
                their names for publicity for or to assert or imply endorsement of any Modified
                Version.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>5.</b>
           <p>COMBINING DOCUMENTS</p>
@@ -335,8 +331,7 @@
         <li>
           <b>10.</b>
           <p>FUTURE REVISIONS OF THIS LICENSE</p>
-        </li>
-      </list>
+
       <p>The Free Software Foundation may publish new, revised versions of the GNU Free Documentation License from
          time to time. Such new versions will be similar in spirit to the present version, but may differ in
          detail to address new problems or concerns. See http://www.gnu.org/copyleft/.</p>
@@ -346,7 +341,8 @@
          version that has been published (not as a draft) by the Free Software Foundation. If the Document does
          not specify a version number of this License, you may choose any version ever published (not as a
          draft) by the Free Software Foundation.</p>
-    </body>
+        </li>
+      </list>
     <optional>
       <p>ADDENDUM: How to use this License for your documents</p>
       <p>To use this License in a document you have written, include a copy of the License in the document and put
