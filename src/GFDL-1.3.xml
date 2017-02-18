@@ -1,4 +1,4 @@
-<spdx name="GNU Free Documentation License v1.3" identifier="GFDL-1.3" osi-approved="false">
+<SPDX name="GNU Free Documentation License v1.3" identifier="GFDL-1.3" osi-approved="false">
   <urls>
     <url>http://www.gnu.org/licenses/fdl-1.3.txt</url>
   </urls>
@@ -18,15 +18,12 @@
     <copyright>
       <p>Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;</p>
     </copyright>
-    <optional>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>
       <list>
         <li>
           <b>0.</b>
           <p>PREAMBLE</p>
-        </li>
-      </list>
       <p>The purpose of this License is to make a manual, textbook, or other functional and useful document
          &quot;free&quot; in the sense of freedom: to assure everyone the effective freedom to copy and
          redistribute it, with or without modifying it, either commercially or noncommercially. Secondarily,
@@ -40,9 +37,7 @@
          software does. But this License is not limited to software manuals; it can be used for any textual
          work, regardless of subject matter or whether it is published as a printed book. We recommend this
          License principally for works whose purpose is instruction or reference.</p>
-    </optional>
-    <body>
-      <list>
+        </li>
         <li>
           <b>1.</b>
           <p>APPLICABILITY AND DEFINITIONS</p>
@@ -156,7 +151,6 @@
              the Modified Version filling the role of the Document, thus licensing distribution and
              modification of the Modified Version to whoever possesses a copy of it. In addition, you must
              do these things in the Modified Version:</p>
-        </li>
         <list>
           <li>
             <b>A.</b>
@@ -239,6 +233,8 @@
           <li>
             <b>O.</b>
             <p>Preserve any Warranty Disclaimers.</p>
+          </li>
+          </list>
             <p>If the Modified Version includes new front-matter sections or appendices that qualify as
                Secondary Sections and contain no material copied from the Document, you may at your
                option designate some or all of these sections as invariant. To do this, add their titles
@@ -258,8 +254,7 @@
             <p>The author(s) and publisher(s) of the Document do not by this License give permission to use
                their names for publicity for or to assert or imply endorsement of any Modified
                Version.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>5.</b>
           <p>COMBINING DOCUMENTS</p>
@@ -361,8 +356,7 @@
         <li>
           <b>11.</b>
           <p>RELICENSING</p>
-        </li>
-      </list>
+
       <p>&quot;Massive Multiauthor Collaboration Site&quot; (or &quot;MMC Site&quot;) means any World Wide Web
          server that publishes copyrightable works and also provides prominent facilities for anybody to edit
          those works. A public wiki that anybody can edit is an example of such a server. A &quot;Massive
@@ -380,7 +374,8 @@
          were thus incorporated prior to November 1, 2008.</p>
       <p>The operator of an MMC Site may republish an MMC contained in the site under CC-BY-SA on the same site at
          any time before August 1, 2009, provided the MMC is eligible for relicensing.</p>
-    </body>
+        </li>
+      </list>
     <optional>
       <p>ADDENDUM: How to use this License for your documents</p>
       <p>To use this License in a document you have written, include a copy of the License in the document and put
