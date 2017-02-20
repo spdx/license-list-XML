@@ -3,14 +3,12 @@
   <license licenseId="AGPL-3.0" isOsiApproved="true"
   name="GNU Affero General Public License v3.0"
   isDeprecated="true" deprecatedVersion="3.0">
+    <obsoletedBy>AGPL-3.0-only</obsoletedBy>
+    <obsoletedBy expression="AGPL-3.0+">AGPL-3.0-or-later</obsoletedBy>
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/agpl.txt</crossRef>
       <crossRef>http://www.opensource.org/licenses/AGPL-3.0</crossRef>
     </crossRefs>
-    <notes>
-      DEPRECATED: Deprecated in lieu of more
-      explicit license identifier of AGPL-3.0-only
-    </notes>
     <standardLicenseHeader>
       Copyright (C) <alt name="copyright" match=".+">[year] [name of author]</alt>
       This program is free software: you can redistribute it and/or modify it

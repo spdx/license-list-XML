@@ -3,13 +3,11 @@
   <license licenseId="GFDL-1.2" isOsiApproved="false"
   name="GNU Free Documentation License v1.2"
   isDeprecated="true" deprecatedVersion="3.0">
+    <obsoletedBy>GFDL-1.2-only</obsoletedBy>
+    <obsoletedBy expression="GFDL-1.2+">GFDL-1.2-or-later</obsoletedBy>
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/fdl-1.2.txt</crossRef>
     </crossRefs>
-    <notes>
-      DEPRECATED: Deprecated in lieu of more
-      explicit license identifier of GFDL-1.2-only
-    </notes>
     <standardLicenseHeader>
       Copyright (c) <alt name="copyright" match=".+">YEAR YOUR NAME</alt>
       . Permission is granted to copy, distribute and/or modify this

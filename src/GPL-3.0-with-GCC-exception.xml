@@ -2,7 +2,8 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="GPL-3.0-with-GCC-exception" isDeprecated="true" deprecatedVersion="2.0rc2"
             name="GNU General Public License v3.0 w/GCC Runtime Library exception">
-	  <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
+      <obsoletedBy>GPL-3.0 WITH GCC-exception-3.1</obsoletedBy>
+      <obsoletedBy expression="GPL-3.0-with-GCC-exception+">GPL-3.0-or-later WITH GCC-exception-3.1</obsoletedBy>
       <crossRefs>
          <crossRef>http://www.gnu.org/licenses/gcc-exception-3.1.html</crossRef>
       </crossRefs>
