@@ -1,16 +1,18 @@
-<spdx name="GNU General Public License v1.0 only" identifier="GPL-1.0" osi-approved="false">
+<SPDX name="GNU General Public License v1.0 only" identifier="GPL-1.0" osi-approved="false">
   <urls>
     <url>http://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html</url>
   </urls>
   <notes>This license was released: February 1989. This license has been deprecated. This refers to when this GPL 1.0
          only is being used (as opposed to &quot;or later).</notes>
   <header> Copyright (C) 
-    <alt name="copyright" match=".+">19xx name of author</alt> This program is free software; you can redistribute
-    it and/or modify it under the terms of the GNU General Public License as published by the Free Software
-    Foundation; version 1. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+    <alt name="copyright" match=".+">19xx name of author</alt> 
+    <p>This program is free software; you can redistribute it and/or modify it under the terms of the 
+    GNU General Public License as published by the Free Software Foundation; version 1.</p> 
+    <p>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
     without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
-    Public License for more details. You should have received a copy of the GNU General Public License along with
-    this program; if not, write to the Free Software Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA. 
+    Public License for more details. </p>
+    <p>You should have received a copy of the GNU General Public License along with
+    this program; if not, write to the Free Software Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA. </p>
   </header>
   <license>
     <title>
@@ -21,7 +23,6 @@
     <copyright>
       <p>Copyright (C) 1989 Free Software Foundation, Inc. 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA</p>
     </copyright>
-    <optional>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>
       <p>Preamble</p>
@@ -48,8 +49,6 @@
          introduced by others will not reflect on the original authors&apos; reputations.</p>
       <p>The precise terms and conditions for copying, distribution and modification follow.</p>
       <p>GNU GENERAL PUBLIC LICENSE TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION</p>
-    </optional>
-    <body>
       <list>
         <li>
           <b>0.</b>
@@ -73,7 +72,6 @@
           <p>You may modify your copy or copies of the Program or any portion of it, and copy and distribute
              such modifications under the terms of Paragraph 1 above, provided that you also do the
              following:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -101,17 +99,17 @@
             <b>d)</b>
             <p>You may charge a fee for the physical act of transferring a copy, and you may at your option
                offer warranty protection in exchange for a fee.</p>
+          </li>
+        </list>
             <p>Mere aggregation of another independent work with the Program (or its derivative) on a volume
                of a storage or distribution medium does not bring the other work under the scope of these
                terms.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>3.</b>
           <p>You may copy and distribute the Program (or a portion or derivative of it, under Paragraph 2) in
              object code or executable form under the terms of Paragraphs 1 and 2 above provided that you
              also do one of the following:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -130,14 +128,15 @@
             <p>accompany it with the information you received as to where the corresponding source code may
                be obtained. (This alternative is allowed only for noncommercial distribution and only if
                you received the program in object code or executable form alone.)</p>
+          </li>
+        </list>
             <p>Source code for a work means the preferred form of the work for making modifications to it.
                For an executable file, complete source code means all the source code for all modules it
                contains; but, as a special exception, it need not include source code for modules which
                are standard libraries that accompany the operating system on which the executable file
                runs, or for standard header files or definitions files that accompany that operating
                system.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>4.</b>
           <p>You may not copy, modify, sublicense, distribute or transfer the Program except as expressly
@@ -201,7 +200,6 @@
              HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
         </li>
       </list>
-    </body>
     <optional>
       <p>END OF TERMS AND CONDITIONS</p>
       <p>Appendix: How to Apply These Terms to Your New Programs</p>
