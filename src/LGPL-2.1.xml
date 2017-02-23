@@ -1,4 +1,4 @@
-<spdx name="GNU Lesser General Public License v2.1 only" identifier="LGPL-2.1" osi-approved="true">
+<SPDX name="GNU Lesser General Public License v2.1 only" identifier="LGPL-2.1" osi-approved="true">
   <urls>
     <url>http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</url>
     <url>http://www.opensource.org/licenses/LGPL-2.1</url>
@@ -6,13 +6,16 @@
   <notes>This license was released: February 1999. This refers to when this LGPL 2.1 only is being used (as opposed to
          &quot;or later).</notes>
   <header> Copyright (C) 
-    <alt name="copyright" match=".+">year name of author</alt> This library is free software; you can redistribute
+    <alt name="copyright" match=".+">year name of author</alt> 
+    <p>This library is free software; you can redistribute
     it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software
-    Foundation; version 2.1. This library is distributed in the hope that it will be useful, but WITHOUT ANY
+    Foundation; version 2.1.</p> 
+    <p>This library is distributed in the hope that it will be useful, but WITHOUT ANY
     WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
-    Lesser General Public License for more details. You should have received a copy of the GNU Lesser General Public
+    Lesser General Public License for more details.</p> 
+    <p>You should have received a copy of the GNU Lesser General Public
     License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth
-    Floor, Boston, MA 02110-1301 USA 
+    Floor, Boston, MA 02110-1301 USA </p>
   </header>
   <license>
     <title>
@@ -24,7 +27,6 @@
         <br/>51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA 
       </p>
     </copyright>
-    <optional>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>
       <p>[This is the first released version of the Lesser GPL. It also counts as the successor of the GNU Library
@@ -92,8 +94,6 @@
          library&quot;. The former contains code derived from the library, whereas the latter must be combined
          with the library in order to run.</p>
       <p>TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION</p>
-    </optional>
-    <body>
       <list>
         <li>
           <b>0.</b>
@@ -135,7 +135,6 @@
           <p>You may modify your copy or copies of the Library or any portion of it, thus forming a work based
              on the Library, and copy and distribute such modifications or work under the terms of Section
              1 above, provided that you also meet all of these conditions:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -158,6 +157,8 @@
                the facility is invoked, then you must make a good faith effort to ensure that, in the
                event an application does not supply such function or table, the facility still operates,
                and performs whatever part of its purpose remains meaningful.</p>
+            </li>
+          </list>       
             <p>(For example, a function in a library to compute square roots has a purpose that is entirely
                well-defined independent of the application. Therefore, Subsection 2d requires that any
                application-supplied function or table used by this function must be optional: if the
@@ -176,8 +177,7 @@
             <p>In addition, mere aggregation of another work not based on the Library with the Library (or
                with a work based on the Library) on a volume of a storage or distribution medium does not
                bring the other work under the scope of this License.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>3.</b>
           <p>You may opt to apply the terms of the ordinary GNU General Public License instead of this License
@@ -240,7 +240,6 @@
              If the work during execution displays copyright notices, you must include the copyright notice
              for the Library among them, as well as a reference directing the user to the copy of this
              License. Also, you must do one of these things:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -277,6 +276,8 @@
             <b>e)</b>
             <p>Verify that the user has already received a copy of these materials or that you have already
                sent this user a copy.</p>
+          </li>
+          </list>
             <p>For an executable, the required form of the &quot;work that uses the Library&quot; must
                include any data and utility programs needed for reproducing the executable from it.
                However, as a special exception, the materials to be distributed need not include anything
@@ -287,8 +288,7 @@
                libraries that do not normally accompany the operating system. Such a contradiction means
                you cannot use both them and the Library together in an executable that you
                distribute.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>7.</b>
           <p>You may place library facilities that are a work based on the Library side-by-side in a single
@@ -296,7 +296,6 @@
              such a combined library, provided that the separate distribution of the work based on the
              Library and of the other library facilities is otherwise permitted, and provided that you do
              these two things:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -311,6 +310,7 @@
                work.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>8.</b>
           <p>You may not copy, modify, sublicense, link with, or distribute the Library except as expressly
@@ -411,7 +411,6 @@
              HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
         </li>
       </list>
-    </body>
     <optional>
       <p>END OF TERMS AND CONDITIONS</p>
       <p>How to Apply These Terms to Your New Libraries</p>
