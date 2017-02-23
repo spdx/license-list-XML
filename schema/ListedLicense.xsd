@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.spdx.org/ListedLicense" xmlns:tns="http://www.spdx.org/ListedLicense" elementFormDefault="qualified">
+    <annotation>
+        <documentation xml:lang="en">
+            XML Schema for the SPDX Listed License input format.  This format is intended for internal use
+            of the SPDX legal team for representing licenses in the github source repository
+            github.com/spdx/listed-license-XML.  A separate format of the same licenses are available
+            for application usage at github.com/spdx/license-list-data.
+            Licensed under CC-BY-4.0.
+        </documentation>
+    </annotation>
+    <element name="SPDXLicenseCollection"
+    	type="tns:SPDXLicenseCollectionType">
+    </element>
+    
+    <complexType name="ListedLicenseType">
+
+    	<all>
+    		<element name="crossRefs" type="tns:crossRefsType"
+    			maxOccurs="1" minOccurs="0">
+    		</element>
+    		<element name="notes" type="string" maxOccurs="1"
+    			minOccurs="0">
+    		</element>
+    		<element name="standardLicenseHeader" type="string"
+    			maxOccurs="1" minOccurs="0">
+    		</element>
+    		<element name="titleText" type="string" maxOccurs="1"
+    			minOccurs="0">
+    		</element>
+    		<element name="copyrightText" type="string" maxOccurs="1"
+    			minOccurs="0">
+    		</element>
+    		<element name="bullet" type="tns:formattedTextType"></element>
+    		<element name="list" type="tns:listType"></element>
+    	</all>
+    	<attribute name="licenseId" type="string"></attribute>
+    	<attribute name="isOsiApproved" type="boolean"></attribute>
+    	<attribute name="name" type="string"></attribute>
+    </complexType>
+
+    <complexType name="crossRefsType">
+    	<sequence>
+    		<element name="crossRef" type="string" maxOccurs="unbounded" minOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="SPDXLicenseCollectionType">
+    	<sequence>
+    		<element name="license" type="tns:ListedLicenseType" maxOccurs="unbounded" minOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="listType">
+    	<sequence>
+            <element name="item" type="tns:formattedTextType" maxOccurs="unbounded" minOccurs="1"></element>
+        </sequence>
+    </complexType>
+
+    <complexType name="formattedTextType">
+    	<choice>
+    		<element name="bullet" type="string"></element>
+    		<element name="list" type="tns:listType"></element>
+    	</choice>
+    </complexType>
+
+    <group name="licenseElementGroup">
+    	<all></all>
+    </group>
+</schema>
