@@ -1,4 +1,4 @@
-<spdx name="GNU General Public License v2.0 only" identifier="GPL-2.0" osi-approved="true">
+<SPDX name="GNU General Public License v2.0 only" identifier="GPL-2.0" osi-approved="true">
   <urls>
     <url>http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</url>
     <url>http://www.opensource.org/licenses/GPL-2.0</url>
@@ -6,13 +6,16 @@
   <notes>This license was released: June 1991 This refers to when this GPL 2.0 only is being used (as opposed to GPLv2
          or later).</notes>
   <header> Copyright (C) 
-    <alt name="copyright" match=".+">yyyy name of author</alt> This program is free software; you can redistribute
+    <alt name="copyright" match=".+">yyyy name of author</alt> 
+     <p>This program is free software; you can redistribute
     it and/or modify it under the terms of the GNU General Public License as published by the Free Software
-    Foundation; version 2. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+    Foundation; version 2. </p>
+     <p>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
     without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
-    Public License for more details. You should have received a copy of the GNU General Public License along with
+    Public License for more details. </p>
+    <p>You should have received a copy of the GNU General Public License along with
     this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
-    02110-1301, USA. 
+    02110-1301, USA.</p> 
   </header>
   <license>
     <title>
@@ -25,7 +28,6 @@
         <br/>51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA 
       </p>
     </copyright>
-    <optional>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>
       <p>Preamble</p>
@@ -58,8 +60,6 @@
          everyone&apos;s free use or not licensed at all.</p>
       <p>The precise terms and conditions for copying, distribution and modification follow.</p>
       <p>TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION</p>
-    </optional>
-    <body>
       <list>
         <li>
           <b>0.</b>
@@ -92,7 +92,6 @@
           <p>You may modify your copy or copies of the Program or any portion of it, thus forming a work based
              on the Program, and copy and distribute such modifications or work under the terms of Section
              1 above, provided that you also meet all of these conditions:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -115,6 +114,8 @@
                of this License. (Exception: if the Program itself is interactive but does not normally
                print such an announcement, your work based on the Program is not required to print an
                announcement.)</p>
+          </li>
+        </list>
             <p>These requirements apply to the modified work as a whole. If identifiable sections of that
                work are not derived from the Program, and can be reasonably considered independent and
                separate works in themselves, then this License, and its terms, do not apply to those
@@ -128,14 +129,12 @@
             <p>In addition, mere aggregation of another work not based on the Program with the Program (or
                with a work based on the Program) on a volume of a storage or distribution medium does not
                bring the other work under the scope of this License.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>3.</b>
           <p>You may copy and distribute the Program (or a work based on it, under Section 2) in object code
              or executable form under the terms of Sections 1 and 2 above provided that you also do one of
              the following:</p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -157,6 +156,8 @@
                source code. (This alternative is allowed only for noncommercial distribution and only if
                you received the program in object code or executable form with such an offer, in accord
                with Subsection b above.)</p>
+          </li>
+        </list>
             <p>The source code for a work means the preferred form of the work for making modifications to
                it. For an executable work, complete source code means all the source code for all modules
                it contains, plus any associated interface definition files, plus the scripts used to
@@ -169,8 +170,7 @@
                designated place, then offering equivalent access to copy the source code from the same
                place counts as distribution of the source code, even though third parties are not
                compelled to copy the source along with the object code.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>4.</b>
           <p>You may not copy, modify, sublicense, or distribute the Program except as expressly provided
@@ -271,7 +271,6 @@
              HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
         </li>
       </list>
-    </body>
     <optional>
       <p>END OF TERMS AND CONDITIONS</p>
       <p>How to Apply These Terms to Your New Programs</p>
