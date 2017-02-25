@@ -13,7 +13,7 @@
     	type="tns:SPDXLicenseCollectionType">
     </element>
     
-    <complexType name="ListedLicenseType">
+    <complexType name="ListedLicenseType" mixed="true">
 
     	<all>
     		<element name="crossRefs" type="tns:crossRefsType"
@@ -33,12 +33,26 @@
     		</element>
     		<element name="bullet" type="tns:formattedTextType"></element>
     		<element name="list" type="tns:listType"></element>
+    		<element name="p" type="string"></element>
+    		<element name="optional" type="string"></element>
+    		<element name="alt" type="tns:altType"></element>
+    		<element name="b" type="tns:emptyType"></element>
     	</all>
     	<attribute name="licenseId" type="string"></attribute>
     	<attribute name="isOsiApproved" type="boolean"></attribute>
     	<attribute name="name" type="string"></attribute>
+    	<attribute name="listVersionAdded" type="string"></attribute>
     </complexType>
 
+	<complexType name="altType">
+		<simpleContent>
+			<extension base="string">
+			<attribute name="name" type="string" />
+			<attribute name="match" type="string" />
+			</extension>
+		</simpleContent>
+	</complexType>
+	
     <complexType name="crossRefsType">
     	<sequence>
     		<element name="crossRef" type="string" maxOccurs="unbounded" minOccurs="1"></element>
@@ -56,15 +70,17 @@
             <element name="item" type="tns:formattedTextType" maxOccurs="unbounded" minOccurs="1"></element>
         </sequence>
     </complexType>
+    
+    <complexType name="emptyType" />
 
-    <complexType name="formattedTextType">
+    <complexType name="formattedTextType" mixed="true">
     	<choice>
     		<element name="bullet" type="string"></element>
     		<element name="list" type="tns:listType"></element>
+    		<element name="p" type="string"></element>
+    		<element name="optional" type="string"></element>
+    		<element name="alt" type="tns:altType"></element>
+    		<element name="b" type="tns:emptyType"></element>
     	</choice>
     </complexType>
-
-    <group name="licenseElementGroup">
-    	<all></all>
-    </group>
 </schema>
