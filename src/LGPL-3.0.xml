@@ -1,4 +1,4 @@
-<spdx name="GNU Lesser General Public License v3.0 only" identifier="LGPL-3.0" osi-approved="true">
+<SPDX name="GNU Lesser General Public License v3.0 only" identifier="LGPL-3.0" osi-approved="true">
   <urls>
     <url>http://www.gnu.org/licenses/lgpl-3.0-standalone.html</url>
     <url>http://www.opensource.org/licenses/LGPL-3.0</url>
@@ -14,13 +14,10 @@
     <copyright>
       <p>Copyright (C) 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;</p>
     </copyright>
-    <optional>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>
       <p>This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3
          of the GNU General Public License, supplemented by the additional permissions listed below.</p>
-    </optional>
-    <body>
       <list>
         <li>
           <b>0.</b>
@@ -59,7 +56,6 @@
                  as an argument passed when the facility is invoked), then you may convey a copy of the
                  modified version: 
           </p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -72,6 +68,7 @@
             <p>under the GNU GPL, with none of the additional permissions of this License applicable to that copy.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>3.</b>
           <p>Object Code Incorporating Material from Library Header Files. 
@@ -81,7 +78,6 @@
                  data structure layouts and accessors, or small macros, inline functions and templates
                  (ten or fewer lines in length), you do both of the following: 
           </p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -93,6 +89,7 @@
             <p>Accompany the object code with a copy of the GNU GPL and this license document.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>4.</b>
           <p>Combined Works. 
@@ -101,7 +98,6 @@
                  Work and reverse engineering for debugging such modifications, if you also do each of
                  the following: 
           </p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -121,7 +117,7 @@
           <li>
             <b>d)</b>
             <p>Do one of the following:</p>
-          </li>
+
           <list>
             <li>
               <b>0)</b>
@@ -139,6 +135,7 @@
                  of the Library that is interface-compatible with the Linked Version.</p>
             </li>
           </list>
+          </li>
           <li>
             <b>e)</b>
             <p>Provide Installation Information, but only if you would otherwise be required to provide such
@@ -151,6 +148,7 @@
                for conveying Corresponding Source.)</p>
           </li>
         </list>
+        </li>
         <li>
           <b>5.</b>
           <p>Combined Libraries. 
@@ -159,7 +157,6 @@
                  are not covered by this License, and convey such a combined library under terms of
                  your choice, if you do both of the following: 
           </p>
-        </li>
         <list>
           <li>
             <b>a)</b>
@@ -173,6 +170,7 @@
                work.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>6.</b>
           <p>Revised Versions of the GNU Lesser General Public License.</p>
@@ -193,6 +191,5 @@
         <br/>apply, that proxy&apos;s public statement of acceptance of any version is permanent authorization
              for you to choose that version for the Library. 
       </p>
-    </body>
   </license>
 </SPDX>
