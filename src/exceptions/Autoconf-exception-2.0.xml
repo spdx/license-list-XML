@@ -1,10 +1,10 @@
-<spdx name="Autoconf exception 2.0" identifier="Autoconf-exception-2.0">
+<SPDX name="Autoconf exception 2.0" identifier="Autoconf-exception-2.0">
   <urls>
     <url>http://ac-archive.sourceforge.net/doc/copyright.html</url>
+    <url>http://ftp.gnu.org/gnu/autoconf/autoconf-2.59.tar.gz</url>
   </urls>
   <notes>Typically used with GPL 2.0
-
-This exception should be used instead of the deprecated
+    This exception should be used instead of the deprecated
 http://spdx.org/licenses/GPL-2.0-with-autoconf-exception</notes>
   <exception>
     <body>
@@ -37,4 +37,4 @@ http://spdx.org/licenses/GPL-2.0-with-autoconf-exception</notes>
          exception to the GPL from your modified version.</p>
     </body>
   </exception>
-</spdx>
+</SPDX>
