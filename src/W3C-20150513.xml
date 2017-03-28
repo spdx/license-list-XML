@@ -1,5 +1,4 @@
-<!-- REVIEW -->
-<spdx name="W3C Software Notice and Document License (2015-05-13)" identifier="W3C-20150513" osi-approved="false">
+<SPDX name="W3C Software Notice and Document License (2015-05-13)" identifier="W3C-20150513" osi-approved="false">
   <urls>
     <url>https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document</url>
   </urls>
@@ -83,4 +82,4 @@ Copyright (c)
          work will at all times remain with copyright holders.</p>
     </body>
   </license>
-</spdx>
+</SPDX>
