@@ -5,7 +5,8 @@
   </urls>
   <notes>Typically used with GPL 2.0
     This exception should be used instead of the deprecated
-http://spdx.org/licenses/GPL-2.0-with-autoconf-exception</notes>
+    http://spdx.org/licenses/GPL-2.0-with-autoconf-exception
+  </notes>
   <exception>
     <body>
       <p>As a special exception, the Free Software Foundation gives
