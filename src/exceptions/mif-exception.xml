@@ -1,11 +1,11 @@
-<spdx name="Macros and Inline Functions Exception" identifier="mif-exception">
+<SPDX name="Macros and Inline Functions Exception" identifier="mif-exception">
   <urls>
     <url>http://www.scs.stanford.edu/histar/src/lib/cppsup/exception</url>
+    <url>http://dev.bertos.org/doxygen/ https://www.threadingbuildingblocks.org/licensing</url>
   </urls>
   <notes>Used with GPL 2.0.  Used by older versions of GCC. This is similar to
          the eCos Exception.</notes>
   <exception>
-    <body>
       <p>As a special exception, you may use this file as part of a free
          software library without restriction. Specifically, if other
          files instantiate templates or use macros or inline functions
@@ -15,6 +15,5 @@
          General Public License. This exception does not however
          invalidate any other reasons why the executable file might be
          covered by the GNU General Public License.</p>
-    </body>
   </exception>
-</spdx>
+</SPDX>
