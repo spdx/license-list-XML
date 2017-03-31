@@ -1,4 +1,4 @@
-<spdx name="U-Boot exception 2.0" identifier="u-boot-exception-2.0">
+<SPDX name="U-Boot exception 2.0" identifier="u-boot-exception-2.0">
   <urls>
     <url>http://git.denx.de/?p=u-boot.git;a=blob;f=Licenses/Exceptions</url>
   </urls>
@@ -7,7 +7,6 @@
     <title>
       <p>The U-Boot License Exception:</p>
     </title>
-    <body>
       <p>Even though U-Boot in general is covered by the GPL-2.0/GPL-2.0+,
          this does *not* cover the so-called "standalone" applications
          that use U-Boot services by means of the jump table provided
@@ -21,6 +20,5 @@
          heading of "derived work".
         <br/>-- Wolfgang Denk
       </p>
-    </body>
   </exception>
-</spdx>
+</SPDX>
