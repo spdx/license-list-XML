@@ -1,16 +1,15 @@
-<spdx name="WxWindows Library Exception 3.1" identifier="WxWindows-exception-3.1">
+<SPDX name="WxWindows Library Exception 3.1" identifier="WxWindows-exception-3.1">
   <urls>
     <url>http://www.opensource.org/licenses/WXwindows</url>
   </urls>
   <notes>Used with GPL 2.0 or later
-
-This exception should be used instead of the deprecated
-http://spdx.org/licenses/WXwindows</notes>
+    <p>This exception should be used instead of the deprecated
+      http://spdx.org/licenses/WXwindows</p>
+  </notes>
   <exception>
     <title>
       <p>EXCEPTION NOTICE</p>
     </title>
-    <body>
       <list>
         <li>
           <b>1.</b>
@@ -51,6 +50,5 @@ http://spdx.org/licenses/WXwindows</notes>
              accordingly.</p>
         </li>
       </list>
-    </body>
   </exception>
-</spdx>
+</SPDX>
