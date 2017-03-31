@@ -1,5 +1,4 @@
-<!-- REVIEW -->
-<spdx name="Net-SNMP License" identifier="Net-SNMP" osi-approved="false" listVersionAdded="2.6">
+<SPDX name="Net-SNMP License" identifier="Net-SNMP" osi-approved="false" listVersionAdded="2.6">
   <urls>
     <url>http://net-snmp.sourceforge.net/about/license.html</url>
   </urls>
@@ -387,4 +386,4 @@
          EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
     </body>
   </license>
-</spdx>
+</SPDX>
