@@ -1,10 +1,9 @@
-<spdx name="i2p GPL+Java Exception" identifier="i2p-gpl-java-exception">
+<SPDX name="i2p GPL+Java Exception" identifier="i2p-gpl-java-exception">
   <urls>
     <url>http://geti2p.net/en/get-involved/develop/licenses#java_exception</url>
   </urls>
   <notes>Used with GPL 2.0 or later</notes>
   <exception>
-    <body>
       <p>In addition, as a special exception, 
         <alt name="licensor" match=".+">XXXX</alt> gives permission to
         link the code of this program with the proprietary Java
@@ -17,6 +16,5 @@
         wish to do so, delete this exception statement from your
         version.
       </p>
-    </body>
   </exception>
-</spdx>
+</SPDX>
