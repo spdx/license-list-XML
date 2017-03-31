@@ -1,5 +1,5 @@
 <!-- REVIEW -->
-<spdx name="Net-SNMP License" identifier="Net-SNMP" osi-approved="false">
+<spdx name="Net-SNMP License" identifier="Net-SNMP" osi-approved="false" listVersionAdded="2.6">
   <urls>
     <url>http://net-snmp.sourceforge.net/about/license.html</url>
   </urls>
