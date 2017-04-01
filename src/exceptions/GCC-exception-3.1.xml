@@ -1,31 +1,29 @@
-<spdx name="GCC Runtime Library exception 3.1" identifier="GCC-exception-3.1">
+<SPDX name="GCC Runtime Library exception 3.1" identifier="GCC-exception-3.1">
   <urls>
     <url>http://www.gnu.org/licenses/gcc-exception-3.1.html</url>
   </urls>
   <notes>Typically used with GPL 3.0
-
-This exception should be used instead of the deprecated
-http://spdx.org/licenses/GPL-3.0-with-GCC-exception</notes>
+        This exception should be used instead of the deprecated
+        http://spdx.org/licenses/GPL-3.0-with-GCC-exception
+  </notes>
   <exception>
     <title>
       <p>GCC RUNTIME LIBRARY EXCEPTION</p>
       <p>Version 3.1, 31 March 2009</p>
-      <p>General information: http://www.gnu.org/licenses/gcc-exception.html</p>
     </title>
-    <copyright>
-      <br>Copyright (C) 2009 Free Software Foundation, Inc.
-          &lt;http://fsf.org/&gt;</br>
-    </copyright>
+    <p>General information: http://www.gnu.org/licenses/gcc-exception.html</p>
+      <br/>Copyright (C) 2009 Free Software Foundation, Inc.
+      &lt;http://fsf.org/&gt;
     <body>
       <p>Everyone is permitted to copy and distribute verbatim copies of
          this license document, but changing it is not allowed.
-        <br/>This GCC Runtime Library Exception ("Exception") is an
-             additional permission under section 7 of the GNU
-             General Public License, version 3 ("GPLv3"). It
-             applies to a given file (the "Runtime Library") that
-             bears a notice placed by the copyright holder of the
-             file stating that the file is governed by GPLv3 along
-             with this Exception.
+      <br/>This GCC Runtime Library Exception ("Exception") is an
+           additional permission under section 7 of the GNU
+           General Public License, version 3 ("GPLv3"). It
+           applies to a given file (the "Runtime Library") that
+           bears a notice placed by the copyright holder of the
+           file stating that the file is governed by GPLv3 along
+           with this Exception.
       </p>
       <p>When you use GCC to compile a program, GCC may combine portions
          of certain GCC header files and runtime libraries with the
@@ -96,4 +94,4 @@ http://spdx.org/licenses/GPL-3.0-with-GCC-exception</notes>
          copyleft requirements of the license of GCC.</p>
     </body>
   </exception>
-</spdx>
+</SPDX>
