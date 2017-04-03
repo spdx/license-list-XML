@@ -1,4 +1,4 @@
-<SPDX name="W3C Software Notice and Document License (2015-05-13)" identifier="W3C-20150513" osi-approved="false">
+<SPDX name="W3C Software Notice and Document License (2015-05-13)" identifier="W3C-20150513" osi-approved="false" listVersionAdded="2.6">
   <urls>
     <url>https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document</url>
   </urls>
@@ -22,12 +22,10 @@ Copyright (c)
     WARRANTY; without even the implied warranty of MERCHANTABILITY or
     FITNESS FOR A PARTICULAR PURPOSE.
 
-
     <b>[1]</b> http://www.w3.org/Consortium/Legal/copyright-software
 
   </header>
   <license>
-    <body>
       <p>This work is being provided by the copyright holders under the
          following license.</p>
       <p>License
@@ -40,7 +38,6 @@ Copyright (c)
          royalty is hereby granted, provided that you include the
          following on ALL copies of the work or portions thereof,
          including modifications:</p>
-      <list></list>
       <list>
         <li>
           <b>•</b>
@@ -80,6 +77,5 @@ Copyright (c)
          advertising or publicity pertaining to the work without
          specific, written prior permission. Title to copyright in this
          work will at all times remain with copyright holders.</p>
-    </body>
   </license>
 </SPDX>
