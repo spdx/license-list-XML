@@ -1,4 +1,4 @@
-<spdx name="Unicode License Agreement - Data Files and Software (2015)" identifier="Unicode-DFS-2015" osi-approved="false">
+<SPDX name="Unicode License Agreement - Data Files and Software (2015)" identifier="Unicode-DFS-2015" osi-approved="false" listVersionAdded="2.6">
   <urls>
     <url>https://web.archive.org/web/20151224134844/http://unicode.org/copyright.html</url>
   </urls>
@@ -6,7 +6,6 @@
     <title>
       <p>UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE</p>
     </title>
-    <body>
       <p>Unicode Data Files include all data files under the directories
          http://www.unicode.org/Public/,
          http://www.unicode.org/reports/, and
@@ -37,7 +36,6 @@
          distribute, and/or sell copies of the Data Files or Software,
          and to permit persons to whom the Data Files or Software are
          furnished to do so, provided that</p>
-      <list></list>
       <list>
         <li>
           <b>(a)</b>
@@ -73,6 +71,5 @@
          promote the sale, use or other dealings in these Data Files or
          Software without prior written authorization of the copyright
          holder.</p>
-    </body>
   </license>
-</spdx>
+</SPDX>
