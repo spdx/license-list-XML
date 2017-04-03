@@ -1,22 +1,21 @@
-<spdx name="Autoconf exception 3.0" identifier="Autoconf-exception-3.0">
+<SPDX name="Autoconf exception 3.0" identifier="Autoconf-exception-3.0">
   <urls>
     <url>http://www.gnu.org/licenses/autoconf-exception-3.0.html</url>
   </urls>
   <notes>Typically used with GPL 3.0
 
-This exception should be used instead of the deprecated
+This exception should be used with the appropriate license instead of the deprecated
 http://spdx.org/licenses/GPL-3.0-with-autoconf-exception</notes>
   <exception>
     <title>
-      <p>AUTOCONF CONFIGURE SCRIPT EXCEPTION</p>
+      <p>AUTOCONF CONFIGURE SCRIPT EXCEPTION
+        <br/>Version 3.0, 18 August 2009</p>
     </title>
     <copyright>
-      <p>Version 3.0, 18 August 2009
-        <br/>Copyright © 2009 Free Software Foundation, Inc.
+      <p>Copyright Â© 2009 Free Software Foundation, Inc.
              &lt;http://fsf.org/&gt;
       </p>
     </copyright>
-    <body>
       <p>Everyone is permitted to copy and distribute verbatim copies of
          this license document, but changing it is not allowed.</p>
       <p>This Exception is an additional permission under section 7 of the
@@ -58,11 +57,10 @@ http://spdx.org/licenses/GPL-3.0-with-autoconf-exception</notes>
         <li>
           <b>2.</b>
           <p>No Weakening of Autoconf Copyleft.</p>
-        </li>
+          <p>The availability of this Exception does not imply any general
+            presumption that third-party software is unaffected by the
+            copyleft requirements of the license of Autoconf.</p>
+         </li>
       </list>
-      <p>The availability of this Exception does not imply any general
-         presumption that third-party software is unaffected by the
-         copyleft requirements of the license of Autoconf.</p>
-    </body>
   </exception>
-</spdx>
+</SPDX>
