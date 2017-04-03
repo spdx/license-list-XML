@@ -1,12 +1,11 @@
-<spdx name="Classpath exception 2.0" identifier="Classpath-exception-2.0">
+<SPDX name="Classpath exception 2.0" identifier="Classpath-exception-2.0">
   <urls>
     <url>http://www.gnu.org/software/classpath/license.html</url>
     <url>https://fedoraproject.org/wiki/Licensing/GPL_Classpath_Exception</url>
   </urls>
-  <notes>This exception should be used instead of the deprecated
+  <notes>This exception should be used with the appropriate license instead of the deprecated
          http://spdx.org/licenses/GPL-2.0-with-classpath-exception</notes>
   <exception>
-    <body>
       <p>Linking this library statically or dynamically with other modules
          is making a combined work based on this library. Thus, the
          terms and conditions of the GNU General Public License cover
@@ -23,6 +22,5 @@
          extend this exception to your version of the library, but you
          are not obligated to do so. If you do not wish to do so,
          delete this exception statement from your version.</p>
-    </body>
   </exception>
-</spdx>
+</SPDX>
