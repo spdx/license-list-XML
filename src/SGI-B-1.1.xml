@@ -9,13 +9,10 @@
         <br/>(Version 1.1 02/22/2000) 
       </p>
     </title>
-    <body>
       <list>
         <li>
           <b>1.</b>
           <p>Definitions.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>1.1</b>
@@ -55,9 +52,7 @@
           <p>"Modifications" means any addition to or deletion from the substance or structure of the Original
              Code or any previous Modifications. When Covered Code is released as a series of files, a
              Modification is:</p>
-        </li>
-      </list>
-      <list>
+          <list>
         <li>
           <b>A.</b>
           <p>Any addition to the contents of a file containing Original Code and/or addition to or deletion
@@ -67,6 +62,8 @@
           <b>B.</b>
           <p>Any new file that contains any part of the Original Code or previous Modifications.</p>
         </li>
+      </list> 
+       </li>
         <li>
           <b>1.9</b>
           <p>"Notice" means any notice in Original Code or Covered Code, as required by and in compliance with
@@ -100,11 +97,11 @@
           <b>1.14</b>
           <p>"SGI Patents" means patent claims Licensable by SGI other than the Licensed Patents.</p>
         </li>
+       </list>
+       </li>
         <li>
           <b>2.</b>
           <p>License Grant and Restrictions.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>2.1</b>
@@ -138,11 +135,11 @@
              applicable to implementation in Hardware of the algorithms embodied in the Original Code or
              any Modifications provided by SGI .</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>3.</b>
           <p>Redistributions.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>3.1</b>
@@ -176,6 +173,8 @@
           <b>3.3</b>
           <p>Indemnity. Recipient hereby agrees to indemnify SGI for any liability incurred by SGI as a result
              of any such alternative license terms Recipient offers.</p>
+        </li>
+        </list>
         </li>
         <li>
           <b>4.</b>
@@ -282,7 +281,6 @@
              License.</p>
         </li>
       </list>
-    </body>
     <optional>
       <p>Exhibit A</p>
       <p>License Applicability. Except to the extent portions of this file are made subject to an alternative
