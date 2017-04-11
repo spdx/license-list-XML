@@ -1,4 +1,4 @@
-<spdx name="DigiRule FOSS License Exception" identifier="DigiRule-FOSS-exception">
+<SPDX name="DigiRule FOSS License Exception" identifier="DigiRule-FOSS-exception">
   <urls>
     <url>http://www.digirulesolutions.com/drupal/foss</url>
   </urls>
@@ -7,7 +7,6 @@
     <title>
       <p>DigiRule Solutions’s FOSS License Exception Terms and Conditions</p>
     </title>
-    <body>
       <list>
         <li>
           <b>1.</b>
@@ -35,43 +34,43 @@
              distribute a Derivative Work provided that you and the
              Derivative Work meet all of the following
              conditions:</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>1.</b>
-          <p>You obey the GPL in all respects for the Program and all
-             portions (including modifications) of the Program
-             included in the Derivative Work (provided that this
-             condition does not apply to Independent Works);</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>The Derivative Work does not include any work licensed
-             under the GPL other than the Program;</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>You distribute Independent Works subject to a license
-             listed in the section below titled “FOSS License
-             List”;</p>
-        </li>
-        <li>
-          <b>4.</b>
-          <p>You distribute Independent Works in object code or
-             executable form with the complete corresponding
-             machine-readable source code on the same medium and
-             under the same FOSS license applying to the object
-             code or executable forms;</p>
-        </li>
-        <li>
-          <b>5.</b>
-          <p>All works that are aggregated with the Program or the
-             Derivative Work on a medium or volume of storage are
-             not derivative works of the Program, Derivative Work
-             or FOSS Application, and must reasonably be considered
-             independent and separate works.</p>
-        </li>
+          <list>
+            <li>
+              <b>1.</b>
+              <p>You obey the GPL in all respects for the Program and all
+                 portions (including modifications) of the Program
+                 included in the Derivative Work (provided that this
+                 condition does not apply to Independent Works);</p>
+            </li>
+            <li>
+              <b>2.</b>
+              <p>The Derivative Work does not include any work licensed
+                 under the GPL other than the Program;</p>
+            </li>
+            <li>
+              <b>3.</b>
+              <p>You distribute Independent Works subject to a license
+                 listed in the section below titled “FOSS License
+                 List”;</p>
+            </li>
+            <li>
+              <b>4.</b>
+              <p>You distribute Independent Works in object code or
+                 executable form with the complete corresponding
+                 machine-readable source code on the same medium and
+                 under the same FOSS license applying to the object
+                 code or executable forms;</p>
+            </li>
+            <li>
+              <b>5.</b>
+              <p>All works that are aggregated with the Program or the
+                 Derivative Work on a medium or volume of storage are
+                 not derivative works of the Program, Derivative Work
+                 or FOSS Application, and must reasonably be considered
+                 independent and separate works.</p>
+            </li>
+          </list>
+        </li>  
         <li>
           <b>3.</b>
           <p>DigiRule Solutions reserves all rights not expressly
@@ -108,6 +107,5 @@
         <br/>Zlib/libpng License -
         <br/>Zope Public License 2.0
       </p>
-    </body>
   </exception>
-</spdx>
+</SPDX>
