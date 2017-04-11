@@ -1,5 +1,4 @@
-<!-- REVIEW -->
-<spdx name="OSET Public License version 2.1" identifier="OSET-PL-2.1" osi-approved="true">
+<SPDX name="OSET Public License version 2.1" identifier="OSET-PL-2.1" osi-approved="true">
   <urls>
     <url>http://opensource.org/licenses/OPL-2.1</url>
     <url>http://www.osetfoundation.org/public-license/#</url>
@@ -11,7 +10,7 @@
     <copyright>
       <p>(c) 2015 ALL RIGHTS RESERVED VERSION 2.1</p>
     </copyright>
-    <body>
+
       <p>THIS LICENSE DEFINES THE RIGHTS OF USE, REPRODUCTION,
          DISTRIBUTION, MODIFICATION, AND REDISTRIBUTION OF CERTAIN
          COVERED SOFTWARE (AS DEFINED BELOW) ORIGINALLY RELEASED BY THE
@@ -505,6 +504,6 @@
       <p>EXHIBIT B - “Incompatible With Secondary License” Notice</p>
       <p>This Source Code Form is “Incompatible With Secondary Licenses”,
          as defined by the
-    </body>
+
   </license>
-</spdx>
+</SPDX>
