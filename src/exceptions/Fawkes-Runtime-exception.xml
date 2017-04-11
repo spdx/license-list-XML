@@ -1,11 +1,10 @@
-<spdx name="Fawkes Runtime Exception" identifier="Fawkes-Runtime-exception">
+<SPDX name="Fawkes Runtime Exception" identifier="Fawkes-Runtime-exception">
   <urls>
     <url>http://www.fawkesrobotics.org/about/license/</url>
   </urls>
   <notes>Combines the Classpath exception with the Macros and Inline Functions
          exception.</notes>
   <exception>
-    <body>
       <p>Linking this library statically or dynamically with other modules
          is making a combined work based on this library. Thus, the
          terms and conditions of the GNU General Public License cover
@@ -29,6 +28,5 @@
          License. This exception does not however invalidate any other
          reasons why the executable file might be covered by the GNU
          General Public License.</p>
-    </body>
   </exception>
-</spdx>
+</SPDX>
