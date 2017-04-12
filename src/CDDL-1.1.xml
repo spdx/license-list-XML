@@ -10,7 +10,6 @@
         <br/>Version 1.1 
       </p>
     </title>
-    <body>
       <list>
         <li>
           <b>1.</b>
@@ -304,8 +303,8 @@
         </li>
         <li>
           <b>5.</b>
-          <p>DISCLAIMER OF WARRANTY. 
-            <br/>COVERED SOFTWARE IS PROVIDED UNDER THIS LICENSE ON AN &#x201C;AS IS&#x201D; BASIS, WITHOUT
+          <p>DISCLAIMER OF WARRANTY. </p>
+            <p>COVERED SOFTWARE IS PROVIDED UNDER THIS LICENSE ON AN &#x201C;AS IS&#x201D; BASIS, WITHOUT
                  WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION,
                  WARRANTIES THAT THE COVERED SOFTWARE IS FREE OF DEFECTS, MERCHANTABLE, FIT FOR A
                  PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE RISK AS TO THE QUALITY AND
@@ -420,6 +419,5 @@
              the state courts of the State of California, with venue lying in Santa Clara County,
              California. 
       </p>
-    </body>
   </license>
 </SPDX>
