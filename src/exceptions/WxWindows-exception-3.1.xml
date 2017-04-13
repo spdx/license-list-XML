@@ -2,8 +2,7 @@
   <urls>
     <url>http://www.opensource.org/licenses/WXwindows</url>
   </urls>
-  <notes>Used with GPL 2.0 or later. This exception should be used instead of the deprecated
-      http://spdx.org/licenses/WXwindows
+  <notes>Typically used with GPL-2.0+
   </notes>
   <exception>
       <p>EXCEPTION NOTICE</p>
