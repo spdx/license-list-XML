@@ -3,7 +3,7 @@
     <url>http://www.scs.stanford.edu/histar/src/lib/cppsup/exception</url>
     <url>http://dev.bertos.org/doxygen/ https://www.threadingbuildingblocks.org/licensing</url>
   </urls>
-  <notes>Used with GPL 2.0.  Used by older versions of GCC. This is similar to
+  <notes>Typically used with GPL-2.0 for older versions of GCC. This is similar to
          the eCos Exception.</notes>
   <exception>
       <p>As a special exception, you may use this file as part of a free
