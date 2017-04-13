@@ -32,7 +32,8 @@
         <li>
           <b>4.</b>
           <p>The 
-            <alt name="organizationClause4" match=".+">names "Apache Server" and "Apache Group"</alt> must
+            <alt name="nameClause4" match="name | names | name(s)">name</alt>
+            <alt name="organizationClause4" match=".+">"Apache Server" and "Apache Group"</alt> must
             not be used to endorse or promote products derived from this software without prior written
             permission. For written permission, please contact 
             <alt name="contactClause4" match=".+">apache@apache.org</alt>.
