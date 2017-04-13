@@ -2,7 +2,7 @@
   <urls>
     <url>http://www.freertos.org/a00114.html#exception</url>
   </urls>
-  <notes>Used with GPL 2.0, as specified at
+  <notes>Used with GPL-2.0, as specified at
          http://www.freertos.org/license.txt</notes>
   <exception>
     <p>Any FreeRTOS source code, whether modified or in its original
