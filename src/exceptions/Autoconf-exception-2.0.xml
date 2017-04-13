@@ -3,7 +3,7 @@
     <url>http://ac-archive.sourceforge.net/doc/copyright.html</url>
     <url>http://ftp.gnu.org/gnu/autoconf/autoconf-2.59.tar.gz</url>
   </urls>
-  <notes>Typically used with GPL 2.0
+  <notes>Typically used with GPL-2.0
   </notes>
   <exception>
     <body>
