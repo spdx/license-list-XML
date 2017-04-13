@@ -2,7 +2,7 @@
   <urls>
     <url>http://directory.fedoraproject.org/wiki/GPL_Exception_License_Text</url>
   </urls>
-  <notes>Specified to be associated with GPL 2.0.</notes>
+  <notes>Specified to be associated with GPL-2.0</notes>
   <exception>
     <p>This Program is free software; you can redistribute it and/or
        modify it under the terms of the GNU General Public License as
