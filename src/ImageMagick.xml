@@ -7,7 +7,6 @@
       <p>Before we get to the text of the license, lets just review what the license says in simple terms:</p>
       <p>It allows you to:</p>
       <list>
-        <list>
           <li>
             <b>*</b>
             <p>freely download and use ImageMagick software, in whole or in part, for personal, company
@@ -36,8 +35,10 @@
           <li>
             <b>*</b>
             <p>and extend patent protection.</p>
-            <p>It forbids you to:</p>
           </li>
+        </list>  
+            <p>It forbids you to:</p>
+        <list>
           <li>
             <b>*</b>
             <p>redistribute any piece of ImageMagick-originated software without proper attribution;</p>
@@ -51,8 +52,10 @@
             <b>*</b>
             <p>use any marks owned by ImageMagick Studio LLC in any way that might state or imply that you
                created the ImageMagick software in question.</p>
-            <p>It requires you to:</p>
           </li>
+        </list>
+            <p>It requires you to:</p>
+        <list>  
           <li>
             <b>*</b>
             <p>include a copy of the license in any redistribution you may make that includes ImageMagick software;</p>
@@ -61,8 +64,10 @@
             <b>*</b>
             <p>provide clear attribution to ImageMagick Studio LLC for any distributions that include
                ImageMagick software.</p>
-            <p>It does not require you to:</p>
           </li>
+        </list>  
+            <p>It does not require you to:</p>
+        <list>
           <li>
             <b>*</b>
             <p>include the source of the ImageMagick software itself, or of any modifications you may have
@@ -72,8 +77,10 @@
             <b>*</b>
             <p>submit changes that you make to the software back to the ImageMagick Studio LLC (though such
                feedback is encouraged).</p>
-            <p>A few other clarifications include:</p>
           </li>
+        </list>  
+            <p>A few other clarifications include:</p>
+        <list>
           <li>
             <b>*</b>
             <p>ImageMagick is freely available without charge;</p>
@@ -97,16 +104,16 @@
             <p>when exporting the ImageMagick software, review its export classification.</p>
           </li>
         </list>
-      </list>
+    </optional>
       <p>Terms and Conditions for Use, Reproduction, and Distribution</p>
       <p>The legally binding and authoritative terms and conditions for use, reproduction, and distribution of
          ImageMagick follow:</p>
-    </optional>
+
     <copyright>
       <p>Copyright 1999-2013 ImageMagick Studio LLC, a non-profit organization dedicated to making software
          imaging solutions freely available.</p>
     </copyright>
-    <body>
+
       <list>
         <li>
           <b>1.</b>
@@ -174,7 +181,6 @@
           <p>Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof
              in any medium, with or without modifications, and in Source or Object form, provided that You
              meet the following conditions:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -203,13 +209,14 @@
                may add Your own attribution notices within Derivative Works that You distribute,
                alongside or as an addendum to the NOTICE text from the Work, provided that such
                additional attribution notices cannot be construed as modifying the License.</p>
+           </li>
+           </list>
             <p>You may add Your own copyright statement to Your modifications and may provide additional or
                different license terms and conditions for use, reproduction, or distribution of Your
                modifications, or for any such Derivative Works as a whole, provided Your use,
                reproduction, and distribution of the Work otherwise complies with the conditions stated
                in this License.</p>
-          </li>
-        </list>
+        </li>
         <li>
           <b>5.</b>
           <p>Submission of Contributions. Unless You explicitly state otherwise, any Contribution
@@ -257,7 +264,7 @@
              liability.</p>
         </li>
       </list>
-    </body>
+
     <optional>
       <p>How to Apply the License to your Work</p>
       <p>To apply the ImageMagick License to your work, attach the following boilerplate notice, with the fields
