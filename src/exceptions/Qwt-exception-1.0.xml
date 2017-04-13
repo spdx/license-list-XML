@@ -2,7 +2,7 @@
   <urls>
     <url>http://qwt.sourceforge.net/qwtlicense.html</url>
   </urls>
-  <notes>Specified to be associated with LGPL 2.1.  On Fedora List as "Qwt License 1.0".</notes>
+  <notes>Specified to be associated with LGPL-2.1.  On Fedora List as "Qwt License 1.0".</notes>
   <exception>
     <title>
       <p>Qwt License Version 1.0,
