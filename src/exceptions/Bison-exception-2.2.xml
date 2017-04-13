@@ -1,8 +1,6 @@
 <SPDX name="Bison exception 2.2" identifier="Bison-exception-2.2">
   <urls></urls>
-  <notes>Typically used with GPL 2.0 or GPL 3.0
-    <p>This exception should be used instead of the deprecated
-      http://spdx.org/licenses/GPL-2.0-with-bison-exception</p>
+  <notes>Typically used with GPL-2.0 or GPL-3.0
   </notes>
   <exception>
     <title>
