@@ -1,10 +1,8 @@
 <SPDX name="GCC Runtime Library exception 2.0" identifier="GCC-exception-2.0">
-  <urls></urls>
-  <notes>Typically used with GPL 2.0 or later.  Sometimes also referred to a
-         "linking exception."
 
-This exception should be used with the appropriate license instead of the deprecated
-http://spdx.org/licenses/GPL-2.0-with-GCC-exception</notes>
+  <notes>Typically used with GPL 2.0 or later.  Sometimes also referred to a
+         "linking exception."  
+  </notes>
   <exception>
     <body>
       <p>In addition to the permissions in the GNU General Public License,
