@@ -11,7 +11,6 @@
       <p>Licence Libre du Québec – Réciprocité forte (LiLiQ-R+)</p>
       <p>Version 1.1</p>
     </title>
-    <body>
       <list>
         <li>
           <b>1.</b>
@@ -21,7 +20,7 @@
                  qu'il est sujet aux termes de la Licence Libre
                  du Québec – Réciprocité forte (LiLiQ-R+)
                  (ci-après appelée la « licence »).
-          </p>
+        </p>
         </li>
         <li>
           <b>2.</b>
@@ -254,6 +253,6 @@
          services partagés du Québec, et, le cas échéant, ses ayant
          cause, doit être retirée, autre que celle permettant
          d'identifier la provenance de la licence.</p>
-    </body>
+  
   </license>
 </spdx>
