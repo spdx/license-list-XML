@@ -239,8 +239,7 @@
         <li>
           <b>11.</b>
           <p>Divers</p>
-        </li>
-      </list>
+        </li>      
       <p>Dans la mesure où le concédant est un ministère, un organisme
          public ou une personne morale de droit public, créés en vertu
          d'une loi de l'Assemblée nationale du Québec, la licence est
@@ -253,6 +252,6 @@
          services partagés du Québec, et, le cas échéant, ses ayant
          cause, doit être retirée, autre que celle permettant
          d'identifier la provenance de la licence.</p>
-  
+  </list>
   </license>
 </spdx>
