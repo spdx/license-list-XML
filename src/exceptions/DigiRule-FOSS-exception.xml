@@ -2,7 +2,7 @@
   <urls>
     <url>http://www.digirulesolutions.com/drupal/foss</url>
   </urls>
-  <notes>Used with GPL 2.0</notes>
+  <notes>Typically used with GPL-2.0</notes>
   <exception>
     <title>
       <p>DigiRule Solutions’s FOSS License Exception Terms and Conditions</p>
