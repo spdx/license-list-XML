@@ -2,7 +2,7 @@
   <urls>
     <url>http://openvpn.net/index.php/license.html</url>
   </urls>
-  <notes>Used with GPL 2.0</notes>
+  <notes>Typically used with GPL 2.0</notes>
   <exception>
     <title>
       <p>Special exception for linking OpenVPN with OpenSSL:</p>
