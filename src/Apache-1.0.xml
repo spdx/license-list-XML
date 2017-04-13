@@ -6,7 +6,6 @@
     <copyright>
       <p>Copyright (c) 1995-1999 The Apache Group. All rights reserved.</p>
     </copyright>
-    <body>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
       <list>
@@ -70,6 +69,5 @@
          and was originally based on public domain software written at the National Center for Supercomputing
          Applications, University of Illinois, Urbana-Champaign. For more information on the Apache Group and
          the Apache HTTP server project, please see &lt;http://www.apache.org/&gt;.</p>
-    </body>
   </license>
 </SPDX>
