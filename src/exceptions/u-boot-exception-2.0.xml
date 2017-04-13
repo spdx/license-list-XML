@@ -2,7 +2,7 @@
   <urls>
     <url>http://git.denx.de/?p=u-boot.git;a=blob;f=Licenses/Exceptions</url>
   </urls>
-  <notes>Used with GPL 2.0 or later</notes>
+  <notes>Typically used with GPL-2.0+</notes>
   <exception>
     <title>
       <p>The U-Boot License Exception:</p>
