@@ -2,9 +2,7 @@
   <urls>
     <url>http://www.gnu.org/licenses/gcc-exception-3.1.html</url>
   </urls>
-  <notes>Typically used with GPL 3.0
-        This exception should be used instead of the deprecated
-        http://spdx.org/licenses/GPL-3.0-with-GCC-exception
+  <notes>Typically used with GPL-3.0
   </notes>
   <exception>
     <title>
