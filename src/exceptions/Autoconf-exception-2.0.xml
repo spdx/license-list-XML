@@ -4,8 +4,6 @@
     <url>http://ftp.gnu.org/gnu/autoconf/autoconf-2.59.tar.gz</url>
   </urls>
   <notes>Typically used with GPL 2.0
-    This exception should be used instead of the deprecated
-    http://spdx.org/licenses/GPL-2.0-with-autoconf-exception
   </notes>
   <exception>
     <body>
