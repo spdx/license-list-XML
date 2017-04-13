@@ -2,10 +2,7 @@
   <urls>
     <url>http://www.gnu.org/licenses/autoconf-exception-3.0.html</url>
   </urls>
-  <notes>Typically used with GPL 3.0
-
-This exception should be used with the appropriate license instead of the deprecated
-http://spdx.org/licenses/GPL-3.0-with-autoconf-exception</notes>
+  <notes>Typically used with GPL 3.0</notes>
   <exception>
     <title>
       <p>AUTOCONF CONFIGURE SCRIPT EXCEPTION
