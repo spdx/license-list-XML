@@ -2,7 +2,7 @@
   <urls>
     <url>https://www.keepassx.org/dev/projects/keepassx/repository/revisions/b8dfb9cc4d5133e0f09cd7533d15a4f1c19a40f2/entry/LICENSE.NOKIA-LGPL-EXCEPTION</url>
   </urls>
-  <notes>Used by Nokia Qt to apply an exception to LGPL 2.1</notes>
+  <notes>Typically used by Nokia Qt to apply an exception to LGPL-2.1</notes>
   <exception>
     <title>
       <p>Nokia Qt LGPL Exception version 1.1</p>
