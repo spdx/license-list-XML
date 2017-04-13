@@ -1,6 +1,6 @@
 <SPDX name="GCC Runtime Library exception 2.0" identifier="GCC-exception-2.0">
 
-  <notes>Typically used with GPL 2.0 or later.  Sometimes also referred to a
+  <notes>Typically used with GPL-2.0+.  Sometimes also referred to a
          "linking exception."  
   </notes>
   <exception>
