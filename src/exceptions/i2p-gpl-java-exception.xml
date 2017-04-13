@@ -2,7 +2,7 @@
   <urls>
     <url>http://geti2p.net/en/get-involved/develop/licenses#java_exception</url>
   </urls>
-  <notes>Used with GPL 2.0 or later</notes>
+  <notes>Typically used with GPL-2.0+</notes>
   <exception>
       <p>In addition, as a special exception, 
         <alt name="licensor" match=".+">XXXX</alt> gives permission to
