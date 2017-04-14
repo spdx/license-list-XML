@@ -9,156 +9,158 @@
         <br/>(Version 1.0 1/25/2000) 
       </p>
     </title>
-    <body>
       <list>
         <li>
           <b>1.</b>
           <p>Definitions.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>1.1</b>
-          <p>"Additional Notice Provisions" means such additional provisions as appear in the Notice in
-             Original Code under the heading "Additional Notice Provisions."</p>
-        </li>
-        <li>
-          <b>1.2</b>
-          <p>"API" means an application programming interface established by SGI in conjunction with the
-             Original Code.</p>
-        </li>
-        <li>
-          <b>1.3</b>
-          <p>"Covered Code" means the Original Code or Modifications or the combination of the Original Code
-             and Modifications, in each case including portions thereof.</p>
-        </li>
-        <li>
-          <b>1.4</b>
-          <p>"Hardware" means any physical device that accepts input, processes input, stores the results of
-             processing, and/or provides output.</p>
-        </li>
-        <li>
-          <b>1.5</b>
-          <p>"Larger Work" means a work which combines Covered Code or portions thereof with code not governed
-             by the terms of this License.</p>
-        </li>
-        <li>
-          <b>1.6</b>
-          <p>"Licensable" means having the right to grant, to the maximum extent possible, whether at the time
-             of the initial grant or subsequently acquired, any and all of the rights conveyed herein.</p>
-        </li>
-        <li>
-          <b>1.7</b>
-          <p>"License" means this document.</p>
-        </li>
-        <li>
-          <b>1.8</b>
-          <p>"Modifications" means any addition to the substance or structure of the Original Code and/or any
-             addition to or deletion from previous Modifications. When Covered Code is released as a series
-             of files, a Modification is:</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>A.</b>
-          <p>Any addition to the contents of a file containing Original Code and/or any addition to or
-             deletion from previous Modifications.</p>
-        </li>
-        <li>
-          <b>B.</b>
-          <p>Any new file that contains any part of the Original Code or previous Modifications.</p>
-        </li>
-        <li>
-          <b>1.9</b>
-          <p>"Notice" means any notice in Original Code or Covered Code, as required by and in compliance with
-             this License.</p>
-        </li>
-        <li>
-          <b>1.10</b>
-          <p>"Original Code" means source code of computer software code which is described in the source code
-             Notice required by Exhibit A as Original Code, and updates and error corrections specifically
-             thereto.</p>
-        </li>
-        <li>
-          <b>1.11</b>
-          <p>"Recipient" means an individual or a legal entity exercising rights under, and complying with all
-             of the terms of, this License or a future version of this License issued under Section 8. For
-             legal entities, "Recipient" includes any entity which controls, is controlled by, or is under
-             common control with Recipient. For purposes of this definition, "control" of an entity means
-             (a) the power, direct or indirect, to direct or manage such entity, or (b) ownership of fifty
-             percent (50%) or more of the outstanding shares or beneficial ownership of such entity.</p>
-        </li>
-        <li>
-          <b>1.12</b>
-          <p>SGI" means Silicon Graphics, Inc.</p>
+          <list>
+            <li>
+              <b>1.1</b>
+              <p>"Additional Notice Provisions" means such additional provisions as appear in the Notice in
+                 Original Code under the heading "Additional Notice Provisions."</p>
+            </li>
+            <li>
+              <b>1.2</b>
+              <p>"API" means an application programming interface established by SGI in conjunction with the
+                 Original Code.</p>
+            </li>
+            <li>
+              <b>1.3</b>
+              <p>"Covered Code" means the Original Code or Modifications or the combination of the Original Code
+                 and Modifications, in each case including portions thereof.</p>
+            </li>
+            <li>
+              <b>1.4</b>
+              <p>"Hardware" means any physical device that accepts input, processes input, stores the results of
+                 processing, and/or provides output.</p>
+            </li>
+            <li>
+              <b>1.5</b>
+              <p>"Larger Work" means a work which combines Covered Code or portions thereof with code not governed
+                 by the terms of this License.</p>
+            </li>
+            <li>
+              <b>1.6</b>
+              <p>"Licensable" means having the right to grant, to the maximum extent possible, whether at the time
+                 of the initial grant or subsequently acquired, any and all of the rights conveyed herein.</p>
+            </li>
+            <li>
+              <b>1.7</b>
+              <p>"License" means this document.</p>
+            </li>
+            <li>
+              <b>1.8</b>
+              <p>"Modifications" means any addition to the substance or structure of the Original Code and/or any
+                 addition to or deletion from previous Modifications. When Covered Code is released as a series
+                 of files, a Modification is:</p>
+              <list>
+                <li>
+                  <b>A.</b>
+                  <p>Any addition to the contents of a file containing Original Code and/or any addition to or
+                   deletion from previous Modifications.</p>
+                </li>
+                <li>
+                  <b>B.</b>
+                  <p>Any new file that contains any part of the Original Code or previous Modifications.</p>
+                </li>
+              </list>
+            </li>
+            <li>
+              <b>1.9</b>
+              <p>"Notice" means any notice in Original Code or Covered Code, as required by and in compliance with
+                 this License.</p>
+            </li>
+            <li>
+              <b>1.10</b>
+              <p>"Original Code" means source code of computer software code which is described in the source code
+                 Notice required by Exhibit A as Original Code, and updates and error corrections specifically
+                 thereto.</p>
+            </li>
+            <li>
+              <b>1.11</b>
+              <p>"Recipient" means an individual or a legal entity exercising rights under, and complying with all
+                 of the terms of, this License or a future version of this License issued under Section 8. For
+                 legal entities, "Recipient" includes any entity which controls, is controlled by, or is under
+                 common control with Recipient. For purposes of this definition, "control" of an entity means
+                 (a) the power, direct or indirect, to direct or manage such entity, or (b) ownership of fifty
+                 percent (50%) or more of the outstanding shares or beneficial ownership of such entity.</p>
+            </li>
+            <li>
+              <b>1.12</b>
+              <p>SGI" means Silicon Graphics, Inc.</p>
+            </li>
+          </list>
         </li>
         <li>
           <b>2.</b>
           <p>License Grant and Restrictions.</p>
-          <p>2.1v License Grant. Subject to the provisions of this License and any third party intellectual
-             property claims, for the duration of intellectual property protections inherent in the
-             Original Code, SGI hereby grants Recipient a worldwide, royalty-free, non-exclusive license,
-             to do the following: (i) under copyrights Licensable by SGI, to reproduce, distribute, create
-             derivative works from, and, to the extent applicable, display and perform the Original Code
-             alone and/or as part of a Larger Work; and (ii) under any patent claims Licensable by SGI and
-             embodied in the Original Code, to make, have made, use, practice, sell, and offer for sale,
-             and/or otherwise dispose of the Original Code. Recipient accepts the terms and conditions of
-             this License by undertaking any of the aforementioned actions.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>2.2</b>
-          <p>Restriction on Patent License. Notwithstanding the provisions of Section 2.1(ii), no patent
-             license is granted: 1) separate from the Original Code; nor 2) for infringements caused by (i)
-             modification of the Original Code, or (ii) the combination of the Original Code with other
-             software or Hardware.</p>
-        </li>
-        <li>
-          <b>2.3</b>
-          <p>No License For Hardware Implementations. The licenses granted in Section 2.1 are not applicable
-             to implementation in Hardware of the algorithms embodied in the Original Code.</p>
-        </li>
-        <li>
-          <b>2.4</b>
-          <p>Modifications License and API Compliance. Modifications are only licensed under Section 2.1(i) to
-             the extent such Modifications are fully compliant with any API as may be identified in
-             Additional Notice Provisions as appear in the Original Code.</p>
+          <list>
+            <li>
+              <b>2.1</b>
+              <p>License Grant. Subject to the provisions of this License and any third party intellectual
+               property claims, for the duration of intellectual property protections inherent in the
+               Original Code, SGI hereby grants Recipient a worldwide, royalty-free, non-exclusive license,
+               to do the following: (i) under copyrights Licensable by SGI, to reproduce, distribute, create
+               derivative works from, and, to the extent applicable, display and perform the Original Code
+               alone and/or as part of a Larger Work; and (ii) under any patent claims Licensable by SGI and
+               embodied in the Original Code, to make, have made, use, practice, sell, and offer for sale,
+               and/or otherwise dispose of the Original Code. Recipient accepts the terms and conditions of
+               this License by undertaking any of the aforementioned actions.</p>
+            </li>
+            <li>
+              <b>2.2</b>
+              <p>Restriction on Patent License. Notwithstanding the provisions of Section 2.1(ii), no patent
+                 license is granted: 1) separate from the Original Code; nor 2) for infringements caused by (i)
+                 modification of the Original Code, or (ii) the combination of the Original Code with other
+                 software or Hardware.</p>
+            </li>
+            <li>
+              <b>2.3</b>
+              <p>No License For Hardware Implementations. The licenses granted in Section 2.1 are not applicable
+               to implementation in Hardware of the algorithms embodied in the Original Code.</p>
+            </li>
+            <li>
+              <b>2.4</b>
+              <p>Modifications License and API Compliance. Modifications are only licensed under Section 2.1(i) to
+                 the extent such Modifications are fully compliant with any API as may be identified in
+                 Additional Notice Provisions as appear in the Original Code.</p>
+            </li>
+          </list>
         </li>
         <li>
           <b>3.</b>
           <p>Redistributions.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>A.</b>
-          <p>Retention of Notice/Copy of License. The Notice set forth in Exhibit A, below, must be
-             conspicuously retained or included in any and all redistributions of Covered Code. For
-             distributions of the Covered Code in source code form, the Notice must appear in every file
-             that can include a text comments field; in executable form, the Notice and a copy of this
-             License must appear in related documentation or collateral where the Recipient’s rights
-             relating to Covered Code are described. Any Additional Notice Provisions which actually
-             appears in the Original Code must also be retained or included in any and all redistributions
-             of Covered Code.</p>
-        </li>
-        <li>
-          <b>B.</b>
-          <p>Alternative License. Provided that Recipient is in compliance with the terms of this License,
-             Recipient may distribute the source code and/or executable version(s) of Covered Code under
-             (1) this License; (2) a license identical to this License but for only such changes as are
-             necessary in order to clarify Recipient’s role as licensor of Modifications, without
-             derogation of any of SGI’s rights; and/or (3) a license of Recipient’s choosing, containing
-             terms different from this License, provided that the license terms include this Section 3 and
-             Sections 4, 6, 7, 10, 12, and 13, which terms may not be modified or superseded by any other
-             terms of such license. If Recipient elects to use any license other than this License,
-             Recipient must make it absolutely clear that any of its terms which differ from this License
-             are offered by Recipient alone, and not by SGI.</p>
-        </li>
-        <li>
-          <b>C.</b>
-          <p>Indemnity. Recipient hereby agrees to indemnify SGI for any liability incurred by SGI as a result
-             of any such alternative license terms Recipient offers.</p>
+          <list>
+            <li>
+              <b>A.</b>
+              <p>Retention of Notice/Copy of License. The Notice set forth in Exhibit A, below, must be
+                 conspicuously retained or included in any and all redistributions of Covered Code. For
+                 distributions of the Covered Code in source code form, the Notice must appear in every file
+                 that can include a text comments field; in executable form, the Notice and a copy of this
+                 License must appear in related documentation or collateral where the Recipient’s rights
+                 relating to Covered Code are described. Any Additional Notice Provisions which actually
+                 appears in the Original Code must also be retained or included in any and all redistributions
+                 of Covered Code.</p>
+            </li>
+            <li>
+              <b>B.</b>
+              <p>Alternative License. Provided that Recipient is in compliance with the terms of this License,
+                 Recipient may distribute the source code and/or executable version(s) of Covered Code under
+                 (1) this License; (2) a license identical to this License but for only such changes as are
+                 necessary in order to clarify Recipient’s role as licensor of Modifications, without
+                 derogation of any of SGI’s rights; and/or (3) a license of Recipient’s choosing, containing
+                 terms different from this License, provided that the license terms include this Section 3 and
+                 Sections 4, 6, 7, 10, 12, and 13, which terms may not be modified or superseded by any other
+                 terms of such license. If Recipient elects to use any license other than this License,
+                 Recipient must make it absolutely clear that any of its terms which differ from this License
+                 are offered by Recipient alone, and not by SGI.</p>
+            </li>
+            <li>
+              <b>C.</b>
+              <p>Indemnity. Recipient hereby agrees to indemnify SGI for any liability incurred by SGI as a result
+                 of any such alternative license terms Recipient offers.</p>
+            </li>
+          </list>
         </li>
         <li>
           <b>4.</b>
@@ -166,8 +168,15 @@
              Recipient breaches any term herein and fails to cure such breach within 30 days thereof. Any
              sublicense to the Covered Code that is properly granted shall survive any termination of this
              License, absent termination by the terms of such sublicense. Provisions that, by their nature,
-             must remain in effect beyond the termination of this License, shall survive.</p>
+             must remain in effect beyond the termination of this License, shall survive.</p>  
         </li>
+        
+        
+        
+        
+        
+        
+        
         <li>
           <b>5.</b>
           <p>No Trademark Or Other Rights. This License does not grant any rights to: (i) any software apart
@@ -266,7 +275,6 @@
              License.</p>
         </li>
       </list>
-    </body>
     <optional>
       <p>Exhibit A</p>
       <p>License Applicability. Except to the extent portions of this file are made subject to an alternative
@@ -279,12 +287,19 @@
          AND IMPLIED WARRANTIES AND CONDITIONS DISCLAIMED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED
          WARRANTIES AND CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE,
          AND NON-INFRINGEMENT.</p>
-      <p>Original Code. The Original Code is: [name of software, version number, and release date], developed by
-         Silicon Graphics, Inc. The Original Code is Copyright (c) [dates of first publication, as appearing in
-         the Notice in the Original Code] Silicon Graphics, Inc. Copyright in any portions created by third
-         parties is as indicated elsewhere herein. All Rights Reserved.</p>
-      <p>Additional Notice Provisions: [such additional provisions, if any, as appear in the Notice in the
-         Original Code under the heading "Additional Notice Provisions"]</p>
+      <p>Original Code. The Original Code is: <optional>[</optional>
+      <alt name="softwareNameExhibitA" match=".+">name of software</alt>,
+      <alt name="softwareVersionExhibitA" match=".+">version number</alt>, and 
+      <alt name="softwareReleaseDateExhibitA" match=".+">release date</alt>
+      <optional>]</optional>, developed by Silicon Graphics, Inc. The Original Code is Copyright (c) 
+      <optional>[</optional>
+      <alt name="softwareFirstPublicationDateExhibitA" match=".+">dates of first publication, as appearing in
+        the Notice in the Original Code</alt><optional>]</optional> Silicon Graphics, Inc. Copyright in any 
+        portions created by third parties is as indicated elsewhere herein. All Rights Reserved.</p>
+      <p>Additional Notice Provisions: <optional>[</optional>
+        <alt name="additionalProvisionsExhibitA" match=".+">such additional provisions, if any, as appear in 
+          the Notice in the Original Code under the heading "Additional Notice Provisions"</alt><optional>]</optional>
+      </p>
     </optional>
   </license>
 </SPDX>
