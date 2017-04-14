@@ -6,7 +6,6 @@
     <copyright>
       <p>Copyright (c) 1995-1999 The Apache Group. All rights reserved.</p>
     </copyright>
-    <body>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
       <list>
@@ -25,17 +24,18 @@
           <b>3.</b>
           <p>All advertising materials mentioning features or use of this software must display the following
              acknowledgment: "This product includes software developed by the 
-            <alt name="organization" match=".+">Apache Group for use in the Apache HTTP server project
+            <alt name="organizationClause3" match=".+">Apache Group for use in the Apache HTTP server project
             (http://www.apache.org/)</alt>." 
           </p>
         </li>
         <li>
           <b>4.</b>
           <p>The 
-            <alt name="organizationClause4" match=".+">"Apache" and "Apache Software Foundation"</alt> must
+            <alt name="nameClause4" match="name|names|name(s)">name</alt>
+            <alt name="organizationClause4" match=".+">"Apache Server" and "Apache Group"</alt> must
             not be used to endorse or promote products derived from this software without prior written
             permission. For written permission, please contact 
-            <alt name="contactClause4" match=".+">apache@apache.org</alt>
+            <alt name="contactClause4" match=".+">apache@apache.org</alt>.
           </p>
         </li>
         <li>
@@ -69,6 +69,5 @@
          and was originally based on public domain software written at the National Center for Supercomputing
          Applications, University of Illinois, Urbana-Champaign. For more information on the Apache Group and
          the Apache HTTP server project, please see &lt;http://www.apache.org/&gt;.</p>
-    </body>
   </license>
 </SPDX>
