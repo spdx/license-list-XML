@@ -6,12 +6,9 @@
     <title>
       <p>CNRI OPEN SOURCE GPL-COMPATIBLE LICENSE AGREEMENT</p>
     </title>
-    <optional>
       <p>IMPORTANT: PLEASE READ THE FOLLOWING AGREEMENT CAREFULLY.</p>
       <p>BY CLICKING ON "ACCEPT" WHERE INDICATED BELOW, OR BY COPYING, INSTALLING OR OTHERWISE USING PYTHON 1.6.1
          SOFTWARE, YOU ARE DEEMED TO HAVE AGREED TO THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT.</p>
-    </optional>
-    <body>
       <list>
         <li>
           <b>1.</b>
@@ -82,7 +79,6 @@
              Agreement.</p>
         </li>
       </list>
-    </body>
     <optional>
       <p>ACCEPT</p>
     </optional>
