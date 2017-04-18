@@ -109,7 +109,7 @@
                  modifié ou dérivé donné.
           </p>
         </li>
-        <li>
+        <li><list><li>
           <b>4.1.</b>
           <p>Réciprocité
             <br/>Chaque fois que le licencié distribue le logiciel,
@@ -157,7 +157,7 @@
             <br/>5 GNU General Public License Version 2 (GNU GPLv2)
             <br/>6 GNU General Public License Version 3 (GNU GPLv3)
           </p>
-        </li>
+       </li></list></li>
         <li>
           <b>5.</b>
           <p>Contributions
@@ -238,20 +238,20 @@
         </li>
         <li>
           <b>11.</b>
-          <p>Divers</p>
-        </li>      
-      <p>Dans la mesure où le concédant est un ministère, un organisme
+          <p>Divers
+            <br/>Dans la mesure où le concédant est un ministère, un organisme
          public ou une personne morale de droit public, créés en vertu
          d'une loi de l'Assemblée nationale du Québec, la licence est
          régie par le droit applicable au Québec et en cas de
          contestation, les tribunaux du Québec seront seuls
-         compétents.</p>
+         compétents.
+         </p>
       <p>La présente licence peut être distribuée sans conditions
          particulières. Toutefois, une version modifiée doit être
          distribuée sous un nom différent. Toute référence au Centre de
          services partagés du Québec, et, le cas échéant, ses ayant
          cause, doit être retirée, autre que celle permettant
          d'identifier la provenance de la licence.</p>
-  </list>
+  </li></list>
   </license>
 </spdx>
