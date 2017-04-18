@@ -2,6 +2,16 @@
   <urls>
     <url>http://www.imagemagick.org/script/license.php</url>
   </urls>
+  <notes>
+       <p><alt name="copyright" match=".+">Copyright [yyyy] [name of copyright owner]</alt></p>
+      <p>Licensed under the ImageMagick License (the "License"); you may not use this file except in compliance
+         with the License. You may obtain a copy of the License at</p>
+      <p>http://www.imagemagick.org/script/license.php</p>
+      <p>Unless required by applicable law or agreed to in writing, software distributed under the License is
+         distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+         implied. See the License for the specific language governing permissions and limitations under the
+         License.</p>
+  </notes>
   <license>
     <optional>
       <p>Before we get to the text of the license, lets just review what the license says in simple terms:</p>
@@ -9,61 +19,61 @@
       <list>
           <li>
             <b>*</b>
-            <p>freely download and use ImageMagick software, in whole or in part, for personal, company
-               internal, or commercial purposes;</p>
+            freely download and use ImageMagick software, in whole or in part, for personal, company
+            internal, or commercial purposes;
           </li>
           <li>
             <b>*</b>
-            <p>use ImageMagick software in packages or distributions that you create;</p>
+            use ImageMagick software in packages or distributions that you create;
           </li>
           <li>
             <b>*</b>
-            <p>link against a library under a different license;</p>
+            link against a library under a different license;
           </li>
           <li>
             <b>*</b>
-            <p>link code under a different license against a library under this license;</p>
+            link code under a different license against a library under this license;
           </li>
           <li>
             <b>*</b>
-            <p>merge code into a work under a different license;</p>
+            merge code into a work under a different license;
           </li>
           <li>
             <b>*</b>
-            <p>extend patent grants to any code using code under this license;</p>
+            extend patent grants to any code using code under this license;
           </li>
           <li>
             <b>*</b>
-            <p>and extend patent protection.</p>
+            and extend patent protection.
           </li>
         </list>  
             <p>It forbids you to:</p>
         <list>
           <li>
             <b>*</b>
-            <p>redistribute any piece of ImageMagick-originated software without proper attribution;</p>
+            redistribute any piece of ImageMagick-originated software without proper attribution;
           </li>
           <li>
             <b>*</b>
-            <p>use any marks owned by ImageMagick Studio LLC in any way that might state or imply that
-               ImageMagick Studio LLC endorses your distribution;</p>
+            use any marks owned by ImageMagick Studio LLC in any way that might state or imply that
+               ImageMagick Studio LLC endorses your distribution;
           </li>
           <li>
             <b>*</b>
-            <p>use any marks owned by ImageMagick Studio LLC in any way that might state or imply that you
-               created the ImageMagick software in question.</p>
+            use any marks owned by ImageMagick Studio LLC in any way that might state or imply that you
+               created the ImageMagick software in question.
           </li>
         </list>
             <p>It requires you to:</p>
         <list>  
           <li>
             <b>*</b>
-            <p>include a copy of the license in any redistribution you may make that includes ImageMagick software;</p>
+            include a copy of the license in any redistribution you may make that includes ImageMagick software;
           </li>
           <li>
             <b>*</b>
-            <p>provide clear attribution to ImageMagick Studio LLC for any distributions that include
-               ImageMagick software.</p>
+            provide clear attribution to ImageMagick Studio LLC for any distributions that include
+               ImageMagick software.
           </li>
         </list>  
             <p>It does not require you to:</p>
