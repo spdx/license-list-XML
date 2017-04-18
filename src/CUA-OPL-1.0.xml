@@ -1,35 +1,34 @@
-<spdx name="CUA Office Public License v1.0" identifier="CUA-OPL-1.0" osi-approved="true">
+<SPDX name="CUA Office Public License v1.0" identifier="CUA-OPL-1.0" osi-approved="true">
   <urls>
     <url>http://opensource.org/licenses/CUA-OPL-1.0</url>
   </urls>
-  <header> The contents of this file are subject to the CUA Office Public License Version 1.0 (the
+  <header> 
+        <p>The contents of this file are subject to the CUA Office Public License Version 1.0 (the
           &quot;License&quot;); you may not use this file except in compliance with the License. You may
           obtain a copy of the License at http://cuaoffice.sourceforge.net/ Software distributed under the
           License is distributed on an &quot;AS IS&quot; basis, WITHOUT WARRANTY OF ANY KIND, either express
           or implied. See the License for the specific language governing rights and limitations under the
-          License. The Original Code is 
-    <alt name="code" match=".+">_____</alt>. The Initial Developer of the Original Code is 
-    <alt name="developer" match=".+">_____</alt>. Portions created by 
-    <alt name="createdby" match=".+">_____</alt> are Copyright (C) 
-    <alt name="copyright" match=".+">_____</alt>. All Rights Reserved. Contributor(s): 
-    <alt name="contributor" match=".+">_____</alt>. Alternatively, the contents of this file may be used under the
-    terms of the 
-    <alt name="AltLicense" match=".+">_____</alt> license (the &quot; 
-    <alt name="licenseName" match=".+">[____]</alt> License&quot;), in which case the provisions of 
-    <alt name="licenseName" match=".+">[____]</alt> License are applicable instead of those above. If you wish to
-    allow use of your version of this file only under the terms of the 
-    <alt name="licenseName" match=".+">[____]</alt> License and not to allow others to use your version of this file
-    under the CUAPL, indicate your decision by deleting the provisions above and replace them with the notice and
-    other provisions required by the 
-    <alt name="licenseName" match=".+">[____]</alt> License. If you do not delete the provisions above, a recipient
-    may use your version of this file under either the CUAPL or the 
-    <alt name="licenseName" match=".+">[____]</alt> License.&quot; 
+          License. </p>
+          <p>The Original Code is <alt name="code" match=".+">_____</alt>.</p> 
+          <p>The Initial Developer of the Original Code is <alt name="developer" match=".+">_____</alt>. </p>
+          <p>Portions created by <alt name="createdby" match=".+">_____</alt> are Copyright (C) 
+          <alt name="copyright" match=".+">_____</alt>. All Rights Reserved. </p>
+          <p>Contributor(s): <alt name="contributor" match=".+">_____</alt>. </p>
+            
+        <p>Alternatively, the contents of this file may be used under the terms of the 
+        <alt name="AltLicense" match=".+">_____</alt> license (the "<alt name="licenseName" match=".+">[____]</alt> License"), 
+        in which case the provisions of <alt name="licenseName" match=".+">[____]</alt> License are applicable 
+        instead of those above. If you wish to allow use of your version of this file only under the terms of 
+        the <alt name="licenseName" match=".+">[____]</alt> License and not to allow others to use your version 
+        of this file under the CUAPL, indicate your decision by deleting the provisions above and replace 
+        them with the notice and other provisions required by the <alt name="licenseName" match=".+">[____]</alt> 
+        License. If you do not delete the provisions above, a recipient may use your version of this file 
+        under either the CUAPL or the <alt name="licenseName" match=".+">[____]</alt> License. </p>
   </header>
   <license>
     <title>
       <p>CUA Office Public License Version 1.0</p>
     </title>
-    <body>
       <list>
         <li>
           <b>1.</b>
@@ -497,7 +496,7 @@
          &quot;Multiple-Licensed&quot; means that the Initial Developer permits you to utilize portions of the
          Covered Code under Your choice of the NPL or the alternative licenses, if any, specified by the
          Initial Developer in the file described in Exhibit A.</p>
-    </body>
+
     <optional>
       <p>EXHIBIT A - CUA Office Public License.</p>
       <p>&quot;The contents of this file are subject to the CUA Office Public License Version 1.0 (the
