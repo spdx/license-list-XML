@@ -1,4 +1,4 @@
-<spdx name="Licence Libre du Québec – Réciprocité forte version 1.1" identifier="LiLiQ-Rplus-1.1" osi-approved="true">
+<SPDX name="Licence Libre du Québec – Réciprocité forte version 1.1" identifier="LiLiQ-Rplus-1.1" osi-approved="true">
   <urls>
     <url>http://opensource.org/licenses/LiLiQ-Rplus-1.1</url>
     <url>https://www.forge.gouv.qc.ca/participez/licence-logicielle/licence-libre-du-quebec-liliq-en-francais/licence-libre-du-quebec-reciprocite-forte-liliq-r-v1-1/</url>
@@ -257,4 +257,4 @@
          d'identifier la provenance de la licence.</p>
   </li></list></li></list>
   </license>
-</spdx>
+</SPDX>
