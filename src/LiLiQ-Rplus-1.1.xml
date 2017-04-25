@@ -70,11 +70,14 @@
                  d’exercer les droits suivants sur le
                  logiciel :
           </p>
+          
+          <li><list><li>
           <p>1 Produire ou reproduire la totalité ou une partie importante;
             <br/>2 Exécuter ou représenter la totalité ou une partie
                  importante en public;
             <br/>3 Publier la totalité ou une partie importante.
           </p>
+         </li></list></li>
           <p>Cette licence est accordée sans limite territoriale et
              sans limite de temps.</p>
           <p>L'exercice complet de ces droits est sujet à la
@@ -93,7 +96,7 @@
             <br/>Le licencié peut distribuer des copies du logiciel,
                  d'un logiciel modifié ou dérivé, sous réserve
                  de respecter les conditions suivantes :
-          </p>
+          </p><li><list><li>
           <p>1 Le logiciel doit être accompagné d'un exemplaire de
              cette licence;
             <br/>2 Si le logiciel a été modifié, le licencié doit en
@@ -107,7 +110,7 @@
                  supprimées, à moins que ces étiquettes ou
                  mentions ne soient inapplicables à un logiciel
                  modifié ou dérivé donné.
-          </p>
+          </p></li></list></li>
         </li>
         <li><list><li>
           <b>4.1.</b>
@@ -149,6 +152,7 @@
              Foundation ou l'Open Source Initiative, dont le niveau
              de réciprocité est comparable à celui de la présente
              licence, sans toutefois être moindre, notamment :</p>
+          <li><list><li>
           <p>1 Common Public License Version 1.0 (CPL-1.0)
             <br/>2 Contrat de licence de logiciel libre CeCILL,
                  version 2.1 (CECILL-2.1)
@@ -156,8 +160,7 @@
             <br/>4 European Union Public License, version 1.1 (EUPL v. 1.1)
             <br/>5 GNU General Public License Version 2 (GNU GPLv2)
             <br/>6 GNU General Public License Version 3 (GNU GPLv3)
-          </p>
-       </li></list></li>
+          </p></li></list></li></li>
         <li>
           <b>5.</b>
           <p>Contributions
@@ -252,6 +255,6 @@
          services partagés du Québec, et, le cas échéant, ses ayant
          cause, doit être retirée, autre que celle permettant
          d'identifier la provenance de la licence.</p>
-  </li></list>
+  </li></list></li></list>
   </license>
 </spdx>
