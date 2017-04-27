@@ -26,11 +26,10 @@
         <li>
           <b>1.</b>
           <p>DEFINITIONS.</p>
-        </li>
+        <list>
         <li>
           <b>1.1.</b>
           <p>"CONTRIBUTION" means:</p>
-        </li>
         <list>
           <li>
             <b>(a)</b>
@@ -43,6 +42,7 @@
                distributed by such Subsequent Contributor.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>1.2.</b>
           <p>"DESIGNATED WEB SITE" means the web site having the URL identified in Part 1 of Exhibit A, which
@@ -130,7 +130,6 @@
         <li>
           <b>1.18.</b>
           <p>"SUBSEQUENT WORK" means a work that has resulted or arises from changes to and/or additions to:</p>
-        </li>
         <list>
           <li>
             <b>(a)</b>
@@ -153,6 +152,7 @@
             </p>
           </li>
         </list>
+        </li>
         <li>
           <b>1.19.</b>
           <p>"SUPPLEMENT FILE" means a file distributed with the Licensed Work having a file name "suppfile.txt".</p>
@@ -161,20 +161,19 @@
           <b>1.20.</b>
           <p>"THIRD PARTY" has the meaning assigned in Part 4 of Exhibit A.</p>
         </li>
+        </list>
         <li>
           <b>2.</b>
           <p>LICENSE.</p>
-        </li>
+        <list>
         <li>
           <b>2.1.</b>
           <p>COPYRIGHT LICENSE FROM INITIAL AND SUBSEQUENT CONTRIBUTORS.</p>
-        </li>
         <list>
           <li>
             <b>(a)</b>
             <p>Subject to the terms of this License, the Initial Contributor hereby grants each Recipient a
                world-wide, royalty-free, non-exclusive copyright license to:</p>
-          </li>
           <list>
             <li>
               <b>(i)</b>
@@ -190,11 +189,11 @@
               </p>
             </li>
           </list>
+          </li>
           <li>
             <b>(b)</b>
             <p>Subject to the terms of this License, each Subsequent Contributor hereby grants each
                Recipient a world-wide, royalty-free, non-exclusive copyright license to:</p>
-          </li>
           <list>
             <li>
               <b>(i)</b>
@@ -210,6 +209,7 @@
               </p>
             </li>
           </list>
+          </li>
         </list>
         <li>
           <b>2.2.</b>
