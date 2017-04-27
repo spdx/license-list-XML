@@ -3,6 +3,9 @@
     <url>http://opensource.linux-mirror.org/licenses/afl-2.0.txt</url>
   </urls>
   <license>
+    <header>
+      <p>Licensed under the Academic Free License version 2.0</p>
+    </header>
     <title>
       <p>The Academic Free License 
         <br/>v. 2.0 
