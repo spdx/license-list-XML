@@ -33,33 +33,51 @@
         <li>
           <b>1.</b>
           <p>Definitions.</p>
-          <p>&quot;License&quot; shall mean the terms and conditions for use, reproduction, and distribution
+          <list>
+            <li>
+              <p>&quot;License&quot; shall mean the terms and conditions for use, reproduction, and distribution
              as defined by Sections 1 through 9 of this document.</p>
-          <p>&quot;Licensor&quot; shall mean the copyright owner or entity authorized by the copyright owner
+            </li>
+            <li>
+              <p>&quot;Licensor&quot; shall mean the copyright owner or entity authorized by the copyright owner
              that is granting the License.</p>
-          <p>&quot;Legal Entity&quot; shall mean the union of the acting entity and all other entities that
+            </li>
+            <li>
+              <p>&quot;Legal Entity&quot; shall mean the union of the acting entity and all other entities that
              control, are controlled by, or are under common control with that entity. For the purposes of
              this definition, &quot;control&quot; means (i) the power, direct or indirect, to cause the
              direction or management of such entity, whether by contract or otherwise, or (ii) ownership of
              fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such
              entity.</p>
-          <p>&quot;You&quot; (or &quot;Your&quot;) shall mean an individual or Legal Entity exercising
+            </li>
+            <li>
+              <p>&quot;You&quot; (or &quot;Your&quot;) shall mean an individual or Legal Entity exercising
              permissions granted by this License.</p>
-          <p>&quot;Source&quot; form shall mean the preferred form for making modifications, including but not
+            </li>
+            <li>
+              <p>&quot;Source&quot; form shall mean the preferred form for making modifications, including but not
              limited to software source code, documentation source, and configuration files.</p>
-          <p>&quot;Object&quot; form shall mean any form resulting from mechanical transformation or
+            </li>
+            <li>
+              <p>&quot;Object&quot; form shall mean any form resulting from mechanical transformation or
              translation of a Source form, including but not limited to compiled object code, generated
              documentation, and conversions to other media types.</p>
-          <p>&quot;Work&quot; shall mean the work of authorship, whether in Source or Object form, made
+            </li>
+            <li>
+              <p>&quot;Work&quot; shall mean the work of authorship, whether in Source or Object form, made
              available under the License, as indicated by a copyright notice that is included in or
              attached to the work (an example is provided in the Appendix below).</p>
-          <p>&quot;Derivative Works&quot; shall mean any work, whether in Source or Object form, that is based
+            </li>
+            <li>
+              <p>&quot;Derivative Works&quot; shall mean any work, whether in Source or Object form, that is based
              on (or derived from) the Work and for which the editorial revisions, annotations,
              elaborations, or other modifications represent, as a whole, an original work of authorship.
              For the purposes of this License, Derivative Works shall not include works that remain
              separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative
              Works thereof.</p>
-          <p>&quot;Contribution&quot; shall mean any work of authorship, including the original version of the
+            </li>
+            <li>
+              <p>&quot;Contribution&quot; shall mean any work of authorship, including the original version of the
              Work and any modifications or additions to that Work or Derivative Works thereof, that is
              intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an
              individual or Legal Entity authorized to submit on behalf of the copyright owner. For the
@@ -69,9 +87,13 @@
              systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and
              improving the Work, but excluding communication that is conspicuously marked or otherwise
              designated in writing by the copyright owner as &quot;Not a Contribution.&quot;</p>
-          <p>&quot;Contributor&quot; shall mean Licensor and any individual or Legal Entity on behalf of whom
+            </li>
+            <li>
+              <p>&quot;Contributor&quot; shall mean Licensor and any individual or Legal Entity on behalf of whom
              a Contribution has been received by Licensor and subsequently incorporated within the
              Work.</p>
+            </li>
+          </list>
         </li>
         <li>
           <b>2.</b>
