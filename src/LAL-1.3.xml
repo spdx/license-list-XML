@@ -42,11 +42,28 @@
     <p>Nous désignons par « œuvre », autant l’œuvre initiale, les œuvres
        conséquentes, que l’œuvre commune telles que définies ci-après
        :</p>
-    <p>L’œuvre commune :
-    <p>L’œuvre initiale :
-    <p>Les œuvres conséquentes :
-    <p>Originaux (sources ou ressources de l’œuvre) :
-    <p>Copie : Toute reproduction d’un original au sens de cette licence.</p>
+    <p>L’œuvre commune : Il s’agit d’une œuvre qui comprend l’œuvre initiale 
+    ainsi que toutes les contributions postérieures (les originaux conséquents 
+    et les copies). Elle est créée à l’initiative de l’auteur initial qui par 
+    cette licence définit les conditions selon lesquelles les contributions 
+    sont faites.
+    </p>
+    
+    <p>L’œuvre initiale : C’est-à-dire l’œuvre créée par l’initiateur 
+    de l’œuvre commune dont les copies vont être modifiées par qui le souhaite.
+    </p>
+    <p>Les œuvres conséquentes : C’est-à-dire les contributions 
+    des auteurs qui participent à la formation de l’œuvre commune en 
+    faisant usage des droits de reproduction, de diffusion et de 
+    modification que leur confère la licence.
+    </p>
+    <p>Originaux (sources ou ressources de l’œuvre) : Chaque exemplaire 
+    daté de l’œuvre initiale ou conséquente que leurs auteurs présentent comme 
+    référence pour toutes actualisations, interprétations, 
+    copies ou reproductions ultérieures.</p>
+    
+    <p>Copie : Toute reproduction d’un original au sens de cette licence.
+    </p>
     <list>
       <li>
         <b>1-</b>
@@ -83,9 +100,8 @@
                  les conditions suivantes :
           </p>
         </li>
-      </list>
-      <list>
-        <li>
+      
+        <li><list><li>
           <b>1.</b>
           <p>joindre aux copies cette licence à l’identique ou
              indiquer précisément où se trouve la licence ;</p>
@@ -103,7 +119,7 @@
           <p>Les auteurs des originaux pourront, s’ils le souhaitent,
              vous autoriser à diffuser l’original dans les mêmes
              conditions que les copies.</p>
-        </li>
+        </li></list></li>
         <li>
           <b>2.3</b>
           <p>LA LIBERTÉ DE MODIFIER.
@@ -112,9 +128,7 @@
                  respect des conditions suivantes :
           </p>
         </li>
-      </list>
-      <list>
-        <li>
+        <li><list><li>
           <b>1.</b>
           <p>celles prévues à l’article 2.2 en cas de diffusion de la
              copie modifiée ;</p>
@@ -134,7 +148,7 @@
           <p>Les auteurs des originaux pourront, s’ils le souhaitent,
              vous autoriser à modifier l’original dans les mêmes
              conditions que les copies.</p>
-        </li>
+        </li></list></li>
         <li>
           <b>3.</b>
           <p>DROITS CONNEXES.
@@ -162,9 +176,7 @@
             <br/>Une licence est compatible avec la LAL si et seulement si :
           </p>
         </li>
-      </list>
-      <list>
-        <li>
+     <li><list><li>
           <b>1.</b>
           <p>elle accorde l’autorisation de copier, diffuser et
              modifier des copies de l’œuvre, y compris à des fins
@@ -188,7 +200,7 @@
              soient soumises à la même licence ou encore à une
              licence répondant aux critères de compatibilité posés
              par la LAL.</p>
-        </li>
+        </li></list></li>
         <li>
           <b>6.</b>
           <p>VOS DROITS INTELLECTUELS.
@@ -253,10 +265,10 @@
         </li>
         <li>
           <b>11.</b>
-          <p>LE CONTEXTE JURIDIQUE.</p>
-        </li>
-      </list>
-      <p>Cette licence est rédigée en référence au droit français et à la
-         Convention de Berne relative au droit d’auteur.</p>
-      </license>
+          <p>LE CONTEXTE JURIDIQUE.
+            <br/>Cette licence est rédigée en référence au droit français et à la
+                Convention de Berne relative au droit d’auteur.
+         </p>
+      </li></list>
+    </license>
 </SPDX>
