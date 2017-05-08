@@ -1,4 +1,4 @@
-<spdx name="Licence Libre du Québec – Réciprocité version 1.1" identifier="LiLiQ-R-1.1" osi-approved="true">
+<SPDX name="Licence Libre du Québec – Réciprocité version 1.1" identifier="LiLiQ-R-1.1" osi-approved="true">
   <urls>
     <url>http://opensource.org/licenses/LiLiQ-R-1.1</url>
     <url>https://www.forge.gouv.qc.ca/participez/licence-logicielle/licence-libre-du-quebec-liliq-en-francais/licence-libre-du-quebec-reciprocite-liliq-r-v1-1/</url>
@@ -11,7 +11,6 @@
       <p>Licence Libre du Québec – Réciprocité (LiLiQ-R)</p>
       <p>Version 1.1</p>
     </title>
-    <body>
       <list>
         <li>
           <b>1.</b>
@@ -70,13 +69,13 @@
                  et libre de redevances lui permettant
                  d’exercer les droits suivants sur le
                  logiciel :
-          </p>
-          <p>1 Produire ou reproduire la totalité ou une partie importante;
-            <br/>2 Exécuter ou représenter la totalité ou une partie
-                 importante en public;
-            <br/>3 Publier la totalité ou une partie importante.
-          </p>
-          <p>Cette licence est accordée sans limite territoriale et
+          </p><li><list><li>
+          1 Produire ou reproduire la totalité ou une partie importante;</li>
+            <li>2 Exécuter ou représenter la totalité ou une partie
+                 importante en public;</li>
+            <li>3 Publier la totalité ou une partie importante.
+          </li></list></li>
+          <br/><p>Cette licence est accordée sans limite territoriale et
              sans limite de temps.</p>
           <p>L'exercice complet de ces droits est sujet à la
              distribution par le concédant du code source du
@@ -95,21 +94,21 @@
                  d'un logiciel modifié ou dérivé, sous réserve
                  de respecter les conditions suivantes :
           </p>
-          <p>1 Le logiciel doit être accompagné d'un exemplaire de
-             cette licence;
-            <br/>2 Si le logiciel a été modifié, le licencié doit en
+          <li><list>
+            <li>1 Le logiciel doit être accompagné d'un exemplaire de
+             cette licence;</li>
+            <li>2 Si le logiciel a été modifié, le licencié doit en
                  faire la mention, de préférence dans chacun
                  des fichiers modifiés dont la nature permet
-                 une telle mention;
-            <br/>3 Les étiquettes ou mentions faisant état des
+                 une telle mention;</li>
+            <li>3 Les étiquettes ou mentions faisant état des
                  droits d'auteur, des marques de commerce, des
                  garanties ou de la paternité concernant le
                  logiciel ne doivent pas être modifiées ou
                  supprimées, à moins que ces étiquettes ou
                  mentions ne soient inapplicables à un logiciel
-                 modifié ou dérivé donné.
-          </p>
-        </li>
+                 modifié ou dérivé donné.</li>
+                 </list></li>
         <li>
           <b>4.1.</b>
           <p>Réciprocité
@@ -150,22 +149,27 @@
              de réciprocité est comparable ou supérieur à celui de
              la présente licence, sans toutefois être moindre,
              notamment :</p>
-          <p>1 Common Development and Distribution License (CDDL-1.0)
-            <br/>2 Common Public License Version 1.0 (CPL-1.0)
-            <br/>3 Contrat de licence de logiciel libre CeCILL,
-                 version 2.1 (CECILL-2.1)
-            <br/>4 Contrat de licence de logiciel libre CeCILL-C (CECILL-C)
-            <br/>5 Eclipse Public License - v 1.0 (EPL-1.0)
-            <br/>6 European Union Public License, version 1.1 (EUPL v. 1.1)
-            <br/>7 Licence Libre du Québec – Réciprocité forte
-                 version 1.1 (LiLiQ-R+ 1.1)
-            <br/>8 GNU General Public License Version 2 (GNU GPLv2)
-            <br/>9 GNU General Public License Version 3 (GNU GPLv3)
-            <br/>10 GNU Lesser General Public License Version 2.1 (GNU LGPLv2.1)
-            <br/>11 GNU Lesser General Public License Version 3 (GNU LGPLv3)
-            <br/>12 Mozilla Public License Version 2.0 (MPL-2.0)
-          </p>
         </li>
+             <li><list>
+          <li>1 Common Development and Distribution License (CDDL-1.0)</li>
+            <li>2 Common Public License Version 1.0 (CPL-1.0)</li>
+            <li>3 Contrat de licence de logiciel libre CeCILL,
+                 version 2.1 (CECILL-2.1)</li>
+            <li>4 Contrat de licence de logiciel libre CeCILL-C (CECILL-C)
+            </li>
+            <li>5 Eclipse Public License - v 1.0 (EPL-1.0)</li>
+            <li>6 European Union Public License, version 1.1 (EUPL v. 1.1)
+            </li>
+            <li>7 Licence Libre du Québec – Réciprocité forte
+                 version 1.1 (LiLiQ-R+ 1.1)</li>
+            <li>8 GNU General Public License Version 2 (GNU GPLv2)</li>
+            <li>9 GNU General Public License Version 3 (GNU GPLv3)</li>
+            <li>10 GNU Lesser General Public License Version 2.1 (GNU LGPLv2.1)
+            </li>
+            <li>11 GNU Lesser General Public License Version 3 (GNU LGPLv3)
+            </li>
+            <li>12 Mozilla Public License Version 2.0 (MPL-2.0)</li>
+        </list></li>
         <li>
           <b>5.</b>
           <p>Contributions
@@ -246,10 +250,8 @@
         </li>
         <li>
           <b>11.</b>
-          <p>Divers</p>
-        </li>
-      </list>
-      <p>Dans la mesure où le concédant est un ministère, un organisme
+          <p>Divers
+      <br/>Dans la mesure où le concédant est un ministère, un organisme
          public ou une personne morale de droit public, créés en vertu
          d'une loi de l'Assemblée nationale du Québec, la licence est
          régie par le droit applicable au Québec et en cas de
@@ -260,7 +262,7 @@
          distribuée sous un nom différent. Toute référence au Centre de
          services partagés du Québec, et, le cas échéant, ses ayant
          droit, doit être retirée, autre que celle permettant
-         d'identifier la provenance de la licence.</p>
-    </body>
-  </license>
-</spdx>
+         d'identifier la provenance de la licence.</p></li>
+</li></list>
+</license>
+</SPDX>
