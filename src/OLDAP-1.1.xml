@@ -1,4 +1,4 @@
-<spdx name="Open LDAP Public License v1.1" identifier="OLDAP-1.1" osi-approved="false">
+<SPDX name="Open LDAP Public License v1.1" identifier="OLDAP-1.1" osi-approved="false">
   <urls>
     <url>http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=806557a5ad59804ef3a44d5abfbe91d706b0791f</url>
   </urls>

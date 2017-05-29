@@ -1,5 +1,5 @@
 <!-- REVIEW -->
-<spdx name="BitTorrent Open Source License v1.0" identifier="BitTorrent-1.0" osi-approved="false">
+<SPDX name="BitTorrent Open Source License v1.0" identifier="BitTorrent-1.0" osi-approved="false">
   <urls>
     <url>http://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo-x86/licenses/BitTorrent?r1=1.1&amp;r2=1.1.1.1&amp;diff_format=s</url>
   </urls>
