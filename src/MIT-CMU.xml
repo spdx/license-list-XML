@@ -1,14 +1,15 @@
-<SPDX name="CMU License" identifier="MIT-CMU" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#CMU_Style</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Copyright 1989, 1991, 1992 by Carnegie Mellon University</p>
-      <p>Derivative Work - 1996, 1998-2000 Copyright 1996, 1998-2000 The Regents of the University of California</p>
-      <p>All Rights Reserved</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="MIT-CMU" name="CMU License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#CMU_Style</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Copyright 1989, 1991, 1992 by Carnegie Mellon University</p>
+         <p>Derivative Work - 1996, 1998-2000 Copyright 1996, 1998-2000 The Regents of the University of California</p>
+         <p>All Rights Reserved</p>
+      </copyrightText>
+    
       <p>Permission to use, copy, modify and distribute this software and its documentation for any purpose and
          without fee is hereby granted, provided that the above copyright notice appears in all copies and that
          both that copyright notice and this permission notice appear in supporting documentation, and that the
@@ -20,6 +21,6 @@
          DAMAGES WHATSOEVER RESULTING FROM THE LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
          NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
          THIS SOFTWARE.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

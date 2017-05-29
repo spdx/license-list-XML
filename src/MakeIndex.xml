@@ -1,25 +1,26 @@
-<SPDX name="MakeIndex License" identifier="MakeIndex" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/MakeIndex</url>
-  </urls>
-  <license>
-    <title>
-      <p>MakeIndex Distribution Notice</p>
-      <p>11/11/1989</p>
-    </title>
-    <copyright>
-      <p>Copyright (C) 1989 by Chen &amp; Harrison International Systems, Inc. 
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="MakeIndex" name="MakeIndex License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/MakeIndex</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>MakeIndex Distribution Notice</p>
+         <p>11/11/1989</p>
+      </titleText>
+      <copyrightText>
+         <p>Copyright (C) 1989 by Chen &amp; Harrison International Systems, Inc. 
         <br/>Copyright (C) 1988 by Olivetti Research Center 
         <br/>Copyright (C) 1987 by Regents of the University of California 
       </p>
-      <p>Author: 
+         <p>Author: 
         <br/>Pehong Chen (phc@renoir.berkeley.edu) 
         <br/>Chen &amp; Harrison International Systems, Inc. 
         <br/>Palo Alto, California 
         <br/>USA 
       </p>
-    </copyright>
-    <body>
+      </copyrightText>
+    
       <p>Permission is hereby granted to make and distribute original copies of this program provided that the
          copyright notice and this permission notice are preserved and provided that the recipient is not asked
          to waive or limit his right to redistribute copies as allowed by this permission notice and provided
@@ -37,6 +38,6 @@
          considered modified versions. All modified versions should be reported back to the author.</p>
       <p>This program is distributed with no warranty of any sort. No contributor accepts responsibility for the
          consequences of using this program or for whether it serves any particular purpose.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

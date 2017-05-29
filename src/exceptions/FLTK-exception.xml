@@ -1,9 +1,10 @@
-<SPDX name="FLTK exception" identifier="FLTK-exception">
-  <urls>
-    <url>http://www.fltk.org/COPYING.php</url>
-  </urls>
-  <notes>Specified to be associated with LGPL-2.0. On Fedora List as "FLTK License".</notes>
-  <exception>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license licenseId="FLTK-exception" name="FLTK exception">
+      <crossRefs>
+         <crossRef>http://www.fltk.org/COPYING.php</crossRef>
+      </crossRefs>
+      <notes>Specified to be associated with LGPL-2.0. On Fedora List as "FLTK License".</notes>
       <p>The FLTK library and included programs are provided under the
          terms of the GNU Library General Public License (LGPL) with
          the following exceptions:</p>
@@ -32,5 +33,5 @@
          documentation to satisfy this requirement:</p>
       <p>[program/widget] is based in part on the work of the FLTK project
          (http://www.fltk.org).</p>
-  </exception>
-</SPDX>
+  </license>
+</SPDXLicenseCollection>

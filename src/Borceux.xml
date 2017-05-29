@@ -1,12 +1,13 @@
-<SPDX name="Borceux license" identifier="Borceux" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/Borceux</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Copyright 1993 Francis Borceux</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="Borceux" name="Borceux license">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/Borceux</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Copyright 1993 Francis Borceux</p>
+      </copyrightText>
+    
       <p>You may freely use, modify, and/or distribute each of the files in this package without limitation. The
          package consists of the following files:
         <br/>README 
@@ -26,6 +27,6 @@
       <p>Of course no support is guaranteed, but the author will attempt to assist with problems. Current email address: 
         <br/>francis dot borceux at uclouvain dot be. 
       </p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

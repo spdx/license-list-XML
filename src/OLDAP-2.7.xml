@@ -1,32 +1,34 @@
-<SPDX name="Open LDAP Public License v2.7" identifier="OLDAP-2.7" osi-approved="false">
-  <urls>
-    <url>http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=47c2415c1df81556eeb39be6cad458ef87c534a2</url>
-  </urls>
-  <notes>This license was released 7 September 2001.</notes>
-  <license>
-    <title>
-      <p>The OpenLDAP Public License 
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="OLDAP-2.7"
+            name="Open LDAP Public License v2.7">
+      <crossRefs>
+         <crossRef>http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=47c2415c1df81556eeb39be6cad458ef87c534a2</crossRef>
+      </crossRefs>
+      <notes>This license was released 7 September 2001.</notes>
+      <titleText>
+         <p>The OpenLDAP Public License 
         <br/>Version 2.7, 7 September 2001 
       </p>
-    </title>
-    <body>
+      </titleText>
+    
       <p>Redistribution and use of this software and associated documentation ("Software"), with or without
          modification, are permitted provided that the following conditions are met:</p>
       <list>
-        <li>
-          <b>1.</b>
-          <p>Redistributions of source code must retain copyright statements and notices,</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>Redistributions in binary form must reproduce applicable copyright statements and notices, this
+        <item>
+            <bullet>1.</bullet>
+            <p>Redistributions of source code must retain copyright statements and notices,</p>
+        </item>
+        <item>
+            <bullet>2.</bullet>
+            <p>Redistributions in binary form must reproduce applicable copyright statements and notices, this
              list of conditions, and the following disclaimer in the documentation and/or other materials
              provided with the distribution, and</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>Redistributions must contain a verbatim copy of this document.</p>
-        </li>
+        </item>
+        <item>
+            <bullet>3.</bullet>
+            <p>Redistributions must contain a verbatim copy of this document.</p>
+        </item>
       </list>
       <p>The OpenLDAP Foundation may revise this license from time to time. Each revision is distinguished by a
          version number. You may use this Software under terms of this license revision or under the terms of
@@ -45,9 +47,9 @@
          copyright in this Software shall at all times remain with copyright holders.</p>
       <p>OpenLDAP is a registered trademark of the OpenLDAP Foundation.</p>
       <p>
-        <copyright>Copyright 1999-2001 The OpenLDAP Foundation, Redwood City, California, USA. All Rights Reserved.</copyright>
+        <copyrightText>Copyright 1999-2001 The OpenLDAP Foundation, Redwood City, California, USA. All Rights Reserved.</copyrightText>
         Permission to copy and distribute verbatim copies of this document is granted.
       </p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

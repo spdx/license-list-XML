@@ -1,21 +1,24 @@
-<SPDX name="W3C Software Notice and License (2002-12-31)" identifier="W3C" osi-approved="true">
-  <urls>
-    <url>http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html</url>
-    <url>http://www.opensource.org/licenses/W3C</url>
-  </urls>
-  <notes>This license was released: 13 December 2002. The standard header is provided via a link from the original
-         license page.</notes>
-  <header><copyright>Copyright (C) <alt name="year" match=".+">[$date-of-software]</alt> World Wide Web Consortium, 
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="true" licenseId="W3C"
+            name="W3C Software Notice and License (2002-12-31)">
+      <crossRefs>
+         <crossRef>http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html</crossRef>
+         <crossRef>http://www.opensource.org/licenses/W3C</crossRef>
+      </crossRefs>
+      <standardLicenseHeader>
+         <copyrightText>Copyright (C) <alt match=".+" name="year">[$date-of-software]</alt> World Wide Web Consortium, 
     (Massachusetts Institute of Technology, European Research Consortium for Informatics and Mathematics, Keio 
-    University). All Rights Reserved.</copyright>
-    <p>This work is distributed under the W3C® Software License in the hope that it will be useful, but WITHOUT ANY
+    University). All Rights Reserved.</copyrightText>
+         <p>This work is distributed under the W3C® Software License in the hope that it will be useful, but WITHOUT ANY
     WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</p>
-  </header>
-  <license>
-    <title>
-      <p>W3C SOFTWARE NOTICE AND LICENSE</p>
-    </title>
-    <body>
+      </standardLicenseHeader>
+      <notes>This license was released: 13 December 2002. The standard header is provided via a link from the original
+         license page.</notes>
+      <titleText>
+         <p>W3C SOFTWARE NOTICE AND LICENSE</p>
+      </titleText>
+    
       <p>This work (and included software, documentation such as READMEs, or other related items) is being
          provided by the copyright holders under the following license.</p>
       <p>License</p>
@@ -41,16 +44,16 @@
       <p>The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to
          the software without specific, written prior permission. Title to copyright in this software and any
          associated documentation will at all times remain with copyright holders.</p>
-    </body>
-    <optional>
-      <p>Notes</p>
-      <p>This version: http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231</p>
-      <p>This formulation of W3C's notice and license became active on December 31 2002. This version removes the
+    
+      <optional>
+         <p>Notes</p>
+         <p>This version: http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231</p>
+         <p>This formulation of W3C's notice and license became active on December 31 2002. This version removes the
          copyright ownership notice such that this license can be used with materials other than those owned by
          the W3C, reflects that ERCIM is now a host of the W3C, includes references to this specific dated
          version of the license, and removes the ambiguous grant of "use". Otherwise, this version is the same
          as the previous version and is written so as to preserve the Free Software Foundation's assessment of
          GPL compatibility and OSI's certification under the Open Source Definition.</p>
-    </optional>
+      </optional>
   </license>
-</SPDX>
+</SPDXLicenseCollection>

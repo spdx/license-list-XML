@@ -1,15 +1,16 @@
-<spdx name="SIL Open Font License 1.1" identifier="OFL-1.1" osi-approved="true">
-  <urls>
-    <url>http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web</url>
-    <url>http://www.opensource.org/licenses/OFL-1.1</url>
-  </urls>
-  <notes>This license was released: 26 February 2007.</notes>
-  <license>
-    <title>
-      <p>SIL OPEN FONT LICENSE</p>
-      <p>Version 1.1 - 26 February 2007</p>
-    </title>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="true" licenseId="OFL-1.1" name="SIL Open Font License 1.1">
+      <crossRefs>
+         <crossRef>http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web</crossRef>
+         <crossRef>http://www.opensource.org/licenses/OFL-1.1</crossRef>
+      </crossRefs>
+      <notes>This license was released: 26 February 2007.</notes>
+      <titleText>
+         <p>SIL OPEN FONT LICENSE</p>
+         <p>Version 1.1 - 26 February 2007</p>
+      </titleText>
+    
       <p>PREAMBLE</p>
       <p>The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font
          projects, to support the font creation efforts of academic and linguistic communities, and to provide
@@ -36,38 +37,38 @@
          use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the
          Font Software, subject to the following conditions:</p>
       <list>
-        <li>
-          <b>1)</b>
-          <p>Neither the Font Software nor any of its individual components, in Original or Modified Versions,
+        <item>
+            <bullet>1)</bullet>
+            <p>Neither the Font Software nor any of its individual components, in Original or Modified Versions,
              may be sold by itself.</p>
-        </li>
-        <li>
-          <b>2)</b>
-          <p>Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with
+        </item>
+        <item>
+            <bullet>2)</bullet>
+            <p>Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with
              any software, provided that each copy contains the above copyright notice and this license.
              These can be included either as stand-alone text files, human-readable headers or in the
              appropriate machine-readable metadata fields within text or binary files as long as those
              fields can be easily viewed by the user.</p>
-        </li>
-        <li>
-          <b>3)</b>
-          <p>No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit
+        </item>
+        <item>
+            <bullet>3)</bullet>
+            <p>No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit
              written permission is granted by the corresponding Copyright Holder. This restriction only
              applies to the primary font name as presented to the users.</p>
-        </li>
-        <li>
-          <b>4)</b>
-          <p>The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to
+        </item>
+        <item>
+            <bullet>4)</bullet>
+            <p>The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to
              promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s)
              of the Copyright Holder(s) and the Author(s) or with their explicit written permission.</p>
-        </li>
-        <li>
-          <b>5)</b>
-          <p>The Font Software, modified or unmodified, in part or in whole, must be distributed entirely
+        </item>
+        <item>
+            <bullet>5)</bullet>
+            <p>The Font Software, modified or unmodified, in part or in whole, must be distributed entirely
              under this license, and must not be distributed under any other license. The requirement for
              fonts to remain under this license does not apply to any document created using the Font
              Software.</p>
-        </li>
+        </item>
       </list>
       <p>TERMINATION</p>
       <p>This license becomes null and void if any of the above conditions are not met.</p>
@@ -78,6 +79,6 @@
          ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR
          CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE
          USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.</p>
-    </body>
+    
   </license>
-</spdx>
+</SPDXLicenseCollection>

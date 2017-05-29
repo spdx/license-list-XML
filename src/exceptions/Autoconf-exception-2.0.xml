@@ -1,12 +1,13 @@
-<SPDX name="Autoconf exception 2.0" identifier="Autoconf-exception-2.0">
-  <urls>
-    <url>http://ac-archive.sourceforge.net/doc/copyright.html</url>
-    <url>http://ftp.gnu.org/gnu/autoconf/autoconf-2.59.tar.gz</url>
-  </urls>
-  <notes>Typically used with GPL-2.0
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license licenseId="Autoconf-exception-2.0" name="Autoconf exception 2.0">
+      <crossRefs>
+         <crossRef>http://ac-archive.sourceforge.net/doc/copyright.html</crossRef>
+         <crossRef>http://ftp.gnu.org/gnu/autoconf/autoconf-2.59.tar.gz</crossRef>
+      </crossRefs>
+      <notes>Typically used with GPL-2.0
   </notes>
-  <exception>
-    <body>
+    
       <p>As a special exception, the Free Software Foundation gives
          unlimited permission to copy, distribute and modify the
          configure scripts that are the output of Autoconf. You need
@@ -34,6 +35,6 @@
          portions to the data portions.) If your modification has such
          potential, you must delete any notice of this special
          exception to the GPL from your modified version.</p>
-    </body>
-  </exception>
-</SPDX>
+    
+  </license>
+</SPDXLicenseCollection>

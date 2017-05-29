@@ -1,14 +1,15 @@
-<SPDX name="psutils License" identifier="psutils" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/psutils</url>
-  </urls>
-  <license>
-    <title>
-      <p>PS Utilities Package</p>
-    </title>
-    <copyright>
-      <p>The constituent files of this package listed below are copyright (C) 1991-1995 Angus J. C. Duggan.</p>
-      <p>LICENSE Makefile.msc Makefile.nt Makefile.os2 
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="psutils" name="psutils License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/psutils</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>PS Utilities Package</p>
+      </titleText>
+      <copyrightText>
+         <p>The constituent files of this package listed below are copyright (C) 1991-1995 Angus J. C. Duggan.</p>
+         <p>LICENSE Makefile.msc Makefile.nt Makefile.os2 
         <br/>Makefile.unix README config.h descrip.mms 
         <br/>epsffit.c epsffit.man extractres.man extractres.pl 
         <br/>fixdlsrps.man fixdlsrps.pl fixfmps.man fixfmps.pl 
@@ -24,32 +25,32 @@
         <br/>pstops.c pstops.man psutil.c psutil.h 
         <br/>showchar 
       </p>
-    </copyright>
-    <body>
+      </copyrightText>
+    
       <p>They may be copied and used for any purpose (including distribution as part of a for-profit product),
          provided:</p>
       <list>
-        <li>
-          <b>1)</b>
-          <p>The original attribution of the programs is clearly displayed in the product and/or
+        <item>
+            <bullet>1)</bullet>
+            <p>The original attribution of the programs is clearly displayed in the product and/or
              documentation, even if the programs are modified and/or renamed as part of the product.</p>
-        </li>
-        <li>
-          <b>2)</b>
-          <p>The original source code of the programs is provided free of charge (except for reasonable
+        </item>
+        <item>
+            <bullet>2)</bullet>
+            <p>The original source code of the programs is provided free of charge (except for reasonable
              distribution costs). For a definition of reasonable distribution costs, see the Gnu General
              Public License or Larry Wall's Artistic License (provided with the Perl 4 kit). The GPL and
              Artistic License in NO WAY affect this license; they are merely used as examples of the spirit
              in which it is intended.</p>
-        </li>
-        <li>
-          <b>3)</b>
-          <p>These programs are provided "as-is". No warranty or guarantee of their fitness for any particular
+        </item>
+        <item>
+            <bullet>3)</bullet>
+            <p>These programs are provided "as-is". No warranty or guarantee of their fitness for any particular
              task is provided. Use of these programs is completely at your own risk.</p>
-        </li>
+        </item>
       </list>
       <p>Basically, I don't mind how you use the programs so long as you acknowledge the author, and give people
          the originals if they want them.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

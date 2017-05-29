@@ -1,17 +1,19 @@
-<SPDX name="Standard ML of New Jersey License" identifier="SMLNJ" osi-approved="false">
-  <urls>
-    <url>http://www.smlnj.org//license.html</url>
-  </urls>
-  <license>
-    <title>
-      <p>STANDARD ML OF NEW JERSEY COPYRIGHT NOTICE, LICENSE AND DISCLAIMER.</p>
-    </title>
-    <copyright>
-      <p>Copyright (c) 2001-2011 by The Fellowship of SML/NJ 
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="SMLNJ"
+            name="Standard ML of New Jersey License">
+      <crossRefs>
+         <crossRef>http://www.smlnj.org//license.html</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>STANDARD ML OF NEW JERSEY COPYRIGHT NOTICE, LICENSE AND DISCLAIMER.</p>
+      </titleText>
+      <copyrightText>
+         <p>Copyright (c) 2001-2011 by The Fellowship of SML/NJ 
         <br/>Copyright (c) 1989-2001 by Lucent Technologies 
       </p>
-    </copyright>
-    <body>
+      </copyrightText>
+    
       <p>Permission to use, copy, modify, and distribute this software and its documentation for any purpose and
          without fee is hereby granted, provided that the above copyright notice appear in all copies and that
          both the copyright notice and this permission notice and warranty disclaimer appear in supporting
@@ -23,6 +25,6 @@
          consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether
          in an action of contract, negligence or other tortious action, arising out of or in connection with
          the use or performance of this software.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

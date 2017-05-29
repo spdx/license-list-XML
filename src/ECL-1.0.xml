@@ -1,20 +1,22 @@
-<SPDX name="Educational Community License v1.0" identifier="ECL-1.0" osi-approved="true">
-  <urls>
-    <url>http://opensource.org/licenses/ECL-1.0</url>
-  </urls>
-  <header> Copyright (c) 
-    <alt name="copyright" match=".+">&lt;year&gt; &lt;copyright holders&gt;</alt> Licensed under the Educational
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="true" licenseId="ECL-1.0"
+            name="Educational Community License v1.0">
+      <crossRefs>
+         <crossRef>http://opensource.org/licenses/ECL-1.0</crossRef>
+      </crossRefs>
+      <standardLicenseHeader> Copyright (c) 
+    <alt match=".+" name="copyright">&lt;year&gt; &lt;copyright holders&gt;</alt> Licensed under the Educational
     Community License version 1.0 
-  </header>
-  <license>
-    <title>
-      <p>The Educational Community License</p>
-    </title>
+  </standardLicenseHeader>
+      <titleText>
+         <p>The Educational Community License</p>
+      </titleText>
       <p>This Educational Community License (the "License") applies to any original work of authorship (the
          "Original Work") whose owner (the "Licensor") has placed the following notice immediately following
          the copyright notice for the Original Work:</p>
       <p>Copyright (c) 
-        <alt name="copyright" match=".+">&lt;year&gt; &lt;copyright holders&gt;</alt>
+        <alt match=".+" name="copyright">&lt;year&gt; &lt;copyright holders&gt;</alt>
       </p>
       <p>Licensed under the Educational Community License version 1.0</p>
       <p>This Original Work, including software, source code, documents, or other related items, is being provided
@@ -41,4 +43,4 @@
          Original Work and any associated documentation will at all times remain with the copyright
          holders.</p>
   </license>
-</SPDX>
+</SPDXLicenseCollection>

@@ -1,8 +1,11 @@
-<SPDX name="Sun Industry Standards Source License v1.2" identifier="SISSL-1.2" osi-approved="false">
-  <urls>
-    <url>http://gridscheduler.sourceforge.net/Gridengine_SISSL_license.html</url>
-  </urls>
-  <header> The contents of this file are subject to the Sun Industry Standards Source License Version 1.2 (the
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="SISSL-1.2"
+            name="Sun Industry Standards Source License v1.2">
+      <crossRefs>
+         <crossRef>http://gridscheduler.sourceforge.net/Gridengine_SISSL_license.html</crossRef>
+      </crossRefs>
+      <standardLicenseHeader> The contents of this file are subject to the Sun Industry Standards Source License Version 1.2 (the
           License); You may not use this file except in compliance with the License. You may obtain a copy of
           the License at gridengine.sunsource.net/license.html Software distributed under the License is
           distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the
@@ -10,147 +13,146 @@
           Code is Grid Engine. The Initial Developer of the Original Code is: Sun Microsystems, Inc. Portions
           created by: Sun Microsystems, Inc. are Copyright (C) 2001 Sun Microsystems, Inc. All Rights
           Reserved. "Contributor(s): 
-    <alt name="contributor" match=".+">_____</alt>
-  </header>
-  <license>
-    <title>
-      <br/>SUN INDUSTRY STANDARDS SOURCE LICENSE
+    <alt match=".+" name="contributor">_____</alt>
+      </standardLicenseHeader>
+      <titleText>
+         <br/>SUN INDUSTRY STANDARDS SOURCE LICENSE
     <p>Version 1.2</p>
-  </title>
-  <body>
-    <list>
-      <li>
-        <b>1.0</b>
-        <p>DEFINITIONS</p>
-        <list>
-          <li>
-            <b>1.1</b>
-            <p>Commercial Use means distribution or otherwise making the Original Code available to a third party.</p>
-          </li>
-          <li>
-            <b>1.2</b>
-            <p>Contributor Version means the combination of the Original Code, and the Modifications made by that
-               particular Contributor.</p>
-          </li>
-          <li>
-            <b>1.3</b>
-            <p>Electronic Distribution Mechanism means a mechanism generally accepted in the software development
-               community for the electronic transfer of data.</p>
-          </li>
-          <li>
-            <b>1.4</b>
-            <p>Executable means Original Code in any form other than Source Code.</p>
-          </li>
-          <li>
-            <b>1.5</b>
-            <p>Initial Developer means the individual or entity identified as the Initial Developer in the Source
-               Code notice required by Exhibit A.</p>
-          </li>
-          <li>
-            <b>1.6</b>
-            <p>Larger Work means a work which combines Original Code or portions thereof with code not governed by
-               the terms of this License.</p>
-          </li>
-          <li>
-            <b>1.7</b>
-            <p>License means this document.</p>
-          </li>
-          <li>
-            <b>1.8</b>
-            <p>Licensable means having the right to grant, to the maximum extent possible, whether at the time of
-               the initial grant or subsequently acquired, any and all of the rights conveyed herein.</p>
-          </li>
-          <li>
-            <b>1.9</b>
-            <p>Modifications means any addition to or deletion from the substance or structure of either the
-               Original Code or any previous Modifications. A Modification is:</p>
+      </titleText>
+  
+      <list>
+         <item>
+            <bullet>1.0</bullet>
+            <p>DEFINITIONS</p>
             <list>
-              <li>
-                <b>A.</b>
-                <p>Any addition to or deletion from the contents of a file containing Original Code or previous
+               <item>
+                  <bullet>1.1</bullet>
+                  <p>Commercial Use means distribution or otherwise making the Original Code available to a third party.</p>
+               </item>
+               <item>
+                  <bullet>1.2</bullet>
+                  <p>Contributor Version means the combination of the Original Code, and the Modifications made by that
+               particular Contributor.</p>
+               </item>
+               <item>
+                  <bullet>1.3</bullet>
+                  <p>Electronic Distribution Mechanism means a mechanism generally accepted in the software development
+               community for the electronic transfer of data.</p>
+               </item>
+               <item>
+                  <bullet>1.4</bullet>
+                  <p>Executable means Original Code in any form other than Source Code.</p>
+               </item>
+               <item>
+                  <bullet>1.5</bullet>
+                  <p>Initial Developer means the individual or entity identified as the Initial Developer in the Source
+               Code notice required by Exhibit A.</p>
+               </item>
+               <item>
+                  <bullet>1.6</bullet>
+                  <p>Larger Work means a work which combines Original Code or portions thereof with code not governed by
+               the terms of this License.</p>
+               </item>
+               <item>
+                  <bullet>1.7</bullet>
+                  <p>License means this document.</p>
+               </item>
+               <item>
+                  <bullet>1.8</bullet>
+                  <p>Licensable means having the right to grant, to the maximum extent possible, whether at the time of
+               the initial grant or subsequently acquired, any and all of the rights conveyed herein.</p>
+               </item>
+               <item>
+                  <bullet>1.9</bullet>
+                  <p>Modifications means any addition to or deletion from the substance or structure of either the
+               Original Code or any previous Modifications. A Modification is:</p>
+                  <list>
+                     <item>
+                        <bullet>A.</bullet>
+                        <p>Any addition to or deletion from the contents of a file containing Original Code or previous
                    Modifications.</p>
-              </li>
-              <li>
-                <b>B.</b>
-                <p>Any new file that contains any part of the Original Code or previous Modifications.</p>
-              </li>
-            </list>
-          </li>
-          <li>
-            <b>1.10</b>
-            <p>Original Code means Source Code of computer software code which is described in the Source Code
+                     </item>
+                     <item>
+                        <bullet>B.</bullet>
+                        <p>Any new file that contains any part of the Original Code or previous Modifications.</p>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <bullet>1.10</bullet>
+                  <p>Original Code means Source Code of computer software code which is described in the Source Code
                notice required by Exhibit A as Original Code.</p>
-          </li>
-          <li>
-            <b>1.11</b>
-            <p>Patent Claims means any patent claim(s), now owned or hereafter acquired, including without
+               </item>
+               <item>
+                  <bullet>1.11</bullet>
+                  <p>Patent Claims means any patent claim(s), now owned or hereafter acquired, including without
                limitation, method, process, and apparatus claims, in any patent Licensable by grantor.</p>
-          </li>
-          <li>
-            <b>1.12</b>
-            <p>Source Code means the preferred form of the Original Code for making modifications to it, including
+               </item>
+               <item>
+                  <bullet>1.12</bullet>
+                  <p>Source Code means the preferred form of the Original Code for making modifications to it, including
                all modules it contains, plus any associated interface definition files, or scripts used to
                control compilation and installation of an Executable.</p>
-          </li>
-          <li>
-            <b>1.13</b>
-            <p>Standards means the standards identified in Exhibit B.</p>
-          </li>
-          <li>
-            <b>1.14</b>
-            <p>You (or Your) means an individual or a legal entity exercising rights under, and complying with all
+               </item>
+               <item>
+                  <bullet>1.13</bullet>
+                  <p>Standards means the standards identified in Exhibit B.</p>
+               </item>
+               <item>
+                  <bullet>1.14</bullet>
+                  <p>You (or Your) means an individual or a legal entity exercising rights under, and complying with all
                of the terms of, this License or a future version of this License issued under Section 6.1. For
                legal entities, You includes any entity which controls, is controlled by, or is under common
                control with You. For purposes of this definition, control means (a) the power, direct or
                indirect, to cause the direction or management of such entity, whether by contract or otherwise,
                or (b) ownership of more than fifty percent (50%) of the outstanding shares or beneficial
                ownership of such entity.</p>
-          </li>
-        </list> 
-      </li>    
-      <li>
-        <b>2.0</b>
-        <p>SOURCE CODE LICENSE</p>
-        <list>
-          <li>
-            <b>2.1</b>
-            <p>The Initial Developer Grant The Initial Developer hereby grants You a world-wide, royalty-free,
-               non-exclusive license, subject to third party intellectual property claims:</p>
+               </item>
+            </list> 
+         </item>    
+         <item>
+            <bullet>2.0</bullet>
+            <p>SOURCE CODE LICENSE</p>
             <list>
-              <li>
-                <p>(a)under intellectual property rights (other than patent or trademark) Licensable by Initial
+               <item>
+                  <bullet>2.1</bullet>
+                  <p>The Initial Developer Grant The Initial Developer hereby grants You a world-wide, royalty-free,
+               non-exclusive license, subject to third party intellectual property claims:</p>
+                  <list>
+                     <item>
+                        <p>(a)under intellectual property rights (other than patent or trademark) Licensable by Initial
                    Developer to use, reproduce, modify, display, perform, sublicense and distribute the Original Code
                    (or portions thereof) with or without Modifications, and/or as part of a Larger Work; and</p>
-              </li>
-              <li>
-                <b>(b)</b>
-                <p>under Patents Claims infringed by the making, using or selling of Original Code, to make, have made,
+                     </item>
+                     <item>
+                        <bullet>(b)</bullet>
+                        <p>under Patents Claims infringed by the making, using or selling of Original Code, to make, have made,
                    use, practice, sell, and offer for sale, and/or otherwise dispose of the Original Code (or
                    portions thereof).</p>
-              </li>
-              <li>
-                <b>(c)</b>
-                <p>the licenses granted in this Section 2.1(a) and (b) are effective on the date Initial Developer first
+                     </item>
+                     <item>
+                        <bullet>(c)</bullet>
+                        <p>the licenses granted in this Section 2.1(a) and (b) are effective on the date Initial Developer first
                    distributes Original Code under the terms of this License.</p>
-              </li>
-              <li>
-                <b>(d)</b>
-                <p>Notwithstanding Section 2.1(b) above, no patent license is granted: 1) for code that You delete from
+                     </item>
+                     <item>
+                        <bullet>(d)</bullet>
+                        <p>Notwithstanding Section 2.1(b) above, no patent license is granted: 1) for code that You delete from
                    the Original Code; 2) separate from the Original Code; or 3) for infringements caused by: i) the
                    modification of the Original Code or ii) the combination of the Original Code with other software
                    or devices, including but not limited to Modifications.</p>
-              </li>
+                     </item>
+                  </list>
+               </item>
             </list>
-          </li>
-        </list>
-      </li>    
-      <li>
-        <b>3.0</b>
-        <p>DISTRIBUTION OBLIGATIONS</p>
-        <list>
-          <li>
-            <b>3.1</b>
-            <p>Application of License. The Source Code version of Original Code may be distributed only under the
+         </item>    
+         <item>
+            <bullet>3.0</bullet>
+            <p>DISTRIBUTION OBLIGATIONS</p>
+            <list>
+               <item>
+                  <bullet>3.1</bullet>
+                  <p>Application of License. The Source Code version of Original Code may be distributed only under the
                terms of this License or a future version of this License released under Section 6.1, and You must
                include a copy of this License with every copy of the Source Code You distribute. You may not
                offer or impose any terms on any Source Code version that alters or restricts the applicable
@@ -166,26 +168,26 @@
                customer shipment of Your Modifications. Additionally, in the event that the Modifications you
                create do not meet the requirements set out in this Section, You agree to comply with the
                Standards requirements set out in Exhibit B.</p>
-          </li>
-          <li>
-            <b>3.2</b>
-            <p>Required Notices. You must duplicate the notice in Exhibit A in each file of the Source Code. If it
+               </item>
+               <item>
+                  <bullet>3.2</bullet>
+                  <p>Required Notices. You must duplicate the notice in Exhibit A in each file of the Source Code. If it
                is not possible to put such notice in a particular Source Code file due to its structure, then You
                must include such notice in a location (such as a relevant directory) where a user would be likely
                to look for such a notice. If You created one or more Modification(s) You may add Your name as a
                Contributor to the notice described in Exhibit A. You must also duplicate this License in any
                documentation for the Source Code where You describe recipients rights or ownership rights
                relating to Initial Code.</p>
-            <p>You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability
+                  <p>You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability
                obligations to one or more recipients of Your version of the Code. However, You may do so only on
                Your own behalf, and not on behalf of the Initial Developer. You must make it absolutely clear
                than any such warranty, support, indemnity or liability obligation is offered by You alone, and
                You hereby agree to indemnify the Initial Developer for any liability incurred by the Initial
                Developer as a result of warranty, support, indemnity or liability terms You offer.</p>
-          </li>
-          <li>
-            <b>3.3</b>
-            <p>Distribution of Executable Versions. You may distribute Original Code in Executable and Source form
+               </item>
+               <item>
+                  <bullet>3.3</bullet>
+                  <p>Distribution of Executable Versions. You may distribute Original Code in Executable and Source form
                only if the requirements of Sections 3.1 and 3.2 have been met for that Original Code, and if You
                include a notice stating that the Source Code version of the Original Code is available under the
                terms of this License. The notice must be conspicuously included in any notice in an Executable or
@@ -197,122 +199,122 @@
                absolutely clear that any terms which differ from this License are offered by You alone, not by
                the Initial Developer. You hereby agree to indemnify the Initial Developer for any liability
                incurred by the Initial Developer as a result of any such terms You offer.</p>
-          </li>
-          <li>
-            <b>3.4</b>
-            <p>Larger Works. You may create a Larger Work by combining Original Code with other code not governed by
+               </item>
+               <item>
+                  <bullet>3.4</bullet>
+                  <p>Larger Works. You may create a Larger Work by combining Original Code with other code not governed by
                the terms of this License and distribute the Larger Work as a single product. In such a case, You
                must make sure the requirements of this License are fulfilled for the Original Code.</p>
-          </li>
-        </list>
-      </li>    
-      <li>
-        <b>4.0</b>
-        <p>INABILITY TO COMPLY DUE TO STATUTE OR REGULATION</p>
-        <p>If it is impossible for You to comply with any of the terms of this License with respect to some or
+               </item>
+            </list>
+         </item>    
+         <item>
+            <bullet>4.0</bullet>
+            <p>INABILITY TO COMPLY DUE TO STATUTE OR REGULATION</p>
+            <p>If it is impossible for You to comply with any of the terms of this License with respect to some or
            all of the Original Code due to statute, judicial order, or regulation then You must: (a) comply
            with the terms of this License to the maximum extent possible; and (b) describe the limitations
            and the code they affect. Such description must be included in the LEGAL file described in Section
            3.2 and must be included with all distributions of the Source Code. Except to the extent
            prohibited by statute or regulation, such description must be sufficiently detailed for a
            recipient of ordinary skill to be able to understand it.</p>
-      </li>
-      <li>
-        <b>5.0</b>
-        <p>APPLICATION OF THIS LICENSE</p>
-        <p>This License applies to code to which the Initial Developer has attached the notice in Exhibit A and
+         </item>
+         <item>
+            <bullet>5.0</bullet>
+            <p>APPLICATION OF THIS LICENSE</p>
+            <p>This License applies to code to which the Initial Developer has attached the notice in Exhibit A and
            to related Modifications as set out in Section 3.1.</p>
-      </li>
-      <li>
-        <b>6.0</b>
-        <p>VERSIONS OF THE LICENSE</p>
-        <list>
-          <li>
-            <b>6.1</b>
-            <p>New Versions. Sun may publish revised and/or new versions of the License from time to time. Each
+         </item>
+         <item>
+            <bullet>6.0</bullet>
+            <p>VERSIONS OF THE LICENSE</p>
+            <list>
+               <item>
+                  <bullet>6.1</bullet>
+                  <p>New Versions. Sun may publish revised and/or new versions of the License from time to time. Each
                version will be given a distinguishing version number.</p>
-          </li>
-          <li>
-            <b>6.2</b>
-            <p>Effect of New Versions. Once Original Code has been published under a particular version of the
+               </item>
+               <item>
+                  <bullet>6.2</bullet>
+                  <p>Effect of New Versions. Once Original Code has been published under a particular version of the
                License, You may always continue to use it under the terms of that version. You may also choose to
                use such Original Code under the terms of any subsequent version of the License published by Sun.
                No one other than Sun has the right to modify the terms applicable to Original Code.</p>
-          </li>
-        </list>
-      </li>
-      <li>
-        <b>7.0</b>
-        <p>DISCLAIMER OF WARRANTY</p>
-        <p>ORIGINAL CODE IS PROVIDED UNDER THIS LICENSE ON AN AS IS BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER
+               </item>
+            </list>
+         </item>
+         <item>
+            <bullet>7.0</bullet>
+            <p>DISCLAIMER OF WARRANTY</p>
+            <p>ORIGINAL CODE IS PROVIDED UNDER THIS LICENSE ON AN AS IS BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER
            EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT THE ORIGINAL CODE IS FREE OF
            DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE RISK AS TO THE
            QUALITY AND PERFORMANCE OF THE ORIGINAL CODE IS WITH YOU. SHOULD ANY ORIGINAL CODE PROVE DEFECTIVE
            IN ANY RESPECT, YOU (NOT THE INITIAL DEVELOPER) ASSUME THE COST OF ANY NECESSARY SERVICING, REPAIR
            OR CORRECTION. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE. NO USE
            OF ANY ORIGINAL CODE IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER.</p>
-      </li>
-      <li>
-        <b>8.0</b>
-        <p>TERMINATION</p>
-        <list>
-          <li>
-            <b>8.1</b>
-            <p>This License and the rights granted hereunder will terminate automatically if You fail to comply with
+         </item>
+         <item>
+            <bullet>8.0</bullet>
+            <p>TERMINATION</p>
+            <list>
+               <item>
+                  <bullet>8.1</bullet>
+                  <p>This License and the rights granted hereunder will terminate automatically if You fail to comply with
                terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All
                sublicenses to the Original Code which are properly granted shall survive any termination of this
                License. Provisions which, by their nature, must remain in effect beyond the termination of this
                License shall survive. 8.2 In the event of termination under Section 8.1 above, all end user
                license agreements (excluding distributors and resellers) which have been validly granted by You
                or any distributor hereunder prior to termination shall survive termination.</p>
-          </li>
-        </list>
-      </li>
-    </list>
-  </body>
-  <optional>
-    <p>EXHIBIT A - Sun Industry Standards Source License</p>
-    <p>"The contents of this file are subject to the Sun Industry Standards Source License Version 1.2 (the
+               </item>
+            </list>
+         </item>
+      </list>
+  
+      <optional>
+         <p>EXHIBIT A - Sun Industry Standards Source License</p>
+         <p>"The contents of this file are subject to the Sun Industry Standards Source License Version 1.2 (the
        License); You 
       <br/>may not use this file except in compliance with the License." 
     </p>
-    <p>"You may obtain a copy of the License at gridengine.sunsource.net/license.html"</p>
-    <p>"Software distributed under the License is distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND,
+         <p>"You may obtain a copy of the License at gridengine.sunsource.net/license.html"</p>
+         <p>"Software distributed under the License is distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND,
        either express or 
       <br/>implied. See the License for the specific language governing rights and limitations under the License." 
     </p>
-    <p>"The Original Code is Grid Engine."</p>
-    <p>"The Initial Developer of the Original Code is: 
+         <p>"The Original Code is Grid Engine."</p>
+         <p>"The Initial Developer of the Original Code is: 
       <br/>Sun Microsystems, Inc." 
     </p>
-    <p>"Portions created by: Sun Microsystems, Inc. are Copyright (C) 2001 Sun Microsystems, Inc."</p>
-    <p>"All Rights Reserved."</p>
-    <p>"Contributor(s):__________________________________"</p>
-    <p>EXHIBIT B - Standards</p>
-    <list>
-      <li>
-        <b>1.0</b>
-        <p>Requirements for project Standards. The requirements for project Standards are version-dependent and
+         <p>"Portions created by: Sun Microsystems, Inc. are Copyright (C) 2001 Sun Microsystems, Inc."</p>
+         <p>"All Rights Reserved."</p>
+         <p>"Contributor(s):__________________________________"</p>
+         <p>EXHIBIT B - Standards</p>
+         <list>
+            <item>
+               <bullet>1.0</bullet>
+               <p>Requirements for project Standards. The requirements for project Standards are version-dependent and
            are defined at: Grid Engine standards.</p>
-      </li>
-      <li>
-        <b>2.0</b>
-        <p>Additional requirements. The additional requirements pursuant to Section 3.1 are defined as:</p>
-        <list>
-          <li>
-            <b>2.1</b>
-            <p>Naming Conventions. If any of your Modifications do not meet the requirements of the Standard, then
+            </item>
+            <item>
+               <bullet>2.0</bullet>
+               <p>Additional requirements. The additional requirements pursuant to Section 3.1 are defined as:</p>
+               <list>
+                  <item>
+                     <bullet>2.1</bullet>
+                     <p>Naming Conventions. If any of your Modifications do not meet the requirements of the Standard, then
                you must change the product name so that Grid Engine, gridengine, gridengine.sunsource, and
                similar naming conventions are not used.</p>
-          </li>
-          <li>
-            <b>2.2</b>
-            <p>Compliance Claims. If any of your Modifications do not meet the requirements of the Standards you may
+                  </item>
+                  <item>
+                     <bullet>2.2</bullet>
+                     <p>Compliance Claims. If any of your Modifications do not meet the requirements of the Standards you may
                not claim, directly or indirectly, that your implementation of the Standards is compliant.</p>
-          </li>
-        </list>
-      </li>
-    </list>  
-  </optional>
-</license>
-</SPDX>
+                  </item>
+               </list>
+            </item>
+         </list>  
+      </optional>
+   </license>
+</SPDXLicenseCollection>

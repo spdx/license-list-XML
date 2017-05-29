@@ -1,9 +1,10 @@
-<SPDX name="Sax Public Domain Notice" identifier="SAX-PD" osi-approved="false">
-  <urls>
-    <url>http://www.saxproject.org/copying.html</url>
-  </urls>
-  <license>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="SAX-PD" name="Sax Public Domain Notice">
+      <crossRefs>
+         <crossRef>http://www.saxproject.org/copying.html</crossRef>
+      </crossRefs>
+    
       <p>Copyright Status</p>
       <p>SAX is free!</p>
       <p>In fact, it's not possible to own a license to SAX, since it's been placed in the public domain.</p>
@@ -40,6 +41,6 @@
       <p>David Megginson, Megginson Technologies Ltd. 
         <br/>2000-05-05 
       </p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

@@ -1,49 +1,50 @@
-<SPDX name="XFree86 License 1.1" identifier="XFree86-1.1" osi-approved="false">
-  <urls>
-    <url>http://www.xfree86.org/current/LICENSE4.html</url>
-  </urls>
-  <license>
-    <title>
-      <p>XFree86 License (version 1.1)</p>
-    </title>
-    <copyright>
-      <p>Copyright (C) 1994-2006 The XFree86 Project, Inc.</p>
-      <p>All rights reserved.</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="XFree86-1.1" name="XFree86 License 1.1">
+      <crossRefs>
+         <crossRef>http://www.xfree86.org/current/LICENSE4.html</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>XFree86 License (version 1.1)</p>
+      </titleText>
+      <copyrightText>
+         <p>Copyright (C) 1994-2006 The XFree86 Project, Inc.</p>
+         <p>All rights reserved.</p>
+      </copyrightText>
+    
       <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
          associated documentation files (the "Software"), to deal in the Software without restriction,
          including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
          and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
          subject to the following conditions:</p>
-      <list></list>
+      <list/>
       <list>
-        <li>
-          <b>1.</b>
-          <p>Redistributions of source code must retain the above copyright notice, this list of conditions,
+        <item>
+            <bullet>1.</bullet>
+            <p>Redistributions of source code must retain the above copyright notice, this list of conditions,
              and the following disclaimer.</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+        </item>
+        <item>
+            <bullet>2.</bullet>
+            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
              and the following disclaimer in the documentation and/or other materials provided with the
              distribution, and in the same place and form as other copyright, license and disclaimer
              information.</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>The end-user documentation included with the redistribution, if any, must include the following
+        </item>
+        <item>
+            <bullet>3.</bullet>
+            <p>The end-user documentation included with the redistribution, if any, must include the following
              acknowledgment: "This product includes software developed by The XFree86 Project, Inc
              (http://www.xfree86.org/) and its contributors", in the same place and form as other
              third-party acknowledgments. Alternately, this acknowledgment may appear in the software
              itself, in the same form and location as other such third-party acknowledgments.</p>
-        </li>
-        <li>
-          <b>4.</b>
-          <p>Except as contained in this notice, the name of The XFree86 Project, Inc shall not be used in
+        </item>
+        <item>
+            <bullet>4.</bullet>
+            <p>Except as contained in this notice, the name of The XFree86 Project, Inc shall not be used in
              advertising or otherwise to promote the sale, use or other dealings in this Software without
              prior written authorization from The XFree86 Project, Inc.</p>
-        </li>
+        </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
          TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN
@@ -53,6 +54,6 @@
          CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
          NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
          POSSIBILITY OF SUCH DAMAGE.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

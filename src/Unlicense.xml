@@ -1,10 +1,11 @@
-<SPDX name="The Unlicense" identifier="Unlicense" osi-approved="false">
-  <urls>
-    <url>http://unlicense.org/</url>
-  </urls>
-  <notes>This is a public domain dedication</notes>
-  <license>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="Unlicense" name="The Unlicense">
+      <crossRefs>
+         <crossRef>http://unlicense.org/</crossRef>
+      </crossRefs>
+      <notes>This is a public domain dedication</notes>
+    
       <p>This is free and unencumbered software released into the public domain.</p>
       <p>Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in
          source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any
@@ -21,6 +22,6 @@
          OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
          OTHER DEALINGS IN THE SOFTWARE.</p>
       <p>For more information, please refer to &lt;http://unlicense.org/&gt;</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

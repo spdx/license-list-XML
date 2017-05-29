@@ -1,59 +1,60 @@
-<SPDX name="Nokia Qt LGPL exception 1.1" identifier="Nokia-Qt-exception-1.1">
-  <urls>
-    <url>https://www.keepassx.org/dev/projects/keepassx/repository/revisions/b8dfb9cc4d5133e0f09cd7533d15a4f1c19a40f2/entry/LICENSE.NOKIA-LGPL-EXCEPTION</url>
-  </urls>
-  <notes>Typically used by Nokia Qt to apply an exception to LGPL-2.1</notes>
-  <exception>
-    <title>
-      <p>Nokia Qt LGPL Exception version 1.1</p>
-    </title>
-    <p>As an additional permission to the GNU Lesser General Public
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license licenseId="Nokia-Qt-exception-1.1" name="Nokia Qt LGPL exception 1.1">
+      <crossRefs>
+         <crossRef>https://www.keepassx.org/dev/projects/keepassx/repository/revisions/b8dfb9cc4d5133e0f09cd7533d15a4f1c19a40f2/entry/LICENSE.NOKIA-LGPL-EXCEPTION</crossRef>
+      </crossRefs>
+      <notes>Typically used by Nokia Qt to apply an exception to LGPL-2.1</notes>
+      <titleText>
+         <p>Nokia Qt LGPL Exception version 1.1</p>
+      </titleText>
+      <p>As an additional permission to the GNU Lesser General Public
        License version 2.1, the object code form of a ""work that
        uses the Library"" may incorporate material from a header file
        that is part of the Library. You may distribute such object
        code under terms of your choice, provided that:</p>
-    <list>
-      <li>
-        <b>(i)</b>
-        <p>the header files of the Library have not been modified; and</p>
-      </li>
-      <li>
-        <b>(ii)</b>
-        <p>the incorporated material is limited to numerical
+      <list>
+         <item>
+            <bullet>(i)</bullet>
+            <p>the header files of the Library have not been modified; and</p>
+         </item>
+         <item>
+            <bullet>(ii)</bullet>
+            <p>the incorporated material is limited to numerical
            parameters, data structure layouts, accessors, macros,
            inline functions and templates; and</p>
-      </li>
-      <li>
-        <b>(iii)</b>
-        <p>you comply with the terms of Section 6 of the GNU Lesser
+         </item>
+         <item>
+            <bullet>(iii)</bullet>
+            <p>you comply with the terms of Section 6 of the GNU Lesser
            General Public License version 2.1.</p>
-      </li>
-    </list>
-    <p>Moreover, you may apply this exception to a modified
+         </item>
+      </list>
+      <p>Moreover, you may apply this exception to a modified
        version of the Library, provided that such
        modification does not involve copying material from
        the Library into the modified Library's header files
        unless such material is limited to</p>
-    <list>
-      <li>
-        <b>(i)</b>
-        <p>numerical parameters;</p>
-      </li>
-      <li>
-        <b>(ii)</b>
-        <p>data structure layouts;</p>
-      </li>
-      <li>
-        <b>(iii)</b>
-        <p>accessors; and</p>
-      </li>
-      <li>
-        <b>(iv)</b>
-        <p>small macros, templates and inline functions of five
+      <list>
+         <item>
+            <bullet>(i)</bullet>
+            <p>numerical parameters;</p>
+         </item>
+         <item>
+            <bullet>(ii)</bullet>
+            <p>data structure layouts;</p>
+         </item>
+         <item>
+            <bullet>(iii)</bullet>
+            <p>accessors; and</p>
+         </item>
+         <item>
+            <bullet>(iv)</bullet>
+            <p>small macros, templates and inline functions of five
            lines or less in length.</p>
-      </li>
-    </list>
-    <p>Furthermore, you are not required to apply this additional
+         </item>
+      </list>
+      <p>Furthermore, you are not required to apply this additional
        permission to a modified version of the Library.</p>
-  </exception>
-</SPDX>
+  </license>
+</SPDXLicenseCollection>

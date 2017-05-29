@@ -1,11 +1,12 @@
-<SPDX name="i2p GPL+Java Exception" identifier="i2p-gpl-java-exception">
-  <urls>
-    <url>http://geti2p.net/en/get-involved/develop/licenses#java_exception</url>
-  </urls>
-  <notes>Typically used with GPL-2.0+</notes>
-  <exception>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license licenseId="i2p-gpl-java-exception" name="i2p GPL+Java Exception">
+      <crossRefs>
+         <crossRef>http://geti2p.net/en/get-involved/develop/licenses#java_exception</crossRef>
+      </crossRefs>
+      <notes>Typically used with GPL-2.0+</notes>
       <p>In addition, as a special exception, 
-        <alt name="licensor" match=".+">XXXX</alt> gives permission to
+        <alt match=".+" name="licensor">XXXX</alt> gives permission to
         link the code of this program with the proprietary Java
         implementation provided by Sun (or other vendors as well), and
         distribute linked combinations including the two. You must obey
@@ -16,5 +17,5 @@
         wish to do so, delete this exception statement from your
         version.
       </p>
-  </exception>
-</SPDX>
+  </license>
+</SPDXLicenseCollection>

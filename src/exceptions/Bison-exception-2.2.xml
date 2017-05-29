@@ -1,11 +1,12 @@
-<SPDX name="Bison exception 2.2" identifier="Bison-exception-2.2">
-  <urls></urls>
-  <notes>Typically used with GPL-2.0 or GPL-3.0
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license licenseId="Bison-exception-2.2" name="Bison exception 2.2">
+      <crossRefs/>
+      <notes>Typically used with GPL-2.0 or GPL-3.0
   </notes>
-  <exception>
-    <title>
-      <p>Bison Exception</p>
-    </title>
+      <titleText>
+         <p>Bison Exception</p>
+      </titleText>
       <p>As a special exception, you may create a larger work that
          contains part or all of the Bison parser skeleton and
          distribute that work under terms of your choice, so long as
@@ -18,5 +19,5 @@
          License without this special exception.</p>
       <p>This special exception was added by the Free Software Foundation
          in version 2.2 of Bison.</p>
-  </exception>
-</SPDX>
+  </license>
+</SPDXLicenseCollection>

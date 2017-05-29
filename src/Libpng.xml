@@ -1,9 +1,10 @@
-<SPDX name="libpng License" identifier="Libpng" osi-approved="false">
-  <urls>
-    <url>http://www.libpng.org/pub/png/src/libpng-LICENSE.txt</url>
-  </urls>
-  <license>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="Libpng" name="libpng License">
+      <crossRefs>
+         <crossRef>http://www.libpng.org/pub/png/src/libpng-LICENSE.txt</crossRef>
+      </crossRefs>
+    
       <p>This copy of the libpng notices is provided for your convenience. In case of any discrepancy between this
          copy and the notices in the file png.h that is included in the libpng distribution, the latter shall
          prevail.</p>
@@ -68,19 +69,19 @@
       <p>Permission is hereby granted to use, copy, modify, and distribute this source code, or portions hereof,
          for any purpose, without fee, subject to the following restrictions:</p>
       <list>
-        <li>
-          <b>1.</b>
-          <p>The origin of this source code must not be misrepresented.</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>Altered versions must be plainly marked as such and must not be misrepresented as being the
+        <item>
+            <bullet>1.</bullet>
+            <p>The origin of this source code must not be misrepresented.</p>
+        </item>
+        <item>
+            <bullet>2.</bullet>
+            <p>Altered versions must be plainly marked as such and must not be misrepresented as being the
              original source.</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>This Copyright notice may not be removed or altered from any source or altered source distribution.</p>
-        </li>
+        </item>
+        <item>
+            <bullet>3.</bullet>
+            <p>This Copyright notice may not be removed or altered from any source or altered source distribution.</p>
+        </item>
       </list>
       <p>The Contributing Authors and Group 42, Inc. specifically permit, without fee, and encourage the use of
          this source code as a component to supporting the PNG file format in commercial products. If you use
@@ -95,6 +96,6 @@
         <br/>glennrp at users.sourceforge.net 
         <br/>December 9, 2010 
       </p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

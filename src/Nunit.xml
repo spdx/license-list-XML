@@ -1,37 +1,38 @@
-<SPDX name="Nunit License" identifier="Nunit" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/Nunit</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie Poole 
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="Nunit" name="Nunit License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/Nunit</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie Poole 
         <br/>Copyright © 2000-2004 Philip A. Craig 
       </p>
-    </copyright>
-    <body>
+      </copyrightText>
+    
       <p>This software is provided 'as-is', without any express or implied warranty. In no event will the authors
          be held liable for any damages arising from the use of this software.</p>
       <p>Permission is granted to anyone to use this software for any purpose, including commercial applications,
          and to alter it and redistribute it freely, subject to the following restrictions:</p>
       <list>
-        <li>
-          <b>1.</b>
-          <p>The origin of this software must not be misrepresented; you must not claim that you wrote the
+        <item>
+            <bullet>1.</bullet>
+            <p>The origin of this software must not be misrepresented; you must not claim that you wrote the
              original software. If you use this software in a product, an acknowledgment (see the
              following) in the product documentation is required.</p>
-          <p>Portions Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie
+            <p>Portions Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie
              Poole or Copyright © 2000-2004 Philip A. Craig</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>Altered source versions must be plainly marked as such, and must not be misrepresented as being
+        </item>
+        <item>
+            <bullet>2.</bullet>
+            <p>Altered source versions must be plainly marked as such, and must not be misrepresented as being
              the original software.</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>This notice may not be removed or altered from any source distribution.</p>
-        </li>
+        </item>
+        <item>
+            <bullet>3.</bullet>
+            <p>This notice may not be removed or altered from any source distribution.</p>
+        </item>
       </list>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

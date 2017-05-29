@@ -1,15 +1,16 @@
-<SPDX name="DOC License" identifier="DOC" osi-approved="false">
-  <urls>
-    <url>http://www.cs.wustl.edu/~schmidt/ACE-copying.html</url>
-  </urls>
-  <license>
-    <title>
-      <p>Copyright and Licensing Information for ACE(TM), TAO(TM), CIAO(TM), DAnCE(TM), and CoSMIC(TM)</p>
-    </title>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="DOC" name="DOC License">
+      <crossRefs>
+         <crossRef>http://www.cs.wustl.edu/~schmidt/ACE-copying.html</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>Copyright and Licensing Information for ACE(TM), TAO(TM), CIAO(TM), DAnCE(TM), and CoSMIC(TM)</p>
+      </titleText>
+    
       <p>ACE(TM), TAO(TM), CIAO(TM), DAnCE&gt;(TM), and CoSMIC(TM) (henceforth referred to as "DOC software") are
          copyrighted by Douglas C. Schmidt and his research group at Washington University, University of
-         California, Irvine, and Vanderbilt University, <copyright>Copyright (c) 1993-2009, all rights reserved.</copyright> Since DOC
+         California, Irvine, and Vanderbilt University, <copyrightText>Copyright (c) 1993-2009, all rights reserved.</copyrightText> Since DOC
          software is open-source, freely available software, you are free to use, modify, copy, and
          distribute--perpetually and irrevocably--the DOC software source code and object code produced from
          the source, as well as copy and distribute modified versions of this software. You must, however,
@@ -55,6 +56,6 @@
          Washington University, UC Irvine, or Vanderbilt University to appear in their names.</p>
       <p>If you have any suggestions, additions, comments, or questions, please let me know.</p>
       <p>Douglas C. Schmidt</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

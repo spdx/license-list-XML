@@ -1,19 +1,20 @@
-<spdx name="diffmark license" identifier="diffmark" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/diffmark</url>
-  </urls>
-  <license>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="diffmark" name="diffmark license">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/diffmark</crossRef>
+      </crossRefs>
+    
       <list>
-        <li>
-          <b>1.</b>
-          <p>you can do what you want with it</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>I refuse any responsibility for the consequences</p>
-        </li>
+        <item>
+            <bullet>1.</bullet>
+            <p>you can do what you want with it</p>
+        </item>
+        <item>
+            <bullet>2.</bullet>
+            <p>I refuse any responsibility for the consequences</p>
+        </item>
       </list>
-    </body>
+    
   </license>
-</spdx>
+</SPDXLicenseCollection>

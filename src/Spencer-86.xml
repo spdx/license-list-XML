@@ -1,30 +1,31 @@
-<spdx name="Spencer License 86" identifier="Spencer-86" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Copyright (c) 1986 by University of Toronto. Written by Henry Spencer. Not derived from licensed software.</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="Spencer-86" name="Spencer License 86">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Copyright (c) 1986 by University of Toronto. Written by Henry Spencer. Not derived from licensed software.</p>
+      </copyrightText>
+    
       <p>Permission is granted to anyone to use this software for any purpose on any computer system, and to
          redistribute it freely, subject to the following restrictions:</p>
       <list>
-        <li>
-          <b>1.</b>
-          <p>The author is not responsible for the consequences of use of this software, no matter how awful,
+        <item>
+            <bullet>1.</bullet>
+            <p>The author is not responsible for the consequences of use of this software, no matter how awful,
              even if they arise from defects in it.</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>The origin of this software must not be misrepresented, either by explicit claim or by omission.</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>Altered versions must be plainly marked as such, and must not be misrepresented as being the
+        </item>
+        <item>
+            <bullet>2.</bullet>
+            <p>The origin of this software must not be misrepresented, either by explicit claim or by omission.</p>
+        </item>
+        <item>
+            <bullet>3.</bullet>
+            <p>Altered versions must be plainly marked as such, and must not be misrepresented as being the
              original software.</p>
-        </li>
+        </item>
       </list>
-    </body>
+    
   </license>
-</spdx>
+</SPDXLicenseCollection>

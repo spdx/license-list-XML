@@ -1,12 +1,13 @@
-<spdx name="dvipdfm License" identifier="dvipdfm" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/dvipdfm</url>
-  </urls>
-  <license>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="dvipdfm" name="dvipdfm License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/dvipdfm</crossRef>
+      </crossRefs>
+    
       <p>A modified version of this file may be distributed, but it should be distributed with a *different* name.
          Changed files must be distributed *together with a complete and unchanged* distribution of these
          files.</p>
-    </body>
+    
   </license>
-</spdx>
+</SPDXLicenseCollection>

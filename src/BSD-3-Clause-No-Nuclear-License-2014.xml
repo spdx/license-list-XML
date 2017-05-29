@@ -1,41 +1,43 @@
-<SPDX name="BSD 3-Clause No Nuclear License 2014" identifier="BSD-3-Clause-No-Nuclear-License-2014" osi-approved="false">
-  <urls>
-    <url>https://java.net/projects/javaeetutorial/pages/BerkeleyLicense</url>
-  </urls>
-  <notes>This license has a Oracle copyright notice. It is the same license as
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="BSD-3-Clause-No-Nuclear-License-2014"
+            name="BSD 3-Clause No Nuclear License 2014">
+      <crossRefs>
+         <crossRef>https://java.net/projects/javaeetutorial/pages/BerkeleyLicense</crossRef>
+      </crossRefs>
+      <notes>This license has a Oracle copyright notice. It is the same license as
          BSD-3-Clause-No-Nuclear-License, except it has a different
          entire disclaimer clause that is the same as
          BSD-3-Clause.</notes>
-  <license>
-    <copyright>
-      <p>Copyright © 2008, 2014 Oracle and/or its affiliates. All rights
+      <copyrightText>
+         <p>Copyright © 2008, 2014 Oracle and/or its affiliates. All rights
          reserved.</p>
-    </copyright>
+      </copyrightText>
       <p>Use is subject to license terms.</p>
       <p>Redistribution and use in source and binary forms, with or
          without modification, are permitted provided that the
          following conditions are met:</p>
       <list>
-        <li>
-          <b>*</b>
-          <p>Redistributions of source code must retain the above
+        <item>
+            <bullet>*</bullet>
+            <p>Redistributions of source code must retain the above
              copyright notice, this list of conditions and the
              following disclaimer.</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>Redistributions in binary form must reproduce the above
+        </item>
+        <item>
+            <bullet>*</bullet>
+            <p>Redistributions in binary form must reproduce the above
              copyright notice, this list of conditions and the
              following disclaimer in the documentation and/or other
              materials provided with the distribution.</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>Neither the name of Oracle Corporation nor the names of
+        </item>
+        <item>
+            <bullet>*</bullet>
+            <p>Neither the name of Oracle Corporation nor the names of
              its contributors may be used to endorse or promote
              products derived from this software without specific
              prior written permission.</p>
-        </li>
+        </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
          CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
@@ -54,4 +56,4 @@
          intended for use in the design, construction, operation or
          maintenance of any nuclear facility.</p>
   </license>
-</SPDX>
+</SPDXLicenseCollection>

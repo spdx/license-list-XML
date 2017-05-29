@@ -1,40 +1,41 @@
-<SPDX name="Saxpath License" identifier="Saxpath" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/Saxpath_License</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Copyright (C) 2000-2002 werken digital. 
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="Saxpath" name="Saxpath License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/Saxpath_License</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Copyright (C) 2000-2002 werken digital. 
         <br/>All rights reserved. 
       </p>
-    </copyright>
-    <body>
+      </copyrightText>
+    
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
       <list>
-        <li>
-          <b>1.</b>
-          <p>Redistributions of source code must retain the above copyright notice, this list of conditions,
+        <item>
+            <bullet>1.</bullet>
+            <p>Redistributions of source code must retain the above copyright notice, this list of conditions,
              and the following disclaimer.</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>Redistributions in binary form must reproduce the above copyright notice, this list of
+        </item>
+        <item>
+            <bullet>2.</bullet>
+            <p>Redistributions in binary form must reproduce the above copyright notice, this list of
              conditions, and the disclaimer that follows these conditions in the documentation and/or other
              materials provided with the distribution.</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>The name "SAXPath" must not be used to endorse or promote products derived from this software
+        </item>
+        <item>
+            <bullet>3.</bullet>
+            <p>The name "SAXPath" must not be used to endorse or promote products derived from this software
              without prior written permission. For written permission, please contact
              license@saxpath.org.</p>
-        </li>
-        <li>
-          <b>4.</b>
-          <p>Products derived from this software may not be called "SAXPath", nor may "SAXPath" appear in
+        </item>
+        <item>
+            <bullet>4.</bullet>
+            <p>Products derived from this software may not be called "SAXPath", nor may "SAXPath" appear in
              their name, without prior written permission from the SAXPath Project Management
              (pm@saxpath.org).</p>
-        </li>
+        </item>
       </list>
       <p>In addition, we request (but do not require) that you include in the end-user documentation provided with
          the redistribution and/or in the software itself an acknowledgement equivalent to the following: 
@@ -49,6 +50,6 @@
          CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
          NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
          POSSIBILITY OF SUCH DAMAGE.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

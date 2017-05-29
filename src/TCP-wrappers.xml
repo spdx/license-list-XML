@@ -1,12 +1,14 @@
-<SPDX name="TCP Wrappers License" identifier="TCP-wrappers" osi-approved="false" listVersionAdded="2.6">
-  <urls>
-    <url>http://rc.quest.com/topics/openssh/license.php#tcpwrappers</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Copyright 1995 by Wietse Venema. All rights reserved. Some
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="TCP-wrappers" listVersionAdded="2.6"
+            name="TCP Wrappers License">
+      <crossRefs>
+         <crossRef>http://rc.quest.com/topics/openssh/license.php#tcpwrappers</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Copyright 1995 by Wietse Venema. All rights reserved. Some
          individual files may be covered by other copyrights.</p>
-    </copyright>  
+      </copyrightText>  
       <p>This material was originally written and compiled by Wietse
          Venema at Eindhoven University of Technology, The Netherlands,
          in 1990, 1991, 1992, 1993, 1994 and 1995.</p>
@@ -18,4 +20,4 @@
          warranties of merchantibility and fitness for any particular
          purpose.</p>
   </license>
-</SPDX>
+</SPDXLicenseCollection>

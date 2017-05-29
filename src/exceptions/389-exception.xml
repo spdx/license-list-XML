@@ -1,22 +1,23 @@
-<SPDX name="389 Directory Server Exception" identifier="389-exception">
-  <urls>
-    <url>http://directory.fedoraproject.org/wiki/GPL_Exception_License_Text</url>
-  </urls>
-  <notes>Specified to be associated with GPL-2.0</notes>
-  <exception>
-    <p>This Program is free software; you can redistribute it and/or
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license licenseId="389-exception" name="389 Directory Server Exception">
+      <crossRefs>
+         <crossRef>http://directory.fedoraproject.org/wiki/GPL_Exception_License_Text</crossRef>
+      </crossRefs>
+      <notes>Specified to be associated with GPL-2.0</notes>
+      <p>This Program is free software; you can redistribute it and/or
        modify it under the terms of the GNU General Public License as
        published by the Free Software Foundation; version 2 of the
        License.</p>
-    <p>This Program is distributed in the hope that it will be useful,
+      <p>This Program is distributed in the hope that it will be useful,
        but WITHOUT ANY WARRANTY; without even the implied warranty of
        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
        GNU General Public License for more details.</p>
-    <p>You should have received a copy of the GNU General Public License
+      <p>You should have received a copy of the GNU General Public License
        along with this Program; if not, write to the Free Software
        Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA
        02111-1307 USA.</p>
-    <p>In addition, as a special exception, Red Hat, Inc. gives You the
+      <p>In addition, as a special exception, Red Hat, Inc. gives You the
        additional right to link the code of this Program with code
        not covered under the GNU General Public License ("Non-GPL
        Code") and to distribute linked combinations including the
@@ -38,5 +39,5 @@
        to provide this exception without modification, you must
        delete this exception statement from your version and license
        this file solely under the GPL without exception.</p>
-  </exception>
-</SPDX>
+  </license>
+</SPDXLicenseCollection>

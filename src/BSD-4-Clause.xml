@@ -1,57 +1,59 @@
-<SPDX name="BSD 4-clause &quot;Original&quot; or &quot;Old&quot; License" identifier="BSD-4-Clause" osi-approved="false">
-  <urls>
-    <url>http://directory.fsf.org/wiki/License:BSD_4Clause</url>
-  </urls>
-  <notes>This license was rescinded by the author on 22 July 1999.</notes>
-  <license>
-    <copyright>
-      <p>Copyright (c) 
-        <alt name="copyright" match=".+">&lt;year&gt; &lt;owner&gt;</alt>. All rights reserved. 
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection>
+   <license isOsiApproved="false" licenseId="BSD-4-Clause"
+            name="BSD 4-clause &#34;Original&#34; or &#34;Old&#34; License">
+      <crossRefs>
+         <crossRef>http://directory.fsf.org/wiki/License:BSD_4Clause</crossRef>
+      </crossRefs>
+      <notes>This license was rescinded by the author on 22 July 1999.</notes>
+      <copyrightText>
+         <p>Copyright (c) 
+        <alt match=".+" name="copyright">&lt;year&gt; &lt;owner&gt;</alt>. All rights reserved. 
       </p>
-    </copyright>
-    <body>
+      </copyrightText>
+    
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
       <list>
-        <li>
-          <b>1.</b>
-          <p>Redistributions of source code must retain the above copyright notice, this list of conditions
+        <item>
+            <bullet>1.</bullet>
+            <p>Redistributions of source code must retain the above copyright notice, this list of conditions
              and the following disclaimer.</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+        </item>
+        <item>
+            <bullet>2.</bullet>
+            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
              and the following disclaimer in the documentation and/or other materials provided with the
              distribution.</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>All advertising materials mentioning features or use of this software must display the following
+        </item>
+        <item>
+            <bullet>3.</bullet>
+            <p>All advertising materials mentioning features or use of this software must display the following
              acknowledgement: 
             <br/>This product includes software developed by the 
-            <alt name="organizationClause3" match=".+">the organization</alt>. 
+            <alt match=".+" name="organizationClause3">the organization</alt>. 
           </p>
-        </li>
-        <li>
-          <b>4.</b>
-          <p>Neither the name of 
-            <alt name="organizationClause4" match=".+">the copyright holder</alt> nor the names of its
+        </item>
+        <item>
+            <bullet>4.</bullet>
+            <p>Neither the name of 
+            <alt match=".+" name="organizationClause4">the copyright holder</alt> nor the names of its
             contributors may be used to endorse or promote products derived from this software without
             specific prior written permission. 
           </p>
-        </li>
+        </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY 
-        <alt name="copyrightHolderAsIs" match=".+">COPYRIGHT HOLDER</alt> "AS IS" AND ANY EXPRESS OR IMPLIED
+        <alt match=".+" name="copyrightHolderAsIs">COPYRIGHT HOLDER</alt> "AS IS" AND ANY EXPRESS OR IMPLIED
         WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
         PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL 
-        <alt name="copyrightHolderLiability" match=".+">COPYRIGHT HOLDER</alt> BE LIABLE FOR ANY DIRECT,
+        <alt match=".+" name="copyrightHolderLiability">COPYRIGHT HOLDER</alt> BE LIABLE FOR ANY DIRECT,
         INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
         PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
         HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
         NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
         POSSIBILITY OF SUCH DAMAGE. 
       </p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>
