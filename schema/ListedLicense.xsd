@@ -11,9 +11,10 @@
 	</annotation>
 	<element name="SPDXLicenseCollection" type="tns:SPDXLicenseCollectionType"/>
 	<complexType name="SPDXLicenseCollectionType">
-		<sequence>
-			<element name="license" type="tns:LicenseType" minOccurs="1" maxOccurs="unbounded"/>
-		</sequence>
+		<choice minOccurs="1" maxOccurs="unbounded">
+			<element name="license" type="tns:LicenseType"/>
+			<element name="excepion" type="tns:LicenseType"/>
+		</choice>
 	</complexType>
 	<complexType name="LicenseType" mixed="true">
 		<choice minOccurs="1" maxOccurs="unbounded">
@@ -27,12 +28,21 @@
 			<element name="p" type="tns:formattedTextType"/>
 			<element name="optional" type="tns:optionalType"/>
 			<element name="alt" type="tns:altType"/>
-			<element name="b" type="tns:emptyType"/>
+			<element name="br" type="tns:emptyType"/>
 		</choice>
 		<attribute name="licenseId" type="string"/>
 		<attribute name="isOsiApproved" type="boolean"/>
+		<attribute name="isDeprecated" type="boolean"/>
 		<attribute name="name" type="string"/>
 		<attribute name="listVersionAdded" type="string"/>
+	</complexType>
+	<complexType name="notesType" mixed="true">
+		<choice minOccurs="1" maxOccurs="unbounded">
+			<element name="p" type="tns:formattedTextType"/>
+			<element name="br" type="tns:emptyType"/>
+			<element name="bullet" type="string"/>
+			<element name="list" type="tns:listType"/>
+		</choice>
 	</complexType>
 	<complexType name="crossRefsType">
 		<sequence>
@@ -60,7 +70,7 @@
 		<choice>
 			<element name="p" type="tns:formattedTextType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="bullet" type="string" minOccurs="0" maxOccurs="unbounded"/>
-			<element name="list" type="tns:listType" minOccurs="0" maxOccurs="unbounded"/>			
+			<element name="list" type="tns:listType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="optional" type="tns:optionalType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="alt" type="tns:altType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="br" type="tns:emptyType" minOccurs="0" maxOccurs="unbounded"/>
