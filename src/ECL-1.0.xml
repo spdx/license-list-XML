@@ -2,7 +2,7 @@
   <urls>
     <url>http://opensource.org/licenses/ECL-1.0</url>
   </urls>
-  <header> Copyright (c)
+  <header>Copyright (c)
     <alt name="copyright" match=".+">&lt;year&gt; &lt;copyright holders&gt;</alt> Licensed under the Educational
     Community License version 1.0
   </header>

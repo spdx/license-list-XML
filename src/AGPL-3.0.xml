@@ -4,7 +4,7 @@
     <url>http://www.opensource.org/licenses/AGPL-3.0</url>
   </urls>
   <notes>This version was released: 19 November 2007</notes>
-  <header> Copyright (C)
+  <header>Copyright (C)
     <alt name="copyright" match=".+">[year] [name of author]</alt> This program is free software: you can
     redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the
     Free Software Foundation, version 3. This program is distributed in the hope that it will be useful, but WITHOUT

@@ -4,7 +4,7 @@
   </urls>
   <notes>This license was released: February 1989. This license has been deprecated. This refers to when this GPL 1.0
          only is being used (as opposed to &quot;or later).</notes>
-  <header> Copyright (C)
+  <header>Copyright (C)
     <alt name="copyright" match=".+">19xx name of author</alt>
     <p>This program is free software; you can redistribute it and/or modify it under the terms of the
     GNU General Public License as published by the Free Software Foundation; version 1.</p>

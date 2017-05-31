@@ -5,7 +5,7 @@
   </urls>
   <notes>This license was released: February 1999. This refers to when this LGPL 2.1 only is being used (as opposed to
          &quot;or later).</notes>
-  <header> Copyright (C)
+  <header>Copyright (C)
     <alt name="copyright" match=".+">year name of author</alt>
     <p>This library is free software; you can redistribute
     it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software
