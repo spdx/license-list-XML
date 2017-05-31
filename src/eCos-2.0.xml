@@ -5,7 +5,7 @@
   <notes>DEPRECATED: This is really GPL-2.0 or later with an exception. Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
   <license>
     <title>The eCos license version 2.0</title>
-    <body> 
+    <body>
 	<p>This file is part of eCos, the Embedded Configurable Operating System. Copyright (C) 1998, 1999, 2000, 2001, 2002 Red Hat, Inc.</p>
 	<p>eCos is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 or (at your option) any later version.</p>
 	<p>eCos is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.</p>

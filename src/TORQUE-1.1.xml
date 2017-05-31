@@ -15,10 +15,10 @@
          torqueusers@supercluster.org. Users can also subscribe to the user mailing list at
          http://www.supercluster.org/mailman/listinfo/torqueusers. Customers using TORQUE that also are licensed
          users of Moab branded software from Adaptive Computing Inc. can get TORQUE support from Adaptive Computing
-         via: 
-        <br/>Email: torque-support@adaptivecomputing.com. 
-        <br/>Phone: (801) 717-3700 
-        <br/>Web: www.adaptivecomputing.com www.clusterresources.com 
+         via:
+        <br/>Email: torque-support@adaptivecomputing.com.
+        <br/>Phone: (801) 717-3700
+        <br/>Web: www.adaptivecomputing.com www.clusterresources.com
       </p>
     </optional>
       <p>This license covers use of the TORQUE v2.5 software (the "Software") at your site or location, and, for
@@ -49,12 +49,12 @@
         <li>
           <b>4.</b>
           <p>All advertising materials mentioning features or use of the Software must display the following
-             acknowledgment: 
+             acknowledgment:
             <br/>"TORQUE is a modification of OpenPBS which was developed by NASA Ames Research Center, Lawrence
                  Livermore National Laboratory, and Veridian TORQUE Open Source License v1.1. 1 Information
                  Solutions, Inc. Visit www.clusterresources.com/products/ for more information about TORQUE
                  and to download TORQUE. For information about Moab branded products and so receive support
-                 from Adaptive Computing for TORQUE, see www.adaptivecomputing.com.” 
+                 from Adaptive Computing for TORQUE, see www.adaptivecomputing.com.”
           </p>
         </li>
         <li>
@@ -74,10 +74,10 @@
       <p>This license will be governed by the laws of Utah, without reference to its choice of law rules.</p>
     <optional>
       <p>Note 1: TORQUE is developed from an earlier version v2.3 of OpenPBS. TORQUE has been developed beyond OpenPBS
-         v2.3. The OpenPBS v2.3 license and OpenPBS software can be obtained at: 
+         v2.3. The OpenPBS v2.3 license and OpenPBS software can be obtained at:
         <br/>http://www.pbsworks.com/ResLibSearchResult.aspx?keywords=openpbs&amp;industry=All&amp;pro
              duct_service=All&amp;category=Free%20Software%20Downloads&amp;order_by=title. Users of TORQUE
-             should comply with the TORQUE license as well as the OpenPBS license. 
+             should comply with the TORQUE license as well as the OpenPBS license.
       </p>
     </optional>
   </license>

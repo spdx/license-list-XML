@@ -32,10 +32,10 @@
         </li>
         <li>
           <p>
-            <b>2.</b> Any user documentation included with a redistribution must include the following notice: 
-            <br/>"This product includes software from the Condor® Project (http://www.condorproject.org/)" 
+            <b>2.</b> Any user documentation included with a redistribution must include the following notice:
+            <br/>"This product includes software from the Condor® Project (http://www.condorproject.org/)"
             <br/>Alternatively, if that is where third-party acknowledgments normally appear, this
-                 acknowledgment must be reproduced in the Software itself. 
+                 acknowledgment must be reproduced in the Software itself.
           </p>
         </li>
         <li>
@@ -71,19 +71,19 @@
         </li>
         <li>
           <b>6.</b>
-          <p>DISCLAIMER 
+          <p>DISCLAIMER
             <br/>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS AND THE UNIVERSITY "AS
                  IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
                  WARRANTIES OF MERCHANTABILITY, OF SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR
                  PURPOSE OR USE ARE DISCLAIMED. THE COPYRIGHT HOLDERS AND CONTRIBUTORS AND THE
                  UNIVERSITY MAKE NO REPRESENTATION THAT THE SOFTWARE, MODIFICATIONS, ENHANCEMENTS OR
                  DERIVATIVE WORKS THEREOF, WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK, TRADE
-                 SECRET OR OTHER PROPRIETARY RIGHT. 
+                 SECRET OR OTHER PROPRIETARY RIGHT.
           </p>
         </li>
         <li>
           <b>7.</b>
-          <p>LIMITATION OF LIABILITY 
+          <p>LIMITATION OF LIABILITY
             <br/>THE COPYRIGHT HOLDERS AND CONTRIBUTORS AND ANY OTHER OFFICER, AGENT, OR EMPLOYEE OF THE
                  UNIVERSITY SHALL HAVE NO LIABILITY TO LICENSEE OR OTHER PERSONS FOR DIRECT, INDIRECT,
                  SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES OF ANY CHARACTER
@@ -91,7 +91,7 @@
                  USE, DATA OR PROFITS, OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY THEORY OF
                  CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE,
                  ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
-                 OF SUCH DAMAGES. 
+                 OF SUCH DAMAGES.
           </p>
         </li>
         <li>
@@ -116,13 +116,13 @@
       </list>
       <optional>
         <p>For more information:</p>
-        <p>Condor Team 
-          <br/>Attention: Professor Miron Livny 
-          <br/>7367 Computer Sciences 
-          <br/>1210 W. Dayton St. 
-          <br/>Madison, WI 53706-1685 
-          <br/>miron@cs.wisc.edu 
-          <br/>http://pages.cs.wisc.edu/~miron/miron.html 
+        <p>Condor Team
+          <br/>Attention: Professor Miron Livny
+          <br/>7367 Computer Sciences
+          <br/>1210 W. Dayton St.
+          <br/>Madison, WI 53706-1685
+          <br/>miron@cs.wisc.edu
+          <br/>http://pages.cs.wisc.edu/~miron/miron.html
         </p>
       </optional>
     </body>

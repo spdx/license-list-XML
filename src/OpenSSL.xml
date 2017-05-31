@@ -95,10 +95,10 @@
         <li>
           <b>3.</b>
           <p>All advertising materials mentioning features or use of this software must display the following
-             acknowledgement: 
-            <br/>"This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)" 
+             acknowledgement:
+            <br/>"This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)"
             <br/>The word 'cryptographic' can be left out if the rouines from the library being used are not
-                 cryptographic related :-). 
+                 cryptographic related :-).
           </p>
         </li>
         <li>

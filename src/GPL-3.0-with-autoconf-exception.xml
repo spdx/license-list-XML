@@ -2,7 +2,7 @@
 http://www.gnu.org/licenses/autoconf-exception-3.0.html
   <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
   <license>
-    <body> 
+    <body>
 	<p>insert GPL v3 text here</p>
 	<p>AUTOCONF CONFIGURE SCRIPT EXCEPTION</p>
 	<p>Version 3.0, 18 August 2009</p>

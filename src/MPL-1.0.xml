@@ -8,10 +8,10 @@
           you may not use this file except in compliance with the License. You may obtain a copy of the
           License at http://www.mozilla.org/MPL/ Software distributed under the License is distributed on an
           &quot;AS IS&quot; basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-          for the specific language governing rights and limitations under the License. The Original Code is 
-    <alt name="code" match=".+">_____</alt>. The Initial Developer of the Original Code is 
-    <alt name="InitialDeveloper" match=".+">_____</alt>. Portions created by 
-    <alt name="createdby" match=".+">_____</alt> are Copyright (C) 
+          for the specific language governing rights and limitations under the License. The Original Code is
+    <alt name="code" match=".+">_____</alt>. The Initial Developer of the Original Code is
+    <alt name="InitialDeveloper" match=".+">_____</alt>. Portions created by
+    <alt name="createdby" match=".+">_____</alt> are Copyright (C)
     <alt name="copyright" match=".+">_____</alt>. All Rights Reserved. Contributo<SPDX name="Mozilla Public License 1.0" identifier="MPL-1.0" osi-approved="true">
   <urls>
     <url>http://www.mozilla.org/MPL/MPL-1.0.html</url>
@@ -22,12 +22,12 @@
           you may not use this file except in compliance with the License. You may obtain a copy of the
           License at http://www.mozilla.org/MPL/ Software distributed under the License is distributed on an
           &quot;AS IS&quot; basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-          for the specific language governing rights and limitations under the License. The Original Code is 
-    <alt name="code" match=".+">_____</alt>. The Initial Developer of the Original Code is 
-    <alt name="InitialDeveloper" match=".+">_____</alt>. Portions created by 
-    <alt name="createdby" match=".+">_____</alt> are Copyright (C) 
-    <alt name="copyright" match=".+">_____</alt>. All Rights Reserved. Contributor(s): 
-    <alt name="contributor" match=".+">_____</alt>. 
+          for the specific language governing rights and limitations under the License. The Original Code is
+    <alt name="code" match=".+">_____</alt>. The Initial Developer of the Original Code is
+    <alt name="InitialDeveloper" match=".+">_____</alt>. Portions created by
+    <alt name="createdby" match=".+">_____</alt> are Copyright (C)
+    <alt name="copyright" match=".+">_____</alt>. All Rights Reserved. Contributor(s):
+    <alt name="contributor" match=".+">_____</alt>.
   </header>
   <license>
     <title>
@@ -194,7 +194,7 @@
             </li>
             <li>
               <b>3.2.</b>
-              <p>Availability of Source Code.</p> 
+              <p>Availability of Source Code.</p>
                 <p>Any Modification which You create or to which You contribute must be made available in
                      Source Code form under the terms of this License either on the same media as an
                      Executable version or via an accepted Electronic Distribution Mechanism to anyone
@@ -330,7 +330,7 @@
                      always continue to use it under the terms of that version. You may also choose to
                      use such Covered Code under the terms of any subsequent version of the License
                      published by Netscape. No one other than Netscape has the right to modify the
-                     terms applicable to Covered Code created under this License. 
+                     terms applicable to Covered Code created under this License.
               </p>
             </li>
             <li>
@@ -418,7 +418,7 @@
              and reasonable attorneys fees and expenses. The application of the United Nations
              Convention on Contracts for the International Sale of Goods is expressly excluded. Any
              law or regulation which provides that the language of a contract shall be construed
-             against the drafter shall not apply to this License. 
+             against the drafter shall not apply to this License.
           </p>
         </li>
         <li>
@@ -447,8 +447,8 @@
     </optional>
   </license>
 </SPDX>
-r(s): 
-    <alt name="contributor" match=".+">_____</alt>. 
+r(s):
+    <alt name="contributor" match=".+">_____</alt>.
   </header>
   <license>
     <title>
@@ -554,7 +554,7 @@ r(s):
               <b>2.1.</b>
               <p>The Initial Developer Grant.</p>
                 <p>The Initial Developer hereby grants You a world-wide, royalty-free, non-exclusive
-                     license, subject to third party intellectual property claims: 
+                     license, subject to third party intellectual property claims:
               </p>
               <list>
                 <li>
@@ -684,7 +684,7 @@ r(s):
                      warranty, support, indemnity or liability obligation is offered by You alone, and
                      You hereby agree to indemnify the Initial Developer and every Contributor for any
                      liability incurred by the Initial Developer or such Contributor as a result of
-                     warranty, support, indemnity or liability terms You offer. 
+                     warranty, support, indemnity or liability terms You offer.
               </p>
             </li>
             <li>
@@ -728,7 +728,7 @@ r(s):
                  file described in Section 3.4 and must be included with all distributions of the
                  Source Code. Except to the extent prohibited by statute or regulation, such
                  description must be sufficiently detailed for a recipient of ordinary skill to be able
-                 to understand it. 
+                 to understand it.
           </p>
         </li>
         <li>
@@ -813,7 +813,7 @@ r(s):
         </li>
         <li>
           <b>10.</b>
-          <p>U.S. GOVERNMENT END USERS.</p> 
+          <p>U.S. GOVERNMENT END USERS.</p>
             <p>The Covered Code is a ``commercial item,&apos;&apos; as that term is defined in 48 C.F.R.
                  2.101 (Oct. 1995), consisting of ``commercial computer software&apos;&apos; and
                  ``commercial computer software documentation,&apos;&apos; as such terms are used in 48

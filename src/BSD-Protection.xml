@@ -4,13 +4,13 @@
   </urls>
   <license>
     <title>
-      <p>BSD Protection License 
-        <br/>February 2002 
+      <p>BSD Protection License
+        <br/>February 2002
       </p>
     </title>
     <optional>
-      <p>Preamble 
-        <br/>-------- 
+      <p>Preamble
+        <br/>--------
       </p>
       <p>The Berkeley Software Distribution ("BSD") license has proven very effective over the years at
          allowing for a wide spread of work throughout both commercial and non-commercial products. For
@@ -69,28 +69,28 @@
         </list>
         <li>
           <b>1.</b>
-          <p>Scope. 
+          <p>Scope.
             <br/>This license governs the copying, distribution, and modification of the Program. Other
                  activities are outside the scope of this license; The act of running the Program is
                  not restricted, and the output from the Program is covered only if its contents
-                 constitute a work based on the Program. 
+                 constitute a work based on the Program.
           </p>
         </li>
         <li>
           <b>2.</b>
-          <p>Verbatim copies. 
+          <p>Verbatim copies.
             <br/>You may copy and distribute verbatim copies of the Program as you receive it, in any
                  medium, provided that you conspicuously and appropriately publish on each copy an
                  appropriate copyright notice; keep intact all the notices that refer to this License
                  and to the absence of any warranty; and give any other recipients of the Program a
-                 copy of this License along with the Program. 
+                 copy of this License along with the Program.
           </p>
         </li>
         <li>
           <b>3.</b>
-          <p>Modification and redistribution under closed license. 
+          <p>Modification and redistribution under closed license.
             <br/>You may modify your copy or copies of the Program, and distribute the resulting derivative
-                 works, provided that you meet the following conditions: 
+                 works, provided that you meet the following conditions:
           </p>
         </li>
         <list>
@@ -113,9 +113,9 @@
         </list>
         <li>
           <b>4.</b>
-          <p>Modification and redistribution under open license. 
+          <p>Modification and redistribution under open license.
             <br/>You may modify your copy or copies of the Program, and distribute the resulting derivative
-                 works, provided that you meet the following conditions: 
+                 works, provided that you meet the following conditions:
           </p>
         </li>
         <list>
@@ -141,10 +141,10 @@
         </list>
         <li>
           <b>5.</b>
-          <p>Implied acceptance. 
+          <p>Implied acceptance.
             <br/>You may not copy or distribute the Program or any derivative works except as expressly
                  provided under this license. Consequently, any such action will be taken as implied
-                 acceptance of the terms of this license. 
+                 acceptance of the terms of this license.
           </p>
         </li>
         <li>

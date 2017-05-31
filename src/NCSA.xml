@@ -8,16 +8,16 @@
       <p>University of Illinois/NCSA Open Source License</p>
     </title>
     <copyright>
-      <p>Copyright (c) 
-        <alt name="copyright" match=".+"> &lt;Year&gt; &lt;Owner Organization Name&gt;</alt>. All rights reserved. 
+      <p>Copyright (c)
+        <alt name="copyright" match=".+"> &lt;Year&gt; &lt;Owner Organization Name&gt;</alt>. All rights reserved.
       </p>
     </copyright>
 
-      <p>Developed by: 
+      <p>Developed by:
         <alt name="organization" match=".+">&lt;Name of Development Group&gt; &lt;Name of Institution&gt;
         &lt;URL for Development Group/Institution&gt;</alt>
       </p>
-    
+
     <body>
       <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
          associated documentation files (the "Software"), to deal with the Software without restriction,
@@ -38,10 +38,10 @@
         </li>
         <li>
           <b>*</b>
-          <p>Neither the names of 
+          <p>Neither the names of
             <alt name="organizationClause3" match=".+">&lt;Name of Development Group, Name of
             Institution&gt;</alt>, nor the names of its contributors may be used to endorse or promote
-            products derived from this Software without specific prior written permission. 
+            products derived from this Software without specific prior written permission.
           </p>
         </li>
       </list>

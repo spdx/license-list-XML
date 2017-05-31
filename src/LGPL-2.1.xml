@@ -5,14 +5,14 @@
   </urls>
   <notes>This license was released: February 1999. This refers to when this LGPL 2.1 only is being used (as opposed to
          &quot;or later).</notes>
-  <header> Copyright (C) 
-    <alt name="copyright" match=".+">year name of author</alt> 
+  <header> Copyright (C)
+    <alt name="copyright" match=".+">year name of author</alt>
     <p>This library is free software; you can redistribute
     it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software
-    Foundation; version 2.1.</p> 
+    Foundation; version 2.1.</p>
     <p>This library is distributed in the hope that it will be useful, but WITHOUT ANY
     WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
-    Lesser General Public License for more details.</p> 
+    Lesser General Public License for more details.</p>
     <p>You should have received a copy of the GNU Lesser General Public
     License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth
     Floor, Boston, MA 02110-1301 USA </p>
@@ -22,8 +22,8 @@
       <p>GNU LESSER GENERAL PUBLIC LICENSE</p>
       <p>Version 2.1, February 1999</p>
     </title>
-      <p>Copyright (C) 1991, 1999 Free Software Foundation, Inc. 
-        <br/>51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA 
+      <p>Copyright (C) 1991, 1999 Free Software Foundation, Inc.
+        <br/>51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
       </p>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>
@@ -156,7 +156,7 @@
                event an application does not supply such function or table, the facility still operates,
                and performs whatever part of its purpose remains meaningful.</p>
             </li>
-          </list>       
+          </list>
             <p>(For example, a function in a library to compute square roots has a purpose that is entirely
                well-defined independent of the application. Therefore, Subsection 2d requires that any
                application-supplied function or table used by this function must be optional: if the
@@ -419,8 +419,8 @@
       <p>To apply these terms, attach the following notices to the library. It is safest to attach them to the
          start of each source file to most effectively convey the exclusion of warranty; and each file should
          have at least the &quot;copyright&quot; line and a pointer to where the full notice is found.</p>
-      <p>one line to give the library&apos;s name and an idea of what it does. 
-        <br/>Copyright (C) year name of author 
+      <p>one line to give the library&apos;s name and an idea of what it does.
+        <br/>Copyright (C) year name of author
       </p>
       <p>This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser
          General Public License as published by the Free Software Foundation; either version 2.1 of the
@@ -433,13 +433,13 @@
          USA Also add information on how to contact you by electronic and paper mail.</p>
       <p>You should also get your employer (if you work as a programmer) or your school, if any, to sign a
          &quot;copyright disclaimer&quot; for the library, if necessary. Here is a sample; alter the names:</p>
-      <p>Yoyodyne, Inc., hereby disclaims all copyright interest in 
-        <br/>the library `Frob&apos; (a library for tweaking knobs) written 
-        <br/>by James Random Hacker. 
+      <p>Yoyodyne, Inc., hereby disclaims all copyright interest in
+        <br/>the library `Frob&apos; (a library for tweaking knobs) written
+        <br/>by James Random Hacker.
       </p>
-      <p>signature of Ty Coon, 1 April 1990 
-        <br/>Ty Coon, President of Vice 
-        <br/>That&apos;s all there is to it! 
+      <p>signature of Ty Coon, 1 April 1990
+        <br/>Ty Coon, President of Vice
+        <br/>That&apos;s all there is to it!
       </p>
     </optional>
   </license>

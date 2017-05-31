@@ -4,7 +4,7 @@
   </urls>
   <license>
     <copyright>
-      <p>Copyright (c) 
+      <p>Copyright (c)
         <alt name="copyright" match=".+">2011, Deusty, LLC</alt>
         <br/>All rights reserved.
       </p>
@@ -22,7 +22,7 @@
         </li>
         <li>
           <b>*</b>
-          <p>Neither the name of 
+          <p>Neither the name of
             <alt name="organizationClause3" match=".+">
             Deusty</alt>nor the names of its contributors may be
             used to endorse or promote products derived from this
@@ -31,12 +31,12 @@
           </p>
         </li>
       </list>
-      <p>THIS SOFTWARE IS PROVIDED BY 
+      <p>THIS SOFTWARE IS PROVIDED BY
         <alt name="copyrightHolderAsIs" match=".+">THE COPYRIGHT HOLDERS
         AND CONTRIBUTORS</alt> "AS IS" AND ANY EXPRESS OR IMPLIED
         WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
         WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
-        PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL 
+        PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
         <alt name="copyrightHolderLiability" match=".+">THE COPYRIGHT
         HOLDER OR CONTRIBUTORS</alt> BE LIABLE FOR ANY DIRECT, INDIRECT,
         INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES

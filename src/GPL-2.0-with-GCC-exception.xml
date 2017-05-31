@@ -1,7 +1,7 @@
 <SPDX name="GNU General Public License v2.0 w/GCC Runtime Library exception" identifier="GPL-2.0-with-GCC-exception" deprecated="true">
   <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
   <license>
-    <body> 
+    <body>
 	<p>﻿insert GPL v2 license text here</p>
 	<p>GCC Linking Exception </p>
 	<p>In addition to the permissions in the GNU General Public License, the Free Software Foundation gives you unlimited permission to link the compiled version of this file into combinations with other programs, and to distribute those combinations without any restriction coming from the use of this file. (The General Public License restrictions do apply in other respects; for example, they cover modification of the file, and distribution when not linked into a combine executable.</p>

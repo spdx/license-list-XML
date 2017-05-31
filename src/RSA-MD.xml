@@ -8,14 +8,14 @@
     </copyright>
     <body>
       <p>License to copy and use this software is granted provided that it is identified as the "RSA Data
-         Security, Inc. 
+         Security, Inc.
         <alt name="algorithm" match="(MD5|MD4)">MD5</alt> Message-Digest Algorithm" in all material mentioning
-        or referencing this software or this function. 
+        or referencing this software or this function.
       </p>
       <p>License is also granted to make and use derivative works provided that such works are identified as
-         "derived from the RSA Data Security, Inc. 
+         "derived from the RSA Data Security, Inc.
         <alt name="algorithm" match="(MD5|MD4)">MD5</alt> Message-Digest Algorithm" in all material mentioning
-        or referencing the derived work. 
+        or referencing the derived work.
       </p>
       <p>RSA Data Security, Inc. makes no representations concerning either the merchantability of this software
          or the suitability of this software for any particular purpose. It is provided "as is" without express

@@ -4,17 +4,17 @@
     <url>http://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo-x86/licenses/BitTorrent?r1=1.1&amp;r2=1.1.1.1&amp;diff_format=s</url>
   </urls>
   <header>
-      <p>The contents of this file are subject to the BitTorrent Open Source License Version 1.0 (the License). 
-      You may not copy or use this file, in either source code or executable form, except in compliance with 
+      <p>The contents of this file are subject to the BitTorrent Open Source License Version 1.0 (the License).
+      You may not copy or use this file, in either source code or executable form, except in compliance with
       the License. You may obtain a copy of the License at http://www.bittorrent.com/license/.</p>
-      <p>Software distributed under the License is distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND, 
-      either express or implied. See the License for the specific language governing rights and limitations under 
+      <p>Software distributed under the License is distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND,
+      either express or implied. See the License for the specific language governing rights and limitations under
       the License.</p>
   </header>
   <license>
     <title>
-      <p>BitTorrent Open Source License 
-        <br/>Version 1.0 
+      <p>BitTorrent Open Source License
+        <br/>Version 1.0
       </p>
     </title>
     <body>
@@ -194,13 +194,13 @@
               <p>Third Party Claims. If you have knowledge that a license to a third party&apos;s
                  intellectual property right is required to exercise the rights granted by this
                  License, you must include a text file with the Source Code distribution titled
-                 &quot;LEGAL&quot; that describes the claim and the party making the claim in 
+                 &quot;LEGAL&quot; that describes the claim and the party making the claim in
                  sufficient detail that a recipient will know whom to contact. If you obtain such
-                 knowledge after you make any Modifications available as described in Section 4(b), 
-                 you shall promptly modify the LEGAL file in all copies you make available thereafter 
-                 and shall take other steps (such as notifying appropriate mailing lists or newsgroups) 
-                 reasonably calculated to inform those who received the Licensed Product from you that 
-                 new knowledge has been obtained. 
+                 knowledge after you make any Modifications available as described in Section 4(b),
+                 you shall promptly modify the LEGAL file in all copies you make available thereafter
+                 and shall take other steps (such as notifying appropriate mailing lists or newsgroups)
+                 reasonably calculated to inform those who received the Licensed Product from you that
+                 new knowledge has been obtained.
               </p>
             </li>
             <li>
@@ -242,13 +242,13 @@
             <p>Distribution of Executable Versions. You may distribute Licensed Product as an executable
                program under a license of your choice that may contain terms different from this License
                provided (i) you have satisfied the requirements of Sections 4(a) through 4(d) for that
-               distribution, (ii) you include a conspicuous notice in the executable version, related 
-               documentation and collateral materials stating that the Source Code version of the Licensed 
-               Product is available under the terms of this License, including a description of how and 
-               where you have fulfilled the obligations of Section 4(b), and (iii) you make it clear that 
+               distribution, (ii) you include a conspicuous notice in the executable version, related
+               documentation and collateral materials stating that the Source Code version of the Licensed
+               Product is available under the terms of this License, including a description of how and
+               where you have fulfilled the obligations of Section 4(b), and (iii) you make it clear that
                any terms that differ from this License are offered by you alone, not by Licensor or any
-               Contributor. You hereby agree to indemnify the Licensor and every Contributor for any 
-               liability incurred by Licensor or such Contributor as a result of any terms you offer. 
+               Contributor. You hereby agree to indemnify the Licensor and every Contributor for any
+               liability incurred by Licensor or such Contributor as a result of any terms you offer.
             </p>
           </li>
           <li>
@@ -261,24 +261,24 @@
           </li>
           <li>
             <b>g.</b>
-            <p>Compensation for Distribution of Executable Versions of Licensed Products, Modifications 
-            or Derivative Works. Notwithstanding any provision of this License to the contrary, by distributing, 
-            selling, licensing, sublicensing or otherwise making available any Licensed Product, or Modification 
-            or Derivative Work thereof, you and Licensor hereby acknowledge and agree that you may sell, license 
-            or sublicense for a fee, accept donations or otherwise receive compensation for executable versions 
-            of a Licensed Product, without paying a royalty or other fee to the Licensor or any other Contributor, 
-            provided that such executable versions (i) contain your or another Contributor's material Modifications, 
-            or (ii) are otherwise material Derivative Works. For purposes of this License, an executable version of 
-            the Licensed Product will be deemed to contain a material Modification, or will otherwise be deemed a 
-            material Derivative Work, if (a) the Licensed Product is modified with your own or a third party's software 
-            programs or other code, and/or the Licensed Product is combined with a number of your own or a third party's 
-            software programs or code, respectively, and (b) such software programs or code add or contribute material 
-            value, functionality or features to the License Product. For the avoidance of doubt, to the extent your 
-            executable version of a Licensed Product does not contain your or another Contributor's material Modifications 
-            or is otherwise not a material Derivative Work, in each case as contemplated herein, you may not sell, license 
-            or sublicense for a fee, accept donations or otherwise receive compensation for such executable. Additionally, 
-            without limitation of the foregoing and notwithstanding any provision of this License to the contrary, you 
-            cannot charge for, sell, license or sublicense for a fee, accept donations or otherwise receive compensation 
+            <p>Compensation for Distribution of Executable Versions of Licensed Products, Modifications
+            or Derivative Works. Notwithstanding any provision of this License to the contrary, by distributing,
+            selling, licensing, sublicensing or otherwise making available any Licensed Product, or Modification
+            or Derivative Work thereof, you and Licensor hereby acknowledge and agree that you may sell, license
+            or sublicense for a fee, accept donations or otherwise receive compensation for executable versions
+            of a Licensed Product, without paying a royalty or other fee to the Licensor or any other Contributor,
+            provided that such executable versions (i) contain your or another Contributor's material Modifications,
+            or (ii) are otherwise material Derivative Works. For purposes of this License, an executable version of
+            the Licensed Product will be deemed to contain a material Modification, or will otherwise be deemed a
+            material Derivative Work, if (a) the Licensed Product is modified with your own or a third party's software
+            programs or other code, and/or the Licensed Product is combined with a number of your own or a third party's
+            software programs or code, respectively, and (b) such software programs or code add or contribute material
+            value, functionality or features to the License Product. For the avoidance of doubt, to the extent your
+            executable version of a Licensed Product does not contain your or another Contributor's material Modifications
+            or is otherwise not a material Derivative Work, in each case as contemplated herein, you may not sell, license
+            or sublicense for a fee, accept donations or otherwise receive compensation for such executable. Additionally,
+            without limitation of the foregoing and notwithstanding any provision of this License to the contrary, you
+            cannot charge for, sell, license or sublicense for a fee, accept donations or otherwise receive compensation
             for the Source Code.</p>
           </li>
         </list>
@@ -373,9 +373,9 @@
             <p>Reasonable Value of This License. If you assert a patent infringement claim against
                Respondent alleging that Licensed Product directly or indirectly infringes any patent
                where such claim is resolved (such as by license or settlement) prior to the initiation of
-               patent infringement litigation, then the reasonable value of the licenses granted by said 
-               Respondent under Sections 1 and 2 shall be taken into account in determining the amount 
-               or value of any payment or license. 
+               patent infringement litigation, then the reasonable value of the licenses granted by said
+               Respondent under Sections 1 and 2 shall be taken into account in determining the amount
+               or value of any payment or license.
             </p>
           </li>
           <li>
@@ -396,10 +396,10 @@
              INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE
              OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF SUCH PARTY SHALL
              HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION OF LIABILITY SHALL NOT
-             APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY 
+             APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY
             <br/>RESULTING FROM SUCH PARTYS NEGLIGENCE TO THE EXTENT APPLICABLE LAW PROHIBITS SUCH
                  LIMITATION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL
-                 OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU. 
+                 OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
           </p>
         </li>
         <li>
@@ -407,8 +407,8 @@
           <p>Responsibility for Claims. As between Licensor and Contributors, each party is responsible for
              claims and damages arising, directly or indirectly, out of its utilization of rights under
              this License. You agree to work with Licensor and Contributors to distribute such
-             responsibility on an equitable basis. Nothing herein is intended or 
-            <br/>shall be deemed to constitute any admission of liability. 
+             responsibility on an equitable basis. Nothing herein is intended or
+            <br/>shall be deemed to constitute any admission of liability.
           </p>
         </li>
         <li>
@@ -416,8 +416,8 @@
           <p>U.S. Government End Users. The Licensed Product is a commercial item, as that term is defined in
              48 C.F.R. 2.101 (Oct. 1995), consisting of commercial computer software and commercial
              computer software documentation, as such terms are used in 48 C.F.R. 12.212 (Sept. 1995).
-             Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995), 
-             all U.S. Government End Users acquire Licensed Product with only those rights set forth herein. 
+             Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995),
+             all U.S. Government End Users acquire Licensed Product with only those rights set forth herein.
           </p>
         </li>
         <li>
@@ -425,16 +425,16 @@
           <p>Miscellaneous. This License represents the complete agreement concerning the subject matter
              hereof. If any provision of this License is held to be unenforceable, such provision shall be
              reformed only to the extent necessary to make it enforceable. This License shall be governed
-             by California law provisions (except to the extent applicable law, if any, provides otherwise), 
-             excluding its conflict-of-law provisions. You expressly agree that any litigation relating to 
-             this license shall be subject to the jurisdiction of the Federal Courts of the Northern District 
-             of California or the Superior Court of the County of Santa Clara, California (as appropriate), 
+             by California law provisions (except to the extent applicable law, if any, provides otherwise),
+             excluding its conflict-of-law provisions. You expressly agree that any litigation relating to
+             this license shall be subject to the jurisdiction of the Federal Courts of the Northern District
+             of California or the Superior Court of the County of Santa Clara, California (as appropriate),
              with venue lying in Santa Clara County, California, with the losing party responsible for costs
-             including, without limitation, court costs and reasonable attorneys fees and expenses. The 
-             application of the United Nations Convention on Contracts for the International Sale of Goods is 
-             expressly excluded. You and Licensor expressly waive any rights to a jury trial in any litigation 
-             concerning Licensed Product or this License. Any law or regulation that provides that the language 
-             of a contract shall be construed against the drafter shall not apply to this License. 
+             including, without limitation, court costs and reasonable attorneys fees and expenses. The
+             application of the United Nations Convention on Contracts for the International Sale of Goods is
+             expressly excluded. You and Licensor expressly waive any rights to a jury trial in any litigation
+             concerning Licensed Product or this License. Any law or regulation that provides that the language
+             of a contract shall be construed against the drafter shall not apply to this License.
           </p>
         </li>
         <li>
@@ -442,10 +442,10 @@
           <p>Definition of You in This License. You throughout this License, whether in upper or lower case,
              means an individual or a legal entity exercising rights under, and complying with all of the
              terms of, this License or a future version of this License issued under Section 7. For legal
-             entities, you includes any entity that controls, is controlled by, or is under common control 
-             with you. For purposes of this definition, control means (i) the power, direct or indirect, 
-             to cause the direction or management of such entity, whether by contract or otherwise, or 
-             (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial 
+             entities, you includes any entity that controls, is controlled by, or is under common control
+             with you. For purposes of this definition, control means (i) the power, direct or indirect,
+             to cause the direction or management of such entity, whether by contract or otherwise, or
+             (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial
              ownership of such entity.
           </p>
         </li>
@@ -470,8 +470,8 @@
       <p>Source Code: The preferred form for making modifications to the Licensed Product, including all modules
          contained therein, plus any associated interface definition files, scripts used to control compilation
          and installation of an executable program, or a list of differential comparisons against the Source
-         Code of the Licensed Product. (See 
-        <br/>Section 1(a)) 
+         Code of the Licensed Product. (See
+        <br/>Section 1(a))
       </p>
       <p>You: This term is defined in Section 14 of this License.</p>
     </body>

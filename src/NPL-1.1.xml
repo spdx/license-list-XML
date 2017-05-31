@@ -15,10 +15,10 @@
       <list>
         <li>
           <b>I.</b>
-          <p>Effect. 
+          <p>Effect.
             <br/>These additional terms described in this Netscape Public License -- Amendments shall
                  apply to the Mozilla Communicator client code and to all Covered Code under this
-                 License. 
+                 License.
           </p>
         </li>
         <li>
@@ -29,22 +29,22 @@
         </li>
         <li>
           <b>III.</b>
-          <p>Netscape and logo. 
+          <p>Netscape and logo.
             <br/>This License does not grant any rights to use the trademarks "Netscape", the "Netscape
                  N and horizon" logo or the "Netscape lighthouse" logo, "Netcenter", "Gecko",
                  "Java" or "JavaScript", "Smart Browsing" even if such marks are included in the
-                 Original Code or Modifications. 
+                 Original Code or Modifications.
           </p>
         </li>
         <li>
           <b>IV.</b>
-          <p>Inability to Comply Due to Contractual Obligation. 
+          <p>Inability to Comply Due to Contractual Obligation.
             <br/>Prior to licensing the Original Code under this License, Netscape has licensed third
                  party code for use in Netscape's Branded Code. To the extent that Netscape is
                  limited contractually from making such third party code available under this
                  License, Netscape may choose to reintegrate such code into Covered Code without
                  being required to distribute such code in Source Code form, even if such code
-                 would otherwise be considered "Modifications" under this License. 
+                 would otherwise be considered "Modifications" under this License.
           </p>
         </li>
         <li>
@@ -53,41 +53,41 @@
           <list>
             <li>
               <b>V.1.</b>
-              <p>In General. 
+              <p>In General.
                 <br/>The obligations of Section 3 apply to Netscape, except to the extent specified
-                     in this Amendment, Section V.2 and V.3. 
+                     in this Amendment, Section V.2 and V.3.
               </p>
             </li>
             <li>
               <b>V.2.</b>
-              <p>Other Products. 
+              <p>Other Products.
                 <br/>Netscape may include Covered Code in products other than the Netscape's Branded
                      Code which are released by Netscape during the two (2) years following the
                      release date of the Original Code, without such additional products
                      becoming subject to the terms of this License, and may license such
                      additional products on different terms from those contained in this
-                     License. 
+                     License.
               </p>
             </li>
             <li>
               <b>V.3.</b>
-              <p>Alternative Licensing. 
+              <p>Alternative Licensing.
                 <br/>Netscape may license the Source Code of Netscape's Branded Code, including
                      Modifications incorporated therein, without such Netscape Branded Code
                      becoming subject to the terms of this License, and may license such
                      Netscape Branded Code on different terms from those contained in this
-                     License. 
+                     License.
               </p>
             </li>
           </list>
         </li>
         <li>
           <b>VI.</b>
-          <p>Litigation. 
+          <p>Litigation.
             <br/>Notwithstanding the limitations of Section 11 above, the provisions regarding
                  litigation in Section 11(a), (b) and (c) of the License shall apply to all
-                 disputes relating to this License. 
-            <br/>EXHIBIT A-Netscape Public License. 
+                 disputes relating to this License.
+            <br/>EXHIBIT A-Netscape Public License.
           </p>
           <p>"The contents of this file are subject to the Netscape Public License Version 1.1 (the
              "License"); you may not use this file except in compliance with the License. You may
@@ -96,12 +96,12 @@
       </list>
       <p>Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY
          OF ANY KIND, either express or implied. See the License for the specific language
-         governing rights and limitations under the License. 
-         <br/>The Original Code is Mozilla Communicator client code, released March 31, 1998. 
+         governing rights and limitations under the License.
+         <br/>The Original Code is Mozilla Communicator client code, released March 31, 1998.
          <br/>The Initial Developer of the Original Code is Netscape Communications Corporation.
               Portions created by Netscape are Copyright (C) 1998-1999 Netscape Communications
-              Corporation. All Rights Reserved. 
-         <br/>Contributor(s): ______________________________________. 
+              Corporation. All Rights Reserved.
+         <br/>Contributor(s): ______________________________________.
       </p>
       <p>Alternatively, the contents of this file may be used under the terms of the _____ license
          (the "[___] License"), in which case the provisions of [______] License are applicable
@@ -163,10 +163,10 @@
               <b>1.9.</b>
               <p>"Modifications" means any addition to or deletion from the substance or structure of either
                  the Original Code or any previous Modifications. When Covered Code is released as a series
-                 of files, a Modification is: 
+                 of files, a Modification is:
                 <br/>Any addition to or deletion from the contents of a file containing Original Code or
-                     previous Modifications. 
-                <br/>Any new file that contains any part of the Original Code or previous Modifications. 
+                     previous Modifications.
+                <br/>Any new file that contains any part of the Original Code or previous Modifications.
               </p>
             </li>
             <li>
@@ -323,7 +323,7 @@
               <list>
                 <li>
                   <b>(a)</b>
-                  <p>Third Party Claims 
+                  <p>Third Party Claims
                     <br/>If Contributor has knowledge that a license under a third party's intellectual
                          property rights is required to exercise the rights granted by such Contributor
                          under Sections 2.1 or 2.2, Contributor must include a text file with the
@@ -334,25 +334,25 @@
                          LEGAL file in all copies Contributor makes available thereafter and shall take
                          other steps (such as notifying appropriate mailing lists or newsgroups)
                          reasonably calculated to inform those who received the Covered Code that new
-                         knowledge has been obtained. 
+                         knowledge has been obtained.
                   </p>
                 </li>
                 <li>
                   <b>(b)</b>
-                  <p>Contributor APIs 
+                  <p>Contributor APIs
                     <br/>If Contributor's Modifications include an application programming interface and
                          Contributor has knowledge of patent licenses which are reasonably necessary to
                          implement that API, Contributor must also include this information in the
-                         LEGAL file. 
+                         LEGAL file.
                   </p>
                 </li>
                 <li>
                   <b>(c)</b>
-                  <p>Representations. 
+                  <p>Representations.
                     <br/>Contributor represents that, except as disclosed pursuant to Section 3.4 (a) above,
                          Contributor believes that Contributor's Modifications are Contributor's
                          original creation(s) and/or Contributor has sufficient rights to grant the
-                         rights conveyed by this License. 
+                         rights conveyed by this License.
                   </p>
                 </li>
               </list>
@@ -416,9 +416,9 @@
         </li>
         <li>
           <b>5.</b>
-          <p>Application of this License. 
+          <p>Application of this License.
             <br/>This License applies to code to which the Initial Developer has attached the notice in
-                 Exhibit A and to related Covered Code. 
+                 Exhibit A and to related Covered Code.
           </p>
         </li>
         <li>
@@ -427,25 +427,25 @@
           <list>
             <li>
               <b>6.1.</b>
-              <p>New Versions 
+              <p>New Versions
                 <br/>Netscape Communications Corporation ("Netscape") may publish revised and/or new
                      versions of the License from time to time. Each version will be given a
-                     distinguishing version number. 
+                     distinguishing version number.
               </p>
             </li>
             <li>
               <b>6.2.</b>
-              <p>Effect of New Versions 
+              <p>Effect of New Versions
                 <br/>Once Covered Code has been published under a particular version of the License, You may
                      always continue to use it under the terms of that version. You may also choose to
                      use such Covered Code under the terms of any subsequent version of the License
                      published by Netscape. No one other than Netscape has the right to modify the
-                     terms applicable to Covered Code created under this License. 
+                     terms applicable to Covered Code created under this License.
               </p>
             </li>
             <li>
               <b>6.3.</b>
-              <p>Derivative Works 
+              <p>Derivative Works
                 <br/>If You create or use a modified version of this License (which you may only do in order
                      to apply it to code which is not already Covered Code governed by this License),
                      You must (a) rename Your license so that the phrases "Mozilla", "MOZILLAPL",
@@ -455,14 +455,14 @@
                      differ from the Mozilla Public License and Netscape Public License. (Filling in
                      the name of the Initial Developer, Original Code or Contributor in the notice
                      described in Exhibit A shall not of themselves be deemed to be modifications of
-                     this License.) 
+                     this License.)
               </p>
             </li>
           </list>
         </li>
         <li>
           <b>7.</b>
-          <p>DISCLAIMER OF WARRANTY 
+          <p>DISCLAIMER OF WARRANTY
             <br/>COVERED CODE IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS, WITHOUT WARRANTY OF ANY
                  KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT THE
                  COVERED CODE IS FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR
@@ -471,7 +471,7 @@
                  INITIAL DEVELOPER OR ANY OTHER CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY
                  SERVICING, REPAIR OR CORRECTION. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL
                  PART OF THIS LICENSE. NO USE OF ANY COVERED CODE IS AUTHORIZED HEREUNDER EXCEPT UNDER
-                 THIS DISCLAIMER. 
+                 THIS DISCLAIMER.
           </p>
         </li>
         <li>
@@ -536,7 +536,7 @@
         </li>
         <li>
           <b>9.</b>
-          <p>LIMITATION OF LIABILITY 
+          <p>LIMITATION OF LIABILITY
             <br/>UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING NEGLIGENCE),
                  CONTRACT, OR OTHERWISE, SHALL YOU, THE INITIAL DEVELOPER, ANY OTHER CONTRIBUTOR, OR
                  ANY DISTRIBUTOR OF COVERED CODE, OR ANY SUPPLIER OF ANY OF SUCH PARTIES, BE LIABLE TO
@@ -547,23 +547,23 @@
                  LIMITATION OF LIABILITY SHALL NOT APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY
                  RESULTING FROM SUCH PARTY'S NEGLIGENCE TO THE EXTENT APPLICABLE LAW PROHIBITS SUCH
                  LIMITATION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL
-                 OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU. 
+                 OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
           </p>
         </li>
         <li>
           <b>10.</b>
-          <p>U.S. government end users 
+          <p>U.S. government end users
             <br/>The Covered Code is a "commercial item," as that term is defined in 48 C.F.R. 2.101 (Oct.
                  1995), consisting of "commercial computer software" and "commercial computer software
                  documentation," as such terms are used in 48 C.F.R. 12.212 (Sept. 1995). Consistent
                  with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995), all
                  U.S. Government End Users acquire Covered Code with only those rights set forth
-                 herein. 
+                 herein.
           </p>
         </li>
         <li>
           <b>11.</b>
-          <p>Miscellaneous 
+          <p>Miscellaneous
             <br/>This License represents the complete agreement concerning subject matter hereof. If any
                  provision of this License is held to be unenforceable, such provision shall be
                  reformed only to the extent necessary to make it enforceable. This License shall be
@@ -577,17 +577,17 @@
                  and reasonable attorneys' fees and expenses. The application of the United Nations
                  Convention on Contracts for the International Sale of Goods is expressly excluded. Any
                  law or regulation which provides that the language of a contract shall be construed
-                 against the drafter shall not apply to this License. 
+                 against the drafter shall not apply to this License.
           </p>
         </li>
         <li>
           <b>12.</b>
-          <p>Responsibility for claims 
+          <p>Responsibility for claims
             <br/>As between Initial Developer and the Contributors, each party is responsible for claims and
                  damages arising, directly or indirectly, out of its utilization of rights under this
                  License and You agree to work with Initial Developer and Contributors to distribute
                  such responsibility on an equitable basis. Nothing herein is intended or shall be
-                 deemed to constitute any admission of liability. 
+                 deemed to constitute any admission of liability.
           </p>
         </li>
         <li>
@@ -609,9 +609,9 @@
          either express or implied. See the License for the specific language governing rights and limitations
          under the License.</p>
       <p>The Original Code is ______________________________________.</p>
-      <p>The Initial Developer of the Original Code is ________________________. 
-        <br/>Portions created by ______________________ are Copyright (C) ______ 
-        <br/>_______________________. All Rights Reserved. 
+      <p>The Initial Developer of the Original Code is ________________________.
+        <br/>Portions created by ______________________ are Copyright (C) ______
+        <br/>_______________________. All Rights Reserved.
       </p>
       <p>Contributor(s): ______________________________________.</p>
       <p>Alternatively, the contents of this file may be used under the terms of the _____ license (the "[___]
