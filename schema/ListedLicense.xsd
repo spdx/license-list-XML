@@ -13,8 +13,28 @@
 	<complexType name="SPDXLicenseCollectionType">
 		<choice minOccurs="1" maxOccurs="unbounded">
 			<element name="license" type="tns:LicenseType"/>
-			<element name="excepion" type="tns:LicenseType"/>
+			<element name="excepion" type="tns:ExceptionType"/>
 		</choice>
+	</complexType>
+	<complexType name="ExceptionType" mixed="true">
+		<choice minOccurs="1" maxOccurs="unbounded">
+			<element name="crossRefs" type="tns:crossRefsType" minOccurs="0" maxOccurs="1"/>
+			<element name="notes" type="string" minOccurs="0" maxOccurs="1"/>
+			<element name="titleText" type="tns:formattedTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="copyrightText" type="tns:formattedTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="bullet" type="string"/>
+			<element name="list" type="tns:listType"/>
+			<element name="p" type="tns:formattedTextType"/>
+			<element name="optional" type="tns:optionalType"/>
+			<element name="alt" type="tns:altType"/>
+			<element name="br" type="tns:emptyType"/>
+			<element name="example" type="string" minOccurs="0" maxOccurs="1" />
+		</choice>
+		<attribute name="licenseId" type="string"/>
+		<attribute name="isDeprecated" type="boolean"/>
+		<attribute name="name" type="string"/>
+		<attribute name="listVersionAdded" type="string"/>
+		<attribute name="deprecatedVersion" type="string"/>
 	</complexType>
 	<complexType name="LicenseType" mixed="true">
 		<choice minOccurs="1" maxOccurs="unbounded">
@@ -35,6 +55,7 @@
 		<attribute name="isDeprecated" type="boolean"/>
 		<attribute name="name" type="string"/>
 		<attribute name="listVersionAdded" type="string"/>
+		<attribute name="deprecatedVersion" type="string"/>
 	</complexType>
 	<complexType name="notesType" mixed="true">
 		<choice minOccurs="1" maxOccurs="unbounded">
