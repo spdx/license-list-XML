@@ -13,7 +13,7 @@
 	<complexType name="SPDXLicenseCollectionType">
 		<choice minOccurs="1" maxOccurs="unbounded">
 			<element name="license" type="tns:LicenseType"/>
-			<element name="excepion" type="tns:ExceptionType"/>
+			<element name="exception" type="tns:ExceptionType"/>
 		</choice>
 	</complexType>
 	<complexType name="ExceptionType" mixed="true">
