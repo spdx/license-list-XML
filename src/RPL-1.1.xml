@@ -23,7 +23,6 @@
          In this fashion the available Source Code related to the original Licensed Software is enlarged for
          the benefit of everyone.</p>
       <p>Under the terms of this License You may:</p>
-
       <list>
         <li>
           <b>a.</b>
@@ -105,10 +104,10 @@
              License.</p>
         </li>
       </list>
-          
+    </optional>     
     <p>LICENSE TERMS</p>
-      <list>   
-        <li>
+    <list>   
+    <li>
           <b>1.0</b>
           <p>General; Applicability &amp; Definitions. This Reciprocal Public License Version 1.1 ("License")
              applies to any programs or other works as well as any and all updates or maintenance releases
@@ -218,7 +217,7 @@
         </li>
         </list>
       </li>
-      <li>
+    <li>
           <b>2.0</b>
           <p>Acceptance Of License. You are not required to accept this License since you have not signed it,
              however nothing else grants you permission to use, copy, distribute, modify, or create
@@ -230,7 +229,7 @@
              TO COMPLY WITH ALL THE TERMS AND CONDITIONS OF THIS LICENSE THEN YOU CAN NOT USE, MODIFY,
              CREATE DERIVATIVES, OR DISTRIBUTE THE SOFTWARE.</p>
       </li>
-      <li>
+    <li>
           <b>3.0</b>
           <p>Grant of License From Licensor. Subject to the terms and conditions of this License, Licensor
              hereby grants You a world-wide, royalty-free, non-exclusive license, subject to Licensor's
@@ -263,7 +262,7 @@
         </li>
         </list>
       </li>
-      <li>
+    <li>
           <b>4.0</b>
           <p>Grant of License From Contributor. By application of the provisions in Section 6 below, each
              Contributor hereby grants You a world-wide, royalty-free, non-exclusive license, subject to
@@ -285,7 +284,7 @@
             </li>
             </list>
         </li>
-        <li>
+    <li>
           <b>5.0</b>
           <p>Exclusions From License Grant. Nothing in this License shall be deemed to grant any rights to
              trademarks, copyrights, patents, trade secrets or any other intellectual property of Licensor
@@ -441,11 +440,6 @@
             </li>
           </list>
     </li>
-    
-    
-    //Jilayne stopped here //
-    
-    
     <li>
       <b>7.0</b>
       <p>Versions of This License. Licensor may publish from time to time revised and/or new versions of
@@ -454,8 +448,6 @@
          choose to use such Licensed Software under the terms of any subsequent version of the License
          published by Licensor. No one other than Licensor has the right to modify the terms applicable
          to Licensed Software created under this License.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>7.1</b>
@@ -468,26 +460,28 @@
              require of licensees, You may continue to refer to Your License as the Reciprocal Public
              License or simply the RPL.</p>
         </li>
-        <li>
-          <b>8.0</b>
-          <p>Disclaimer of Warranty. LICENSED SOFTWARE IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS,
-             WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION,
-             WARRANTIES THAT THE LICENSED SOFTWARE IS FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR
-             PURPOSE OR NON-INFRINGING. FURTHER THERE IS NO WARRANTY MADE AND ALL IMPLIED WARRANTIES ARE
-             DISCLAIMED THAT THE LICENSED SOFTWARE MEETS OR COMPLIES WITH ANY DESCRIPTION OF PERFORMANCE OR
-             OPERATION, SAID COMPATIBILITY AND SUITABILITY BEING YOUR RESPONSIBILITY. LICENSOR DISCLAIMS
-             ANY WARRANTY, IMPLIED OR EXPRESSED, THAT ANY CONTRIBUTOR'S EXTENSIONS MEET ANY STANDARD OF
-             COMPATIBILITY OR DESCRIPTION OF PERFORMANCE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE
-             OF THE LICENSED SOFTWARE IS WITH YOU. SHOULD LICENSED SOFTWARE PROVE DEFECTIVE IN ANY RESPECT,
-             YOU (AND NOT THE LICENSOR OR ANY OTHER CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY
-             SERVICING, REPAIR OR CORRECTION. UNDER THE TERMS OF THIS LICENSOR WILL NOT SUPPORT THIS
-             SOFTWARE AND IS UNDER NO OBLIGATION TO ISSUE UPDATES TO THIS SOFTWARE. LICENSOR HAS NO
-             KNOWLEDGE OF ERRANT CODE OR VIRUS IN THIS SOFTWARE, BUT DOES NOT WARRANT THAT THE SOFTWARE IS
-             FREE FROM SUCH ERRORS OR VIRUSES. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF
-             THIS LICENSE. NO USE OF LICENSED SOFTWARE IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS
-             DISCLAIMER.</p>
-        </li>
-        <li>
+      </list>
+    </li>
+    <li>
+      <b>8.0</b>
+      <p>Disclaimer of Warranty. LICENSED SOFTWARE IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS,
+         WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION,
+         WARRANTIES THAT THE LICENSED SOFTWARE IS FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR
+         PURPOSE OR NON-INFRINGING. FURTHER THERE IS NO WARRANTY MADE AND ALL IMPLIED WARRANTIES ARE
+         DISCLAIMED THAT THE LICENSED SOFTWARE MEETS OR COMPLIES WITH ANY DESCRIPTION OF PERFORMANCE OR
+         OPERATION, SAID COMPATIBILITY AND SUITABILITY BEING YOUR RESPONSIBILITY. LICENSOR DISCLAIMS
+         ANY WARRANTY, IMPLIED OR EXPRESSED, THAT ANY CONTRIBUTOR'S EXTENSIONS MEET ANY STANDARD OF
+         COMPATIBILITY OR DESCRIPTION OF PERFORMANCE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE
+         OF THE LICENSED SOFTWARE IS WITH YOU. SHOULD LICENSED SOFTWARE PROVE DEFECTIVE IN ANY RESPECT,
+         YOU (AND NOT THE LICENSOR OR ANY OTHER CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY
+         SERVICING, REPAIR OR CORRECTION. UNDER THE TERMS OF THIS LICENSOR WILL NOT SUPPORT THIS
+         SOFTWARE AND IS UNDER NO OBLIGATION TO ISSUE UPDATES TO THIS SOFTWARE. LICENSOR HAS NO
+         KNOWLEDGE OF ERRANT CODE OR VIRUS IN THIS SOFTWARE, BUT DOES NOT WARRANT THAT THE SOFTWARE IS
+         FREE FROM SUCH ERRORS OR VIRUSES. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF
+         THIS LICENSE. NO USE OF LICENSED SOFTWARE IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS
+         DISCLAIMER.</p>
+    </li>
+    <li>
           <b>9.0</b>
           <p>Limitation of Liability. UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT
              (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL THE LICENSOR, ANY CONTRIBUTOR, OR ANY
@@ -501,39 +495,37 @@
              OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT
              APPLY TO YOU.</p>
         </li>
-        <li>
-          <b>10.0</b>
-          <p>High Risk Activities. THE LICENSED SOFTWARE IS NOT FAULT-TOLERANT AND IS NOT DESIGNED,
-             MANUFACTURED, OR INTENDED FOR USE OR DISTRIBUTION AS ON-LINE CONTROL EQUIPMENT IN HAZARDOUS
-             ENVIRONMENTS REQUIRING FAIL-SAFE PERFORMANCE, SUCH AS IN THE OPERATION OF NUCLEAR FACILITIES,
-             AIRCRAFT NAVIGATION OR COMMUNICATIONS SYSTEMS, AIR TRAFFIC CONTROL, DIRECT LIFE SUPPORT
-             MACHINES, OR WEAPONS SYSTEMS, IN WHICH THE FAILURE OF THE LICENSED SOFTWARE COULD LEAD
-             DIRECTLY TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE ("HIGH RISK
-             ACTIVITIES"). LICENSOR AND CONTRIBUTORS SPECIFICALLY DISCLAIM ANY EXPRESS OR IMPLIED WARRANTY
-             OF FITNESS FOR HIGH RISK ACTIVITIES.</p>
-        </li>
-        <li>
-          <b>11.0</b>
-          <p>Responsibility for Claims. As between Licensor and Contributors, each party is responsible for
-             claims and damages arising, directly or indirectly, out of its utilization of rights under
-             this License which specifically disclaims warranties and limits any liability of the Licensor.
-             This paragraph is to be used in conjunction with and controlled by the Disclaimer Of
-             Warranties of Section 8, the Limitation Of Damages in Section 9, and the disclaimer against
-             use for High Risk Activities in Section 10. The Licensor has thereby disclaimed all warranties
-             and limited any damages that it is or may be liable for. You agree to work with Licensor and
-             Contributors to distribute such responsibility on an equitable basis consistent with the terms
-             of this License including Sections 8, 9, and 10. Nothing herein is intended or shall be deemed
-             to constitute any admission of liability.</p>
-        </li>
-        <li>
-          <b>12.0</b>
-          <p>Termination. This License and all rights granted hereunder will terminate immediately in the
-             event of the circumstances described in Section 13.6 or if applicable law prohibits or
-             restricts You from fully and or specifically complying with Sections 3, 4 and/or 6, or
-             prevents the enforceability of any of those Sections, and You must immediately discontinue any
-             use of Licensed Software.</p>
-        </li>
-      </list>
+    <li>
+      <b>10.0</b>
+      <p>High Risk Activities. THE LICENSED SOFTWARE IS NOT FAULT-TOLERANT AND IS NOT DESIGNED,
+         MANUFACTURED, OR INTENDED FOR USE OR DISTRIBUTION AS ON-LINE CONTROL EQUIPMENT IN HAZARDOUS
+         ENVIRONMENTS REQUIRING FAIL-SAFE PERFORMANCE, SUCH AS IN THE OPERATION OF NUCLEAR FACILITIES,
+         AIRCRAFT NAVIGATION OR COMMUNICATIONS SYSTEMS, AIR TRAFFIC CONTROL, DIRECT LIFE SUPPORT
+         MACHINES, OR WEAPONS SYSTEMS, IN WHICH THE FAILURE OF THE LICENSED SOFTWARE COULD LEAD
+         DIRECTLY TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE ("HIGH RISK
+         ACTIVITIES"). LICENSOR AND CONTRIBUTORS SPECIFICALLY DISCLAIM ANY EXPRESS OR IMPLIED WARRANTY
+         OF FITNESS FOR HIGH RISK ACTIVITIES.</p>
+    </li>
+    <li>
+      <b>11.0</b>
+      <p>Responsibility for Claims. As between Licensor and Contributors, each party is responsible for
+         claims and damages arising, directly or indirectly, out of its utilization of rights under
+         this License which specifically disclaims warranties and limits any liability of the Licensor.
+         This paragraph is to be used in conjunction with and controlled by the Disclaimer Of
+         Warranties of Section 8, the Limitation Of Damages in Section 9, and the disclaimer against
+         use for High Risk Activities in Section 10. The Licensor has thereby disclaimed all warranties
+         and limited any damages that it is or may be liable for. You agree to work with Licensor and
+         Contributors to distribute such responsibility on an equitable basis consistent with the terms
+         of this License including Sections 8, 9, and 10. Nothing herein is intended or shall be deemed
+         to constitute any admission of liability.</p>
+    </li>
+    <li>
+      <b>12.0</b>
+      <p>Termination. This License and all rights granted hereunder will terminate immediately in the
+         event of the circumstances described in Section 13.6 or if applicable law prohibits or
+         restricts You from fully and or specifically complying with Sections 3, 4 and/or 6, or
+         prevents the enforceability of any of those Sections, and You must immediately discontinue any
+         use of Licensed Software.</p>
       <list>
         <li>
           <b>12.1</b>
@@ -575,11 +567,11 @@
              granted by You or any distributor hereunder prior to termination shall survive
              termination.</p>
         </li>
-        <li>
-          <b>13.0</b>
-          <p>Miscellaneous.</p>
-        </li>
       </list>
+    </li>
+    <li>
+      <b>13.0</b>
+      <p>Miscellaneous.</p>
       <list>
         <li>
           <b>13.1</b>
@@ -655,6 +647,8 @@
              to the subject matter hereof.</p>
         </li>
       </list>
+    </li>
+    </list>
 
     <optional>
       <p>EXHIBIT A</p>
