@@ -5,26 +5,26 @@
   </urls>
   <notes>This license was released: June 1991 This refers to when this GPL 2.0 only is being used (as opposed to GPLv2
          or later).</notes>
-  <header> Copyright (C) 
-    <alt name="copyright" match=".+">yyyy name of author</alt> 
+  <header>Copyright (C)
+    <alt name="copyright" match=".+">yyyy name of author</alt>
      <p>This program is free software; you can redistribute
     it and/or modify it under the terms of the GNU General Public License as published by the Free Software
-    Foundation; version 2. </p>
+    Foundation; version 2.</p>
      <p>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
     without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
-    Public License for more details. </p>
+    Public License for more details.</p>
     <p>You should have received a copy of the GNU General Public License along with
     this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
-    02110-1301, USA.</p> 
+    02110-1301, USA.</p>
   </header>
   <license>
     <title>
-      <p>GNU GENERAL PUBLIC LICENSE 
-        <br/>Version 2, June 1991 
+      <p>GNU GENERAL PUBLIC LICENSE
+        <br/>Version 2, June 1991
       </p>
     </title>
-      <p>Copyright (C) 1989, 1991 Free Software Foundation, Inc. 
-        <br/>51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA 
+      <p>Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+        <br/>51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
       </p>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>

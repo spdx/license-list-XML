@@ -3,15 +3,15 @@
     <url>http://www.openoffice.org/licenses/sissl_license.html</url>
     <url>http://opensource.org/licenses/SISSL</url>
   </urls>
-  <header> The contents of this file are subject to the Sun Standards License Version 1.1 (the "License"); You may not
-          use this file except in compliance with the License. You may obtain a copy of the License at 
+  <header>The contents of this file are subject to the Sun Standards License Version 1.1 (the "License"); You may not
+          use this file except in compliance with the License. You may obtain a copy of the License at
     <alt name="LicLocation" match=".+">_______</alt>. Software distributed under the License is distributed on an
     "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific
-    language governing rights and limitations under the License. The Original Code is 
+    language governing rights and limitations under the License. The Original Code is
     <alt name="code" match=".+">_____</alt>. The Initial Developer of the Original Code is: Sun Microsystems, Inc..
-    Portions created by: 
-    <alt name="createdby" match=".+">_____</alt> are Copyright (C): 
-    <alt name="copyright" match=".+">_____</alt> All Rights Reserved. Contributor(s): 
+    Portions created by:
+    <alt name="createdby" match=".+">_____</alt> are Copyright (C):
+    <alt name="copyright" match=".+">_____</alt> All Rights Reserved. Contributor(s):
     <alt name="contributor" match=".+">_____</alt>
   </header>
   <license>
@@ -329,24 +329,24 @@
          not use this file except in compliance with the License. You may obtain a copy of the License at
          _______________________________.</p>
       <p>Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND,
-         either 
+         either
         <br/>express or implied. See the License for the specific language governing rights and limitations
-             under the License. 
+             under the License.
       </p>
       <p>The Original Code is ______________________________________.</p>
-      <p>The Initial Developer of the Original Code is: 
-        <br/>Sun Microsystems, Inc.. 
+      <p>The Initial Developer of the Original Code is:
+        <br/>Sun Microsystems, Inc..
       </p>
       <p>Portions created by: _______________________________________</p>
       <p>are Copyright (C): _______________________________________</p>
       <p>All Rights Reserved.</p>
-      <p>Contributor(s): _______________________________________ 
-        <br/>EXHIBIT B - Standards 
+      <p>Contributor(s): _______________________________________
+        <br/>EXHIBIT B - Standards
       </p>
-      <p>The Standard is defined as the following: 
-        <br/>OpenOffice.org XML File Format Specification, located at http://xml.openoffice.org 
-        <br/>OpenOffice.org Application Programming Interface Specification, located at 
-        <br/>http://api.openoffice.org 
+      <p>The Standard is defined as the following:
+        <br/>OpenOffice.org XML File Format Specification, located at http://xml.openoffice.org
+        <br/>OpenOffice.org Application Programming Interface Specification, located at
+        <br/>http://api.openoffice.org
       </p>
     </optional>
   </license>

@@ -17,9 +17,9 @@
         <list>
           <li>
             <b>a.</b>
-            <p>in the case of 
+            <p>in the case of
               <alt name="organization" match=".+">&lt;ORGANIZATION&gt;</alt> ("
-              <alt name="owner" match=".+">&lt;OWNER&gt;</alt>"), the Original Program, and 
+              <alt name="owner" match=".+">&lt;OWNER&gt;</alt>"), the Original Program, and
             </p>
           </li>
           <li>
@@ -41,9 +41,9 @@
                  to the Program which: (i) are separate modules of software distributed in conjunction
                  with the Program under their own license agreement, and (ii) are not derivative works
                  of the Program.</p>
-              <p>"Contributor" means 
+              <p>"Contributor" means
                 <alt name="owner" match=".+">&lt;OWNER&gt;</alt> and any other entity that has
-                Contributed a Contribution to the Program. 
+                Contributed a Contribution to the Program.
               </p>
               <p>"Distributor" means a Recipient that distributes the Program, modifications to the
                  Program, or any part thereof.</p>
@@ -51,9 +51,9 @@
                  infringed by the use or sale of its Contribution alone or when combined with the
                  Program.</p>
               <p>"Original Program" means the original version of the software accompanying this Agreement
-                 as released by 
+                 as released by
                 <alt name="owner" match=".+">&lt;OWNER&gt;</alt>, including source code, object code and
-                documentation, if any. 
+                documentation, if any.
               </p>
               <p>"Program" means the Original Program and Contributions or any part thereof</p>
               <p>"Recipient" means anyone who receives the Program under this Agreement, including all Contributors.</p>
@@ -155,9 +155,9 @@
           <li>
             <b>B.</b>
             <p>Each Distributor must include the following in a conspicuous location in the Program:</p>
-            <p>Copyright (C) 
+            <p>Copyright (C)
               <alt name="copyright" match=".+">&lt;YEAR&gt;, &lt;ORGANIZATION&gt;</alt> and others. All
-              Rights Reserved. 
+              Rights Reserved.
             </p>
           </li>
           <li>
@@ -246,18 +246,18 @@
         number. The Program (including Contributions) may always be distributed subject to the version of the
         Agreement under which it was received. In addition, after a new version of the Agreement is published,
         Contributor may elect to distribute the Program (including its Contributions) under the new version. No
-        one other than 
+        one other than
         <alt name="owner" match=".+">&lt;OWNER&gt;</alt> has the right to modify this Agreement. Except as
         expressly stated in Sections 2(a) and 2(b) above, Recipient receives no rights or licenses to the
         intellectual property of any Contributor under this Agreement, whether expressly, by implication,
         estoppel or otherwise. All rights in the Program not expressly granted under this Agreement are
-        reserved. 
+        reserved.
       </p>
-      <p>This Agreement is governed by the laws of the State of 
+      <p>This Agreement is governed by the laws of the State of
         <alt name="state" match=".+">&lt;STATE&gt;</alt> and the intellectual property laws of the United States
         of America. No party to this Agreement will bring a legal action under this Agreement more than one year
         after the cause of action arose. Each party waives its rights to a jury trial in any resulting
-        litigation. 
+        litigation.
       </p>
       </li>
       </list>

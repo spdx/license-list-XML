@@ -5,8 +5,8 @@
   <header>
       <p>Copyright 2005 Sony Computer Entertainment Inc.</p>
       <p>Licensed under the SCEA Shared Source License, Version 1.0 (the "License"); you may not use this file
-         except in compliance with the License. You may obtain a copy of the License at: 
-        <br/>http://research.scea.com/scea_shared_source_license.html 
+         except in compliance with the License. You may obtain a copy of the License at:
+        <br/>http://research.scea.com/scea_shared_source_license.html
       </p>
       <p>Unless required by applicable law or agreed to in writing, software distributed under the License is
          distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
@@ -29,10 +29,10 @@
           <p>"Licensor" shall mean Sony Computer Entertainment America, Inc. (herein "SCEA")</p>
           <p>"Object Code" or "Object Form" shall mean any form that results from translation or
              transformation of Source Code, including but not limited to compiled object code or
-             conversions to other forms intended for machine execution. 
+             conversions to other forms intended for machine execution.
             <br/>"Source Code" or "Source Form" shall have the plain meaning generally accepted in the
                  software industry, including but not limited to software source code, documentation
-                 source, header and configuration files. 
+                 source, header and configuration files.
           </p>
           <p>"You" or "Your" shall mean you as an individual or as a company, or whichever form under which
              you are exercising rights under this License.</p>
@@ -47,12 +47,12 @@
         </li>
         <li>
           <b>3.</b>
-          <p>No Right to File for Patent. 
+          <p>No Right to File for Patent.
             <br/>In exchange for the rights that are granted to You free of charge under this License, You
                  agree that You will not file for any patent application, seek copyright protection or
                  take any other action that might otherwise impair the ownership rights in and to the
                  Software that may belong to SCEA or any of the other contributors/authors of the
-                 Software. 
+                 Software.
           </p>
         </li>
         <li>
@@ -97,7 +97,7 @@
               <p>Include a copy of all documentation accompanying the Software and modifications made by You</p>
             </li>
           </list>
-        </li>  
+        </li>
         <li>
           <b>6.</b>
           <p>Redistribution in Object Form</p>
@@ -147,8 +147,8 @@
       </list>
       <p>Copyright 2005 Sony Computer Entertainment Inc.</p>
       <p>Licensed under the SCEA Shared Source License, Version 1.0 (the "License"); you may not use this file
-         except in compliance with the License. You may obtain a copy of the License at: 
-        <br/>http://research.scea.com/scea_shared_source_license.html 
+         except in compliance with the License. You may obtain a copy of the License at:
+        <br/>http://research.scea.com/scea_shared_source_license.html
       </p>
       <p>Unless required by applicable law or agreed to in writing, software distributed under the License is
          distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or

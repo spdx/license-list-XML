@@ -4,7 +4,7 @@
     <url>http://www.opensource.org/licenses/AGPL-3.0</url>
   </urls>
   <notes>This version was released: 19 November 2007</notes>
-  <header> Copyright (C) 
+  <header>Copyright (C)
     <alt name="copyright" match=".+">[year] [name of author]</alt> This program is free software: you can
     redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the
     Free Software Foundation, version 3. This program is distributed in the hope that it will be useful, but WITHOUT
@@ -14,8 +14,8 @@
   </header>
   <license>
     <title>
-      <p>GNU AFFERO GENERAL PUBLIC LICENSE 
-        <br/>Version 3, 19 November 2007 
+      <p>GNU AFFERO GENERAL PUBLIC LICENSE
+        <br/>Version 3, 19 November 2007
       </p>
     </title>
       <p>Copyright (C) 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;</p>
@@ -85,9 +85,9 @@
         </li>
         <li>
           <b>1.</b>
-          <p>Source Code. 
+          <p>Source Code.
             <br/>The &quot;source code&quot; for a work means the preferred form of the work for making
-                 modifications to it. &quot;Object code&quot; means any non-source form of a work. 
+                 modifications to it. &quot;Object code&quot; means any non-source form of a work.
           </p>
           <p>A &quot;Standard Interface&quot; means an interface that either is an official standard defined
              by a recognized standards body, or, in the case of interfaces specified for a particular
@@ -108,8 +108,8 @@
              For example, Corresponding Source includes interface definition files associated with source
              files for the work, and the source code for shared libraries and dynamically linked
              subprograms that the work is specifically designed to require, such as by intimate data
-             communication or control flow between those 
-            <br/>subprograms and other parts of the work. 
+             communication or control flow between those
+            <br/>subprograms and other parts of the work.
           </p>
           <p>The Corresponding Source need not include anything that users can regenerate automatically from
              other parts of the Corresponding Source.</p>
@@ -117,13 +117,13 @@
         </li>
         <li>
           <b>2.</b>
-          <p>Basic Permissions. 
+          <p>Basic Permissions.
             <br/>All rights granted under this License are granted for the term of copyright on the Program,
                  and are irrevocable provided the stated conditions are met. This License explicitly
                  affirms your unlimited permission to run the unmodified Program. The output from
                  running a covered work is covered by this License only if the output, given its
                  content, constitutes a covered work. This License acknowledges your rights of fair use
-                 or other equivalent, as provided by copyright law. 
+                 or other equivalent, as provided by copyright law.
           </p>
           <p>You may make, run and propagate covered works that you do not convey, without conditions so long
              as your license otherwise remains in force. You may convey covered works to others for the
@@ -138,11 +138,11 @@
         </li>
         <li>
           <b>3.</b>
-          <p>Protecting Users&apos; Legal Rights From Anti-Circumvention Law. 
+          <p>Protecting Users&apos; Legal Rights From Anti-Circumvention Law.
             <br/>No covered work shall be deemed part of an effective technological measure under any
                  applicable law fulfilling obligations under article 11 of the WIPO copyright treaty
                  adopted on 20 December 1996, or similar laws prohibiting or restricting circumvention
-                 of such measures. 
+                 of such measures.
           </p>
           <p>When you convey a covered work, you waive any legal power to forbid circumvention of
              technological measures to the extent such circumvention is effected by exercising rights under
@@ -153,23 +153,23 @@
         </li>
         <li>
           <b>4.</b>
-          <p>Conveying Verbatim Copies. 
+          <p>Conveying Verbatim Copies.
             <br/>You may convey verbatim copies of the Program&apos;s source code as you receive it, in any
                  medium, provided that you conspicuously and appropriately publish on each copy an
                  appropriate copyright notice; keep intact all notices stating that this License and
                  any non-permissive terms added in accord with section 7 apply to the code; keep intact
                  all notices of the absence of any warranty; and give all recipients a copy of this
-                 License along with the Program. 
+                 License along with the Program.
           </p>
           <p>You may charge any price or no price for each copy that you convey, and you may offer support or
              warranty protection for a fee.</p>
         </li>
         <li>
           <b>5.</b>
-          <p>Conveying Modified Source Versions. 
+          <p>Conveying Modified Source Versions.
             <br/>You may convey a work based on the Program, or the modifications to produce it from the
                  Program, in the form of source code under the terms of section 4, provided that you
-                 also meet all of these conditions: 
+                 also meet all of these conditions:
           </p>
         <list>
           <li>
@@ -207,10 +207,10 @@
         </li>
         <li>
           <b>6.</b>
-          <p>Conveying Non-Source Forms. 
+          <p>Conveying Non-Source Forms.
             <br/>You may convey a covered work in object code form under the terms of sections 4 and 5,
                  provided that you also convey the machine-readable Corresponding Source under the
-                 terms of this License, in one of these ways: 
+                 terms of this License, in one of these ways:
           </p>
         <list>
           <li>
@@ -295,14 +295,14 @@
         </li>
         <li>
           <b>7.</b>
-          <p>Additional Terms. 
+          <p>Additional Terms.
             <br/>&quot;Additional permissions&quot; are terms that supplement the terms of this License by
                  making exceptions from one or more of its conditions. Additional permissions that are
                  applicable to the entire Program shall be treated as though they were included in this
                  License, to the extent that they are valid under applicable law. If additional
                  permissions apply only to part of the Program, that part may be used separately under
                  those permissions, but the entire Program remains governed by this License without
-                 regard to the additional permissions. 
+                 regard to the additional permissions.
           </p>
           <p>When you convey a copy of a covered work, you may at your option remove any additional
              permissions from that copy, or from any part of it. (Additional permissions may be written to
@@ -345,7 +345,7 @@
                recipient, for any liability that these contractual assumptions directly impose on those
                licensors and authors.</p>
           </li>
-        </list>               
+        </list>
             <p>All other non-permissive additional terms are considered &quot;further restrictions&quot;
                within the meaning of section 10. If the Program as you received it, or any part of it,
                contains a notice stating that it is governed by this License along with a term that is a
@@ -436,12 +436,12 @@
              License, through a publicly available network server or other readily accessible means, then
              you must either (1) cause the Corresponding Source to be so available, or (2) arrange to
              deprive yourself of the benefit of the patent license for this particular work, or (3)
-             arrange, in a manner consistent with the requirements of this License, to extend the patent 
+             arrange, in a manner consistent with the requirements of this License, to extend the patent
             <br/>license to downstream recipients. &quot;Knowingly relying&quot; means you have actual
                  knowledge that, but for the patent license, your conveying the covered work in a
                  country, or your recipient&apos;s use of the covered work in a country, would infringe
                  one or more identifiable patents in that country that you have reason to believe are
-                 valid. 
+                 valid.
           </p>
           <p>If, pursuant to or in connection with a single transaction or arrangement, you convey, or
              propagate by procuring conveyance of, a covered work, and grant a patent license to some of
@@ -469,11 +469,11 @@
           <p>If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict
              the conditions of this License, they do not excuse you from the conditions of this License. If
              you cannot convey a covered work so as to satisfy simultaneously your obligations under this
-             License and any other pertinent obligations, then as a consequence you may 
+             License and any other pertinent obligations, then as a consequence you may
             <br/>not convey it at all. For example, if you agree to terms that obligate you to collect a
                  royalty for further conveying from those to whom you convey the Program, the only way
                  you could satisfy both those terms and this License would be to refrain entirely from
-                 conveying the Program. 
+                 conveying the Program.
           </p>
         </li>
         <li>
@@ -553,8 +553,8 @@
       <p>To do so, attach the following notices to the program. It is safest to attach them to the start of each
          source file to most effectively state the exclusion of warranty; and each file should have at least
          the &quot;copyright&quot; line and a pointer to where the full notice is found.</p>
-      <p>&lt;one line to give the program&apos;s name and a brief idea of what it does.&gt; 
-        <br/>Copyright (C) &lt;year&gt; &lt;name of author&gt; 
+      <p>&lt;one line to give the program&apos;s name and a brief idea of what it does.&gt;
+        <br/>Copyright (C) &lt;year&gt; &lt;name of author&gt;
       </p>
       <p>This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero
          General Public License as published by the Free Software Foundation, either version 3 of the License,

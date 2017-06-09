@@ -4,7 +4,7 @@
     <url>http://www.opensource.org/licenses/OCLC-2.0</url>
   </urls>
   <notes>This license was released: May 2002</notes>
-  <header> Copyright (c) 2000- 
+  <header>Copyright (c) 2000-
     <alt name="year" match=".+">(insert then current year)</alt>. OCLC Online Computer Library Center, Inc. and
     other contributors. All rights reserved. The contents of this file, as updated from time to time by the OCLC
     Office of Research, are subject to OCLC Research Public License Version 2.0 (the "License"); you may not use
@@ -13,18 +13,18 @@
     basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language
     governing rights and limitations under the License. This software consists of voluntary contributions made by
     many individuals on behalf of OCLC Research. For more information on OCLC Research, please see
-    http://www.oclc.org/research/. The Original Code is 
-    <alt name="code" match=".+">_____</alt>.. The Initial Developer of the Original Code is 
-    <alt name="InitialDeveloper" match=".+">_____</alt>. Portions created by 
-    <alt name="createdby" match=".+">_____</alt> are Copyright (C) 
-    <alt name="copyright" match=".+">_____</alt>. All Rights Reserved. Contributor(s): 
-    <alt name="contributor" match=".+">_____</alt>. 
+    http://www.oclc.org/research/. The Original Code is
+    <alt name="code" match=".+">_____</alt>.. The Initial Developer of the Original Code is
+    <alt name="InitialDeveloper" match=".+">_____</alt>. Portions created by
+    <alt name="createdby" match=".+">_____</alt> are Copyright (C)
+    <alt name="copyright" match=".+">_____</alt>. All Rights Reserved. Contributor(s):
+    <alt name="contributor" match=".+">_____</alt>.
   </header>
   <license>
   <title>
-    <p>OCLC Research Public License 2.0 
-      <br/>Terms &amp; Conditions Of Use 
-      <br/>May, 2002 
+    <p>OCLC Research Public License 2.0
+      <br/>Terms &amp; Conditions Of Use
+      <br/>May, 2002
     </p>
   </title>
     <copyright>
@@ -53,10 +53,10 @@
     <list>
       <li>
         <b>A.</b>
-        <p>General Requirements 
+        <p>General Requirements
           <br/>Except as necessary to recognize third-party rights or third-party restriction (see below), a
                distribution of the Program in any of the forms listed below must not put any further
-               restrictions on the recipient’s exercise of the rights granted herein. 
+               restrictions on the recipient’s exercise of the rights granted herein.
         </p>
         <p>As a Contributor, you represent that your Modification(s) are your original creation(s) and, to the
            best of your knowledge, no third party has any claim (including but not limited to intellectual
@@ -83,11 +83,11 @@
       </li>
       <li>
         <b>B.</b>
-        <p>Requirements for a Distribution of Modifiable Code 
+        <p>Requirements for a Distribution of Modifiable Code
           <br/>If you distribute the Program in a form to which the recipient can make Modifications (e.g.
                source code), the terms of this license apply to use by recipient. In addition, each
                source and data file of the Program and any Modification you distribute must contain the
-               following notice: 
+               following notice:
         </p>
         <p>"Copyright (c) 2000- (insert then current year) OCLC Online Computer Library Center, Inc. and other
            contributors. All rights reserved. The contents of this file, as updated from time to time by the
@@ -105,10 +105,10 @@
       </li>
       <li>
         <b>C.</b>
-        <p>Requirements for a Distribution of Non-modifiable Code 
+        <p>Requirements for a Distribution of Non-modifiable Code
           <br/>If you distribute the Program in a form to which the recipient cannot make Modifications (e.g.
                object code), the terms of this license apply to use by recipient and you must include the
-               following statement in appropriate and conspicuous locations: 
+               following statement in appropriate and conspicuous locations:
         </p>
         <p>"Copyright (c) 2000- (insert then current year) OCLC Online Computer Library Center, Inc. and other
            contributors. All rights reserved."</p>
@@ -118,7 +118,7 @@
       <li>
         <b>D.</b>
         <p>Requirements for a Combined Work Distribution</p>
- 
+
         <p>Distributions of Combined Works are subject to the terms of this license and must be made at no charge to the
            recipient beyond the costs of physically transferring the files to recipient.</p>
         <p>A Combined Work may be distributed as either modifiable or non-modifiable code. The requirements of Section

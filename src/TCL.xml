@@ -5,10 +5,10 @@
   </urls>
   <license>
     <copyright>
-      <p>This software is copyrighted by 
+      <p>This software is copyrighted by
         <alt name="authors" match=".+">the Regents of the University of California, Sun Microsystems, Inc.,
         Scriptics Corporation, ActiveState Corporation</alt> and other parties. The following terms apply to all
-        files associated with the software unless explicitly disclaimed in individual files. 
+        files associated with the software unless explicitly disclaimed in individual files.
       </p>
     </copyright>
     <body>

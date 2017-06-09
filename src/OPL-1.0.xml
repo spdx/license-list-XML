@@ -5,8 +5,8 @@
   </urls>
   <license>
     <title>
-      <p>OPEN PUBLIC LICENSE 
-        <br/>Version 1.0 
+      <p>OPEN PUBLIC LICENSE
+        <br/>Version 1.0
       </p>
     </title>
     <body>
@@ -321,9 +321,9 @@
           </li>
           <li>
             <b>6.4.</b>
-            <p>Required Additional Developer Specific License 
+            <p>Required Additional Developer Specific License
               <br/>This license is a union of the following two parts that should be found as text files
-                   in the same place (directory), in the order of preeminence: 
+                   in the same place (directory), in the order of preeminence:
             </p>
           <list>
             <li>
@@ -334,7 +334,7 @@
               <b>[2]</b>
               <p>The contents of this file OPL_1_0.TXT, stating the general licensing policy of the software.</p>
             </li>
-          </list>  
+          </list>
               <p>In case of conflicting dispositions in the parts of this license, the terms of the
                  lower-numbered part will always be superseded by the terms of the higher numbered
                  part.</p>
@@ -359,13 +359,13 @@
         <list>
           <li>
             <b>8.1</b>
-            <p>Termination upon Breach 
+            <p>Termination upon Breach
               <br/>This License and the rights granted hereunder will terminate automatically if You fail
                    to comply with terms herein and fail to cure such breach within 30 days of
                    becoming aware of the breach. All sublicenses to the Covered Code, which are
                    properly granted, shall survive any termination of this License. Provisions that,
                    by their nature, must remain in effect beyond the termination of this License
-                   shall survive. 
+                   shall survive.
             </p>
           </li>
           <li>

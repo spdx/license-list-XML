@@ -5,11 +5,11 @@
   <license>
     <title>
       <p>AFFERO GENERAL PUBLIC LICENSE
-          <br/>Version 1, March 2002 </p>
+          <br/>Version 1, March 2002</p>
     </title>
-    <copyright> 
+    <copyright>
       Copyright © 2002 Affero Inc.
-      <br/> 510 Third Street - Suite 225, San Francisco, CA 94107, USA 
+      <br/> 510 Third Street - Suite 225, San Francisco, CA 94107, USA
     </copyright>
       <p>This license is a modified version of the GNU General Public License copyright (C) 1989, 1991 Free
          Software Foundation, Inc. made with their permission. Section 2(d) has been added to cover use of
@@ -45,7 +45,7 @@
          program proprietary. To prevent this, we have made it clear that any patent must be licensed for
          everyone's free use or not licensed at all.</p>
       <p>The precise terms and conditions for copying, distribution and modification follow.</p>
-      
+
       <p>TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION</p>
       <list>
         <li>
@@ -153,7 +153,7 @@
                you received the program in object code or executable form with such an offer, in accord
                with Subsection b above.)</p>
           </li>
-        </list> 
+        </list>
             <p>The source code for a work means the preferred form of the work for making modifications to
                it. For an executable work, complete source code means all the source code for all modules
                it contains, plus any associated interface definition files, plus the scripts used to

@@ -9,8 +9,8 @@
 
       <p>Preamble</p>
       <p>This License governs Your use of the Work. This License is intended to allow developers to use the Source
-         Code and Executable Files provided as part of the Work in any application in any form. 
-        <br/>The main points subject to the terms of the License are: 
+         Code and Executable Files provided as part of the Work in any application in any form.
+        <br/>The main points subject to the terms of the License are:
       </p>
       <list>
         <li>
@@ -144,7 +144,7 @@
                you may not repost or republish or otherwise distribute or make available the Articles,
                without the prior written consent of the Author.</p>
           </li>
-        </list>  
+        </list>
             <p>Any subroutines or modules supplied by You and linked into the Source Code or Executable
                Files of this Work shall not be considered part of this Work and will not be subject to
                the terms of this License.</p>
@@ -305,6 +305,6 @@
           </li>
         </list>
         </li>
-      </list>    
+      </list>
   </license>
 </SPDX>

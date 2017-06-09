@@ -2,14 +2,14 @@
   <urls>
     <url>http://gridscheduler.sourceforge.net/Gridengine_SISSL_license.html</url>
   </urls>
-  <header> The contents of this file are subject to the Sun Industry Standards Source License Version 1.2 (the
+  <header>The contents of this file are subject to the Sun Industry Standards Source License Version 1.2 (the
           License); You may not use this file except in compliance with the License. You may obtain a copy of
           the License at gridengine.sunsource.net/license.html Software distributed under the License is
           distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the
           License for the specific language governing rights and limitations under the License. The Original
           Code is Grid Engine. The Initial Developer of the Original Code is: Sun Microsystems, Inc. Portions
           created by: Sun Microsystems, Inc. are Copyright (C) 2001 Sun Microsystems, Inc. All Rights
-          Reserved. "Contributor(s): 
+          Reserved. "Contributor(s):
     <alt name="contributor" match=".+">_____</alt>
   </header>
   <license>
@@ -106,8 +106,8 @@
                or (b) ownership of more than fifty percent (50%) of the outstanding shares or beneficial
                ownership of such entity.</p>
           </li>
-        </list> 
-      </li>    
+        </list>
+      </li>
       <li>
         <b>2.0</b>
         <p>SOURCE CODE LICENSE</p>
@@ -143,7 +143,7 @@
             </list>
           </li>
         </list>
-      </li>    
+      </li>
       <li>
         <b>3.0</b>
         <p>DISTRIBUTION OBLIGATIONS</p>
@@ -205,7 +205,7 @@
                must make sure the requirements of this License are fulfilled for the Original Code.</p>
           </li>
         </list>
-      </li>    
+      </li>
       <li>
         <b>4.0</b>
         <p>INABILITY TO COMPLY DUE TO STATUTE OR REGULATION</p>
@@ -273,17 +273,17 @@
   <optional>
     <p>EXHIBIT A - Sun Industry Standards Source License</p>
     <p>"The contents of this file are subject to the Sun Industry Standards Source License Version 1.2 (the
-       License); You 
-      <br/>may not use this file except in compliance with the License." 
+       License); You
+      <br/>may not use this file except in compliance with the License."
     </p>
     <p>"You may obtain a copy of the License at gridengine.sunsource.net/license.html"</p>
     <p>"Software distributed under the License is distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND,
-       either express or 
-      <br/>implied. See the License for the specific language governing rights and limitations under the License." 
+       either express or
+      <br/>implied. See the License for the specific language governing rights and limitations under the License."
     </p>
     <p>"The Original Code is Grid Engine."</p>
-    <p>"The Initial Developer of the Original Code is: 
-      <br/>Sun Microsystems, Inc." 
+    <p>"The Initial Developer of the Original Code is:
+      <br/>Sun Microsystems, Inc."
     </p>
     <p>"Portions created by: Sun Microsystems, Inc. are Copyright (C) 2001 Sun Microsystems, Inc."</p>
     <p>"All Rights Reserved."</p>
@@ -312,7 +312,7 @@
           </li>
         </list>
       </li>
-    </list>  
+    </list>
   </optional>
 </license>
 </SPDX>

@@ -4,10 +4,10 @@
   </urls>
   <notes>
     <p>This license was released: 2002</p>
-    <p>Originally written by Edwin A. Suominen for licensing his PRIVARIA secure networking software 
-        (see www.privaria.org). The author, who is not an attorney, places this license template into 
-        the public domain along with a complete disclaimer of any warranty or responsibility for its 
-        content or legal efficacy. You may use or modify the language freely, but entirely at your 
+    <p>Originally written by Edwin A. Suominen for licensing his PRIVARIA secure networking software
+        (see www.privaria.org). The author, who is not an attorney, places this license template into
+        the public domain along with a complete disclaimer of any warranty or responsibility for its
+        content or legal efficacy. You may use or modify the language freely, but entirely at your
         own risk.</p>
   </notes>
   <license>
@@ -15,7 +15,7 @@
       <p>Attribution Assurance License</p>
     </title>
     <copyright>
-      <p>Copyright (c) 
+      <p>Copyright (c)
         <alt name="copyright" match=".+">2002 by AUTHOR PROFESSIONAL IDENTIFICATION * URL "PROMOTIONAL SLOGAN
         FOR AUTHOR'S PROFESSIONAL PRACTICE"</alt>
       </p>
@@ -26,10 +26,10 @@
     </title>
     <body>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
-         that the conditions below are met. These conditions require a modest attribution to 
+         that the conditions below are met. These conditions require a modest attribution to
         <alt name="author" match=".+">&lt;AUTHOR&gt;</alt> (the "Author"), who hopes that its promotional value
         may help justify the thousands of dollars in otherwise billable time invested in writing this and other
-        freely available, open-source software. 
+        freely available, open-source software.
       </p>
       <list>
         <li>
@@ -48,19 +48,19 @@
           <li>
             <b>(a)</b>
             <p>
-              <alt name="author" match=".+">Name</alt> ("AUTHOR"), 
+              <alt name="author" match=".+">Name</alt> ("AUTHOR"),
             </p>
           </li>
           <li>
             <b>(b)</b>
             <p>
-              <alt name="profIdent" match=".+">Professional identification</alt> ("PROFESSIONAL IDENTIFICATION"), and 
+              <alt name="profIdent" match=".+">Professional identification</alt> ("PROFESSIONAL IDENTIFICATION"), and
             </p>
           </li>
           <li>
             <b>(c)</b>
             <p>
-              <alt name="url" match=".+">URL</alt> ("URL"). 
+              <alt name="url" match=".+">URL</alt> ("URL").
             </p>
           </li>
         </list>
