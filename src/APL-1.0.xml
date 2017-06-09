@@ -320,53 +320,52 @@
             </list>
           </li>
           <li>
+          <b>3.2.</b>
+          <p>EXECUTABLE DISTRIBUTIONS OF THE LICENSED WORK. 
+            <br/>A Distributor may choose to distribute the Licensed Work, or any portion thereof, in
+                 Executable form (an "EXECUTABLE DISTRIBUTION") to any third party, under the terms of
+                 Section 2 of this License, provided the Executable Distribution is made available
+                 under and accompanied by a copy of this License, AND provided at least ONE of the
+                 following conditions is fulfilled:</p>
+          <list>
             <li>
-              <b>3.2.</b>
-              <p>EXECUTABLE DISTRIBUTIONS OF THE LICENSED WORK. 
-                <br/>A Distributor may choose to distribute the Licensed Work, or any portion thereof, in
-                     Executable form (an "EXECUTABLE DISTRIBUTION") to any third party, under the terms of
-                     Section 2 of this License, provided the Executable Distribution is made available
-                     under and accompanied by a copy of this License, AND provided at least ONE of the
-                     following conditions is fulfilled:</p>
-              <list>
-                <li>
-                  <b>(a)</b>
-                  <p>The Executable Distribution must be accompanied by the Source Code for the Licensed Work
-                     making up the Executable Distribution, and the Source Code must be distributed on the same
-                     media as the Executable Distribution or using an Electronic Distribution Mechanism; or</p>
-                </li>
-                <li>
-                  <b>(b)</b>
-                  <p>The Executable Distribution must be accompanied with a written offer, valid for at least
-                     thirty six (36) months, to give any third party under the terms of this License, for a
-                     charge no more than the cost of physically performing source distribution, a complete
-                     machine-readable copy of the Source Code for the Licensed Work making up the Executable
-                     Distribution, to be available and distributed using an Electronic Distribution Mechanism,
-                     and such Executable Distribution must remain available in Source Code form to any third
-                     party via the Electronic Distribution Mechanism (or any replacement Electronic
-                     Distribution Mechanism the particular Distributor may reasonably need to turn to as a
-                     substitute) for said at least thirty six (36) months.</p>
-                  <p>For greater certainty, the above-noted requirements apply to any Licensed Work or portion
-                     thereof distributed to any third party in Executable form, whether such distribution is
-                     made alone, in combination with a Larger Work or Independent Modules, or in some other
-                     combination.</p>
-                </li>
-              </list>
+              <b>(a)</b>
+              <p>The Executable Distribution must be accompanied by the Source Code for the Licensed Work
+                 making up the Executable Distribution, and the Source Code must be distributed on the same
+                 media as the Executable Distribution or using an Electronic Distribution Mechanism; or</p>
             </li>
             <li>
-              <b>3.3.</b>
-              <p>SOURCE CODE DISTRIBUTIONS. 
-                <br/>When a Distributor makes the Licensed Work, or any portion thereof, available to any Person
-                     in Source Code form, it must be made available under this License and a copy of this
-                     License must be included with each copy of the Source Code, situated so that the copy
-                     of the License is conspicuously brought to the attention of that Person. For greater
-                     clarification, this Section 3.3 applies to all distribution of the Licensed Work in
-                     any Source Code form. A Distributor may charge a fee for the physical act of
-                     transferring a copy, which charge shall be no more than the cost of physically
-                     performing source distribution. 
-              </p>
+              <b>(b)</b>
+              <p>The Executable Distribution must be accompanied with a written offer, valid for at least
+                 thirty six (36) months, to give any third party under the terms of this License, for a
+                 charge no more than the cost of physically performing source distribution, a complete
+                 machine-readable copy of the Source Code for the Licensed Work making up the Executable
+                 Distribution, to be available and distributed using an Electronic Distribution Mechanism,
+                 and such Executable Distribution must remain available in Source Code form to any third
+                 party via the Electronic Distribution Mechanism (or any replacement Electronic
+                 Distribution Mechanism the particular Distributor may reasonably need to turn to as a
+                 substitute) for said at least thirty six (36) months.</p>
+              <p>For greater certainty, the above-noted requirements apply to any Licensed Work or portion
+                 thereof distributed to any third party in Executable form, whether such distribution is
+                 made alone, in combination with a Larger Work or Independent Modules, or in some other
+                 combination.</p>
             </li>
-            <li>
+          </list>
+        </li>
+          <li>
+          <b>3.3.</b>
+          <p>SOURCE CODE DISTRIBUTIONS. 
+            <br/>When a Distributor makes the Licensed Work, or any portion thereof, available to any Person
+                 in Source Code form, it must be made available under this License and a copy of this
+                 License must be included with each copy of the Source Code, situated so that the copy
+                 of the License is conspicuously brought to the attention of that Person. For greater
+                 clarification, this Section 3.3 applies to all distribution of the Licensed Work in
+                 any Source Code form. A Distributor may charge a fee for the physical act of
+                 transferring a copy, which charge shall be no more than the cost of physically
+                 performing source distribution. 
+          </p>
+          </li>
+          <li>
               <b>3.4.</b>
               <p>REQUIRED NOTICES IN SOURCE CODE. 
                 <br/>Each Subsequent Contributor must ensure that the notice set out in Part 5 of Exhibit A is
@@ -378,7 +377,7 @@
                      be likely to look for such a notice. 
               </p>
             </li>
-            <li>
+          <li>
               <b>3.5.</b>
               <p>NO DISTRIBUTION REQUIREMENTS FOR INTERNALLY USED MODIFICATIONS. 
                 <br/>Notwithstanding Sections 3.2, 3.3 and 3.4, Recipient may, internally within its own
@@ -398,14 +397,14 @@
                      available to third parties in accordance with the terms of Sections 3.1 to 3.4
                      inclusive.</p>
             </li>
-            <li>
+          <li>
               <b>3.6.</b>
               <p>INDEPENDENT MODULES. 
                 <br/>This License shall not apply to Independent Modules of any Initial Contributor, Subsequent
                      Contributor, Distributor or any Recipient, and such Independent Modules may be
                      licensed or made available under one or more separate license agreements.</p>
             </li>
-            <li>
+          <li>
               <b>3.7.</b>
               <p>LARGER WORKS. 
                 <br/>Any Distributor or Recipient may create or contribute to a Larger Work by combining any of
@@ -414,73 +413,73 @@
                      Distributor or Recipient (as the case may be) must make sure that the requirements of
                      this License are fulfilled for the Licensed Work portion of the Larger Work.</p>
             </li>
+          <li>
+          <b>3.8.</b>
+          <p>DESCRIPTION OF DISTRIBUTED MODIFICATIONS.</p>
+          <list>
             <li>
-              <b>3.8.</b>
-              <p>DESCRIPTION OF DISTRIBUTED MODIFICATIONS.</p>
-              <list>
-                <li>
-                  <b>(a)</b>
-                  <p>Each Subsequent Contributor (including the Initial Contributor where the Initial Contributor
-                     also qualifies as a Subsequent Contributor) must cause each Subsequent Work created or
-                     contributed to by that Subsequent Contributor to contain a file documenting the changes,
-                     in accordance with the requirements of Part 1 of the Supplement File, that such Subsequent
-                     Contributor made in the creation or contribution to that Subsequent Work. If no Supplement
-                     File exists or no requirements are set out in Part 1 of the Supplement File, then there
-                     are no requirements for Subsequent Contributors to document changes that they make
-                     resulting in Subsequent Works.</p>
-                </li>
-                <li>
-                  <b>(b)</b>
-                  <p>The Initial Contributor may at any time introduce requirements or add to or change earlier
-                     requirements (in each case, the "EARLIER DESCRIPTION REQUIREMENTS") for documenting
-                     changes resulting in Subsequent Works by revising Part 1 of each copy of the Supplement
-                     File distributed by the Initial Contributor with future copies of the Licensed Work so
-                     that Part 1 then contains new requirements (the "NEW DESCRIPTION REQUIREMENTS") for
-                     documenting such changes.</p>
-                </li>
-                <li>
-                  <b>(c)</b>
-                  <p>Any Recipient receiving at any time any copy of an Initial Work or any Subsequent Work under
-                     a copy of this License (in each case, an "Earlier LICENSED COPY") having the Earlier
-                     Description Requirements may choose, with respect to each such Earlier Licensed Copy, to
-                     comply with the Earlier Description Requirements or the New Description Requirements.
-                     Where a Recipient chooses to comply with the New Description Requirements, that Recipient
-                     will, when thereafter distributing any copies of any such Earlier Licensed Copy, include a
-                     Supplement File having a section entitled Part 1 that contains a copy of the New
-                     Description Requirements.</p>
-                </li>
-                <li>
-                  <b>(d)</b>
-                  <p>For greater certainty, the intent of Part 1 of the Supplement File is to provide a mechanism
-                     (if any) by which Subsequent Contributors must document changes that they make to the
-                     Licensed Work resulting in Subsequent Works. Part 1 of any Supplement File shall not be
-                     used to increase or reduce the scope of the license granted in Article 2 of this License
-                     or in any other way increase or decrease the rights and obligations of any Recipient, and
-                     shall at no time serve as the basis for terminating the License. Further, a Recipient can
-                     be required to correct and change its documentation procedures to comply with Part 1 of
-                     the Supplement File, but cannot be penalised with damages. Part 1 of any Supplement File
-                     is only binding on each Recipient of any Licensed Work to the extent Part 1 sets out the
-                     requirements for documenting changes to the Initial Work or any Subsequent Work.</p>
-                </li>
-                <li>
-                  <b>(e)</b>
-                  <p>An example of a set of requirements for documenting changes and contributions made by
-                     Subsequent Contributor is set out in Part 7 of Exhibit A of this License. Part 7 is a
-                     sample only and is not binding on Recipients, unless (subject to the earlier paragraphs of
-                     this Section 3.8) those are the requirements that the Initial Contributor includes in Part
-                     1 of the Supplement File with the copies of the Initial Work distributed under this
-                     License.</p>
-                </li>
-              </list>
+              <b>(a)</b>
+              <p>Each Subsequent Contributor (including the Initial Contributor where the Initial Contributor
+                 also qualifies as a Subsequent Contributor) must cause each Subsequent Work created or
+                 contributed to by that Subsequent Contributor to contain a file documenting the changes,
+                 in accordance with the requirements of Part 1 of the Supplement File, that such Subsequent
+                 Contributor made in the creation or contribution to that Subsequent Work. If no Supplement
+                 File exists or no requirements are set out in Part 1 of the Supplement File, then there
+                 are no requirements for Subsequent Contributors to document changes that they make
+                 resulting in Subsequent Works.</p>
             </li>
             <li>
-              <b>3.9.</b>
-              <p>USE OF DISTRIBUTOR NAME. 
-                <br/>The name of a Distributor may not be used by any other Distributor to endorse or promote
-                     the Licensed Work or products derived from the Licensed Work, without prior written
-                     permission.</p>
+              <b>(b)</b>
+              <p>The Initial Contributor may at any time introduce requirements or add to or change earlier
+                 requirements (in each case, the "EARLIER DESCRIPTION REQUIREMENTS") for documenting
+                 changes resulting in Subsequent Works by revising Part 1 of each copy of the Supplement
+                 File distributed by the Initial Contributor with future copies of the Licensed Work so
+                 that Part 1 then contains new requirements (the "NEW DESCRIPTION REQUIREMENTS") for
+                 documenting such changes.</p>
             </li>
             <li>
+              <b>(c)</b>
+              <p>Any Recipient receiving at any time any copy of an Initial Work or any Subsequent Work under
+                 a copy of this License (in each case, an "Earlier LICENSED COPY") having the Earlier
+                 Description Requirements may choose, with respect to each such Earlier Licensed Copy, to
+                 comply with the Earlier Description Requirements or the New Description Requirements.
+                 Where a Recipient chooses to comply with the New Description Requirements, that Recipient
+                 will, when thereafter distributing any copies of any such Earlier Licensed Copy, include a
+                 Supplement File having a section entitled Part 1 that contains a copy of the New
+                 Description Requirements.</p>
+            </li>
+            <li>
+              <b>(d)</b>
+              <p>For greater certainty, the intent of Part 1 of the Supplement File is to provide a mechanism
+                 (if any) by which Subsequent Contributors must document changes that they make to the
+                 Licensed Work resulting in Subsequent Works. Part 1 of any Supplement File shall not be
+                 used to increase or reduce the scope of the license granted in Article 2 of this License
+                 or in any other way increase or decrease the rights and obligations of any Recipient, and
+                 shall at no time serve as the basis for terminating the License. Further, a Recipient can
+                 be required to correct and change its documentation procedures to comply with Part 1 of
+                 the Supplement File, but cannot be penalised with damages. Part 1 of any Supplement File
+                 is only binding on each Recipient of any Licensed Work to the extent Part 1 sets out the
+                 requirements for documenting changes to the Initial Work or any Subsequent Work.</p>
+            </li>
+            <li>
+              <b>(e)</b>
+              <p>An example of a set of requirements for documenting changes and contributions made by
+                 Subsequent Contributor is set out in Part 7 of Exhibit A of this License. Part 7 is a
+                 sample only and is not binding on Recipients, unless (subject to the earlier paragraphs of
+                 this Section 3.8) those are the requirements that the Initial Contributor includes in Part
+                 1 of the Supplement File with the copies of the Initial Work distributed under this
+                 License.</p>
+            </li>
+          </list>
+        </li>
+          <li>
+          <b>3.9.</b>
+          <p>USE OF DISTRIBUTOR NAME. 
+            <br/>The name of a Distributor may not be used by any other Distributor to endorse or promote
+                 the Licensed Work or products derived from the Licensed Work, without prior written
+                 permission.</p>
+        </li>
+          <li>
               <b>3.10.</b>
               <p>LIMITED RECOGNITION OF INITIAL CONTRIBUTOR.</p>         
               <list>
@@ -517,8 +516,8 @@
                      set out in this License.</p>
                 </li>
               </list>
-            </li>
-            <li>
+          </li>
+          <li>
               <b>3.11.</b>
               <p>For greater certainty, any description or attribution provisions contained within a Supplement
                  File may only be used to specify the nature of the description or attribution requirements, as
@@ -526,30 +525,12 @@
                  nullify or amend any right, obligation or representation contained herein shall be deemed void
                  to that extent, and shall be of no force or effect.</p>
             </li>
-
-          </li>
-         
-          
         </list>
       </li>
-        
-        
-        
-        
-        
-        
-        
-      <---- Brad done through here ---->
-      <---- but some tags above appear unbalanced ---->        
-        
-        
-        
-       
-        
-        <li>
+      <li>
           <b>4.</b>
           <p>COMMERCIAL USE AND INDEMNITY.</p>
-        </li>
+        <list>
         <li>
           <b>4.1.</b>
           <p>COMMERCIAL SERVICES. 
@@ -593,10 +574,12 @@
                  participate in any such claim at its own expense. 
           </p>
         </li>
-        <li>
+        </list>
+      </li>
+      <li>
           <b>5.</b>
           <p>VERSIONS OF THE LICENSE.</p>
-        </li>
+        <list>
         <li>
           <b>5.1.</b>
           <p>NEW VERSIONS. 
@@ -619,10 +602,12 @@
                  to the Licensed Work 
           </p>
         </li>
-        <li>
-          <b>6.</b>
-          <p>DISCLAIMER OF WARRANTY.</p>
-        </li>
+        </list>
+      </li>    
+      <li>
+        <b>6.</b>
+        <p>DISCLAIMER OF WARRANTY.</p>
+          <list>
         <li>
           <b>6.1.</b>
           <p>GENERAL DISCLAIMER. 
@@ -648,10 +633,12 @@
                  equipment, and unavailability or interruption of operations. 
           </p>
         </li>
-        <li>
-          <b>7.</b>
-          <p>TERMINATION.</p>
-        </li>
+        </list>
+      </li>
+      <li>
+        <b>7.</b>
+        <p>TERMINATION.</p>
+        <list>
         <li>
           <b>7.1.</b>
           <p>This License shall continue until terminated in accordance with the express terms herein.</p>
@@ -689,10 +676,12 @@
              4.2, 6.1, 6.2, 7.4, 7.5, 8.1, and 8.2, together with all provisions of this License necessary
              for the interpretation and enforcement of same, shall expressly survive such termination.</p>
         </li>
+        </list>
+      </li>
         <li>
           <b>8.</b>
           <p>LIMITATION OF LIABILITY.</p>
-        </li>
+        <list>
         <li>
           <b>8.1.</b>
           <p>IN NO EVENT SHALL ANY OF INITIAL CONTRIBUTOR, ITS SUBSIDIARIES, OR AFFILIATES, OR ANY OF ITS OR
@@ -724,10 +713,12 @@
              DEATH OR PERSONAL INJURY RESULTING FROM SUCH PARTY'S NEGLIGENCE TO THE EXTENT APPLICABLE LAW
              PROHIBITS SUCH LIMITATION.</p>
         </li>
+       </list>
+       </li>
         <li>
           <b>9.</b>
           <p>GOVERNING LAW AND LEGAL ACTION.</p>
-        </li>
+        <list>
         <li>
           <b>9.1.</b>
           <p>This License shall be governed by and construed in accordance with the laws of the Governing
@@ -753,10 +744,12 @@
              recover all costs and expenses including the fees of its attorneys in such action or
              proceeding in such amount as the court may adjudge reasonable.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>10.</b>
           <p>MISCELLANEOUS.</p>
-        </li>
+        <list>
         <li>
           <b>10.1.</b>
           <p>The obligations imposed by this License are for the benefit of the Initial Contributor and any
@@ -807,7 +800,9 @@
              relating thereto be drafted in the English language.</p>
         </li>
       </list>
-    </body>
+      </li>
+    </list>
+
     <optional>
       <p>//***THE LICENSE TERMS END HERE (OTHER THAN AS SET OUT IN EXHIBIT A).***//</p>
       <p>EXHIBIT A (to the Adaptive Public License)</p>
@@ -923,7 +918,7 @@
                made by that Subsequent Contributor alone and/or in combination with its Subsequent Work
                (or portions of such combination) to make, use, sell, offer for sale, have made, import,
                export, transfer and otherwise dispose of:</p>
-          </li>
+          <list>
           <li>
             <b>(1)</b>
             <p>Modifications made by that Subsequent Contributor (or portions thereof); and</p>
@@ -941,6 +936,8 @@
                    by any other Person; or (3) separate from the Subsequent Contributor Version (or
                    portions thereof) distributed or made available by the Subsequent Contributor. 
             </p>
+          </li>
+          </list>
           </li>
           <li>
             <b>D.</b>
