@@ -1,4 +1,7 @@
 <SPDX name="GNU General Public License v2.0 w/Bison exception" identifier="GPL-2.0-with-bison-exception" deprecated="true">
+  <urls>
+    <url>http://git.savannah.gnu.org/cgit/bison.git/tree/data/yacc.c?id=193d7c7054ba7197b0789e14965b739162319b5e#n141</url>
+  </urls>
   <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
   <license>
 	<title>Bison Exception</title>
