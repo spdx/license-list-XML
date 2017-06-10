@@ -28,7 +28,6 @@
 			<element name="optional" type="tns:optionalType"/>
 			<element name="alt" type="tns:altType"/>
 			<element name="br" type="tns:emptyType"/>
-			<element name="example" type="string" minOccurs="0" maxOccurs="1" />
 		</choice>
 		<attribute name="licenseId" type="string"/>
 		<attribute name="isDeprecated" type="boolean"/>
