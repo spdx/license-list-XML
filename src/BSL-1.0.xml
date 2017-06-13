@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="BSL-1.0" name="Boost Software License 1.0">
       <crossRefs>
          <crossRef>http://www.boost.org/LICENSE_1_0.txt</crossRef>

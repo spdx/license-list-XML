@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license licenseId="GCC-exception-2.0" name="GCC Runtime Library exception 2.0">
       <notes>Typically used with GPL-2.0+.  Sometimes also referred to a
          "linking exception."  

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license licenseId="LZMA-exception" name="LZMA exception">
       <crossRefs>
          <crossRef>http://nsis.sourceforge.net/Docs/AppendixI.html#I.6</crossRef>

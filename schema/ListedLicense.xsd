@@ -78,9 +78,10 @@
 		<group ref="tns:formattedTextGroup"/>
 	</complexType>
 	<complexType name="listType">
-		<sequence>
-			<element name="item" type="tns:formattedTextType" minOccurs="1" maxOccurs="unbounded"/>
-		</sequence>
+		<choice minOccurs="1" maxOccurs="unbounded">
+			<element name="item" type="tns:formattedTextType"/>
+			<element name="list" type="tns:listType"/>
+		</choice>
 	</complexType>
 	<complexType name="emptyType"/>
 	<complexType name="formattedTextType" mixed="true">

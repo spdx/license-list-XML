@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="OSL-2.0" name="Open Software License 2.0">
       <crossRefs>
          <crossRef>http://web.archive.org/web/20041020171434/http://www.rosenlaw.com/osl2.0.html</crossRef>

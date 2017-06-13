@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="SISSL-1.2"
             name="Sun Industry Standards Source License v1.2">
       <crossRefs>

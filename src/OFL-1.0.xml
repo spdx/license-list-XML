@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="OFL-1.0" name="SIL Open Font License 1.0">
       <crossRefs>
          <crossRef>http://scripts.sil.org/cms/scripts/page.php?item_id=OFL10_web</crossRef>

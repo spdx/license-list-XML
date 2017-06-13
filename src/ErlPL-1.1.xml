@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="ErlPL-1.1" name="Erlang Public License v1.1">
       <crossRefs>
          <crossRef>http://www.erlang.org/EPLICENSE</crossRef>

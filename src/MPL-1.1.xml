@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="MPL-1.1" name="Mozilla Public License 1.1">
       <crossRefs>
          <crossRef>http://www.mozilla.org/MPL/MPL-1.1.html</crossRef>

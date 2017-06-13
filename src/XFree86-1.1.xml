@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="XFree86-1.1" name="XFree86 License 1.1">
       <crossRefs>
          <crossRef>http://www.xfree86.org/current/LICENSE4.html</crossRef>

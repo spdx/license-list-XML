@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license licenseId="CLISP-exception-2.0" name="CLISP exception 2.0">
       <crossRefs>
          <crossRef>http://sourceforge.net/p/clisp/clisp/ci/default/tree/COPYRIGHT</crossRef>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="CC-BY-NC-SA-3.0"
             name="Creative Commons Attribution Non Commercial Share Alike 3.0">
       <crossRefs>

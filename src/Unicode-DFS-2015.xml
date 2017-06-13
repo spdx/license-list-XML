@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Unicode-DFS-2015" listVersionAdded="2.6"
             name="Unicode License Agreement - Data Files and Software (2015)">
       <crossRefs>

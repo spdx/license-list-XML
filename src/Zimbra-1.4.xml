@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Zimbra-1.4" name="Zimbra Public License v1.4">
       <crossRefs>
          <crossRef>http://www.zimbra.com/legal/zimbra-public-license-1-4</crossRef>

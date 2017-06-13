@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="gSOAP-1.3b" name="gSOAP Public License v1.3b">
       <crossRefs>
          <crossRef>http://www.cs.fsu.edu/~engelen/license.html</crossRef>

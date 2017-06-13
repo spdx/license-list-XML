@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Apache-2.0" name="Apache License 2.0">
       <crossRefs>
          <crossRef>http://www.apache.org/licenses/LICENSE-2.0</crossRef>

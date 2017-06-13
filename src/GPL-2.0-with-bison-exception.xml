@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isDeprecated="true" licenseId="GPL-2.0-with-bison-exception"
             name="GNU General Public License v2.0 w/Bison exception">
       <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>

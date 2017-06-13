@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="EFL-1.0" name="Eiffel Forum License v1.0">
       <crossRefs>
          <crossRef>http://www.eiffel-nice.org/license/forum.txt</crossRef>

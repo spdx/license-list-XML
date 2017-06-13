@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="ISC" name="ISC License">
       <crossRefs>
          <crossRef>https://www.isc.org/downloads/software-support-policy/isc-license/</crossRef>

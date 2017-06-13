@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license licenseId="i2p-gpl-java-exception" name="i2p GPL+Java Exception">
       <crossRefs>
          <crossRef>http://geti2p.net/en/get-involved/develop/licenses#java_exception</crossRef>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="IJG" name="Independent JPEG Group License">
       <crossRefs>
          <crossRef>http://dev.w3.org/cvsweb/Amaya/libjpeg/Attic/README?rev=1.2</crossRef>

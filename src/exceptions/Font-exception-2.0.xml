@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license licenseId="Font-exception-2.0" name="Font exception 2.0">
       <crossRefs>
          <crossRef>http://www.gnu.org/licenses/gpl-faq.html#FontException</crossRef>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Aladdin" name="Aladdin Free Public License">
       <crossRefs>
          <crossRef>http://pages.cs.wisc.edu/~ghost/doc/AFPL/6.01/Public.htm</crossRef>

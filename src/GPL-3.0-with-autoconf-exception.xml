@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isDeprecated="true" licenseId="GPL-3.0-with-autoconf-exception"
             name="GNU General Public License v3.0 w/Autoconf exception">
       <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Spencer-99" name="Spencer License 99">
       <crossRefs>
          <crossRef>http://www.opensource.apple.com/source/tcl/tcl-5/tcl/generic/regfronts.c</crossRef>

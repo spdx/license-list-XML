@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="FSFAP" name="FSF All Permissive License">
       <crossRefs>
          <crossRef>http://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html</crossRef>

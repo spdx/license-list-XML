@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Glide" name="3dfx Glide License">
       <crossRefs>
          <crossRef>http://www.users.on.net/~triforce/glidexp/COPYING.txt</crossRef>

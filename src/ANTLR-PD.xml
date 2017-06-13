@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="ANTLR-PD" name="ANTLR Software Rights Notice">
       <crossRefs>
          <crossRef>http://www.antlr2.org/license.html</crossRef>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="OGTSL" name="Open Group Test Suite License">
       <crossRefs>
          <crossRef>http://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt</crossRef>

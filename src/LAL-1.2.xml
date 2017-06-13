@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="LAL-1.2" name="Licence Art Libre 1.2">
       <crossRefs>
          <crossRef>http://artlibre.org/licence/lal/licence-art-libre-12/</crossRef>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="YPL-1.1" name="Yahoo! Public License v1.1">
       <crossRefs>
          <crossRef>http://www.zimbra.com/license/yahoo_public_license_1.1.html</crossRef>

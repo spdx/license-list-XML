@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license licenseId="gnu-javamail-exception" name="GNU JavaMail exception">
       <crossRefs>
          <crossRef>http://www.gnu.org/software/classpathx/javamail/javamail.html</crossRef>

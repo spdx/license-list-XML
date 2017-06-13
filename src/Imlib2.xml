@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Imlib2" name="Imlib2 License">
       <crossRefs>
          <crossRef>http://trac.enlightenment.org/e/browser/trunk/imlib2/COPYING</crossRef>

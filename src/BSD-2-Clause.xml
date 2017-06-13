@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="BSD-2-Clause"
             name="BSD 2-clause &#34;Simplified&#34; License">
       <crossRefs>

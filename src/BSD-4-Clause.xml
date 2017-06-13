@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="BSD-4-Clause"
             name="BSD 4-clause &#34;Original&#34; or &#34;Old&#34; License">
       <crossRefs>
@@ -30,7 +30,7 @@
             <bullet>3.</bullet>
             <p>All advertising materials mentioning features or use of this software must display the following
              acknowledgement: 
-            <br/>This product includes software developed by the 
+            <br/>This product includes software developed by 
             <alt match=".+" name="organizationClause3">the organization</alt>. 
           </p>
         </item>

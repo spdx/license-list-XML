@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPDXLicenseCollection>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license licenseId="Bison-exception-2.2" name="Bison exception 2.2">
       <crossRefs/>
       <notes>Typically used with GPL-2.0 or GPL-3.0
