@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="OCCT-exception-1.0" name="Open CASCADE Exception 1.0">
+   <exception licenseId="OCCT-exception-1.0" name="Open CASCADE Exception 1.0">
       <crossRefs>
          <crossRef>http://www.opencascade.com/content/licensing</crossRef>
       </crossRefs>
@@ -19,5 +19,5 @@
          you give prominent notice in supporting documentation to this
          code that it makes use of or is based on facilities provided
          by the Open CASCADE Technology software.</p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

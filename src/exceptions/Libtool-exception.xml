@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="Libtool-exception" name="Libtool Exception">
+   <exception licenseId="Libtool-exception" name="Libtool Exception">
       <crossRefs>
          <crossRef>http://git.savannah.gnu.org/cgit/libtool.git/tree/m4/libtool.m4</crossRef>
       </crossRefs>
@@ -9,5 +9,5 @@
          built using GNU Libtool, you may include this file under the
          same distribution terms that you use for the rest of that
          program.</p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

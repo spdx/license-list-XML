@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="Autoconf-exception-3.0" name="Autoconf exception 3.0">
+   <exception licenseId="Autoconf-exception-3.0" name="Autoconf exception 3.0">
       <crossRefs>
          <crossRef>http://www.gnu.org/licenses/autoconf-exception-3.0.html</crossRef>
       </crossRefs>
@@ -60,5 +60,5 @@
             copyleft requirements of the license of Autoconf.</p>
          </item>
       </list>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

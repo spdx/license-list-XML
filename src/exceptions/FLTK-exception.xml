@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="FLTK-exception" name="FLTK exception">
+   <exception licenseId="FLTK-exception" name="FLTK exception">
       <crossRefs>
          <crossRef>http://www.fltk.org/COPYING.php</crossRef>
       </crossRefs>
@@ -33,5 +33,5 @@
          documentation to satisfy this requirement:</p>
       <p>[program/widget] is based in part on the work of the FLTK project
          (http://www.fltk.org).</p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

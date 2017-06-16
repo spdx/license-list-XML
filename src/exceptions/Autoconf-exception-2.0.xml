@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="Autoconf-exception-2.0" name="Autoconf exception 2.0">
+   <exception licenseId="Autoconf-exception-2.0" name="Autoconf exception 2.0">
       <crossRefs>
          <crossRef>http://ac-archive.sourceforge.net/doc/copyright.html</crossRef>
          <crossRef>http://ftp.gnu.org/gnu/autoconf/autoconf-2.59.tar.gz</crossRef>
@@ -36,5 +36,5 @@
          potential, you must delete any notice of this special
          exception to the GPL from your modified version.</p>
     
-  </license>
+  </exception>
 </SPDXLicenseCollection>

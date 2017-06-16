@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="LZMA-exception" name="LZMA exception">
+   <exception licenseId="LZMA-exception" name="LZMA exception">
       <crossRefs>
          <crossRef>http://nsis.sourceforge.net/Docs/AppendixI.html#I.6</crossRef>
       </crossRefs>
@@ -17,5 +17,5 @@
        1.0. Any modifications or additions to files from the LZMA
        compression module for NSIS, however, are subject to the terms
        of the Common Public License version 1.0.</p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

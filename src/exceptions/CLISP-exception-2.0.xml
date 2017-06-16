@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="CLISP-exception-2.0" name="CLISP exception 2.0">
+   <exception licenseId="CLISP-exception-2.0" name="CLISP exception 2.0">
       <crossRefs>
          <crossRef>http://sourceforge.net/p/clisp/clisp/ci/default/tree/COPYRIGHT</crossRef>
       </crossRefs>
@@ -55,5 +55,5 @@
        CLISP through dynamic linking is not exempted from this
        copyright. I.e. such code, when distributed for use with
        CLISP, must be distributed under the GPL.</p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

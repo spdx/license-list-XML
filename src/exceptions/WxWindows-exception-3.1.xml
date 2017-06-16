@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="WxWindows-exception-3.1" name="WxWindows Library Exception 3.1">
+   <exception licenseId="WxWindows-exception-3.1" name="WxWindows Library Exception 3.1">
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/WXwindows</crossRef>
       </crossRefs>
@@ -47,5 +47,5 @@
              accordingly.</p>
         </item>
       </list>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

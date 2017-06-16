@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="i2p-gpl-java-exception" name="i2p GPL+Java Exception">
+   <exception licenseId="i2p-gpl-java-exception" name="i2p GPL+Java Exception">
       <crossRefs>
          <crossRef>http://geti2p.net/en/get-involved/develop/licenses#java_exception</crossRef>
       </crossRefs>
@@ -17,5 +17,5 @@
         wish to do so, delete this exception statement from your
         version.
       </p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

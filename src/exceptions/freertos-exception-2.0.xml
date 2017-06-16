@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="freertos-exception-2.0" name="FreeRTOS Exception 2.0">
+   <exception licenseId="freertos-exception-2.0" name="FreeRTOS Exception 2.0">
       <crossRefs>
          <crossRef>http://www.freertos.org/a00114.html#exception</crossRef>
       </crossRefs>
@@ -45,5 +45,5 @@
            is intended to ensure information accuracy).</p>
          </item>
       </list>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="GCC-exception-3.1" name="GCC Runtime Library exception 3.1">
+   <exception licenseId="GCC-exception-3.1" name="GCC Runtime Library exception 3.1">
       <crossRefs>
          <crossRef>http://www.gnu.org/licenses/gcc-exception-3.1.html</crossRef>
       </crossRefs>
@@ -92,5 +92,5 @@
          presumption that third-party software is unaffected by the
          copyleft requirements of the license of GCC.</p>
     
-  </license>
+  </exception>
 </SPDXLicenseCollection>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="DigiRule-FOSS-exception" name="DigiRule FOSS License Exception">
+   <exception licenseId="DigiRule-FOSS-exception" name="DigiRule FOSS License Exception">
       <crossRefs>
          <crossRef>http://www.digirulesolutions.com/drupal/foss</crossRef>
       </crossRefs>
@@ -108,5 +108,5 @@
         <br/>Zlib/libpng License -
         <br/>Zope Public License 2.0
       </p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="Fawkes-Runtime-exception" name="Fawkes Runtime Exception">
+   <exception licenseId="Fawkes-Runtime-exception" name="Fawkes Runtime Exception">
       <crossRefs>
          <crossRef>http://www.fawkesrobotics.org/about/license/</crossRef>
       </crossRefs>
@@ -29,5 +29,5 @@
          License. This exception does not however invalidate any other
          reasons why the executable file might be covered by the GNU
          General Public License.</p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

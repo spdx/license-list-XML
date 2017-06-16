@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="gnu-javamail-exception" name="GNU JavaMail exception">
+   <exception licenseId="gnu-javamail-exception" name="GNU JavaMail exception">
       <crossRefs>
          <crossRef>http://www.gnu.org/software/classpathx/javamail/javamail.html</crossRef>
       </crossRefs>
@@ -11,5 +11,5 @@
          General Public License. This exception does not however
          invalidate any other reasons why the executable file might be
          covered by the GNU General Public License.</p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

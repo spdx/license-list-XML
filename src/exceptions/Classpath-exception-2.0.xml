@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="Classpath-exception-2.0" name="Classpath exception 2.0">
+   <exception licenseId="Classpath-exception-2.0" name="Classpath exception 2.0">
       <crossRefs>
          <crossRef>http://www.gnu.org/software/classpath/license.html</crossRef>
          <crossRef>https://fedoraproject.org/wiki/Licensing/GPL_Classpath_Exception</crossRef>
@@ -21,5 +21,5 @@
          extend this exception to your version of the library, but you
          are not obligated to do so. If you do not wish to do so,
          delete this exception statement from your version.</p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="openvpn-openssl-exception" name="OpenVPN OpenSSL Exception">
+   <exception licenseId="openvpn-openssl-exception" name="OpenVPN OpenSSL Exception">
       <crossRefs>
          <crossRef>http://openvpn.net/index.php/license.html</crossRef>
       </crossRefs>
@@ -18,5 +18,5 @@
          exception to your version of the file, but you are not
          obligated to do so. If you do not wish to do so, delete this
          exception statement from your version.</p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="Qwt-exception-1.0" name="Qwt exception 1.0">
+   <exception licenseId="Qwt-exception-1.0" name="Qwt exception 1.0">
       <crossRefs>
          <crossRef>http://qwt.sourceforge.net/qwtlicense.html</crossRef>
       </crossRefs>
@@ -45,5 +45,5 @@
          documentation to satisfy this requirement: [program/widget] is
          based in part on the work of the Qwt project
          (http://qwt.sf.net)."</p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

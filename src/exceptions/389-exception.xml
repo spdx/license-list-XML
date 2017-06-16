@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="389-exception" name="389 Directory Server Exception">
+   <exception licenseId="389-exception" name="389 Directory Server Exception">
       <crossRefs>
          <crossRef>http://directory.fedoraproject.org/wiki/GPL_Exception_License_Text</crossRef>
       </crossRefs>
@@ -39,5 +39,5 @@
        to provide this exception without modification, you must
        delete this exception statement from your version and license
        this file solely under the GPL without exception.</p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>

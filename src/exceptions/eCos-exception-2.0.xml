@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="eCos-exception-2.0" name="eCos exception 2.0">
+   <exception licenseId="eCos-exception-2.0" name="eCos exception 2.0">
       <crossRefs>
          <crossRef>http://ecos.sourceware.org/license-overview.html</crossRef>
       </crossRefs>
@@ -17,5 +17,5 @@
       <p>This exception does not invalidate any other reasons why a work
          based on this file might be covered by the GNU General Public
          License.</p>
-  </license>
+  </exception>
 </SPDXLicenseCollection>
