@@ -70,12 +70,12 @@
 		</sequence>
 	</complexType>
 	<complexType name="altType" mixed="true">
-		<group ref="tns:formattedTextGroup"/>
+		<group ref="tns:formattedTextGroup" minOccurs="0" maxOccurs="unbounded"/>
 		<attribute name="name" type="string"/>
 		<attribute name="match" type="string"/>
 	</complexType>
 	<complexType name="optionalType" mixed="true">
-		<group ref="tns:formattedTextGroup"/>
+		<group ref="tns:formattedTextGroup" minOccurs="0" maxOccurs="unbounded"/>
 	</complexType>
 	<complexType name="listType">
 		<choice minOccurs="1" maxOccurs="unbounded">
@@ -95,6 +95,8 @@
 			<element name="optional" type="tns:optionalType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="alt" type="tns:altType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="br" type="tns:emptyType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="titleText" type="tns:formattedTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="copyrightText" type="tns:formattedTextType" minOccurs="0" maxOccurs="1"/>
 		</choice>
 	</group>
 </schema>
