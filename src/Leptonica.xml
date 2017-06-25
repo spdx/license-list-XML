@@ -18,15 +18,15 @@
       <list>
         <item>
             <bullet>(1)</bullet>
-            <p>the origin of this source code must not be misrepresented;</p>
+          the origin of this source code must not be misrepresented;
         </item>
         <item>
             <bullet>(2)</bullet>
-            <p>modified versions must be plainly marked as such; and</p>
+          modified versions must be plainly marked as such; and
         </item>
         <item>
             <bullet>(3)</bullet>
-            <p>this notice may not be removed or altered from any source or modified source distribution.</p>
+          this notice may not be removed or altered from any source or modified source distribution.
         </item>
       </list>
     

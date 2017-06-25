@@ -33,8 +33,8 @@
       <list>
         <item>
             <bullet>0.</bullet>
-            <p>Definitions.</p>
-            <p>A file is an "Independent Module" if it either requires
+          Definitions.
+          <p>A file is an "Independent Module" if it either requires
              the Runtime Library for execution after a Compilation
              Process, or makes use of an interface provided by the
              Runtime Library, but is not otherwise based on the
@@ -73,8 +73,8 @@
         </item>
         <item>
             <bullet>1.</bullet>
-            <p>Grant of Additional Permission.</p>
-            <p>You have permission to propagate a work of Target Code
+          Grant of Additional Permission.
+          <p>You have permission to propagate a work of Target Code
              formed by combining the Runtime Library with
              Independent Modules, even if such propagation would
              otherwise violate the terms of GPLv3, provided that
@@ -85,7 +85,7 @@
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>No Weakening of GCC Copyleft.</p>
+          No Weakening of GCC Copyleft.
         </item>
       </list>
       <p>The availability of this Exception does not imply any general

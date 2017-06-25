@@ -21,30 +21,30 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Redistributions of source code must retain copyright statements and notices. Redistributions must
-             also contain a copy of this document.</p>
+          Redistributions of source code must retain copyright statements and notices. Redistributions must
+             also contain a copy of this document.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
              and the following disclaimer in the documentation and/or other materials provided with the
-             distribution.</p>
+             distribution.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>The name "OpenLDAP" must not be used to endorse or promote products derived from this Software
+          The name "OpenLDAP" must not be used to endorse or promote products derived from this Software
              without prior written permission of the OpenLDAP Foundation. For written permission, please
-             contact foundation@openldap.org.</p>
+             contact foundation@openldap.org.
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>Products derived from this Software may not be called "OpenLDAP" nor may "OpenLDAP" appear in
+          Products derived from this Software may not be called "OpenLDAP" nor may "OpenLDAP" appear in
              their names without prior written permission of the OpenLDAP Foundation. OpenLDAP is a
-             trademark of the OpenLDAP Foundation.</p>
+             trademark of the OpenLDAP Foundation.
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>Due credit should be given to the OpenLDAP Project (http://www.openldap.org/).</p>
+          Due credit should be given to the OpenLDAP Project (http://www.openldap.org/).
         </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY THE OPENLDAP FOUNDATION AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESSED OR

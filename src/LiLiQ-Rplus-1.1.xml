@@ -16,21 +16,21 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Préambule
+          Préambule
             <br/>Cette licence s'applique à tout logiciel distribué
                  dont le titulaire du droit d'auteur précise
                  qu'il est sujet aux termes de la Licence Libre
                  du Québec – Réciprocité forte (LiLiQ-R+)
                  (ci-après appelée la « licence »).
-        </p>
+        
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Définitions
+          Définitions
             <br/>Dans la présente licence, à moins que le contexte
                  n'indique un sens différent, on entend par:
-          </p>
-            <p>« concédant » : le titulaire du droit d'auteur sur le
+          
+          <p>« concédant » : le titulaire du droit d'auteur sur le
              logiciel, ou toute personne dûment autorisée par ce
              dernier à accorder la présente licence;
             <br/>« contributeur » : le titulaire du droit d'auteur
@@ -65,27 +65,25 @@
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>Licence de droit d'auteur
+          Licence de droit d'auteur
             <br/>Sous réserve des termes de la licence, le concédant
                  accorde au licencié une licence non exclusive
                  et libre de redevances lui permettant
                  d’exercer les droits suivants sur le
                  logiciel:
-          </p>
-            <list>
+          
+          <list>
                <item>
                   <bullet>1</bullet>
-                  <p>Produire ou reproduire la totalité ou une partie importante;</p>
-               </item>
+            Produire ou reproduire la totalité ou une partie importante;</item>
                <item>
                   <bullet>2</bullet>
-                  <p>Exécuter ou représenter la totalité ou une partie
-                 importante en public;</p>
-               </item>
+            Exécuter ou représenter la totalité ou une partie
+                 importante en public;</item>
                <item>
                   <bullet>3</bullet>
-                  <p>Publier la totalité ou une partie importante.</p>
-               </item>
+            Publier la totalité ou une partie importante.
+         </item>
             </list>
             <p>Cette licence est accordée sans limite territoriale et
              sans limite de temps.</p>
@@ -101,39 +99,36 @@
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>Distribution
+          Distribution
             <br/>Le licencié peut distribuer des copies du logiciel,
                  d'un logiciel modifié ou dérivé, sous réserve
                  de respecter les conditions suivantes :
-          </p>
+          
             <list>
                <item>
                   <bullet>1</bullet>
-                  <p>Le logiciel doit être accompagné d'un exemplaire de
-             cette licence;</p>
-               </item>
+          Le logiciel doit être accompagné d'un exemplaire de
+             cette licence;</item>
                <item>
                   <bullet>2</bullet>
-                  <p>Si le logiciel a été modifié, le licencié doit en
+          Si le logiciel a été modifié, le licencié doit en
                  faire la mention, de préférence dans chacun
                  des fichiers modifiés dont la nature permet
-                 une telle mention;</p>
-               </item>
+                 une telle mention;</item>
                <item>
                   <bullet>3</bullet>
-                  <p>Les étiquettes ou mentions faisant état des
+          Les étiquettes ou mentions faisant état des
                  droits d'auteur, des marques de commerce, des
                  garanties ou de la paternité concernant le
                  logiciel ne doivent pas être modifiées ou
                  supprimées, à moins que ces étiquettes ou
                  mentions ne soient inapplicables à un logiciel
-                 modifié ou dérivé donné. </p>
-               </item>
+                 modifié ou dérivé donné. </item>
             </list>
         </item>
         <item>
             <bullet>4.1.</bullet>
-            <p>Réciprocité
+          Réciprocité
             <br/>Chaque fois que le licencié distribue le logiciel,
                  le concédant offre au récipiendaire une
                  concession sur le logiciel selon les termes de
@@ -141,8 +136,8 @@
                  une concession selon les termes de la présente
                  licence pour tout logiciel modifié ou dérivé
                  qu'il distribue.
-          </p>
-            <p>Chaque fois que le licencié distribue le logiciel, un
+          
+          <p>Chaque fois que le licencié distribue le logiciel, un
              logiciel modifié, ou un logiciel dérivé, ce dernier
              doit assumer l'obligation d'en distribuer le code
              source, de la manière prévue au troisième alinéa de
@@ -150,7 +145,7 @@
         </item>
         <item>
             <bullet>4.2.</bullet>
-            <p>Compatibilité
+          Compatibilité
             <br/>Dans la mesure où le licencié souhaite distribuer
                  un logiciel modifié ou dérivé combiné à un
                  logiciel assujetti à une licence compatible,
@@ -158,8 +153,8 @@
                  respecter les termes, le concédant offre, en
                  plus de la présente concession, une concession
                  selon les termes de cette licence compatible.
-          </p>
-            <p>Un licencié qui est titulaire exclusif du droit d'auteur
+          
+          <p>Un licencié qui est titulaire exclusif du droit d'auteur
              sur le logiciel assujetti à une licence compatible ne
              peut pas se prévaloir de cette offre. Il en est de
              même pour toute autre personne dûment autorisée à
@@ -174,85 +169,79 @@
             <list>
                <item>
                   <bullet>1</bullet>
-                  <p>Common Public License Version 1.0 (CPL-1.0)</p>
-               </item>
+                Common Public License Version 1.0 (CPL-1.0)</item>
                <item>
                   <bullet>2</bullet>
-                  <p>Contrat de licence de logiciel libre CeCILL,
-                 version 2.1 (CECILL-2.1)</p>
-               </item>
+                Contrat de licence de logiciel libre CeCILL,
+                 version 2.1 (CECILL-2.1)</item>
                <item>
                   <bullet>3</bullet>
-                  <p>Eclipse Public License - v 1.0 (EPL-1.0)</p>
-               </item>
+                Eclipse Public License - v 1.0 (EPL-1.0)</item>
                <item>
                   <bullet>4</bullet>
-                  <p>European Union Public License, version 1.1 (EUPL v. 1.1)</p>
-               </item>
+                European Union Public License, version 1.1 (EUPL v. 1.1)</item>
                <item>
                   <bullet>5</bullet>
-                  <p>GNU General Public License Version 2 (GNU GPLv2)</p>
-               </item>
+                GNU General Public License Version 2 (GNU GPLv2)</item>
                <item>
                   <bullet>6</bullet>
-                  <p>GNU General Public License Version 3 (GNU GPLv3)</p>
-               </item>
+                GNU General Public License Version 3 (GNU GPLv3)</item>
             </list>
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>Contributions
+          Contributions
             <br/>Sous réserve d'une entente distincte, toute
                  contribution soumise par un contributeur au
                  concédant pour inclusion dans le logiciel sera
                  soumise aux termes de cette licence.
-          </p>
+          
         </item>
         <item>
             <bullet>6.</bullet>
-            <p>Marques de commerce
+          Marques de commerce
             <br/>La licence n'accorde aucune permission particulière
                  qui permettrait d'utiliser les marques de
                  commerce du concédant, autre que celle requise
                  permettant d'identifier la provenance du
                  logiciel.
-          </p>
+          
         </item>
         <item>
             <bullet>7.</bullet>
-            <p>Garanties
+          Garanties
             <br/>Sauf mention contraire, le concédant distribue le
                  logiciel sans aucune garantie, aux risques et
                  périls de l'acquéreur de la copie du logiciel,
                  et ce, sans assurer que le logiciel puisse
                  répondre à un besoin particulier ou puisse
                  donner un résultat quelconque.
-          </p>
-            <p>Sans lier le concédant d'une quelconque manière, rien
+          
+          <p>Sans lier le concédant d'une quelconque manière, rien
              n'empêche un licencié d'offrir ou d'exclure des
              garanties ou du support.</p>
         </item>
         <item>
             <bullet>8.</bullet>
-            <p>Responsabilité
+          Responsabilité
             <br/>Le licencié est responsable de tout préjudice
                  résultant de l'exercice des droits accordés
                  par la licence.
-          </p>
-            <p>Le concédant ne saurait être tenu responsable du
+          
+          <p>Le concédant ne saurait être tenu responsable du
              préjudice subi par le licencié ou par des tiers, pour
              quelque cause que ce soit en lien avec la licence et
              les droits qui y sont accordés.</p>
         </item>
         <item>
             <bullet>9.</bullet>
-            <p>Résiliation
+          Résiliation
             <br/>La présente licence est résiliée de plein droit dès
                  que les droits qui y sont accordés ne sont pas
                  exercés conformément aux termes qui y sont
                  stipulés.
-          </p>
-            <p>Toutefois, si le défaut est corrigé dans un délai de 30
+          
+          <p>Toutefois, si le défaut est corrigé dans un délai de 30
              jours de sa prise de connaissance par la personne en
              défaut, et qu'il s'agit du premier défaut, la licence
              est accordée de nouveau.</p>
@@ -262,7 +251,7 @@
         </item>
         <item>
             <bullet>10.</bullet>
-            <p>Version de la licence
+          Version de la licence
             <br/>Le Centre de services partagés du Québec, ses
                  ayants cause ou toute personne qu'il désigne,
                  peuvent diffuser des versions révisées ou
@@ -271,23 +260,23 @@
                  déjà soumis aux termes d'une version
                  spécifique, c'est seulement cette version qui
                  liera les parties à la licence.
-          </p>
-            <p>Le concédant peut aussi choisir de concéder la licence
+          
+          <p>Le concédant peut aussi choisir de concéder la licence
              sous la version actuelle ou toute version ultérieure,
              auquel cas le licencié peut choisir sous quelle
              version la licence lui est accordée.</p>
         </item>
         <item>
             <bullet>11.</bullet>
-            <p>Divers
+          Divers
             <br/>Dans la mesure où le concédant est un ministère, un organisme
          public ou une personne morale de droit public, créés en vertu
          d'une loi de l'Assemblée nationale du Québec, la licence est
          régie par le droit applicable au Québec et en cas de
          contestation, les tribunaux du Québec seront seuls
          compétents.
-         </p>
-            <p>La présente licence peut être distribuée sans conditions
+         
+      <p>La présente licence peut être distribuée sans conditions
          particulières. Toutefois, une version modifiée doit être
          distribuée sous un nom différent. Toute référence au Centre de
          services partagés du Québec, et, le cas échéant, ses ayant

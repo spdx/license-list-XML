@@ -14,11 +14,11 @@
       <list>
         <item>
             <bullet>-</bullet>
-            <p>copyright notices are retained unchanged</p>
+          copyright notices are retained unchanged
         </item>
         <item>
             <bullet>-</bullet>
-            <p>any distribution of this package, whether modified or not, includes this file</p>
+          any distribution of this package, whether modified or not, includes this file
           </item>
       </list>
       <p>Permission is hereby also granted to distribute binary programs which depend on this package,
@@ -26,8 +26,8 @@
       <list>
         <item>
             <bullet>-</bullet>
-            <p>if the binary program depends on a modified version of this package, you must publicly
-             release the modified version of this package</p>
+          if the binary program depends on a modified version of this package, you must publicly
+             release the modified version of this package
         </item>
       </list>
       <p>THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT WARRANTY. ANY EXPRESS OR IMPLIED WARRANTIES,

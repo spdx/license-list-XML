@@ -18,26 +18,26 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>The origin of this software must not be misrepresented; you must not claim that you wrote the
+          The origin of this software must not be misrepresented; you must not claim that you wrote the
              original software. If you use this software in a product, an acknowledgment in the product
-             documentation would be appreciated but is not required.</p>
+             documentation would be appreciated but is not required.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Altered source versions must be plainly marked as such, and must not be misrepresented as
-             being the original software.</p>
+          Altered source versions must be plainly marked as such, and must not be misrepresented as
+             being the original software.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>This notice may not be removed or altered from any source distribution.</p>
+          This notice may not be removed or altered from any source distribution.
         </item>
       </list>
       <p>additional clause specific to Cube:</p>
       <list>
         <item>
             <bullet>4.</bullet>
-            <p>Source versions may not be "relicensed" under a different license without my
-             explicitly written permission.</p>
+          Source versions may not be "relicensed" under a different license without my
+             explicitly written permission.
         </item>
       </list>
     

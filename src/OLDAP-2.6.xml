@@ -17,29 +17,29 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Redistributions of source code must retain copyright statements and notices.</p>
+          Redistributions of source code must retain copyright statements and notices.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce applicable copyright statements and notices, this
+          Redistributions in binary form must reproduce applicable copyright statements and notices, this
              list of conditions, and the following disclaimer in the documentation and/or other materials
-             provided with the distribution.</p>
+             provided with the distribution.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>Redistributions must contain a verbatim copy of this document.</p>
+          Redistributions must contain a verbatim copy of this document.
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>The names and trademarks of the authors and copyright holders must not be used in advertising or
+          The names and trademarks of the authors and copyright holders must not be used in advertising or
              otherwise to promote the sale, use or other dealing in this Software without specific, written
-             prior permission.</p>
+             prior permission.
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>The OpenLDAP Foundation may revise this license from time to time. Each revision is distinguished
+          The OpenLDAP Foundation may revise this license from time to time. Each revision is distinguished
              by a version number. You may use the Software under terms of this license revision or under
-             the terms of any subsequent revision of the license.</p>
+             the terms of any subsequent revision of the license.
         </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY THE OPENLDAP FOUNDATION AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESSED OR

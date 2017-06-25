@@ -21,29 +21,29 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Redistributions of source code must retain the above copyright notice, this list of conditions,
-             and the following disclaimer.</p>
+          Redistributions of source code must retain the above copyright notice, this list of conditions,
+             and the following disclaimer.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
              and the following disclaimer in the documentation and/or other materials provided with the
              distribution, and in the same place and form as other copyright, license and disclaimer
-             information.</p>
+             information.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>The end-user documentation included with the redistribution, if any, must include the following
+          The end-user documentation included with the redistribution, if any, must include the following
              acknowledgment: "This product includes software developed by The XFree86 Project, Inc
              (http://www.xfree86.org/) and its contributors", in the same place and form as other
              third-party acknowledgments. Alternately, this acknowledgment may appear in the software
-             itself, in the same form and location as other such third-party acknowledgments.</p>
+             itself, in the same form and location as other such third-party acknowledgments.
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>Except as contained in this notice, the name of The XFree86 Project, Inc shall not be used in
+          Except as contained in this notice, the name of The XFree86 Project, Inc shall not be used in
              advertising or otherwise to promote the sale, use or other dealings in this Software without
-             prior written authorization from The XFree86 Project, Inc.</p>
+             prior written authorization from The XFree86 Project, Inc.
         </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED

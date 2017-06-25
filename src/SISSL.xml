@@ -24,140 +24,140 @@
       <list>
         <item>
             <bullet>1.0</bullet>
-            <p>DEFINITIONS</p>
-            <list>
+          DEFINITIONS
+          <list>
                <item>
                   <bullet>1.1</bullet>
-                  <p>"Commercial Use" means distribution or otherwise making the Original Code available to a third party.</p>
-               </item>
+              "Commercial Use" means distribution or otherwise making the Original Code available to a third party.
+            </item>
                <item>
                   <bullet>1.2</bullet>
-                  <p>"Contributor Version" means the combination of the Original Code, and the Modifications made by
-                 that particular Contributor.</p>
-               </item>
+              "Contributor Version" means the combination of the Original Code, and the Modifications made by
+                 that particular Contributor.
+            </item>
                <item>
                   <bullet>1.3</bullet>
-                  <p>"Electronic Distribution Mechanism" means a mechanism generally accepted in the software
-                 development community for the electronic transfer of data.</p>
-               </item>
+              "Electronic Distribution Mechanism" means a mechanism generally accepted in the software
+                 development community for the electronic transfer of data.
+            </item>
                <item>
                   <bullet>1.4</bullet>
-                  <p>"Executable" means Original Code in any form other than Source Code.</p>
-               </item>
+              "Executable" means Original Code in any form other than Source Code.
+            </item>
                <item>
                   <bullet>1.5</bullet>
-                  <p>"Initial Developer" means the individual or entity identified as the Initial Developer in the
-                 Source Code notice required by Exhibit A.</p>
-               </item>
+              "Initial Developer" means the individual or entity identified as the Initial Developer in the
+                 Source Code notice required by Exhibit A.
+            </item>
                <item>
                   <bullet>1.6</bullet>
-                  <p>"Larger Work" means a work which combines Original Code or portions thereof with code not
-                 governed by the terms of this License.</p>
-               </item>
+              "Larger Work" means a work which combines Original Code or portions thereof with code not
+                 governed by the terms of this License.
+            </item>
                <item>
                   <bullet>1.7</bullet>
-                  <p>"License" means this document.</p>
-               </item>
+              "License" means this document.
+            </item>
                <item>
                   <bullet>1.8</bullet>
-                  <p>"Licensable" means having the right to grant, to the maximum extent possible, whether at the time
-                 of the initial grant or subsequently acquired, any and all of the rights conveyed herein.</p>
-               </item>
+              "Licensable" means having the right to grant, to the maximum extent possible, whether at the time
+                 of the initial grant or subsequently acquired, any and all of the rights conveyed herein.
+            </item>
                <item>
                   <bullet>1.9</bullet>
-                  <p>"Modifications" means any addition to or deletion from the substance or structure of either the
-                 Original Code or any previous Modifications. A Modification is:</p>
-                  <list>
+              "Modifications" means any addition to or deletion from the substance or structure of either the
+                 Original Code or any previous Modifications. A Modification is:
+              <list>
                      <item>
                         <bullet>A.</bullet>
-                        <p>Any addition to or deletion from the contents of a file containing Original Code or previous
-                     Modifications.</p>
-                     </item>
+                  Any addition to or deletion from the contents of a file containing Original Code or previous
+                     Modifications.
+                </item>
                      <item>
                         <bullet>B.</bullet>
-                        <p>Any new file that contains any part of the Original Code or previous Modifications.</p>
-                     </item>
+                  Any new file that contains any part of the Original Code or previous Modifications.
+                </item>
                   </list>
                </item>
                <item>
                   <bullet>1.10</bullet>
-                  <p>"Original Code" means Source Code of computer software code which is described in the Source Code
-                 notice required by Exhibit A as Original Code.</p>
-               </item>
+              "Original Code" means Source Code of computer software code which is described in the Source Code
+                 notice required by Exhibit A as Original Code.
+            </item>
                <item>
                   <bullet>1.11</bullet>
-                  <p>"Patent Claims" means any patent claim(s), now owned or hereafter acquired, including without
-                 limitation, method, process, and apparatus claims, in any patent Licensable by grantor.</p>
-               </item>
+              "Patent Claims" means any patent claim(s), now owned or hereafter acquired, including without
+                 limitation, method, process, and apparatus claims, in any patent Licensable by grantor.
+            </item>
                <item>
                   <bullet>1.12</bullet>
-                  <p>"Source Code" means the preferred form of the Original Code for making modifications to it,
+              "Source Code" means the preferred form of the Original Code for making modifications to it,
                  including all modules it contains, plus any associated interface definition files, or scripts
-                 used to control compilation and installation of an Executable.</p>
-               </item>
+                 used to control compilation and installation of an Executable.
+            </item>
                <item>
                   <bullet>1.13</bullet>
-                  <p>"Standards" means the standards identified in Exhibit B.</p>
-               </item>
+              "Standards" means the standards identified in Exhibit B.
+            </item>
                <item>
                   <bullet>1.14</bullet>
-                  <p>"You" (or "Your") means an individual or a legal entity exercising rights under, and complying
+              "You" (or "Your") means an individual or a legal entity exercising rights under, and complying
                  with all of the terms of, this License or a future version of this License issued under
                  Section 6.1. For legal entities, "You'' includes any entity which controls, is controlled by,
                  or is under common control with You. For purposes of this definition, "control'' means (a) the
                  power, direct or indirect, to cause the direction or management of such entity, whether by
                  contract or otherwise, or (b) ownership of more than fifty percent (50%) of the outstanding
-                 shares or beneficial ownership of such entity.</p>
-               </item>
+                 shares or beneficial ownership of such entity.
+            </item>
             </list>
         </item>
       </list>
       <list>
         <item>
             <bullet>2.0</bullet>
-            <p>SOURCE CODE LICENSE</p>
-            <list>
+          SOURCE CODE LICENSE
+          <list>
                <item>
                   <bullet>2.1</bullet>
-                  <p>The Initial Developer Grant The Initial Developer hereby grants You a world-wide, royalty-free,
-                 non-exclusive license, subject to third party intellectual property claims:</p>
-                  <list>
+              The Initial Developer Grant The Initial Developer hereby grants You a world-wide, royalty-free,
+                 non-exclusive license, subject to third party intellectual property claims:
+              <list>
                      <item>
                         <bullet>(a)</bullet>
-                        <p>under intellectual property rights (other than patent or trademark) Licensable by Initial
+                  under intellectual property rights (other than patent or trademark) Licensable by Initial
                      Developer to use, reproduce, modify, display, perform, sublicense and distribute the Original
                      Code (or portions thereof) with or without Modifications, and/or as part of a Larger Work;
-                     and</p>
-                     </item>
+                     and
+                </item>
                      <item>
                         <bullet>(b)</bullet>
-                        <p>under Patents Claims infringed by the making, using or selling of Original Code, to make, have
+                  under Patents Claims infringed by the making, using or selling of Original Code, to make, have
                      made, use, practice, sell, and offer for sale, and/or otherwise dispose of the Original Code
-                     (or portions thereof).</p>
-                     </item>
+                     (or portions thereof).
+                </item>
                      <item>
                         <bullet>(c)</bullet>
-                        <p>the licenses granted in this Section 2.1(a) and (b) are effective on the date Initial Developer
-                       first distributes Original Code under the terms of this License.</p>
-                     </item>
+                    the licenses granted in this Section 2.1(a) and (b) are effective on the date Initial Developer
+                       first distributes Original Code under the terms of this License.
+                </item>
                      <item>
                         <bullet>(d)</bullet>
-                        <p>Notwithstanding Section 2.1(b) above, no patent license is granted: 1) for code that You delete
+                  Notwithstanding Section 2.1(b) above, no patent license is granted: 1) for code that You delete
                      from the Original Code; 2) separate from the Original Code; or 3) for infringements caused by:
                      i) the modification of the Original Code or ii) the combination of the Original Code with
-                     other software or devices, including but not limited to Modifications.</p>
-                     </item>
+                     other software or devices, including but not limited to Modifications.
+                </item>
                   </list>
                </item>
             </list>
         </item>
         <item>
             <bullet>3.0</bullet>
-            <p>DISTRIBUTION OBLIGATIONS</p>
-            <list>
+          DISTRIBUTION OBLIGATIONS
+          <list>
                <item>
                   <bullet>3.1</bullet>
-                  <p>Application of License. The Source Code version of Original Code may be distributed only under
+              Application of License. The Source Code version of Original Code may be distributed only under
                  the terms of this License or a future version of this License released under Section 6.1, and
                  You must include a copy of this License with every copy of the Source Code You distribute. You
                  may not offer or impose any terms on any Source Code version that alters or restricts the
@@ -171,11 +171,11 @@
                  Modifications in Source Code form, and to make any such deviation and reference implementation
                  or Modifications available to all third parties under the same terms as this license on a
                  royalty free basis within thirty (30) days of Your first customer shipment of Your
-                 Modifications.</p>
-               </item>
+                 Modifications.
+            </item>
                <item>
                   <bullet>3.2</bullet>
-                  <p>Required Notices. You must duplicate the notice in Exhibit A in each file of the Source Code. If
+              Required Notices. You must duplicate the notice in Exhibit A in each file of the Source Code. If
                  it is not possible to put such notice in a particular Source Code file due to its structure,
                  then You must include such notice in a location (such as a relevant directory) where a user
                  would be likely to look for such a notice. If You created one or more Modification(s) You may
@@ -187,11 +187,11 @@
                  Initial Developer. You must make it absolutely clear than any such warranty, support,
                  indemnity or liability obligation is offered by You alone, and You hereby agree to indemnify
                  the Initial Developer for any liability incurred by the Initial Developer as a result of
-                 warranty, support, indemnity or liability terms You offer.</p>
-               </item>
+                 warranty, support, indemnity or liability terms You offer.
+            </item>
                <item>
                   <bullet>3.3</bullet>
-                  <p>Distribution of Executable Versions. You may distribute Original Code in Executable and Source
+              Distribution of Executable Versions. You may distribute Original Code in Executable and Source
                  form only if the requirements of Sections 3.1 and 3.2 have been met for that Original Code,
                  and if You include a notice stating that the Source Code version of the Original Code is
                  available under the terms of this License. The notice must be conspicuously included in any
@@ -203,21 +203,21 @@
                  versions under a different license You must make it absolutely clear that any terms which
                  differ from this License are offered by You alone, not by the Initial Developer. You hereby
                  agree to indemnify the Initial Developer for any liability incurred by the Initial Developer
-                 as a result of any such terms You offer.</p>
-               </item>
+                 as a result of any such terms You offer.
+            </item>
                <item>
                   <bullet>3.4</bullet>
-                  <p>Larger Works. You may create a Larger Work by combining Original Code with other code not
+              Larger Works. You may create a Larger Work by combining Original Code with other code not
                  governed by the terms of this License and distribute the Larger Work as a single product. In
                  such a case, You must make sure the requirements of this License are fulfilled for the
-                 Original Code.</p>
-               </item>
+                 Original Code.
+            </item>
             </list>
         </item>
         <item>
             <bullet>4.0</bullet>
-            <p>INABILITY TO COMPLY DUE TO STATUTE OR REGULATION</p>
-            <p>If it is impossible for You to comply with any of the terms of this License with respect to some
+          INABILITY TO COMPLY DUE TO STATUTE OR REGULATION
+          <p>If it is impossible for You to comply with any of the terms of this License with respect to some
              or all of the Original Code due to statute, judicial order, or regulation then You must: (a)
              comply with the terms of this License to the maximum extent possible; and (b) describe the
              limitations and the code they affect. Such description must be included in the LEGAL file
@@ -227,33 +227,33 @@
         </item>
         <item>
             <bullet>5.0</bullet>
-            <p>APPLICATION OF THIS LICENSE</p>
-            <p>This License applies to code to which the Initial Developer has attached the notice in Exhibit A
+          APPLICATION OF THIS LICENSE
+          <p>This License applies to code to which the Initial Developer has attached the notice in Exhibit A
              and to related Modifications as set out in Section 3.1.</p>
         </item>
         <item>
             <bullet>6.0</bullet>
-            <p>VERSIONS OF THE LICENSE</p>
-            <list>
+          VERSIONS OF THE LICENSE
+          <list>
                <item>
                   <bullet>6.1</bullet>
-                  <p>New Versions. Sun may publish revised and/or new versions of the License from time to time. Each
-                 version will be given a distinguishing version number.</p>
-               </item>
+              New Versions. Sun may publish revised and/or new versions of the License from time to time. Each
+                 version will be given a distinguishing version number.
+            </item>
                <item>
                   <bullet>6.2</bullet>
-                  <p>Effect of New Versions. Once Original Code has been published under a particular version of the
+              Effect of New Versions. Once Original Code has been published under a particular version of the
                  License, You may always continue to use it under the terms of that version. You may also
                  choose to use such Original Code under the terms of any subsequent version of the License
                  published by Sun. No one other than Sun has the right to modify the terms applicable to
-                 Original Code.</p>
-               </item>
+                 Original Code.
+            </item>
             </list>
         </item>
         <item>
             <bullet>7.0</bullet>
-            <p>DISCLAIMER OF WARRANTY</p>
-            <p>ORIGINAL CODE IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS, WITHOUT WARRANTY OF ANY KIND,
+          DISCLAIMER OF WARRANTY
+          <p>ORIGINAL CODE IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS, WITHOUT WARRANTY OF ANY KIND,
              EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT THE ORIGINAL CODE
              IS FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE
              RISK AS TO THE QUALITY AND PERFORMANCE OF THE ORIGINAL CODE IS WITH YOU. SHOULD ANY ORIGINAL
@@ -264,28 +264,28 @@
         </item>
         <item>
             <bullet>8.0</bullet>
-            <p>TERMINATION</p>
-            <list>
+          TERMINATION
+          <list>
                <item>
                   <bullet>8.1</bullet>
-                  <p>This License and the rights granted hereunder will terminate automatically if You fail to comply
+              This License and the rights granted hereunder will terminate automatically if You fail to comply
                  with terms herein and fail to cure such breach within 30 days of becoming aware of the breach.
                  All sublicenses to the Original Code which are properly granted shall survive any termination
                  of this License. Provisions which, by their nature, must remain in effect beyond the
-                 termination of this License shall survive.</p>
-               </item>
+                 termination of this License shall survive.
+            </item>
                <item>
                   <bullet>8.2</bullet>
-                  <p>In the event of termination under Section 8.1 above, all end user license agreements (excluding
+              In the event of termination under Section 8.1 above, all end user license agreements (excluding
                  distributors and resellers) which have been validly granted by You or any distributor
-                 hereunder prior to termination shall survive termination.</p>
-               </item>
+                 hereunder prior to termination shall survive termination.
+            </item>
             </list>
         </item>
         <item>
             <bullet>9.0</bullet>
-            <p>LIMIT OF LIABILITY</p>
-            <p>UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING NEGLIGENCE), CONTRACT,
+          LIMIT OF LIABILITY
+          <p>UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING NEGLIGENCE), CONTRACT,
              OR OTHERWISE, SHALL YOU, THE INITIAL DEVELOPER, ANY OTHER CONTRIBUTOR, OR ANY DISTRIBUTOR OF
              ORIGINAL CODE, OR ANY SUPPLIER OF ANY OF SUCH PARTIES, BE LIABLE TO ANY PERSON FOR ANY
              INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT
@@ -299,8 +299,8 @@
         </item>
         <item>
             <bullet>10.0</bullet>
-            <p>U.S. GOVERNMENT END USERS</p>
-            <p>U.S. Government: If this Software is being acquired by or on behalf of the U.S. Government or by
+          U.S. GOVERNMENT END USERS
+          <p>U.S. Government: If this Software is being acquired by or on behalf of the U.S. Government or by
              a U.S. Government prime contractor or subcontractor (at any tier), then the Government's
              rights in the Software and accompanying documentation shall be only as set forth in this
              license; this is in accordance with 48 C.F.R. 227.7201 through 227.7202-4 (for Department of
@@ -309,8 +309,8 @@
         </item>
         <item>
             <bullet>11.0</bullet>
-            <p>MISCELLANEOUS</p>
-            <p>This License represents the complete agreement concerning subject matter hereof. If any provision of this
+          MISCELLANEOUS
+          <p>This License represents the complete agreement concerning subject matter hereof. If any provision of this
              License is held to be unenforceable, such provision shall be reformed only to the extent necessary to
              make it enforceable. This License shall be governed by California law provisions (except to the extent
              applicable law, if any, provides otherwise), excluding its conflict-of-law provisions. With respect to

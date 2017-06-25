@@ -29,22 +29,22 @@
       <list>
         <item>
             <bullet>*</bullet>
-            <p>Redistributions of source code must retain the above copyright notice, this list of conditions
-             and the following disclaimers.</p>
+          Redistributions of source code must retain the above copyright notice, this list of conditions
+             and the following disclaimers.
         </item>
         <item>
             <bullet>*</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
              and the following disclaimers in the documentation and/or other materials provided with the
-             distribution.</p>
+             distribution.
         </item>
         <item>
             <bullet>*</bullet>
-            <p>Neither the names of 
+          Neither the names of 
             <alt match=".+" name="organizationClause3">&lt;Name of Development Group, Name of
             Institution&gt;</alt>, nor the names of its contributors may be used to endorse or promote
             products derived from this Software without specific prior written permission. 
-          </p>
+          
         </item>
       </list>
       <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT

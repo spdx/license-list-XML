@@ -23,23 +23,23 @@
         <list>
             <item>
                <bullet>*</bullet>
-               <p>Redistributions of source code must retain the above copyright notice, this list of
-               conditions and the following disclaimer.</p>
-            </item>
+            Redistributions of source code must retain the above copyright notice, this list of
+               conditions and the following disclaimer.
+          </item>
             <item>
                <bullet>*</bullet>
-               <p>Redistributions in binary form must reproduce the above copyright notice, this list of
+            Redistributions in binary form must reproduce the above copyright notice, this list of
                conditions and the following disclaimer in the documentation and/or other materials
-               provided with the distribution.</p>
-            </item>
+               provided with the distribution.
+          </item>
             <item>
                <bullet>*</bullet>
-               <p>Neither the name of 
+            Neither the name of 
               <alt match=".+" name="organizationClause3">[Owner Organization]</alt> nor the names of its
               contributors may be used to endorse or promote products derived from this software without
               specific prior written permission. 
-            </p>
-            </item>
+            
+          </item>
         </list>
       </list>
       <p>NO EXPRESS OR IMPLIED LICENSES TO ANY PARTY'S PATENT RIGHTS ARE GRANTED BY THIS LICENSE. THIS

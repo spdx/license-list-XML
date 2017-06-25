@@ -15,25 +15,25 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>DEFINITIONS</p>
-            <p>"Contribution" means:</p>
+          DEFINITIONS
+          <p>"Contribution" means:</p>
             <list>
                <item>
                   <bullet>a.</bullet>
-                  <p>in the case of Lucent Technologies Inc. ("LUCENT"), the Original Program, and</p>
-               </item>
+            in the case of Lucent Technologies Inc. ("LUCENT"), the Original Program, and
+          </item>
                <item>
                   <bullet>b.</bullet>
-                  <p>in the case of each Contributor,</p>
-                  <list>
+            in the case of each Contributor,
+          <list>
                      <item>
                         <bullet>i.</bullet>
-                        <p>changes to the Program, and</p>
-                     </item>
+              changes to the Program, and
+            </item>
                      <item>
                         <bullet>ii.</bullet>
-                        <p>additions to the Program;</p>
-                        <p>where such changes and/or additions to the Program were added to the Program by such
+              additions to the Program;
+              <p>where such changes and/or additions to the Program were added to the Program by such
                  Contributor itself or anyone acting on such Contributor's behalf, and the
                  Contributor explicitly consents, in accordance with Section 3C, to characterization of
                  the changes and/or additions as Contributions.</p>
@@ -57,19 +57,19 @@
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>GRANT OF RIGHTS</p>
-            <list>
+          GRANT OF RIGHTS
+        <list>
                <item>
                   <bullet>a.</bullet>
-                  <p>Subject to the terms of this Agreement, each Contributor hereby grants Recipient a
+            Subject to the terms of this Agreement, each Contributor hereby grants Recipient a
                non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare derivative
                works of, publicly display, publicly perform, distribute and sublicense the Contribution
                of such Contributor, if any, and such derivative works, in source code and object code
-               form.</p>
-               </item>
+               form.
+          </item>
                <item>
                   <bullet>b.</bullet>
-                  <p>Subject to the terms of this Agreement, each Contributor hereby grants Recipient a
+            Subject to the terms of this Agreement, each Contributor hereby grants Recipient a
                non-exclusive, worldwide, royalty-free patent license under Licensed Patents to make, use,
                sell, offer to sell, import and otherwise transfer the Contribution of such Contributor,
                if any, in source code and object code form. The patent license granted by a Contributor
@@ -78,11 +78,11 @@
                Contribution causes such combination to be covered by the Licensed Patents. The patent
                license granted by a Contributor shall not apply to (i) any other combinations which
                include the Contribution, nor to (ii) Contributions of other Contributors. No hardware per
-               se is licensed hereunder.</p>
-               </item>
+               se is licensed hereunder.
+          </item>
                <item>
                   <bullet>c.</bullet>
-                  <p>Recipient understands that although each Contributor grants the licenses to its Contributions
+            Recipient understands that although each Contributor grants the licenses to its Contributions
                set forth herein, no assurances are provided by any Contributor that the Program does not
                infringe the patent or other intellectual property rights of any other entity. Each
                Contributor disclaims any liability to Recipient for claims brought by any other entity
@@ -91,79 +91,79 @@
                responsibility to secure any other intellectual property rights needed, if any. For
                example, if a third party patent license is required to allow Recipient to distribute the
                Program, it is Recipient's responsibility to acquire that license before distributing
-               the Program.</p>
-               </item>
+               the Program.
+          </item>
                <item>
                   <bullet>d.</bullet>
-                  <p>Each Contributor represents that to its knowledge it has sufficient copyright rights in its
-               Contribution, if any, to grant the copyright license set forth in this Agreement.</p>
-               </item>
+            Each Contributor represents that to its knowledge it has sufficient copyright rights in its
+               Contribution, if any, to grant the copyright license set forth in this Agreement.
+          </item>
             </list>
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>REQUIREMENTS</p>
-            <list>
+          REQUIREMENTS
+        <list>
                <item>
                   <bullet>A.</bullet>
-                  <p>Distributor may choose to distribute the Program in any form under this Agreement or under
-               its own license agreement, provided that:</p>
-                  <list>
+            Distributor may choose to distribute the Program in any form under this Agreement or under
+               its own license agreement, provided that:
+          <list>
                      <item>
                         <bullet>1.</bullet>
-                        <p>it complies with the terms and conditions of this Agreement;</p>
-                     </item>
+              it complies with the terms and conditions of this Agreement;
+            </item>
                      <item>
                         <bullet>2.</bullet>
-                        <p>if the Program is distributed in source code or other tangible form, a copy of this
+              if the Program is distributed in source code or other tangible form, a copy of this
                  Agreement or Distributor's own license agreement is included with each copy of
-                 the Program; and</p>
-                     </item>
+                 the Program; and
+            </item>
                      <item>
                         <bullet>3.</bullet>
-                        <p>if distributed under Distributor's own license agreement, such license agreement:</p>
-                        <list>
+              if distributed under Distributor's own license agreement, such license agreement:
+            <list>
                            <item>
                               <bullet>a.</bullet>
-                              <p>effectively disclaims on behalf of all Contributors all warranties and conditions,
+                effectively disclaims on behalf of all Contributors all warranties and conditions,
                    express and implied, including warranties or conditions of title and
                    non-infringement, and implied warranties or conditions of merchantability and
-                   fitness for a particular purpose;</p>
-                           </item>
+                   fitness for a particular purpose;
+              </item>
                            <item>
                               <bullet>b.</bullet>
-                              <p>effectively excludes on behalf of all Contributors all liability for damages,
+                effectively excludes on behalf of all Contributors all liability for damages,
                    including direct, indirect, special, incidental and consequential damages, such as
-                   lost profits; and</p>
-                           </item>
+                   lost profits; and
+              </item>
                            <item>
                               <bullet>c.</bullet>
-                              <p>states that any provisions which differ from this Agreement are offered by that
-                   Contributor alone and not by any other party.</p>
-                           </item>
+                states that any provisions which differ from this Agreement are offered by that
+                   Contributor alone and not by any other party.
+              </item>
                         </list>
                      </item>
                   </list>
                </item>
                <item>
                   <bullet>B.</bullet>
-                  <p>Each Distributor must include the following in a conspicuous location in the Program:</p>
-                  <p>Copyright (C) 2003, Lucent Technologies Inc. and others. All Rights Reserved.</p>
+            Each Distributor must include the following in a conspicuous location in the Program:
+            <p>Copyright (C) 2003, Lucent Technologies Inc. and others. All Rights Reserved.</p>
                </item>
                <item>
                   <bullet>C.</bullet>
-                  <p>In addition, each Contributor must identify itself as the originator of its Contribution in a
+            In addition, each Contributor must identify itself as the originator of its Contribution in a
                manner that reasonably allows subsequent Recipients to identify the originator of the
                Contribution. Also, each Contributor must agree that the additions and/or changes are
                intended to be a Contribution. Once a Contribution is contributed, it may not thereafter
-               be revoked.</p>
-               </item>
+               be revoked.
+          </item>
             </list>
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>COMMERCIAL DISTRIBUTION</p>
-            <p>Commercial distributors of software may accept certain responsibilities with respect to end
+          COMMERCIAL DISTRIBUTION
+          <p>Commercial distributors of software may accept certain responsibilities with respect to end
              users, business partners and the like. While this license is intended to facilitate the
              commercial use of the Program, the Distributor who includes the Program in a commercial
              product offering should do so in a manner which does not create potential liability for
@@ -190,8 +190,8 @@
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>NO WARRANTY</p>
-            <p>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN "AS IS"
+          NO WARRANTY
+          <p>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN "AS IS"
              BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING,
              WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY
              OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely responsible for determining the
@@ -202,8 +202,8 @@
         </item>
         <item>
             <bullet>6.</bullet>
-            <p>DISCLAIMER OF LIABILITY</p>
-            <p>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL
+          DISCLAIMER OF LIABILITY
+          <p>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL
              HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
              DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF
              LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
@@ -212,15 +212,15 @@
         </item>
         <item>
             <bullet>7.</bullet>
-            <p>EXPORT CONTROL</p>
-            <p>Recipient agrees that Recipient alone is responsible for compliance with the United States export
+          EXPORT CONTROL
+          <p>Recipient agrees that Recipient alone is responsible for compliance with the United States export
              administration regulations (and the export control laws and regulation of any other
              countries).</p>
         </item>
         <item>
             <bullet>8.</bullet>
-            <p>GENERAL</p>
-            <p>If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect
+          GENERAL
+      <p>If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect
          the validity or enforceability of the remainder of the terms of this Agreement, and without further
          action by the parties hereto, such provision shall be reformed to the minimum extent necessary to make
          such provision valid and enforceable.</p>

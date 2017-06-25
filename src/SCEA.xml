@@ -22,8 +22,8 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Definitions:</p>
-            <p>"Software" shall mean the software and related documentation, whether in Source or Object Form,
+          Definitions:
+          <p>"Software" shall mean the software and related documentation, whether in Source or Object Form,
              made available under this SCEA Shared Source license ("License"), that is indicated by a
              copyright notice file included in the source files or attached or accompanying the source
              files.</p>
@@ -40,26 +40,26 @@
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>License Grant.</p>
-            <p>Licensor hereby grants to You, free of charge subject to the terms and conditions of this
+          License Grant.
+          <p>Licensor hereby grants to You, free of charge subject to the terms and conditions of this
              License, an irrevocable, non-exclusive, worldwide, perpetual, and royalty-free license to use,
              modify, reproduce, distribute, publicly perform or display the Software in Object or Source
              Form .</p>
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>No Right to File for Patent. 
+          No Right to File for Patent. 
             <br/>In exchange for the rights that are granted to You free of charge under this License, You
                  agree that You will not file for any patent application, seek copyright protection or
                  take any other action that might otherwise impair the ownership rights in and to the
                  Software that may belong to SCEA or any of the other contributors/authors of the
                  Software. 
-          </p>
+          
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>Contributions.</p>
-            <p>SCEA welcomes contributions in form of modifications, optimizations, tools or documentation
+          Contributions.
+          <p>SCEA welcomes contributions in form of modifications, optimizations, tools or documentation
              designed to improve or expand the performance and scope of the Software (collectively
              "Contributions"). Per the terms of this License You are free to modify the Software and those
              modifications would belong to You. You may however wish to donate Your Contributions to SCEA
@@ -81,36 +81,36 @@
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>Redistribution in Source Form</p>
-            <p>You may redistribute copies of the Software, modifications or derivatives thereof in Source Code
+          Redistribution in Source Form
+          <p>You may redistribute copies of the Software, modifications or derivatives thereof in Source Code
              Form, provided that You:</p>
             <list>
                <item>
                   <bullet>a.</bullet>
-                  <p>Include a copy of this License and any copyright notices with source</p>
-               </item>
+              Include a copy of this License and any copyright notices with source
+            </item>
                <item>
                   <bullet>b.</bullet>
-                  <p>Identify modifications if any were made to the Software</p>
-               </item>
+              Identify modifications if any were made to the Software
+            </item>
                <item>
                   <bullet>c.</bullet>
-                  <p>Include a copy of all documentation accompanying the Software and modifications made by You</p>
-               </item>
+              Include a copy of all documentation accompanying the Software and modifications made by You
+            </item>
             </list>
         </item>  
         <item>
             <bullet>6.</bullet>
-            <p>Redistribution in Object Form</p>
-            <p>If You redistribute copies of the Software, modifications or derivatives thereof in Object Form
+          Redistribution in Object Form
+          <p>If You redistribute copies of the Software, modifications or derivatives thereof in Object Form
              only (as incorporated into finished goods, i.e. end user applications) then You will not have
              a duty to include any copies of the code, this License, copyright notices, other attributions
              or documentation.</p>
         </item>
         <item>
             <bullet>7.</bullet>
-            <p>No Warranty</p>
-            <p>THE SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT ANY REPRESENTATIONS OR WARRANTIES OF ANY
+          No Warranty
+          <p>THE SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT ANY REPRESENTATIONS OR WARRANTIES OF ANY
              KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF TITLE,
              NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. YOU ARE SOLELY
              RESPONSIBLE FOR DETERMINING THE APPROPRIATENESS OF USING, MODIFYING OR REDISTRIBUTING THE
@@ -119,8 +119,8 @@
         </item>
         <item>
             <bullet>8.</bullet>
-            <p>Limitation of Liability</p>
-            <p>UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY
+          Limitation of Liability
+          <p>UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY
              OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR EXEMPLARY
              DAMAGES WITH RESPECT TO ANY INJURY, LOSS, OR DAMAGE, ARISING UNDER OR IN CONNECTION WITH THIS
              LETTER AGREEMENT, WHETHER FORESEEABLE OR UNFORESEEABLE, EVEN IF SUCH PARTY HAS BEEN ADVISED OF
@@ -130,8 +130,8 @@
         </item>
         <item>
             <bullet>9.</bullet>
-            <p>Governing Law and Consent to Jurisdiction</p>
-            <p>This Agreement shall be governed by and interpreted in accordance with the laws of the State of
+          Governing Law and Consent to Jurisdiction
+          <p>This Agreement shall be governed by and interpreted in accordance with the laws of the State of
              California, excluding that body of law related to choice of laws, and of the United States of
              America. Any action or proceeding brought to enforce the terms of this Agreement or to
              adjudicate any dispute arising hereunder shall be brought in the Superior Court of the County
@@ -143,7 +143,7 @@
         </item>
         <item>
             <bullet>10.</bullet>
-            <p>Copyright Notice for Redistribution of Source Code</p>
+          Copyright Notice for Redistribution of Source Code
         </item>
       </list>
       <p>Copyright 2005 Sony Computer Entertainment Inc.</p>

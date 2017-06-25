@@ -18,14 +18,14 @@
       <list>
         <item>
             <bullet>1)</bullet>
-            <p>the modifications are licensed under the same terms as this software;</p>
+          the modifications are licensed under the same terms as this software;
         </item>
         <item>
             <bullet>2)</bullet>
-            <p>you make available the source code of any modifications that you distribute, either on the same
+          you make available the source code of any modifications that you distribute, either on the same
              media as you distribute any executable or other form of this software, or via a mechanism
              generally accepted in the software development community for the electronic transfer of
-             data.</p>
+             data.
         </item>
       </list>
       <p>This software is provided "as is" without express or implied warranty.</p>

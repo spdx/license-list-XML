@@ -16,39 +16,39 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>DEFINITIONS 
+          DEFINITIONS 
             <br/>"Contribution" means: 
-          </p>
+          
             <list>
                 <item>
                   <bullet>a.</bullet>
-                  <p>in the case of International Business Machines Corporation ("IBM"), the Original Program, and</p>
+                  in the case of International Business Machines Corporation ("IBM"), the Original Program, and
                 </item>
                 <item>
                   <bullet>b.</bullet>
-                  <p>in the case of each Contributor,</p>
-                  <list>
+                  in the case of each Contributor,
+                <list>
                      <item>
                         <bullet>i.</bullet>
-                        <p>changes to the Program, and</p>
-                     </item>
+                    changes to the Program, and
+                  </item>
                      <item>
                         <bullet>ii.</bullet>
-                        <p>additions to the Program; 
+                    additions to the Program; 
                       where such changes and/or additions to the Program originate from and 
                       are distributed by that particular Contributor. A Contribution 
                       'originates' from a Contributor if it was added to the Program by 
                       such Contributor itself or anyone acting on such Contributor's 
                       behalf. Contributions do not include additions to the Program which: 
-                    </p>
-                        <list>
+                    
+                    <list>
                            <item>
                               <bullet>(i)</bullet>
-                              <p>are separate modules of software distributed in conjunction with 
+                          are separate modules of software distributed in conjunction with 
                             <br/>the Program under their own license agreement, and (ii) are not 
                             <br/>derivative works of the Program. 
-                          </p>
-                           </item>
+                          
+                        </item>
                         </list>
                      </item>
                   </list>
@@ -70,21 +70,21 @@
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>GRANT OF RIGHTS</p>
-            <list>
+          GRANT OF RIGHTS
+        <list>
                <item>
                   <bullet>a.</bullet>
-                  <p>Subject to the terms of this Agreement, each Contributor hereby 
+              Subject to the terms of this Agreement, each Contributor hereby 
                 grants Recipient a non-exclusive, worldwide, royalty-free copyright 
                 license to reproduce, prepare derivative works of, publicly display, 
                 publicly perform, distribute and sublicense the Contribution of such 
                 Contributor, if any, and such derivative works, in source code and 
                 object code form. 
-              </p>
-               </item>
+              
+            </item>
                <item>
                   <bullet>b.</bullet>
-                  <p>Subject to the terms of this Agreement, each Contributor hereby 
+              Subject to the terms of this Agreement, each Contributor hereby 
                 grants Recipient a non-exclusive, worldwide, royalty-free patent 
                 license under Licensed Patents to make, use, sell, offer to sell, 
                 import and otherwise transfer the Contribution of such Contributor, 
@@ -95,11 +95,11 @@
                 the Licensed Patents. The patent license shall not apply to any 
                 other combinations which include the Contribution. No hardware per 
                 se is licensed hereunder. 
-              </p>
-               </item>
+              
+            </item>
                <item>
                   <bullet>c.</bullet>
-                  <p>Recipient understands that although each Contributor grants the 
+              Recipient understands that although each Contributor grants the 
                 <br/>licenses to its Contributions set forth herein, no assurances are 
                 <br/>provided by any Contributor that the Program does not infringe the 
                 <br/>patent or other intellectual property rights of any other entity. 
@@ -112,60 +112,60 @@
                 <br/>required to allow Recipient to distribute the Program, it is 
                 <br/>Recipient's responsibility to acquire that license before 
                 <br/>distributing the Program. 
-              </p>
-               </item>
+              
+            </item>
                <item>
                   <bullet>d.</bullet>
-                  <p>Each Contributor represents that to its knowledge it has 
+              Each Contributor represents that to its knowledge it has 
                 <br/>sufficient copyright rights in its Contribution, if any, to grant the 
                 <br/>copyright license set forth in this Agreement. 
-              </p>
-               </item>  
+              
+            </item>  
             </list>
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>REQUIREMENTS 
+          REQUIREMENTS 
             <br/>A Contributor may choose to distribute 
             the Program in object code form under its own license agreement, 
             provided that: 
-          </p>
-            <list>
+          
+        <list>
                <item>
                   <bullet>a.</bullet>
-                  <p>it complies with the terms and conditions of this Agreement; and</p>
-               </item>
+              it complies with the terms and conditions of this Agreement; and
+            </item>
                <item>
                   <bullet>b.</bullet>
-                  <p>its license agreement:</p>
-                  <list>
+              its license agreement:
+                <list>
                      <item>
                         <bullet>i.</bullet>
-                        <p>effectively disclaims on behalf of all Contributors all warranties 
+                    effectively disclaims on behalf of all Contributors all warranties 
                       and conditions, express and implied, including warranties or 
                       conditions of title and non-infringement, and implied warranties or 
                       conditions of merchantability and fitness for a particular purpose; 
-                    </p>
-                     </item>
+                    
+                  </item>
                      <item>
                         <bullet>ii.</bullet>
-                        <p>effectively excludes on behalf of all Contributors all liability 
+                    effectively excludes on behalf of all Contributors all liability 
                       for damages, including direct, indirect, special, incidental and 
                       consequential damages, such as lost profits; 
-                    </p>
-                     </item>
+                    
+                  </item>
                      <item>
                         <bullet>iii.</bullet>
-                        <p>states that any provisions which differ from this Agreement are 
+                    states that any provisions which differ from this Agreement are 
                       offered by that Contributor alone and not by any other party; and 
-                    </p>
-                     </item>
+                    
+                  </item>
                      <item>
                         <bullet>iv.</bullet>
-                        <p>states that source code for the Program is available from such 
+                    states that source code for the Program is available from such 
                       Contributor, and informs licensees how to obtain it in a reasonable 
-                      manner on or through a medium customarily used for software exchange. </p>
-                     </item>
+                      manner on or through a medium customarily used for software exchange. 
+                  </item>
                   </list>
                </item> 
             </list>    
@@ -173,12 +173,12 @@
             <list>
                <item>
                   <bullet>a.</bullet>
-                  <p>it must be made available under this Agreement; and</p>
-               </item>
+              it must be made available under this Agreement; and
+            </item>
                <item>
                   <bullet>b.</bullet>
-                  <p>a copy of this Agreement must be included with each copy of the Program. </p>
-               </item>
+              a copy of this Agreement must be included with each copy of the Program. 
+            </item>
             </list>
             <p>Each Contributor must include the following in a conspicuous location in the Program:</p>
             <p>Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved.</p>
@@ -189,7 +189,7 @@
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>COMMERCIAL DISTRIBUTION 
+          COMMERCIAL DISTRIBUTION 
             <br/>Commercial distributors of software may accept certain 
             responsibilities with respect to end users, business partners and the 
             like. While this license is intended to facilitate the commercial 
@@ -212,8 +212,8 @@
             Commercial Contributor in, the defense and any related settlement 
             negotiations. The Indemnified Contributor may participate in any 
             such claim at its own expense. 
-          </p>
-            <p>For example, a Contributor might include the Program in a commercial 
+          
+          <p>For example, a Contributor might include the Program in a commercial 
             product offering, Product X. That Contributor is then a Commercial 
             Contributor. If that Commercial Contributor then makes performance 
             claims, or offers warranties related to Product X, those performance 
@@ -227,7 +227,7 @@
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>NO WARRANTY 
+          NO WARRANTY 
             <br/>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS 
             PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY 
             KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY 
@@ -239,11 +239,11 @@
             the risks and costs of program errors, compliance with applicable 
             laws, damage to or loss of data, programs or equipment, and 
             unavailability or interruption of operations. 
-          </p>
+          
         </item>
         <item>
             <bullet>6.</bullet>
-            <p>DISCLAIMER OF LIABILITY 
+          DISCLAIMER OF LIABILITY 
             <br/>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT 
             NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, 
             INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES 
@@ -252,18 +252,18 @@
             TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF 
             THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS 
             GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
-          </p>
+          
         </item>
         <item>
             <bullet>7.</bullet>
-            <p>GENERAL
+          GENERAL
             <br/>If any provision of this Agreement is invalid or unenforceable under 
             applicable law, it shall not affect the validity or enforceability of 
             the remainder of the terms of this Agreement, and without further 
             action by the parties hereto, such provision shall be reformed to the 
             minimum extent necessary to make such provision valid and enforceable. 
-          </p>
-            <p>If Recipient institutes patent litigation against a Contributor with 
+          
+          <p>If Recipient institutes patent litigation against a Contributor with 
             respect to a patent applicable to software (including a cross-claim 
             or counterclaim in a lawsuit), then any patent licenses granted by 
             that Contributor to such Recipient under this Agreement shall 

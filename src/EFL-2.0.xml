@@ -12,23 +12,23 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Permission is hereby granted to use, copy, modify and/or distribute this package, provided that:</p>
-            <list>
+          Permission is hereby granted to use, copy, modify and/or distribute this package, provided that:
+          <list>
                <item>
                   <bullet>-</bullet>
-                  <p>copyright notices are retained unchanged,</p>
-               </item>
+              copyright notices are retained unchanged,
+            </item>
                <item>
                   <bullet>-</bullet>
-                  <p>any distribution of this package, whether modified or not, includes this license text.</p>
-               </item>
+              any distribution of this package, whether modified or not, includes this license text.
+            </item>
             </list>
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Permission is hereby also granted to distribute binary programs which depend on this package. If
+          Permission is hereby also granted to distribute binary programs which depend on this package. If
              the binary program depends on a modified version of this package, you are encouraged to
-             publicly release the modified version of this package.</p>
+             publicly release the modified version of this package.
         </item>
       </list>
       <p>THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT WARRANTY. ANY EXPRESS OR IMPLIED WARRANTIES,

@@ -18,14 +18,14 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Redistributions of source code must retain the above copyright notice, this list of conditions
-             and the following disclaimer.</p>
+          Redistributions of source code must retain the above copyright notice, this list of conditions
+             and the following disclaimer.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
              and the following disclaimer in the documentation and/or other materials provided with the
-             distribution.</p>
+             distribution.
         </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY 

@@ -13,20 +13,20 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Redistributions of source code must retain the above copyright notice, this list of conditions
-             and the following DISCLAIMER.</p>
+          Redistributions of source code must retain the above copyright notice, this list of conditions
+             and the following DISCLAIMER.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
              and the following DISCLAIMER in the documentation and/or other materials provided with the
-             distribution.</p>
+             distribution.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>Any additions, deletions, or changes to the original files must be clearly indicated in
+          Any additions, deletions, or changes to the original files must be clearly indicated in
              accompanying documentation. including the reasons for the changes, and the names of those who
-             made the modifications.</p>
+             made the modifications.
         </item>
       </list>
       <p>DISCLAIMER</p>

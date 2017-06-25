@@ -25,66 +25,66 @@
       <list>
         <item>
             <bullet>-</bullet>
-            <p>Use the software for any purpose;</p>
+          Use the software for any purpose;
         </item>
         <item>
             <bullet>-</bullet>
-            <p>Make derivative works of it (this is called a "Derived Work");</p>
+          Make derivative works of it (this is called a "Derived Work");
         </item>
         <item>
             <bullet>-</bullet>
-            <p>Copy and distribute it and any Derived Work.</p>
+          Copy and distribute it and any Derived Work.
         </item>
       </list>
       <p>If you distribute the software or a Derived Work, you must give back to the community by:</p>
       <list>
         <item>
             <bullet>-</bullet>
-            <p>Prominently noting the date of any changes you make;</p>
+          Prominently noting the date of any changes you make;
         </item>
         <item>
             <bullet>-</bullet>
-            <p>Leaving other people's copyright notices, warranty disclaimers, and license terms in place;</p>
+          Leaving other people's copyright notices, warranty disclaimers, and license terms in place;
         </item>
         <item>
             <bullet>-</bullet>
-            <p>Providing the source code, build scripts, installation scripts, and interface definitions in a
-             form that is easy to get and best to modify;</p>
+          Providing the source code, build scripts, installation scripts, and interface definitions in a
+             form that is easy to get and best to modify;
         </item>
         <item>
             <bullet>-</bullet>
-            <p>Licensing it to everyone under SimPL, or substantially similar terms (such as GPL 2.0), without
-             adding further restrictions to the rights provided;</p>
+          Licensing it to everyone under SimPL, or substantially similar terms (such as GPL 2.0), without
+             adding further restrictions to the rights provided;
         </item>
         <item>
             <bullet>-</bullet>
-            <p>Conspicuously announcing that it is available under that license.</p>
+          Conspicuously announcing that it is available under that license.
         </item>
       </list>
       <p>There are some things that you must shoulder:</p>
       <list>
         <item>
             <bullet>-</bullet>
-            <p>You get NO WARRANTIES. None of any kind;</p>
+          You get NO WARRANTIES. None of any kind;
         </item>
         <item>
             <bullet>-</bullet>
-            <p>If the software damages you in any way, you may only recover direct damages up to the amount you
+          If the software damages you in any way, you may only recover direct damages up to the amount you
              paid for it (that is zero if you did not pay anything). You may not recover any other damages,
              including those called "consequential damages." (The state or country where you live may not
-             allow you to limit your liability in this way, so this may not apply to you);</p>
+             allow you to limit your liability in this way, so this may not apply to you);
         </item>
       </list>
       <p>The SimPL continues perpetually, except that your license rights end automatically if:</p>
       <list>
         <item>
             <bullet>-</bullet>
-            <p>You do not abide by the "give back to the community" terms (your licensees get to keep their
-             rights if they abide);</p>
+          You do not abide by the "give back to the community" terms (your licensees get to keep their
+             rights if they abide);
         </item>
         <item>
             <bullet>-</bullet>
-            <p>Anyone prevents you from distributing the software under the terms of the SimPL.</p>
+          Anyone prevents you from distributing the software under the terms of the SimPL.
         </item>
       </list>
       <p>License for the License</p>

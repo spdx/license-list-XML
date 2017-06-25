@@ -16,19 +16,19 @@
       <list>
          <item>
             <bullet>(i)</bullet>
-            <p>the header files of the Library have not been modified; and</p>
-         </item>
+        the header files of the Library have not been modified; and
+      </item>
          <item>
             <bullet>(ii)</bullet>
-            <p>the incorporated material is limited to numerical
+        the incorporated material is limited to numerical
            parameters, data structure layouts, accessors, macros,
-           inline functions and templates; and</p>
-         </item>
+           inline functions and templates; and
+      </item>
          <item>
             <bullet>(iii)</bullet>
-            <p>you comply with the terms of Section 6 of the GNU Lesser
-           General Public License version 2.1.</p>
-         </item>
+        you comply with the terms of Section 6 of the GNU Lesser
+           General Public License version 2.1.
+      </item>
       </list>
       <p>Moreover, you may apply this exception to a modified
        version of the Library, provided that such
@@ -38,21 +38,21 @@
       <list>
          <item>
             <bullet>(i)</bullet>
-            <p>numerical parameters;</p>
-         </item>
+        numerical parameters;
+      </item>
          <item>
             <bullet>(ii)</bullet>
-            <p>data structure layouts;</p>
-         </item>
+        data structure layouts;
+      </item>
          <item>
             <bullet>(iii)</bullet>
-            <p>accessors; and</p>
-         </item>
+        accessors; and
+      </item>
          <item>
             <bullet>(iv)</bullet>
-            <p>small macros, templates and inline functions of five
-           lines or less in length.</p>
-         </item>
+        small macros, templates and inline functions of five
+           lines or less in length.
+      </item>
       </list>
       <p>Furthermore, you are not required to apply this additional
        permission to a modified version of the Library.</p>

@@ -16,40 +16,40 @@
       <list>
          <item>
             <bullet>1.</bullet>
-            <p>Redistributions of source code must retain the above copyright notice, this list of conditions and
-           the following disclaimer.</p>
-         </item>
+        Redistributions of source code must retain the above copyright notice, this list of conditions and
+           the following disclaimer.
+      </item>
          <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and
+        Redistributions in binary form must reproduce the above copyright notice, this list of conditions and
            the following disclaimer in the documentation and/or other materials provided with the
-           distribution.</p>
-         </item>
+           distribution.
+      </item>
          <item>
             <bullet>3.</bullet>
-            <p>The names "Zend" and "Zend Engine" must not be used to endorse or promote products derived from this
+        The names "Zend" and "Zend Engine" must not be used to endorse or promote products derived from this
            software without prior permission from Zend Technologies Ltd. For written permission, please
-           contact license@zend.com.</p>
-         </item>
+           contact license@zend.com.
+      </item>
          <item>
             <bullet>4.</bullet>
-            <p>Zend Technologies Ltd. may publish revised and/or new versions of the license from time to time. Each
+        Zend Technologies Ltd. may publish revised and/or new versions of the license from time to time. Each
            version will be given a distinguishing version number. Once covered code has been published under
            a particular version of the license, you may always continue to use it under the terms of that
            version. You may also choose to use such covered code under the terms of any subsequent version of
            the license published by Zend Technologies Ltd. No one other than Zend Technologies Ltd. has the
-           right to modify the terms applicable to covered code created under this License.</p>
-         </item>
+           right to modify the terms applicable to covered code created under this License.
+      </item>
          <item>
             <bullet>5.</bullet>
-            <p>Redistributions of any form whatsoever must retain the following acknowledgment: "This product
-           includes the Zend Engine, freely available at http://www.zend.com"</p>
-         </item>
+        Redistributions of any form whatsoever must retain the following acknowledgment: "This product
+           includes the Zend Engine, freely available at http://www.zend.com"
+      </item>
          <item>
             <bullet>6.</bullet>
-            <p>All advertising materials mentioning features or use of this software must display the following
-           acknowledgment: "The Zend Engine is freely available at http://www.zend.com"</p>
-         </item>
+        All advertising materials mentioning features or use of this software must display the following
+           acknowledgment: "The Zend Engine is freely available at http://www.zend.com"
+      </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY ZEND TECHNOLOGIES LTD. ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES,
        INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR

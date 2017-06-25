@@ -24,26 +24,26 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Redistributions of source code must retain the above copyright notice, this list of conditions and
-             the following disclaimer.</p>
+          Redistributions of source code must retain the above copyright notice, this list of conditions and
+             the following disclaimer.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and
+          Redistributions in binary form must reproduce the above copyright notice, this list of conditions and
              the following disclaimer in the documentation and/or other materials provided with the
-             distribution.</p>
+             distribution.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>The names "VOCAL", "Vovida Open Communication Application Library", and "Vovida Open Communication
+          The names "VOCAL", "Vovida Open Communication Application Library", and "Vovida Open Communication
              Application Library (VOCAL)" must not be used to endorse or promote products derived from this
              software without prior written permission. For written permission, please contact
-             vocal@vovida.org.</p>
+             vocal@vovida.org.
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>Products derived from this software may not be called "VOCAL", nor may "VOCAL" appear in their name,
-             without prior written permission.</p>
+          Products derived from this software may not be called "VOCAL", nor may "VOCAL" appear in their name,
+             without prior written permission.
         </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE

@@ -58,8 +58,8 @@
       <list>
         <item>
             <bullet>0.</bullet>
-            <p>Definitions.</p>
-            <p>"This License" refers to version 3 of the GNU Affero General Public License.</p>
+          Definitions.
+          <p>"This License" refers to version 3 of the GNU Affero General Public License.</p>
             <p>"Copyright" also means copyright-like laws that apply to other kinds of works, such as
              semiconductor masks.</p>
             <p>"The Program" refers to any copyrightable work licensed under this License. Each
@@ -87,11 +87,11 @@
         </item>
         <item>
             <bullet>1.</bullet>
-            <p>Source Code. 
+          Source Code. 
             <br/>The "source code" for a work means the preferred form of the work for making
                  modifications to it. "Object code" means any non-source form of a work. 
-          </p>
-            <p>A "Standard Interface" means an interface that either is an official standard defined
+          
+          <p>A "Standard Interface" means an interface that either is an official standard defined
              by a recognized standards body, or, in the case of interfaces specified for a particular
              programming language, one that is widely used among developers working in that language.</p>
             <p>The "System Libraries" of an executable work include anything, other than the work as a
@@ -119,15 +119,15 @@
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Basic Permissions. 
+          Basic Permissions. 
             <br/>All rights granted under this License are granted for the term of copyright on the Program,
                  and are irrevocable provided the stated conditions are met. This License explicitly
                  affirms your unlimited permission to run the unmodified Program. The output from
                  running a covered work is covered by this License only if the output, given its
                  content, constitutes a covered work. This License acknowledges your rights of fair use
                  or other equivalent, as provided by copyright law. 
-          </p>
-            <p>You may make, run and propagate covered works that you do not convey, without conditions so long
+          
+          <p>You may make, run and propagate covered works that you do not convey, without conditions so long
              as your license otherwise remains in force. You may convey covered works to others for the
              sole purpose of having them make modifications exclusively for you, or provide you with
              facilities for running those works, provided that you comply with the terms of this License in
@@ -140,13 +140,13 @@
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>Protecting Users' Legal Rights From Anti-Circumvention Law. 
+          Protecting Users' Legal Rights From Anti-Circumvention Law. 
             <br/>No covered work shall be deemed part of an effective technological measure under any
                  applicable law fulfilling obligations under article 11 of the WIPO copyright treaty
                  adopted on 20 December 1996, or similar laws prohibiting or restricting circumvention
                  of such measures. 
-          </p>
-            <p>When you convey a covered work, you waive any legal power to forbid circumvention of
+          
+          <p>When you convey a covered work, you waive any legal power to forbid circumvention of
              technological measures to the extent such circumvention is effected by exercising rights under
              this License with respect to the covered work, and you disclaim any intention to limit
              operation or modification of the work as a means of enforcing, against the work's users,
@@ -155,49 +155,49 @@
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>Conveying Verbatim Copies. 
+          Conveying Verbatim Copies. 
             <br/>You may convey verbatim copies of the Program's source code as you receive it, in any
                  medium, provided that you conspicuously and appropriately publish on each copy an
                  appropriate copyright notice; keep intact all notices stating that this License and
                  any non-permissive terms added in accord with section 7 apply to the code; keep intact
                  all notices of the absence of any warranty; and give all recipients a copy of this
                  License along with the Program. 
-          </p>
-            <p>You may charge any price or no price for each copy that you convey, and you may offer support or
+          
+          <p>You may charge any price or no price for each copy that you convey, and you may offer support or
              warranty protection for a fee.</p>
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>Conveying Modified Source Versions. 
+          Conveying Modified Source Versions. 
             <br/>You may convey a work based on the Program, or the modifications to produce it from the
                  Program, in the form of source code under the terms of section 4, provided that you
                  also meet all of these conditions: 
-          </p>
-            <list>
+          
+        <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>The work must carry prominent notices stating that you modified it, and giving a relevant date.</p>
-               </item>
+            The work must carry prominent notices stating that you modified it, and giving a relevant date.
+          </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>The work must carry prominent notices stating that it is released under this License and any
+            The work must carry prominent notices stating that it is released under this License and any
                conditions added under section 7. This requirement modifies the requirement in section 4
-               to "keep intact all notices".</p>
-               </item>
+               to "keep intact all notices".
+          </item>
                <item>
                   <bullet>c)</bullet>
-                  <p>You must license the entire work, as a whole, under this License to anyone who comes into
+            You must license the entire work, as a whole, under this License to anyone who comes into
                possession of a copy. This License will therefore apply, along with any applicable section
                7 additional terms, to the whole of the work, and all its parts, regardless of how they
                are packaged. This License gives no permission to license the work in any other way, but
-               it does not invalidate such permission if you have separately received it.</p>
-               </item>
+               it does not invalidate such permission if you have separately received it.
+          </item>
                <item>
                   <bullet>d)</bullet>
-                  <p>If the work has interactive user interfaces, each must display Appropriate Legal Notices;
+            If the work has interactive user interfaces, each must display Appropriate Legal Notices;
                however, if the Program has interactive interfaces that do not display Appropriate Legal
-               Notices, your work need not make them do so.</p>
-               </item>
+               Notices, your work need not make them do so.
+          </item>
             </list>
             <p>A compilation of a covered work with other separate and independent works, which are not by
                their nature extensions of the covered work, and which are not combined with it such as to
@@ -209,39 +209,39 @@
         </item>
         <item>
             <bullet>6.</bullet>
-            <p>Conveying Non-Source Forms. 
+          Conveying Non-Source Forms. 
             <br/>You may convey a covered work in object code form under the terms of sections 4 and 5,
                  provided that you also convey the machine-readable Corresponding Source under the
                  terms of this License, in one of these ways: 
-          </p>
-            <list>
+          
+        <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>Convey the object code in, or embodied in, a physical product (including a physical
+            Convey the object code in, or embodied in, a physical product (including a physical
                distribution medium), accompanied by the Corresponding Source fixed on a durable physical
-               medium customarily used for software interchange.</p>
-               </item>
+               medium customarily used for software interchange.
+          </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>Convey the object code in, or embodied in, a physical product (including a physical
+            Convey the object code in, or embodied in, a physical product (including a physical
                distribution medium), accompanied by a written offer, valid for at least three years and
                valid for as long as you offer spare parts or customer support for that product model, to
                give anyone who possesses the object code either (1) a copy of the Corresponding Source
                for all the software in the product that is covered by this License, on a durable physical
                medium customarily used for software interchange, for a price no more than your reasonable
                cost of physically performing this conveying of source, or (2) access to copy the
-               Corresponding Source from a network server at no charge.</p>
-               </item>
+               Corresponding Source from a network server at no charge.
+          </item>
                <item>
                   <bullet>c)</bullet>
-                  <p>Convey individual copies of the object code with a copy of the written offer to provide the
+            Convey individual copies of the object code with a copy of the written offer to provide the
                Corresponding Source. This alternative is allowed only occasionally and noncommercially,
                and only if you received the object code with such an offer, in accord with subsection
-               6b.</p>
-               </item>
+               6b.
+          </item>
                <item>
                   <bullet>d)</bullet>
-                  <p>Convey the object code by offering access from a designated place (gratis or for a charge),
+            Convey the object code by offering access from a designated place (gratis or for a charge),
                and offer equivalent access to the Corresponding Source in the same way through the same
                place at no further charge. You need not require recipients to copy the Corresponding
                Source along with the object code. If the place to copy the object code is a network
@@ -249,14 +249,14 @@
                party) that supports equivalent copying facilities, provided you maintain clear directions
                next to the object code saying where to find the Corresponding Source. Regardless of what
                server hosts the Corresponding Source, you remain obligated to ensure that it is available
-               for as long as needed to satisfy these requirements.</p>
-               </item>
+               for as long as needed to satisfy these requirements.
+          </item>
                <item>
                   <bullet>e)</bullet>
-                  <p>Convey the object code using peer-to-peer transmission, provided you inform other peers where
+            Convey the object code using peer-to-peer transmission, provided you inform other peers where
                the object code and Corresponding Source of the work are being offered to the general
-               public at no charge under subsection 6d.</p>
-               </item>
+               public at no charge under subsection 6d.
+          </item>
             </list>
             <p>A separable portion of the object code, whose source code is excluded from the Corresponding
                Source as a System Library, need not be included in conveying the object code work.</p>
@@ -297,7 +297,7 @@
         </item>
         <item>
             <bullet>7.</bullet>
-            <p>Additional Terms. 
+          Additional Terms. 
             <br/>"Additional permissions" are terms that supplement the terms of this License by
                  making exceptions from one or more of its conditions. Additional permissions that are
                  applicable to the entire Program shall be treated as though they were included in this
@@ -305,8 +305,8 @@
                  permissions apply only to part of the Program, that part may be used separately under
                  those permissions, but the entire Program remains governed by this License without
                  regard to the additional permissions. 
-          </p>
-            <p>When you convey a copy of a covered work, you may at your option remove any additional
+          
+          <p>When you convey a copy of a covered work, you may at your option remove any additional
              permissions from that copy, or from any part of it. (Additional permissions may be written to
              require their own removal in certain cases when you modify the work.) You may place additional
              permissions on material, added by you to a covered work, for which you have or can give
@@ -317,36 +317,36 @@
             <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>Disclaiming warranty or limiting liability differently from the terms of sections 15 and 16
-               of this License; or</p>
-               </item>
+            Disclaiming warranty or limiting liability differently from the terms of sections 15 and 16
+               of this License; or
+          </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>Requiring preservation of specified reasonable legal notices or author attributions in that
-               material or in the Appropriate Legal Notices displayed by works containing it; or</p>
-               </item>
+            Requiring preservation of specified reasonable legal notices or author attributions in that
+               material or in the Appropriate Legal Notices displayed by works containing it; or
+          </item>
                <item>
                   <bullet>c)</bullet>
-                  <p>Prohibiting misrepresentation of the origin of that material, or requiring that modified
+            Prohibiting misrepresentation of the origin of that material, or requiring that modified
                versions of such material be marked in reasonable ways as different from the original
-               version; or</p>
-               </item>
+               version; or
+          </item>
                <item>
                   <bullet>d)</bullet>
-                  <p>Limiting the use for publicity purposes of names of licensors or authors of the material; or</p>
-               </item>
+            Limiting the use for publicity purposes of names of licensors or authors of the material; or
+          </item>
                <item>
                   <bullet>e)</bullet>
-                  <p>Declining to grant rights under trademark law for use of some trade names, trademarks, or
-               service marks; or</p>
-               </item>
+            Declining to grant rights under trademark law for use of some trade names, trademarks, or
+               service marks; or
+          </item>
                <item>
                   <bullet>f)</bullet>
-                  <p>Requiring indemnification of licensors and authors of that material by anyone who conveys the
+            Requiring indemnification of licensors and authors of that material by anyone who conveys the
                material (or modified versions of it) with contractual assumptions of liability to the
                recipient, for any liability that these contractual assumptions directly impose on those
-               licensors and authors.</p>
-               </item>
+               licensors and authors.
+          </item>
             </list>               
             <p>All other non-permissive additional terms are considered "further restrictions"
                within the meaning of section 10. If the Program as you received it, or any part of it,
@@ -363,8 +363,8 @@
         </item>
         <item>
             <bullet>8.</bullet>
-            <p>Termination.</p>
-            <p>You may not propagate or modify a covered work except as expressly provided under this License.
+          Termination.
+          <p>You may not propagate or modify a covered work except as expressly provided under this License.
              Any attempt otherwise to propagate or modify it is void, and will automatically terminate your
              rights under this License (including any patent licenses granted under the third paragraph of
              section 11).</p>
@@ -384,8 +384,8 @@
         </item>
         <item>
             <bullet>9.</bullet>
-            <p>Acceptance Not Required for Having Copies.</p>
-            <p>You are not required to accept this License in order to receive or run a copy of the Program.
+          Acceptance Not Required for Having Copies.
+          <p>You are not required to accept this License in order to receive or run a copy of the Program.
              Ancillary propagation of a covered work occurring solely as a consequence of using
              peer-to-peer transmission to receive a copy likewise does not require acceptance. However,
              nothing other than this License grants you permission to propagate or modify any covered work.
@@ -394,8 +394,8 @@
         </item>
         <item>
             <bullet>10.</bullet>
-            <p>Automatic Licensing of Downstream Recipients.</p>
-            <p>Each time you convey a covered work, the recipient automatically receives a license from the
+          Automatic Licensing of Downstream Recipients.
+          <p>Each time you convey a covered work, the recipient automatically receives a license from the
              original licensors, to run, modify and propagate that work, subject to this License. You are
              not responsible for enforcing compliance by third parties with this License.</p>
             <p>An "entity transaction" is a transaction transferring control of an organization, or
@@ -414,8 +414,8 @@
         </item>
         <item>
             <bullet>11.</bullet>
-            <p>Patents.</p>
-            <p>A "contributor" is a copyright holder who authorizes use under this License of the
+          Patents.
+          <p>A "contributor" is a copyright holder who authorizes use under this License of the
              Program or a work on which the Program is based. The work thus licensed is called the
              contributor's "contributor version".</p>
             <p>A contributor's "essential patent claims" are all patent claims owned or
@@ -467,8 +467,8 @@
         </item>
         <item>
             <bullet>12.</bullet>
-            <p>No Surrender of Others' Freedom.</p>
-            <p>If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict
+          No Surrender of Others' Freedom.
+          <p>If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict
              the conditions of this License, they do not excuse you from the conditions of this License. If
              you cannot convey a covered work so as to satisfy simultaneously your obligations under this
              License and any other pertinent obligations, then as a consequence you may 
@@ -480,8 +480,8 @@
         </item>
         <item>
             <bullet>13.</bullet>
-            <p>Remote Network Interaction; Use with the GNU General Public License.</p>
-            <p>Notwithstanding any other provision of this License, if you modify the Program, your modified
+          Remote Network Interaction; Use with the GNU General Public License.
+          <p>Notwithstanding any other provision of this License, if you modify the Program, your modified
              version must prominently offer all users interacting with it remotely through a computer
              network (if your version supports such interaction) an opportunity to receive the
              Corresponding Source of your version by providing access to the Corresponding Source from a
@@ -497,8 +497,8 @@
         </item>
         <item>
             <bullet>14.</bullet>
-            <p>Revised Versions of this License.</p>
-            <p>The Free Software Foundation may publish revised and/or new versions of the GNU Affero General
+          Revised Versions of this License.
+          <p>The Free Software Foundation may publish revised and/or new versions of the GNU Affero General
              Public License from time to time. Such new versions will be similar in spirit to the present
              version, but may differ in detail to address new problems or concerns.</p>
             <p>Each version is given a distinguishing version number. If the Program specifies that a certain
@@ -516,8 +516,8 @@
         </item>
         <item>
             <bullet>15.</bullet>
-            <p>Disclaimer of Warranty.</p>
-            <p>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN
+          Disclaimer of Warranty.
+          <p>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN
              OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM
              "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT
              NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
@@ -527,8 +527,8 @@
         </item>
         <item>
             <bullet>16.</bullet>
-            <p>Limitation of Liability.</p>
-            <p>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER,
+          Limitation of Liability.
+          <p>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER,
              OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO
              YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING
              OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR
@@ -538,7 +538,7 @@
         </item>
         <item>
             <bullet>17.</bullet>
-            <p>Interpretation of Sections 15 and 16.</p>
+          Interpretation of Sections 15 and 16.
         </item>
       </list>
       <p>If the disclaimer of warranty and limitation of liability provided above cannot be given local legal

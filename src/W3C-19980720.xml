@@ -25,21 +25,21 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>The full text of this NOTICE in a location viewable to users of the redistributed or derivative work.</p>
+          The full text of this NOTICE in a location viewable to users of the redistributed or derivative work.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Any pre-existing intellectual property disclaimers, notices, or terms and conditions. If none
+          Any pre-existing intellectual property disclaimers, notices, or terms and conditions. If none
              exist, a short notice of the following form (hypertext is preferred, text is permitted) should
              be used within the body of any redistributed or derivative code: "Copyright ©
              [$date-of-software] World Wide Web Consortium, (Massachusetts Institute of Technology,
              Institut National de Recherche en Informatique et en Automatique, Keio University). All Rights
-             Reserved. http://www.w3.org/Consortium/Legal/"</p>
+             Reserved. http://www.w3.org/Consortium/Legal/"
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>Notice of any changes or modifications to the W3C files, including the date changes were made.
-             (We recommend you provide URIs to the location from which the code is derived.)</p>
+          Notice of any changes or modifications to the W3C files, including the date changes were made.
+             (We recommend you provide URIs to the location from which the code is derived.)
         </item>
       </list>
       <p>THIS SOFTWARE AND DOCUMENTATION IS PROVIDED "AS IS," AND COPYRIGHT HOLDERS MAKE NO REPRESENTATIONS OR

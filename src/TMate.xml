@@ -22,31 +22,31 @@
       <list>
         <item>
             <bullet>*</bullet>
-            <p>Redistributions of source code must retain the above copyright notice, this list of conditions
-             and the following disclaimer.</p>
+          Redistributions of source code must retain the above copyright notice, this list of conditions
+             and the following disclaimer.
         </item>
         <item>
             <bullet>*</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
              and the following disclaimer in the documentation and/or other materials provided with the
-             distribution.</p>
+             distribution.
         </item>
         <item>
             <bullet>*</bullet>
-            <p>Redistributions in any form must be accompanied by information on how to obtain complete source
+          Redistributions in any form must be accompanied by information on how to obtain complete source
              code for the software that uses SVNKit and any accompanying software that uses the software
              that uses SVNKit. The source code must either be included in the distribution or be available
              for no more than the cost of distribution plus a nominal fee, and must be freely
              redistributable under reasonable conditions. For an executable file, complete source code
              means the source code for all modules it contains. It does not include source code for modules
              or files that typically accompany the major components of the operating system on which the
-             executable file runs.</p>
+             executable file runs.
         </item>
         <item>
             <bullet>*</bullet>
-            <p>Redistribution in any form without redistributing source code for software that uses SVNKit is
+          Redistribution in any form without redistributing source code for software that uses SVNKit is
              possible only when such redistribution is explictly permitted by TMate Software. Please,
-             contact TMate Software at support@svnkit.com to get such permission.</p>
+             contact TMate Software at support@svnkit.com to get such permission.
         </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY TMATE SOFTWARE ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,

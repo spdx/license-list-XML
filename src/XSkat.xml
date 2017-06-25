@@ -12,17 +12,17 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>All copyright &amp; permission notices are preserved.</p>
+          All copyright &amp; permission notices are preserved.
         </item>
         <item>
             <bullet>2.a)</bullet>
-            <p>Only changes required for packaging or porting are made.<br/>or</p>
+          Only changes required for packaging or porting are made.<br/>or
         </item>
         <item>
             <bullet>2.b)</bullet>
-            <p>It is clearly stated who last changed the program. The program is renamed or the version
+          It is clearly stated who last changed the program. The program is renamed or the version
              number is of the form x.y.z, where x.y is the version of the original program and z is an
-             arbitrary suffix.</p>
+             arbitrary suffix.
         </item>
       </list>
     

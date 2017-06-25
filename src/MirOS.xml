@@ -51,44 +51,44 @@
             <list>
                <item>
                   <bullet>(1)</bullet>
-                  <p>also at http://mirbsd.de/MirOS-Licence</p>
-               </item>
+            also at http://mirbsd.de/MirOS-Licence
+          </item>
                <item>
                   <bullet>(2)</bullet>
-                  <p>http://www.opensource.org/licenses/historical.php</p>
-               </item>
+            http://www.opensource.org/licenses/historical.php
+          </item>
                <item>
                   <bullet>(3)</bullet>
-                  <p>http://www.debian.org/social_contract#guidelines</p>
-               </item>
+            http://www.debian.org/social_contract#guidelines
+          </item>
                <item>
                   <bullet>(4)</bullet>
-                  <p>http://www.opendefinition.org/1.0</p>
-               </item>
+            http://www.opendefinition.org/1.0
+          </item>
                <item>
                   <bullet>(5)</bullet>
-                  <p>http://www.opensource.org/docs/osd</p>
-               </item>
+            http://www.opensource.org/docs/osd
+          </item>
                <item>
                   <bullet>(6)</bullet>
-                  <p>http://www.gnu.org/philosophy/free-sw.html</p>
-               </item>
+            http://www.gnu.org/philosophy/free-sw.html
+          </item>
                <item>
                   <bullet>(7)</bullet>
-                  <p>http://www.gnu.org/philosophy/free-doc.html</p>
-               </item>
+            http://www.gnu.org/philosophy/free-doc.html
+          </item>
                <item>
                   <bullet>(8)</bullet>
-                  <p>http://www.ifross.de/ifross_html/lizenzcenter.html</p>
-               </item>
+            http://www.ifross.de/ifross_html/lizenzcenter.html
+          </item>
                <item>
                   <bullet>(9)</bullet>
-                  <p>http://www.opendefinition.org/licenses</p>
-               </item>
+            http://www.opendefinition.org/licenses
+          </item>
                <item>
                   <bullet>(10)</bullet>
-                  <p>http://opensource.org/licenses/miros.html</p>
-               </item>
+            http://opensource.org/licenses/miros.html
+          </item>
             </list>
          </p>
       </optional>

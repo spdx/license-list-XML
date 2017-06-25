@@ -14,72 +14,72 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Definitions 
+          Definitions 
             <br/>The terms "reproduce," "reproduction," "derivative works,"
                  and "distribution" have the same meaning here as under U.S. copyright law. A
                  "contribution" is the original software, or any additions or changes to the
                  software. A "contributor" is any person that distributes its contribution
                  under this license. "Licensed patents" are a contributor's patent
                  claims that read directly on its contribution. 
-          </p>
+          
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Grant of Rights</p>
-            <list>
+          Grant of Rights
+          <list>
                <item>
                   <bullet>(A)</bullet>
-                  <p>Copyright Grant- Subject to the terms of this license, including the license conditions and
+              Copyright Grant- Subject to the terms of this license, including the license conditions and
                  limitations in section 3, each contributor grants you a non-exclusive, worldwide,
                  royalty-free copyright license to reproduce its contribution, prepare derivative works of
                  its contribution, and distribute its contribution or any derivative works that you
-                 create.</p>
-               </item>
+                 create.
+            </item>
                <item>
                   <bullet>(B)</bullet>
-                  <p>Patent Grant- Subject to the terms of this license, including the license conditions and
+              Patent Grant- Subject to the terms of this license, including the license conditions and
                  limitations in section 3, each contributor grants you a non-exclusive, worldwide,
                  royalty-free license under its licensed patents to make, have made, use, sell, offer for
                  sale, import, and/or otherwise dispose of its contribution in the software or derivative
-                 works of the contribution in the software.</p>
-               </item>
+                 works of the contribution in the software.
+            </item>
             </list>
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>Conditions and Limitations</p>
-            <list>
+          Conditions and Limitations
+          <list>
                <item>
                   <bullet>(A)</bullet>
-                  <p>No Trademark License- This license does not grant you rights to use any contributors'
-                 name, logo, or trademarks.</p>
-               </item>
+              No Trademark License- This license does not grant you rights to use any contributors'
+                 name, logo, or trademarks.
+            </item>
                <item>
                   <bullet>(B)</bullet>
-                  <p>If you bring a patent claim against any contributor over patents that you claim are infringed
+              If you bring a patent claim against any contributor over patents that you claim are infringed
                  by the software, your patent license from such contributor to the software ends
-                 automatically.</p>
-               </item>
+                 automatically.
+            </item>
                <item>
                   <bullet>(C)</bullet>
-                  <p>If you distribute any portion of the software, you must retain all copyright, patent,
-                 trademark, and attribution notices that are present in the software.</p>
-               </item>
+              If you distribute any portion of the software, you must retain all copyright, patent,
+                 trademark, and attribution notices that are present in the software.
+            </item>
                <item>
                   <bullet>(D)</bullet>
-                  <p>If you distribute any portion of the software in source code form, you may do so only under
+              If you distribute any portion of the software in source code form, you may do so only under
                  this license by including a complete copy of this license with your distribution. If you
                  distribute any portion of the software in compiled or object code form, you may only do so
-                 under a license that complies with this license.</p>
-               </item>
+                 under a license that complies with this license.
+            </item>
                <item>
                   <bullet>(E)</bullet>
-                  <p>The software is licensed "as-is." You bear the risk of using it. The contributors
+              The software is licensed "as-is." You bear the risk of using it. The contributors
                  give no express warranties, guarantees, or conditions. You may have additional consumer
                  rights under your local laws which this license cannot change. To the extent permitted
                  under your local laws, the contributors exclude the implied warranties of merchantability,
-                 fitness for a particular purpose and non-infringement.</p>
-               </item>
+                 fitness for a particular purpose and non-infringement.
+            </item>
             </list>
         </item>
       </list>

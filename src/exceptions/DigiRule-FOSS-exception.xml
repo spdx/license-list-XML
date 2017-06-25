@@ -11,8 +11,8 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Definitions.</p>
-            <p>“Derivative Work” means a derivative work, as defined
+          Definitions.
+          <p>“Derivative Work” means a derivative work, as defined
              under applicable copyright law, formed entirely from
              the Program and one or more FOSS Applications.</p>
             <p>“FOSS Application” means a free and open source software
@@ -31,54 +31,54 @@
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>A FOSS application developer (“you” or “your”) may
+          A FOSS application developer (“you” or “your”) may
              distribute a Derivative Work provided that you and the
              Derivative Work meet all of the following
-             conditions:</p>
-            <list>
+             conditions:
+          <list>
                <item>
                   <bullet>1.</bullet>
-                  <p>You obey the GPL in all respects for the Program and all
+              You obey the GPL in all respects for the Program and all
                  portions (including modifications) of the Program
                  included in the Derivative Work (provided that this
-                 condition does not apply to Independent Works);</p>
-               </item>
+                 condition does not apply to Independent Works);
+            </item>
                <item>
                   <bullet>2.</bullet>
-                  <p>The Derivative Work does not include any work licensed
-                 under the GPL other than the Program;</p>
-               </item>
+              The Derivative Work does not include any work licensed
+                 under the GPL other than the Program;
+            </item>
                <item>
                   <bullet>3.</bullet>
-                  <p>You distribute Independent Works subject to a license
+              You distribute Independent Works subject to a license
                  listed in the section below titled “FOSS License
-                 List”;</p>
-               </item>
+                 List”;
+            </item>
                <item>
                   <bullet>4.</bullet>
-                  <p>You distribute Independent Works in object code or
+              You distribute Independent Works in object code or
                  executable form with the complete corresponding
                  machine-readable source code on the same medium and
                  under the same FOSS license applying to the object
-                 code or executable forms;</p>
-               </item>
+                 code or executable forms;
+            </item>
                <item>
                   <bullet>5.</bullet>
-                  <p>All works that are aggregated with the Program or the
+              All works that are aggregated with the Program or the
                  Derivative Work on a medium or volume of storage are
                  not derivative works of the Program, Derivative Work
                  or FOSS Application, and must reasonably be considered
-                 independent and separate works.</p>
-               </item>
+                 independent and separate works.
+            </item>
             </list>
         </item>  
         <item>
             <bullet>3.</bullet>
-            <p>DigiRule Solutions reserves all rights not expressly
+          DigiRule Solutions reserves all rights not expressly
              granted in these terms and conditions. If all of the
              above conditions are not met, then this FOSS License
              Exception does not apply to you or your Derivative
-             Work.</p>
+             Work.
         </item>
       </list>
       <p>FOSS License List

@@ -17,40 +17,40 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Redistributions of source code must retain the above copyright notice, this list of conditions
-             and the following disclaimer.</p>
+          Redistributions of source code must retain the above copyright notice, this list of conditions
+             and the following disclaimer.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
              and the following disclaimer in the documentation and/or other materials provided with the
-             distribution.</p>
+             distribution.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>The name "PHP" must not be used to endorse or promote products derived from this software without
-             prior written permission. For written permission, please contact group@php.net.</p>
+          The name "PHP" must not be used to endorse or promote products derived from this software without
+             prior written permission. For written permission, please contact group@php.net.
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>Products derived from this software may not be called "PHP", nor may "PHP" appear in their name,
+          Products derived from this software may not be called "PHP", nor may "PHP" appear in their name,
              without prior written permission from group@php.net. You may indicate that your software works
              in conjunction with PHP by saying "Foo for PHP" instead of calling it "PHP Foo" or
-             "phpfoo"</p>
+             "phpfoo"
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>The PHP Group may publish revised and/or new versions of the license from time to time. Each
+          The PHP Group may publish revised and/or new versions of the license from time to time. Each
              version will be given a distinguishing version number. Once covered code has been published
              under a particular version of the license, you may always continue to use it under the terms
              of that version. You may also choose to use such covered code under the terms of any
              subsequent version of the license published by the PHP Group. No one other than the PHP Group
-             has the right to modify the terms applicable to covered code created under this License.</p>
+             has the right to modify the terms applicable to covered code created under this License.
         </item>
         <item>
             <bullet>6.</bullet>
-            <p>Redistributions of any form whatsoever must retain the following acknowledgment: "This product
-             includes PHP, freely available from &lt;http://www.php.net/&gt;".</p>
+          Redistributions of any form whatsoever must retain the following acknowledgment: "This product
+             includes PHP, freely available from &lt;http://www.php.net/&gt;".
         </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY THE PHP DEVELOPMENT TEAM ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES,

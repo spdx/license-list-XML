@@ -27,8 +27,8 @@
       <list>
         <item>
             <bullet>0.</bullet>
-            <p>Definitions.</p>
-            <p>"Covered Code" is the source or object code of a version
+          Definitions.
+          <p>"Covered Code" is the source or object code of a version
              of Autoconf that is a covered work under this
              License.</p>
             <p>"Normally Copied Code" for a version of Autoconf means
@@ -41,8 +41,8 @@
         </item>
         <item>
             <bullet>1.</bullet>
-            <p>Grant of Additional Permission.</p>
-            <p>You have permission to propagate output of Autoconf, even
+          Grant of Additional Permission.
+          <p>You have permission to propagate output of Autoconf, even
              if such propagation would otherwise violate the terms
              of GPLv3. However, if by modifying Autoconf you cause
              any Ineligible Code of the version you received to
@@ -54,8 +54,8 @@
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>No Weakening of Autoconf Copyleft.</p>
-            <p>The availability of this Exception does not imply any general
+          No Weakening of Autoconf Copyleft.
+          <p>The availability of this Exception does not imply any general
             presumption that third-party software is unaffected by the
             copyleft requirements of the license of Autoconf.</p>
          </item>

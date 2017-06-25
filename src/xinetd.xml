@@ -20,25 +20,25 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>The version number will be modified as follows:</p>
-            <list>
+          The version number will be modified as follows:
+          <list>
                <item>
                   <bullet>a.</bullet>
-                  <p>The first 3 components of the version number (i.e &lt;number&gt;.&lt;number&gt;.&lt;number&gt;)
-                 will remain unchanged.</p>
-               </item>
+              The first 3 components of the version number (i.e &lt;number&gt;.&lt;number&gt;.&lt;number&gt;)
+                 will remain unchanged.
+            </item>
                <item>
                   <bullet>b.</bullet>
-                  <p>A new component will be appended to the version number to indicate the modification level. The
-                 form of this component is up to the author of the modifications.</p>
-               </item>
+              A new component will be appended to the version number to indicate the modification level. The
+                 form of this component is up to the author of the modifications.
+            </item>
             </list>
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>The author of the modifications will include his/her name by appending it along with the new
+          The author of the modifications will include his/her name by appending it along with the new
              version number to this file and will be responsible for any wrong behavior of the modified
-             software.</p>
+             software.
         </item>
       </list>
         <p>The author makes no representations about the suitability of this software for any purpose. It is

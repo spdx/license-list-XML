@@ -89,11 +89,11 @@
       <list>
         <item>
             <bullet>0.</bullet>
-            <p>This License Agreement applies to any software library which contains a notice placed by the
+          This License Agreement applies to any software library which contains a notice placed by the
              copyright holder or other authorized party saying it may be distributed under the terms of
              this Library General Public License (also called "this License"). Each licensee is
-             addressed as "you".</p>
-            <p>A "library" means a collection of software functions and/or data prepared so as to be
+             addressed as "you".
+          <p>A "library" means a collection of software functions and/or data prepared so as to be
              conveniently linked with application programs (which use some of those functions and data) to
              form executables.</p>
             <p>The "Library", below, refers to any such software library or work which has been
@@ -114,42 +114,42 @@
         </item>
         <item>
             <bullet>1.</bullet>
-            <p>You may copy and distribute verbatim copies of the Library's complete source code as you
+          You may copy and distribute verbatim copies of the Library's complete source code as you
              receive it, in any medium, provided that you conspicuously and appropriately publish on each
              copy an appropriate copyright notice and disclaimer of warranty; keep intact all the notices
              that refer to this License and to the absence of any warranty; and distribute a copy of this
-             License along with the Library.</p>
-            <p>You may charge a fee for the physical act of transferring a copy, and you may at your option
+             License along with the Library.
+          <p>You may charge a fee for the physical act of transferring a copy, and you may at your option
              offer warranty protection in exchange for a fee.</p>
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>You may modify your copy or copies of the Library or any portion of it, thus forming a work based
+          You may modify your copy or copies of the Library or any portion of it, thus forming a work based
              on the Library, and copy and distribute such modifications or work under the terms of Section
-             1 above, provided that you also meet all of these conditions:</p>
-            <list>
+             1 above, provided that you also meet all of these conditions:
+        <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>The modified work must itself be a software library.</p>
-               </item>
+            The modified work must itself be a software library.
+          </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>You must cause the files modified to carry prominent notices stating that you changed the
-               files and the date of any change.</p>
-               </item>
+            You must cause the files modified to carry prominent notices stating that you changed the
+               files and the date of any change.
+          </item>
                <item>
                   <bullet>c)</bullet>
-                  <p>You must cause the whole of the work to be licensed at no charge to all third parties under
-               the terms of this License.</p>
-               </item>
+            You must cause the whole of the work to be licensed at no charge to all third parties under
+               the terms of this License.
+          </item>
                <item>
                   <bullet>d)</bullet>
-                  <p>If a facility in the modified Library refers to a function or a table of data to be supplied
+            If a facility in the modified Library refers to a function or a table of data to be supplied
                by an application program that uses the facility, other than as an argument passed when
                the facility is invoked, then you must make a good faith effort to ensure that, in the
                event an application does not supply such function or table, the facility still operates,
-               and performs whatever part of its purpose remains meaningful.</p>
-                  <p>(For example, a function in a library to compute square roots has a purpose that is entirely
+               and performs whatever part of its purpose remains meaningful.
+            <p>(For example, a function in a library to compute square roots has a purpose that is entirely
                well-defined independent of the application. Therefore, Subsection 2d requires that any
                application-supplied function or table used by this function must be optional: if the
                application does not supply it, the square root function must still compute square
@@ -172,13 +172,13 @@
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>You may opt to apply the terms of the ordinary GNU General Public License instead of this License
+          You may opt to apply the terms of the ordinary GNU General Public License instead of this License
              to a given copy of the Library. To do this, you must alter all the notices that refer to this
              License, so that they refer to the ordinary GNU General Public License, version 2, instead of
              to this License. (If a newer version than version 2 of the ordinary GNU General Public License
              has appeared, then you can specify that version instead if you wish.) Do not make any other
-             change in these notices.</p>
-            <p>Once this change is made in a given copy, it is irreversible for that copy, so the ordinary GNU
+             change in these notices.
+          <p>Once this change is made in a given copy, it is irreversible for that copy, so the ordinary GNU
              General Public License applies to all subsequent copies and derivative works made from that
              copy.</p>
             <p>This option is useful when you wish to copy part of the code of the Library into a program that
@@ -186,23 +186,23 @@
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>You may copy and distribute the Library (or a portion or derivative of it, under Section 2) in
+          You may copy and distribute the Library (or a portion or derivative of it, under Section 2) in
              object code or executable form under the terms of Sections 1 and 2 above provided that you
              accompany it with the complete corresponding machine-readable source code, which must be
              distributed under the terms of Sections 1 and 2 above on a medium customarily used for
-             software interchange.</p>
-            <p>If distribution of object code is made by offering access to copy from a designated place, then
+             software interchange.
+          <p>If distribution of object code is made by offering access to copy from a designated place, then
              offering equivalent access to copy the source code from the same place satisfies the
              requirement to distribute the source code, even though third parties are not compelled to copy
              the source along with the object code.</p>
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>A program that contains no derivative of any portion of the Library, but is designed to work with
+          A program that contains no derivative of any portion of the Library, but is designed to work with
              the Library by being compiled or linked with it, is called a "work that uses the
              Library". Such a work, in isolation, is not a derivative work of the Library, and
-             therefore falls outside the scope of this License.</p>
-            <p>However, linking a "work that uses the Library" with the Library creates an executable
+             therefore falls outside the scope of this License.
+          <p>However, linking a "work that uses the Library" with the Library creates an executable
              that is a derivative of the Library (because it contains portions of the Library), rather than
              a "work that uses the library". The executable is therefore covered by this License.
              Section 6 states terms for distribution of such executables.</p>
@@ -222,12 +222,12 @@
         </item>
         <item>
             <bullet>6.</bullet>
-            <p>As an exception to the Sections above, you may also compile or link a "work that uses the
+          As an exception to the Sections above, you may also compile or link a "work that uses the
              Library" with the Library to produce a work containing portions of the Library, and
              distribute that work under terms of your choice, provided that the terms permit modification
              of the work for the customer's own use and reverse engineering for debugging such
-             modifications.</p>
-            <p>You must give prominent notice with each copy of the work that the Library is used in it and that
+             modifications.
+          <p>You must give prominent notice with each copy of the work that the Library is used in it and that
              the Library and its use are covered by this License. You must supply a copy of this License.
              If the work during execution displays copyright notices, you must include the copyright notice
              for the Library among them, as well as a reference directing the user to the copy of this
@@ -235,31 +235,31 @@
             <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>Accompany the work with the complete corresponding machine-readable source code for the
+            Accompany the work with the complete corresponding machine-readable source code for the
                Library including whatever changes were used in the work (which must be distributed under
                Sections 1 and 2 above); and, if the work is an executable linked with the Library, with
                the complete machine-readable "work that uses the Library", as object code
                and/or source code, so that the user can modify the Library and then relink to produce a
                modified executable containing the modified Library. (It is understood that the user who
                changes the contents of definitions files in the Library will not necessarily be able to
-               recompile the application to use the modified definitions.)</p>
-               </item>
+               recompile the application to use the modified definitions.)
+          </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>Accompany the work with a written offer, valid for at least three years, to give the same
+            Accompany the work with a written offer, valid for at least three years, to give the same
                user the materials specified in Subsection 6a, above, for a charge no more than the cost
-               of performing this distribution.</p>
-               </item>
+               of performing this distribution.
+          </item>
                <item>
                   <bullet>c)</bullet>
-                  <p>If distribution of the work is made by offering access to copy from a designated place, offer
-               equivalent access to copy the above specified materials from the same place.</p>
-               </item>
+            If distribution of the work is made by offering access to copy from a designated place, offer
+               equivalent access to copy the above specified materials from the same place.
+          </item>
                <item>
                   <bullet>d)</bullet>
-                  <p>Verify that the user has already received a copy of these materials or that you have already
-               sent this user a copy.</p>
-               </item>
+            Verify that the user has already received a copy of these materials or that you have already
+               sent this user a copy.
+          </item>
             </list>
             <p>For an executable, the required form of the "work that uses the Library" must
                include any data and utility programs needed for reproducing the executable from it.
@@ -274,54 +274,54 @@
         </item>
         <item>
             <bullet>7.</bullet>
-            <p>You may place library facilities that are a work based on the Library side-by-side in a single
+          You may place library facilities that are a work based on the Library side-by-side in a single
              library together with other library facilities not covered by this License, and distribute
              such a combined library, provided that the separate distribution of the work based on the
              Library and of the other library facilities is otherwise permitted, and provided that you do
-             these two things:</p>
+             these two things:
         </item>
         <list>
             <item>
                <bullet>a)</bullet>
-               <p>Accompany the combined library with a copy of the same work based on the Library, uncombined
+            Accompany the combined library with a copy of the same work based on the Library, uncombined
                with any other library facilities. This must be distributed under the terms of the
-               Sections above.</p>
-            </item>
+               Sections above.
+          </item>
             <item>
                <bullet>b)</bullet>
-               <p>Give prominent notice with the combined library of the fact that part of it is a work based
+            Give prominent notice with the combined library of the fact that part of it is a work based
                on the Library, and explaining where to find the accompanying uncombined form of the same
-               work.</p>
-            </item>
+               work.
+          </item>
         </list>
         <item>
             <bullet>8.</bullet>
-            <p>You may not copy, modify, sublicense, link with, or distribute the Library except as expressly
+          You may not copy, modify, sublicense, link with, or distribute the Library except as expressly
              provided under this License. Any attempt otherwise to copy, modify, sublicense, link with, or
              distribute the Library is void, and will automatically terminate your rights under this
              License. However, parties who have received copies, or rights, from you under this License
-             will not have their licenses terminated so long as such parties remain in full compliance.</p>
+             will not have their licenses terminated so long as such parties remain in full compliance.
         </item>
         <item>
             <bullet>9.</bullet>
-            <p>You are not required to accept this License, since you have not signed it. However, nothing else
+          You are not required to accept this License, since you have not signed it. However, nothing else
              grants you permission to modify or distribute the Library or its derivative works. These
              actions are prohibited by law if you do not accept this License. Therefore, by modifying or
              distributing the Library (or any work based on the Library), you indicate your acceptance of
              this License to do so, and all its terms and conditions for copying, distributing or modifying
-             the Library or works based on it.</p>
+             the Library or works based on it.
         </item>
         <item>
             <bullet>10.</bullet>
-            <p>Each time you redistribute the Library (or any work based on the Library), the recipient
+          Each time you redistribute the Library (or any work based on the Library), the recipient
              automatically receives a license from the original licensor to copy, distribute, link with or
              modify the Library subject to these terms and conditions. You may not impose any further
              restrictions on the recipients' exercise of the rights granted herein. You are not
-             responsible for enforcing compliance by third parties to this License.</p>
+             responsible for enforcing compliance by third parties to this License.
         </item>
         <item>
             <bullet>11.</bullet>
-            <p>If, as a consequence of a court judgment or allegation of patent infringement or for any other
+          If, as a consequence of a court judgment or allegation of patent infringement or for any other
              reason (not limited to patent issues), conditions are imposed on you (whether by court order,
              agreement or otherwise) that contradict the conditions of this License, they do not excuse you
              from the conditions of this License. If you cannot distribute so as to satisfy simultaneously
@@ -329,8 +329,8 @@
              you may not distribute the Library at all. For example, if a patent license would not permit
              royalty-free redistribution of the Library by all those who receive copies directly or
              indirectly through you, then the only way you could satisfy both it and this License would be
-             to refrain entirely from distribution of the Library.</p>
-            <p>If any portion of this section is held invalid or unenforceable under any particular
+             to refrain entirely from distribution of the Library.
+          <p>If any portion of this section is held invalid or unenforceable under any particular
              circumstance, the balance of the section is intended to apply, and the section as a whole is
              intended to apply in other circumstances.</p>
             <p>It is not the purpose of this section to induce you to infringe any patents or other property
@@ -345,19 +345,19 @@
         </item>
         <item>
             <bullet>12.</bullet>
-            <p>If the distribution and/or use of the Library is restricted in certain countries either by
+          If the distribution and/or use of the Library is restricted in certain countries either by
              patents or by copyrighted interfaces, the original copyright holder who places the Library
              under this License may add an explicit geographical distribution limitation excluding those
              countries, so that distribution is permitted only in or among countries not thus excluded. In
              such case, this License incorporates the limitation as if written in the body of this
-             License.</p>
+             License.
         </item>
         <item>
             <bullet>13.</bullet>
-            <p>The Free Software Foundation may publish revised and/or new versions of the Library General
+          The Free Software Foundation may publish revised and/or new versions of the Library General
              Public License from time to time. Such new versions will be similar in spirit to the present
-             version, but may differ in detail to address new problems or concerns.</p>
-            <p>Each version is given a distinguishing version number. If the Library specifies a version number
+             version, but may differ in detail to address new problems or concerns.
+          <p>Each version is given a distinguishing version number. If the Library specifies a version number
              of this License which applies to it and "any later version", you have the option of
              following the terms and conditions either of that version or of any later version published by
              the Free Software Foundation. If the Library does not specify a license version number, you
@@ -365,33 +365,33 @@
         </item>
         <item>
             <bullet>14.</bullet>
-            <p>If you wish to incorporate parts of the Library into other free programs whose distribution
+          If you wish to incorporate parts of the Library into other free programs whose distribution
              conditions are incompatible with these, write to the author to ask for permission. For
              software which is copyrighted by the Free Software Foundation, write to the Free Software
              Foundation; we sometimes make exceptions for this. Our decision will be guided by the two
              goals of preserving the free status of all derivatives of our free software and of promoting
-             the sharing and reuse of software generally.</p>
-            <p>NO WARRANTY</p>
+             the sharing and reuse of software generally.
+          <p>NO WARRANTY</p>
         </item>
         <item>
             <bullet>15.</bullet>
-            <p>BECAUSE THE LIBRARY IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE LIBRARY, TO THE
+          BECAUSE THE LIBRARY IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE LIBRARY, TO THE
              EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
              HOLDERS AND/OR OTHER PARTIES PROVIDE THE LIBRARY "AS IS" WITHOUT WARRANTY OF ANY
              KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
              MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND
              PERFORMANCE OF THE LIBRARY IS WITH YOU. SHOULD THE LIBRARY PROVE DEFECTIVE, YOU ASSUME THE
-             COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</p>
+             COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
         </item>
         <item>
             <bullet>16.</bullet>
-            <p>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER,
+          IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER,
              OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE LIBRARY AS PERMITTED ABOVE, BE
              LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES
              ARISING OUT OF THE USE OR INABILITY TO USE THE LIBRARY (INCLUDING BUT NOT LIMITED TO LOSS OF
              DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A
              FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF SUCH HOLDER OR OTHER PARTY
-             HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
+             HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
         </item>
       </list>
       <optional>

@@ -46,111 +46,111 @@
       <list>
         <item>
             <bullet>0.</bullet>
-            <p>Definitions.</p>
+          Definitions.
         </item>
         <list>
             <item>
                <bullet>a)</bullet>
-               <p>"Program", below, refers to any program or work distributed under the terms of this
-               license.</p>
-            </item>
+            "Program", below, refers to any program or work distributed under the terms of this
+               license.
+          </item>
             <item>
                <bullet>b)</bullet>
-               <p>A "work based on the Program", below, refers to either the Program or any
-               derivative work under copyright law.</p>
-            </item>
+            A "work based on the Program", below, refers to either the Program or any
+               derivative work under copyright law.
+          </item>
             <item>
                <bullet>c)</bullet>
-               <p>"Modification", below, refers to the act of creating derivative works.</p>
-            </item>
+            "Modification", below, refers to the act of creating derivative works.
+          </item>
             <item>
                <bullet>d)</bullet>
-               <p>"You", below, refers to each licensee.</p>
-            </item>
+            "You", below, refers to each licensee.
+          </item>
         </list>
         <item>
             <bullet>1.</bullet>
-            <p>Scope. 
+          Scope. 
             <br/>This license governs the copying, distribution, and modification of the Program. Other
                  activities are outside the scope of this license; The act of running the Program is
                  not restricted, and the output from the Program is covered only if its contents
                  constitute a work based on the Program. 
-          </p>
+          
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Verbatim copies. 
+          Verbatim copies. 
             <br/>You may copy and distribute verbatim copies of the Program as you receive it, in any
                  medium, provided that you conspicuously and appropriately publish on each copy an
                  appropriate copyright notice; keep intact all the notices that refer to this License
                  and to the absence of any warranty; and give any other recipients of the Program a
                  copy of this License along with the Program. 
-          </p>
+          
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>Modification and redistribution under closed license. 
+          Modification and redistribution under closed license. 
             <br/>You may modify your copy or copies of the Program, and distribute the resulting derivative
                  works, provided that you meet the following conditions: 
-          </p>
+          
         </item>
         <list>
             <item>
                <bullet>a)</bullet>
-               <p>The copyright notice and disclaimer on the Program must be reproduced and included in the
+            The copyright notice and disclaimer on the Program must be reproduced and included in the
                source code, documentation, and/or other materials provided in a manner in which such
-               notices are normally distributed.</p>
-            </item>
+               notices are normally distributed.
+          </item>
             <item>
                <bullet>b)</bullet>
-               <p>The derivative work must be clearly identified as such, in order that it may not be confused
-               with the original work.</p>
-            </item>
+            The derivative work must be clearly identified as such, in order that it may not be confused
+               with the original work.
+          </item>
             <item>
                <bullet>c)</bullet>
-               <p>The license under which the derivative work is distributed must expressly prohibit the
-               distribution of further derivative works.</p>
-            </item>
+            The license under which the derivative work is distributed must expressly prohibit the
+               distribution of further derivative works.
+          </item>
         </list>
         <item>
             <bullet>4.</bullet>
-            <p>Modification and redistribution under open license. 
+          Modification and redistribution under open license. 
             <br/>You may modify your copy or copies of the Program, and distribute the resulting derivative
                  works, provided that you meet the following conditions: 
-          </p>
+          
         </item>
         <list>
             <item>
                <bullet>a)</bullet>
-               <p>The copyright notice and disclaimer on the Program must be reproduced and included in the
+            The copyright notice and disclaimer on the Program must be reproduced and included in the
                source code, documentation, and/or other materials provided in a manner in which such
-               notices are normally distributed.</p>
-            </item>
+               notices are normally distributed.
+          </item>
             <item>
                <bullet>b)</bullet>
-               <p>You must clearly indicate the nature and date of any changes made to the Program. The full
+            You must clearly indicate the nature and date of any changes made to the Program. The full
                details need not necessarily be included in the individual modified files, provided that
                each modified file is clearly marked as such and instructions are included on where the
-               full details of the modifications may be found.</p>
-            </item>
+               full details of the modifications may be found.
+          </item>
             <item>
                <bullet>c)</bullet>
-               <p>You must cause any work that you distribute or publish, that in whole or in part contains or
+            You must cause any work that you distribute or publish, that in whole or in part contains or
                is derived from the Program or any part thereof, to be licensed as a whole at no charge to
-               all third parties under the terms of this License.</p>
-            </item>
+               all third parties under the terms of this License.
+          </item>
         </list>
         <item>
             <bullet>5.</bullet>
-            <p>Implied acceptance. 
+          Implied acceptance. 
             <br/>You may not copy or distribute the Program or any derivative works except as expressly
                  provided under this license. Consequently, any such action will be taken as implied
                  acceptance of the terms of this license. 
-          </p>
+          
         </item>
         <item>
             <bullet>6.</bullet>
-            <p>NO WARRANTY.</p>
+          NO WARRANTY.
         </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT

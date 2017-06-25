@@ -17,29 +17,29 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>All copyright notices must remain intact in all files.</p>
+          All copyright notices must remain intact in all files.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>A copy of this text file must be distributed along with any copies of Qhull that you
+          A copy of this text file must be distributed along with any copies of Qhull that you
              redistribute; this includes copies that you have modified, or copies of programs or other
-             software products that include Qhull.</p>
+             software products that include Qhull.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>If you modify Qhull, you must include a notice giving the name of the person performing the
-             modification, the date of modification, and the reason for such modification.</p>
+          If you modify Qhull, you must include a notice giving the name of the person performing the
+             modification, the date of modification, and the reason for such modification.
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>When distributing modified versions of Qhull, or other software products that include Qhull, you
-             must provide notice that the original source code may be obtained as noted above.</p>
+          When distributing modified versions of Qhull, or other software products that include Qhull, you
+             must provide notice that the original source code may be obtained as noted above.
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>There is no warranty or other guarantee of fitness for Qhull, it is provided solely "as is". Bug
+          There is no warranty or other guarantee of fitness for Qhull, it is provided solely "as is". Bug
              reports or fixes may be sent to qhull_bug@qhull.org; the authors may or may not act on them as
-             they desire.</p>
+             they desire.
         </item>
       </list>
     

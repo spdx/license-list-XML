@@ -16,12 +16,12 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Widgets that are subclassed from Qwt widgets do not
-             constitute a derivative work.</p>
+          Widgets that are subclassed from Qwt widgets do not
+             constitute a derivative work.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Static linking of applications and widgets to the Qwt
+          Static linking of applications and widgets to the Qwt
              library does not constitute a derivative work and does
              not require the author to provide source code for the
              application or widget, use the shared Qwt libraries,
@@ -29,15 +29,15 @@
              user-supplied version of Qwt. If you link the
              application or widget to a modified version of Qwt,
              then the changes to Qwt must be provided under the
-             terms of the LGPL in sections 1, 2, and 4.</p>
+             terms of the LGPL in sections 1, 2, and 4.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>You do not have to provide a copy of the Qwt license with
+          You do not have to provide a copy of the Qwt license with
              programs that are linked to the Qwt library, nor do
              you have to identify the Qwt license in your program
              or documentation as required by section 6 of the
-             LGPL.</p>
+             LGPL.
         </item>
       </list>
       <p>However, programs must still identify their use of Qwt. The

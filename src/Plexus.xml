@@ -16,40 +16,40 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Redistributions of source code must retain copyright statements and notices. Redistributions must
-             also contain a copy of this document.</p>
+          Redistributions of source code must retain copyright statements and notices. Redistributions must
+             also contain a copy of this document.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
              and the following disclaimer in the documentation and/or other materials provided with the
-             distribution.</p>
+             distribution.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>The name 
+          The name 
             <alt match=".+" name="nameClause3">"classworlds”</alt> must not be used to endorse or promote
             products derived from this Software without prior written permission of 
             <alt match=".+" name="organizationClause3">The Codehaus</alt>. For written permission, please contact 
             <alt match=".+" name="contactClause4">bob@codehaus.org</alt>. 
-          </p>
+          
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>Products derived from this Software may not be called 
+          Products derived from this Software may not be called 
             <alt match=".+" name="nameClause4">"classworlds”</alt> nor may 
             <alt match=".+" name="name2Clause4">"classworlds”</alt> appear in their names without prior
             written permission of 
             <alt match=".+" name="name3Clause4">The Codehaus</alt>. 
             <alt match=".+" name="trademark">"classworlds”</alt> is a registered trademark of 
             <alt match=".+" name="name4Clause4">The Codehaus</alt>. 
-          </p>
+          
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>Due credit should be given to 
+          Due credit should be given to 
             <alt match=".+" name="nameURL">The Codehaus. (http://classworlds.codehaus.org/)</alt>. 
-          </p>
+          
         </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY 

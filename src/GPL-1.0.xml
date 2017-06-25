@@ -52,54 +52,54 @@
       <list>
          <item>
             <bullet>0.</bullet>
-            <p>This License Agreement applies to any program or other work which contains a notice placed by the
+        This License Agreement applies to any program or other work which contains a notice placed by the
            copyright holder saying it may be distributed under the terms of this General Public License.
            The "Program", below, refers to any such program or work, and a "work based on
            the Program" means either the Program or any work containing the Program or a portion of
-           it, either verbatim or with modifications. Each licensee is addressed as "you".</p>
-         </item>
+           it, either verbatim or with modifications. Each licensee is addressed as "you".
+      </item>
          <item>
             <bullet>1.</bullet>
-            <p>You may copy and distribute verbatim copies of the Program's source code as you receive it,
+        You may copy and distribute verbatim copies of the Program's source code as you receive it,
            in any medium, provided that you conspicuously and appropriately publish on each copy an
            appropriate copyright notice and disclaimer of warranty; keep intact all the notices that
            refer to this General Public License and to the absence of any warranty; and give any other
            recipients of the Program a copy of this General Public License along with the Program. You
-           may charge a fee for the physical act of transferring a copy.</p>
-         </item>
+           may charge a fee for the physical act of transferring a copy.
+      </item>
          <item>
             <bullet>2.</bullet>
-            <p>You may modify your copy or copies of the Program or any portion of it, and copy and distribute
+        You may modify your copy or copies of the Program or any portion of it, and copy and distribute
            such modifications under the terms of Paragraph 1 above, provided that you also do the
-           following:</p>
-            <list>
+           following:
+        <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>cause the modified files to carry prominent notices stating that you changed the files and
-               the date of any change; and</p>
-               </item>
+            cause the modified files to carry prominent notices stating that you changed the files and
+               the date of any change; and
+          </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>cause the whole of any work that you distribute or publish, that in whole or in part contains
+            cause the whole of any work that you distribute or publish, that in whole or in part contains
                the Program or any part thereof, either with or without modifications, to be licensed at
                no charge to all third parties under the terms of this General Public License (except that
                you may choose to grant warranty protection to some or all third parties, at your
-               option).</p>
-               </item>
+               option).
+          </item>
                <item>
                   <bullet>c)</bullet>
-                  <p>If the modified program normally reads commands interactively when run, you must cause it,
+            If the modified program normally reads commands interactively when run, you must cause it,
                when started running for such interactive use in the simplest and most usual way, to print
                or display an announcement including an appropriate copyright notice and a notice that
                there is no warranty (or else, saying that you provide a warranty) and that users may
                redistribute the program under these conditions, and telling the user how to view a copy
-               of this General Public License.</p>
-               </item>
+               of this General Public License.
+          </item>
                <item>
                   <bullet>d)</bullet>
-                  <p>You may charge a fee for the physical act of transferring a copy, and you may at your option
-               offer warranty protection in exchange for a fee.</p>
-               </item>
+            You may charge a fee for the physical act of transferring a copy, and you may at your option
+               offer warranty protection in exchange for a fee.
+          </item>
             </list>
             <p>Mere aggregation of another independent work with the Program (or its derivative) on a volume
            of a storage or distribution medium does not bring the other work under the scope of these
@@ -107,28 +107,28 @@
          </item>
          <item>
             <bullet>3.</bullet>
-            <p>You may copy and distribute the Program (or a portion or derivative of it, under Paragraph 2) in
+        You may copy and distribute the Program (or a portion or derivative of it, under Paragraph 2) in
            object code or executable form under the terms of Paragraphs 1 and 2 above provided that you
-           also do one of the following:</p>
-            <list>
+           also do one of the following:
+        <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>accompany it with the complete corresponding machine-readable source code, which must be
-               distributed under the terms of Paragraphs 1 and 2 above; or,</p>
-               </item>
+            accompany it with the complete corresponding machine-readable source code, which must be
+               distributed under the terms of Paragraphs 1 and 2 above; or,
+          </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>accompany it with a written offer, valid for at least three years, to give any third party
+            accompany it with a written offer, valid for at least three years, to give any third party
                free (except for a nominal charge for the cost of distribution) a complete
                machine-readable copy of the corresponding source code, to be distributed under the terms
-               of Paragraphs 1 and 2 above; or,</p>
-               </item>
+               of Paragraphs 1 and 2 above; or,
+          </item>
                <item>
                   <bullet>c)</bullet>
-                  <p>accompany it with the information you received as to where the corresponding source code may
+            accompany it with the information you received as to where the corresponding source code may
                be obtained. (This alternative is allowed only for noncommercial distribution and only if
-               you received the program in object code or executable form alone.)</p>
-               </item>
+               you received the program in object code or executable form alone.)
+          </item>
             </list>
             <p>Source code for a work means the preferred form of the work for making modifications to it.
            For an executable file, complete source code means all the source code for all modules it
@@ -139,31 +139,31 @@
          </item>
          <item>
             <bullet>4.</bullet>
-            <p>You may not copy, modify, sublicense, distribute or transfer the Program except as expressly
+        You may not copy, modify, sublicense, distribute or transfer the Program except as expressly
            provided under this General Public License. Any attempt otherwise to copy, modify, sublicense,
            distribute or transfer the Program is void, and will automatically terminate your rights to
            use the Program under this License. However, parties who have received copies, or rights to
            use copies, from you under this General Public License will not have their licenses terminated
-           so long as such parties remain in full compliance.</p>
-         </item>
+           so long as such parties remain in full compliance.
+      </item>
          <item>
             <bullet>5.</bullet>
-            <p>By copying, distributing or modifying the Program (or any work based on the Program) you indicate
-           your acceptance of this license to do so, and all its terms and conditions.</p>
-         </item>
+        By copying, distributing or modifying the Program (or any work based on the Program) you indicate
+           your acceptance of this license to do so, and all its terms and conditions.
+      </item>
          <item>
             <bullet>6.</bullet>
-            <p>Each time you redistribute the Program (or any work based on the Program), the recipient
+        Each time you redistribute the Program (or any work based on the Program), the recipient
            automatically receives a license from the original licensor to copy, distribute or modify the
            Program subject to these terms and conditions. You may not impose any further restrictions on
-           the recipients' exercise of the rights granted herein.</p>
-         </item>
+           the recipients' exercise of the rights granted herein.
+      </item>
          <item>
             <bullet>7.</bullet>
-            <p>The Free Software Foundation may publish revised and/or new versions of the General Public
+        The Free Software Foundation may publish revised and/or new versions of the General Public
            License from time to time. Such new versions will be similar in spirit to the present version,
-           but may differ in detail to address new problems or concerns.</p>
-            <p>Each version is given a distinguishing version number. If the Program specifies a version number
+           but may differ in detail to address new problems or concerns.
+        <p>Each version is given a distinguishing version number. If the Program specifies a version number
            of the license which applies to it and "any later version", you have the option of
            following the terms and conditions either of that version or of any later version published by
            the Free Software Foundation. If the Program does not specify a version number of the license,
@@ -171,12 +171,12 @@
          </item>
         <item>
             <bullet>8.</bullet>
-            <p>If you wish to incorporate parts of the Program into other free programs whose distribution
+          If you wish to incorporate parts of the Program into other free programs whose distribution
              conditions are different, write to the author to ask for permission. For software which is
              copyrighted by the Free Software Foundation, write to the Free Software Foundation; we
              sometimes make exceptions for this. Our decision will be guided by the two goals of preserving
              the free status of all derivatives of our free software and of promoting the sharing and reuse
-             of software generally.</p>
+             of software generally.
         </item>
         <item>
             <p>NO WARRANTY</p>
@@ -191,13 +191,13 @@
         </item>
         <item>
             <bullet>10.</bullet>
-            <p>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER,
+          IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER,
              OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE
              LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES
              ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
              DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A
              FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY
-             HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
+             HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
         </item>
       </list>
       <optional>

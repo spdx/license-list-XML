@@ -15,26 +15,26 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Redistributions of source code must retain the above copyright notice, this list of conditions,
-             and the following disclaimer.</p>
+          Redistributions of source code must retain the above copyright notice, this list of conditions,
+             and the following disclaimer.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of
+          Redistributions in binary form must reproduce the above copyright notice, this list of
              conditions, and the disclaimer that follows these conditions in the documentation and/or other
-             materials provided with the distribution.</p>
+             materials provided with the distribution.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>The name "SAXPath" must not be used to endorse or promote products derived from this software
+          The name "SAXPath" must not be used to endorse or promote products derived from this software
              without prior written permission. For written permission, please contact
-             license@saxpath.org.</p>
+             license@saxpath.org.
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>Products derived from this software may not be called "SAXPath", nor may "SAXPath" appear in
+          Products derived from this software may not be called "SAXPath", nor may "SAXPath" appear in
              their name, without prior written permission from the SAXPath Project Management
-             (pm@saxpath.org).</p>
+             (pm@saxpath.org).
         </item>
       </list>
       <p>In addition, we request (but do not require) that you include in the end-user documentation provided with

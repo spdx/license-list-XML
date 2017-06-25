@@ -17,44 +17,44 @@
       <list>
          <item>
             <bullet>1.</bullet>
-            <p>Redistributions of source code must retain the above copyright notice, this list of conditions
-           and the following disclaimer.</p>
-         </item>
+        Redistributions of source code must retain the above copyright notice, this list of conditions
+           and the following disclaimer.
+      </item>
          <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+        Redistributions in binary form must reproduce the above copyright notice, this list of conditions
            and the following disclaimer in the documentation and/or other materials provided with the
-           distribution.</p>
-         </item>
+           distribution.
+      </item>
          <item>
             <bullet>3.</bullet>
-            <p>The end-user documentation included with the redistribution, if any, must include the following
+        The end-user documentation included with the redistribution, if any, must include the following
            acknowledgment: 
           <br/>"This product includes software developed by 
           <alt match=".+" name="organizationClause3">the Apache Software Foundation (http://www.apache.org/)</alt>." 
           <br/>Alternately, this acknowledgment may appear in the software itself, if and wherever such
                third-party acknowledgments normally appear. 
-        </p>
-         </item>
+        
+      </item>
          <item>
             <bullet>4.</bullet>
-            <p>The 
+        The 
           <alt match="name|names|name\(s\)" name="nameClause4">name</alt> 
-               <alt match=".+" name="organizationClause4">"Apache" and "Apache Software Foundation"</alt> must
+            <alt match=".+" name="organizationClause4">"Apache" and "Apache Software Foundation"</alt> must
           not be used to endorse or promote products derived from this software without prior written
           permission. For written permission, please contact 
           <alt match=".+" name="contactClause4">apache@apache.org</alt>.
-        </p>
-         </item>
+        
+      </item>
          <item>
             <bullet>5.</bullet>
-            <p>Products derived from this software may not be called 
+        Products derived from this software may not be called 
           <alt match=".+" name="name1Clause5">"Apache" [ex. "Jakarta," "Apache," or "Apache Commons,"]</alt> nor may 
           <alt match=".+" name="name2clause5">"Apache" [ex. the names]</alt> appear in their name, without
           prior written permission of 
           <alt match=".+" name="name3clause5">the Apache Software Foundation</alt>. 
-        </p>
-         </item>
+        
+      </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED ''AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
        TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN

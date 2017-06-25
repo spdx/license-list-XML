@@ -31,37 +31,37 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Any Redistribution of source code must retain the above copyright notice and the acknowledgment
-             contained in paragraph 5, this list of conditions and the disclaimer contained in paragraph 5.</p>
+          Any Redistribution of source code must retain the above copyright notice and the acknowledgment
+             contained in paragraph 5, this list of conditions and the disclaimer contained in paragraph 5.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Any Redistribution in binary form must reproduce the above copyright notice and the acknowledgment
+          Any Redistribution in binary form must reproduce the above copyright notice and the acknowledgment
              contained in paragraph 4, this list of conditions and the disclaimer contained in paragraph 5 in
-             the documentation and/or other materials provided with the distribution.</p>
+             the documentation and/or other materials provided with the distribution.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>Redistributions in any form must be accompanied by information on how to obtain complete source code
+          Redistributions in any form must be accompanied by information on how to obtain complete source code
              for TORQUE and any modifications and/or additions to TORQUE. The source code must either be
              included in the distribution or be available for no more than the cost of distribution plus a
              nominal fee, and all modifications and additions to the Software must be freely redistributable by
-             any party (including Licensor) without restriction.</p>
+             any party (including Licensor) without restriction.
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>All advertising materials mentioning features or use of the Software must display the following
+          All advertising materials mentioning features or use of the Software must display the following
              acknowledgment: 
             <br/>"TORQUE is a modification of OpenPBS which was developed by NASA Ames Research Center, Lawrence
                  Livermore National Laboratory, and Veridian TORQUE Open Source License v1.1. 1 Information
                  Solutions, Inc. Visit www.clusterresources.com/products/ for more information about TORQUE
                  and to download TORQUE. For information about Moab branded products and so receive support
                  from Adaptive Computing for TORQUE, see www.adaptivecomputing.com.” 
-          </p>
+          
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>DISCLAIMER OF WARRANTY THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. ANY EXPRESS OR
+          DISCLAIMER OF WARRANTY THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. ANY EXPRESS OR
              IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY,
              FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT ARE EXPRESSLY DISCLAIMED. IN NO EVENT SHALL
              ADAPTIVE COMPUTING ENTERPRISES, INC. CORPORATION, ITS AFFILIATED COMPANIES, OR THE U.S. GOVERNMENT
@@ -70,7 +70,7 @@
              LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
              LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
              ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
-             DAMAGE.</p>
+             DAMAGE.
         </item>
       </list>
       <p>This license will be governed by the laws of Utah, without reference to its choice of law rules.</p>

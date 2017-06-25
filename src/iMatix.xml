@@ -25,18 +25,18 @@
       <list>
                <item>
                   <bullet>1.</bullet>
-                  <p>Provide the source code for Product modules that you use, or</p>
-               </item>
+          Provide the source code for Product modules that you use, or
+        </item>
                <item>
                   <bullet>2.</bullet>
-                  <p>Make your product freely available according to a license similar to the GNU General Public
-             License, or the Perl Artistic License, or</p>
-               </item>
+          Make your product freely available according to a license similar to the GNU General Public
+             License, or the Perl Artistic License, or
+        </item>
                <item>
                   <bullet>3.</bullet>
-                  <p>Add this phrase to the documentation for your product: "This product uses parts of the iMatix
-             SFL, Copyright © 1991-2000 iMatix Corporation &lt;http://www.imatix.com&gt;".</p>
-               </item>
+          Add this phrase to the documentation for your product: "This product uses parts of the iMatix
+             SFL, Copyright © 1991-2000 iMatix Corporation &lt;http://www.imatix.com&gt;".
+        </item>
             </list>
         </item>
       </list>

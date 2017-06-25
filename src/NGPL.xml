@@ -34,54 +34,54 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>You may copy and distribute verbatim copies of NetHack source code as you receive it, in any medium,
+          You may copy and distribute verbatim copies of NetHack source code as you receive it, in any medium,
              provided that you keep intact the notices on all files that refer to copyrights, to this License
              Agreement, and to the absence of any warranty; and give any other recipients of the NetHack program a
-             copy of this License Agreement along with the program.</p>
+             copy of this License Agreement along with the program.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>You may modify your copy or copies of NetHack or any portion of it, and copy and distribute such
+          You may modify your copy or copies of NetHack or any portion of it, and copy and distribute such
             modifications under the terms of Paragraph 1 above (including distributing this License Agreement),
-            provided that you also do the following:</p>
-            <list>
+            provided that you also do the following:
+          <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>cause the modified files to carry prominent notices stating that you changed the files and
-                 the date of any change; and</p>
-               </item>
+              cause the modified files to carry prominent notices stating that you changed the files and
+                 the date of any change; and
+            </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>cause the whole of any work that you distribute or publish, that in whole or in part contains
+              cause the whole of any work that you distribute or publish, that in whole or in part contains
                  or is a derivative of NetHack or any part thereof, to be licensed at no charge to all
                  third parties on terms identical to those contained in this License Agreement (except that
                  you may choose to grant more extensive warranty protection to some or all third parties,
-                 at your option)</p>
-               </item>
+                 at your option)
+            </item>
                <item>
                   <bullet>c)</bullet>
-                  <p>You may charge a distribution fee for the physical act of transferring a copy, and you may at
-                 your option offer warranty protection in exchange for a fee.</p>
-               </item>
+              You may charge a distribution fee for the physical act of transferring a copy, and you may at
+                 your option offer warranty protection in exchange for a fee.
+            </item>
             </list>
         </item>  
         <item>
             <bullet>3.</bullet>
-            <p>You may copy and distribute NetHack (or a portion or derivative of it, under Paragraph 2) in
+          You may copy and distribute NetHack (or a portion or derivative of it, under Paragraph 2) in
              object code or executable form under the terms of Paragraphs 1 and 2 above provided that
-             you also do one of the following:</p>
-            <list>
+             you also do one of the following:
+          <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>accompany it with the complete machine-readable source code, which must be distributed under
-                 the terms of Paragraphs 1 and 2 above; or,</p>
-               </item>
+              accompany it with the complete machine-readable source code, which must be distributed under
+                 the terms of Paragraphs 1 and 2 above; or,
+            </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>accompany it with full information as to how to obtain the complete machine-readable source
+              accompany it with full information as to how to obtain the complete machine-readable source
                  code from an appropriate archive site. (This alternative is allowed only for noncommercial
-                 distribution.)</p>
-               </item>
+                 distribution.)
+            </item>
            </list>
            <p>For these purposes, complete source code means either the full source distribution as originally released
               over Usenet or updated copies of the files in this distribution used to create the object code or
@@ -89,11 +89,11 @@
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>You may not copy, sublicense, distribute or transfer NetHack except as expressly provided under this
+          You may not copy, sublicense, distribute or transfer NetHack except as expressly provided under this
              License Agreement. Any attempt otherwise to copy, sublicense, distribute or transfer NetHack is void
              and your rights to use the program under this License agreement shall be automatically terminated.
              However, parties who have received computer software programs from you with this License Agreement
-             will not have their licenses terminated so long as such parties remain in full compliance.</p>
+             will not have their licenses terminated so long as such parties remain in full compliance.
         </item>
       </list>
       <p>Stated plainly: You are permitted to modify NetHack, or otherwise use parts of NetHack, provided

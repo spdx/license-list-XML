@@ -26,84 +26,84 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>You may make and give away verbatim copies of the source form of the Standard Version of this
+          You may make and give away verbatim copies of the source form of the Standard Version of this
              Package without restriction, provided that you duplicate all of the original copyright notices
-             and associated disclaimers.</p>
+             and associated disclaimers.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>You may apply bug fixes, portability fixes and other modifications derived from the Public
+          You may apply bug fixes, portability fixes and other modifications derived from the Public
              Domain, or those made Freely Available, or from the Copyright Holder. A Package modified in
-             such a way shall still be considered the Standard Version.</p>
+             such a way shall still be considered the Standard Version.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>You may otherwise modify your copy of this Package in any way, provided that you insert a
+          You may otherwise modify your copy of this Package in any way, provided that you insert a
              prominent notice in each changed file stating how and when you changed that file, and provided
-             that you do at least ONE of the following:</p>
-            <list>
+             that you do at least ONE of the following:
+        <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>place your modifications in the Public Domain or otherwise make them Freely Available, such
+            place your modifications in the Public Domain or otherwise make them Freely Available, such
                as by posting said modifications to Usenet or an equivalent medium, or placing the
                modifications on a major network archive site allowing unrestricted access to them, or by
                allowing the Copyright Holder to include your modifications in the Standard Version of the
-               Package.</p>
-               </item>
+               Package.
+          </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>use the modified Package only within your corporation or organization.</p>
-               </item>
+            use the modified Package only within your corporation or organization.
+          </item>
                <item>
                   <bullet>c)</bullet>
-                  <p>rename any non-standard executables so the names do not conflict with standard executables,
+            rename any non-standard executables so the names do not conflict with standard executables,
                which must also be provided, and provide a separate manual page for each non-standard
-               executable that clearly documents how it differs from the Standard Version.</p>
-               </item>
+               executable that clearly documents how it differs from the Standard Version.
+          </item>
                <item>
                   <bullet>d)</bullet>
-                  <p>make other distribution arrangements with the Copyright Holder.</p>
-               </item>
+            make other distribution arrangements with the Copyright Holder.
+          </item>
                <item>
                   <bullet>e)</bullet>
-                  <p>permit and encourge anyone who receives a copy of the modified Package permission to make
-               your modifications Freely Available in some specific way.</p>
-               </item>
+            permit and encourge anyone who receives a copy of the modified Package permission to make
+               your modifications Freely Available in some specific way.
+          </item>
             </list>
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>You may distribute the programs of this Package in object code or executable form, provided that
-             you do at least ONE of the following:</p>
-            <list>
+          You may distribute the programs of this Package in object code or executable form, provided that
+             you do at least ONE of the following:
+        <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>distribute a Standard Version of the executables and library files, together with
-               instructions (in the manual page or equivalent) on where to get the Standard Version.</p>
-               </item>
+            distribute a Standard Version of the executables and library files, together with
+               instructions (in the manual page or equivalent) on where to get the Standard Version.
+          </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>accompany the distribution with the machine-readable source of the Package with your modifications.</p>
-               </item>
+            accompany the distribution with the machine-readable source of the Package with your modifications.
+          </item>
                <item>
                   <bullet>c)</bullet>
-                  <p>give non-standard executables non-standard names, and clearly document the differences in
+            give non-standard executables non-standard names, and clearly document the differences in
                manual pages (or equivalent), together with instructions on where to get the Standard
-               Version.</p>
-               </item>
+               Version.
+          </item>
                <item>
                   <bullet>d)</bullet>
-                  <p>make other distribution arrangements with the Copyright Holder.</p>
-               </item>
+            make other distribution arrangements with the Copyright Holder.
+          </item>
                <item>
                   <bullet>e)</bullet>
-                  <p>offer the machine-readable source of the Package, with your modifications, by mail order.</p>
-               </item>
+            offer the machine-readable source of the Package, with your modifications, by mail order.
+          </item>
             </list>
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>You may charge a distribution fee for any distribution of this Package. If you offer support for
+          You may charge a distribution fee for any distribution of this Package. If you offer support for
              this Package, you may charge any fee you choose for that support. You may not charge a license
              fee for the right to use this Package itself. You may distribute this Package in aggregate
              with other (possibly commercial and possibly nonfree) programs as part of a larger (possibly
@@ -112,44 +112,44 @@
              product of your own. If the Package includes an interpreter, You may embed this Package's
              interpreter within an executable of yours (by linking); this shall be construed as a mere form
              of aggregation, provided that the complete Standard Version of the interpreter is so
-             embedded.</p>
+             embedded.
         </item>
         <item>
             <bullet>6.</bullet>
-            <p>The scripts and library files supplied as input to or produced as output from the programs of
+          The scripts and library files supplied as input to or produced as output from the programs of
              this Package do not automatically fall under the copyright of this Package, but belong to
              whoever generated them, and may be sold commercially, and may be aggregated with this Package.
              If such scripts or library files are aggregated with this Package via the so-called
              "undump" or "unexec" methods of producing a binary executable image, then
              distribution of such an image shall neither be construed as a distribution of this Package nor
              shall it fall under the restrictions of Paragraphs 3 and 4, provided that you do not represent
-             such an executable image as a Standard Version of this Package.</p>
+             such an executable image as a Standard Version of this Package.
         </item>
         <item>
             <bullet>7.</bullet>
-            <p>C subroutines (or comparably compiled subroutines in other languages) supplied by you and linked
+          C subroutines (or comparably compiled subroutines in other languages) supplied by you and linked
              into this Package in order to emulate subroutines and variables of the language defined by
              this Package shall not be considered part of this Package, but are the equivalent of input as
              in Paragraph 6, provided these subroutines do not change the language in any way that would
-             cause it to fail the regression tests for the language.</p>
+             cause it to fail the regression tests for the language.
         </item>
         <item>
             <bullet>8.</bullet>
-            <p>Aggregation of the Standard Version of the Package with a commercial distribution is always
+          Aggregation of the Standard Version of the Package with a commercial distribution is always
              permitted provided that the use of this Package is embedded; that is, when no overt attempt is
              made to make this Package's interfaces visible to the end user of the commercial
-             distribution. Such use shall not be construed as a distribution of this Package.</p>
+             distribution. Such use shall not be construed as a distribution of this Package.
         </item>
         <item>
             <bullet>9.</bullet>
-            <p>The name of the Copyright Holder may not be used to endorse or promote products derived from this
-             software without specific prior written permission.</p>
+          The name of the Copyright Holder may not be used to endorse or promote products derived from this
+             software without specific prior written permission.
         </item>
         <item>
             <bullet>10.</bullet>
-            <p>THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES,
+          THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES,
              INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A
-             PARTICULAR PURPOSE.</p>
+             PARTICULAR PURPOSE.
         </item>
       </list>
       <p>The End</p>

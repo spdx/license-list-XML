@@ -18,19 +18,19 @@
       <list>
         <item>
             <bullet>*</bullet>
-            <p>Redistributions of source code must retain the above
+          Redistributions of source code must retain the above
              copyright notice, this list of conditions and the
-             following disclaimer.</p>
+             following disclaimer.
         </item>
         <item>
             <bullet>*</bullet>
-            <p>Neither the name of 
+          Neither the name of 
             <alt match=".+" name="organizationClause3">
             Deusty</alt>nor the names of its contributors may be
             used to endorse or promote products derived from this
             software without specific prior written permission of
             Deusty, LLC.
-          </p>
+          
         </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY 

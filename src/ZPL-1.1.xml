@@ -19,42 +19,42 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Redistributions in source code must retain the above copyright notice, this list of conditions,
-             and the following disclaimer.</p>
+          Redistributions in source code must retain the above copyright notice, this list of conditions,
+             and the following disclaimer.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce the above copyright notice, this list of
+          Redistributions in binary form must reproduce the above copyright notice, this list of
              conditions, and the following disclaimer in the documentation and/or other materials provided
-             with the distribution.</p>
+             with the distribution.
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>All advertising materials and documentation mentioning features derived from or use of this
-             software must display the following acknowledgement:</p>
-            <p>"This product includes software developed by Zope Corporation for use in the Z Object Publishing
+          All advertising materials and documentation mentioning features derived from or use of this
+             software must display the following acknowledgement:
+          <p>"This product includes software developed by Zope Corporation for use in the Z Object Publishing
              Environment (http://www.zope.com/)."</p>
             <p>In the event that the product being advertised includes an intact Zope distribution (with
              copyright and license included) then this clause is waived.</p>
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>Names associated with Zope or Zope Corporation must not be used to endorse or promote products
-             derived from this software without prior written permission from Zope Corporation.</p>
+          Names associated with Zope or Zope Corporation must not be used to endorse or promote products
+             derived from this software without prior written permission from Zope Corporation.
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>Modified redistributions of any form whatsoever must retain the following acknowledgment:</p>
-            <p>"This product includes software developed by Zope Corporation for use in the Z Object Publishing
+          Modified redistributions of any form whatsoever must retain the following acknowledgment:
+          <p>"This product includes software developed by Zope Corporation for use in the Z Object Publishing
              Environment (http://www.zope.com/)."</p>
             <p>Intact (re-)distributions of any official Zope release do not require an external acknowledgement.</p>
         </item>
         <item>
             <bullet>6.</bullet>
-            <p>Modifications are encouraged but must be packaged separately as patches to official Zope
+          Modifications are encouraged but must be packaged separately as patches to official Zope
              releases. Distributions that do not clearly separate the patches from the original work must
              be clearly labeled as unofficial distributions. Modifications which do not carry the name Zope
-             may be packaged in any form, as long as they conform to all of the clauses above.</p>
+             may be packaged in any form, as long as they conform to all of the clauses above.
         </item>
       </list>
       <p>Disclaimer</p>

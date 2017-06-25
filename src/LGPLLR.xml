@@ -21,11 +21,11 @@
       <list>
         <item>
             <bullet>0.</bullet>
-            <p>This License Agreement applies to any Linguistic Resource which contains a notice placed by the
+          This License Agreement applies to any Linguistic Resource which contains a notice placed by the
              copyright holder or other authorized party saying it may be distributed under the terms of
              this Lesser General Public License for Linguistic Resources (also called "this
-             License"). Each licensee is addressed as "you".</p>
-            <p>A "linguistic resource" means a collection of data about language prepared so as to be
+             License"). Each licensee is addressed as "you".
+          <p>A "linguistic resource" means a collection of data about language prepared so as to be
              used with application programs.</p>
             <p>The "Linguistic Resource", below, refers to any such work which has been distributed
              under these terms. A "work based on the Linguistic Resource" means either the
@@ -44,34 +44,34 @@
         </item>
         <item>
             <bullet>1.</bullet>
-            <p>You may copy and distribute verbatim copies of the Linguistic Resource as you receive it, in any
+          You may copy and distribute verbatim copies of the Linguistic Resource as you receive it, in any
              medium, provided that you conspicuously and appropriately publish on each copy an appropriate
              copyright notice and disclaimer of warranty; keep intact all the notices that refer to this
              License and to the absence of any warranty; and distribute a copy of this License along with
-             the Linguistic Resource.</p>
-            <p>You may charge a fee for the physical act of transferring a copy, and you may at your option
+             the Linguistic Resource.
+          <p>You may charge a fee for the physical act of transferring a copy, and you may at your option
              offer warranty protection in exchange for a fee.</p>
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>You may modify your copy or copies of the Linguistic Resource or any portion of it, thus forming
+          You may modify your copy or copies of the Linguistic Resource or any portion of it, thus forming
              a work based on the Linguistic Resource, and copy and distribute such modifications or work
-             under the terms of Section 1 above, provided that you also meet all of these conditions:</p>
-            <list>
+             under the terms of Section 1 above, provided that you also meet all of these conditions:
+        <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>The modified work must itself be a linguistic resource.</p>
-               </item>
+            The modified work must itself be a linguistic resource.
+          </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>You must cause the files modified to carry prominent notices stating that you changed the
-               files and the date of any change.</p>
-               </item>
+            You must cause the files modified to carry prominent notices stating that you changed the
+               files and the date of any change.
+          </item>
                <item>
                   <bullet>c)</bullet>
-                  <p>You must cause the whole of the work to be licensed at no charge to all third parties under
-               the terms of this License.</p>
-               </item>
+            You must cause the whole of the work to be licensed at no charge to all third parties under
+               the terms of this License.
+          </item>
             </list>
             <p>These requirements apply to the modified work as a whole. If identifiable sections of that
                work are not derived from the Linguistic Resource, and can be reasonably considered
@@ -91,12 +91,12 @@
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>A program that contains no derivative of any portion of the Linguistic Resource, but is designed
+          A program that contains no derivative of any portion of the Linguistic Resource, but is designed
              to work with the Linguistic Resource (or an encrypted form of the Linguistic Resource) by
              reading it or being compiled or linked with it, is called a "work that uses the
              Linguistic Resource". Such a work, in isolation, is not a derivative work of the
-             Linguistic Resource, and therefore falls outside the scope of this License.</p>
-            <p>However, combining a "work that uses the Linguistic Resource" with the Linguistic
+             Linguistic Resource, and therefore falls outside the scope of this License.
+          <p>However, combining a "work that uses the Linguistic Resource" with the Linguistic
              Resource (or an encrypted form of the Linguistic Resource) creates a package that is a
              derivative of the Linguistic Resource (because it contains portions of the Linguistic
              Resource), rather than a "work that uses the Linguistic Resource". If the package is
@@ -105,12 +105,12 @@
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>As an exception to the Sections above, you may also combine a "work that uses the Linguistic
+          As an exception to the Sections above, you may also combine a "work that uses the Linguistic
              Resource" with the Linguistic Resource (or an encrypted form of the Linguistic Resource)
              to produce a package containing portions of the Linguistic Resource, and distribute that
              package under terms of your choice, provided that the terms permit modification of the package
-             for the customer's own use and reverse engineering for debugging such modifications.</p>
-            <p>You must give prominent notice with each copy of the package that the Linguistic Resource is used
+             for the customer's own use and reverse engineering for debugging such modifications.
+          <p>You must give prominent notice with each copy of the package that the Linguistic Resource is used
              in it and that the Linguistic Resource and its use are covered by this License. You must
              supply a copy of this License. If the package during execution displays copyright notices, you
              must include the copyright notice for the Linguistic Resource among them, as well as a
@@ -119,37 +119,37 @@
             <list>
                <item>
                   <bullet>a)</bullet>
-                  <p>Accompany the package with the complete corresponding machine-readable legible form of the
+            Accompany the package with the complete corresponding machine-readable legible form of the
                Linguistic Resource including whatever changes were used in the package (which must be
                distributed under Sections 1 and 2 above); and, if the package contains an encrypted form
                of the Linguistic Resource, with the complete machine-readable "work that uses the
                Linguistic Resource", as object code and/or source code, so that the user can modify
                the Linguistic Resource and then encrypt it to produce a modified package containing the
-               modified Linguistic Resource.</p>
-               </item>
+               modified Linguistic Resource.
+          </item>
                <item>
                   <bullet>b)</bullet>
-                  <p>Use a suitable mechanism for combining with the Linguistic Resource. A suitable mechanism is
+            Use a suitable mechanism for combining with the Linguistic Resource. A suitable mechanism is
                one that will operate properly with a modified version of the Linguistic Resource, if the
                user installs one, as long as the modified version is interface-compatible with the
-               version that the package was made with.</p>
-               </item>
+               version that the package was made with.
+          </item>
                <item>
                   <bullet>c)</bullet>
-                  <p>Accompany the package with a written offer, valid for at least three years, to give the same
+            Accompany the package with a written offer, valid for at least three years, to give the same
                user the materials specified in Subsection 4a, above, for a charge no more than the cost
-               of performing this distribution.</p>
-               </item>
+               of performing this distribution.
+          </item>
                <item>
                   <bullet>d)</bullet>
-                  <p>If distribution of the package is made by offering access to copy from a designated place,
-               offer equivalent access to copy the above specified materials from the same place.</p>
-               </item>
+            If distribution of the package is made by offering access to copy from a designated place,
+               offer equivalent access to copy the above specified materials from the same place.
+          </item>
                <item>
                   <bullet>e)</bullet>
-                  <p>Verify that the user has already received a copy of these materials or that you have already
-               sent this user a copy.</p>
-               </item>
+            Verify that the user has already received a copy of these materials or that you have already
+               sent this user a copy.
+          </item>
             </list>
             <p>If the package includes an encrypted form of the Linguistic Resource, the required form of
                the "work that uses the Linguistic Resource" must include any data and utility
@@ -165,34 +165,34 @@
         </item>
         <item>
             <bullet>5.</bullet>
-            <p>You may not copy, modify, sublicense, link with, or distribute the Linguistic Resource except as
+          You may not copy, modify, sublicense, link with, or distribute the Linguistic Resource except as
              expressly provided under this License. Any attempt otherwise to copy, modify, sublicense, link
              with, or distribute the Linguistic Resource is void, and will automatically terminate your
              rights under this License. However, parties who have received copies, or rights, from you
              under this License will not have their licenses terminated so long as such parties remain in
-             full compliance.</p>
+             full compliance.
         </item>
         <item>
             <bullet>6.</bullet>
-            <p>You are not required to accept this License, since you have not signed it. However, nothing else
+          You are not required to accept this License, since you have not signed it. However, nothing else
              grants you permission to modify or distribute the Linguistic Resource or its derivative works.
              These actions are prohibited by law if you do not accept this License. Therefore, by modifying
              or distributing the Linguistic Resource (or any work based on the Linguistic Resource), you
              indicate your acceptance of this License to do so, and all its terms and conditions for
-             copying, distributing or modifying the Linguistic Resource or works based on it.</p>
+             copying, distributing or modifying the Linguistic Resource or works based on it.
         </item>
         <item>
             <bullet>7.</bullet>
-            <p>Each time you redistribute the Linguistic Resource (or any work based on the Linguistic
+          Each time you redistribute the Linguistic Resource (or any work based on the Linguistic
              Resource), the recipient automatically receives a license from the original licensor to copy,
              distribute, link with or modify the Linguistic Resource subject to these terms and conditions.
              You may not impose any further restrictions on the recipients' exercise of the rights
              granted herein. You are not responsible for enforcing compliance by third parties with this
-             License.</p>
+             License.
         </item>
         <item>
             <bullet>8.</bullet>
-            <p>If, as a consequence of a court judgment or allegation of patent infringement or for any other
+          If, as a consequence of a court judgment or allegation of patent infringement or for any other
              reason (not limited to patent issues), conditions are imposed on you (whether by court order,
              agreement or otherwise) that contradict the conditions of this License, they do not excuse you
              from the conditions of this License. If you cannot distribute so as to satisfy simultaneously
@@ -200,8 +200,8 @@
              you may not distribute the Linguistic Resource at all. For example, if a patent license would
              not permit royalty-free redistribution of the Linguistic Resource by all those who receive
              copies directly or indirectly through you, then the only way you could satisfy both it and
-             this License would be to refrain entirely from distribution of the Linguistic Resource.</p>
-            <p>If any portion of this section is held invalid or unenforceable under any particular
+             this License would be to refrain entirely from distribution of the Linguistic Resource.
+          <p>If any portion of this section is held invalid or unenforceable under any particular
              circumstance, the balance of the section is intended to apply, and the section as a whole is
              intended to apply in other circumstances.</p>
             <p>It is not the purpose of this section to induce you to infringe any patents or other property
@@ -216,20 +216,20 @@
         </item>
         <item>
             <bullet>9.</bullet>
-            <p>If the distribution and/or use of the Linguistic Resource is restricted in certain countries
+          If the distribution and/or use of the Linguistic Resource is restricted in certain countries
              either by patents or by copyrighted interfaces, the original copyright holder who places the
              Linguistic Resource under this License may add an explicit geographical distribution
              limitation excluding those countries, so that distribution is permitted only in or among
              countries not thus excluded. In such case, this License incorporates the limitation as if
-             written in the body of this License.</p>
+             written in the body of this License.
         </item>
         <item>
             <bullet>10.</bullet>
-            <p>The Free Software Foundation may publish revised and/or new versions of the Lesser General Public
+          The Free Software Foundation may publish revised and/or new versions of the Lesser General Public
              License for Linguistic Resources from time to time. Such new versions will be similar in
              spirit to the present version, but may differ in detail to address new problems or
-             concerns.</p>
-            <p>Each version is given a distinguishing version number. If the Linguistic Resource specifies a
+             concerns.
+          <p>Each version is given a distinguishing version number. If the Linguistic Resource specifies a
              version number of this License which applies to it and "any later version", you have
              the option of following the terms and conditions either of that version or of any later
              version published by the Free Software Foundation. If the Linguistic Resource does not specify
@@ -238,32 +238,32 @@
         </item>
         <item>
             <bullet>11.</bullet>
-            <p>If you wish to incorporate parts of the Linguistic Resource into other free programs whose
+          If you wish to incorporate parts of the Linguistic Resource into other free programs whose
              distribution conditions are incompatible with these, write to the author to ask for
-             permission.</p>
-            <p>NO WARRANTY</p>
+             permission.
+          <p>NO WARRANTY</p>
         </item>
         <item>
             <bullet>12.</bullet>
-            <p>BECAUSE THE LINGUISTIC RESOURCE IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE
+          BECAUSE THE LINGUISTIC RESOURCE IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE
              LINGUISTIC RESOURCE, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED
              IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE LINGUISTIC RESOURCE "AS
              IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED
              TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE
              RISK AS TO THE QUALITY AND PERFORMANCE OF THE LINGUISTIC RESOURCE IS WITH YOU. SHOULD THE
              LINGUISTIC RESOURCE PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR
-             CORRECTION.</p>
+             CORRECTION.
         </item>
         <item>
             <bullet>13.</bullet>
-            <p>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER,
+          IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER,
              OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE LINGUISTIC RESOURCE AS PERMITTED
              ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR
              CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE LINGUISTIC RESOURCE
              (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES
              SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE LINGUISTIC RESOURCE TO OPERATE WITH ANY
              OTHER SOFTWARE), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
-             SUCH DAMAGES.</p>
+             SUCH DAMAGES.
         </item>
       </list>
       <p>END OF TERMS AND CONDITIONS</p>

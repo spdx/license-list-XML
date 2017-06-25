@@ -16,17 +16,17 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Redistributions in source form must retain copyright statements and notices,</p>
+          Redistributions in source form must retain copyright statements and notices,
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Redistributions in binary form must reproduce applicable copyright statements and notices, this
+          Redistributions in binary form must reproduce applicable copyright statements and notices, this
              list of conditions, and the following disclaimer in the documentation and/or other materials
-             provided with the distribution, and</p>
+             provided with the distribution, and
         </item>
         <item>
             <bullet>3.</bullet>
-            <p>Redistributions must contain a verbatim copy of this document.</p>
+          Redistributions must contain a verbatim copy of this document.
         </item>
       </list>
       <p>The OpenLDAP Foundation may revise this license from time to time. Each revision is distinguished by a

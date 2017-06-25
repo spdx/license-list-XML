@@ -14,20 +14,20 @@
         <list>
             <item>
                 <bullet>1.</bullet>
-                <p>Redistributions of source code must retain the above copyright notice, this list of conditions
-                 and the following disclaimer.</p>
+                Redistributions of source code must retain the above copyright notice, this list of conditions
+                 and the following disclaimer.
             </item>
             <item>
                 <bullet>2.</bullet>
-                <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+                Redistributions in binary form must reproduce the above copyright notice, this list of conditions
                  and the following disclaimer in the documentation and/or other materials provided with the
-                 distribution.</p>
+                 distribution.
             </item>
             <item>
                 <bullet>3.</bullet>
-                <p>Neither the name of <alt match=".+" name="organizationClause3">the copyright holder</alt> 
+                Neither the name of <alt match=".+" name="organizationClause3">the copyright holder</alt> 
                  nor the names of its contributors may be used to endorse or promote products derived from this 
-                 software without specific prior written permission.</p>
+                 software without specific prior written permission.
             </item>
         </list>
         <p>THIS SOFTWARE IS PROVIDED BY <alt match=".+" name="copyrightHolderAsIs">THE COPYRIGHT HOLDERS AND 

@@ -35,47 +35,47 @@
       <list>
         <item>
             <bullet>1.</bullet>
-            <p>Redistributions of source code, in whole or part and with or without modification (the "Code"),
-             must prominently display this GPG-signed text in verifiable form.</p>
+          Redistributions of source code, in whole or part and with or without modification (the "Code"),
+             must prominently display this GPG-signed text in verifiable form.
         </item>
         <item>
             <bullet>2.</bullet>
-            <p>Redistributions of the Code in binary form must be accompanied by this GPG-signed text in any
+          Redistributions of the Code in binary form must be accompanied by this GPG-signed text in any
              documentation and, each time the resulting executable program or a program dependent thereon
              is launched, a prominent display (e.g., splash screen or banner text) of the Author's
-             attribution information, which includes:</p>
+             attribution information, which includes:
         </item>
         <list>
             <item>
                <bullet>(a)</bullet>
-               <p>
-                  <alt match=".+" name="author">Name</alt> ("AUTHOR"), 
-            </p>
-            </item>
+            
+              <alt match=".+" name="author">Name</alt> ("AUTHOR"), 
+            
+          </item>
             <item>
                <bullet>(b)</bullet>
-               <p>
-                  <alt match=".+" name="profIdent">Professional identification</alt> ("PROFESSIONAL IDENTIFICATION"), and 
-            </p>
-            </item>
+            
+              <alt match=".+" name="profIdent">Professional identification</alt> ("PROFESSIONAL IDENTIFICATION"), and 
+            
+          </item>
             <item>
                <bullet>(c)</bullet>
-               <p>
-                  <alt match=".+" name="url">URL</alt> ("URL"). 
-            </p>
-            </item>
+            
+              <alt match=".+" name="url">URL</alt> ("URL"). 
+            
+          </item>
         </list>
         <item>
             <bullet>3.</bullet>
-            <p>Neither the name nor any trademark of the Author may be used to endorse or promote products
-             derived from this software without specific prior written permission.</p>
+          Neither the name nor any trademark of the Author may be used to endorse or promote products
+             derived from this software without specific prior written permission.
         </item>
         <item>
             <bullet>4.</bullet>
-            <p>Users are entirely responsible, to the exclusion of the Author and any other persons, for
+          Users are entirely responsible, to the exclusion of the Author and any other persons, for
              compliance with (1) regulations set by owners or administrators of employed equipment, (2)
              licensing terms of any other software, and (3) local regulations regarding use, including
-             those regarding import, export, and use of encryption software.</p>
+             those regarding import, export, and use of encryption software.
         </item>
       </list>
       <p>THIS FREE SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
