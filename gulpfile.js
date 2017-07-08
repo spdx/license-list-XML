@@ -1,5 +1,6 @@
 /**
  * Gulpfile for validating SPDX license XML files
+ * Script licensed under SPDX-License-Identifier: MIT
  */
 
 var gulp = require('gulp'),
