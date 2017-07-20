@@ -27,7 +27,6 @@
       <p>RealNetworks Public Source License Version 1.0</p>
       <p>(Rev. Date October 28, 2002)</p>
     </title>
-    <body>
       <list>
         <li>
           <b>1.</b>
@@ -42,9 +41,7 @@
              software), You indicate your acceptance of this License to do so, and all its terms and
              conditions. In addition, you agree to the terms of this License by clicking the Accept button
              or downloading the software. As used in this License:</p>
-        </li>
-      </list>
-      <list>
+          <list>
         <li>
           <b>1.1</b>
           <p>"Applicable Patent Rights" mean: (a) in the case where Licensor is the grantor of rights, claims
@@ -144,6 +141,8 @@
              ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of
              such entity.</p>
         </li>
+      </list>
+        </li>
         <li>
           <b>2.</b>
           <p>Permitted Uses; Conditions &amp; Restrictions. Subject to the terms and conditions of this
@@ -151,14 +150,11 @@
              downloading or using Covered Code or otherwise indicating your acceptance of this License), a
              worldwide, royalty-free, non-exclusive copyright license, to the extent of Licensor's
              copyrights cover the Original Code, to do the following:</p>
-        </li>
-      </list>
-      <list>
+        <list>
         <li>
           <b>2.1</b>
           <p>You may reproduce, display, perform, modify and Deploy Covered Code, provided that in each instance:</p>
-        </li>
-      </list>
+
       <list>
         <li>
           <b>(a)</b>
@@ -196,6 +192,8 @@
              Exhibit A in the "about" box or other appropriate place where other copyright notices are
              placed, including any packaging materials.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>2.2</b>
           <p>You expressly acknowledge and agree that although Licensor and each Contributor grants the
@@ -218,12 +216,12 @@
              import the Covered Code, provided that in each instance you comply with the terms of this
              License.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>3.</b>
           <p>Your Grants. In consideration of, and as a condition to, the licenses granted to You under this
              License:</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>(a)</b>
@@ -249,14 +247,14 @@
              the purpose of asserting any of Your patent rights, or assisting a third party to assert any
              of its patent rights, against Licensor or any Contributor.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>4.</b>
           <p>Derivative Works. You may create a Derivative Work by combining Covered Code with other code not
              otherwise governed by the terms of this License and distribute the Derivative Work as an
              integrated product. In each such instance, You must make sure the requirements of this License
              are fulfilled for the Covered Code or any portion thereof, including all Modifications.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>4.1</b>
@@ -298,6 +296,8 @@
              via automatic updating technology), such combination and/or integration constitutes a
              Derivative Work subject to the terms of this License.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>5.</b>
           <p>Exclusions From License Grant. Nothing in this License shall be deemed to grant any rights to
@@ -311,8 +311,6 @@
              Licensor which Licensor may grant in its sole discretion. No patent license is granted
              separate from the Original Code or combinations of the Original Code with other software or
              hardware.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>5.1.</b>
@@ -321,6 +319,8 @@
              to any Contributor. No Licensor Marks may be used to endorse or promote products derived from
              the Original Code other than as permitted by the Licensor Trademark Policy defined in Exhibit
              C.</p>
+        </li>
+        </list>
         </li>
         <li>
           <b>6.</b>
@@ -392,15 +392,11 @@
         <li>
           <b>11.</b>
           <p>Termination.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>11.1</b>
           <p>Term and Termination. The term of this License is perpetual unless terminated as provided below.
              This License and the rights granted hereunder will terminate:</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>(a)</b>
@@ -424,6 +420,8 @@
              itself (excluding combinations with other software or hardware) infringes any patent
              (including by cross-claim or counter claim in a lawsuit).</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>11.2</b>
           <p>Effect of Termination. Upon termination, You agree to immediately stop any further use,
@@ -437,11 +435,11 @@
              terms, and termination of this License will be without prejudice to any other right or remedy
              of any party.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>12.</b>
           <p>Miscellaneous.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>12.1</b>
@@ -509,13 +507,14 @@
           <p>Entire Agreement; Governing Law. This License constitutes the entire agreement between the
              parties with respect to the subject matter hereof. This License shall be governed by the laws
              of the United States and the State of Washington.</p>
-        </li>
-      </list>
+
       <p>Where You are located in the province of Quebec, Canada, the following clause applies: The parties hereby
          confirm that they have requested that this License and all related documents be drafted in English.
          Les parties ont exig� que le pr�sent contrat et tous les documents connexes soient r�dig�s en
          anglais.</p>
-    </body>
+        </li>
+      </list>
+      
     <optional>
       <p>EXHIBIT A.</p>
       <p>"Copyright (c) 1995-2002 RealNetworks, Inc. and/or its licensors. All Rights Reserved.</p>
