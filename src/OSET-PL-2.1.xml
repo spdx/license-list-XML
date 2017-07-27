@@ -1,7 +1,7 @@
 <SPDX name="OSET Public License version 2.1" identifier="OSET-PL-2.1" osi-approved="true">
   <urls>
     <url>http://opensource.org/licenses/OPL-2.1</url>
-    <url>http://www.osetfoundation.org/public-license/#</url>
+    <url>http://www.osetfoundation.org/public-license</url>
   </urls>
   <license>
     <title>
@@ -14,14 +14,14 @@
       <p>THIS LICENSE DEFINES THE RIGHTS OF USE, REPRODUCTION,
          DISTRIBUTION, MODIFICATION, AND REDISTRIBUTION OF CERTAIN
          COVERED SOFTWARE (AS DEFINED BELOW) ORIGINALLY RELEASED BY THE
-         OPEN SOURCE ELECTION TECHNOLOGY FOUNDATION (FORMERLY “THE OSDV
-         FOUNDATION”).  ANYONE WHO USES, REPRODUCES, DISTRIBUTES,
+         OPEN SOURCE ELECTION TECHNOLOGY FOUNDATION (FORMERLY "THE OSDV
+         FOUNDATION").  ANYONE WHO USES, REPRODUCES, DISTRIBUTES,
          MODIFIES, OR REDISTRIBUTES THE COVERED SOFTWARE, OR ANY PART
          THEREOF, IS BY THAT ACTION, ACCEPTING IN FULL THE TERMS
          CONTAINED IN THIS AGREEMENT. IF YOU DO NOT AGREE TO SUCH
          TERMS, YOU ARE NOT PERMITTED TO USE THE COVERED SOFTWARE.</p>
       <p>This license was prepared based on the Mozilla Public License
-         (“MPL”), version 2.0.  For annotation of the differences
+         ("MPL"), version 2.0.  For annotation of the differences
          between this license and MPL 2.0, please see the OSET
          Foundation web site at
          www.OSETFoundation.org/public-license.</p>
@@ -33,24 +33,24 @@
       <list>
         <li>
           <b>1.1</b>
-          <p>“Contributor” means each individual or legal entity that
+          <p>"Contributor" means each individual or legal entity that
              creates, contributes to the creation of, or owns
              Covered Software.</p>
         </li>
         <li>
           <b>1.2</b>
-          <p>“Contributor Version” means the combination of the
+          <p>"Contributor Version" means the combination of the
              Contributions of others (if any) used by a Contributor
-             and that particular Contributor’s Contribution.</p>
+             and that particular Contributor's Contribution.</p>
         </li>
         <li>
           <b>1.3</b>
-          <p>“Contribution” means Covered Software of a particular
+          <p>"Contribution" means Covered Software of a particular
              Contributor.</p>
         </li>
         <li>
           <b>1.4</b>
-          <p>“Covered Software” means Source Code Form to which the
+          <p>"Covered Software" means Source Code Form to which the
              initial Contributor has attached the notice in Exhibit
              A, the Executable Form of such Source Code Form, and
              Modifications of such Source Code Form, in each case
@@ -58,7 +58,7 @@
         </li>
         <li>
           <b>1.5</b>
-          <p>“Incompatible With Secondary Licenses” means:</p>
+          <p>"Incompatible With Secondary Licenses" means:</p>
           <list>
             <li>
                 <b>a.</b>That the initial Contributor has attached the
@@ -75,29 +75,29 @@
         </li>
         <li>
           <b>1.6</b>
-          <p>“Executable Form” means any form of the work other than
+          <p>"Executable Form" means any form of the work other than
              Source Code Form.</p>
         </li>
         <li>
           <b>1.7</b>
-          <p>“Larger Work” means a work that combines Covered Software
+          <p>"Larger Work" means a work that combines Covered Software
              with other material, in a separate file (or files)
              that is not Covered Software.</p>
         </li>
         <li>
           <b>1.8</b>
-          <p>“License” means this document.</p>
+          <p>"License" means this document.</p>
         </li>
         <li>
           <b>1.9</b>
-          <p>“Licensable” means having the right to grant, to the
+          <p>"Licensable" means having the right to grant, to the
              maximum extent possible, whether at the time of the
              initial grant or subsequently, any and all of the
              rights conveyed by this License.</p>
         </li>
         <li>
           <b>1.10</b>
-          <p>“Modifications” means any of the following:</p>
+          <p>"Modifications" means any of the following:</p>
             <list>
         <li>
             <b>a.</b>any file in Source Code Form that results from
@@ -112,7 +112,7 @@
         </li>
         <li>
           <b>1.11</b>
-          <p>“Patent Claims” of a Contributor means any patent
+          <p>"Patent Claims" of a Contributor means any patent
              claim(s), including without limitation, method,
              process, and apparatus claims, in any patent
              Licensable by such Contributor that would be
@@ -123,7 +123,7 @@
         </li>
         <li>
           <b>1.12</b>
-          <p>“Secondary License” means one of: the GNU General Public
+          <p>"Secondary License" means one of: the GNU General Public
              License, Version 2.0, the GNU Lesser General Public
              License, Version 2.1, the GNU Affero General Public
              License, Version 3.0, or any later versions of those
@@ -131,16 +131,16 @@
         </li>
         <li>
           <b>1.13</b>
-          <p>“Source Code Form” means the form of the work preferred
+          <p>"Source Code Form" means the form of the work preferred
              for making modifications.</p>
         </li>
         <li>
           <b>1.14</b>
-          <p>“You” (or “Your”) means an individual or a legal entity
+          <p>"You" (or "Your") means an individual or a legal entity
              exercising rights under this License. For legal
-             entities, “You” includes any entity that controls, is
+             entities, "You" includes any entity that controls, is
              controlled by, or is under common control with You.
-             For purposes of this definition, “control” means: </p>
+             For purposes of this definition, "control" means: </p>
              <list>
                  <li>
                      <b>(a)</b> the power, direct or indirect, to cause the direction
@@ -205,7 +205,7 @@
               </li>
               <li>
                 <b>b.</b>for infringements caused by: (i) Your and any
-                   other third party’s modifications of Covered
+                   other third party's modifications of Covered
                    Software, or (ii) the combination of its
                    Contributions with other software (except as part
                    of its Contributor Version); or
@@ -278,7 +278,7 @@
                the terms of this License, or sublicense it under
                different terms, provided that the license for the
                Executable Form does not attempt to limit or alter
-               the recipients’ rights in the Source Code Form
+               the recipients' rights in the Source Code Form
                under this License.
           </p>
         </li>
@@ -374,7 +374,7 @@
           <b>6.</b>
           <p>Disclaimer of Warranty
             <br/>Covered Software is provided under this License on
-                 an “as is” basis, without warranty of any
+                 an "as is" basis, without warranty of any
                  kind, either expressed, implied, or statutory,
                  including, without limitation, warranties that
                  the Covered Software is free of defects,
@@ -406,7 +406,7 @@
                  possibility of such damages. This limitation
                  of liability shall not apply to liability for
                  death or personal injury resulting from such
-                 party’s negligence to the extent applicable
+                 party's negligence to the extent applicable
                  law prohibits such limitation. Some
                  jurisdictions do not allow the exclusion or
                  limitation of incidental or consequential
@@ -424,7 +424,7 @@
                  governed by laws of that jurisdiction, without
                  reference to its conflict-of-law provisions.
                  Nothing in this Section shall prevent a
-                 party’s ability to bring cross-claims or
+                 party's ability to bring cross-claims or
                  counter-claims.
           </p>
         </li>
@@ -518,7 +518,7 @@
           </p>
         </li>
       </list>
-      <p>EXHIBIT A – Source Code Form License Notice</p>
+      <p>EXHIBIT A - Source Code Form License Notice</p>
       <p>This Source Code Form is subject to the terms of the OSET Public
          License, v.2.1
       <p>If it is not possible or desirable to put the Notice in a
@@ -526,8 +526,8 @@
          (e.g., such as a LICENSE file in a relevant directory) where a
          recipient would be likely to look for such a notice. You may
          add additional accurate notices of copyright ownership.</p>
-      <p>EXHIBIT B - “Incompatible With Secondary License” Notice</p>
-      <p>This Source Code Form is “Incompatible With Secondary Licenses”,
+      <p>EXHIBIT B - "Incompatible With Secondary License" Notice</p>
+      <p>This Source Code Form is "Incompatible With Secondary Licenses",
          as defined by the
 
   </license>
