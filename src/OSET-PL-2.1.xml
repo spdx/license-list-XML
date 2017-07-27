@@ -61,12 +61,12 @@
           <p>"Incompatible With Secondary Licenses" means:</p>
           <list>
             <li>
-                <b>a.</b>That the initial Contributor has attached the
+                <b>a.</b> That the initial Contributor has attached the
                notice described in Exhibit B to the Covered
                Software; or
             </li>
             <li>
-                 <b>b.</b>that the Covered Software was made available
+                 <b>b.</b> that the Covered Software was made available
                under the terms of version 1.x or earlier of the
                License, but not also under the terms of a
                Secondary License.
@@ -100,12 +100,12 @@
           <p>"Modifications" means any of the following:</p>
             <list>
         <li>
-            <b>a.</b>any file in Source Code Form that results from
+            <b>a.</b> any file in Source Code Form that results from
                an addition to, deletion from, or modification of
                the contents of Covered Software; or
         </li>
         <li>
-            <b>b.</b>any new file in Source Code Form that contains
+            <b>b.</b> any new file in Source Code Form that contains
                any Covered Software.
         </li>
         </list>
@@ -143,14 +143,16 @@
              For purposes of this definition, "control" means: </p>
              <list>
                  <li>
-                     <b>(a)</b> the power, direct or indirect, to cause the direction
+			 <b>(a)</b>
+			 <p>the power, direct or indirect, to cause the direction
                     or management of such entity, whether by contract or
-                    otherwise, or 
+		    otherwise, or </p>
                  </li>
                  <li>
-                    <b>(b)</b> ownership of more than fifty percent
+			 <b>(b)</b>
+			 <p>ownership of more than fifty percent
                     (50%) of the outstanding shares or beneficial
-                    ownership of such entity.
+		    ownership of such entity. </p>
                   </li>
              </list>
         </li>
@@ -161,29 +163,31 @@
       <p>License Grants and Conditions</p>
       <list>
         <li>
-            <b>2.1</b> Grants
+		<b>2.1</b> <p>Grants<br/>
+			Each Contributor hereby grants You a world-wide,
+		    royalty-free, non-exclusive license:</p>
             <list>
                 <li>
-                <b>a.</b> under intellectual property rights (other than
+			<b>a.</b> <p>under intellectual property rights (other than
                    patent or trademark) Licensable by such
                    Contributor to use, reproduce, make available,
                    modify, display, perform, distribute, and
                    otherwise exploit its Contributions, either on an
                    unmodified basis, with Modifications, or as part
-                   of a Larger Work; and
+		   of a Larger Work; and</p>
                 </li>
                 <li>
-                <b>b.</b>under Patent Claims of such Contributor to
+			<b>b.</b> <p>under Patent Claims of such Contributor to
                    make, use, sell, offer for sale, have made,
                    import, and otherwise transfer either its
-                   Contributions or its Contributor Version.
+		   Contributions or its Contributor Version.</p>
                 </li>
-            </list>    
+            </list>
         </li>
         <li>
           <b>2.2</b>
-          <p>Effective Date
-            <br/>The licenses granted in Section 2.1 with respect to
+          <p>Effective Date<br/>
+            The licenses granted in Section 2.1 with respect to
                  any Contribution become effective for each
                  Contribution on the date the Contributor first
                  distributes such Contribution.
@@ -191,8 +195,8 @@
         </li>
         <li>
           <b>2.3</b>
-          <p>Limitations on Grant Scope
-          <br/>The licenses granted in this Section 2 are the only
+          <p>Limitations on Grant Scope<br/>
+          The licenses granted in this Section 2 are the only
              rights granted under this License.  No additional
              rights or licenses will be implied from the
              distribution or licensing of Covered Software under
@@ -200,52 +204,45 @@
              patent license is granted by a Contributor:</p>
             <list>
               <li>       
-                <b>a.</b>for any code that a Contributor has removed
-                   from Covered Software; or
+		      <b>a.</b> <p>for any code that a Contributor has removed
+			      from Covered Software; or</p>
               </li>
               <li>
-                <b>b.</b>for infringements caused by: (i) Your and any
+		      <b>b.</b> <p>for infringements caused by: (i) Your and any
                    other third party's modifications of Covered
                    Software, or (ii) the combination of its
                    Contributions with other software (except as part
-                   of its Contributor Version); or
+		   of its Contributor Version); or</p>
               </li>
               <li>     
-                <b>c.</b>under Patent Claims infringed by Covered
-                   Software in the absence of its Contributions.
+		      <b>c.</b> <p>under Patent Claims infringed by Covered
+		Software in the absence of its Contributions.</p>
               </li>
             </list>  
         </li>
         <li>
-          <p>
-            <b>2.4</b> Subsequent Licenses
-            <br/>No Contributor makes additional grants as a result of 
+		  <b>2.4</b> <p>Subsequent Licenses<br/>
+            No Contributor makes additional grants as a result of 
             Your choice to distribute the Covered Software under a subsequent 
             version of this License (see Section 10.2) or under the terms of a 
-            Secondary License (if permitted under the terms of Section 3.3).
-          </p>
+            Secondary License (if permitted under the terms of Section 3.3).  </p>
         </li>
         <li>
-          <p>
-            <b>2.5</b> Representation
-            <br/>Each Contributor represents that the Contributor believes its 
+		<b>2.5</b> <p>Representation<br/>
+            Each Contributor represents that the Contributor believes its 
             Contributions are its original creation(s) or it has sufficient 
-            rights to grant the rights to its Contributions conveyed by this License.
-          </p>
+            rights to grant the rights to its Contributions conveyed by this License.  </p>
         </li>
         <li>
-          <p>
-            <b>2.6</b> Fair Use
-            <br/>This License is not intended to limit any rights You have under 
-            applicable copyright doctrines of fair use, fair dealing, or other equivalents.
-          </p>
+	  <b>2.6</b>
+	  <p> Fair Use <br/>
+		  This License is not intended to limit any rights You have under 
+            applicable copyright doctrines of fair use, fair dealing, or other equivalents.  </p>
         </li>
         <li>
-          <p>
-            <b>2.7</b> Conditions
-            <br/>Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses 
-            granted in Section 2.1.
-          </p>
+	  <b>2.7</b>
+	  <p> Conditions <br/>
+	  Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses granted in Section 2.1.  </p>
         </li>
       </list>
     </li>
@@ -254,48 +251,68 @@
       <p>Responsibilities</p>
       <list>
         <li>
-          <p>
-            <b>3.1</b> Distribution of Source Form
-          </p>
+		<b>3.1</b> <p>Distribution of Source Form <br/>
+			All distribution of Covered Software in Source Code Form,
+			including any Modifications that You create or to which You contribute,
+			must be under the terms of this License.
+			You must inform recipients that the Source Code Form of the Covered Software
+			is governed by the terms of this License, and how they can obtain a copy
+			of this License. You must cause any of Your Modifications to carry
+			prominent notices stating that You changed the files.
+			You may not attempt to alter or restrict the recipients' rights
+			in the Source Code Form.</p>
         </li>
         <li>
-          <p>
-            <b>3.2</b> Distribution of Executable Form
-          </p>
-        </li>
-      </list>
+		<b>3.2</b>  <p>Distribution of Executable Form <br/>
+			If You distribute Covered Software in Executable Form then: </p>
       <list>
         <li>
-          <p>
-            <b>a.</b>such Covered Software must also be made
+            <b>a.</b><p>such Covered Software must also be made
                available in Source Code Form, as described in
                Section 3.1, and You must inform recipients of the
                Executable Form how they can obtain a copy of such
                Source Code Form by reasonable means in a timely
                manner, at a charge no more than the cost of
-               distribution to the recipient; and
-            <b>b.</b>You may distribute such Executable Form under
+	       distribution to the recipient; and</p>
+       </li>
+       <li>
+            <b>b.</b><p>You may distribute such Executable Form under
                the terms of this License, or sublicense it under
                different terms, provided that the license for the
                Executable Form does not attempt to limit or alter
                the recipients' rights in the Source Code Form
-               under this License.
-          </p>
+	       under this License.</p>
+       </li>
+          </list>
         </li>
         <li>
-          <p>
-            <b>3.3</b> Distribution of a Larger Work
-          </p>
+		<b>3.3</b> <p>Distribution of a Larger Work<br/>
+			You may create and distribute a Larger Work under terms of Your choice,
+			provided that You also comply with the requirements of this License
+			for the Covered Software. If the Larger Work is a combination
+			of Covered Software with a work governed by one or more Secondary Licenses,
+			and the Covered Software is not Incompatible With Secondary Licenses,
+			this License permits You to additionally distribute
+			such Covered Software under the terms of such Secondary License(s),
+			so that the recipient of the Larger Work may, at their option,
+			further distribute the Covered Software under the terms
+			of either this License or such Secondary License(s).  </p>
         </li>
         <li>
-          <p>
-            <b>3.4</b> Notices
-          </p>
+            <b>3.4</b><p> Notices<br/>
+		    You may not remove or alter the substance of any license notices
+		    (including copyright notices, patent notices, disclaimers of warranty,
+		    or limitations of liability) contained within the Source Code Form
+		    of the Covered Software, except that You may alter
+		    any license notices to the extent required to remedy
+		    known factual inaccuracies.  </p>
         </li>
         <li>
           <b>3.5</b>
           <p>Application of Additional Terms</p>
-          <p>3.5.1 You may choose to offer, and to charge a fee for,
+	  <list>
+        <li>
+		  <b>3.5.1</b> <p>You may choose to offer, and to charge a fee for,
              warranty, support, indemnity or liability obligations
              to one or more recipients of Covered Software.
              However, You may do so only on Your own behalf, and
@@ -309,7 +326,9 @@
              include additional disclaimers of warranty and
              limitations of liability specific to any
              jurisdiction.</p>
-          <p>3.5.2 You may place additional conditions upon the rights
+        </li>
+        <li>
+     <b>3.5.2</b> <p>You may place additional conditions upon the rights
              granted in this License to the extent necessary due to
              statute, judicial order, regulation (including without
              limitation state and federal procurement regulation),
@@ -321,10 +340,14 @@
              or by any downstream recipients that receive the
              Covered Software from You.</p>
         </li>
+	</list>
+        </li>
+	</list>
+    </li>
         <li>
           <b>4.</b>
-          <p>Inability to Comply Due to Statute or Regulation
-            <br/>If it is impossible for You to comply with any of
+          <p>Inability to Comply Due to Statute or Regulation<br/>
+            If it is impossible for You to comply with any of
                  the terms of this License with respect to some
                  or all of the Covered Software due to statute,
                  judicial order, or regulation, then You must:
@@ -336,44 +359,80 @@
                  extent prohibited by statute or regulation,
                  such description must be sufficiently detailed
                  for a recipient of ordinary skill to be able
-                 to understand it.
-          </p>
+                 to understand it.  </p>
         </li>
         <li>
           <b>5.</b>
           <p>Termination</p>
-        </li>
-      </list>
       <list>
         <li>
-          <p>
-            <b>5.1</b> Failure to Comply
-          </p>
+		  <b>5.1</b> <p>Failure to Comply<br/>
+			  The rights granted under this License will terminate automatically
+			  if You fail to comply with any of its terms. However, if You become
+			  compliant, then the rights granted under this License from a particular
+			  Contributor are reinstated (a) provisionally, unless and until
+			  such Contributor explicitly and finally terminates Your grants,
+			  and (b) on an ongoing basis, if such Contributor fails to notify You
+			  of the non-compliance by some reasonable means prior to 60-days
+			  after You have come back into compliance. Moreover, Your grants
+			  from a particular Contributor are reinstated on an ongoing basis
+			  if such Contributor notifies You of the non-compliance
+			  by some reasonable means, this is the first time You have received notice
+			  of non-compliance with this License from such Contributor,
+			  and You become compliant prior to 30-days
+			  after Your receipt of the notice.  </p>
         </li>
         <li>
-          <p>
-            <b>5.2</b> Patent Infringement Claims
-          </p>
+		  <b>5.2</b> <p>Patent Infringement Claims<br/>
+			  If You initiate litigation against any entity by asserting
+			  a patent infringement claim (excluding declaratory judgment actions,
+			  counter-claims, and cross- claims) alleging that a Contributor Version
+			  directly or indirectly infringes any patent,
+			  then the rights granted to You by any and all Contributors
+			  for the Covered Software under Section 2.1 of this License
+			  shall terminate.  </p>
         </li>
         <li>
-          <p>
-            <b>5.3</b> Additional Compliance Terms
-          </p>
+		  <b>5.3</b> <p>Additional Compliance Terms<br/>
+			  Notwithstanding the foregoing in this Section 5,
+			  for purposes of this Section, if You breach
+			  Section 3.1 (Distribution of Source Form),
+			  Section 3.2 (Distribution of Executable Form),
+			  Section 3.3 (Distribution of a Larger Work), or
+			  Section 3.4 (Notices), then becoming compliant
+			  as described in Section 5.1 must also include,
+			  no later than 30 days after receipt by You of notice
+			  of such violation by a Contributor, making the Covered Software
+			  available in Source Code Form as required by this License
+			  on a publicly available computer network
+			  for a period of no less than three (3) years. </p>
         </li>
         <li>
-          <p>
-            <b>5.4</b> Contributor Remedies
-          </p>
+		  <b>5.4</b> <p>Contributor Remedies<br/>
+			  If You fail to comply with the terms of this License
+			  and do not thereafter become compliant in accordance
+			  with Section 5.1 and, if applicable, Section 5.3,
+			  then each Contributor reserves its right, in addition
+			  to any other rights it may have in law or in equity,
+			  to bring an action seeking injunctive relief, or damages
+			  for willful copyright or patent infringement
+			  (including without limitation damages for unjust enrichment,
+			  where available under law), for all actions in violation
+			  of rights that would otherwise have been granted
+			  under the terms of this License.  </p>
         </li>
         <li>
-          <p>
-            <b>5.5</b> End User License Agreements
-          </p>
+		<b>5.5</b> <p>End User License Agreements<br/>
+			In the event of termination under this Section 5,
+			all end user license agreements (excluding distributors and resellers),
+			which have been validly granted by You or Your distributors
+			under this License prior to termination shall survive termination.  </p>
+        </li>
+	</list>
         </li>
         <li>
-          <b>6.</b>
-          <p>Disclaimer of Warranty
-            <br/>Covered Software is provided under this License on
+		<b>6.</b> <p>Disclaimer of Warranty <br/>
+			Covered Software is provided under this License on
                  an "as is" basis, without warranty of any
                  kind, either expressed, implied, or statutory,
                  including, without limitation, warranties that
@@ -385,13 +444,13 @@
                  Software prove defective in any respect, You
                  (not any Contributor) assume the cost of any
                  necessary servicing, repair, or correction.
-                 This disclaimer of warranty constitutes an
-          </p>
+		 This disclaimer of warranty constitutes an essential part of this License.
+		 No use of any Covered Software is authorized under this License
+		 except under this disclaimer.  </p>
         </li>
         <li>
-          <b>7.</b>
-          <p>Limitation of Liability
-            <br/>Under no circumstances and under no legal theory,
+		<b>7.</b> <p>Limitation of Liability <br/>
+			Under no circumstances and under no legal theory,
                  whether tort (including negligence), contract,
                  or otherwise, shall any Contributor, or anyone
                  who distributes Covered Software as permitted
@@ -411,13 +470,11 @@
                  jurisdictions do not allow the exclusion or
                  limitation of incidental or consequential
                  damages, so this exclusion and limitation may
-                 not apply to You.
-          </p>
+                 not apply to You.  </p>
         </li>
         <li>
-          <b>8.</b>
-          <p>Litigation
-            <br/>Any litigation relating to this License may be
+		<b>8.</b> <p>Litigation <br/>
+			Any litigation relating to this License may be
                  brought only in the courts of a jurisdiction
                  where the defendant maintains its principal
                  place of business and such litigation shall be
@@ -425,29 +482,34 @@
                  reference to its conflict-of-law provisions.
                  Nothing in this Section shall prevent a
                  party's ability to bring cross-claims or
-                 counter-claims.
-          </p>
+                 counter-claims.  </p>
         </li>
         <li>
-          <b>9.</b>
-          <p>Government Terms</p>
-        </li>
-      </list>
+          <b>9.</b> <p>Government Terms</p>
       <list>
         <li>
-          <p>
-            <b>9.1</b> Commercial Item
-          </p>
+		<b>9.1</b> <p>Commercial Item<br/>
+			The Covered Software is a "commercial item," as that term is defined
+			in 48 C.F.R. 2.101 (Oct. 1995), consisting of "commercial computer software"
+			and "commercial computer software documentation,"
+			as such terms are used in 48 C.F.R. 12.212 (Sept. 1995).
+			Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1
+			through 227.7202-4 (June 1995),
+			all U.S. Government End Users acquire Covered Software
+			with only those rights set forth herein.  </p>
         </li>
         <li>
-          <p>
-            <b>9.2</b> No Sovereign Immunity
-          </p>
+		<b>9.2</b> <p>No Sovereign Immunity<br/>
+			The U.S. federal government and states that use
+			or distribute Covered Software hereby waive
+			their sovereign immunity with respect to enforcement
+			of the provisions of this License.  </p>
         </li>
         <li>
-          <b>9.3</b>
-          <p>Choice of Law and Venue</p>
-          <p>9.3.1 If You are a government of a state of the United
+          <b>9.3</b> <p>Choice of Law and Venue</p>
+	  <list>
+		  <li>
+			  <b>9.3.1</b> <p>If You are a government of a state of the United
              States, or Your use of the Covered Software is
              pursuant to a procurement contract with such a state
              government, this License shall be governed by the law
@@ -455,8 +517,10 @@
              provisions, and the adjudication of disputes relating
              to this License will be subject to the exclusive
              jurisdiction of the state and federal courts located
-             in such state.
-            <br/>9.3.2 If You are an agency of the United States
+	     in such state.</p>
+     </li>
+     <li>
+	     <b>9.3.2</b> <p>If You are an agency of the United States
                  federal government, or Your use of the Covered
                  Software is pursuant to a procurement contract
                  with such an agency, this License shall be
@@ -464,21 +528,28 @@
                  the adjudication of disputes relating to this
                  License will be subject to the exclusive
                  jurisdiction of the federal courts located in
-                 Washington,
-            <br/>9.3.3 You may alter the terms of this Section 9.3
+		 Washington, D.C.</p>
+	 </li>
+	 <li>
+		 <b>9.3.3</b> <p>You may alter the terms of this Section 9.3
                  for this License as described in Section
-                 3.5.2.
-          </p>
+		 3.5.2.</p>
+	 </li>
+	  </list>
         </li>
         <li>
-          <p>
-            <b>9.4</b> Supremacy
-          </p>
+		  <b>9.4</b> <p>Supremacy<br/>
+			  This Section 9 is in lieu of, and supersedes,
+			  any other Federal Acquisition Regulation,
+			  Defense Federal Acquisition Regulation,
+			  or other clause or provision that addresses government rights
+			  in computer software under this License.  </p>
+        </li>
+	</list>
         </li>
         <li>
-          <b>10.</b>
-          <p>Miscellaneous
-            <br/>This License represents the complete agreement
+		<b>10.</b> <p>Miscellaneous <br/>
+			This License represents the complete agreement
                  concerning the subject matter hereof. If any
                  provision of this License is held to be
                  unenforceable, such provision shall be
@@ -487,48 +558,67 @@
                  provides that the language of a contract shall
                  be construed against the drafter, shall not be
                  used to construe this License against a
-                 Contributor.
-          </p>
+                 Contributor.  </p>
         </li>
         <li>
-          <b>11.</b>
-          <p>Versions of the License</p>
-        </li>
-      </list>
+          <b>11.</b> <p>Versions of the License</p>
       <list>
         <li>
-          <p>
-            <b>11.1</b> New Versions
-          </p>
+		<b>11.1</b> <p>New Versions<br/>
+			The Open Source Election Technology Foundation ("OSET")
+			(formerly known as the Open Source Digital Voting Foundation)
+			is the steward of this License.
+			Except as provided in Section 11.3, no one other than the license steward
+			has the right to modify or publish new versions of this License.
+			Each version will be given a distinguishing version number.  </p>
         </li>
         <li>
-          <p>
-            <b>11.2</b> Effects of New Versions
-          </p>
+		<b>11.2</b> <p>Effects of New Versions<br/>
+			You may distribute the Covered Software under the terms of the version
+			of the License under which You originally received the Covered Software,
+			or under the terms of any subsequent version
+			published by the license steward.  </p>
         </li>
         <li>
-          <p>
-            <b>11.3</b> Modified Versions
-          </p>
+		<b>11.3</b> <p>Modified Versions<br/>
+			If You create software not governed by this License,
+			and You want to create a new license for such software,
+			You may create and use a modified version of this License
+			if You rename the license and remove any references
+			to the name of the license steward
+			(except to note that such modified license differs from this License).  </p>
         </li>
         <li>
-          <p>
-            <b>11.4</b> Distributing Source Code Form That is
-               Incompatible With Secondary Licenses
-          </p>
+		<b>11.4</b> <p>Distributing Source Code Form That is Incompatible
+			With Secondary Licenses<br/>
+			If You choose to distribute Source Code Form
+			that is Incompatible With Secondary Licenses under the terms
+			of this version of the License, the notice described
+			in Exhibit B of this License must be attached.  </p>
         </li>
       </list>
+
+	</li>
+      </list>
+      <list>
+	      <li>
       <p>EXHIBIT A - Source Code Form License Notice</p>
       <p>This Source Code Form is subject to the terms of the OSET Public
-         License, v.2.1
+	      License, v.2.1 ("OPL").
+	      If a copy of the OPL was not distributed with this file,
+	      You can obtain one at: www.OSETFoundation.org/public-license.</p>
       <p>If it is not possible or desirable to put the Notice in a
          particular file, then You may include the Notice in a location
          (e.g., such as a LICENSE file in a relevant directory) where a
          recipient would be likely to look for such a notice. You may
          add additional accurate notices of copyright ownership.</p>
+	      </li>
+	      <li>
       <p>EXHIBIT B - "Incompatible With Secondary License" Notice</p>
       <p>This Source Code Form is "Incompatible With Secondary Licenses",
-         as defined by the
+	      as defined by the OSET Public License, v.2.1.</p>
+	      </li>
+ </list>
 
   </license>
 </SPDX>
