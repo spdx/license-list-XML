@@ -345,12 +345,12 @@
                  party via the Electronic Distribution Mechanism (or any replacement Electronic
                  Distribution Mechanism the particular Distributor may reasonably need to turn to as a
                  substitute) for said at least thirty six (36) months.</p>
+            </li>
+          </list>
               <p>For greater certainty, the above-noted requirements apply to any Licensed Work or portion
                  thereof distributed to any third party in Executable form, whether such distribution is
                  made alone, in combination with a Larger Work or Independent Modules, or in some other
                  combination.</p>
-            </li>
-          </list>
         </li>
           <li>
           <b>3.3.</b>
@@ -830,7 +830,7 @@
       <p>PART 3: GOVERNING JURISDICTION</p>
       <p>For the purposes of this License, the Governing Jurisdiction is
          _________________________________________________. 
-        <br/>[Initial Contributor to Enter Governing Jurisdiction here] 
+	 <br/>[Initial Contributor to Enter Governing Jurisdiction here] </p>
         <p>PART 4: THIRD PARTIES</p>
         <p>For the purposes of this License, "Third Party" has the definition set forth below in the ONE
            paragraph selected by the Initial Contributor from paragraphs A, B, C, D and E when the Initial
