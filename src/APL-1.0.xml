@@ -806,64 +806,85 @@
     <optional>
       <p>//***THE LICENSE TERMS END HERE (OTHER THAN AS SET OUT IN EXHIBIT A).***//</p>
       <p>EXHIBIT A (to the Adaptive Public License)</p>
-      <p>PART 1: INITIAL CONTRIBUTOR AND DESIGNATED WEB SITE</p>
-      <p>The Initial Contributor is: 
-        <br/>____________________________________________________ 
-      </p>
-      <p>[Enter full name of Initial Contributor]</p>
-      <p>Address of Initial Contributor: 
-        <br/>________________________________________________ 
-      </p>
-      <p>________________________________________________</p>
-      <p>________________________________________________</p>
-      <p>[Enter address above]</p>
-      <p>The Designated Web Site is: 
-        <br/>__________________________________________________ 
-      </p>
-      <p>[Enter URL for Designated Web Site of Initial Contributor]</p>
+      <list>
+	  <li>
+	      <b>PART 1:</b> <p>INITIAL CONTRIBUTOR AND DESIGNATED WEB SITE</p>
+<p>The Initial Contributor is: <br/>
+________________________________________________ <br/>
+[Enter full name of Initial Contributor]<br/>
+</p>
+<p>
+Address of Initial Contributor: <br/>
+________________________________________________ <br/>
+________________________________________________ <br/>
+________________________________________________ <br/>
+[Enter address above]<br/>
+</p>
+<p>
+The Designated Web Site is: <br/>
+________________________________________________ <br/>
+[Enter URL for Designated Web Site of Initial Contributor]<br/>
+</p>
       <p>NOTE: The Initial Contributor is to complete this Part 1, along with Parts 2, 3, and 5, and, if
          applicable, Parts 4 and 6.</p>
-      <p>PART 2: INITIAL WORK</p>
+ </li>
+ <li>
+     <b>PART 2:</b> <p>INITIAL WORK</p>
       <p>The Initial Work comprises the computer program(s) distributed by the Initial Contributor having the
          following title(s): _______________________________________________.</p>
       <p>The date on which the Initial Work was first available under this License: _________________</p>
-      <p>PART 3: GOVERNING JURISDICTION</p>
-      <p>For the purposes of this License, the Governing Jurisdiction is
-         _________________________________________________. 
-	 <br/>[Initial Contributor to Enter Governing Jurisdiction here] </p>
-        <p>PART 4: THIRD PARTIES</p>
+ </li>
+ <li>
+     <b>PART 3:</b> <p>GOVERNING JURISDICTION</p>
+     <p>For the purposes of this License, the Governing Jurisdiction is
+	  _________________________________________________.
+	 [Initial Contributor to Enter Governing Jurisdiction here] </p>
+ </li>
+ <li>
+     <b>PART 4:</b> <p>THIRD PARTIES</p>
         <p>For the purposes of this License, "Third Party" has the definition set forth below in the ONE
            paragraph selected by the Initial Contributor from paragraphs A, B, C, D and E when the Initial
            Work is distributed or otherwise made available by the Initial Contributor. To select one of the
            following paragraphs, the Initial Contributor must place an "X" or "x" in the selection box
-           alongside the one respective paragraph selected. 
-          <br/>SELECTION 
-        </p>
-        <p>BOX PARAGRAPH 
-          <br/>[ ] A. "THIRD PARTY" means any third party. 
-        </p>
+	   alongside the one respective paragraph selected. </p>
+       <p>SELECTION </p>
+       <p>BOX PARAGRAPH </p>
+   <list>
+       <li>
+        <p>[ ] A. "THIRD PARTY" means any third party.  </p>
+       </li>
+       <li>
         <p>[ ] B. "THIRD PARTY" means any third party except for any of the following: (a) a wholly owned
            subsidiary of the Subsequent Contributor in question; (b) a legal entity (the "PARENT") that
            wholly owns the Subsequent Contributor in question; or (c) a wholly owned subsidiary of the wholly
            owned subsidiary in (a) or of the Parent in (b).</p>
+       </li>
+       <li>
         <p>[ ] C. "THIRD PARTY" means any third party except for any of the following: (a) any Person directly
            or indirectly owning a majority of the voting interest in the Subsequent Contributor or (b) any
            Person in which the Subsequent Contributor directly or indirectly owns a majority voting
            interest.</p>
+       </li>
+       <li>
         <p>[ ] D. "THIRD PARTY" means any third party except for any Person directly or indirectly controlled by
            the Subsequent Contributor. For purposes of this definition, "control" shall mean the power to
            direct or cause the direction of, the management and policies of such Person whether through the
            ownership of voting interests, by contract, or otherwise.</p>
+       </li>
+       <li>
         <p>[ ] E. "THIRD PARTY" means any third party except for any Person directly or indirectly controlling,
            controlled by, or under common control with the Subsequent Contributor. For purposes of this
            definition, "control" shall mean the power to direct or cause the direction of, the management and
            policies of such Person whether through the ownership of voting interests, by contract, or
-           otherwise. 
-          <br/>The default definition of "THIRD PARTY" is the definition set forth in paragraph A, if NONE OR
+           otherwise.  </p>
+       </li>
+   </list>
+          <p>The default definition of "THIRD PARTY" is the definition set forth in paragraph A, if NONE OR
                MORE THAN ONE of paragraphs A, B, C, D or E in this Part 4 are selected by the Initial
-               Contributor. 
-        </p>
-        <p>PART 5: NOTICE</p>
+               Contributor.  </p>
+ </li>
+ <li>
+     <b>PART 5:</b> <p>NOTICE</p>
         <p>THE LICENSED WORK IS PROVIDED UNDER THE TERMS OF THE ADAPTIVE PUBLIC LICENSE ("LICENSE") AS FIRST
            COMPLETED BY: ______________________ [Insert the name of the Initial Contributor here]. ANY USE,
            PUBLIC DISPLAY, PUBLIC PERFORMANCE, REPRODUCTION OR DISTRIBUTION OF, OR PREPARATION OF DERIVATIVE
@@ -877,13 +898,17 @@
         <p>Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY
            KIND, either express or implied. See the License for the specific language governing rights and
            limitations under the License.</p>
-        <p>PART 6: PATENT LICENSING TERMS</p>
+ </li>
+ <li>
+     <b>PART 6:</b> <p>PATENT LICENSING TERMS</p>
         <p>For the purposes of this License, paragraphs A, B, C, D and E of this Part 6 of Exhibit A are only
            incorporated and form part of the terms of the License if the Initial Contributor places an "X" or
            "x" in the selection box alongside the YES answer to the question immediately below.</p>
         <p>Is this a Patents-Included License pursuant to Section 2.2 of the License? 
-          <br/>YES [ ] 
-          <br/>NO [ ] 
+	    <list>
+		<li><p>YES [ ] </p></li>
+		<li><p>NO [ ] </p></li>
+	  </list>
         </p>
         <p>By default, if YES is not selected by the Initial Contributor, the answer is NO.</p>
         <list>
@@ -973,12 +998,16 @@
                notice has been given.</p>
           </li>
         </list>
-        <p>PART 7: SAMPLE REQUIREMENTS FOR THE DESCRIPTION OF DISTRIBUTED MODIFICATIONS</p>
+ </li>
+ <li>
+     <b>PART 7:</b> <p>SAMPLE REQUIREMENTS FOR THE DESCRIPTION OF DISTRIBUTED MODIFICATIONS</p>
         <p>Each Subsequent Contributor (including the Initial Contributor where the Initial Contributor
            qualifies as a Subsequent Contributor) is invited (but not required) to cause each Subsequent Work
            created or contributed to by that Subsequent Contributor to contain a file documenting the changes
-           such Subsequent Contributor made to create that Subsequent Work and the date of any change.
-           //***EXHIBIT A ENDS HERE.***//</p>
+	   such Subsequent Contributor made to create that Subsequent Work and the date of any change.</p>
+ </li>
+ </list>
+	 <p>//***EXHIBIT A ENDS HERE.***//</p>
       </optional>
     </license>
   </SPDX>
