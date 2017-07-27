@@ -104,7 +104,6 @@
         <li>
           <b>2.1.</b>
           <p>Legal effect of this document. This License is:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -119,10 +118,10 @@
             <p>An agreement in contract between You and the Licensor.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2.2</b>
           <p>Legal rights covered. This License covers the legal rights in the Database, including:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -149,10 +148,10 @@
                License.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2.3</b>
           <p>Rights not covered.</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -167,6 +166,7 @@
             <p>This License does not cover any trademarks associated with the Database.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>2.4</b>
           <p>Relationship to Contents in the Database. The individual items of the Contents contained in this
@@ -190,7 +190,6 @@
              the relevant jurisdiction, these rights may be exercised in all media and formats whether now
              known or created in the future.</p>
           <p>The rights granted cover, for example:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -216,10 +215,10 @@
                as a part of Collective Databases.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>3.2</b>
           <p>Compulsory license schemes. For the avoidance of doubt:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -243,6 +242,7 @@
                rights granted under this License.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>3.3</b>
           <p>The right to release the Database under different terms, or to stop distributing or making
@@ -264,7 +264,6 @@
           <b>4.2</b>
           <p>Notices. If You Publicly Convey this Database, any Derivative Database, or the Database as part
              of a Collective Database, then You must:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -287,6 +286,7 @@
                would be likely to look for it.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>4.3</b>
           <p>Notice for using output (Contents). Creating and Using a Produced Work does not require the
@@ -295,7 +295,6 @@
              accesses, interacts with, or is otherwise exposed to the Produced Work aware that Content was
              obtained from the Database, Derivative Database, or the Database as part of a Collective
              Database, and that it is available under this License.</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -310,7 +309,6 @@
           <li>
             <b>a.</b>
             <p>Any Derivative Database that You Publicly Use must be only under the terms of:</p>
-          </li>
           <list>
             <li>
               <b>i.</b>
@@ -327,6 +325,7 @@
                  must comply with the terms of that license.</p>
             </li>
           </list>
+          </li>
           <li>
             <b>b.</b>
             <p>For the avoidance of doubt, Extraction or Re-utilisation of the whole or a Substantial part
@@ -353,10 +352,10 @@
                license.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>4.5</b>
           <p>Limits of Share Alike. The requirements of Section 4.4 do not apply in the following:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -377,12 +376,12 @@
                therefore does not fall under the requirements of Section 4.4.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>4.6</b>
           <p>Access to Derivative Databases. If You Publicly Use a Derivative Database or a Produced Work from
              a Derivative Database, You must also offer to recipients of the Derivative Database or
              Produced Work a copy in a machine readable form of:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -398,10 +397,10 @@
                distributed over the internet.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>4.7</b>
           <p>Technological measures and additional terms</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -418,7 +417,6 @@
                "Restricted Database") in contravention of Section 4.74 a. only if You also make
                a copy of the Database or a Derivative Database available to the recipient of the
                Restricted Database:</p>
-          </li>
           <list>
             <li>
               <b>i.</b>
@@ -437,6 +435,7 @@
                  matter as the Restricted Database.</p>
             </li>
           </list>
+          </li>
           <li>
             <b>c.</b>
             <p>For the avoidance of doubt, You may place this Database or a Derivative Database in an
@@ -446,6 +445,7 @@
                those rights.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>4.8</b>
           <p>Licensing of others. You may not sublicense the Database. Each time You communicate the Database,
@@ -466,7 +466,6 @@
           <p>Moral rights. This section covers moral rights, including any rights to be identified as the
              author of the Database or to object to treatment that would otherwise prejudice the
              author's honour and reputation, or any other derogatory treatment:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -490,6 +489,7 @@
                rights may still subsist over the Database in some jurisdictions.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>6.0</b>
           <p>Fair dealing, Database exceptions, and other rights not affected</p>
@@ -498,7 +498,6 @@
           <b>6.1</b>
           <p>This License does not affect any rights that You or anyone else may independently have under any
              applicable law to make any use of this Database, including without limitation:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -513,6 +512,7 @@
                infringement of copyright or other applicable laws.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>6.2</b>
           <p>This License does not affect any rights of lawful users to Extract and Re-utilise insubstantial
@@ -582,7 +582,6 @@
           <b>9.4</b>
           <p>Reinstatement of rights. If you cease any breach of the terms and conditions of this License,
              then your full rights under this License will be reinstated:</p>
-        </li>
         <list>
           <li>
             <b>a.</b>
@@ -602,6 +601,7 @@
                receive a license under Section 4.8.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>9.5</b>
           <p>Notwithstanding the above, Licensor reserves the right to release the Database under different
