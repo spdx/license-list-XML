@@ -9,10 +9,8 @@
       <p>The FreeType Project LICENSE</p>
       <p>2006-Jan-27</p>
     </title>
-    <copyright>
-      <p>Copyright 1996-2002, 2006 by David Turner, Robert Wilhelm, and Werner Lemberg</p>
-    </copyright>
     <optional>
+      <p>Copyright 1996-2002, 2006 by David Turner, Robert Wilhelm, and Werner Lemberg</p>
       <p>Introduction</p>
       <p>The FreeType Project is distributed in several archive packages; some of them may contain, in addition to
          the FreeType font engine, various tools and contributions which rely on, or relate to, the FreeType
