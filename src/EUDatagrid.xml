@@ -26,14 +26,14 @@
         <li>
           <b>2.</b>
           <p>The user documentation, if any, included with a redistribution, must include the following notice: 
-            <br/>“"This product includes software developed by the EU DataGrid (http://www.eu-datagrid.org/)." 
+            <br/>"This product includes software developed by the EU DataGrid (http://www.eu-datagrid.org/)." 
           </p>
           <p>Alternatively, if that is where third-party acknowledgments normally appear, this acknowledgment
              must be reproduced in the software itself.</p>
         </li>
         <li>
           <b>3.</b>
-          <p>The names "EDG", "EDG Toolkit", “EU DataGrid” and "EU DataGrid Project" may not be used to
+          <p>The names "EDG", "EDG Toolkit", "EU DataGrid" and "EU DataGrid Project" may not be used to
              endorse or promote software, or products derived therefrom, except with prior written
              permission by hep-project-grid-edg-license@cern.ch.</p>
         </li>
