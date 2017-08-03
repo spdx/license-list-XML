@@ -14,145 +14,148 @@
           <b>1.</b>
           <p>Definitions.</p>
 
-      <list>
-        <li>
-          <b>1.1.</b>
-          <p>"Contributor" means each entity that creates or contributes to the creation of Modifications.</p>
+        <list>
+            <li>
+              <b>1.1.</b>
+              <p>"Contributor" means each entity that creates or contributes to the creation of Modifications.</p>
+            </li>
+            <li>
+              <b>1.2.</b>
+              <p>"Contributor Version" means the combination of the Original Code, prior Modifications used by a
+                 Contributor, and the Modifications made by that particular Contributor.</p>
+            </li>
+            <li>
+              <b>1.3.</b>
+              <p>"Electronic Distribution Mechanism" means a website or any other mechanism generally accepted in
+                 the software development community for the electronic transfer of data.</p>
+            </li>
+            <li>
+              <b>1.4.</b>
+              <p>"Executable Code" means Governed Code in any form other than Source Code.</p>
+            </li>
+            <li>
+              <b>1.5.</b>
+              <p>"Governed Code" means the Original Code or Modifications or the combination of the Original Code
+                 and Modifications, in each case including portions thereof.</p>
+            </li>
+            <li>
+              <b>1.6.</b>
+              <p>"Larger Work" means a work which combines Governed Code or portions thereof with code not
+                 governed by the terms of this License.</p>
+            </li>
+            <li>
+              <b>1.7.</b>
+              <p>"Licensable" means the right to grant, to the maximum extent possible, whether at the time of the
+                 initial grant or subsequently acquired, any and all of the rights conveyed herein.</p>
+            </li>
+            <li>
+              <b>1.8.</b>
+              <p>"License" means this document.</p>
+            </li>
+            <li>
+              <b>1.9.</b>
+              <p>"Modifications" means any addition to or deletion from the substance or structure of either the
+                 Original Code or any previous Modifications. When Governed Code is released as a series of
+                 files, a Modification is:</p>
+    
+          <list>
+            <li>
+              <b>(a)</b>
+              <p>Any addition to or deletion from the contents of a file containing Original Code or previous
+                 Modifications.</p>
+            </li>
+            <li>
+              <b>(b)</b>
+              <p>Any new file that contains any part of the Original Code or previous Modifications.</p>
+            </li>
+            </list>
+            </li>
+            <li>
+              <b>1.10.</b>
+              <p>"Original Code" means the "Platform for Information Applications" Source Code as released under
+                 this License by RSV.</p>
+            </li>
+            <li>
+              <b>1.11</b>
+              <p>"Patent Claims" means any patent claim(s), now owned or hereafter acquired, including without
+                 limitation, method, process, and apparatus claims, in any patent Licensable by the grantor of
+                 a license thereto.</p>
+            </li>
+            <li>
+              <b>1.12.</b>
+              <p>"RSV" means Ricoh Silicon Valley, Inc., a California corporation with offices at 2882 Sand Hill
+                 Road, Suite 115, Menlo Park, CA 94025-7022.</p>
+            </li>
+            <li>
+              <b>1.13.</b>
+              <p>"Source Code" means the preferred form of the Governed Code for making modifications to it,
+                 including all modules it contains, plus any associated interface definition files, scripts
+                 used to control compilation and installation of Executable Code, or a list of source code
+                 differential comparisons against either the Original Code or another well known, available
+                 Governed Code of the Contributor's choice. The Source Code can be in a compressed or archival
+                 form, provided the appropriate decompression or de-archiving software is widely available for
+                 no charge.</p>
+            </li>
+            <li>
+              <b>1.14.</b>
+              <p>"You" means an individual or a legal entity exercising rights under, and complying with all of
+                 the terms of, this License or a future version of this License issued under Section 6.1. For
+                 legal entities, "You" includes any entity which controls, is controlled by, or is under common
+                 control with You. For purposes of this definition, "control" means (a) the power, direct or
+                 indirect, to cause the direction or management of such entity, whether by contract or
+                 otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares or
+                 beneficial ownership of such entity.</p>
+            </li>
+            </list>
         </li>
+        
         <li>
-          <b>1.2.</b>
-          <p>"Contributor Version" means the combination of the Original Code, prior Modifications used by a
-             Contributor, and the Modifications made by that particular Contributor.</p>
-        </li>
-        <li>
-          <b>1.3.</b>
-          <p>"Electronic Distribution Mechanism" means a website or any other mechanism generally accepted in
-             the software development community for the electronic transfer of data.</p>
-        </li>
-        <li>
-          <b>1.4.</b>
-          <p>"Executable Code" means Governed Code in any form other than Source Code.</p>
-        </li>
-        <li>
-          <b>1.5.</b>
-          <p>"Governed Code" means the Original Code or Modifications or the combination of the Original Code
-             and Modifications, in each case including portions thereof.</p>
-        </li>
-        <li>
-          <b>1.6.</b>
-          <p>"Larger Work" means a work which combines Governed Code or portions thereof with code not
-             governed by the terms of this License.</p>
-        </li>
-        <li>
-          <b>1.7.</b>
-          <p>"Licensable" means the right to grant, to the maximum extent possible, whether at the time of the
-             initial grant or subsequently acquired, any and all of the rights conveyed herein.</p>
-        </li>
-        <li>
-          <b>1.8.</b>
-          <p>"License" means this document.</p>
-        </li>
-        <li>
-          <b>1.9.</b>
-          <p>"Modifications" means any addition to or deletion from the substance or structure of either the
-             Original Code or any previous Modifications. When Governed Code is released as a series of
-             files, a Modification is:</p>
-
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>Any addition to or deletion from the contents of a file containing Original Code or previous
-             Modifications.</p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>Any new file that contains any part of the Original Code or previous Modifications.</p>
-        </li>
-        </list>
-        </li>
-        <li>
-          <b>1.10.</b>
-          <p>"Original Code" means the "Platform for Information Applications" Source Code as released under
-             this License by RSV.</p>
-        </li>
-        <li>
-          <b>1.11</b>
-          <p>"Patent Claims" means any patent claim(s), now owned or hereafter acquired, including without
-             limitation, method, process, and apparatus claims, in any patent Licensable by the grantor of
-             a license thereto.</p>
-        </li>
-        <li>
-          <b>1.12.</b>
-          <p>"RSV" means Ricoh Silicon Valley, Inc., a California corporation with offices at 2882 Sand Hill
-             Road, Suite 115, Menlo Park, CA 94025-7022.</p>
-        </li>
-        <li>
-          <b>1.13.</b>
-          <p>"Source Code" means the preferred form of the Governed Code for making modifications to it,
-             including all modules it contains, plus any associated interface definition files, scripts
-             used to control compilation and installation of Executable Code, or a list of source code
-             differential comparisons against either the Original Code or another well known, available
-             Governed Code of the Contributor's choice. The Source Code can be in a compressed or archival
-             form, provided the appropriate decompression or de-archiving software is widely available for
-             no charge.</p>
-        </li>
-        <li>
-          <b>1.14.</b>
-          <p>"You" means an individual or a legal entity exercising rights under, and complying with all of
-             the terms of, this License or a future version of this License issued under Section 6.1. For
-             legal entities, "You" includes any entity which controls, is controlled by, or is under common
-             control with You. For purposes of this definition, "control" means (a) the power, direct or
-             indirect, to cause the direction or management of such entity, whether by contract or
-             otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares or
-             beneficial ownership of such entity.</p>
-        </li>
-        </list>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>Source Code License.</p>
-      <list>
-        <li>
-          <b>2.1.</b>
-          <p>Grant from RSV. RSV hereby grants You a worldwide, royalty-free, non-exclusive license, subject
-             to third party intellectual property claims:</p>
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>to use, reproduce, modify, create derivative works of, display, perform, sublicense and
-             distribute the Original Code (or portions thereof) with or without Modifications, or as part
-             of a Larger Work; and</p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>under Patent Claims infringed by the making, using or selling of Original Code, to make, have
-             made, use, practice, sell, and offer for sale, and/or otherwise dispose of the Original Code
-             (or portions thereof).</p>
-        </li>
-        </list>
-        </li>
-        <li>
-          <b>2.2.</b>
-          <p>Contributor Grant. Each Contributor hereby grants You a worldwide, royalty-free, non-exclusive
-             license, subject to third party intellectual property claims:</p>
-      <list>
-        <li>
-          <b>(a)</b>
-          <p>to use, reproduce, modify, create derivative works of, display, perform, sublicense and
-             distribute the Modifications created by such Contributor (or portions thereof) either on an
-             unmodified basis, with other Modifications, as Governed Code or as part of a Larger Work;
-             and</p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>under Patent Claims infringed by the making, using, or selling of Modifications made by that
-             Contributor either alone and/or in combination with its Contributor Version (or portions of
-             such combination), to make, use, sell, offer for sale, have made, and/or otherwise dispose of:
-             (i) Modifications made by that Contributor (or portions thereof); and (ii) the combination of
-             Modifications made by that Contributor with its Contributor Version (or portions of such
-             combination).</p>
-        </li>
-        </list>
+            <b>2.</b>
+            <p>Source Code License.</p>
+            <list>
+                <li>
+                    <b>2.1.</b>
+                    <p>Grant from RSV. RSV hereby grants You a worldwide, royalty-free, non-exclusive license, subject
+                     to third party intellectual property claims:</p>
+                    <list>
+                        <li>
+                            <b>(a)</b>
+                            <p>to use, reproduce, modify, create derivative works of, display, perform, sublicense and
+                             distribute the Original Code (or portions thereof) with or without Modifications, or as part
+                             of a Larger Work; and</p>
+                        </li>
+                        <li>
+                            <b>(b)</b>
+                            <p>under Patent Claims infringed by the making, using or selling of Original Code, to make, have
+                             made, use, practice, sell, and offer for sale, and/or otherwise dispose of the Original Code
+                             (or portions thereof).</p>
+                        </li>
+                    </list>
+                </li>
+                <li>
+                    <b>2.2.</b>
+                    <p>Contributor Grant. Each Contributor hereby grants You a worldwide, royalty-free, non-exclusive
+                     license, subject to third party intellectual property claims:</p>
+                    <list>
+                        <li>
+                            <b>(a)</b>
+                            <p>to use, reproduce, modify, create derivative works of, display, perform, sublicense and
+                             distribute the Modifications created by such Contributor (or portions thereof) either on an
+                             unmodified basis, with other Modifications, as Governed Code or as part of a Larger Work;
+                             and</p>
+                        </li>
+                        <li>
+                            <b>(b)</b>
+                            <p>under Patent Claims infringed by the making, using, or selling of Modifications made by that
+                             Contributor either alone and/or in combination with its Contributor Version (or portions of
+                             such combination), to make, use, sell, offer for sale, have made, and/or otherwise dispose of:
+                             (i) Modifications made by that Contributor (or portions thereof); and (ii) the combination of
+                             Modifications made by that Contributor with its Contributor Version (or portions of such
+                             combination).</p>
+                        </li>
+                    </list>
+                </li>
+            </list>
         </li>
         <li>
           <b>3.</b>
@@ -457,6 +460,7 @@
          responsibility on an equitable basis.</p>
        </li>
       </list>
+      
     <optional>
       <p>EXHIBIT A</p>
       <p>"The contents of this file are subject to the Ricoh Source Code Public License Version 1.0 (the
