@@ -8,13 +8,12 @@
         <br/>Version 1.0 
       </p>
     </title>
-    <body>
+
       <list>
         <li>
           <b>1.</b>
           <p>Definitions.</p>
-        </li>
-      </list>
+
       <list>
         <li>
           <b>1.1.</b>
@@ -58,8 +57,7 @@
           <p>"Modifications" means any addition to or deletion from the substance or structure of either the
              Original Code or any previous Modifications. When Governed Code is released as a series of
              files, a Modification is:</p>
-        </li>
-      </list>
+
       <list>
         <li>
           <b>(a)</b>
@@ -69,6 +67,8 @@
         <li>
           <b>(b)</b>
           <p>Any new file that contains any part of the Original Code or previous Modifications.</p>
+        </li>
+        </list>
         </li>
         <li>
           <b>1.10.</b>
@@ -106,18 +106,16 @@
              otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares or
              beneficial ownership of such entity.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>2.</b>
           <p>Source Code License.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>2.1.</b>
           <p>Grant from RSV. RSV hereby grants You a worldwide, royalty-free, non-exclusive license, subject
              to third party intellectual property claims:</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>(a)</b>
@@ -131,12 +129,12 @@
              made, use, practice, sell, and offer for sale, and/or otherwise dispose of the Original Code
              (or portions thereof).</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>2.2.</b>
           <p>Contributor Grant. Each Contributor hereby grants You a worldwide, royalty-free, non-exclusive
              license, subject to third party intellectual property claims:</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>(a)</b>
@@ -154,11 +152,12 @@
              Modifications made by that Contributor with its Contributor Version (or portions of such
              combination).</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>3.</b>
           <p>Distribution Obligations.</p>
-        </li>
-      </list>
+
       <list>
         <li>
           <b>3.1.</b>
@@ -195,7 +194,10 @@
         <li>
           <b>3.4.</b>
           <p>Intellectual Property Matters.</p>
-          <p>3.4.1. Third Party Claims. If You have knowledge that a party claims an intellectual property
+        <list>
+          <li>
+          <b>3.4.1.</b> 
+          <p>Third Party Claims. If You have knowledge that a party claims an intellectual property
              right in particular functionality or code (or its utilization under this License), you must
              include a text file with the source code distribution titled "LEGAL" which describes the claim
              and the party making the claim in sufficient detail that a recipient will know whom to
@@ -209,9 +211,13 @@
              intellectual property claims) relating to your Modifications. You represent that the LEGAL
              file includes complete details of any license or other restriction associated with any part of
              your Modifications.</p>
-          <p>3.4.2. Contributor APIs. If Your Modification is an application programming interface and You own
+             </li>
+          <li><b>3.4.2.</b> 
+          <p>Contributor APIs. If Your Modification is an application programming interface and You own
              or control patents which are reasonably necessary to implement that API, you must also include
              this information in the LEGAL file.</p>
+        </li>
+        </list>
         </li>
         <li>
           <b>3.5.</b>
@@ -254,6 +260,8 @@
              such a case, You must make sure the requirements of this License are fulfilled for the
              Governed Code.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>4.</b>
           <p>Inability to Comply Due to Statute or Regulation. 
@@ -270,8 +278,7 @@
         <li>
           <b>5.</b>
           <p>Trademark Usage.</p>
-        </li>
-      </list>
+
       <list>
         <li>
           <b>5.1.</b>
@@ -289,11 +296,12 @@
           <p>Product Names. Contributor Versions and Larger Works may not be called "Ricoh" nor may the word
              "Ricoh" appear in their names without the prior written permission of RSV.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>6.</b>
           <p>Versions of the License.</p>
-        </li>
-      </list>
+
       <list>
         <li>
           <b>6.1.</b>
@@ -307,6 +315,8 @@
              choose to use such Governed Code under the terms of any subsequent version of the License
              published by RSV. No one other than RSV has the right to modify the terms applicable to
              Governed Code created under this License.</p>
+        </li>
+        </list>
         </li>
         <li>
           <b>7.</b>
@@ -324,8 +334,7 @@
         <li>
           <b>8.</b>
           <p>Termination.</p>
-        </li>
-      </list>
+
       <list>
         <li>
           <b>8.1.</b>
@@ -340,8 +349,7 @@
           <p>If You initiate patent infringement litigation against RSV or a Contributor (RSV or the
              Contributor against whom You file such action is referred to as "Participant") alleging
              that:</p>
-        </li>
-      </list>
+
       <list>
         <li>
           <b>(a)</b>
@@ -365,6 +373,8 @@
              are revoked effective as of the date You first made, used, sold, distributed, or had made,
              Original Code or the Modifications made by that Participant.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>8.3.</b>
           <p>If You assert a patent infringement claim against Participant alleging that such Participant's
@@ -379,6 +389,8 @@
           <p>In the event of termination under Sections 8.1 or 8.2 above, all end user license agreements
              (excluding distributors and resellers) which have been validly granted by You or any
              distributor hereunder prior to termination shall survive termination.</p>
+        </li>
+        </list>
         </li>
         <li>
           <b>9.</b>
@@ -437,14 +449,14 @@
         <li>
           <b>12.</b>
           <p>Responsibility for Claims.</p>
-        </li>
-      </list>
+ 
       <p>Except in cases where another Contributor has failed to comply with Section 3.4, You are responsible for
          damages arising, directly or indirectly, out of Your utilization of rights under this License, based
          on the number of copies of Governed Code you made available, the revenues you received from utilizing
          such rights, and other relevant factors. You agree to work with affected parties to distribute
          responsibility on an equitable basis.</p>
-    </body>
+       </li>
+      </list>
     <optional>
       <p>EXHIBIT A</p>
       <p>"The contents of this file are subject to the Ricoh Source Code Public License Version 1.0 (the
