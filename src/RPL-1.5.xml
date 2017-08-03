@@ -11,7 +11,7 @@
     <copyright>
       <p>Copyright (C) 2001-2007 Technical Pursuit Inc., All Rights Reserved.</p>
     </copyright>
-    <optional>
+
       <p>PREAMBLE</p>
       <p>The Reciprocal Public License (RPL) is based on the concept of reciprocity or, if you prefer, fairness.</p>
       <p>In short, this license grew out of a desire to close loopholes in previous open source licenses,
@@ -35,8 +35,7 @@
          as maintained by the Open Source Initiative (OSI).</p>
       <p>The specific terms and conditions of the license are defined in the remainder of this document.</p>
       <p>LICENSE TERMS</p>
-    </optional>
-    <body>
+
       <list>
         <li>
           <b>1.0</b>
@@ -46,8 +45,6 @@
              copyright holder ("Licensor") makes available containing a License Notice (hereinafter
              defined) from the Licensor specifying or allowing use or distribution under the terms of this
              License. As used in this License:</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>1.1</b>
@@ -152,6 +149,8 @@
              ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of
              such entity.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>2.0</b>
           <p>Acceptance Of License. You are not required to accept this License since you have not signed it,
@@ -170,8 +169,6 @@
              hereby grants You a world-wide, royalty-free, non- exclusive license, subject to Licensor's
              intellectual property rights, and any third party intellectual property claims derived from
              the Licensed Software under this License, to do the following:</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>3.1</b>
@@ -197,14 +194,14 @@
              characteristics. Title, ownership rights, and intellectual property rights in and to the
              Licensed Software shall remain in Licensor and/or its Contributors.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>4.0</b>
           <p>Grant of License From Contributor. By application of the provisions in Section 6 below, each
              Contributor hereby grants You a world-wide, royalty- free, non-exclusive license, subject to
              said Contributor's intellectual property rights, and any third party intellectual property
              claims derived from the Licensed Software under this License, to do the following:</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>4.1</b>
@@ -219,6 +216,8 @@
              that any such claim is necessary to enable You to make, use, have made, and/or otherwise
              dispose of Licensed Software or portions thereof.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>5.0</b>
           <p>Exclusions From License Grant. Nothing in this License shall be deemed to grant any rights to
@@ -230,8 +229,6 @@
              such marks are included in the Licensed Software. Nothing in this License shall be interpreted
              to prohibit Licensor from licensing under different terms from this License any code that
              Licensor otherwise would have a right to license.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>5.1</b>
@@ -245,6 +242,8 @@
              other intellectual property rights needed, if any. For example, if a third party patent
              license is required to allow You to distribute the Licensed Software, it is Your
              responsibility to acquire that license before distributing the Licensed Software.</p>
+        </li>
+        </list>
         </li>
         <li>
           <b>6.0</b>
@@ -263,8 +262,6 @@
              not to offer or impose any terms on any Source Code or executable version of the Licensed
              Software, or its Extensions that alter or restrict the applicable version of this License or
              the recipients' rights hereunder.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>6.1</b>
@@ -292,73 +289,74 @@
         <li>
           <b>6.3</b>
           <p>Intellectual Property Matters.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>Third Party Claims. If You have knowledge that a license to a third party's intellectual property
-             right is required to exercise the rights granted by this License, You must include a
-             human-readable file with Your distribution that describes the claim and the party making the
-             claim in sufficient detail that a recipient will know whom to contact.</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>Contributor APIs. If Your Extensions include an application programming interface ("API") and You
-             have knowledge of patent licenses that are reasonably necessary to implement that API, You
-             must also include this information in a human-readable file supplied with Your
-             distribution.</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>Representations. You represent that, except as disclosed pursuant to 6.3(a) above, You believe
-             that any Extensions You distribute are Your original creations and that You have sufficient
-             rights to grant the rights conveyed by this License.</p>
+          <list>
+            <li>
+              <b>a.</b>
+              <p>Third Party Claims. If You have knowledge that a license to a third party's intellectual property
+                 right is required to exercise the rights granted by this License, You must include a
+                 human-readable file with Your distribution that describes the claim and the party making the
+                 claim in sufficient detail that a recipient will know whom to contact.</p>
+            </li>
+            <li>
+              <b>b.</b>
+              <p>Contributor APIs. If Your Extensions include an application programming interface ("API") and You
+                 have knowledge of patent licenses that are reasonably necessary to implement that API, You
+                 must also include this information in a human-readable file supplied with Your
+                 distribution.</p>
+            </li>
+            <li>
+              <b>c.</b>
+              <p>Representations. You represent that, except as disclosed pursuant to 6.3(a) above, You believe
+                 that any Extensions You distribute are Your original creations and that You have sufficient
+                 rights to grant the rights conveyed by this License.</p>
+            </li>
+            </list>
         </li>
         <li>
           <b>6.4</b>
           <p>Required Notices.</p>
-        </li>
-      </list>
-      <list>
-        <li>
-          <b>a.</b>
-          <p>License Text. You must duplicate this License or instructions on how to acquire a copy in any
-             documentation You provide along with the Source Code of any Extensions You create or to which
-             You contribute, wherever You describe recipients' rights relating to Licensed Software.</p>
-        </li>
-        <li>
-          <b>b.</b>
-          <p>License Notice. You must duplicate any notice contained in EXHIBIT A (the "License Notice") in
-             each file of the Source Code of any copy You distribute of the Licensed Software and Your
-             Extensions. If You create an Extension, You may add Your name as a Contributor to the Source
-             Code and accompanying documentation along with a description of the contribution. If it is not
-             possible to put the License Notice in a particular Source Code file due to its structure, then
-             You must include such License Notice in a location where a user would be likely to look for
-             such a notice.</p>
-        </li>
-        <li>
-          <b>c.</b>
-          <p>Source Code Availability. You must notify the software community of the availability of Source
-             Code to Your Extensions within one (1) month of the date You initially Deploy and include in
-             such notification a description of the Extensions, and instructions on how to acquire the
-             Source Code. Should such instructions change you must notify the software community of revised
-             instructions within one (1) month of the date of change. You must provide notification by
-             posting to appropriate news groups, mailing lists, weblogs, or other sites where a publicly
-             accessible search engine would reasonably be expected to index your post in relationship to
-             queries regarding the Licensed Software and/or Your Extensions.</p>
-        </li>
-        <li>
-          <b>d.</b>
-          <p>User-Visible Attribution. You must duplicate any notice contained in EXHIBIT B (the "User-Visible
-             Attribution Notice") in each user-visible display of the Licensed Software and Your Extensions
-             which delineates copyright, ownership, or similar attribution information. If You create an
-             Extension, You may add Your name as a Contributor, and add Your attribution notice, as an
-             equally visible and functional element of any User-Visible Attribution Notice content. To
-             ensure proper attribution, You must also include such User-Visible Attribution Notice in at
-             least one location in the Software documentation where a user would be likely to look for such
-             notice.</p>
-        </li>
+
+          <list>
+            <li>
+              <b>a.</b>
+              <p>License Text. You must duplicate this License or instructions on how to acquire a copy in any
+                 documentation You provide along with the Source Code of any Extensions You create or to which
+                 You contribute, wherever You describe recipients' rights relating to Licensed Software.</p>
+            </li>
+            <li>
+              <b>b.</b>
+              <p>License Notice. You must duplicate any notice contained in EXHIBIT A (the "License Notice") in
+                 each file of the Source Code of any copy You distribute of the Licensed Software and Your
+                 Extensions. If You create an Extension, You may add Your name as a Contributor to the Source
+                 Code and accompanying documentation along with a description of the contribution. If it is not
+                 possible to put the License Notice in a particular Source Code file due to its structure, then
+                 You must include such License Notice in a location where a user would be likely to look for
+                 such a notice.</p>
+            </li>
+            <li>
+              <b>c.</b>
+              <p>Source Code Availability. You must notify the software community of the availability of Source
+                 Code to Your Extensions within one (1) month of the date You initially Deploy and include in
+                 such notification a description of the Extensions, and instructions on how to acquire the
+                 Source Code. Should such instructions change you must notify the software community of revised
+                 instructions within one (1) month of the date of change. You must provide notification by
+                 posting to appropriate news groups, mailing lists, weblogs, or other sites where a publicly
+                 accessible search engine would reasonably be expected to index your post in relationship to
+                 queries regarding the Licensed Software and/or Your Extensions.</p>
+            </li>
+            <li>
+              <b>d.</b>
+              <p>User-Visible Attribution. You must duplicate any notice contained in EXHIBIT B (the "User-Visible
+                 Attribution Notice") in each user-visible display of the Licensed Software and Your Extensions
+                 which delineates copyright, ownership, or similar attribution information. If You create an
+                 Extension, You may add Your name as a Contributor, and add Your attribution notice, as an
+                 equally visible and functional element of any User-Visible Attribution Notice content. To
+                 ensure proper attribution, You must also include such User-Visible Attribution Notice in at
+                 least one location in the Software documentation where a user would be likely to look for such
+                 notice.</p>
+            </li>
+            </list>
+        </li>    
         <li>
           <b>6.5</b>
           <p>Additional Terms. You may choose to offer, and charge a fee for, warranty, support, indemnity or
@@ -381,6 +379,8 @@
              conflict in a fashion that remains consistent with the intent of this License. Such permission
              will be granted at the sole discretion of the Licensor.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>7.0</b>
           <p>Versions of This License. Licensor may publish from time to time revised versions of the License.
@@ -389,8 +389,7 @@
              Licensed Software under the terms of any subsequent version of the License published by
              Licensor. No one other than Licensor has the right to modify the terms applicable to Licensed
              Software created under this License.</p>
-        </li>
-      </list>
+
       <list>
         <li>
           <b>7.1</b>
@@ -403,6 +402,8 @@
              Venue for disputes, b) EXHIBIT A solely to define License Notice text, or c) to EXHIBIT B
              solely to define a User-Visible Attribution Notice, You may continue to refer to Your License
              as the Reciprocal Public License or simply the RPL.</p>
+        </li>
+        </list>
         </li>
         <li>
           <b>8.0</b>
@@ -468,8 +469,6 @@
              restricts You from fully and or specifically complying with Sections 3, 4 and/or 6, or
              prevents the enforceability of any of those Sections, and You must immediately discontinue any
              use of Licensed Software.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>12.1</b>
@@ -511,11 +510,11 @@
              granted by You or any distributor hereunder prior to termination shall survive
              termination.</p>
         </li>
+        </list>
+        </li>
         <li>
           <b>13.0</b>
           <p>Miscellaneous.</p>
-        </li>
-      </list>
       <list>
         <li>
           <b>13.1</b>
@@ -590,8 +589,10 @@
           <p>Entire Agreement. This License constitutes the entire agreement between the parties with respect
              to the subject matter hereof.</p>
         </li>
+        </list>
+        </li>
       </list>
-    </body>
+
     <optional>
       <p>EXHIBIT A</p>
       <p>The License Notice below must appear in each file of the Source Code of any copy You distribute of the
