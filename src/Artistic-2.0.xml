@@ -8,10 +8,9 @@
     <title>
       <p>The Artistic License 2.0</p>
     </title>
-    <copyright>
-      <p>Copyright (c) 2000-2006, The Perl Foundation.</p>
-    </copyright>
     <optional>
+      <p>Copyright (c) 2000-2006, The Perl Foundation.</p>
+
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>
       <p>Preamble</p>
