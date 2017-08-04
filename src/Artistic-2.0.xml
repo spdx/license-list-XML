@@ -8,7 +8,6 @@
     <title>
       <p>The Artistic License 2.0</p>
     </title>
-    <optional>
       <p>Copyright (c) 2000-2006, The Perl Foundation.</p>
 
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
@@ -22,7 +21,6 @@
          Holder of a given Package. If the terms of this license do not permit the full use that you propose to
          make of the Package, you should contact the Copyright Holder and seek a different licensing
          arrangement.</p>
-    </optional>
     <body>
       <p>Definitions</p>
       <list>
