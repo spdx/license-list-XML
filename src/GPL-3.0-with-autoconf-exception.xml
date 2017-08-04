@@ -1,5 +1,7 @@
 <SPDX name="GNU General Public License v3.0 w/Autoconf exception" identifier="GPL-3.0-with-autoconf-exception" deprecated="true">
-http://www.gnu.org/licenses/autoconf-exception-3.0.html
+  <urls>
+    <url>http://www.gnu.org/licenses/autoconf-exception-3.0.html</url>
+  </urls>
   <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
   <license>
     <body> 
