@@ -40,30 +40,56 @@
     <list>
         <li>
             <p>§ 0 Definitionen</p>
-            <p>Dokumentation: Die Beschreibung des Aufbaus und/oder der Struktur der Programmierung und/oder der
-             Funktionalitäten des Programms, unabhängig davon, ob sie im Source Code oder gesondert vorgenommen
-             wird.</p>
-            <p>Lizenz: Die zwischen dem Lizenzgeber und Ihnen geschlossene Vereinbarung mit dem Inhalt der "Deutschen
-             Freien Software Lizenz" bzw. das Angebot hierzu.</p>
-            <p>Lizenznehmer: Jede natürliche oder juristische Person, die die Lizenz angenommen hat.</p>
-            <p>Programm: Jedes Computerprogramm, das von den Rechtsinhabern nach den Bestimmungen dieser Lizenz
-             verbreitet oder öffentlich zugänglich gemacht worden ist.</p>
-            <p>Object Code: Die maschinenlesbare, übersetzte Form des Programms.</p>
-            <p>Öffentlich: Nicht nur an einen bestimmten Personenkreis gerichtet, der persönlich oder durch die
-             Zugehörigkeit zu einer juristischen Person oder einem öffentlichen Träger miteinander verbunden
-             ist.</p>
-            <p>Öffentlich zugänglich machen: Die öffentliche Weitergabe des Programms in unkörperlicher Form,
-             insbesondere das Bereithalten zum Download in Datennetzen.</p>
-            <p>Rechtsinhaber: Der bzw. die Urheber oder sonstigen Inhaber der ausschließlichen Nutzungsrechte an dem
-             Programm.</p>
-            <p>Source Code: Die für Menschen lesbare, in Programmiersprache dargestellte Form des Programms.</p>
-            <p>Verändern: Jede Erweiterung, Kürzung und Bearbeitung des Programms, insbesondere Weiterentwicklungen.</p>
-            <p>Verbreiten: Die öffentliche Weitergabe körperlicher Vervielfältigungsstücke, insbesondere auf
-             Datenträgern oder in Verbindung mit Hardware.</p>
-            <p>Vollständiger Source Code: Der Source Code in der für die Erstellung bzw. die Bearbeitung benutzten Form
-             zusammen mit den zur Übersetzung und Installation erforderlichen Konfigurationsdateien und
-             Software-Werkzeugen, sofern diese in der benötigten Form nicht allgemein gebräuchlich (z.B.
-             Standard-Kompiler) oder für jedermann lizenzgebührenfrei im Internet abrufbar sind.</p>
+            <list>
+                <li>
+                    <p>Dokumentation: Die Beschreibung des Aufbaus und/oder der Struktur der Programmierung und/oder der
+                     Funktionalitäten des Programms, unabhängig davon, ob sie im Source Code oder gesondert vorgenommen
+                     wird.</p>
+                </li>
+                <li>
+                    <p>Lizenz: Die zwischen dem Lizenzgeber und Ihnen geschlossene Vereinbarung mit dem Inhalt der "Deutschen
+                     Freien Software Lizenz" bzw. das Angebot hierzu.</p>
+                </li>
+                <li>
+                    <p>Lizenznehmer: Jede natürliche oder juristische Person, die die Lizenz angenommen hat.</p>
+                </li>
+                <li>
+                    <p>Programm: Jedes Computerprogramm, das von den Rechtsinhabern nach den Bestimmungen dieser Lizenz
+                     verbreitet oder öffentlich zugänglich gemacht worden ist.</p>
+                </li>
+                <li>
+                    <p>Object Code: Die maschinenlesbare, übersetzte Form des Programms.</p>
+                </li>
+                <li>
+                    <p>Öffentlich: Nicht nur an einen bestimmten Personenkreis gerichtet, der persönlich oder durch die
+                     Zugehörigkeit zu einer juristischen Person oder einem öffentlichen Träger miteinander verbunden
+                     ist.</p>
+                </li>
+                <li>
+                    <p>Öffentlich zugänglich machen: Die öffentliche Weitergabe des Programms in unkörperlicher Form,
+                     insbesondere das Bereithalten zum Download in Datennetzen.</p>
+                </li>
+                <li>
+                    <p>Rechtsinhaber: Der bzw. die Urheber oder sonstigen Inhaber der ausschließlichen Nutzungsrechte an dem
+                     Programm.</p>
+                </li>
+                <li>
+                    <p>Source Code: Die für Menschen lesbare, in Programmiersprache dargestellte Form des Programms.</p>
+                </li>
+                <li>
+                    <p>Verändern: Jede Erweiterung, Kürzung und Bearbeitung des Programms, insbesondere Weiterentwicklungen.</p>
+                </li>
+                <li>
+                    <p>Verbreiten: Die öffentliche Weitergabe körperlicher Vervielfältigungsstücke, insbesondere auf
+                     Datenträgern oder in Verbindung mit Hardware.</p>
+                </li>
+                <li>
+                    <p>Vollständiger Source Code: Der Source Code in der für die Erstellung bzw. die Bearbeitung benutzten Form
+                     zusammen mit den zur Übersetzung und Installation erforderlichen Konfigurationsdateien und
+                     Software-Werkzeugen, sofern diese in der benötigten Form nicht allgemein gebräuchlich (z.B.
+                     Standard-Kompiler) oder für jedermann lizenzgebührenfrei im Internet abrufbar sind.</p>
+                </li>
+            </list>
         </li>
         <li>
             <p>§ 1 Rechte</p>
@@ -144,114 +170,160 @@
             </list>
         </li>
         <li>
+            <p>§ 3 Weitere Pflichten beim Vertrieb veränderter Versionen</p>
+            <list>
+                <li>
+                    <b>(1)</b>
+                    <p>Veränderte Versionen des Programms dürfen Sie nur unter den Bedingungen dieser Lizenz verbreiten
+                     oder öffentlich zugänglich machen, so dass Dritte das veränderte Programm insgesamt unter
+                     dieser Lizenz nutzen können.</p>
+                </li>
+                <li>
+                    <b>(2)</b>
+                    <p>Wird das Programm oder ein Teil hiervon mit einem anderen Programm kombiniert, gilt auch die
+                     Kombination insgesamt als eine veränderte Version des Programms, es sei denn, das andere
+                     Programm ist formal und inhaltlich eigenständig. Ein anderes Programm ist dann als
+                     eigenständig anzusehen, wenn es die folgenden Voraussetzungen alle erfüllt:</p>
+                     <list>
+                        <li>
+                            <b>1.</b>
+                            <p>Der Source Code der kombinierten Programme muss jeweils in eigenen Dateien vorhanden sein, die
+                             keine Bestandteile des anderen Teils enthalten, die über die zur Programmkombination üblichen
+                             und erforderlichen Informationen über den anderen Teil hinausgehen, wobei der Source Code des
+                             anderen Programms nicht mitgeliefert werden muss.</p>
+                        </li>
+                        <li>
+                            <b>2.</b>
+                            <p>Der mit dem Programm kombinierte Teil muss auch dann sinnvoll nutzbar sein, wenn er nicht mit dem
+                             Programm kombiniert wird, und zwar entweder alleine oder mit sonstigen Programmen. Was als
+                             "sinnvoll nutzbar" anzusehen ist, richtet sich nach der Auffassung der betroffenen Fachkreise.
+                             Zu den betroffenen Fachkreisen gehören alle Personen, die das Programm oder Programme mit
+                             vergleichbarer Funktionalität entwickeln, benutzen, verbreiten oder öffentlich zugänglich
+                             machen.</p>
+                        </li>
+                     </list>
+                </li>
+                <li>
+                    <b>(3)</b>
+                    <p>Wenn Sie das Programm oder einen Teil hiervon - verändert oder unverändert - zusammen mit einem
+                     anderen Programm verbreiten oder öffentlich zugänglich machen, das unter der GNU General
+                     Public License (GPL) lizenziert wird, darf das Programm auch unter den Bedingungen der GPL
+                     genutzt werden, sofern es mit dem anderen Programm ein "derivative work" im Sinne der GPL
+                     bildet. Dabei sollen die Hinweise auf diese Lizenz entfernt und durch einen Hinweis auf die
+                     GPL ersetzt werden. Ob bei der Zusammenstellung ein "derivate work" im Sinne der GPL entsteht,
+                     beurteilt sich nach Ziffer 2 b) der GPL. Diese Bestimmung lautet: "You must cause any work
+                     that you distribute or publish, that in whole or in part contains or is derived from the
+                     Program or any part thereof, to be licensed as a whole at no charge to all third parties under
+                     the terms of this License." Die GPL kann abgerufen werden unter
+                     http://www.fsf.org/licenses/gpl.</p>
+                </li>
+                <li>
+                    <b>(3)</b>
+                    <p>Wenn Sie das Programm oder einen Teil hiervon - verändert oder unverändert - zusammen mit einem
+                     anderen Programm verbreiten oder öffentlich zugänglich machen, das unter der GNU General
+                     Public License (GPL) lizenziert wird, darf das Programm auch unter den Bedingungen der GPL
+                     genutzt werden, sofern es mit dem anderen Programm ein "derivative work" im Sinne der GPL
+                     bildet. Dabei sollen die Hinweise auf diese Lizenz entfernt und durch einen Hinweis auf die
+                     GPL ersetzt werden. Ob bei der Zusammenstellung ein "derivate work" im Sinne der GPL entsteht,
+                     beurteilt sich nach Ziffer 2 b) der GPL. Diese Bestimmung lautet: "You must cause any work
+                     that you distribute or publish, that in whole or in part contains or is derived from the
+                     Program or any part thereof, to be licensed as a whole at no charge to all third parties under
+                     the terms of this License." Die GPL kann abgerufen werden unter
+                     http://www.fsf.org/licenses/gpl.</p>
+                </li>
+                <li>
+                    <b>(4)</b>
+                    <p>Wenn Sie das Programm in einer veränderten Form verbreiten oder öffentlich zugänglich machen,
+                     müssen Sie im Source Code einen Hinweis mit den Änderungen aufnehmen und mit dem Datum der
+                     Änderung versehen. Der Hinweis muss erkennen lassen, welche Änderungen vorgenommen wurden und
+                     bestehende Vermerke, die über die Urheber des Programms Auskunft geben, übernehmen. Dies gilt
+                     unabhängig davon, ob Sie einen eigenen Urhebervermerk hinzufügen. Anstelle eines Hinweises im
+                     Source Code können Sie auch ein Versionskontrollsystem verwenden oder weiterführen, sofern
+                     dieses mitverbreitet wird oder öffentlich zugänglich ist.</p>
+                </li>
+                <li>
+                    <b>(5)</b>
+                    <p>Sie dürfen von Dritten für die Einräumung eines einfachen Nutzungsrechts an veränderten Versionen
+                     des Programms kein Entgelt verlangen.</p>
+                </li>
+                <li>
+                    <b>(6)</b>
+                    <p>Wenn Sie an der veränderten Version des Programms ein anderes Schutzrecht als ein Urheberrecht
+                     erwerben, insbesondere ein Patent oder Gebrauchsmuster, lizenzieren Sie dieses Schutzrecht für
+                     veränderte und unveränderte Versionen des Programms in dem Umfang, der erforderlich ist, um
+                     die Rechte aus dieser Lizenz wahrnehmen zu können.</p>
+                </li>
+                <li>
+                    <b>(6)</b>
+                    <p>Wenn Sie an der veränderten Version des Programms ein anderes Schutzrecht als ein Urheberrecht
+                     erwerben, insbesondere ein Patent oder Gebrauchsmuster, lizenzieren Sie dieses Schutzrecht für
+                     veränderte und unveränderte Versionen des Programms in dem Umfang, der erforderlich ist, um
+                     die Rechte aus dieser Lizenz wahrnehmen zu können.</p>
+                </li>
+            </list>
+        </li>
+        <li>
+            <p>§ 4 Weitere Pflichten beim Vertrieb im Object Code</p>
+            <list>
+                <li>
+                    <b>(1)</b>
+                    <p>Wenn Sie das Programm nur im Object Code verbreiten, dann müssen Sie zusätzlich zu den in § 2 und
+                     § 3 geregelten Pflichten entweder</p>
+                    <list>
+                        <li>
+                            <b>1.</b>
+                            <p>den vollständigen Source Code im Internet öffentlich zugänglich machen und bei der Verbreitung
+                             des Object Codes deutlich auf die vollständige Internetadresse hinweisen, unter der der Source
+                             Code abgerufen werden kann oder</p>
+                        </li>
+                        <li>
+                            <b>2.</b>
+                            <p>den vollständigen Source Code auf einem hierfür üblichen Datenträger unter Beachtung der §§ 2 und
+                             3 mitverbreiten.</p>
+                        </li>
+                    </list>
+                </li>
+                <li>
+                    <b>(2)</b>
+                    <p>Wenn Sie das Programm im Object Code öffentlich zugänglich machen, dann müssen Sie zusätzlich zu
+                     den in § 2 und § 3 geregelten Pflichten den vollständigen Source Code im Internet öffentlich
+                     zugänglich machen und dabei deutlich auf die vollständige Internetadresse hinweisen.</p>
+                </li>
+                <li>
+                    <b>(3)</b>
+                    <p>Sofern Sie mit dem Programm eine Dokumentation erhalten haben, muss diese Dokumentation
+                     entsprechend der Absätze 1 und 2 mitgeliefert werden, es sei denn, die freie Mitlieferung der
+                     Dokumentation ist Ihnen aufgrund der Lizenz für die Dokumentation nicht gestattet.</p>
+                </li>
+            </list>
             
             <---------- Brad done through here (first pass only; still needs structure and b-tag review) ---------->
             
+            
         </li>
     </list>
-      
-      
-        
-          
         
         
-          <p>§ 3 Weitere Pflichten beim Vertrieb veränderter Versionen</p>
-        </li>
-        <li>
-          <b>(1)</b>
-          <p>Veränderte Versionen des Programms dürfen Sie nur unter den Bedingungen dieser Lizenz verbreiten
-             oder öffentlich zugänglich machen, so dass Dritte das veränderte Programm insgesamt unter
-             dieser Lizenz nutzen können.</p>
-        </li>
-        <li>
-          <b>(2)</b>
-          <p>Wird das Programm oder ein Teil hiervon mit einem anderen Programm kombiniert, gilt auch die
-             Kombination insgesamt als eine veränderte Version des Programms, es sei denn, das andere
-             Programm ist formal und inhaltlich eigenständig. Ein anderes Programm ist dann als
-             eigenständig anzusehen, wenn es die folgenden Voraussetzungen alle erfüllt:</p>
-        </li>
-        <li>
-          <b>1.</b>
-          <p>Der Source Code der kombinierten Programme muss jeweils in eigenen Dateien vorhanden sein, die
-             keine Bestandteile des anderen Teils enthalten, die über die zur Programmkombination üblichen
-             und erforderlichen Informationen über den anderen Teil hinausgehen, wobei der Source Code des
-             anderen Programms nicht mitgeliefert werden muss.</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>Der mit dem Programm kombinierte Teil muss auch dann sinnvoll nutzbar sein, wenn er nicht mit dem
-             Programm kombiniert wird, und zwar entweder alleine oder mit sonstigen Programmen. Was als
-             "sinnvoll nutzbar" anzusehen ist, richtet sich nach der Auffassung der betroffenen Fachkreise.
-             Zu den betroffenen Fachkreisen gehören alle Personen, die das Programm oder Programme mit
-             vergleichbarer Funktionalität entwickeln, benutzen, verbreiten oder öffentlich zugänglich
-             machen.</p>
-        </li>
-        <li>
-          <b>(3)</b>
-          <p>Wenn Sie das Programm oder einen Teil hiervon - verändert oder unverändert - zusammen mit einem
-             anderen Programm verbreiten oder öffentlich zugänglich machen, das unter der GNU General
-             Public License (GPL) lizenziert wird, darf das Programm auch unter den Bedingungen der GPL
-             genutzt werden, sofern es mit dem anderen Programm ein "derivative work" im Sinne der GPL
-             bildet. Dabei sollen die Hinweise auf diese Lizenz entfernt und durch einen Hinweis auf die
-             GPL ersetzt werden. Ob bei der Zusammenstellung ein "derivate work" im Sinne der GPL entsteht,
-             beurteilt sich nach Ziffer 2 b) der GPL. Diese Bestimmung lautet: "You must cause any work
-             that you distribute or publish, that in whole or in part contains or is derived from the
-             Program or any part thereof, to be licensed as a whole at no charge to all third parties under
-             the terms of this License." Die GPL kann abgerufen werden unter
-             http://www.fsf.org/licenses/gpl.</p>
-        </li>
-        <li>
-          <b>(4)</b>
-          <p>Wenn Sie das Programm in einer veränderten Form verbreiten oder öffentlich zugänglich machen,
-             müssen Sie im Source Code einen Hinweis mit den Änderungen aufnehmen und mit dem Datum der
-             Änderung versehen. Der Hinweis muss erkennen lassen, welche Änderungen vorgenommen wurden und
-             bestehende Vermerke, die über die Urheber des Programms Auskunft geben, übernehmen. Dies gilt
-             unabhängig davon, ob Sie einen eigenen Urhebervermerk hinzufügen. Anstelle eines Hinweises im
-             Source Code können Sie auch ein Versionskontrollsystem verwenden oder weiterführen, sofern
-             dieses mitverbreitet wird oder öffentlich zugänglich ist.</p>
-        </li>
-        <li>
-          <b>(5)</b>
-          <p>Sie dürfen von Dritten für die Einräumung eines einfachen Nutzungsrechts an veränderten Versionen
-             des Programms kein Entgelt verlangen.</p>
-        </li>
-        <li>
-          <b>(6)</b>
-          <p>Wenn Sie an der veränderten Version des Programms ein anderes Schutzrecht als ein Urheberrecht
-             erwerben, insbesondere ein Patent oder Gebrauchsmuster, lizenzieren Sie dieses Schutzrecht für
-             veränderte und unveränderte Versionen des Programms in dem Umfang, der erforderlich ist, um
-             die Rechte aus dieser Lizenz wahrnehmen zu können.</p>
-          <p>§ 4 Weitere Pflichten beim Vertrieb im Object Code</p>
-        </li>
-        <li>
-          <b>(1)</b>
-          <p>Wenn Sie das Programm nur im Object Code verbreiten, dann müssen Sie zusätzlich zu den in § 2 und
-             § 3 geregelten Pflichten entweder</p>
-        </li>
-        <li>
-          <b>1.</b>
-          <p>den vollständigen Source Code im Internet öffentlich zugänglich machen und bei der Verbreitung
-             des Object Codes deutlich auf die vollständige Internetadresse hinweisen, unter der der Source
-             Code abgerufen werden kann oder</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>den vollständigen Source Code auf einem hierfür üblichen Datenträger unter Beachtung der §§ 2 und
-             3 mitverbreiten.</p>
-        </li>
-        <li>
-          <b>(2)</b>
-          <p>Wenn Sie das Programm im Object Code öffentlich zugänglich machen, dann müssen Sie zusätzlich zu
-             den in § 2 und § 3 geregelten Pflichten den vollständigen Source Code im Internet öffentlich
-             zugänglich machen und dabei deutlich auf die vollständige Internetadresse hinweisen.</p>
-        </li>
-        <li>
-          <b>(3)</b>
-          <p>Sofern Sie mit dem Programm eine Dokumentation erhalten haben, muss diese Dokumentation
-             entsprechend der Absätze 1 und 2 mitgeliefert werden, es sei denn, die freie Mitlieferung der
-             Dokumentation ist Ihnen aufgrund der Lizenz für die Dokumentation nicht gestattet.</p>
-          <p>§ 5 Vertragsschluss</p>
-        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <p>§ 5 Vertragsschluss</p>
+        
         <li>
           <b>(1)</b>
           <p>Mit dieser Lizenz wird Ihnen und jeder anderen Person ein Angebot auf Abschluss eines Vertrages
