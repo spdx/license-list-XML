@@ -411,7 +411,7 @@
                  LIMITATION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL
                  OR CONSEQUENTIAL DAMAGES, SO THAT EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU. TO
                  THE EXTENT THAT ANY EXCLUSION OF DAMAGES ABOVE IS NOT VALID, YOU AGREE THAT IN NO
-                 EVENT WILL RSV'S LIABILITY UNDER OR RELATED TO THIS AGREEMENT EXCEED FIVE THOUSAND
+                 EVENT WILL RSV<optional>'</optional>S LIABILITY UNDER OR RELATED TO THIS AGREEMENT EXCEED FIVE THOUSAND
                  DOLLARS ($5,000). THE GOVERNED CODE IS NOT INTENDED FOR USE IN CONNECTION WITH ANY
                  NUCLER, AVIATION, MASS TRANSIT OR MEDICAL APPLICATION OR ANY OTHER INHERENTLY
                  DANGEROUS APPLICATION THAT COULD RESULT IN DEATH, PERSONAL INJURY, CATASTROPHIC DAMAGE
@@ -442,7 +442,7 @@
                  under or related to this Agreement shall be brought in the Federal Courts of the
                  Northern District of California, with venue lying in Santa Clara County, California.
                  The losing party shall be responsible for costs, including without limitation, court
-                 costs and reasonable attorney's fees and expenses. Notwithstanding anything to the
+                 costs and reasonable attorney<optional>'</optional>s fees and expenses. Notwithstanding anything to the
                  contrary herein, RSV may seek injunctive relief related to a breach of this Agreement
                  in any court of competent jurisdiction. The application of the United Nations
                  Convention on Contracts for the International Sale of Goods is expressly excluded. Any
