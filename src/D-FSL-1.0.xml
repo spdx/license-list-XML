@@ -297,156 +297,158 @@
                 </li>
             </list>
             
-            <---------- Brad done through here (first pass only; still needs structure and b-tag review) ---------->
             
             
+            
+        </li>
+        <li>
+            <p>§ 5 Vertragsschluss</p>
+            <list>
+                <li>
+                    <b>(1)</b>
+                    <p>Mit dieser Lizenz wird Ihnen und jeder anderen Person ein Angebot auf Abschluss eines Vertrages
+                     über die Nutzung des Programms unter den Bedingungen der Deutschen Freien Softwarelizenz
+                     unterbreitet.</p>
+                </li>
+                <li>
+                    <b>(2)</b>
+                    <p>Sie dürfen das Programm nach den jeweils anwendbaren gesetzlichen Vorschriften bestimmungsgemäß
+                     benutzen, ohne dass es der Annahme dieser Lizenz bedarf. Dieses Recht umfasst in der
+                     Europäischen Union und in den meisten anderen Rechtsordnungen insbesondere die folgenden
+                     Befugnisse:</p>
+                    <list>
+                        <li>
+                            <b>1.</b>
+                            <p>das Programm ablaufen zu lassen sowie die Erstellung von hierfür erforderlichen
+                             Vervielfältigungen im Haupt- und Arbeitsspeicher;</p>
+                        </li>
+                        <li>
+                            <b>2.</b>
+                            <p>das Erstellen einer Sicherungskopie;</p>
+                        </li>
+                        <li>
+                            <b>3.</b>
+                            <p>die Fehlerberichtigung;</p>
+                        </li>
+                        <li>
+                            <b>4.</b>
+                            <p>die Weitergabe einer rechtmäßig erworbenen körperlichen Kopie des Programms.</p>
+                        </li>
+                    </list>
+                </li>
+                <li>
+                    <b>(3)</b>
+                    <p>Sie erklären Ihre Zustimmung zum Abschluss dieser Lizenz, indem Sie das Programm verbreiten,
+                     öffentlich zugänglich machen, verändern oder in einer Weise vervielfältigen, die über die
+                     bestimmungsgemäße Nutzung im Sinne von Absatz 2 hinausgeht. Ab diesem Zeitpunkt ist diese
+                     Lizenz als rechtlich verbindlicher Vertrag zwischen den Rechtsinhabern und Ihnen geschlossen,
+                     ohne dass es eines Zugangs der Annahmeerklärung bei den Rechtsinhabern bedarf.</p>
+                </li>
+                <li>
+                    <b>(4)</b>
+                    <p>Sie und jeder andere Lizenznehmer erhalten die Rechte aus dieser Lizenz direkt von den
+                     Rechtsinhabern. Eine Unterlizenzierung oder Übertragung der Rechte ist nicht gestattet.</p>
+                </li>
+            </list>
+        </li>
+        <li>
+            <p>§ 6 Beendigung der Rechte bei Zuwiderhandlung</p>
+            <list>
+                <li>
+                    <b>(1)</b>
+                    <p>Jede Verletzung Ihrer Verpflichtungen aus dieser Lizenz führt zu einer automatischen Beendigung
+                     Ihrer Rechte aus dieser Lizenz.</p>
+                </li>
+                <li>
+                    <b>(2)</b>
+                    <p>Die Rechte Dritter, die das Programm oder Rechte an dem Programm von Ihnen erhalten haben,
+                     bleiben hiervon unberührt.</p>
+                </li>
+            </list>
+        </li>
+        <li>
+            <p>§ 7 Haftung und Gewährleistung</p>
+            <list>
+                <li>
+                    <b>(1)</b>
+                    <p>Für entgegenstehende Rechte Dritter haften die Rechtsinhaber nur, sofern sie Kenntnis von diesen
+                     Rechten hatten, ohne Sie zu informieren.</p>
+                </li>
+                <li>
+                    <b>(2)</b>
+                    <p>Die Haftung für Fehler und sonstige Mängel des Programms richtet sich nach den außerhalb dieser
+                     Lizenz getroffenen Vereinbarungen zwischen Ihnen und den Rechtsinhabern oder, wenn eine solche
+                     Vereinbarung nicht existiert, nach den gesetzlichen Regelungen.</p>
+                </li>
+            </list>
+        </li>
+        <li>
+            <p>§ 8 Verträge mit Dritten</p>
+            <list>
+                <li>
+                    <b>(1)</b>
+                    <p>Diese Lizenz regelt nur die Beziehung zwischen Ihnen und den Rechtsinhabern. Sie ist nicht
+                     Bestandteil der Verträge zwischen Ihnen und Dritten.</p>
+                </li>
+                <li>
+                    <b>(2)</b>
+                    <p>Die Lizenz beschränkt Sie nicht in der Freiheit, mit Dritten, die von Ihnen Kopien des Programms
+                     erhalten oder Leistungen in Anspruch nehmen, die im Zusammenhang mit dem Programm stehen,
+                     Verträge beliebigen Inhalts zu schließen, sofern Sie dabei Ihren Verpflichtungen aus dieser
+                     Lizenz nachkommen und die Rechte der Dritten aus dieser Lizenz nicht beeinträchtigt werden.
+                     Insbesondere dürfen Sie für die Überlassung des Programms oder sonstige Leistungen ein Entgelt
+                     verlangen.</p>
+                </li>
+                <li>
+                    <b>(3)</b>
+                    <p>Diese Lizenz verpflichtet Sie nicht, das Programm an Dritte weiterzugeben. Es steht Ihnen frei zu
+                     entscheiden, wem Sie das Programm zugänglich machen. Sie dürfen aber die weitere Nutzung durch
+                     Dritte nicht durch den Einsatz technischer Schutzmaßnahmen, insbesondere durch den Einsatz von
+                     Kopierschutzvorrichtungen jeglicher Art, verhindern oder erschweren. Eine passwortgeschützte
+                     Zugangsbeschränkung oder die Nutzung in einem Intranet wird nicht als technische
+                     Schutzmaßnahme angesehen.</p>
+                </li>
+            </list>
+        </li>
+        <li>
+            <p>§ 9 Text der Lizenz</p>
+            <list>
+                <li>
+                    <b>(1)</b>
+                    <p>Diese Lizenz ist in deutscher und englischer Sprache abgefasst. Beide Fassungen sind gleich
+                     verbindlich. Es wird unterstellt, dass die in der Lizenz verwandten Begriffe in beiden
+                     Fassungen dieselbe Bedeutung haben. Ergeben sich dennoch Unterschiede, so ist die Bedeutung
+                     maßgeblich, welche die Fassungen unter Berücksichtigung des Ziels und Zwecks der Lizenz am
+                     besten miteinander in Einklang bringt.</p>
+                </li>
+                <li>
+                    <b>(2)</b>
+                    <p>Der Lizenzrat der Deutschen Freien Software Lizenz kann mit verbindlicher Wirkung neue Versionen
+                     der Lizenz in Kraft setzen, soweit dies erforderlich und zumutbar ist. Neue Versionen der
+                     Lizenz werden auf der Internetseite http://www.d-fsl.de mit einer eindeutigen Versionsnummer
+                     veröffentlicht. Die neue Version der Lizenz erlangt für Sie verbindliche Wirkung, wenn Sie von
+                     deren Veröffentlichung Kenntnis genommen haben. Gesetzliche Rechtsbehelfe gegen die Änderung
+                     der Lizenz werden durch die vorstehenden Bestimmungen nicht beschränkt.</p>
+                </li>
+                <li>
+                    <b>(3)</b>
+                    <p>Sie dürfen diese Lizenz in unveränderter Form vervielfältigen, verbreiten und öffentlich
+                     zugänglich machen.</p>
+                </li>
+            </list>
+        </li>
+        <li>
+            <p>§ 10 Anwendbares Recht</p>
+            <p>Auf diese Lizenz findet deutsches Recht Anwendung.</p>
+            <p>Anhang: Wie unterstellen Sie ein Programm der Deutschen Freien Software Lizenz? 
+            <br/>Um jedermann den Abschluss dieser Lizenz zu ermöglichen, wird empfohlen, das Programm mit folgendem
+             Hinweis auf die Lizenz zu versehen: 
+            </p>
+            <p>"Copyright (C) 20[jj] [Name des Rechtsinhabers].</p>
+            <p>Dieses Programm kann durch jedermann gemäß den Bestimmungen der Deutschen Freien Software Lizenz genutzt
+             werden.</p>
+            <p>Die Lizenz kann unter http://www.d-fsl.de abgerufen werden."</p>
         </li>
     </list>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <p>§ 5 Vertragsschluss</p>
-        
-        <li>
-          <b>(1)</b>
-          <p>Mit dieser Lizenz wird Ihnen und jeder anderen Person ein Angebot auf Abschluss eines Vertrages
-             über die Nutzung des Programms unter den Bedingungen der Deutschen Freien Softwarelizenz
-             unterbreitet.</p>
-        </li>
-        <li>
-          <b>(2)</b>
-          <p>Sie dürfen das Programm nach den jeweils anwendbaren gesetzlichen Vorschriften bestimmungsgemäß
-             benutzen, ohne dass es der Annahme dieser Lizenz bedarf. Dieses Recht umfasst in der
-             Europäischen Union und in den meisten anderen Rechtsordnungen insbesondere die folgenden
-             Befugnisse:</p>
-        </li>
-        <li>
-          <b>1.</b>
-          <p>das Programm ablaufen zu lassen sowie die Erstellung von hierfür erforderlichen
-             Vervielfältigungen im Haupt- und Arbeitsspeicher;</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>das Erstellen einer Sicherungskopie;</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>die Fehlerberichtigung;</p>
-        </li>
-        <li>
-          <b>4.</b>
-          <p>die Weitergabe einer rechtmäßig erworbenen körperlichen Kopie des Programms.</p>
-        </li>
-        <li>
-          <b>(3)</b>
-          <p>Sie erklären Ihre Zustimmung zum Abschluss dieser Lizenz, indem Sie das Programm verbreiten,
-             öffentlich zugänglich machen, verändern oder in einer Weise vervielfältigen, die über die
-             bestimmungsgemäße Nutzung im Sinne von Absatz 2 hinausgeht. Ab diesem Zeitpunkt ist diese
-             Lizenz als rechtlich verbindlicher Vertrag zwischen den Rechtsinhabern und Ihnen geschlossen,
-             ohne dass es eines Zugangs der Annahmeerklärung bei den Rechtsinhabern bedarf.</p>
-        </li>
-        <li>
-          <b>(4)</b>
-          <p>Sie und jeder andere Lizenznehmer erhalten die Rechte aus dieser Lizenz direkt von den
-             Rechtsinhabern. Eine Unterlizenzierung oder Übertragung der Rechte ist nicht gestattet.</p>
-          <p>§ 6 Beendigung der Rechte bei Zuwiderhandlung</p>
-        </li>
-        <li>
-          <b>(1)</b>
-          <p>Jede Verletzung Ihrer Verpflichtungen aus dieser Lizenz führt zu einer automatischen Beendigung
-             Ihrer Rechte aus dieser Lizenz.</p>
-        </li>
-        <li>
-          <b>(2)</b>
-          <p>Die Rechte Dritter, die das Programm oder Rechte an dem Programm von Ihnen erhalten haben,
-             bleiben hiervon unberührt.</p>
-          <p>§ 7 Haftung und Gewährleistung</p>
-        </li>
-        <li>
-          <b>(1)</b>
-          <p>Für entgegenstehende Rechte Dritter haften die Rechtsinhaber nur, sofern sie Kenntnis von diesen
-             Rechten hatten, ohne Sie zu informieren.</p>
-        </li>
-        <li>
-          <b>(2)</b>
-          <p>Die Haftung für Fehler und sonstige Mängel des Programms richtet sich nach den außerhalb dieser
-             Lizenz getroffenen Vereinbarungen zwischen Ihnen und den Rechtsinhabern oder, wenn eine solche
-             Vereinbarung nicht existiert, nach den gesetzlichen Regelungen.</p>
-          <p>§ 8 Verträge mit Dritten</p>
-        </li>
-        <li>
-          <b>(1)</b>
-          <p>Diese Lizenz regelt nur die Beziehung zwischen Ihnen und den Rechtsinhabern. Sie ist nicht
-             Bestandteil der Verträge zwischen Ihnen und Dritten.</p>
-        </li>
-        <li>
-          <b>(2)</b>
-          <p>Die Lizenz beschränkt Sie nicht in der Freiheit, mit Dritten, die von Ihnen Kopien des Programms
-             erhalten oder Leistungen in Anspruch nehmen, die im Zusammenhang mit dem Programm stehen,
-             Verträge beliebigen Inhalts zu schließen, sofern Sie dabei Ihren Verpflichtungen aus dieser
-             Lizenz nachkommen und die Rechte der Dritten aus dieser Lizenz nicht beeinträchtigt werden.
-             Insbesondere dürfen Sie für die Überlassung des Programms oder sonstige Leistungen ein Entgelt
-             verlangen.</p>
-        </li>
-        <li>
-          <b>(3)</b>
-          <p>Diese Lizenz verpflichtet Sie nicht, das Programm an Dritte weiterzugeben. Es steht Ihnen frei zu
-             entscheiden, wem Sie das Programm zugänglich machen. Sie dürfen aber die weitere Nutzung durch
-             Dritte nicht durch den Einsatz technischer Schutzmaßnahmen, insbesondere durch den Einsatz von
-             Kopierschutzvorrichtungen jeglicher Art, verhindern oder erschweren. Eine passwortgeschützte
-             Zugangsbeschränkung oder die Nutzung in einem Intranet wird nicht als technische
-             Schutzmaßnahme angesehen.</p>
-          <p>§ 9 Text der Lizenz</p>
-        </li>
-        <li>
-          <b>(1)</b>
-          <p>Diese Lizenz ist in deutscher und englischer Sprache abgefasst. Beide Fassungen sind gleich
-             verbindlich. Es wird unterstellt, dass die in der Lizenz verwandten Begriffe in beiden
-             Fassungen dieselbe Bedeutung haben. Ergeben sich dennoch Unterschiede, so ist die Bedeutung
-             maßgeblich, welche die Fassungen unter Berücksichtigung des Ziels und Zwecks der Lizenz am
-             besten miteinander in Einklang bringt.</p>
-        </li>
-        <li>
-          <b>(2)</b>
-          <p>Der Lizenzrat der Deutschen Freien Software Lizenz kann mit verbindlicher Wirkung neue Versionen
-             der Lizenz in Kraft setzen, soweit dies erforderlich und zumutbar ist. Neue Versionen der
-             Lizenz werden auf der Internetseite http://www.d-fsl.de mit einer eindeutigen Versionsnummer
-             veröffentlicht. Die neue Version der Lizenz erlangt für Sie verbindliche Wirkung, wenn Sie von
-             deren Veröffentlichung Kenntnis genommen haben. Gesetzliche Rechtsbehelfe gegen die Änderung
-             der Lizenz werden durch die vorstehenden Bestimmungen nicht beschränkt.</p>
-        </li>
-        <li>
-          <b>(3)</b>
-          <p>Sie dürfen diese Lizenz in unveränderter Form vervielfältigen, verbreiten und öffentlich
-             zugänglich machen.</p>
-        </li>
-      </list>
-      <p>§ 10 Anwendbares Recht</p>
-      <p>Auf diese Lizenz findet deutsches Recht Anwendung.</p>
-      <p>Anhang: Wie unterstellen Sie ein Programm der Deutschen Freien Software Lizenz? 
-        <br/>Um jedermann den Abschluss dieser Lizenz zu ermöglichen, wird empfohlen, das Programm mit folgendem
-             Hinweis auf die Lizenz zu versehen: 
-      </p>
-      <p>"Copyright (C) 20[jj] [Name des Rechtsinhabers].</p>
-      <p>Dieses Programm kann durch jedermann gemäß den Bestimmungen der Deutschen Freien Software Lizenz genutzt
-         werden.</p>
-      <p>Die Lizenz kann unter http://www.d-fsl.de abgerufen werden."</p>
   </license>
 </SPDX>
