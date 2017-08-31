@@ -18,7 +18,7 @@
         <p>(c) Ministerium für Wissenschaft und Forschung Nordrhein-Westfalen 2004</p>
         <optional>
             <p>Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtsfragen der Freien und Open Source Software
-              - <alt name="linkOpener-ifross.de" match="(\(\<)?">(</alt>http://www.ifross.de<alt name="linkCloser-ifross.de" match="(\)\>)?">)</alt>.</p>
+              - <alt name="linkOpener-ifross.de" match="(\(\&lt;)?">(</alt>http://www.ifross.de<alt name="linkCloser-ifross.de" match="(\)\&gt;)?">)</alt>.</p>
             <p>Präambel</p>
             <p>Software ist mehr als ein Wirtschaftsgut. Sie ist die technische Grundlage der Informationsgesellschaft.
              Die Frage der Teilhabe der Allgemeinheit ist deswegen von besonderer Bedeutung. Herkömmlich
