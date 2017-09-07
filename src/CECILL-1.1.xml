@@ -1,4 +1,4 @@
-<spdx name="CeCILL Free Software License Agreement v1.1" identifier="CECILL-1.1" osi-approved="false">
+<SPDX name="CeCILL Free Software License Agreement v1.1" identifier="CECILL-1.1" osi-approved="false">
   <urls>
     <url>http://www.cecill.info/licences/Licence_CeCILL_V1.1-US.html</url>
   </urls>
@@ -11,130 +11,227 @@
       <p>Notice 
         <br/>This Agreement is a free software license that is the result of discussions between its authors in
              order to ensure compliance with the two main principles guiding its drafting: 
+            <list>
+                <li>
+                  <b>-</b>
+                  <p>firstly, its conformity with French law, both as regards the law of torts and intellectual
+                     property law, and the protection that it offers to authors and the holders of economic rights
+                     over software.</p>
+                </li>
+                <li>
+                  <b>-</b>
+                  <p>secondly, compliance with the principles for the distribution of free software: access to source
+                     codes, extended user-rights.</p>
+                </li>
+            </list>
       </p>
-      <list>
-        <li>
-          <b>-</b>
-          <p>firstly, its conformity with French law, both as regards the law of torts and intellectual
-             property law, and the protection that it offers to authors and the holders of economic rights
-             over software.</p>
-        </li>
-        <li>
-          <b>-</b>
-          <p>secondly, compliance with the principles for the distribution of free software: access to source
-             codes, extended user-rights.</p>
-        </li>
-      </list>
-      <p>The following bodies are the authors of this license CeCILL (Ce : CEA, C : CNRS, I : INRIA, LL : Logiciel
-         Libre):</p>
-      <p>Commissariat &#xE0; l&apos;Energie Atomique - CEA, a public scientific, technical and industrial
-         establishment, having its principal place of business at 31-33 rue de la F&#xE9;d&#xE9;ration, 75752
-         PARIS cedex 15, France.</p>
-      <p>Centre National de la Recherche Scientifique - CNRS, a public scientific and technological establishment,
-         having its principal place of business at 3 rue Michel-Ange 75794 Paris cedex 16, France.</p>
-      <p>Institut National de Recherche en Informatique et en Automatique - INRIA, a public scientific and
-         technological establishment, having its principal place of business at Domaine de Voluceau,
-         Rocquencourt, BP 105, 78153 Le Chesnay cedex.</p>
+      
+        <p>The following bodies are the authors of this license CeCILL (Ce : CEA, C : CNRS, I : INRIA, LL : Logiciel
+         Libre):
+            <list>
+                <li>
+                    <p>Commissariat à l'Energie Atomique - CEA, a public scientific, technical and industrial
+                     establishment, having its principal place of business at 31-33 rue de la Fédération, 75752
+                     PARIS cedex 15, France.</p>
+                </li>
+                <li>
+                    <p>Centre National de la Recherche Scientifique - CNRS, a public scientific and technological establishment,
+                     having its principal place of business at 3 rue Michel-Ange 75794 Paris cedex 16, France.</p>
+                </li>
+                <li>
+                    <p>Institut National de Recherche en Informatique et en Automatique - INRIA, a public scientific and
+                     technological establishment, having its principal place of business at Domaine de Voluceau,
+                     Rocquencourt, BP 105, 78153 Le Chesnay cedex.</p>
+                </li>
+            </list>
+        </p>
+      
       <p>PREAMBLE</p>
-      <p>The purpose of this Free Software Licensing Agreement is to grant users the right to modify and
-         redistribute the software governed by this license within the framework of an &quot;open source&quot;
-         distribution model.</p>
-      <p>The exercising of these rights is conditional upon certain obligations for users so as to ensure that
-         this status is retained for subsequent redistribution operations.</p>
-      <p>As a counterpart to the access to the source code and rights to copy, modify and redistribute granted by
-         the license, users are provided only with a limited warranty and the software&apos;s author, the
-         holder of the economic rights, and the successive licensors only have limited liability.</p>
-      <p>In this respect, it is brought to the user&apos;s attention that the risks associated with loading,
-         using, modifying and/or developing or reproducing the software by the user given its nature of Free
-         Software, that may mean that it is complicated to manipulate, and that also therefore means that it is
-         reserved for developers and experienced professionals having in-depth computer knowledge. Users are
-         therefore encouraged to load and test the Software&apos;s suitability as regards their requirements in
-         conditions enabling the security of their systems and/or data to be ensured and, more generally, to
-         use and operate it in the same conditions of security. This Agreement may be freely reproduced and
-         published, provided it is not altered, and that no Articles are either added or removed herefrom.</p>
-      <p>This Agreement may apply to any or all software for which the holder of the economic rights decides to
-         submit the operation thereof to its provisions.</p>
-    </optional>
-    <body>
-      <p>Article 1 - DEFINITIONS</p>
-      <p>For the purposes of this Agreement, when the following expressions commence with a capital letter, they
-         shall have the following meaning:</p>
-      <p>Agreement: means this Licensing Agreement, and any or all of its subsequent versions.</p>
-      <p>Software: means the software in its Object Code and/or Source Code form and, where applicable, its
-         documentation, &quot;as is&quot; at the time when the Licensee accepts the Agreement.</p>
-      <p>Initial Software: means the Software in its Source Code and/or Object Code form and, where applicable,
-         its documentation, &quot;as is&quot; at the time when it is distributed for the first time under the
-         terms and conditions of the Agreement.</p>
-      <p>Modified Software: means the Software modified by at least one Contribution.</p>
-      <p>Source Code: means all the Software&apos;s instructions and program lines to which access is required so
-         as to modify the Software.</p>
-      <p>Object Code: means the binary files originating from the compilation of the Source Code.</p>
-      <p>Holder: means the holder of the economic rights over the Initial Software.</p>
-      <p>Licensee(s): mean(s) the Software user(s) having accepted the Agreement.</p>
-      <p>Contributor: means a Licensee having made at least one Contribution.</p>
-      <p>Licensor: means the Holder, or any or all other individual or legal entity, that distributes the Software
-         under the Agreement.</p>
-      <p>Contributions: mean any or all modifications, corrections, translations, adaptations and/or new
-         functionalities integrated into the Software by any or all Contributor, and the Static Modules.</p>
-      <p>Module: means a set of sources files including their documentation that, once compiled in executable
-         form, enables supplementary functionalities or services to be developed in addition to those offered
-         by the Software.</p>
-      <p>Dynamic Module: means any or all module, created by the Contributor, that is independent of the Software,
-         so that this module and the Software are in two different executable forms that are run in separate
-         address spaces, with one calling the other when they are run.</p>
-      <p>Static Module: means any or all module, created by the Contributor and connected to the Software by a
-         static link that makes their object codes interdependent. This module and the Software to which it is
-         connected, are combined in a single executable.</p>
-      <p>Parties: mean both the Licensee and the Licensor.</p>
-      <p>These expressions may be used both in singular and plural form.</p>
-      <p>Article 2 - PURPOSE</p>
-      <p>The purpose of the Agreement is to enable the Licensor to grant the Licensee a free, non-exclusive,
-         transferable and worldwide License for the Software as set forth in Article 5 hereinafter for the
-         whole term of protection of the rights over said Software.</p>
-      <p>Article 3 - ACCEPTANCE</p>
       <list>
-        <li>
-          <b>3.1.</b>
-          <p>The Licensee shall be deemed as having accepted the terms and conditions of this Agreement by the
-             occurrence of the first of the following events:</p>
-        </li>
-        <list>
           <li>
-            <b>(i)</b>
-            <p>loading the Software by any or all means, notably, by downloading from a remote server, or by
-               loading from a physical medium;</p>
+              <p>The purpose of this Free Software Licensing Agreement is to grant users the right to modify and
+                 redistribute the software governed by this license within the framework of an "open source"
+                 distribution model.</p>
           </li>
           <li>
-            <b>(ii)</b>
-            <p>the first time the Licensee exercises any of the rights granted hereunder.</p>
+              <p>The exercising of these rights is conditional upon certain obligations for users so as to ensure that
+                 this status is retained for subsequent redistribution operations.</p>
           </li>
-        </list>
+          <li>
+              <p>As a counterpart to the access to the source code and rights to copy, modify and redistribute granted by
+                 the license, users are provided only with a limited warranty and the software's author, the
+                 holder of the economic rights, and the successive licensors only have limited liability.</p>
+          </li>
+          <li>
+              <p>In this respect, it is brought to the user's attention that the risks associated with loading,
+                 using, modifying and/or developing or reproducing the software by the user given its nature of Free
+                 Software, that may mean that it is complicated to manipulate, and that also therefore means that it is
+                 reserved for developers and experienced professionals having in-depth computer knowledge. Users are
+                 therefore encouraged to load and test the Software's suitability as regards their requirements in
+                 conditions enabling the security of their systems and/or data to be ensured and, more generally, to
+                 use and operate it in the same conditions of security. This Agreement may be freely reproduced and
+                 published, provided it is not altered, and that no Articles are either added or removed herefrom.</p>
+          </li>
+          <li>
+              <p>This Agreement may apply to any or all software for which the holder of the economic rights decides to
+                 submit the operation thereof to its provisions.</p>
+          </li>
+      </list>
+    </optional>
+    <list>
         <li>
-          <b>3.2.</b>
-          <p>One copy of the Agreement, containing a notice relating to the specific nature of the Software,
-             to the limited warranty, and to the limitation to use by experienced users has been provided
-             to the Licensee prior to its acceptance as set forth in Article 3.1 hereinabove, and the
-             Licensee hereby acknowledges that it is aware thereof.</p>
-          <p>Article 4 - EFFECTIVE DATE AND TERM</p>
+            <p>Article 1 - DEFINITIONS</p>
+            <p>For the purposes of this Agreement, when the following expressions commence with a capital letter, they
+             shall have the following meaning:</p>
+            <list>
+                <li>
+                    <p>Agreement: means this Licensing Agreement, and any or all of its subsequent versions.</p>
+                </li>
+                <li>
+                    <p>Software: means the software in its Object Code and/or Source Code form and, where applicable, its
+                     documentation, "as is" at the time when the Licensee accepts the Agreement.</p>
+                </li>
+                <li>
+                    <p>Initial Software: means the Software in its Source Code and/or Object Code form and, where applicable,
+                     its documentation, "as is" at the time when it is distributed for the first time under the
+                     terms and conditions of the Agreement.</p>
+                </li>
+                <li>
+                    <p>Modified Software: means the Software modified by at least one Contribution.</p>
+                </li>
+                <li>
+                    <p>Source Code: means all the Software's instructions and program lines to which access is required so
+                     as to modify the Software.</p>
+                </li>
+                <li>
+                    <p>Object Code: means the binary files originating from the compilation of the Source Code.</p>
+                </li>
+                <li>
+                    <p>Holder: means the holder of the economic rights over the Initial Software.</p>
+                </li>
+                <li>
+                    <p>Licensee(s): mean(s) the Software user(s) having accepted the Agreement.</p>
+                </li>
+                <li>
+                    <p>Contributor: means a Licensee having made at least one Contribution.</p>
+                </li>
+                <li>
+                    <p>Licensor: means the Holder, or any or all other individual or legal entity, that distributes the Software
+                     under the Agreement.</p>
+                </li>
+                <li>
+                    <p>Contributions: mean any or all modifications, corrections, translations, adaptations and/or new
+                     functionalities integrated into the Software by any or all Contributor, and the Static Modules.</p>
+                </li>
+                <li>
+                    <p>Module: means a set of sources files including their documentation that, once compiled in executable
+                     form, enables supplementary functionalities or services to be developed in addition to those offered
+                     by the Software.</p>
+                </li>
+                <li>
+                    <p>Dynamic Module: means any or all module, created by the Contributor, that is independent of the Software,
+                     so that this module and the Software are in two different executable forms that are run in separate
+                     address spaces, with one calling the other when they are run.</p>
+                </li>
+                <li>
+                    <p>Static Module: means any or all module, created by the Contributor and connected to the Software by a
+                     static link that makes their object codes interdependent. This module and the Software to which it is
+                     connected, are combined in a single executable.</p>
+                </li>
+                <li>
+                    <p>Parties: mean both the Licensee and the Licensor.</p>
+                </li>
+            </list>
+            <p>These expressions may be used both in singular and plural form.</p>
         </li>
         <li>
-          <b>4.1.</b>
-          <p>EFFECTIVE DATE</p>
-          <p>The Agreement shall become effective on the date when it is accepted by the Licensee as set forth
-             in Article 3.1.</p>
+            <p>Article 2 - PURPOSE</p>
+            <p>The purpose of the Agreement is to enable the Licensor to grant the Licensee a free, non-exclusive,
+             transferable and worldwide License for the Software as set forth in Article 5 hereinafter for the
+             whole term of protection of the rights over said Software.</p>
         </li>
         <li>
-          <b>4.2.</b>
-          <p>TERM</p>
-          <p>The Agreement shall remain in force during the whole legal term of protection of the economic
-             rights over the Software.</p>
-          <p>Article 5 - SCOPE OF THE RIGHTS GRANTED ---------------------------------------</p>
-          <p>The Licensor hereby grants to the Licensee, that accepts such, the following rights as regards
+            <p>Article 3 - ACCEPTANCE</p>
+            <list>
+                <li>
+                    <b>3.1.</b>
+                    <p>The Licensee shall be deemed as having accepted the terms and conditions of this Agreement by the
+                     occurrence of the first of the following events:</p>
+                     <list>
+                        <li>
+                            <b>(i)</b>
+                            <p>loading the Software by any or all means, notably, by downloading from a remote server, or by
+                             loading from a physical medium;</p>
+                        </li>
+                        <li>
+                            <b>(ii)</b>
+                            <p>the first time the Licensee exercises any of the rights granted hereunder.</p>
+                        </li>
+                    </list>
+                </li>
+                <li>
+                    <b>3.2.</b>
+                    <p>One copy of the Agreement, containing a notice relating to the specific nature of the Software,
+                     to the limited warranty, and to the limitation to use by experienced users has been provided
+                     to the Licensee prior to its acceptance as set forth in Article 3.1 hereinabove, and the
+                     Licensee hereby acknowledges that it is aware thereof.</p>
+          
+                </li>
+            </list>
+        </li>
+        <li>
+            <p>Article 4 - EFFECTIVE DATE AND TERM</p>
+            <list>
+                <li>
+                    <b>4.1.</b>
+                    <p>EFFECTIVE DATE</p>
+                    <p>The Agreement shall become effective on the date when it is accepted by the Licensee as set forth
+                     in Article 3.1.</p>
+                </li>
+                <li>
+                    <b>4.2.</b>
+                    <p>TERM</p>
+                    <p>The Agreement shall remain in force during the whole legal term of protection of the economic
+                         rights over the Software.</p>
+                </li>
+            </list>
+        </li>
+        
+        
+        
+        <----------- Brad reviewed through here ----------->
+        
+        
+        
+        
+        <li>
+            <p>Article 5 - SCOPE OF THE RIGHTS GRANTED ---------------------------------------</p>
+            <p>The Licensor hereby grants to the Licensee, that accepts such, the following rights as regards
              the Software for any or all use, and for the term of the Agreement, on the basis of the terms
              and conditions set forth hereinafter.</p>
-          <p>Otherwise, the Licensor grants to the Licensee free of charge exploitation rights on the patents
+            <p>Otherwise, the Licensor grants to the Licensee free of charge exploitation rights on the patents
              he holds on whole or part of the inventions implemented in the Software.</p>
+            <list>
+                
+            </list>
+            
         </li>
+        
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+       
         <li>
           <b>5.1.</b>
           <p>RIGHTS OF USE 
@@ -191,10 +288,10 @@
           </li>
           <li>
             <b>2.</b>
-            <p>a notice relating to the limitation of both the Licensor&apos;s warranty and liability as set
+            <p>a notice relating to the limitation of both the Licensor's warranty and liability as set
                forth in Articles 8 and 9,</p>
-            <p>and that, in the event that only the Software&apos;s Object Code is redistributed, the
-               Licensee allows future Licensees unhindered access to the Software&apos;s full Source Code
+            <p>and that, in the event that only the Software's Object Code is redistributed, the
+               Licensee allows future Licensees unhindered access to the Software's full Source Code
                by providing them with the terms and conditions for access thereto, it being understood
                that the additional cost of acquiring the Source Code shall not exceed the cost of
                transferring the data.</p>
@@ -212,10 +309,10 @@
           </li>
           <li>
             <b>2.</b>
-            <p>a notice relating to the limitation of both the Licensor&apos;s warranty and liability as set
+            <p>a notice relating to the limitation of both the Licensor's warranty and liability as set
                forth in Articles 8 and 9,</p>
-            <p>and that, in the event that only the Modified Software&apos;s Object Code is redistributed,
-               the Licensee allows future Licensees unhindered access to the Modified Software&apos;s
+            <p>and that, in the event that only the Modified Software's Object Code is redistributed,
+               the Licensee allows future Licensees unhindered access to the Modified Software's
                full Source Code by providing them with the terms and conditions for access thereto, it
                being understood that the additional cost of acquiring the Source Code shall not exceed
                the cost of transferring the data.</p>
@@ -230,18 +327,19 @@
             <p>In the event that the Modified Software includes a code that is subject to the provisions of
                the GPL License, the Licensee is authorized to redistribute the Modified Software under
                the GPL License.</p>
-            <p>Article 6 - INTELLECTUAL PROPERTY</p>
+            
           </li>
         </list>
         <li>
-          <b>6.1.</b>
-          <p>OVER THE INITIAL SOFTWARE</p>
-          <p>The Holder owns the economic rights over the Initial Software. Any or all use of the Initial
+            <p>Article 6 - INTELLECTUAL PROPERTY</p>
+            <b>6.1.</b>
+            <p>OVER THE INITIAL SOFTWARE</p>
+            <p>The Holder owns the economic rights over the Initial Software. Any or all use of the Initial
              Software is subject to compliance with the terms and conditions under which the Holder has
              elected to distribute its work and no one shall be entitled to and it shall have sole
              entitlement to modify the terms and conditions for the distribution of said Initial
              Software.</p>
-          <p>The Holder undertakes to maintain the distribution of the Initial Software under the conditions
+            <p>The Holder undertakes to maintain the distribution of the Initial Software under the conditions
              of the Agreement, for the duration set forth in article 4.2..</p>
         </li>
         <li>
@@ -273,7 +371,7 @@
             <p>to reproduce said notices, in an identical manner, in the copies of the Software.</p>
             <p>6.4.2. The Licensee undertakes not to directly or indirectly infringe the intellectual
                property rights of the Holder and/or Contributors and to take, where applicable,
-               vis-&#xE0;-vis its staff, any or all measures required to ensure respect for said
+               vis-à-vis its staff, any or all measures required to ensure respect for said
                intellectual property rights of the Holder and/or Contributors.</p>
             <p>Article 7 - RELATED SERVICES</p>
           </li>
@@ -305,12 +403,12 @@
         </li>
         <li>
           <b>8.2.</b>
-          <p>The Licensor&apos;s liability is limited to the commitments made under this Licensing Agreement
-             and shall not be incurred as a result , in particular: (i) of loss due the Licensee&apos;s
+          <p>The Licensor's liability is limited to the commitments made under this Licensing Agreement
+             and shall not be incurred as a result , in particular: (i) of loss due the Licensee's
              total or partial failure to fulfill its obligations, (ii) direct or consequential loss due to
-             the Software&apos;s use or performance that is suffered by the Licensee, when the latter is a
+             the Software's use or performance that is suffered by the Licensee, when the latter is a
              professional using said Software for professional purposes and (iii) consequential loss due to
-             the Software&apos;s use or performance. The Parties expressly agree that any or all pecuniary
+             the Software's use or performance. The Parties expressly agree that any or all pecuniary
              or business loss (i.e. loss of data, loss of profits, operating loss, loss of customers or
              orders, opportunity cost, any disturbance to business activities) or any or all legal
              proceedings instituted against the Licensee by a third party, shall constitute consequential
@@ -322,10 +420,10 @@
           <p>The Licensee acknowledges that the current situation as regards scientific and technical know-how
              at the time when the Software was distributed did not enable all possible uses to be tested
              and verified, nor for the presence of any or all faults to be detected. In this respect, the
-             Licensee&apos;s attention has been drawn to the risks associated with loading, using,
+             Licensee's attention has been drawn to the risks associated with loading, using,
              modifying and/or developing and reproducing the Software that are reserved for experienced
              users.</p>
-          <p>The Licensee shall be responsible for verifying, by any or all means, the product&apos;s
+          <p>The Licensee shall be responsible for verifying, by any or all means, the product's
              suitability for its requirements, its due and proper functioning, and for ensuring that it
              shall not cause damage to either persons or property.</p>
         </li>
@@ -337,13 +435,13 @@
         </li>
         <li>
           <b>9.3.</b>
-          <p>The Licensee acknowledges that the Software is supplied &quot;as is&quot; by the Licensor without
+          <p>The Licensee acknowledges that the Software is supplied "as is" by the Licensor without
              any or all other express or tacit warranty, other than that provided for in Article 9.2 and,
              in particular, without any or all warranty as to its market value, its secured, innovative or
              relevant nature.</p>
           <p>Specifically, the Licensor does not warrant that the Software is free from any or all error, that
-             it shall operate continuously, that it shall be compatible with the Licensee&apos;s own
-             equipment and its software configuration, nor that it shall meet the Licensee&apos;s
+             it shall operate continuously, that it shall be compatible with the Licensee's own
+             equipment and its software configuration, nor that it shall meet the Licensee's
              requirements.</p>
         </li>
         <li>
@@ -356,8 +454,8 @@
              the Licensee, the Licensor shall provide it with technical and legal assistance for its
              defense. Such technical and legal assistance shall be decided upon on a case-by-case basis
              between the relevant Licensor and the Licensee pursuant to a memorandum of understanding. The
-             Licensor disclaims any or all liability as regards the Licensee&apos;s use of the
-             Software&apos;s name. No warranty shall be provided as regards the existence of prior rights
+             Licensor disclaims any or all liability as regards the Licensee's use of the
+             Software's name. No warranty shall be provided as regards the existence of prior rights
              over the name of the Software and as regards the existence of a trademark.</p>
           <p>Article 10 - TERMINATION</p>
         </li>
@@ -446,7 +544,7 @@
              the Paris Courts having jurisdiction, by the first Party to take action.</p>
         </li>
       </list>
-    </body>
+    
     <optional>
       <p>Version 1.1 of 10/26/2004</p>
     </optional>
