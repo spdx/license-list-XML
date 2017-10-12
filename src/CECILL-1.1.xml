@@ -45,7 +45,7 @@
                 </li>
             </list>
         </p>
-      
+      </optional>
       <p>PREAMBLE</p>
       <list>
           <li>
@@ -77,7 +77,7 @@
                  submit the operation thereof to its provisions.</p>
           </li>
       </list>
-    </optional>
+
     <list>
         <li>
             <p>Article 1 - DEFINITIONS</p>
@@ -545,8 +545,7 @@
         </li>
       </list>
     
-    <optional>
       <p>Version 1.1 of 10/26/2004</p>
-    </optional>
+
   </license>
 </SPDX>
