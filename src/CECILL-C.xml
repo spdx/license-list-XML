@@ -104,15 +104,17 @@
                         <b>3.1</b>
                         <p>L'acceptation par le Licencié des termes du Contrat est réputée acquise du fait du premier des
                          faits suivants:</p>
-                    </li>
-                    <li>
-                        <b>(i)</b>
-                        <p>le chargement du Logiciel par tout moyen notamment par téléchargement à partir d'un serveur
-                         distant ou par chargement à partir d'un support physique;</p>
-                    </li>
-                    <li>
-                        <b>(ii)</b>
-                        <p>le premier exercice par le Licencié de l'un quelconque des droits concédés par le Contrat.</p>
+                        <list>
+                            <li>
+                                <b>(i)</b>
+                                <p>le chargement du Logiciel par tout moyen notamment par téléchargement à partir d'un serveur
+                                 distant ou par chargement à partir d'un support physique;</p>
+                            </li>
+                            <li>
+                                <b>(ii)</b>
+                                <p>le premier exercice par le Licencié de l'un quelconque des droits concédés par le Contrat.</p>
+                            </li>
+                        </list>
                     </li>
                     <li>
                         <b>3.2</b>
@@ -150,7 +152,6 @@
                  utiliseraient, exploiteraient ou modifieraient le Logiciel. En cas de cession de ces brevets,
                  le Concédant s'engage à faire reprendre les obligations du présent alinéa aux
                  cessionnaires.</p>
-                 
                 <list>
                     <li>
                       <b>5.1</b>
