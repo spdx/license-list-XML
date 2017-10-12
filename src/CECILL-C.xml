@@ -40,6 +40,7 @@
              105, 78153 Le Chesnay cedex.</p>
           </li>
         </list>
+        </optional>
         <p>Préambule</p>
         <p>Ce contrat est une licence de logiciel libre dont l'objectif est de conférer aux utilisateurs la liberté
          de modifier et de réutiliser le logiciel régi par cette licence.</p>
@@ -60,8 +61,7 @@
          sans ajout ni suppression de clauses.</p>
         <p>Ce contrat est susceptible de s'appliquer à tout logiciel dont le titulaire des droits patrimoniaux
          décide de soumettre l'exploitation aux dispositions qu'il contient.</p>
-    </optional>
-    <body>
+
         <list>
             <li>
                 <p>Article 1 - DEFINITIONS</p>
