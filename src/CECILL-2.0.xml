@@ -27,6 +27,7 @@
       <p>Institut National de Recherche en Informatique et en Automatique - INRIA, établissement public à
          caractère scientifique et technologique, dont le siège est situé Domaine de Voluceau, Rocquencourt, BP
          105, 78153 Le Chesnay cedex.</p>
+     </optional>
       <p>Préambule</p>
       <p>Ce contrat est une licence de logiciel libre dont l'objectif est de conférer aux utilisateurs la liberté
          de modification et de redistribution du logiciel régi par cette licence dans le cadre d'un modèle de
@@ -48,8 +49,7 @@
          sans ajout ni suppression de clauses.</p>
       <p>Ce contrat est susceptible de s'appliquer à tout logiciel dont le titulaire des droits patrimoniaux
          décide de soumettre l'exploitation aux dispositions qu'il contient.</p>
-    </optional>
-    <body>
+
       <p>Article 1 - DEFINITIONS</p>
       <p>Dans ce contrat, les termes suivants, lorsqu'ils seront écrits avec une lettre capitale, auront la
          signification suivante:</p>
@@ -398,9 +398,7 @@
         </li>
       </list>
       <p>1 CeCILL est pour Ce(a) C(nrs) I(nria) L(ogiciel) L(ibre)</p>
-    </body>
-    <optional>
+
       <p>Version 2.0 du 2006-09-05.</p>
-    </optional>
   </license>
 </SPDX>
