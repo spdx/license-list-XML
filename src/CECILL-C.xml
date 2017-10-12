@@ -11,22 +11,45 @@
       <p>Avertissement</p>
       <p>Ce contrat est une licence de logiciel libre issue d'une concertation entre ses auteurs afin que le
          respect de deux grands principes préside à sa rédaction:</p>
+      <list>
+        <li>
       <p>d'une part, le respect des principes de diffusion des logiciels libres: accès au code source, droits
-         étendus conférés aux utilisateurs, 
-        <br/>d'autre part, la désignation d'un droit applicable, le droit français, auquel elle est conforme,
+        étendus conférés aux utilisateurs,</p>
+        </li>
+        <li>
+        d'autre part, la désignation d'un droit applicable, le droit français, auquel elle est conforme,
              tant au regard du droit de la responsabilité civile que du droit de la propriété
              intellectuelle et de la protection qu'il offre aux auteurs et titulaires des droits
-             patrimoniaux sur un logiciel. 
-        <br/>Les auteurs de la licence CeCILL-C1 sont: 
-      </p>
-      <p>Commissariat à l'Energie Atomique - CEA, établissement public de recherche à caractère scientifique,
-         technique et industriel, dont le siège est situé 25 rue Leblanc, immeuble Le Ponant D, 75015
-         Paris.</p>
-      <p>Centre National de la Recherche Scientifique - CNRS, établissement public à caractère scientifique et
-         technologique, dont le siège est situé 3 rue Michel-Ange, 75794 Paris cedex 16.</p>
-      <p>Institut National de Recherche en Informatique et en Automatique - INRIA, établissement public à
-         caractère scientifique et technologique, dont le siège est situé Domaine de Voluceau, Rocquencourt, BP
-         105, 78153 Le Chesnay cedex.</p>
+          patrimoniaux sur un logiciel.</p>
+        </li>
+      </list>
+    <p>Les auteurs de la licence CeCILL-C1 sont:</p>
+      <list>
+        <li>
+          <p>Commissariat à l'Energie Atomique - CEA, établissement public de recherche à caractère scientifique,
+             technique et industriel, dont le siège est situé 25 rue Leblanc, immeuble Le Ponant D, 75015
+             Paris.</p>
+        </li>
+        <li>
+          <p>Centre National de la Recherche Scientifique - CNRS, établissement public à caractère scientifique et
+             technologique, dont le siège est situé 3 rue Michel-Ange, 75794 Paris cedex 16.</p>
+        </li>
+        <li>
+          <p>Institut National de Recherche en Informatique et en Automatique - INRIA, établissement public à
+             caractère scientifique et technologique, dont le siège est situé Domaine de Voluceau, Rocquencourt, BP
+             105, 78153 Le Chesnay cedex.</p>
+        </li>
+    </list>
+    
+    
+    
+    
+    
+    <------ Brad reviewed through here ------>
+    
+    
+    
+    
       <p>Préambule</p>
       <p>Ce contrat est une licence de logiciel libre dont l'objectif est de conférer aux utilisateurs la liberté
          de modifier et de réutiliser le logiciel régi par cette licence.</p>
