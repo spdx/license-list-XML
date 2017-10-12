@@ -213,9 +213,11 @@
                         <p>Le Licencié est autorisé à distribuer le Logiciel Modifié sous forme de code source ou de code
                          objet, à condition que cette distribution respecte les dispositions du Contrat dans leur
                          totalité et soit accompagnée:</p>
-                        <p>d'un exemplaire du Contrat,</p>
-                        <p>d'un avertissement relatif à la restriction de garantie et de responsabilité du Concédant telle
-                         que prévue aux articles 8 et 9,</p>
+                        <list>
+                          <li><p>d'un exemplaire du Contrat,</p></li>
+                          <li><p>d'un avertissement relatif à la restriction de garantie et de responsabilité du Concédant telle
+                          que prévue aux articles 8 et 9,</p></li>
+                        </list>
                         <p>et que, dans le cas où seul le code objet du Logiciel Modifié est redistribué, le Licencié
                          permette un accès effectif à son code source complet pendant au moins toute la durée de sa
                          distribution du Logiciel Modifié, étant entendu que le coût additionnel d'acquisition du code
