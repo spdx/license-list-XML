@@ -46,23 +46,17 @@
             </list>
         </p>
       </optional>
+    <list>
+        <li>
       <p>PREAMBLE</p>
-      <list>
-          <li>
               <p>The purpose of this Free Software Licensing Agreement is to grant users the right to modify and
                  redistribute the software governed by this license within the framework of an "open source"
                  distribution model.</p>
-          </li>
-          <li>
               <p>The exercising of these rights is conditional upon certain obligations for users so as to ensure that
                  this status is retained for subsequent redistribution operations.</p>
-          </li>
-          <li>
               <p>As a counterpart to the access to the source code and rights to copy, modify and redistribute granted by
                  the license, users are provided only with a limited warranty and the software's author, the
                  holder of the economic rights, and the successive licensors only have limited liability.</p>
-          </li>
-          <li>
               <p>In this respect, it is brought to the user's attention that the risks associated with loading,
                  using, modifying and/or developing or reproducing the software by the user given its nature of Free
                  Software, that may mean that it is complicated to manipulate, and that also therefore means that it is
@@ -71,16 +65,12 @@
                  conditions enabling the security of their systems and/or data to be ensured and, more generally, to
                  use and operate it in the same conditions of security. This Agreement may be freely reproduced and
                  published, provided it is not altered, and that no Articles are either added or removed herefrom.</p>
-          </li>
-          <li>
               <p>This Agreement may apply to any or all software for which the holder of the economic rights decides to
                  submit the operation thereof to its provisions.</p>
-          </li>
-      </list>
-
-    <list>
+	 </li>
         <li>
-            <p>Article 1 - DEFINITIONS</p>
+	  <b>Article 1 - </b>
+	  <p>DEFINITIONS</p>
             <p>For the purposes of this Agreement, when the following expressions commence with a capital letter, they
              shall have the following meaning:</p>
             <list>
@@ -145,13 +135,15 @@
             <p>These expressions may be used both in singular and plural form.</p>
         </li>
         <li>
-            <p>Article 2 - PURPOSE</p>
+	  <b>Article 2 - </b>
+	  <p>PURPOSE</p>
             <p>The purpose of the Agreement is to enable the Licensor to grant the Licensee a free, non-exclusive,
              transferable and worldwide License for the Software as set forth in Article 5 hereinafter for the
              whole term of protection of the rights over said Software.</p>
         </li>
         <li>
-            <p>Article 3 - ACCEPTANCE</p>
+	  <b>Article 3 - </b>
+	  <p>ACCEPTANCE</p>
             <list>
                 <li>
                     <b>3.1.</b>
@@ -180,7 +172,8 @@
             </list>
         </li>
         <li>
-            <p>Article 4 - EFFECTIVE DATE AND TERM</p>
+	  <b>Article 4 - </b>
+	  <p>EFFECTIVE DATE AND TERM</p>
             <list>
                 <li>
                     <b>4.1.</b>
@@ -196,49 +189,21 @@
                 </li>
             </list>
         </li>
-        
-        
-        
-        <----------- Brad reviewed through here ----------->
-        
-        
-        
-        
         <li>
-            <p>Article 5 - SCOPE OF THE RIGHTS GRANTED ---------------------------------------</p>
+	  <b>Article 5 - </b>
+	  <p>SCOPE OF THE RIGHTS GRANTED <optional>---------------------------------------</optional></p>
             <p>The Licensor hereby grants to the Licensee, that accepts such, the following rights as regards
              the Software for any or all use, and for the term of the Agreement, on the basis of the terms
              and conditions set forth hereinafter.</p>
             <p>Otherwise, the Licensor grants to the Licensee free of charge exploitation rights on the patents
              he holds on whole or part of the inventions implemented in the Software.</p>
             <list>
-                
-            </list>
-            
-        </li>
-        
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-       
         <li>
           <b>5.1.</b>
-          <p>RIGHTS OF USE 
-            <br/>The Licensee is authorized to use the Software, unrestrictedly, as regards the fields of
+	  <p>RIGHTS OF USE </p>
+            <p>The Licensee is authorized to use the Software, unrestrictedly, as regards the fields of
                  application, with it being hereinafter specified that this relates to: 
           </p>
-        </li>
         <list>
           <li>
             <b>1.</b>
@@ -258,9 +223,10 @@
                out hereunder.</p>
           </li>
         </list>
+        </li>
         <li>
           <b>5.2.</b>
-          <p>entitlement to make CONTRIBUTIONS</p>
+          <p>ENTITLEMENT TO MAKE CONTRIBUTIONS</p>
           <p>The right to make Contributions includes the right to translate, adapt, arrange, or make any or
              all modification to the Software, and the right to reproduce the resulting Software.</p>
           <p>The Licensee is authorized to make any or all Contribution to the Software provided that it
@@ -276,11 +242,13 @@
              of the Software by means of any or all process. The Licensee is further authorized to
              redistribute copies of the modified or unmodified Software to third parties according to the
              terms and conditions set forth hereinafter.</p>
-          <p>5.3.1. REDISTRIBUTION OF SOFTWARE WITHOUT MODIFICATION</p>
+	 <list>
+	     <li>
+		 <b>5.3.1.</b>
+		     <p>REDISTRIBUTION OF SOFTWARE WITHOUT MODIFICATION</p>
           <p>The Licensee is authorized to redistribute true copies of the Software in Source Code or Object
              Code form, provided that said redistribution complies with all the provisions of the Agreement
              and is accompanied by:</p>
-        </li>
         <list>
           <li>
             <b>1.</b>
@@ -290,19 +258,24 @@
             <b>2.</b>
             <p>a notice relating to the limitation of both the Licensor's warranty and liability as set
                forth in Articles 8 and 9,</p>
+	   </li>
+	 </list>
             <p>and that, in the event that only the Software's Object Code is redistributed, the
                Licensee allows future Licensees unhindered access to the Software's full Source Code
                by providing them with the terms and conditions for access thereto, it being understood
                that the additional cost of acquiring the Source Code shall not exceed the cost of
                transferring the data.</p>
-            <p>5.3.2. REDISTRIBUTION OF MODIFIED SOFTWARE</p>
+	   </li>
+	   <li>
+	   <b>5.3.2.</b>
+	   <p>REDISTRIBUTION OF MODIFIED SOFTWARE</p>
             <p>When the Licensee makes a Contribution to the Software, the terms and conditions for the
                redistribution of the Modified Software shall then be subject to all the provisions
                hereof.</p>
             <p>The Licensee is authorized to redistribute the Modified Software, in Source Code or Object
                Code form, provided that said redistribution complies with all the provisions of the
                Agreement and is accompanied by:</p>
-          </li>
+        <list>
           <li>
             <b>1.</b>
             <p>a copy of the Agreement,</p>
@@ -311,27 +284,41 @@
             <b>2.</b>
             <p>a notice relating to the limitation of both the Licensor's warranty and liability as set
                forth in Articles 8 and 9,</p>
+          </li>
+	   </list>
             <p>and that, in the event that only the Modified Software's Object Code is redistributed,
                the Licensee allows future Licensees unhindered access to the Modified Software's
                full Source Code by providing them with the terms and conditions for access thereto, it
                being understood that the additional cost of acquiring the Source Code shall not exceed
                the cost of transferring the data.</p>
-            <p>5.3.3. redistribution OF DYNAMIC MODULES</p>
+          </li>
+          <li>
+	    <b>5.3.3.</b>
+	    <p>REDISTRIBUTION OF DYNAMIC MODULES</p>
             <p>When the Licensee has developed a Dynamic Module, the terms and conditions hereof do not
                apply to said Dynamic Module, that may be distributed under a separate Licensing
                Agreement.</p>
-            <p>5.3.4. COMPATIBILITY WITH THE GPL LICENSE</p>
+          </li>
+          <li>
+	    <b>5.3.4.</b>
+            <p>COMPATIBILITY WITH THE GPL LICENSE</p>
             <p>In the event that the Modified or unmodified Software is included in a code that is subject
                to the provisions of the GPL License, the Licensee is authorized to redistribute the whole
                under the GPL License.</p>
             <p>In the event that the Modified Software includes a code that is subject to the provisions of
                the GPL License, the Licensee is authorized to redistribute the Modified Software under
                the GPL License.</p>
-            
           </li>
         </list>
+        </li>
+        </list>
+        </li>
+
         <li>
-            <p>Article 6 - INTELLECTUAL PROPERTY</p>
+	  <b>Article 6 - </b>
+	  <p>INTELLECTUAL PROPERTY</p>
+	    <list>
+	      <li>
             <b>6.1.</b>
             <p>OVER THE INITIAL SOFTWARE</p>
             <p>The Holder owns the economic rights over the Initial Software. Any or all use of the Initial
@@ -358,8 +345,9 @@
         <li>
           <b>6.4.</b>
           <p>JOINT PROVISIONS</p>
+	    <list>
+	      <li>
           <p>6.4.1. The Licensee expressly undertakes:</p>
-        </li>
         <list>
           <li>
             <b>1.</b>
@@ -369,13 +357,23 @@
           <li>
             <b>2.</b>
             <p>to reproduce said notices, in an identical manner, in the copies of the Software.</p>
+	  </li>
+	</list>
+        </li>
+	      <li>
             <p>6.4.2. The Licensee undertakes not to directly or indirectly infringe the intellectual
                property rights of the Holder and/or Contributors and to take, where applicable,
                vis-à-vis its staff, any or all measures required to ensure respect for said
                intellectual property rights of the Holder and/or Contributors.</p>
-            <p>Article 7 - RELATED SERVICES</p>
-          </li>
+	   </li>
         </list>
+        </li>
+        </list>
+        </li>
+          <li>
+	    <b>Article 7 - </b>
+	    <p>RELATED SERVICES</p>
+        <list>
         <li>
           <b>7.1.</b>
           <p>Under no circumstances shall the Agreement oblige the Licensor to provide technical assistance or
@@ -392,8 +390,13 @@
              the Software and/or the Modified Software, under terms and conditions that it shall decide
              upon itself. Said warranty, and the financial terms and conditions of its application, shall
              be subject to a separate instrument executed between the Licensor and the Licensee.</p>
-          <p>Article 8 - LIABILITY</p>
         </li>
+        </list>
+        </li>
+        <li>
+	  <b>Article 8 - </b>
+	  <p>LIABILITY</p>
+        <list>
         <li>
           <b>8.1.</b>
           <p>Subject to the provisions of Article 8.2, should the Licensor fail to fulfill all or part of its
@@ -413,8 +416,13 @@
              orders, opportunity cost, any disturbance to business activities) or any or all legal
              proceedings instituted against the Licensee by a third party, shall constitute consequential
              loss and shall not provide entitlement to any or all compensation from the Licensor.</p>
-          <p>Article 9 - WARRANTY</p>
         </li>
+      </list>
+        </li>
+        <li>
+	  <b>Article 9 - </b>
+	  <p>WARRANTY</p>
+      <list>
         <li>
           <b>9.1.</b>
           <p>The Licensee acknowledges that the current situation as regards scientific and technical know-how
@@ -457,8 +465,13 @@
              Licensor disclaims any or all liability as regards the Licensee's use of the
              Software's name. No warranty shall be provided as regards the existence of prior rights
              over the name of the Software and as regards the existence of a trademark.</p>
-          <p>Article 10 - TERMINATION</p>
         </li>
+      </list>
+        </li>
+        <li>
+	  <b>Article 10 - </b>
+	  <p>TERMINATION</p>
+      <list>
         <li>
           <b>10.1.</b>
           <p>In the event of a breach by the Licensee of its obligations hereunder, the Licensor may
@@ -471,8 +484,13 @@
              distribute the Software. However, any or all licenses that it may have granted prior to
              termination of the Agreement shall remain valid subject to their having been granted in
              compliance with the terms and conditions hereof.</p>
-          <p>Article 11 - MISCELLANEOUS PROVISIONS</p>
         </li>
+      </list>
+        </li>
+        <li>
+	  <b>Article 11 - </b>
+	  <p>MISCELLANEOUS PROVISIONS</p>
+      <list>
         <li>
           <b>11.1.</b>
           <p>EXCUSABLE EVENTS</p>
@@ -511,8 +529,13 @@
           <p>LANGUAGE</p>
           <p>The Agreement is drafted in both French and English. In the event of a conflict as regards
              construction, the French version shall be deemed authentic.</p>
-          <p>Article 12 - NEW VERSIONS OF THE AGREEMENT</p>
         </li>
+      </list>
+        </li>
+        <li>
+	  <b>Article 12 - </b>
+	  <p>NEW VERSIONS OF THE AGREEMENT</p>
+        <list>
         <li>
           <b>12.1.</b>
           <p>Any or all person is authorized to duplicate and distribute copies of this Agreement.</p>
@@ -529,8 +552,13 @@
           <p>Any or all Software distributed under a given version of the Agreement may only be subsequently
              distributed under the same version of the Agreement, or a subsequent version, subject to the
              provisions of article 5.3.4.</p>
-          <p>Article 13 - GOVERNING LAW AND JURISDICTION</p>
         </li>
+      </list>
+        </li>
+        <li>
+	  <b>Article 13 - </b>
+	  <p>GOVERNING LAW AND JURISDICTION</p>
+        <list>
         <li>
           <b>13.1.</b>
           <p>The Agreement is governed by French law. The Parties agree to endeavor to settle the
@@ -542,6 +570,8 @@
           <p>In the absence of an out-of-court settlement within two (2) months as from their occurrence, and
              unless emergency proceedings are necessary, the disagreements or disputes shall be referred to
              the Paris Courts having jurisdiction, by the first Party to take action.</p>
+        </li>
+      </list>
         </li>
       </list>
     
