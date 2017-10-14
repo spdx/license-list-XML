@@ -11,45 +11,64 @@
       <p>Avertissement</p>
       <p>Ce contrat est une licence de logiciel libre issue d'une concertation entre ses auteurs afin que le
          respect de deux grands principes préside à sa rédaction:</p>
-      <p>d'une part, le respect des principes de diffusion des logiciels libres: accès au code source, droits
-         étendus conférés aux utilisateurs, 
-        <br/>d'autre part, la désignation d'un droit applicable, le droit français, auquel elle est conforme,
+      <list>
+          <li>
+            <p>d'une part, le respect des principes de diffusion des logiciels libres: accès au code source, droits
+             étendus conférés aux utilisateurs,</p>
+          </li>
+          <li>
+            <p>d'autre part, la désignation d'un droit applicable, le droit français, auquel elle est conforme,
              tant au regard du droit de la responsabilité civile que du droit de la propriété
              intellectuelle et de la protection qu'il offre aux auteurs et titulaires des droits
-             patrimoniaux sur un logiciel. 
-        <br/>Les auteurs de la licence CeCILL-B1 sont: 
-      </p>
-      <p>Commissariat à l'Energie Atomique - CEA, établissement public de recherche à caractère scientifique,
-         technique et industriel, dont le siège est situé 25 rue Leblanc, immeuble Le Ponant D, 75015
-         Paris.</p>
-      <p>Centre National de la Recherche Scientifique - CNRS, établissement public à caractère scientifique et
-         technologique, dont le siège est situé 3 rue Michel-Ange, 75794 Paris cedex 16.</p>
-      <p>Institut National de Recherche en Informatique et en Automatique - INRIA, établissement public à
-         caractère scientifique et technologique, dont le siège est situé Domaine de Voluceau, Rocquencourt, BP
-         105, 78153 Le Chesnay cedex.</p>
+             patrimoniaux sur un logiciel.</p>
+          </li>
+      </list>
+      <p>Les auteurs de la licence CeCILL-B1 sont:</p>
+      <list>
+          <li>
+            <p>Commissariat à l'Energie Atomique - CEA, établissement public de recherche à caractère scientifique,
+             technique et industriel, dont le siège est situé 25 rue Leblanc, immeuble Le Ponant D, 75015
+             Paris.</p>
+          </li>
+          <li>
+            <p>Centre National de la Recherche Scientifique - CNRS, établissement public à caractère scientifique et
+             technologique, dont le siège est situé 3 rue Michel-Ange, 75794 Paris cedex 16.</p>
+          </li>
+          <li>
+            <p>Institut National de Recherche en Informatique et en Automatique - INRIA, établissement public à
+             caractère scientifique et technologique, dont le siège est situé Domaine de Voluceau, Rocquencourt, BP
+             105, 78153 Le Chesnay cedex.</p>
+          </li>
+      </list>
     </optional>
-      
-      <p>Préambule</p>
-      <p>Ce contrat est une licence de logiciel libre dont l'objectif est de conférer aux utilisateurs une très
-         large liberté de modification et de redistribution du logiciel régi par cette licence.</p>
-      <p>L'exercice de cette liberté est assorti d'une obligation forte de citation à la charge de ceux qui
-         distribueraient un logiciel incorporant un logiciel régi par la présente licence afin d'assurer que
-         les contributions de tous soient correctement identifiées et reconnues.</p>
-      <p>L'accessibilité au code source et les droits de copie, de modification et de redistribution qui découlent
-         de ce contrat ont pour contrepartie de n'offrir aux utilisateurs qu'une garantie limitée et de ne
-         faire peser sur l'auteur du logiciel, le titulaire des droits patrimoniaux et les concédants
-         successifs qu'une responsabilité restreinte.</p>
-      <p>A cet égard l'attention de l'utilisateur est attirée sur les risques associés au chargement, à
-         l'utilisation, à la modification et/ou au développement et à la reproduction du logiciel par
-         l'utilisateur étant donné sa spécificité de logiciel libre, qui peut le rendre complexe à manipuler et
-         qui le réserve donc à des développeurs ou des professionnels avertis possédant des connaissances
-         informatiques approfondies. Les utilisateurs sont donc invités à charger et tester l'adéquation du
-         logiciel à leurs besoins dans des conditions permettant d'assurer la sécurité de leurs systèmes et/ou
-         de leurs données et, plus généralement, à l'utiliser et l'exploiter dans les mêmes conditions de
-         sécurité. Ce contrat peut être reproduit et diffusé librement, sous réserve de le conserver en l'état,
-         sans ajout ni suppression de clauses.</p>
-      <p>Ce contrat est susceptible de s'appliquer à tout logiciel dont le titulaire des droits patrimoniaux
-         décide de soumettre l'exploitation aux dispositions qu'il contient.</p>
+    <p>Préambule</p>
+    <p>Ce contrat est une licence de logiciel libre dont l'objectif est de conférer aux utilisateurs une très
+     large liberté de modification et de redistribution du logiciel régi par cette licence.</p>
+    <p>L'exercice de cette liberté est assorti d'une obligation forte de citation à la charge de ceux qui
+     distribueraient un logiciel incorporant un logiciel régi par la présente licence afin d'assurer que
+     les contributions de tous soient correctement identifiées et reconnues.</p>
+    <p>L'accessibilité au code source et les droits de copie, de modification et de redistribution qui découlent
+     de ce contrat ont pour contrepartie de n'offrir aux utilisateurs qu'une garantie limitée et de ne
+     faire peser sur l'auteur du logiciel, le titulaire des droits patrimoniaux et les concédants
+     successifs qu'une responsabilité restreinte.</p>
+    <p>A cet égard l'attention de l'utilisateur est attirée sur les risques associés au chargement, à
+     l'utilisation, à la modification et/ou au développement et à la reproduction du logiciel par
+     l'utilisateur étant donné sa spécificité de logiciel libre, qui peut le rendre complexe à manipuler et
+     qui le réserve donc à des développeurs ou des professionnels avertis possédant des connaissances
+     informatiques approfondies. Les utilisateurs sont donc invités à charger et tester l'adéquation du
+     logiciel à leurs besoins dans des conditions permettant d'assurer la sécurité de leurs systèmes et/ou
+     de leurs données et, plus généralement, à l'utiliser et l'exploiter dans les mêmes conditions de
+     sécurité. Ce contrat peut être reproduit et diffusé librement, sous réserve de le conserver en l'état,
+     sans ajout ni suppression de clauses.</p>
+    <p>Ce contrat est susceptible de s'appliquer à tout logiciel dont le titulaire des droits patrimoniaux
+     décide de soumettre l'exploitation aux dispositions qu'il contient.</p>
+
+
+
+    <----- Brad reviewed through here ----->
+    
+    
+    
 
       <p>Article 1 - DEFINITIONS</p>
       <p>Dans ce contrat, les termes suivants, lorsqu'ils seront écrits avec une lettre capitale, auront la
