@@ -23,6 +23,7 @@
              patrimoniaux sur un logiciel.</p>
           </li>
       </list>
+      
       <p>Les auteurs de la licence CeCILL-B1 sont:</p>
       <list>
           <li>
@@ -41,6 +42,7 @@
           </li>
       </list>
     </optional>
+      
     <p>Préambule</p>
     <p>Ce contrat est une licence de logiciel libre dont l'objectif est de conférer aux utilisateurs une très
      large liberté de modification et de redistribution du logiciel régi par cette licence.</p>
@@ -64,44 +66,84 @@
      décide de soumettre l'exploitation aux dispositions qu'il contient.</p>
 
 
+    <list>
+        <li>
+            <p>Article 1 - DEFINITIONS</p>
+            <p>Dans ce contrat, les termes suivants, lorsqu'ils seront écrits avec une lettre capitale, auront la
+             signification suivante:</p>
+            <list>
+                <li>
+                    <p>Contrat: désigne le présent contrat de licence, ses éventuelles versions postérieures et annexes.</p>
+                </li>
+                <li>
+                    <p>Logiciel: désigne le logiciel sous sa forme de Code Objet et/ou de Code Source et le cas échéant sa
+                     documentation, dans leur état au moment de l'acceptation du Contrat par le Licencié.</p>
+                </li>
+                <li>
+                    <p>Logiciel Initial: désigne le Logiciel sous sa forme de Code Source et éventuellement de Code Objet et le
+                     cas échéant sa documentation, dans leur état au moment de leur première diffusion sous les termes du
+                     Contrat.</p>
+                </li>
+                <li>
+                    <p>Logiciel Modifié: désigne le Logiciel modifié par au moins une Contribution.</p>
+                </li>
+                <li>
+                    <p>Code Source: désigne l'ensemble des instructions et des lignes de programme du Logiciel et auquel l'accès
+                     est nécessaire en vue de modifier le Logiciel.</p>
+                </li>
+                <li>
+                    <p>Code Objet: désigne les fichiers binaires issus de la compilation du Code Source.</p>
+                </li>
+                <li>
+                    <p>Titulaire: désigne le ou les détenteurs des droits patrimoniaux d'auteur sur le Logiciel Initial.</p>
+                </li>
+                <li>
+                    <p>Licencié: désigne le ou les utilisateurs du Logiciel ayant accepté le Contrat.</p>
+                </li>
+                <li>
+                    <p>Contributeur: désigne le Licencié auteur d'au moins une Contribution.</p>
+                </li>
+                <li>
+                    <p>Concédant: désigne le Titulaire ou toute personne physique ou morale distribuant le Logiciel sous le
+                     Contrat.</p>
+                </li>
+                <li>
+                    <p>Contribution: désigne l'ensemble des modifications, corrections, traductions, adaptations et/ou nouvelles
+                     fonctionnalités intégrées dans le Logiciel par tout Contributeur, ainsi que tout Module Interne.</p>
+                </li>
+                <li>
+                    <p>Module: désigne un ensemble de fichiers sources y compris leur documentation qui permet de réaliser des
+                     fonctionnalités ou services supplémentaires à ceux fournis par le Logiciel.</p>
+                </li>
+                <li>
+                    <p>Module Externe: désigne tout Module, non dérivé du Logiciel, tel que ce Module et le Logiciel s'exécutent
+                     dans des espaces d'adressage différents, l'un appelant l'autre au moment de leur exécution.</p>
+                </li>
+                <li>
+                    <p>Module Interne: désigne tout Module lié au Logiciel de telle sorte qu'ils s'exécutent dans le même espace
+                     d'adressage.</p>
+                </li>
+                <li>
+                    <p>Parties: désigne collectivement le Licencié et le Concédant.</p>
+                </li>
+            </list>
+            <p>Ces termes s'entendent au singulier comme au pluriel.</p>
+        </li>
+        <li>
+            <p>Article 2 - OBJET</p>
+            <p>Le Contrat a pour objet la concession par le Concédant au Licencié d'une licence non exclusive, cessible
+             et mondiale du Logiciel telle que définie ci-après à l'article 5 pour toute la durée de protection des
+             droits portant sur ce Logiciel.</p>
+        </li>
+    </list>
 
-    <----- Brad reviewed through here ----->
-    
-    
-    
-
-      <p>Article 1 - DEFINITIONS</p>
-      <p>Dans ce contrat, les termes suivants, lorsqu'ils seront écrits avec une lettre capitale, auront la
-         signification suivante:</p>
-      <p>Contrat: désigne le présent contrat de licence, ses éventuelles versions postérieures et annexes.</p>
-      <p>Logiciel: désigne le logiciel sous sa forme de Code Objet et/ou de Code Source et le cas échéant sa
-         documentation, dans leur état au moment de l'acceptation du Contrat par le Licencié.</p>
-      <p>Logiciel Initial: désigne le Logiciel sous sa forme de Code Source et éventuellement de Code Objet et le
-         cas échéant sa documentation, dans leur état au moment de leur première diffusion sous les termes du
-         Contrat.</p>
-      <p>Logiciel Modifié: désigne le Logiciel modifié par au moins une Contribution.</p>
-      <p>Code Source: désigne l'ensemble des instructions et des lignes de programme du Logiciel et auquel l'accès
-         est nécessaire en vue de modifier le Logiciel.</p>
-      <p>Code Objet: désigne les fichiers binaires issus de la compilation du Code Source.</p>
-      <p>Titulaire: désigne le ou les détenteurs des droits patrimoniaux d'auteur sur le Logiciel Initial.</p>
-      <p>Licencié: désigne le ou les utilisateurs du Logiciel ayant accepté le Contrat.</p>
-      <p>Contributeur: désigne le Licencié auteur d'au moins une Contribution.</p>
-      <p>Concédant: désigne le Titulaire ou toute personne physique ou morale distribuant le Logiciel sous le
-         Contrat.</p>
-      <p>Contribution: désigne l'ensemble des modifications, corrections, traductions, adaptations et/ou nouvelles
-         fonctionnalités intégrées dans le Logiciel par tout Contributeur, ainsi que tout Module Interne.</p>
-      <p>Module: désigne un ensemble de fichiers sources y compris leur documentation qui permet de réaliser des
-         fonctionnalités ou services supplémentaires à ceux fournis par le Logiciel.</p>
-      <p>Module Externe: désigne tout Module, non dérivé du Logiciel, tel que ce Module et le Logiciel s'exécutent
-         dans des espaces d'adressage différents, l'un appelant l'autre au moment de leur exécution.</p>
-      <p>Module Interne: désigne tout Module lié au Logiciel de telle sorte qu'ils s'exécutent dans le même espace
-         d'adressage.</p>
-      <p>Parties: désigne collectivement le Licencié et le Concédant.</p>
-      <p>Ces termes s'entendent au singulier comme au pluriel.</p>
-      <p>Article 2 - OBJET</p>
-      <p>Le Contrat a pour objet la concession par le Concédant au Licencié d'une licence non exclusive, cessible
-         et mondiale du Logiciel telle que définie ci-après à l'article 5 pour toute la durée de protection des
-         droits portant sur ce Logiciel.</p>
+      
+      
+      
+      <------ Brad reviewed through here ----->
+      
+      
+      
       <p>Article 3 - ACCEPTATION</p>
       <list>
         <li>
