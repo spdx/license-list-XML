@@ -9,22 +9,19 @@
       <titleText>
          <p>The Artistic License 2.0</p>
       </titleText>
-      <copyrightText>
-         <p>Copyright (c) 2000-2006, The Perl Foundation.</p>
-      </copyrightText>
-      <optional>
-         <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
+      <p>Copyright (c) 2000-2006, The Perl Foundation.</p>
+
+      <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>
-         <p>Preamble</p>
-         <p>This license establishes the terms under which a given free software Package may be copied, modified,
+      <p>Preamble</p>
+      <p>This license establishes the terms under which a given free software Package may be copied, modified,
          distributed, and/or redistributed. The intent is that the Copyright Holder maintains some artistic
          control over the development of that Package while still keeping the Package available as open source
          and free software.</p>
-         <p>You are always permitted to make arrangements wholly outside of this license directly with the Copyright
+      <p>You are always permitted to make arrangements wholly outside of this license directly with the Copyright
          Holder of a given Package. If the terms of this license do not permit the full use that you propose to
          make of the Package, you should contact the Copyright Holder and seek a different licensing
          arrangement.</p>
-      </optional>
     
       <p>Definitions</p>
       <list>

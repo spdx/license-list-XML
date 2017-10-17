@@ -2,6 +2,9 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isDeprecated="true" licenseId="GPL-3.0-with-autoconf-exception"
             name="GNU General Public License v3.0 w/Autoconf exception">
+      <crossRefs>
+         <crossRef>http://www.gnu.org/licenses/autoconf-exception-3.0.html</crossRef>
+      </crossRefs>
       <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
      
 	     <p>insert GPL v3 text here</p>

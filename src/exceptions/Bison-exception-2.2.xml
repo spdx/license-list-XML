@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <exception licenseId="Bison-exception-2.2" name="Bison exception 2.2">
-      <crossRefs/>
+      <crossRefs>
+         <crossRef>http://git.savannah.gnu.org/cgit/bison.git/tree/data/yacc.c?id=193d7c7054ba7197b0789e14965b739162319b5e#n141</crossRef>
+      </crossRefs>
       <notes>Typically used with GPL-2.0 or GPL-3.0
   </notes>
       <titleText>

@@ -3,6 +3,7 @@
    <license isOsiApproved="false" licenseId="Condor-1.1" name="Condor Public License v1.1">
       <crossRefs>
          <crossRef>http://research.cs.wisc.edu/condor/license.html#condor</crossRef>
+         <crossRef>http://web.archive.org/web/20111123062036/http://research.cs.wisc.edu/condor/license.html#condor</crossRef>
       </crossRefs>
       <notes>This license was released 30 October 2003</notes>
       <titleText>
@@ -56,7 +57,7 @@
             <bullet>5.</bullet>
           To the extent that patent claims licensable by the University of Wisconsin-Madison are
              necessarily infringed by the use or sale of the Software, you are granted a non-exclusive,
-             worldwide, royalty- free perpetual license under such patent claims, with the rights for you
+             worldwide, royalty-<alt match=" ?" name="extraSpace"/>free perpetual license under such patent claims, with the rights for you
              to make, use, sell, offer to sell, import and otherwise transfer the Software in source code
              and object code form and derivative works. This patent license shall apply to the combination
              of the Software with other software if, at the time the Software is added by you, such
