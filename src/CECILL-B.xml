@@ -1,15 +1,14 @@
-<SPDX name="CeCILL-C Free Software License Agreement" identifier="CECILL-C" osi-approved="false">
+<SPDX name="CeCILL-B Free Software License Agreement" identifier="CECILL-B" osi-approved="false">
   <urls>
-    <url>http://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html
-    </url>
+	  <url>http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html</url>
   </urls>
   <notes>
-French version can be found here: http://www.cecill.info/licences/Licence_CeCILL-C_V1-fr.html
+French version can be found here: http://www.cecill.info/licences/Licence_CeCILL-B_V1-fr.html
   </notes>
   <license>
     <title>
       <p>
-CeCILL-C FREE SOFTWARE LICENSE AGREEMENT
+CeCILL FREE SOFTWARE LICENSE AGREEMENT
       </p>
     </title>
     <optional>
@@ -34,7 +33,7 @@ secondly, the election of a governing law, French law, with which it is conforma
         </li>
       </list>
       <p>
-The authors of the CeCILL-C (for Ce[a] C[nrs] I[nria] L[ogiciel] L[ibre]) license are:
+The authors of the CeCILL-B (for Ce[a] C[nrs] I[nria] L[ogiciel] L[ibre]) license are:
       </p>
       <list>
         <li>
@@ -58,10 +57,10 @@ Institut National de Recherche en Informatique et en Automatique - INRIA, a publ
       <li>
         <b>Preamble</b>
           <p>
-The purpose of this Free Software license agreement is to grant users the right to modify and re-use the software governed by this license.
+This Agreement is an open source software license intended to give users significant freedom to modify and redistribute the software licensed hereunder.
           </p>
           <p>
-The exercising of this right is conditional upon the obligation to make available to the community the modifications made to the source code of the software so as to contribute to its evolution.
+The exercising of this freedom is conditional upon a strong obligation of giving credits for everybody that distributes a software incorporating a software ruled by the current license so as all contributions to be properly identified and acknowledged.
           </p>
           <p>
 In consideration of access to the source code and the rights to copy, modify and redistribute granted by the license, users are provided only with a limited warranty and the software's author, the holder of the economic rights, and the successive licensors only have limited liability.
@@ -99,7 +98,7 @@ Initial Software: means the Software in its Source Code and possibly its Object 
         </li>
         <li>
           <p>
-Modified Software: means the Software modified by at least one Integrated Contribution.
+Modified Software: means the Software modified by at least one Contribution.
           </p>
         </li>
         <li>
@@ -124,7 +123,7 @@ Licensee: means the Software user(s) having accepted the Agreement.
         </li>
         <li>
           <p>
-Contributor: means a Licensee having made at least one Integrated Contribution.
+Contributor: means a Licensee having made at least one Contribution.
           </p>
         </li>
         <li>
@@ -134,17 +133,22 @@ Licensor: means the Holder, or any other individual or legal entity, who distrib
         </li>
         <li>
           <p>
-Integrated Contribution: means any or all modifications, corrections, translations, adaptations and/or new functions integrated into the Source Code by any or all Contributors.
+Contribution: means any or all modifications, corrections, translations, adaptations and/or new functions integrated into the Software by any or all Contributors, as well as any or all Internal Modules.
           </p>
         </li>
         <li>
           <p>
-Related Module: means a set of sources files including their documentation that, without modification to the Source Code, enables supplementary functions or services in addition to those offered by the Software.
+Module: means a set of sources files including their documentation that enables supplementary functions or services in addition to those offered by the Software.
           </p>
         </li>
         <li>
           <p>
-Derivative Software: means any combination of the Software, modified or not, and of a Related Module.
+External Module: means any or all Modules, not derived from the Software, so that this Module and the Software run in separate address spaces, with one calling the other when they are run.
+          </p>
+        </li>
+        <li>
+          <p>
+Internal Module: means any or all Module, connected to the Software so that they both execute in the same address space.
           </p>
         </li>
         <li>
@@ -270,13 +274,13 @@ entitlement to observe, study or test its operation so as to determine the ideas
         <li>
           <b>5.2</b>
           <p>
-RIGHT OF MODIFICATION
+ENTITLEMENT TO MAKE CONTRIBUTIONS
           </p>
           <p>
-The right of modification includes the right to translate, adapt, arrange, or make any or all modifications to the Software, and the right to reproduce the resulting software. It includes, in particular, the right to create a Derivative Software.
+The right to make Contributions includes the right to translate, adapt, arrange, or make any or all modifications to the Software, and the right to reproduce the resulting software.
           </p>
           <p>
-The Licensee is authorized to make any or all modification to the Software provided that it includes an explicit notice that it is the author of said modification and indicates the date of the creation thereof.
+The Licensee is authorized to make any or all Contributions to the Software provided that it includes an explicit notice that it is the author of said Contribution and indicates the date of the creation thereof.
           </p>
         </li>
         <li>
@@ -323,68 +327,69 @@ and that, in the event that only the Object Code of the Software is redistribute
 DISTRIBUTION OF MODIFIED SOFTWARE
             </p>
             <p>
-When the Licensee makes an Integrated Contribution to the Software, the terms and conditions for the distribution of the resulting Modified Software become subject to all the provisions of this Agreement.
+If the Licensee makes any Contribution to the Software, the resulting Modified Software may be distributed under a license agreement other than this Agreement subject to compliance with the provisions of Article 5.3.4.
             </p>
-            <p>
-The Licensee is authorized to distribute the Modified Software, in source code or object code form, provided that said distribution complies with all the provisions of the Agreement and is accompanied by:
-            </p>
-            <list>
-              <li>
-              <b>1.</b>
-              <p>
-a copy of the Agreement,
-              </p>
-            </li>
-            <li>
-              <b>2.</b>
-              <p>
-a notice relating to the limitation of both the Licensor's warranty and liability as set forth in Articles 8 and 9,
-              </p>
-            </li>
-            </list>
-            <p>
-and that, in the event that only the object code of the Modified Software is redistributed, the Licensee allows effective access to the full source code of the Modified Software at a minimum during the entire period of its distribution of the Modified Software, it being understood that the additional cost of acquiring the source code shall not exceed the cost of transferring the data.
-          </p>
         </li>
         <li>
           <b>5.3.3.</b>
           <p>
-DISTRIBUTION OF DERIVATIVE SOFTWARE
+DISTRIBUTION OF EXTERNAL MODULES
           </p>
           <p>
-When the Licensee creates Derivative Software, this Derivative Software may be distributed under a license agreement other than this Agreement, subject to compliance with the requirement to include a notice concerning the rights over the Software as defined in Article 6.4.  In the event the creation of the Derivative Software required modification of the Source Code, the Licensee undertakes that:
+When the Licensee has developed an External Module, the terms and conditions of this Agreement do not apply to said External Module, that may be distributed under a separate license agreement.
           </p>
-	  <list>
-	    <li>
-	      <b>1.</b>
-	      <p>
-the resulting Modified Software will be governed by this Agreement,
-	      </p>
-	    </li>
-	    <li>
-	      <b>2.</b>
-	      <p>
-the Integrated Contributions in the resulting Modified Software will be clearly identified and documented,
-	      </p>
-	    </li>
-	    <li>
-	      <b>3.</b>
-	      <p>
-the Licensee will allow effective access to the source code of the Modified Software, at a minimum during the entire period of distribution of the Derivative Software, such that such modifications may be carried over in a subsequent version of the Software; it being understood that the additional cost of purchasing the source code of the Modified Software shall not exceed the cost of transferring the data.
-	      </p>
-	    </li>
-	  </list>
           </li>
           <li>
             <b>5.3.4.</b>
-            <p>
-COMPATIBILITY WITH THE CeCILL LICENSE
-            </p>
-            <p>
-When a Modified Software contains an Integrated Contribution subject to the CeCILL license agreement, or when a Derivative Software contains a Related Module subject to the CeCILL license agreement, the provisions set forth in the third item of Article 6.4 are optional.
-            </p>
+          <p>
+CREDITS
+          </p>
+          <p>
+Any Licensee who may distribute a Modified Software hereby expressly agrees to:
+          </p>
+	  <list>
+                <li>
+                <b>1.</b>
+                <p>
+indicate in the related documentation that it is based on the Software licensed hereunder, and reproduce the intellectual property notice for the Software,
+                </p>
+              </li>
+              <li>
+                <b>2.</b>
+                <p>
+ensure that written indications of the Software intended use, intellectual property notice and license hereunder are included in easily accessible format from the Modified Software interface,
+                </p>
+              </li>
+              <li>
+                <b>3.</b>
+                <p>
+mention, on a freely accessible website describing the Modified Software, at least throughout the distribution term thereof, that it is based on the Software licensed hereunder, and reproduce the Software intellectual property notice,
+                </p>
+              </li>
+              <li>
+                <b>4.</b>
+                <p>
+where it is distributed to a third party that may distribute a Modified Software without having to make its source code available, make its best efforts to ensure that said third party agrees to comply with the obligations set forth in this Article .
+                </p>
+              </li>
+	    </list>
+	    <p>
+If the Software, whether or not modified, is distributed with an External Module designed for use in connection with the Software, the Licensee shall submit said External Module to the foregoing obligations.
+	    </p>
           </li>
-        </list>
+          <li>
+            <b>5.3.5.</b>
+            <p>
+COMPATIBILITY WITH THE CeCILL AND CeCILL-C LICENSES
+            </p>
+            <p>
+Where a Modified Software contains a Contribution subject to the CeCILL license, the provisions set forth in Article 5.3.4 shall be optional.
+            </p>
+            <p>
+A Modified Software may be distributed under the CeCILL-C license. In such a case the provisions set forth in Article 5.3.4 shall be optional.
+            </p>
+	  </li>
+	</list>
       </li>
       </list>
     </li>
@@ -409,25 +414,25 @@ The Holder undertakes that the Initial Software will remain ruled at least by th
         <li>
           <b>6.2</b>
           <p>
-OVER THE INTEGRATED CONTRIBUTIONS
+OVER THE CONTRIBUTIONS
           </p>
           <p>
-The Licensee who develops an Integrated Contribution is the owner of the intellectual property rights over this Contribution as defined by applicable law.
+The Licensee who develops a Contribution is the owner of the intellectual property rights over this Contribution as defined by applicable law.
           </p>
         </li>
         <li>
           <b>6.3</b>
           <p>
-OVER THE RELATED MODULES
+OVER THE EXTERNAL MODULES
           </p>
           <p>
-The Licensee who develops a Related Module is the owner of the intellectual property rights over this Related Module as defined by applicable law and is free to choose the type of agreement that shall govern its distribution under the conditions defined in Article 5.3.3.
+The Licensee who develops an External Module is the owner of the intellectual property rights over this External Module as defined by applicable law and is free to choose the type of agreement that shall govern its distribution.
           </p>
         </li>
         <li>
           <b>6.4</b>
           <p>
-NOTICE OF RIGHTS
+JOINT PROVISIONS
           </p>
           <p>
 The Licensee expressly undertakes:
@@ -442,13 +447,7 @@ not to remove, or modify, in any manner, the intellectual property notices attac
             <li>
               <b>2.</b>
               <p>
-to reproduce said notices, in an identical manner, in the copies of the Software modified or not;
-              </p>
-            </li>
-            <li>
-              <b>3.</b>
-              <p>
-to ensure that use of the Software, its intellectual property notices and the fact that it is governed by the Agreement is indicated in a text that is easily accessible, specifically from the interface of any Derivative Software.
+to reproduce said notices, in an identical manner, in the copies of the Software modified or not.
               </p>
             </li>
           </list>
