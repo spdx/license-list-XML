@@ -51,6 +51,7 @@
 		</choice>
 		<attribute name="licenseId" type="string"/>
 		<attribute name="isOsiApproved" type="boolean"/>
+		<attribute name="isFsfLibre" type="boolean"/>
 		<attribute name="isDeprecated" type="boolean"/>
 		<attribute name="name" type="string"/>
 		<attribute name="listVersionAdded" type="string"/>
