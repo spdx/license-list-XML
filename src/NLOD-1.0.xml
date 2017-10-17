@@ -1,13 +1,15 @@
-<SPDX name="Norwegian Licence for Open Government Data" identifier="NLOD-1.0" osi-approved="false">
-  <urls>
-    <url>http://data.norge.no/nlod/en/1.0</url>
-  </urls>
-  <notes>Norwegian translation available here:
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="NLOD-1.0"
+            name="Norwegian Licence for Open Government Data">
+      <crossRefs>
+         <crossRef>http://data.norge.no/nlod/en/1.0</crossRef>
+      </crossRefs>
+      <notes>Norwegian translation available here:
          http://data.norge.no/nlod/no/1.0</notes>
-  <license>
-    <title>
-      <p>Norwegian Licence for Open Government Data (NLOD)</p>
-    </title>
+      <titleText>
+         <p>Norwegian Licence for Open Government Data (NLOD)</p>
+      </titleText>
           <p>Preface of licence</p>
       <p>This licence grants you the right to copy, use and distribute
          information, provided you acknowledge the contributors and
@@ -26,9 +28,9 @@
          any limitations on the licensee's freedom of expression
          recognized by law.</p>
       <list>
-        <li>
-          <b>1.</b>
-          <p>Definitions</p>
+        <item>
+            <bullet>1.</bullet>
+          Definitions
           <p>«Database» shall mean a database or similar protected
              under Section 43 of the Norwegian Copyright Act.
             <br/>«Information» shall mean texts, images, recordings,
@@ -54,76 +56,76 @@
                  copyright law requiring permission from the
                  owner of the copyright.
           </p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>Licence
+        </item>
+        <item>
+            <bullet>2.</bullet>
+          Licence
             <br/>The licensee, subject to the limitations that
                  follow from this licence, may use the
                  information for any purpose and in all
                  contexts, by:
-          </p>
-        </li>
+          
+        </item>
       </list>
       <list>
-        <li>
-          <b>*</b>
-          <p>copying the information and distributing the information
-             to others,</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>modifying the information and/or combining the
-             information with other information, and</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>copying and distributing such changed or combined information.</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>This is a non-exclusive, free, perpetual and worldwide
+        <item>
+            <bullet>*</bullet>
+          copying the information and distributing the information
+             to others,
+        </item>
+        <item>
+            <bullet>*</bullet>
+          modifying the information and/or combining the
+             information with other information, and
+        </item>
+        <item>
+            <bullet>*</bullet>
+          copying and distributing such changed or combined information.
+        </item>
+        <item>
+            <bullet>*</bullet>
+          This is a non-exclusive, free, perpetual and worldwide
              licence. The information may be used in any medium and
              format known today and/or which will become known in
              the future. The Licensee shall not sub-license or
-             transfer this licence.</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>Exemptions
+             transfer this licence.
+        </item>
+        <item>
+            <bullet>3.</bullet>
+          Exemptions
             <br/>The licence does not apply to and therefore does
                  not grant a right to use:
-          </p>
-        </li>
+          
+        </item>
       </list>
       <list>
-        <li>
-          <b>*</b>
-          <p>information which contains personal data covered by the
+        <item>
+            <bullet>*</bullet>
+          information which contains personal data covered by the
              Norwegian Personal Data Act unless there is a
              legitimate basis for the disclosure and further
-             processing of the personal data</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>information distributed in violation of a statutory
-             obligation to observe confidentiality</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>information excluded from public disclosure pursuant to
+             processing of the personal data
+        </item>
+        <item>
+            <bullet>*</bullet>
+          information distributed in violation of a statutory
+             obligation to observe confidentiality
+        </item>
+        <item>
+            <bullet>*</bullet>
+          information excluded from public disclosure pursuant to
              law, including information deemed sensitive under the
-             Norwegian National Security Act</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>information subject to third party rights which the
+             Norwegian National Security Act
+        </item>
+        <item>
+            <bullet>*</bullet>
+          information subject to third party rights which the
              licensor is not authorised to license to the
-             licensee</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>information protected by intellectual property rights
+             licensee
+        </item>
+        <item>
+            <bullet>*</bullet>
+          information protected by intellectual property rights
              other than copyright and neighbouring rights in
              accordance with Chapter 5 of the Norwegian Copyright
              Act, such as trademarks, patents and design rights,
@@ -131,7 +133,7 @@
              information where the licensor's logo has been
              permanently integrated into the information or to
              attribute the origin of the information in accordance
-             with the article below relating to attribution.</p>
+             with the article below relating to attribution.
           <p>If the licensor has made available information not
              covered by the licence according to the above list,
              the licensee must cease all use of the information
@@ -139,10 +141,10 @@
              as he or she becomes aware of or should have
              understood that the information is not covered by the
              licence.</p>
-        </li>
-        <li>
-          <b>4.</b>
-          <p>Effects of breach of the licence
+        </item>
+        <item>
+            <bullet>4.</bullet>
+          Effects of breach of the licence
             <br/>The licence is subject to the licensee's compliance
                  with the terms and conditions of this licence.
                  In the event that the licensee commits a
@@ -156,34 +158,34 @@
                  has been terminated, the licensee must cease
                  all use of the information by virtue of the
                  licence.
-          </p>
-        </li>
-        <li>
-          <b>5.</b>
-          <p>Attribution
+          
+        </item>
+        <item>
+            <bullet>5.</bullet>
+          Attribution
             <br/>The licensee shall attribute the licensor as
                  specified by the licensor and include a
                  reference to this licence. To the extent
                  practically possible, the licensee shall
                  provide a link to both this licence and the
                  source of the information.
-          </p>
+          
           <p>If the licensor has not specified how attributions shall
              be made, the licensee shall normally state the
              following: «Contains data under the Norwegian licence
              for Open Government data (NLOD) distributed by [name
              of licensor]».</p>
-          <p>If the licensor has specified that the information shall
+            <p>If the licensor has specified that the information shall
              only be available under a specific version of this
              licence, cf. Section 10, the licensee shall also state
              this.</p>
-          <p>If the information has been changed, the licensee must
+            <p>If the information has been changed, the licensee must
              clearly indicate that changes have been made by the
              licensee.</p>
-        </li>
-        <li>
-          <b>6.</b>
-          <p>Proper use
+        </item>
+        <item>
+            <bullet>6.</bullet>
+          Proper use
             <br/>The licensee shall not use the information in a
                  manner that appears misleading nor present the
                  information in a distorted or incorrect
@@ -192,28 +194,28 @@
                  names or trademarks must be used to support,
                  recommend or market the licensee or any
                  products or services using the information.
-          </p>
-        </li>
-        <li>
-          <b>7.</b>
-          <p>Disclaimer of liability
+          
+        </item>
+        <item>
+            <bullet>7.</bullet>
+          Disclaimer of liability
             <br/>The information is licensed «as is». The
                  information may contain errors and omissions.
                  The licensor provides no warranties, including
                  relating to the content and relevance of the
                  information.
-          </p>
+          
           <p>The licensor disclaims any liability for errors and
              defects associated with the information to the maximum
              extent permitted by law.</p>
-          <p>The licensor shall not be liable for direct or indirect
+            <p>The licensor shall not be liable for direct or indirect
              losses as a result of use of the information or in
              connection with copying or further distribution of the
              information.</p>
-        </li>
-        <li>
-          <b>8.</b>
-          <p>Guarantees regarding data quality and accessibility
+        </item>
+        <item>
+            <bullet>8.</bullet>
+          Guarantees regarding data quality and accessibility
             <br/>This licence does not prevent the licensor from
                  issuing supplementary statements regarding
                  expected or intended data quality and
@@ -226,11 +228,11 @@
                  guarantees and distribute the information on
                  terms and conditions different from those set
                  forth in this licence.
-          </p>
-        </li>
-        <li>
-          <b>9.</b>
-          <p>Licence compatibility
+          
+        </item>
+        <item>
+            <bullet>9.</bullet>
+          Licence compatibility
             <br/>If the licensee is to distribute an adapted or
                  combined work based on information covered by
                  this licence and some other work licensed
@@ -238,36 +240,36 @@
                  distribution may be based on an appropriate
                  licence compatible by contract, cf. the list
                  below.
-          </p>
+          
           <p>A licence compatible by contract shall mean the following
              licences:</p>
-        </li>
+        </item>
       </list>
       <list>
-        <li>
-          <b>*</b>
-          <p>for all information: Open Government Licence (version 1.0),</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>for those parts of the information which do not
+        <item>
+            <bullet>*</bullet>
+          for all information: Open Government Licence (version 1.0),
+        </item>
+        <item>
+            <bullet>*</bullet>
+          for those parts of the information which do not
              constitute databases: Creative Commons Attribution
              Licence (generic version 1.0, 2.0, 2.5 and unported
              version 3.0) and Creative Commons Navngivelse 3.0
-             Norge,</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>for those parts of the information which constitute
+             Norge,
+        </item>
+        <item>
+            <bullet>*</bullet>
+          for those parts of the information which constitute
              databases: Open Data Commons Attribution License
-             (version 1.0).</p>
+             (version 1.0).
           <p>This provision does not prevent other licences from being
              compatible with this licence based on their
              content.</p>
-        </li>
-        <li>
-          <b>10.</b>
-          <p>New versions of the licence
+        </item>
+        <item>
+            <bullet>10.</bullet>
+          New versions of the licence
             <br/>The licensee may choose to use the information
                  covered by this licence under any new versions
                  of the Norwegian licence for Open Government
@@ -279,12 +281,12 @@
                  information available under this licence
                  specifically has stated that solely version
                  1.0 of this licence may be used.
-          </p>
-        </li>
-        <li>
-          <b>11.</b>
-          <p>Governing law and legal venue</p>
-        </li>
+          
+        </item>
+        <item>
+            <bullet>11.</bullet>
+          Governing law and legal venue
+        </item>
       </list>
       <p>This licence, including its formation, and any disputes and
          claims arising in connection with or relating to this licence,
@@ -295,4 +297,4 @@
          of the country where the intellectual property rights are
          sought enforced.</p>
   </license>
-</SPDX>
+</SPDXLicenseCollection>

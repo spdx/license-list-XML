@@ -1,36 +1,37 @@
-<SPDX name="JasPer License" identifier="JasPer-2.0" osi-approved="false">
-  <urls>
-    <url>http://www.ece.uvic.ca/~mdadams/jasper/LICENSE</url>
-  </urls>
-  <license>
-    <title>
-      <p>JasPer License Version 2.0</p>
-    </title>
-    <copyright>
-      <p>Copyright (c) 2001-2006 Michael David Adams 
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="JasPer-2.0" name="JasPer License">
+      <crossRefs>
+         <crossRef>http://www.ece.uvic.ca/~mdadams/jasper/LICENSE</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>JasPer License Version 2.0</p>
+      </titleText>
+      <copyrightText>
+         <p>Copyright (c) 2001-2006 Michael David Adams 
         <br/>Copyright (c) 1999-2000 Image Power, Inc. 
         <br/>Copyright (c) 1999-2000 The University of British Columbia 
       </p>
-      <p>All rights reserved.</p>
-    </copyright>
-    <p>Permission is hereby granted, free of charge, to any person (the "User") obtaining a copy of this
+         <p>All rights reserved.</p>
+      </copyrightText>
+      <p>Permission is hereby granted, free of charge, to any person (the "User") obtaining a copy of this
        software and associated documentation files (the "Software"), to deal in the Software without
        restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute,
        and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
        subject to the following conditions:</p>
-    <list>
-      <li>
-        <b>1.</b>
-        <p>The above copyright notices and this permission notice (which includes the disclaimer below)
-           shall be included in all copies or substantial portions of the Software.</p>
-      </li>
-      <li>
-        <b>2.</b>
-        <p>The name of a copyright holder shall not be used to endorse or promote products derived from the
-           Software without specific prior written permission.</p>
-      </li>
-    </list>
-    <p>THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE. NO USE OF THE SOFTWARE IS
+      <list>
+         <item>
+            <bullet>1.</bullet>
+        The above copyright notices and this permission notice (which includes the disclaimer below)
+           shall be included in all copies or substantial portions of the Software.
+      </item>
+         <item>
+            <bullet>2.</bullet>
+        The name of a copyright holder shall not be used to endorse or promote products derived from the
+           Software without specific prior written permission.
+      </item>
+      </list>
+      <p>THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE. NO USE OF THE SOFTWARE IS
        AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER. THE SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS 
       "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
       WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD
@@ -52,4 +53,4 @@
       DISCLAIM ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES. 
       </p>
   </license>
-</SPDX>
+</SPDXLicenseCollection>

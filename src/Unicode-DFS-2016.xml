@@ -1,11 +1,13 @@
-<SPDX name="Unicode License Agreement - Data Files and Software (2016)" identifier="Unicode-DFS-2016" osi-approved="false" listVersionAdded="2.6">
-  <urls>
-    <url>http://www.unicode.org/copyright.html</url>
-  </urls>
-  <license>
-    <title>
-      <p>UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE</p>
-    </title>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="Unicode-DFS-2016" listVersionAdded="2.6"
+            name="Unicode License Agreement - Data Files and Software (2016)">
+      <crossRefs>
+         <crossRef>http://www.unicode.org/copyright.html</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE</p>
+      </titleText>
       <p>Unicode Data Files include all data files under the directories
          http://www.unicode.org/Public/,
          http://www.unicode.org/reports/,
@@ -42,16 +44,16 @@
          and to permit persons to whom the Data Files or Software are
          furnished to do so, provided that either</p>
       <list>
-        <li>
-          <b>(a)</b>
-          <p>this copyright and permission notice appear with all
-             copies of the Data Files or Software, or</p>
-        </li>
-        <li>
-          <b>(b)</b>
-          <p>this copyright and permission notice appear in associated
-             Documentation.</p>
-        </li>
+        <item>
+            <bullet>(a)</bullet>
+          this copyright and permission notice appear with all
+             copies of the Data Files or Software, or
+        </item>
+        <item>
+            <bullet>(b)</bullet>
+          this copyright and permission notice appear in associated
+             Documentation.
+        </item>
       </list>
       <p>THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT
          WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
@@ -70,4 +72,4 @@
          Software without prior written authorization of the copyright
          holder.</p>
   </license>
-</SPDX>
+</SPDXLicenseCollection>

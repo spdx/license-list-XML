@@ -1,18 +1,19 @@
-<SPDX name="Multics License" identifier="Multics" osi-approved="true">
-  <urls>
-    <url>http://www.opensource.org/licenses/Multics</url>
-  </urls>
-  <notes>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="true" licenseId="Multics" name="Multics License">
+      <crossRefs>
+         <crossRef>http://www.opensource.org/licenses/Multics</crossRef>
+      </crossRefs>
+      <notes>
      
   </notes>
-  <license>
-    <title>
-      <p>Multics License</p>
-    </title>
-    <body>
+      <titleText>
+         <p>Multics License</p>
+      </titleText>
+    
       <optional>
-       <p>Historical Background</p>
-      <p>This edition of the Multics software materials and documentation is provided and donated to Massachusetts
+         <p>Historical Background</p>
+         <p>This edition of the Multics software materials and documentation is provided and donated to Massachusetts
          Institute of Technology by Group BULL including BULL HN Information Systems Inc. as a contribution to
          computer science knowledge. This donation is made also to give evidence of the common contributions of
          Massachusetts Institute of Technology, Bell Laboratories, General Electric, Honeywell Information
@@ -32,12 +33,12 @@
          notice appear in supporting documentation, and that the names of MIT, HIS, BULL or BULL HN not be used
          in advertising or publicity pertaining to distribution of the programs without specific prior written
          permission.</p>
-      <copyright>
+      <copyrightText>
         <p>Copyright 1972 by Massachusetts Institute of Technology and Honeywell Information Systems Inc. 
           <br/>Copyright 2006 by BULL HN Information Systems Inc. 
           <br/>Copyright 2006 by Bull SAS All Rights Reserved 
         </p>
-      </copyright>
-      </body>
+      </copyrightText>
+      
   </license>
-</SPDX>
+</SPDXLicenseCollection>

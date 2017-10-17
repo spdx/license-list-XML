@@ -1,12 +1,13 @@
-<SPDX name="enna License" identifier="MIT-enna" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/MIT#enna</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Copyright (C) 2000 Carsten Haitzler and various contributors (see AUTHORS)</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="MIT-enna" name="enna License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/MIT#enna</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Copyright (C) 2000 Carsten Haitzler and various contributors (see AUTHORS)</p>
+      </copyrightText>
+    
       <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
          associated documentation files (the "Software"), to deal in the Software without restriction,
          including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
@@ -25,6 +26,6 @@
          NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
          OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
          OTHER DEALINGS IN THE SOFTWARE.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

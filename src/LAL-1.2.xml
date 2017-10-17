@@ -1,19 +1,20 @@
-<SPDX name="Licence Art Libre 1.2" identifier="LAL-1.2" osi-approved="false">
-  <urls>
-    <url>http://artlibre.org/licence/lal/licence-art-libre-12/</url>
-  </urls>
-  <notes>French is the canonical language for this license. Translations are
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="LAL-1.2" name="Licence Art Libre 1.2">
+      <crossRefs>
+         <crossRef>http://artlibre.org/licence/lal/licence-art-libre-12/</crossRef>
+      </crossRefs>
+      <notes>French is the canonical language for this license. Translations are
          available in:
 English: http://artlibre.org/licence/lal/licence-art-libre-12/
 Italian: http://artlibre.org/licence/lal/it/
 Spanish: http://artlibre.org/licence/lal/es/</notes>
-  <license>
-    <title>
-      <p>Licence Art Libre
+      <titleText>
+         <p>Licence Art Libre
         <br/>[ Copyleft Attitude ]
       </p>
-      <p>Version 1.2</p>
-    </title>
+         <p>Version 1.2</p>
+      </titleText>
          <p>Préambule :</p>
       <p>Avec cette Licence Art Libre, l’autorisation est donnée de
          copier, de diffuser et de transformer librement les oeuvres
@@ -57,60 +58,60 @@ Spanish: http://artlibre.org/licence/lal/es/</notes>
       <p>– Auteur de l’oeuvre originelle :</p>
       <p>– Contributeur :</p>
       <list>
-        <li>
-          <b>1.</b>
-          <p>OBJET
+        <item>
+            <bullet>1.</bullet>
+          OBJET
             <br/>Cette licence a pour objet de définir les
                  conditions selon lesquelles vous pouvez jouir
                  librement de cette oeuvre.
-          </p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>L’ÉTENDUE DE LA JOUISSANCE
+          
+        </item>
+        <item>
+            <bullet>2.</bullet>
+          L’ÉTENDUE DE LA JOUISSANCE
             <br/>Cette oeuvre est soumise au droit d’auteur, et
                  l’auteur par cette
-          </p>
-        </li>
-        <li>
-          <b>2.1</b>
-          <p>LA LIBERTÉ DE COPIER (OU DE REPRODUCTION)
+          
+        </item>
+        <item>
+            <bullet>2.1</bullet>
+          LA LIBERTÉ DE COPIER (OU DE REPRODUCTION)
             <br/>Vous avez la liberté de copier cette oeuvre pour un
                  usage personnel, pour vos amis, ou toute autre
                  personne et quelque soit la technique
                  employée.
-          </p>
-        </li>
-        <li>
-          <b>2.2</b>
-          <p>LA LIBERTÉ DE DIFFUSER, D’INTERPRÉTER (OU DE REPRÉSENTATION)
+          
+        </item>
+        <item>
+            <bullet>2.2</bullet>
+          LA LIBERTÉ DE DIFFUSER, D’INTERPRÉTER (OU DE REPRÉSENTATION)
             <br/>Vous pouvez diffuser librement les copies de ces
                  oeuvres, modifiées
             <br/>– joindre aux copies, cette licence à l’identique,
                  ou indiquer précisément où se trouve la
                  licence,
-          </p>
-        </li>
-        <li>
-          <b>2.3</b>
-          <p>LA LIBERTÉ DE MODIFIER
+          
+        </item>
+        <item>
+            <bullet>2.3</bullet>
+          LA LIBERTÉ DE MODIFIER
             <br/>Vous avez la liberté de modifier les copies des
                  originaux (originels
-          </p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>L’INCORPORATION DE L’OEUVRE
+          
+        </item>
+        <item>
+            <bullet>3.</bullet>
+          L’INCORPORATION DE L’OEUVRE
             <br/>Tous les éléments de cette oeuvre doivent demeurer
                  libres, c’est pourquoi il ne vous est pas
                  permis d’intégrer les originaux (originels et
                  conséquents) dans une autre oeuvre qui ne
                  serait pas soumise à cette licence.
-          </p>
-        </li>
-        <li>
-          <b>4.</b>
-          <p>VOS DROITS D’AUTEUR
+          
+        </item>
+        <item>
+            <bullet>4.</bullet>
+          VOS DROITS D’AUTEUR
             <br/>Cette licence n’a pas pour objet de nier vos droits
                  d’auteur sur votre contribution. En
                  choisissant de contribuer à l’évolution de
@@ -118,20 +119,20 @@ Spanish: http://artlibre.org/licence/lal/es/</notes>
                  aux autres les mêmes droits sur votre
                  contribution que ceux qui vous ont été
                  accordés par cette licence.
-          </p>
-        </li>
-        <li>
-          <b>5.</b>
-          <p>LA DURÉE DE LA LICENCE
+          
+        </item>
+        <item>
+            <bullet>5.</bullet>
+          LA DURÉE DE LA LICENCE
             <br/>Cette licence prend effet dès votre acceptation de
                  ses dispositions. Le fait de copier, de
                  diffuser, ou de modifier l’oeuvre constitue
                  une acception tacite.
-          </p>
-        </li>
-        <li>
-          <b>6.</b>
-          <p>LES DIFFÉRENTES VERSIONS DE LA LICENCE
+          
+        </item>
+        <item>
+            <bullet>6.</bullet>
+          LES DIFFÉRENTES VERSIONS DE LA LICENCE
             <br/>Cette licence pourra être modifiée régulièrement,
                  en vue de son amélioration, par ses auteurs
                  (les acteurs du mouvement « copyleft
@@ -142,23 +143,23 @@ Spanish: http://artlibre.org/licence/lal/es/</notes>
                  sous laquelle la copie vous a été communiquée
                  ou alors, vous prévaloir des dispositions
                  d’une des versions ultérieures.
-          </p>
-        </li>
-        <li>
-          <b>7.</b>
-          <p>LES SOUS-LICENCES
+          
+        </item>
+        <item>
+            <bullet>7.</bullet>
+          LES SOUS-LICENCES
             <br/>Les sous licences ne sont pas autorisées par la
                  présente. Toute personne qui souhaite
                  bénéficier des libertés qu’elle confère sera
                  liée directement à l’auteur de l’oeuvre
                  originelle.
-          </p>
-        </li>
-        <li>
-          <b>8.</b>
-          <p>LA LOI APPLICABLE AU CONTRAT</p>
-        </li>
+          
+        </item>
+        <item>
+            <bullet>8.</bullet>
+          LA LOI APPLICABLE AU CONTRAT
+        </item>
       </list>
       <p>Cette licence est soumise au droit français.</p>
     </license>
-</SPDX>
+</SPDXLicenseCollection>

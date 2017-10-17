@@ -1,13 +1,15 @@
-<SPDX name="GNU General Public License v2.0 w/Bison exception" identifier="GPL-2.0-with-bison-exception" deprecated="true">
-  <urls>
-    <url>http://git.savannah.gnu.org/cgit/bison.git/tree/data/yacc.c?id=193d7c7054ba7197b0789e14965b739162319b5e#n141</url>
-  </urls>
-  <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
-  <license>
-	<title>Bison Exception</title>
-    <body> 
-	<p>As a special exception, you may create a larger work that contains part or all of the Bison parser skeleton and distribute that work under terms of your choice, so long as that work isn't itself a parser generator using the skeleton or a modified version thereof as a parser skeleton. Alternatively, if you modify or redistribute the parser skeleton itself, you may (at your option) remove this special exception, which will cause the skeleton and the resulting Bison output files to be licensed under the GNU General Public License without this special exception.</p>
-	<p>This special exception was added by the Free Software Foundation in version 2.2 of Bison.</p>
-	</body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isDeprecated="true" licenseId="GPL-2.0-with-bison-exception"
+            name="GNU General Public License v2.0 w/Bison exception">
+      <crossRefs>
+         <crossRef>http://git.savannah.gnu.org/cgit/bison.git/tree/data/yacc.c?id=193d7c7054ba7197b0789e14965b739162319b5e#n141</crossRef>
+      </crossRefs>
+      <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
+	     <titleText>Bison Exception</titleText>
+     
+	     <p>As a special exception, you may create a larger work that contains part or all of the Bison parser skeleton and distribute that work under terms of your choice, so long as that work isn't itself a parser generator using the skeleton or a modified version thereof as a parser skeleton. Alternatively, if you modify or redistribute the parser skeleton itself, you may (at your option) remove this special exception, which will cause the skeleton and the resulting Bison output files to be licensed under the GNU General Public License without this special exception.</p>
+	     <p>This special exception was added by the Free Software Foundation in version 2.2 of Bison.</p>
+	
   </license>
-</SPDX>
+</SPDXLicenseCollection>

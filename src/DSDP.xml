@@ -1,15 +1,16 @@
-<SPDX name="DSDP License" identifier="DSDP" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/DSDP</url>
-  </urls>
-  <license>
-    <title>
-      <p>COPYRIGHT NOTIFICATION</p>
-    </title>
-    <copyright>
-      <p>(C) COPYRIGHT 2004 UNIVERSITY OF CHICAGO</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="DSDP" name="DSDP License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/DSDP</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>COPYRIGHT NOTIFICATION</p>
+      </titleText>
+      <copyrightText>
+         <p>(C) COPYRIGHT 2004 UNIVERSITY OF CHICAGO</p>
+      </copyrightText>
+    
       <p>This program discloses material protectable under copyright laws of the United States. Permission to copy
          and modify this software and its documentation is hereby granted, provided that this notice is
          retained thereon and on all copies or modifications. The University of Chicago makes no
@@ -37,6 +38,6 @@
              GOVERNMENT OR ANY AGENCY THEREOF. THE VIEW AND OPINIONS OF AUTHORS EXPRESSED HEREIN DO NOT
              NECESSARILY STATE OR REFLECT THOSE OF THE UNITED STATES GOVERNMENT OR ANY AGENCY THEREOF. 
       </p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

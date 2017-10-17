@@ -1,10 +1,11 @@
-<SPDX name="eCos exception 2.0" identifier="eCos-exception-2.0">
-  <urls>
-    <url>http://ecos.sourceware.org/license-overview.html</url>
-  </urls>
-  <notes>Typically used with GPL-2.0. Similar to Macro and Inlines Functions Exception
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <exception licenseId="eCos-exception-2.0" name="eCos exception 2.0">
+      <crossRefs>
+         <crossRef>http://ecos.sourceware.org/license-overview.html</crossRef>
+      </crossRefs>
+      <notes>Typically used with GPL-2.0. Similar to Macro and Inlines Functions Exception
 </notes>
-  <exception>
       <p>As a special exception, if other files instantiate templates or
          use macros or inline functions from this file, or you compile
          this file and link it with other works to produce a work based
@@ -17,4 +18,4 @@
          based on this file might be covered by the GNU General Public
          License.</p>
   </exception>
-</SPDX>
+</SPDXLicenseCollection>

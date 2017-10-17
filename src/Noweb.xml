@@ -1,12 +1,13 @@
-<SPDX name="Noweb License" identifier="Noweb" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/Noweb</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Noweb is copyright 1989-2000 by Norman Ramsey. All rights reserved.</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="Noweb" name="Noweb License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/Noweb</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Noweb is copyright 1989-2000 by Norman Ramsey. All rights reserved.</p>
+      </copyrightText>
+    
       <p>Noweb is protected by copyright. It is not public-domain software or shareware, and it is not protected
          by a ``copyleft'' agreement like the one used by the Free Software Foundation.</p>
       <p>Noweb is available free for any use in any field of endeavor. You may redistribute noweb in whole or in
@@ -19,6 +20,6 @@
          source code to be used and modified under the terms of this license. You must state clearly that your
          work uses or is based on noweb and that noweb is available free of change. You must also request that
          bug reports on your work be reported to you.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

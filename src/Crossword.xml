@@ -1,12 +1,13 @@
-<SPDX name="Crossword License" identifier="Crossword" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/Crossword</url>
-  </urls>
-  <license>
-    <title>
-      <p>Copyright (C) 1995-2009 Gerd Neugebauer</p>
-    </title>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="Crossword" name="Crossword License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/Crossword</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>Copyright (C) 1995-2009 Gerd Neugebauer</p>
+      </titleText>
+    
       <p>cwpuzzle.dtx is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. No author or
          distributor accepts responsibility to anyone for the consequences of using it or for whether it serves
          any particular purpose or works at all, unless he says so in writing. 
@@ -14,6 +15,6 @@
         <br/>Everyone is granted permission to copy, modify and redistribute cwpuzzle.dtx, provided this
              copyright notice is preserved and any modifications are indicated. 
       </p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

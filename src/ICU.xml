@@ -1,18 +1,19 @@
-<SPDX name="ICU License" identifier="ICU" osi-approved="false">
-  <urls>
-    <url>http://source.icu-project.org/repos/icu/icu/trunk/license.html</url>
-  </urls>
-  <license>
-    <title>
-      <p>ICU License - ICU 1.8.1 and later</p>
-      <p>COPYRIGHT AND PERMISSION NOTICE</p>
-    </title>
-    <copyright>
-      <p>Copyright (c) 1995-2014 International Business Machines Corporation and others 
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="ICU" name="ICU License">
+      <crossRefs>
+         <crossRef>http://source.icu-project.org/repos/icu/icu/trunk/license.html</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>ICU License - ICU 1.8.1 and later</p>
+         <p>COPYRIGHT AND PERMISSION NOTICE</p>
+      </titleText>
+      <copyrightText>
+         <p>Copyright (c) 1995-2014 International Business Machines Corporation and others 
         <br/>All rights reserved. 
       </p>
-    </copyright>
-    <body>
+      </copyrightText>
+    
       <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
          associated documentation files (the "Software"), to deal in the Software without restriction,
          including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell
@@ -29,6 +30,6 @@
       <p>Except as contained in this notice, the name of a copyright holder shall not be used in advertising or
          otherwise to promote the sale, use or other dealings in this Software without prior written
          authorization of the copyright holder.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

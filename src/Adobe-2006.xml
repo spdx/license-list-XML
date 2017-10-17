@@ -1,15 +1,17 @@
-<SPDX name="Adobe Systems Incorporated Source Code License Agreement" identifier="Adobe-2006" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/AdobeLicense</url>
-  </urls>
-  <license>
-    <title>
-      <p>Adobe Systems Incorporated(r) Source Code License Agreement</p>
-    </title>
-    <copyright>
-      <p>Copyright(c) 2006 Adobe Systems Incorporated. All rights reserved.</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="Adobe-2006"
+            name="Adobe Systems Incorporated Source Code License Agreement">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/AdobeLicense</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>Adobe Systems Incorporated(r) Source Code License Agreement</p>
+      </titleText>
+      <copyrightText>
+         <p>Copyright(c) 2006 Adobe Systems Incorporated. All rights reserved.</p>
+      </copyrightText>
+    
       <p>Please read this Source Code License Agreement carefully before using the source code.</p>
       <p>Adobe Systems Incorporated grants to you a perpetual, worldwide, non-exclusive, no-charge, royalty-free,
          irrevocable copyright license, to reproduce, prepare derivative works of, publicly display, publicly
@@ -29,6 +31,6 @@
          THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
          ARISING IN ANY WAY OUT OF THE USE OF THIS SOURCE CODE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
          DAMAGE.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>
