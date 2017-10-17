@@ -78,8 +78,10 @@
           You are permitted to use the Standard Version and create and use Modified Versions for any
              purpose without restriction, provided that you do not Distribute the Modified Version.
         </item>
-        
-        <p>Permissions for Redistribution of the Standard Version</p>
+      </list>
+
+      <p>Permissions for Redistribution of the Standard Version</p>
+      <list>
         <item>
             <bullet>(2)</bullet>
           You may Distribute verbatim copies of the Source form of the Standard Version of this Package in
@@ -93,8 +95,10 @@
              Copyright Holder. The resulting Package will still be considered the Standard Version, and as
              such will be subject to the Original License.
         </item>
+      </list>
         
-        <p>Distribution of Modified Versions of the Package as Source</p>
+      <p>Distribution of Modified Versions of the Package as Source</p>
+      <list>
         <item>
             <bullet>(4)</bullet>
           You may Distribute your Modified Version as Source (either gratis or for a Distributor Fee, and
@@ -134,10 +138,12 @@
                    Distributor Fees are allowed.
               </item>
                </list>
-            </list>
+          </list>
         </item>
-        
-        <p>Distribution of Compiled Forms of the Standard Version or Modified Versions without the Source</p>
+      </list>
+
+      <p>Distribution of Compiled Forms of the Standard Version or Modified Versions without the Source</p>
+      <list>
         <item>
             <bullet>(5)</bullet>
           You may Distribute Compiled forms of the Standard Version without the Source, provided that you
@@ -153,8 +159,10 @@
           You may Distribute a Modified Version in Compiled form without the Source, provided that you
              comply with Section 4 with respect to the Source of the Modified Version.
         </item>
-        
-        <p>Aggregating or Linking the Package</p>
+      </list>
+
+      <p>Aggregating or Linking the Package</p>
+      <list>
         <item>
             <bullet>(7)</bullet>
           You may aggregate the Package (either the Standard Version or Modified Version) with other
@@ -170,8 +178,10 @@
              applications that include the Package, and Distribute the result without restriction, provided
              the result does not expose a direct interface to the Package.
         </item>
-        
-        <p>Items That are Not Considered Part of a Modified Version</p>
+      </list>
+
+      <p>Items That are Not Considered Part of a Modified Version</p>
+      <list>
         <item>
             <bullet>(9)</bullet>
           Works (including, but not limited to, modules and scripts) that merely extend or make use of the
@@ -179,8 +189,10 @@
              works are not considered parts of the Package itself, and are not subject to the terms of this
              license.
         </item>
-        
-        <p>General Provisions</p>
+      </list>
+
+      <p>General Provisions</p>
+      <list>
         <item>
             <bullet>(10)</bullet>
           Any use, modification, and distribution of the Standard or Modified Versions is governed by this
