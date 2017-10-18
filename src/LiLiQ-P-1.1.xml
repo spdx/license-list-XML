@@ -107,6 +107,7 @@
             <br/>Le licencié peut distribuer des copies du logiciel,
                  d'un logiciel modifié ou dérivé, sous réserve
                  de respecter les conditions suivantes :
+		 </item>
          <item>
                <list>
                   <item>
@@ -223,8 +224,7 @@
          cause, doit être retirée, autre que celle permettant
          d'identifier la provenance de la licence.
          </p>
-            </item>
-         </item>
+        </item>
       </list>
    </license>
 </SPDXLicenseCollection>
