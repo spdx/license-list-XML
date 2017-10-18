@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Artistic-2.0" name="Artistic License 2.0">
       <crossRefs>
-         <crossRef>http://www.perlfoundation.org/artistic_license_2_0 </crossRef>
+         <crossRef>http://www.perlfoundation.org/artistic_license_2_0</crossRef>
          <crossRef>http://www.opensource.org/licenses/artistic-license-2.0</crossRef>
       </crossRefs>
       <notes>This license was released: 2006</notes>
