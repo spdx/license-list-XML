@@ -45,9 +45,7 @@
          are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and
          the Licensor grants You such rights in consideration of benefits the Licensor receives from making the
          Licensed Material available under these terms and conditions.</p>
-      <list>
-        <item>
-            <p>Section 1 – Definitions.</p>
+         <p>Section 1 – Definitions.</p>
             <list>
                <item>
                   <bullet>a.</bullet>
@@ -141,9 +139,7 @@
                 Your has a corresponding meaning.
             </item>
             </list>
-        </item>
-        <item>
-            <p>Section 2 – Scope.</p>
+         <p>Section 2 – Scope.</p>
             <list>
               <item>
                   <bullet>a.</bullet>
@@ -249,11 +245,10 @@
                   </item>
                   </list>
               </item>
-            </list>
-        </item>
-        <item>             
-            <p>Section 3 – License Conditions.</p>
-            <p>Your exercise of the Licensed Rights is expressly made subject to the following conditions.</p>
+            </list>  
+         <p>Section 3 – License Conditions.</p>
+         <p>Your exercise of the Licensed Rights is expressly made subject to the following conditions.</p>
+		<list>
             <item>
               <bullet>a.</bullet>
               Attribution.
@@ -339,8 +334,7 @@
                 </item>
               </list>
             </item>
-        </item>
-        <item>
+        </list>
             <p>Section 4 – Sui Generis Database Rights.</p>
             <p>Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of
               the Licensed Material:</p>
@@ -368,8 +362,6 @@
                     Copyright and Similar Rights.
               </item>
             </list>
-        </item>
-        <item>
             <p>Section 5 – Disclaimer of Warranties and Limitation of Liability.</p>
             <list>
                 <item>
@@ -400,8 +392,6 @@
                    and waiver of all liability.
                 </item>
             </list>
-        </item>
-        <item>
             <p>Section 6 – Term and Termination.</p>
             <list>
                 <item>
@@ -438,9 +428,8 @@
                     Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
                 </item>
             </list>
-        </item>
-        <item>
-            <p>Section 7 – Other Terms and Conditions.</p>
+        <p>Section 7 – Other Terms and Conditions.</p>
+		<list>
             <item>
                 <bullet>a.</bullet>
                 The Licensor shall not be bound by any additional or different terms or conditions
@@ -452,8 +441,7 @@
                    herein are separate from and independent of the terms and conditions of this Public
                    License.
             </item>
-        </item>
-        <item>
+        </list>
             <p>Section 8 – Interpretation.</p>
             <list>
                 <item>
@@ -481,8 +469,6 @@
                        the legal processes of any jurisdiction or authority.
                 </item>
             </list>
-        </item>
-      </list>
       <p>Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to
         apply one of its public licenses to material it publishes and in those instances will be considered
          the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative
