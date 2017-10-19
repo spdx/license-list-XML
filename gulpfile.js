@@ -47,7 +47,7 @@ function validate(file) {
 }
 
 function validateall(callback) {
-	glob('./'+srcdir+'**/*.xml', function(err, files) {
+	glob('./'+srcdir+'/**/*.xml', function(err, files) {
 		if (!files) {
 			return;
 		}
