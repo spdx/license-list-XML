@@ -20,7 +20,7 @@
         <br/>Version 3, 19 November 2007 
       </p>
       </titleText>
-      <p>Copyright (C) 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;</p>
+      <p>Copyright (C) 2007 Free Software Foundation, Inc. &lt;http<optional>s</optional>://fsf.org/&gt;</p>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>
       <p>Preamble</p>
@@ -565,7 +565,7 @@
          the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero
          General Public License for more details.</p>
          <p>You should have received a copy of the GNU Affero General Public License along with this program. If not,
-         see &lt;http://www.gnu.org/licenses/&gt;.</p>
+         see &lt;http<optional>s</optional>://www.gnu.org/licenses/&gt;.</p>
          <p>Also add information on how to contact you by electronic and paper mail.</p>
          <p>If your software can interact with users remotely through a computer network, you should also make sure
          that it provides a way for users to get its source. For example, if your program is a web application,
@@ -574,7 +574,7 @@
          programs; see section 13 for the specific requirements.</p>
          <p>You should also get your employer (if you work as a programmer) or school, if any, to sign a
          "copyright disclaimer" for the program, if necessary. For more information on this, and how
-         to apply and follow the GNU AGPL, see &lt;http://www.gnu.org/licenses/&gt;.</p>
+         to apply and follow the GNU AGPL, see &lt;http<optional>s</optional>https://www.gnu.org/licenses/&gt;.</p>
       </optional>
   </license>
 </SPDXLicenseCollection>
