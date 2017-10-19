@@ -9,9 +9,7 @@
          <p>Version 1.0a</p>
       </titleText>
     
-      <list>
-        <item>
-            <bullet>1.</bullet>
+        <bullet>1.</bullet>
           DEFINITIONS.
           <p>"Affiliates" of a party shall mean an entity</p>
             <list>
@@ -28,7 +26,6 @@
               which is directly or indirectly owned or controlled by such party.
             </item>
             </list>
-        </item>
         <p>For these purposes, an entity shall be treated as being controlled by another if that other
            entity has fifty percent (50%) or more of the votes in such entity, is able to direct its
            affairs and/or to control the composition of its board of directors or equivalent
@@ -86,8 +83,7 @@
            rights under, and complying with all of the terms of, this License or a future version of
            this License issued under Section 6.1. For legal entities, "You" includes
            Affiliates of such entity.</p>
-        <item>
-            <bullet>2.</bullet>
+        <bullet>2.</bullet>
           SOURCE CODE LICENSE.
           <list>
                <item>
@@ -166,8 +162,6 @@
                   </list>
                </item>
             </list>
-        </item>
-        <item>
             <bullet>3.</bullet>
           DISTRIBUTION OBLIGATIONS.
           <list>
@@ -298,8 +292,6 @@
               
             </item>
             </list>
-        </item>
-        <item>
             <bullet>4.</bullet>
           INABILITY TO COMPLY DUE TO STATUTE OR REGULATION. 
             <br/>If it is impossible for You to comply with any of the terms of this License with respect to
@@ -311,15 +303,10 @@
           
           <p>Except to the extent prohibited by statute or regulation, such description must be sufficiently
              detailed for a recipient of ordinary skill to be able to understand it.</p>
-        </item>
-        <item>
             <bullet>5.</bullet>
           APPLICATION OF THIS LICENSE. 
             <br/>This License applies to code to which Nokia has attached the notice in Exhibit A and to
                  related Covered Software. 
-          
-        </item>
-        <item>
             <bullet>6.</bullet>
           VERSIONS OF THE LICENSE.
           <list>
@@ -341,8 +328,6 @@
               
             </item>
             </list>
-        </item>
-        <item>
             <bullet>7.</bullet>
           DISCLAIMER OF WARRANTY. 
             <br/>COVERED SOFTWARE IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS, WITHOUT
@@ -355,8 +340,6 @@
                  DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY
                  COVERED SOFTWARE IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER. 
           
-        </item>
-        <item>
             <bullet>8.</bullet>
           TERMINATION.
           <list>
@@ -415,8 +398,6 @@
                  distributor hereunder prior to termination shall survive termination.
             </item>
             </list>
-        </item>
-        <item>
             <bullet>9.</bullet>
           LIMITATION OF LIABILITY. 
             <br/>UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING NEGLIGENCE),
@@ -433,9 +414,6 @@
                  CASES, A PARTY's, ITS EMPLOYEES, LICENSORS OR AFFILIATES' LIABILITY SHALL BE
                  LIMITED TO U.S. $50. Nothing contained in this License shall prejudice the statutory
                  rights of any party dealing as a consumer. 
-          
-        </item>
-        <item>
             <bullet>10.</bullet>
           MISCELLANEOUS. 
             <br/>This License represents the complete agreement concerning subject matter hereof. All rights
@@ -450,17 +428,12 @@
              place in Helsinki, Finland in the English language. If any part of this Agreement is found
              void and unenforceable, it will not affect the validity of the balance of the Agreement, which
              shall remain valid and enforceable according to its terms.</p>
-        </item>
-        <item>
             <bullet>11.</bullet>
           RESPONSIBILITY FOR CLAIMS.<br/>
              As between Nokia and the Contributors, each party is responsible for claims and damages arising, directly
              or indirectly, out of its utilization of rights under this License and You agree to work with Nokia
              and Contributors to distribute such responsibility on an equitable basis. Nothing herein is intended
              or shall be deemed to constitute any admission of liability.
-        </item>
-      </list>
-    
       <optional>
          <p>EXHIBIT A</p>
          <p>The contents of this file are subject to the NOKOS License Version 1.0 (the "License"); you may
