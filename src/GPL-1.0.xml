@@ -29,6 +29,7 @@
         Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
       </p>
     </standardLicenseHeader>
+    <text>
     <titleText>
       <p>
         GNU GENERAL PUBLIC LICENSE<br></br>
@@ -358,5 +359,6 @@
         That's all there is to it!
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

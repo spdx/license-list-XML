@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>https://web.archive.org/web/20151224134844/http://unicode.org/copyright.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE</p>
       </titleText>
@@ -73,5 +74,6 @@
          promote the sale, use or other dealings in these Data Files or
          Software without prior written authorization of the copyright
          holder.</p>
+    </text>
   </license>
 </SPDXLicenseCollection>

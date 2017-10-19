@@ -17,6 +17,7 @@
     <alt match=".+" name="contributor">_____</alt>. 
   </standardLicenseHeader>
       <notes>This license has been superseded by v1.1</notes>
+    <text>
       <titleText>
          <p>MOZILLA PUBLIC LICENSE 
         <br/>Version 1.0 
@@ -452,5 +453,6 @@
         <alt match=".+" name="contributor">_____</alt>."
       </p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

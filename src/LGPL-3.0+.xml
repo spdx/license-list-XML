@@ -7,6 +7,7 @@
          <crossRef>http://www.gnu.org/licenses/lgpl-3.0-standalone.html</crossRef>
          <crossRef>http://www.opensource.org/licenses/LGPL-3.0</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>GNU LESSER GENERAL PUBLIC LICENSE 
         <br/>Version 3, 29 June 2007 
@@ -201,5 +202,6 @@
           </p>
         </item>
       </list>
+    </text>
   </license>
 </SPDXLicenseCollection>

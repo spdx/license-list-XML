@@ -4,7 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Rdisc_License</crossRef>
       </crossRefs>
-    
+    <text>
       <p>Rdisc (this program) was developed by Sun Microsystems, Inc. and is provided for unrestricted use
          provided that this legend is included on all tape media and as a part of the software program in whole
          or part. Users may copy or modify Rdisc without charge, and they may freely distribute it.</p>
@@ -22,6 +22,6 @@
         <br/>2550 Garcia Avenue 
         <br/>Mountain View, California 94043 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

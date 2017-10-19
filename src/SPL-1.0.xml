@@ -24,6 +24,7 @@
     may use your version of this file under either the SPL or the 
     <alt match=".+" name="licenseName">[____]</alt> License. 
   </standardLicenseHeader>
+    <text>
       <titleText>
          <p>SUN PUBLIC LICENSE Version 1.0</p>
       </titleText>
@@ -525,5 +526,6 @@
          the notices in the Source Code files of the Original Code. You should use the text of this Exhibit A
          rather than the text found in the Original Code Source Code for Your Modifications.]</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

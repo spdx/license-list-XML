@@ -5,6 +5,7 @@
          <crossRef>http://www.microsoft.com/opensource/licenses.mspx</crossRef>
          <crossRef>http://www.opensource.org/licenses/MS-RL</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Microsoft Reciprocal License (Ms-RL)</p>
       </titleText>
@@ -91,6 +92,6 @@
             </list>
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

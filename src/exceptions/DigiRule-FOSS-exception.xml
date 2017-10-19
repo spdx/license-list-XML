@@ -5,6 +5,7 @@
          <crossRef>http://www.digirulesolutions.com/drupal/foss</crossRef>
       </crossRefs>
       <notes>Typically used with GPL-2.0</notes>
+    <text>
       <titleText>
          <p>DigiRule Solutions’s FOSS License Exception Terms and Conditions</p>
       </titleText>
@@ -108,5 +109,6 @@
         <br/>Zlib/libpng License -
         <br/>Zope Public License 2.0
       </p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

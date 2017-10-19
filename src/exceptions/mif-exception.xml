@@ -7,6 +7,7 @@
       </crossRefs>
       <notes>Typically used with GPL-2.0 for older versions of GCC. This is similar to
          the eCos Exception.</notes>
+    <text>
       <p>As a special exception, you may use this file as part of a free
          software library without restriction. Specifically, if other
          files instantiate templates or use macros or inline functions
@@ -16,5 +17,6 @@
          General Public License. This exception does not however
          invalidate any other reasons why the executable file might be
          covered by the GNU General Public License.</p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

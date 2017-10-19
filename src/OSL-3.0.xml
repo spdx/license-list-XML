@@ -8,6 +8,7 @@
       <standardLicenseHeader>
     Licensed under the Open Software License version 3.0
   </standardLicenseHeader>
+    <text>
       <titleText>
          <p>Open Software License v. 3.0 (OSL-3.0)</p>
       </titleText>
@@ -204,6 +205,6 @@
              and You comply with its license review and certification process.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

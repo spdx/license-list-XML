@@ -6,6 +6,7 @@
       </crossRefs>
       <notes>Typically used with GPL-2.0+
   </notes>
+    <text>
       <p>EXCEPTION NOTICE</p>
       <list>
         <item>
@@ -47,5 +48,6 @@
              accordingly.
         </item>
       </list>
+    </text>
   </exception>
 </SPDXLicenseCollection>

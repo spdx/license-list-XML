@@ -6,6 +6,7 @@
          <crossRef>http://www.opensource.org/licenses/Frameworx-1.0</crossRef>
       </crossRefs>
       <notes>The url included in the license does not work. (15/10/10)</notes>
+    <text>
       <titleText>
          <p>THE FRAMEWORX OPEN LICENSE 1.0</p>
       </titleText>
@@ -229,6 +230,6 @@
         </item>
       </list>
       <copyrightText>(C) THE FRAMEWORX COMPANY 2003</copyrightText>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

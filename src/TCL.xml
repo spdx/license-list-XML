@@ -5,6 +5,7 @@
          <crossRef>http://www.tcl.tk/software/tcltk/license.html</crossRef>
          <crossRef>https://fedoraproject.org/wiki/Licensing/TCL</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>This software is copyrighted by 
         <alt match=".+" name="authors">the Regents of the University of California, Sun Microsystems, Inc.,
@@ -34,6 +35,6 @@
          (1) of DFARs. Notwithstanding the foregoing, the authors grant the U.S. Government and others acting
          in its behalf permission to use and distribute the software in accordance with the terms specified in
          this license.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

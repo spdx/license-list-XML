@@ -6,6 +6,7 @@
       <crossRefs>
          <crossRef>http://www.smlnj.org//license.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>STANDARD ML OF NEW JERSEY COPYRIGHT NOTICE, LICENSE AND DISCLAIMER.</p>
       </titleText>
@@ -26,6 +27,6 @@
          consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether
          in an action of contract, negligence or other tortious action, arising out of or in connection with
          the use or performance of this software.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

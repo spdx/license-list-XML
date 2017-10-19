@@ -29,6 +29,7 @@
       This license was released: February 1989. This license
       has been deprecated by its authors.
     </notes>
+    <text>
     <titleText>
       <p>
         GNU GENERAL PUBLIC LICENSE<br></br>
@@ -358,5 +359,6 @@
         That's all there is to it!
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

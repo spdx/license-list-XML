@@ -28,6 +28,7 @@
         License. If you do not delete the provisions above, a recipient may use your version of this file 
         under either the CUAPL or the <alt match=".+" name="AltLicenseName">[____]</alt> License. </p>
       </standardLicenseHeader>
+    <text>
       <titleText>
          <p>CUA Office Public License Version 1.0</p>
       </titleText>
@@ -540,5 +541,6 @@
          files of the Original Code. You should use the text of this Exhibit A rather than the text found in
          the Original Code Source Code for Your Modifications.]</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

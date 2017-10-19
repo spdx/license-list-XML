@@ -28,6 +28,7 @@
          parties is as indicated elsewhere herein. All Rights Reserved.</p>
       </standardLicenseHeader>
       <notes>This license was released 22 February 2002</notes>
+    <text>
       <titleText>
          <p>SGI FREE SOFTWARE LICENSE B 
         <br/>(Version 1.1 02/22/2000) 
@@ -334,5 +335,6 @@
             <optional>]</optional>
          </p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

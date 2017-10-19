@@ -17,6 +17,7 @@
     <notes>
       This license was released November 2002
     </notes>
+    <text>
     <titleText>
       <p>
         GNU Free Documentation License<br></br>
@@ -525,5 +526,6 @@
         General Public License, to permit their use in free software.
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

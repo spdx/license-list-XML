@@ -6,6 +6,7 @@
       </crossRefs>
       <notes>Used with GPL-2.0, as specified at
          http://www.freertos.org/license.txt</notes>
+    <text>
       <p>Any FreeRTOS source code, whether modified or in its original
        release form, or whether in whole or in part, can only be
        distributed by you under the terms of the GNU General Public
@@ -45,5 +46,6 @@
            is intended to ensure information accuracy).</p>
          </item>
       </list>
+    </text>
   </exception>
 </SPDXLicenseCollection>

@@ -6,6 +6,7 @@
       </crossRefs>
       <notes>This Erlang License is a derivative work of the Mozilla Public License, Version 1.0. It contains terms which
          differ from the Mozilla Public License, Version 1.0.</notes>
+    <text>
       <titleText>
          <p>ERLANG PUBLIC LICENSE Version 1.1</p>
       </titleText>
@@ -323,5 +324,6 @@
         limitations under the License.</p>
       <p>The Initial Developer of the Original Code is Ericsson Utvecklings AB. Portions created by Ericsson are
         Copyright 1999, Ericsson Utvecklings AB. All Rights Reserved.''</p>
+    </text>
   </license>
 </SPDXLicenseCollection>

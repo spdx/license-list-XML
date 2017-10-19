@@ -6,6 +6,7 @@
          <crossRef>http://git.savannah.gnu.org/cgit/freetype/freetype2.git/tree/docs/FTL.TXT</crossRef>
       </crossRefs>
       <notes>This license was released 27 Jan 2006</notes>
+    <text>
       <titleText>
          <p>The FreeType Project LICENSE</p>
          <p>2006-Jan-27</p>
@@ -144,5 +145,6 @@
       <optional>
          <p>--- end of FTL.TXT ---</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

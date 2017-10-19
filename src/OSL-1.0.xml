@@ -6,6 +6,7 @@
       </crossRefs>
       <standardLicenseHeader>Licensed under the Open Software License version 1.0</standardLicenseHeader>
       <notes>This license has been superseded.</notes>
+    <text>
       <titleText>
          <p>The Open Software License v. 1.0</p>
       </titleText>
@@ -175,6 +176,6 @@
       <p>This license is Copyright (C) 2002 Lawrence E. Rosen. All rights reserved. Permission is hereby granted
          to copy and distribute this license without modification. This license may not be modified without the
          express written permission of its copyright owner.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

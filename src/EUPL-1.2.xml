@@ -13,6 +13,7 @@
       This license was released: 19 May 2016. This license is available in the
       22 official languages of the EU. The English version is included here.
     </notes>
+    <text>
     <titleText>
       <p>
         European Union Public Licence v. 1.2
@@ -495,5 +496,6 @@
       All other changes or additions to this Appendix
       require the production of a new EUPL version.
     </p>
+    </text>
   </license>
 </SPDXLicenseCollection>

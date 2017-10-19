@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://opensource.org/licenses/Entessa</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Entessa Public License Version. 1.0</p>
       </titleText>
@@ -55,6 +56,6 @@
       <p>This software consists of voluntary contributions made by many individuals on behalf of openSEAL and was
        originally based on software contributed by Entessa, LLC, http://www.entessa.com. For more information on
        the openSEAL, please see &lt;http://www.openseal.org/&gt;.</p>
-  
+    </text>
    </license>
 </SPDXLicenseCollection>

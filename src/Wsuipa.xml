@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Wsuipa</crossRef>
       </crossRefs>
+    <text>
       <optional>
          <p>This file was added by Clea F. Rees on 2008/11/30 with the permission of Dean Guenther and pointers to
          this file were added to all source files.</p>
@@ -17,5 +18,6 @@
          <p>The copyright holder is Washington State University. The original author of the fonts is Janene Winter.
          The primary contact (as of 2008) is Dean Guenther.</p>
       </copyrightText>
+    </text>
   </license>
 </SPDXLicenseCollection>

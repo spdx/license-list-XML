@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.unicode.org/copyright.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Unicode Terms of Use</p>
       </titleText>
@@ -168,6 +169,6 @@
             </list>
          </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Xerox</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright (c) 1995, 1996 Xerox Corporation. All Rights Reserved.</p>
       </copyrightText>
@@ -18,6 +19,6 @@
          DAMAGES RESULTING FROM THE SOFTWARE OR ITS USE IS EXPRESSLY DISCLAIMED, WHETHER ARISING IN CONTRACT,
          TORT (INCLUDING NEGLIGENCE) OR STRICT LIABILITY, EVEN IF XEROX CORPORATION IS ADVISED OF THE
          POSSIBILITY OF SUCH DAMAGES.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

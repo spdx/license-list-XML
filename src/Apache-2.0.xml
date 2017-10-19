@@ -24,6 +24,7 @@
        </p>
   </standardLicenseHeader>
       <notes>This license was released January 2004</notes>
+    <text>
       <titleText>
          <p>Apache License 
         <br/>Version 2.0, January 2004 
@@ -233,5 +234,6 @@
         <br/>limitations under the License. 
       </p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

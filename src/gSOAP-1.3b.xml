@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.cs.fsu.edu/~engelen/license.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>gSOAP Public License</p>
          <p>Version 1.3b</p>
@@ -485,5 +486,6 @@
             </item>
         </list>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

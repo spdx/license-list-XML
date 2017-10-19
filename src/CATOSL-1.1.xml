@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://opensource.org/licenses/CATOSL-1.1</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Computer Associates Trusted Open Source License 
         <br/>Version 1.1 
@@ -435,6 +436,6 @@
             </list>
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

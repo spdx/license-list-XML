@@ -17,6 +17,7 @@
          <p>Contributor(s): <alt match=".+" name="contributor">______________________________________.</alt> 
          </p>
       </standardLicenseHeader>
+    <text>
       <titleText>
          <p>INTERBASE PUBLIC LICENSE 
         <br/>Version 1.0 
@@ -574,5 +575,6 @@
             </list> 
          </item>
       </list>  
+    </text>
   </license>
 </SPDXLicenseCollection>

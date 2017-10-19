@@ -6,6 +6,7 @@
       </crossRefs>
       <notes>The OpenSSL toolkit stays under a dual license, i.e. both the conditions of the OpenSSL License and the
          original SSLeay license apply to the toolkit.</notes>
+    <text>
       <titleText>
          <p>OpenSSL License</p>
       </titleText>
@@ -121,6 +122,6 @@
       <p>The licence and distribution terms for any publically available version or derivative of this code cannot
          be changed. i.e. this code cannot simply be copied and put under another distribution licence
          [including the GNU Public Licence.]</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

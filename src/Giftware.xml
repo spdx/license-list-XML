@@ -6,6 +6,7 @@
       </crossRefs>
       <notes>This license may also be known as Allegro 4. The Allegro 5 license shown at the alleg.sourceforge.net URL is
          the same as zlib</notes>
+    <text>
       <titleText>
          <p>Allegro 4 (the giftware license)</p>
       </titleText>
@@ -25,6 +26,6 @@
          NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE
          LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
          OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

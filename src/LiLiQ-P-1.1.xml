@@ -9,6 +9,7 @@
       <notes>French is the canonical language for this license. An English
          translation is provided here:
          https://forge.gouv.qc.ca/licence/en/liliq-v1-1/#permissive-liliq-p</notes>
+    <text>
       <titleText>
          <p>Licence Libre du Québec – Permissive (LiLiQ-P)</p>
          <p>Version 1.1</p>
@@ -226,5 +227,6 @@
          </p>
         </item>
       </list>
+    </text>
    </license>
 </SPDXLicenseCollection>

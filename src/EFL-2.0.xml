@@ -5,6 +5,7 @@
          <crossRef>http://www.eiffel-nice.org/license/eiffel-forum-license-2.html</crossRef>
          <crossRef>http://opensource.org/licenses/EFL-2.0</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Eiffel Forum License, version 2</p>
       </titleText>
@@ -36,6 +37,6 @@
          PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHORS BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT,
          INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS
          PACKAGE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

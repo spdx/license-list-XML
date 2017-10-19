@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Copyright 1992, 1993, 1994 Henry Spencer. All rights reserved.</p>
       </titleText>
@@ -33,6 +34,6 @@
           This notice may not be removed or altered.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

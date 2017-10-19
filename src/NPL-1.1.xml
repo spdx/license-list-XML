@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.mozilla.org/MPL/NPL/1.1/</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Netscape Public LIcense version 1.1</p>
       </titleText>
@@ -626,5 +627,6 @@
          files of the Original Code. You should use the text of this Exhibit A rather than the text found in
          the Original Code Source Code for Your Modifications.</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

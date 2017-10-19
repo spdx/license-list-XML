@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Cube</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Cube game engine source code, 20 dec 2003 release.</p>
       </titleText>
@@ -40,6 +41,6 @@
              explicitly written permission.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

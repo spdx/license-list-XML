@@ -5,7 +5,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/SWL</crossRef>
       </crossRefs>
-    
+    <text>
       <p>The authors hereby grant permission to use, copy, modify, distribute, and license this software and its
          documentation for any purpose, provided that existing copyright notices are retained in all copies and
          that this notice is included verbatim in any distributions. No written agreement, license, or royalty
@@ -29,6 +29,6 @@
          this license.</p>
       <p>BY INSTALLING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, THAT YOU UNDERSTAND IT,
          AND THAT YOU AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

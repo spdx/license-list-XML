@@ -15,6 +15,7 @@
     <alt match=".+" name="the work">pig.dtx and pig.ins and the derived file pig.sty</alt>.
   </standardLicenseHeader>
       <notes>This license was released 1 Oct 2004</notes>
+    <text>
       <titleText>
          <p>The LaTeX Project Public License 
         <br/>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 
@@ -370,5 +371,6 @@
       <p>in that place. In the absence of an unequivocal list it might be impossible for the licensee to determine
          what is considered by you to comprise the Work and, in such a case, the licensee would be entitled to
          make reasonable conjectures as to which files comprise the Work.</p>
+    </text>
   </license>
 </SPDXLicenseCollection>

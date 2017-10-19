@@ -5,6 +5,7 @@
          <crossRef>http://git.denx.de/?p=u-boot.git;a=blob;f=Licenses/Exceptions</crossRef>
       </crossRefs>
       <notes>Typically used with GPL-2.0+</notes>
+      <text>
       <titleText>
          <p>The U-Boot License Exception:</p>
       </titleText>
@@ -21,5 +22,6 @@
          heading of "derived work".
         <br/>-- Wolfgang Denk
       </p>
+      </text>
   </exception>
 </SPDXLicenseCollection>

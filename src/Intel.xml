@@ -7,6 +7,7 @@
       <notes>This license has been deprecated. A note at the top of the OSI license page states, "The Intel Open
          Source License for CDSA/CSSM Implementation (BSD License with Export Notice) (Intel has ceased to use
          or recommend this license)"</notes>
+    <text>
       <titleText>
          <p>Intel Open Source License</p>
       </titleText>
@@ -50,6 +51,6 @@
          from the U.S. and can be downloaded by or otherwise exported or reexported worldwide EXCEPT to U.S.
          embargoed destinations which include Cuba, Iraq, Libya, North Korea, Iran, Syria, Sudan, Afghanistan
          and any other country to which the U.S. has embargoed goods and services.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

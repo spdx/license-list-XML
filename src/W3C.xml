@@ -15,6 +15,7 @@
       </standardLicenseHeader>
       <notes>This license was released: 13 December 2002. The standard header is provided via a link from the original
          license page.</notes>
+    <text>
       <titleText>
          <p>W3C SOFTWARE NOTICE AND LICENSE</p>
       </titleText>
@@ -55,5 +56,6 @@
          as the previous version and is written so as to preserve the Free Software Foundation's assessment of
          GPL compatibility and OSI's certification under the Open Source Definition.</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

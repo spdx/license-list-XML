@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Crossword</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Copyright (C) 1995-2009 Gerd Neugebauer</p>
       </titleText>
@@ -15,6 +16,6 @@
         <br/>Everyone is granted permission to copy, modify and redistribute cwpuzzle.dtx, provided this
              copyright notice is preserved and any modifications are indicated. 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/BSD-2-Clause</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright (c) 
         <alt match=".+" name="copyright">&lt;year&gt; &lt;owner&gt;</alt><optional>. All rights reserved.</optional>
@@ -37,6 +38,6 @@
         TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
         ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

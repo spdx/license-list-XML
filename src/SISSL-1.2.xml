@@ -15,6 +15,7 @@
           Reserved. "Contributor(s): 
     <alt match=".+" name="contributor">_____</alt>
       </standardLicenseHeader>
+    <text>
       <titleText>
          <br/>SUN INDUSTRY STANDARDS SOURCE LICENSE
     <p>Version 1.2</p>
@@ -316,5 +317,6 @@
             </item>
          </list>  
       </optional>
+    </text>
    </license>
 </SPDXLicenseCollection>

@@ -7,7 +7,7 @@
       <notes>Typically used with GPL-2.0+.  Sometimes also referred to a
          "linking exception."  
   </notes>
-    
+    <text>
       <p>In addition to the permissions in the GNU
         <optional>Library</optional> General Public License, the Free
         Software Foundation gives you unlimited permission to link the
@@ -21,5 +21,6 @@
         example, they cover modification of the file, and distribution
         when not linked into
         <alt name="anotherProgram" match="another program|a combined? executable">another program</alt>.)</p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

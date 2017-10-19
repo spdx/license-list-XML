@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.apache.org/licenses/LICENSE-1.0</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright (c) 1995-1999 The Apache Group. All rights reserved.</p>
       </copyrightText>
@@ -72,5 +73,6 @@
          Applications, University of Illinois, Urbana-Champaign. For more information on the Apache Group and
          the Apache HTTP server project, please see &lt;http://www.apache.org/&gt;.</optional>
       </p>
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -17,6 +17,7 @@
     <alt match=".+" name="copyright">_____</alt> All Rights Reserved. Contributor(s): 
     <alt match=".+" name="contributor">_____</alt>
       </standardLicenseHeader>
+    <text>
       <titleText>
          <p>Sun Industry Standards Source License - Version 1.1</p>
       </titleText>
@@ -351,5 +352,6 @@
         <br/>http://api.openoffice.org 
       </p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

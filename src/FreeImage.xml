@@ -6,6 +6,7 @@
          <crossRef>http://freeimage.sourceforge.net/freeimage-license.txt</crossRef>
       </crossRefs>
       <notes>This is similar to MPL-1.0, but for the names, choice of law, and jurisdiction</notes>
+    <text>
       <titleText>
          <p>FreeImage Public License - Version 1.0</p>
       </titleText>
@@ -432,5 +433,6 @@
          ANY KIND, either express or implied. See the License for the specific language governing rights and
          limitations under the License.</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

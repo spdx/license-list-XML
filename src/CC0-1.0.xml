@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://creativecommons.org/publicdomain/zero/1.0/legalcode</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <optional>
             <p>Creative Commons<optional> Legal Code</optional></p>
@@ -146,6 +147,6 @@
             </list>
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

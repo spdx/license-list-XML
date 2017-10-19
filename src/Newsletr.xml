@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Newsletr</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright 1989--2004 by Hunter Goatley.</p>
       </copyrightText>
@@ -22,6 +23,6 @@
              original software.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>
