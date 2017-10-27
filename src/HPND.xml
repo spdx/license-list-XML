@@ -30,9 +30,7 @@
          <optional>the</optional> copyright notice 
          and this permission notice appear in supporting documentation<optional>, and that the name <optional>of</optional> 
             <alt match=".*" name="copyrightHolder0">&lt;copyright holder&gt;</alt> 
-            <optional>
-               <alt match=".*" name="orRelated">&lt;or related entities&gt;</alt>
-            </optional> 
+            <alt match=".*" name="orRelated">&lt;or related entities&gt;</alt>
          not be used in advertising or publicity pertaining to distribution of the software without specific, written
          prior permission</optional>. <optional>
             <alt match=".*" name="copyrightHolder1">&lt;copyright holder&gt;</alt> makes no representations 
