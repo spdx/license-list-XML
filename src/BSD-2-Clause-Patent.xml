@@ -5,6 +5,11 @@
       <crossRefs>
          <crossRef>https://opensource.org/licenses/BSDplusPatent</crossRef>
       </crossRefs>
+      <notes>
+	      <p>
+Note: This license is designed to provide: a) a simple permissive license; b) that is compatible with the GNU General Public License (GPL), version 2; and c) which also has an express patent grant included.
+	      </p>
+      </notes>
       <copyrightText>
 	<p> Copyright (c) <alt match=".+" name="copyright">&lt;YEAR&gt; &lt;COPYRIGHT HOLDERS&gt;</alt></p>
       </copyrightText>
