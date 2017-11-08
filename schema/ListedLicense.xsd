@@ -19,12 +19,12 @@
 	<complexType name="ExceptionType" mixed="true">
 		<choice minOccurs="1" maxOccurs="unbounded">
 			<element name="crossRefs" type="tns:crossRefsType" minOccurs="0" maxOccurs="1"/>
-			<element name="notes" type="string" minOccurs="0" maxOccurs="1"/>
-			<element name="titleText" type="tns:formattedTextType" minOccurs="0" maxOccurs="1"/>
-			<element name="copyrightText" type="tns:formattedTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="notes" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="titleText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="copyrightText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
 			<element name="bullet" type="string"/>
 			<element name="list" type="tns:listType"/>
-			<element name="p" type="tns:formattedTextType"/>
+			<element name="p" type="tns:formattedAltTextType"/>
 			<element name="optional" type="tns:optionalType"/>
 			<element name="alt" type="tns:altType"/>
 			<element name="br" type="tns:emptyType"/>
@@ -38,13 +38,13 @@
 	<complexType name="LicenseType" mixed="true">
 		<choice minOccurs="1" maxOccurs="unbounded">
 			<element name="crossRefs" type="tns:crossRefsType" minOccurs="0" maxOccurs="1"/>
-			<element name="notes" type="string" minOccurs="0" maxOccurs="1"/>
-			<element name="standardLicenseHeader" type="tns:formattedTextType" minOccurs="0" maxOccurs="1"/>
-			<element name="titleText" type="tns:formattedTextType" minOccurs="0" maxOccurs="1"/>
-			<element name="copyrightText" type="tns:formattedTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="notes" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="standardLicenseHeader" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="titleText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="copyrightText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
 			<element name="bullet" type="string"/>
 			<element name="list" type="tns:listType"/>
-			<element name="p" type="tns:formattedTextType"/>
+			<element name="p" type="tns:formattedAltTextType"/>
 			<element name="optional" type="tns:optionalType"/>
 			<element name="alt" type="tns:altType"/>
 			<element name="br" type="tns:emptyType"/>
@@ -57,47 +57,52 @@
 		<attribute name="listVersionAdded" type="string"/>
 		<attribute name="deprecatedVersion" type="string"/>
 	</complexType>
-	<complexType name="notesType" mixed="true">
-		<choice minOccurs="1" maxOccurs="unbounded">
-			<element name="p" type="tns:formattedTextType"/>
-			<element name="br" type="tns:emptyType"/>
-			<element name="bullet" type="string"/>
-			<element name="list" type="tns:listType"/>
-		</choice>
-	</complexType>
 	<complexType name="crossRefsType">
 		<sequence>
 			<element name="crossRef" type="string" minOccurs="1" maxOccurs="unbounded"/>
 		</sequence>
 	</complexType>
 	<complexType name="altType" mixed="true">
-		<group ref="tns:formattedTextGroup" minOccurs="0" maxOccurs="unbounded"/>
+		<group ref="tns:formattedFixedTextGroup" minOccurs="0" maxOccurs="unbounded"/>
 		<attribute name="name" type="string"/>
 		<attribute name="match" type="string"/>
 	</complexType>
 	<complexType name="optionalType" mixed="true">
-		<group ref="tns:formattedTextGroup" minOccurs="0" maxOccurs="unbounded"/>
+		<group ref="tns:formattedAltTextGroup" minOccurs="0" maxOccurs="unbounded"/>
 	</complexType>
 	<complexType name="listType">
 		<choice minOccurs="1" maxOccurs="unbounded">
-			<element name="item" type="tns:formattedTextType"/>
+			<element name="item" type="tns:formattedAltTextType"/>
 			<element name="list" type="tns:listType"/>
 		</choice>
 	</complexType>
 	<complexType name="emptyType"/>
-	<complexType name="formattedTextType" mixed="true">
-		<group ref="tns:formattedTextGroup" minOccurs="0" maxOccurs="unbounded"/>
+	<complexType name="formattedFixedTextType" mixed="true">
+		<group ref="tns:formattedFixedTextGroup" minOccurs="0" maxOccurs="unbounded"/>
 	</complexType>
-	<group name="formattedTextGroup">
+	<complexType name="formattedAltTextType" mixed="true">
+		<group ref="tns:formattedAltTextGroup" minOccurs="0" maxOccurs="unbounded"/>
+	</complexType>
+	<group name="formattedFixedTextGroup">
 		<choice>
-			<element name="p" type="tns:formattedTextType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="p" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="bullet" type="string" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="list" type="tns:listType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="br" type="tns:emptyType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="titleText" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="copyrightText" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1"/>
+		</choice>
+	</group>
+	<group name="formattedAltTextGroup">
+		<choice>
+			<element name="p" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="bullet" type="string" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="list" type="tns:listType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="optional" type="tns:optionalType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="alt" type="tns:altType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="br" type="tns:emptyType" minOccurs="0" maxOccurs="unbounded"/>
-			<element name="titleText" type="tns:formattedTextType" minOccurs="0" maxOccurs="1"/>
-			<element name="copyrightText" type="tns:formattedTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="titleText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="copyrightText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
 		</choice>
 	</group>
 </schema>
