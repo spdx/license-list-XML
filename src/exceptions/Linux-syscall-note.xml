@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <exception licenseId="Linux-syscall-note" name="Linux syscall Note">
+   <exception licenseId="Linux-syscall-note" name="Linux Syscall Note">
       <crossRefs>
          <crossRef>https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/COPYING</crossRef>
       </crossRefs>
-      <notes>Specified to be associated with GPL-2.0</notes>
+      <notes>This note is used with the Linux kernel to clarify how user space API files should be treated.</notes>
       <p> NOTE! This copyright does *not* cover user programs that use kernel
          services by normal system calls - this is merely considered normal use
          of the kernel, and does *not* fall under the heading of "derived work".
