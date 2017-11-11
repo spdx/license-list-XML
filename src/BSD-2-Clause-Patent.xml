@@ -17,7 +17,7 @@
     <copyrightText>
       <p>
         Copyright (c)<alt name="copyright"
-        match=".+"><YEAR> <COPYRIGHT HOLDERS></alt>
+        match=".+">&lt;YEAR&gt; &lt;COPYRIGHT HOLDERS&gt;</alt>
       </p>
     </copyrightText>
     <p>
