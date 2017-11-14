@@ -152,6 +152,6 @@
              PARTICULAR PURPOSE.
         </item>
       </list>
-      <p>The End</p>
+      <optional><p>The End</p></optional>
   </license>
 </SPDXLicenseCollection>
