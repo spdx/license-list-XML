@@ -36,7 +36,7 @@ secondly, the election of a governing law, French law, with which it is conforma
         </item>
          </list>
          <p>
-The authors of the CeCILL-C (for Ce[a] C[nrs] I[nria] L[ogiciel] L[ibre]) license are:
+The authors of the <alt name="licenseNameFootnote" match="CeCILL[¹1]?( \(?for Ce[\[\(]a[\]\)] C[\[\(]nrs[\[\(]a[\]\)] I[\[\(]nria[\[\(]a[\]\)] L[\[\(]ogiciel[\[\(]a[\]\)] L[\[\(]ibre[\[\(]a[\]\)]\)?)?">CeCILL¹</alt> license are:
       </p>
          <list>
             <item>
@@ -656,5 +656,6 @@ Failing an amicable solution within two (2) months as from their occurrence, and
       <p>
 Version 1.0 dated 2006-09-05.
   </p>
+  <optional>1 CeCILL stands for Ce(a) C(nrs) I(nria) L(ogiciel) L(ibre)</optional>
    </license>
 </SPDXLicenseCollection>
