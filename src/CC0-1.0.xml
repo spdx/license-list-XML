@@ -6,6 +6,9 @@
          <crossRef>http://creativecommons.org/publicdomain/zero/1.0/legalcode</crossRef>
       </crossRefs>
       <titleText>
+         <optional>
+            <p>Creative Commons Legal Code</p>
+         </optional>
          <p>Creative Commons CC0 1.0 Universal</p>
       </titleText>
       <optional>
