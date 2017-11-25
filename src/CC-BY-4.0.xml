@@ -5,10 +5,10 @@
       <crossRefs>
          <crossRef>http://creativecommons.org/licenses/by/4.0/legalcode</crossRef>
       </crossRefs>
+      <titleText>
+         <p><optional>Creative Commons </optional>Attribution 4.0 International</p>
+      </titleText>
       <optional>
-         <titleText>
-            <p><optional>Creative Commons </optional>Attribution 4.0 International</p>
-         </titleText>
          <p>Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services
          or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or
          other relationship. Creative Commons makes its licenses and related information available on an
