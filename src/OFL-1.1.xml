@@ -6,10 +6,11 @@
          <crossRef>http://www.opensource.org/licenses/OFL-1.1</crossRef>
       </crossRefs>
       <notes>This license was released: 26 February 2007.</notes>
-      <optional>
-         <copyrightText><p>Copyright (c) &lt;dates&gt;, &lt;Copyright Holder&gt; (&lt;URL|email&gt;),
+      <copyrightText><p>Copyright (c) &lt;dates&gt;, &lt;Copyright Holder&gt; (&lt;URL|email&gt;),
             <br/>with Reserved Font Name &lt;Reserved Font Name&gt;.</p></copyrightText>
-         <p>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL</p>
+      <optional>
+         <p>This Font Software is licensed under the SIL Open Font License, Version 1.1.</p>
+         <p>This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL</p>
       </optional>
       <titleText>
          <p>SIL OPEN FONT LICENSE</p>
