@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="true" licenseId="GPL-2.0"
+   <license isOsiApproved="true" isFsfLibre="true" licenseId="GPL-2.0"
             name="GNU General Public License v2.0 only">
       <crossRefs>
          <crossRef>http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</crossRef>
