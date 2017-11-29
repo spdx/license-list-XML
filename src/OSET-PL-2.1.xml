@@ -393,7 +393,7 @@
 		                <bullet>5.2</bullet> Patent Infringement Claims<br/>
 			  If You initiate litigation against any entity by asserting
 			  a patent infringement claim (excluding declaratory judgment actions,
-			  counter-claims, and <alt match="cross- claims|cross-claims" name="extraSpace"/>) alleging that a Contributor Version
+			  counter-claims, and <alt match="cross- claims|cross-claims" name="crossClaimsSpace">cross-claims</alt>) alleging that a Contributor Version
 			  directly or indirectly infringes any patent,
 			  then the rights granted to You by any and all Contributors
 			  for the Covered Software under Section 2.1 of this License
