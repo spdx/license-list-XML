@@ -1,2 +1,7 @@
-
 .DS_Store
+# Ignore all hidden files/dirs except .gitignore
+.*
+!/.gitignore
+
+# nodeJS
+node_modules/

@@ -1,43 +1,45 @@
-<spdx name="bzip2 and libbzip2 License v1.0.5" identifier="bzip2-1.0.5" osi-approved="false">
-  <urls>
-    <url>http://bzip.org/1.0.5/bzip2-manual-1.0.5.html</url>
-  </urls>
-  <license>
-    <title>
-      <p>Version 1.0.5 of 10 December 2007</p>
-    </title>
-    <copyright>
-      <p>Copyright &#xA9; 1996-2007 Julian Seward</p>
-    </copyright>
-    <body>
-      <p>This program, bzip2, the associated library libbzip2, and all documentation, are copyright &#xA9;
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="bzip2-1.0.5"
+            name="bzip2 and libbzip2 License v1.0.5">
+      <crossRefs>
+         <crossRef>http://bzip.org/1.0.5/bzip2-manual-1.0.5.html</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>Version 1.0.5 of 10 December 2007</p>
+      </titleText>
+      <copyrightText>
+         <p>Copyright © 1996-2007 Julian Seward</p>
+      </copyrightText>
+    
+      <p>This program, bzip2, the associated library libbzip2, and all documentation, are copyright ©
          1996-2007 Julian Seward. All rights reserved.</p>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
       <list>
-        <li>
-          <b>&#x2022;</b>
-          <p>Redistributions of source code must retain the above copyright notice, this list of
-             conditions and the following disclaimer.</p>
-        </li>
-        <li>
-          <b>&#x2022;</b>
-          <p>The origin of this software must not be misrepresented; you must not claim that you wrote the
+        <item>
+            <bullet>•</bullet>
+          Redistributions of source code must retain the above copyright notice, this list of
+             conditions and the following disclaimer.
+        </item>
+        <item>
+            <bullet>•</bullet>
+          The origin of this software must not be misrepresented; you must not claim that you wrote the
              original software. If you use this software in a product, an acknowledgment in the product
-             documentation would be appreciated but is not required.</p>
-        </li>
-        <li>
-          <b>&#x2022;</b>
-          <p>Altered source versions must be plainly marked as such, and must not be misrepresented as
-             being the original software.</p>
-        </li>
-        <li>
-          <b>&#x2022;</b>
-          <p>The name of the author may not be used to endorse or promote products derived from this
-             software without specific prior written permission.</p>
-        </li>
+             documentation would be appreciated but is not required.
+        </item>
+        <item>
+            <bullet>•</bullet>
+          Altered source versions must be plainly marked as such, and must not be misrepresented as
+             being the original software.
+        </item>
+        <item>
+            <bullet>•</bullet>
+          The name of the author may not be used to endorse or promote products derived from this
+             software without specific prior written permission.
+        </item>
       </list>
-      <p>THIS SOFTWARE IS PROVIDED BY THE AUTHOR &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES,
+      <p>THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
          INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
          PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
          SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
@@ -50,6 +52,6 @@
          However, I do not have the resources to carry out a patent search. Therefore I cannot give any
          guarantee of the above statement. 
       </p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

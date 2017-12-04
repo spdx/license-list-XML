@@ -1,13 +1,14 @@
-<SPDX name="libtiff License" identifier="libtiff" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/libtiff</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Copyright (c) 1988-1997 Sam Leffler</p>
-      <p>Copyright (c) 1991-1997 Silicon Graphics, Inc.</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="libtiff" name="libtiff License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/libtiff</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Copyright (c) 1988-1997 Sam Leffler</p>
+         <p>Copyright (c) 1991-1997 Silicon Graphics, Inc.</p>
+      </copyrightText>
+    
       <p>Permission to use, copy, modify, distribute, and sell this software and its documentation for any purpose
          is hereby granted without fee, provided that (i) the above copyright notices and this permission
          notice appear in all copies of the software and related documentation, and (ii) the names of Sam
@@ -19,6 +20,6 @@
          CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
          PROFITS, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY OF LIABILITY, ARISING
          OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

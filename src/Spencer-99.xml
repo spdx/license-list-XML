@@ -1,12 +1,13 @@
-<SPDX name="Spencer License 99" identifier="Spencer-99" osi-approved="false">
-  <urls>
-    <url>http://www.opensource.apple.com/source/tcl/tcl-5/tcl/generic/regfronts.c</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Copyright (c) 1998, 1999 Henry Spencer. All rights reserved.</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="Spencer-99" name="Spencer License 99">
+      <crossRefs>
+         <crossRef>http://www.opensource.apple.com/source/tcl/tcl-5/tcl/generic/regfronts.c</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Copyright (c) 1998, 1999 Henry Spencer. All rights reserved.</p>
+      </copyrightText>
+    
       <p>Development of this software was funded, in part, by Cray Research Inc., UUNET Communications Services
          Inc., Sun Microsystems Inc., and Scriptics Corporation, none of whom are responsible for the results.
          The author thanks all of them.</p>
@@ -22,6 +23,6 @@
          LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
          LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
          IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

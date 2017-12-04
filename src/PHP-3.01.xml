@@ -1,57 +1,58 @@
-<SPDX name="PHP License v3.01" identifier="PHP-3.01" osi-approved="false">
-  <urls>
-    <url>http://www.php.net/license/3_01.txt</url>
-  </urls>
-  <notes>The PHP License v3.01 is essentially the same as v3.0, with the exception of a couple word differences and
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="PHP-3.01" name="PHP License v3.01">
+      <crossRefs>
+         <crossRef>http://www.php.net/license/3_01.txt</crossRef>
+      </crossRefs>
+      <notes>The PHP License v3.01 is essentially the same as v3.0, with the exception of a couple word differences and
          updated url in section 6.</notes>
-  <license>
-    <title>
-      <p>The PHP License, version 3.01</p>
-    </title>
-    <copyright>
-      <p>Copyright (c) 1999 - 2012 The PHP Group. All rights reserved.</p>
-    </copyright>
-    <body>
+      <titleText>
+         <p>The PHP License, version 3.01</p>
+      </titleText>
+      <copyrightText>
+         <p>Copyright (c) 1999 - 2012 The PHP Group. All rights reserved.</p>
+      </copyrightText>
+    
       <p>Redistribution and use in source and binary forms, with or without modification, is permitted provided
          that the following conditions are met:</p>
       <list>
-        <li>
-          <b>1.</b>
-          <p>Redistributions of source code must retain the above copyright notice, this list of conditions
-             and the following disclaimer.</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+        <item>
+            <bullet>1.</bullet>
+          Redistributions of source code must retain the above copyright notice, this list of conditions
+             and the following disclaimer.
+        </item>
+        <item>
+            <bullet>2.</bullet>
+          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
              and the following disclaimer in the documentation and/or other materials provided with the
-             distribution.</p>
-        </li>
-        <li>
-          <b>3.</b>
-          <p>The name "PHP" must not be used to endorse or promote products derived from this software without
-             prior written permission. For written permission, please contact group@php.net.</p>
-        </li>
-        <li>
-          <b>4.</b>
-          <p>Products derived from this software may not be called "PHP", nor may "PHP" appear in their name,
+             distribution.
+        </item>
+        <item>
+            <bullet>3.</bullet>
+          The name "PHP" must not be used to endorse or promote products derived from this software without
+             prior written permission. For written permission, please contact group@php.net.
+        </item>
+        <item>
+            <bullet>4.</bullet>
+          Products derived from this software may not be called "PHP", nor may "PHP" appear in their name,
              without prior written permission from group@php.net. You may indicate that your software works
              in conjunction with PHP by saying "Foo for PHP" instead of calling it "PHP Foo" or
-             "phpfoo"</p>
-        </li>
-        <li>
-          <b>5.</b>
-          <p>The PHP Group may publish revised and/or new versions of the license from time to time. Each
+             "phpfoo"
+        </item>
+        <item>
+            <bullet>5.</bullet>
+          The PHP Group may publish revised and/or new versions of the license from time to time. Each
              version will be given a distinguishing version number. Once covered code has been published
              under a particular version of the license, you may always continue to use it under the terms
              of that version. You may also choose to use such covered code under the terms of any
              subsequent version of the license published by the PHP Group. No one other than the PHP Group
-             has the right to modify the terms applicable to covered code created under this License.</p>
-        </li>
-        <li>
-          <b>6.</b>
-          <p>Redistributions of any form whatsoever must retain the following acknowledgment: "This product
-             includes PHP software, freely available from &lt;http://www.php.net/software/&gt;".</p>
-        </li>
+             has the right to modify the terms applicable to covered code created under this License.
+        </item>
+        <item>
+            <bullet>6.</bullet>
+          Redistributions of any form whatsoever must retain the following acknowledgment: "This product
+             includes PHP software, freely available from &lt;http://www.php.net/software/&gt;".
+        </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY THE PHP DEVELOPMENT TEAM ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES,
          INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
@@ -65,6 +66,6 @@
       <p>The PHP Group can be contacted via Email at group@php.net.</p>
       <p>For more information on the PHP Group and the PHP project, please see &lt;http://www.php.net&gt;.</p>
       <p>PHP includes the Zend Engine, freely available at &lt;http://www.zend.com&gt;.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

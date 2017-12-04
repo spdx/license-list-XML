@@ -1,12 +1,13 @@
-<SPDX name="mpich2 License" identifier="mpich2" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/MIT</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>COPYRIGHT</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="mpich2" name="mpich2 License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/MIT</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>COPYRIGHT</p>
+      </copyrightText>
+    
       <p>The following is a notice of limited availability of the code, and disclaimer which must be included in
          the prologue of the code and in all source listings of the code.</p>
       <p>Copyright Notice 
@@ -28,6 +29,6 @@
          employees, makes any warranty express or implied, or assumes any legal liability or responsibility for
          the accuracy, completeness, or usefulness of any information, apparatus, product, or process
          disclosed, or represents that its use would not infringe privately owned rights.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

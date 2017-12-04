@@ -1,43 +1,45 @@
-<SPDX name="BSD Source Code Attribution" identifier="BSD-Source-Code" osi-approved="false">
-  <urls>
-    <url>https://github.com/robbiehanson/CocoaHTTPServer/blob/master/LICENSE.txt</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Copyright (c) 
-        <alt name="copyright" match=".+">2011, Deusty, LLC</alt>
-        <br/>All rights reserved.
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="BSD-Source-Code"
+            name="BSD Source Code Attribution">
+      <crossRefs>
+         <crossRef>https://github.com/robbiehanson/CocoaHTTPServer/blob/master/LICENSE.txt</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Copyright (c) 
+        <alt match=".+" name="copyright">2011, Deusty, LLC</alt>
+            <br/>All rights reserved.
       </p>
-    </copyright>
-    <body>
+      </copyrightText>
+    
       <p>Redistribution and use of this software in source and binary
          forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
       <list>
-        <li>
-          <b>*</b>
-          <p>Redistributions of source code must retain the above
+        <item>
+            <bullet>*</bullet>
+          Redistributions of source code must retain the above
              copyright notice, this list of conditions and the
-             following disclaimer.</p>
-        </li>
-        <li>
-          <b>*</b>
-          <p>Neither the name of 
-            <alt name="organizationClause3" match=".+">
+             following disclaimer.
+        </item>
+        <item>
+            <bullet>*</bullet>
+          Neither the name of 
+            <alt match=".+" name="organizationClause3">
             Deusty</alt>nor the names of its contributors may be
             used to endorse or promote products derived from this
             software without specific prior written permission of
             Deusty, LLC.
-          </p>
-        </li>
+          
+        </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY 
-        <alt name="copyrightHolderAsIs" match=".+">THE COPYRIGHT HOLDERS
+        <alt match=".+" name="copyrightHolderAsIs">THE COPYRIGHT HOLDERS
         AND CONTRIBUTORS</alt> "AS IS" AND ANY EXPRESS OR IMPLIED
         WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
         WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
         PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL 
-        <alt name="copyrightHolderLiability" match=".+">THE COPYRIGHT
+        <alt match=".+" name="copyrightHolderLiability">THE COPYRIGHT
         HOLDER OR CONTRIBUTORS</alt> BE LIABLE FOR ANY DIRECT, INDIRECT,
         INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
         (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
@@ -48,6 +50,6 @@
         THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
         DAMAGE.
       </p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

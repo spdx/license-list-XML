@@ -1,12 +1,13 @@
-<spdx name="Apple MIT License" identifier="AML" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/Apple_MIT_License</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Copyright: Copyright (c) 2006 by Apple Computer, Inc., All Rights Reserved.</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="AML" name="Apple MIT License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/Apple_MIT_License</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Copyright: Copyright (c) 2006 by Apple Computer, Inc., All Rights Reserved.</p>
+      </copyrightText>
+    
       <p>IMPORTANT: This Apple software is supplied to you by Apple Computer, Inc. ("Apple") in consideration of
          your agreement to the following terms, and your use, installation, modification or redistribution of
          this Apple software constitutes acceptance of these terms. If you do not agree with these terms,
@@ -32,6 +33,6 @@
          AND/OR DISTRIBUTION OF THE APPLE SOFTWARE, HOWEVER CAUSED AND WHETHER UNDER THEORY OF CONTRACT, TORT
          (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF APPLE HAS BEEN ADVISED OF THE
          POSSIBILITY OF SUCH DAMAGE.</p>
-    </body>
+    
   </license>
-</spdx>
+</SPDXLicenseCollection>

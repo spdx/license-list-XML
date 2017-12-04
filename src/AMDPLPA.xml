@@ -1,12 +1,13 @@
-<spdx name="AMD&apos;s plpa_map.c License" identifier="AMDPLPA" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/AMD_plpa_map_License</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>All rights reserved.</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="AMDPLPA" name="AMD's plpa_map.c License">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/AMD_plpa_map_License</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>All rights reserved.</p>
+      </copyrightText>
+    
       <p>Redistribution and use in any form of this material and any product thereof including software in source
          or binary forms, along with any related documentation, with or without modification ("this material"),
          is permitted provided that the following conditions are met:</p>
@@ -68,6 +69,6 @@
          disputes arising out of this license shall be subject to the jurisdiction of the federal and state
          courts in Austin, Texas, and all defenses are hereby waived concerning personal jurisdiction and venue
          of these courts.</p>
-    </body>
+    
   </license>
-</spdx>
+</SPDXLicenseCollection>

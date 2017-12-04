@@ -1,29 +1,31 @@
-<SPDX name="BSD 2-clause FreeBSD License" identifier="BSD-2-Clause-FreeBSD" osi-approved="false">
-  <urls>
-    <url>http://www.freebsd.org/copyright/freebsd-license.html</url>
-  </urls>
-  <license>
-    <title>
-      <p>The FreeBSD Copyright</p>
-    </title>
-    <copyright>
-      <p>Copyright 1992-2012 The FreeBSD Project. All rights reserved.</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="BSD-2-Clause-FreeBSD"
+            name="BSD 2-clause FreeBSD License">
+      <crossRefs>
+         <crossRef>http://www.freebsd.org/copyright/freebsd-license.html</crossRef>
+      </crossRefs>
+      <titleText>
+         <p>The FreeBSD Copyright</p>
+      </titleText>
+      <copyrightText>
+         <p>Copyright 1992-2012 The FreeBSD Project. All rights reserved.</p>
+      </copyrightText>
+    
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
       <list>
-        <li>
-          <b>1.</b>
-          <p>Redistributions of source code must retain the above copyright notice, this list of conditions
-             and the following disclaimer.</p>
-        </li>
-        <li>
-          <b>2.</b>
-          <p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+        <item>
+            <bullet>1.</bullet>
+          Redistributions of source code must retain the above copyright notice, this list of conditions
+             and the following disclaimer.
+        </item>
+        <item>
+            <bullet>2.</bullet>
+          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
              and the following disclaimer in the documentation and/or other materials provided with the
-             distribution.</p>
-        </li>
+             distribution.
+        </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY THE FREEBSD PROJECT ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
          INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
@@ -36,6 +38,6 @@
       <p>The views and conclusions contained in the software and documentation are those of the authors and should
          not be interpreted as representing official policies, either expressed or implied, of the FreeBSD
          Project.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>

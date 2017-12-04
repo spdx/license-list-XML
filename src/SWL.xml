@@ -1,9 +1,11 @@
-<spdx name="Scheme Widget Library (SWL) Software License Agreement" identifier="SWL" osi-approved="false">
-  <urls>
-    <url>https://fedoraproject.org/wiki/Licensing/SWL</url>
-  </urls>
-  <license>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="SWL"
+            name="Scheme Widget Library (SWL) Software License Agreement">
+      <crossRefs>
+         <crossRef>https://fedoraproject.org/wiki/Licensing/SWL</crossRef>
+      </crossRefs>
+    
       <p>The authors hereby grant permission to use, copy, modify, distribute, and license this software and its
          documentation for any purpose, provided that existing copyright notices are retained in all copies and
          that this notice is included verbatim in any distributions. No written agreement, license, or royalty
@@ -27,6 +29,6 @@
          this license.</p>
       <p>BY INSTALLING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, THAT YOU UNDERSTAND IT,
          AND THAT YOU AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.</p>
-    </body>
+    
   </license>
-</spdx>
+</SPDXLicenseCollection>

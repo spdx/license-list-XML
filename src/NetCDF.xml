@@ -1,12 +1,13 @@
-<SPDX name="NetCDF license" identifier="NetCDF" osi-approved="false">
-  <urls>
-    <url>http://www.unidata.ucar.edu/software/netcdf/copyright.html</url>
-  </urls>
-  <license>
-    <copyright>
-      <p>Copyright 1993-2014 University Corporation for Atmospheric Research/Unidata</p>
-    </copyright>
-    <body>
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="NetCDF" name="NetCDF license">
+      <crossRefs>
+         <crossRef>http://www.unidata.ucar.edu/software/netcdf/copyright.html</crossRef>
+      </crossRefs>
+      <copyrightText>
+         <p>Copyright 1993-2014 University Corporation for Atmospheric Research/Unidata</p>
+      </copyrightText>
+    
       <p>Portions of this software were developed by the Unidata Program at the University Corporation for
          Atmospheric Research.</p>
       <p>Access and use of this software shall impose the following obligations and understandings on the user.
@@ -27,6 +28,6 @@
          DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF
          CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE ACCESS, USE OR
          PERFORMANCE OF THIS SOFTWARE.</p>
-    </body>
+    
   </license>
-</SPDX>
+</SPDXLicenseCollection>
