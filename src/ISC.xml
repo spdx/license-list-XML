@@ -6,7 +6,7 @@
          <crossRef>http://www.opensource.org/licenses/ISC</crossRef>
       </crossRefs>
       <titleText>
-         <p><alt match="(The )?ISC License( \(ISC[L]?\))?:?"></alt></p>
+         <p><alt match="(The )?ISC License( \(ISC[L]?\))?:?">ISC License</alt></p>
       </titleText>
       <copyrightText>
          <p>Copyright (c) <alt match=".+" name="copyright">2004-2010 by Internet Systems Consortium, Inc. ("ISC")
