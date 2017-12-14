@@ -2,5 +2,5 @@
 language: java
 # https://docs.travis-ci.com/user/installing-dependencies/
 before_install:
-wget https://dl.bintray.com/spdx/spdx-tools/org/spdx/spdx-tools/2.1.7/spdx-tools-2.1.7-jar-with-dependencies.jar
+  - wget https://dl.bintray.com/spdx/spdx-tools/org/spdx/spdx-tools/2.1.7/spdx-tools-2.1.7-jar-with-dependencies.jar
 script: ./validate.sh
