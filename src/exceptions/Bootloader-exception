@@ -14,6 +14,6 @@ and related files into combinations with other programs, and to distribute
 those combinations without any restriction coming from the use of those
 files. (The General Public License restrictions do apply in other respects;
 for example, they cover modification of the files, and distribution when
-not linked into a combine executable.)</p>
+not linked into a <alt name="combined" match="combined|combine">combined</alt>.)</p>
   </exception>
 </SPDXLicenseCollection>
