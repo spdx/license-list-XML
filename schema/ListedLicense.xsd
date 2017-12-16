@@ -29,9 +29,9 @@
 			<element name="alt" type="tns:altType"/>
 			<element name="br" type="tns:emptyType"/>
 		</choice>
-		<attribute name="licenseId" type="string"/>
+		<attribute name="licenseId" type="string" use="required" />
 		<attribute name="isDeprecated" type="boolean"/>
-		<attribute name="name" type="string"/>
+		<attribute name="name" type="string" use="required" />
 		<attribute name="listVersionAdded" type="string"/>
 		<attribute name="deprecatedVersion" type="string"/>
 	</complexType>
@@ -49,11 +49,11 @@
 			<element name="alt" type="tns:altType"/>
 			<element name="br" type="tns:emptyType"/>
 		</choice>
-		<attribute name="licenseId" type="string"/>
+		<attribute name="licenseId" type="string" use="required" />
 		<attribute name="isOsiApproved" type="boolean"/>
 		<attribute name="isFsfLibre" type="boolean"/>
 		<attribute name="isDeprecated" type="boolean"/>
-		<attribute name="name" type="string"/>
+		<attribute name="name" type="string" use="required" />
 		<attribute name="listVersionAdded" type="string"/>
 		<attribute name="deprecatedVersion" type="string"/>
 	</complexType>
@@ -64,8 +64,8 @@
 	</complexType>
 	<complexType name="altType" mixed="true">
 		<group ref="tns:formattedFixedTextGroup" minOccurs="0" maxOccurs="unbounded"/>
-		<attribute name="name" type="string"/>
-		<attribute name="match" type="string"/>
+		<attribute name="name" type="string" use="required" />
+		<attribute name="match" type="string" use="required" />
 	</complexType>
 	<complexType name="optionalType" mixed="true">
 		<group ref="tns:formattedAltTextGroup" minOccurs="0" maxOccurs="unbounded"/>
