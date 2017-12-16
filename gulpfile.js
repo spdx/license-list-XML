@@ -74,6 +74,8 @@ gulp.task('validate', function(callback) {
 	validateall(callback);
 });
 
+gulp.task('default', ['validate']);
+
 // Comment the following out - just used for testing
 validateall(function(error) {
 	if (error) {
