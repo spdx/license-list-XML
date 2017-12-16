@@ -51,21 +51,26 @@ function validateall(callback) {
 			return;
 		}
 		var error = null;
+		var pass = 0, fail = 0;
 		files.forEach(function(file) {
 			var fileError = validate(file, fileError);
 			if (fileError) {
+				fail++;
 				if (!error) {
 					error = fileError;
 				} else {
 					// append the file in error
 					error = new Error(error.message+fileError.message);
 				}
+			} else {
+				pass++;
 			}
 		});
 		if (error) {
 			gutil.log(error.message);
 			callback(error);
 		}
+		gutil.log('validation complete ' + pass + ' passed, ' + fail + ' failed');
 	});
 }
 
