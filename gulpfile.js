@@ -37,7 +37,6 @@ function validate(file) {
 				} else {
 					errormsg = ' at line ' + error.line + ' ' + error.message;
 				}
-				console.log('Validation error(s) for file '+file+':'+error);
 			});
 			return new Error("File "+file+" "+errormsg);
 		} else {
@@ -75,11 +74,3 @@ gulp.task('validate', function(callback) {
 });
 
 gulp.task('default', ['validate']);
-
-// Comment the following out - just used for testing
-validateall(function(error) {
-	if (error) {
-		console.log(error.message);
-	}
-});
-console.log('done');
