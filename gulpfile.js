@@ -11,8 +11,7 @@ var gulp = require('gulp'),
 	srcdir = "src",
 	xsdlocation = "schema/ListedLicense.xsd",
 	schemaString = fs.readFileSync(xsdlocation, 'utf8'),
-	schema = xsd.parse(schemaString),
-	MAX_FILE_SIZE = 32766;
+	schema = xsd.parse(schemaString);
 
 /**
  * Validates a files against the XSD
@@ -23,9 +22,6 @@ var gulp = require('gulp'),
 function validate(file) {
 
 	if (file) {
-		if (file.size > MAX_FILE_SIZE) {
-			return new Error("File is too large for validation.  Size is "+file.size,file.name);
-		}
 		var documentString = fs.readFileSync(file, 'utf8');
 		var validationErrors = schema.validate(documentString);
 		if (validationErrors) {
