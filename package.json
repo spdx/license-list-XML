@@ -23,7 +23,8 @@
         "software"
     ],
     "scripts": {
-        "preinstall": "(npm list gulp -g || npm install gulp -g)"
+        "preinstall": "(npm list gulp -g || npm install gulp -g)",
+        "test": "gulp"
     },
     "dependencies": {
         "libxml-xsd": "0.5.2",
