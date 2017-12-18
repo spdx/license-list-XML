@@ -6,8 +6,8 @@
          <crossRef>http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</crossRef>
          <crossRef>http://www.opensource.org/licenses/GPL-2.0</crossRef>
       </crossRefs>
-      <standardLicenseHeader> Copyright (C) 
-    <alt match=".+" name="copyright">yyyy name of author</alt> 
+      <standardLicenseHeader> Copyright (C)
+    <alt match=".+" name="copyright">yyyy name of author</alt>
          <p>This program is free software; you can redistribute
     it and/or modify it under the terms of the GNU General Public License as published by the Free Software
     Foundation; version 2. </p>
@@ -16,17 +16,17 @@
     Public License for more details. </p>
          <p>You should have received a copy of the GNU General Public License along with
     this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
-    02110-1301, USA.</p> 
+    02110-1301, USA.</p>
       </standardLicenseHeader>
       <notes>This license was released: June 1991 This refers to when this GPL 2.0 only is being used (as opposed to GPLv2
          or later).</notes>
       <titleText>
-         <p>GNU GENERAL PUBLIC LICENSE 
-        <br/>Version 2, June 1991 
+         <p>GNU GENERAL PUBLIC LICENSE
+        <br/>Version 2, June 1991
       </p>
       </titleText>
-      <p>Copyright (C) 1989, 1991 Free Software Foundation, Inc. 
-        <br/>51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA 
+      <p>Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+        <br/>51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA
       </p>
       <p>Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is
          not allowed.</p>
@@ -280,7 +280,8 @@
          <p>To do so, attach the following notices to the program. It is safest to attach them to the start of each
          source file to most effectively convey the exclusion of warranty; and each file should have at least
          the "copyright" line and a pointer to where the full notice is found.</p>
-         <p>one line to give the program's name and an idea of what it does. Copyright (C) yyyy name of author</p>
+         <p><optional>&lt;</optional>one line to give the program's name and an idea of what it does.<optional>&gt;</optional>
+         <br/>Copyright (C) <optional>&lt;</optional>yyyy<optional>&gt;</optional> <optional>&lt;</optional>name of author<optional>&gt;</optional></p>
          <p>This program is free software; you can redistribute it and/or modify it under the terms of the GNU
          General Public License as published by the Free Software Foundation; either version 2 of the License,
          or (at your option) any later version.</p>
@@ -303,7 +304,7 @@
          "copyright disclaimer" for the program, if necessary. Here is a sample; alter the names:</p>
          <p>Yoyodyne, Inc., hereby disclaims all copyright interest in the program `Gnomovision' (which makes
          passes at compilers) written by James Hacker.</p>
-         <p>signature of Ty Coon, 1 April 1989 Ty Coon, President of Vice</p>
+         <p><optional>&lt;</optional>signature of Ty Coon<optional>&gt;</optional>, 1 April 1989 Ty Coon, President of Vice</p>
       </optional>
   </license>
 </SPDXLicenseCollection>
