@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
   <license licenseId="CDLA-Sharing-1.0"
-   name="Community Data License Agreement Sharing 1.0">
+  name="Community Data License Agreement Sharing 1.0">
     <crossRefs>
       <crossRef>https://cdla.io/sharing-1-0</crossRef>
     </crossRefs>
@@ -167,19 +167,25 @@
             <bullet>3.1</bullet>
             If You Publish Data You Receive or Enhanced Data:
             <list>
-              <bullet>(a)</bullet>
-              The Data (including the Enhanced Data) must be
-              Published under this Agreement in accordance
-              with this Section 3; and<bullet>(b)</bullet>
-              You must cause any Data files containing Enhanced
-              Data to carry prominent notices that You have
-              changed those files; and<bullet>(c)</bullet>
-              If You Publish Data You Receive, You must preserve all credit
-              or attribution to the Data Provider(s). Such retained credit
-              or attribution includes any of the following to the extent
-              they exist in Data as You have Received it: legal notices
-              or metadata; identification of the Data Provider(s); or
-              hyperlinks to Data to the extent it is practical to do so.
+              <item>
+                <bullet>(a)</bullet>
+                The Data (including the Enhanced Data) must be Published
+                under this Agreement in accordance with this Section 3; and
+              </item>
+              <item>
+                <bullet>(b)</bullet>
+                You must cause any Data files containing Enhanced Data to
+                carry prominent notices that You have changed those files; and
+              </item>
+              <item>
+                <bullet>(c)</bullet>
+                If You Publish Data You Receive, You must preserve all credit
+                or attribution to the Data Provider(s). Such retained credit
+                or attribution includes any of the following to the extent
+                they exist in Data as You have Received it: legal notices
+                or metadata; identification of the Data Provider(s); or
+                hyperlinks to Data to the extent it is practical to do so.
+              </item>
             </list>
           </item>
           <item>
