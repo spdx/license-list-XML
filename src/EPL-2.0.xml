@@ -3,10 +3,9 @@
 	<license isOsiApproved="true" licenseId="EPL-2.0"
 		name="Eclipse Public License 2.0">
 		<crossRefs>
-			<crossRef>http://www.eclipse.org/legal/epl-2.0</crossRef>
-			<crossRef>http://www.opensource.org/licenses/EPL-2.0</crossRef>
+			<crossRef>https://www.eclipse.org/legal/epl-2.0</crossRef>
+			<crossRef>https://www.opensource.org/licenses/EPL-2.0</crossRef>
 		</crossRefs>
-		<notes></notes>
 		<titleText>
 			<p>Eclipse Public License - v 2.0</p>
 		</titleText>
