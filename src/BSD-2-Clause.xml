@@ -7,7 +7,7 @@
       </crossRefs>
       <copyrightText>
          <p>Copyright (c) 
-        <alt match=".+" name="copyright"> &lt;year&gt; &lt;owner&gt;</alt> All rights reserved. 
+        <alt match=".+" name="copyright">&lt;year&gt; &lt;owner&gt;</alt><optional>. All rights reserved.</optional>
       </p>
       </copyrightText>
     
