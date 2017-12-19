@@ -6,7 +6,7 @@ You can use [SPDX tools](https://To-Do) (or create your own tools) to consume th
 
 
 # Requesting a new license for the SPDX License List
-To request a license be added to the SPDX License List, create a new issue in this repository with the following information:
+To request a license be added to the SPDX License List, create a [new issue](https://github.com/spdx/license-list-XML/issues/new) in this repository with the following information:
 * Proposed Full Name for the license or exception
 * Proposed Short Identifier
 * Functioning URL reference to the license or exception text, either from the license author or a community recognized source
