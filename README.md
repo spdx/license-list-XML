@@ -2,7 +2,7 @@
 The [SPDX License List](https://spdx.org/licenses/) is a list of common open-source licenses (and associated exceptions) used to easily and efficiently identify such licenses in SPDX documents, SPDX identifiers (e.g. in source code), package managers, or elsewhere.
 This repository contains the XML "source" files (and schema) used to generate the authoritative, supported SPDX list file formats. 
 
-# This Repo: Not Stable or Authoritative
+# This Repository: Not Stable or Authoritative
 The XML format for the SPDX source files is not necessarily stable and the files in this repository should not be used by tools. The output files in the [license-list-data repository](https://github.com/spdx/license-list-data) are, however, are stable and well-supported. They are available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://github.com/spdx/tools) (or create your own tools) to consume the supported formats of the license list.
 
 # Requesting a new license for the SPDX License List
