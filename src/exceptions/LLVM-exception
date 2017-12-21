@@ -4,7 +4,7 @@
       <crossRefs>
          <crossRef>http://lists.llvm.org/pipermail/llvm-dev/2017-August/116266.html</crossRef>
       </crossRefs>
-      <notes>Specified to be associated with GPL-2.0</notes>
+      <notes>This exception was created specifically to be used with Apache-2.0</notes>
       <p>This Program is free software; you can redistribute it and/or
        modify it under the terms of the GNU General Public License as
        published by the Free Software Foundation; version 2 of the
