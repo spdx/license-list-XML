@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="BSD-3-Clause"
-            name="BSD 3-clause &#34;New&#34; or &#34;Revised&#34; License">
+            name="BSD 3-Clause &#34;New&#34; or &#34;Revised&#34; License">
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/BSD-3-Clause</crossRef>
       </crossRefs>
