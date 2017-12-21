@@ -6,7 +6,10 @@
          <crossRef>http://creativecommons.org/publicdomain/zero/1.0/legalcode</crossRef>
       </crossRefs>
       <titleText>
-         <p>Creative Commons CC0 1.0 Universal</p>
+         <optional>
+            <p>Creative Commons<optional> Legal Code</optional></p>
+         </optional>
+         <p>CC0 1.0 Universal</p>
       </titleText>
       <optional>
          <p>CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS
