@@ -1,11 +1,11 @@
-# SPDX License List Source Files
-The [SPDX License List](https://spdx.org/licenses/) is a list of common open-source licenses (and associated exceptions) used to easily and efficiently identify such licenses in SPDX documents, SPDX identifiers (e.g. in source code), package managers, or elsewhere.
-This repository contains the XML "source" files (and schema) used to generate the authoritative, supported SPDX list file formats. 
+# SPDX License List Source
+The [SPDX License List](https://spdx.org/licenses/) is a list of common open-source licenses (and associated exceptions) used to easily and efficiently identify such licenses in SPDX documents, SPDX identifiers (e.g. in source code), package managers, and elsewhere.
+This repository contains the XML source files (and schema) used to generate the authoritative, supported SPDX list file formats. 
 
-# This Repository: Not Stable or Authoritative
-The XML format for the SPDX source files is not necessarily stable and the files in this repository should not be used by tools. The output files in the [license-list-data repository](https://github.com/spdx/license-list-data) are, however, are stable and well-supported. They are available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://github.com/spdx/tools) (or create your own tools) to consume the supported formats of the license list.
+# This Repository Is Unstable
+The XML format for the SPDX source files is currently unstable, and any consumers of this repository's source files should expect occasional, backwards-incompatible changes. The output files in the [license-list-data repository](https://github.com/spdx/license-list-data) are, however, are stable and well-supported, and are available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://github.com/spdx/tools) (or create your own tools) to consume the supported formats of the license list.
 
-# Requesting a new license for the SPDX License List
+# Requesting a New License for the SPDX License List
 To request a license be added to the SPDX License List, create a [new issue](https://github.com/spdx/license-list-XML/issues/new) in this repository with the following information (or submit an email to the [SPDX Legal Team](https://spdx.org/legal-team) at spdx-legal@lists.spdx.org and we will create an issue for you):
 * Proposed Full Name for the license or exception
 * Proposed Short Identifier
