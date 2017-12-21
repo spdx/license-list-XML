@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="BSD-4-Clause"
-            name="BSD 4-clause &#34;Original&#34; or &#34;Old&#34; License">
+            name="BSD 4-Clause &#34;Original&#34; or &#34;Old&#34; License">
       <crossRefs>
          <crossRef>http://directory.fsf.org/wiki/License:BSD_4Clause</crossRef>
       </crossRefs>
