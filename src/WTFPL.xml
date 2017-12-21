@@ -10,9 +10,7 @@
         <br/>Version 2, December 2004 
       </p>
       </titleText>
-      <copyrightText>
-         <p>Copyright (C) 2004 Sam Hocevar &lt;sam@hocevar.net&gt;</p>
-      </copyrightText>
+      <p>Copyright (C) 2004 Sam Hocevar &lt;sam@hocevar.net&gt;</p>
     
       <p>Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and
          changing it is allowed as long as the name is changed.</p>

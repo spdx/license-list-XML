@@ -20,7 +20,7 @@
         <p>(c) Ministerium für Wissenschaft und Forschung Nordrhein-Westfalen 2004</p>
         <optional>
             <p>Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtsfragen der Freien und Open Source Software
-              - <alt match="(\(\&lt;)?" name="linkOpener-ifross.de">(</alt>http://www.ifross.de<alt match="(\)\&gt;)?" name="linkCloser-ifross.de">)</alt>.</p>
+              - <alt match="(\(\&lt;|\()?" name="linkOpener-ifross.de">(</alt>http://www.ifross.de<alt match="(\)\&gt;|\))?" name="linkCloser-ifross.de">)</alt>.</p>
             <p>Präambel</p>
             <p>Software ist mehr als ein Wirtschaftsgut. Sie ist die technische Grundlage der Informationsgesellschaft.
              Die Frage der Teilhabe der Allgemeinheit ist deswegen von besonderer Bedeutung. Herkömmlich
@@ -223,20 +223,6 @@
                      http://www.fsf.org/licenses/gpl.
                 </item>
                 <item>
-                    <bullet>(3)</bullet>
-                    Wenn Sie das Programm oder einen Teil hiervon - verändert oder unverändert - zusammen mit einem
-                     anderen Programm verbreiten oder öffentlich zugänglich machen, das unter der GNU General
-                     Public License (GPL) lizenziert wird, darf das Programm auch unter den Bedingungen der GPL
-                     genutzt werden, sofern es mit dem anderen Programm ein "derivative work" im Sinne der GPL
-                     bildet. Dabei sollen die Hinweise auf diese Lizenz entfernt und durch einen Hinweis auf die
-                     GPL ersetzt werden. Ob bei der Zusammenstellung ein "derivate work" im Sinne der GPL entsteht,
-                     beurteilt sich nach Ziffer 2 b) der GPL. Diese Bestimmung lautet: "You must cause any work
-                     that you distribute or publish, that in whole or in part contains or is derived from the
-                     Program or any part thereof, to be licensed as a whole at no charge to all third parties under
-                     the terms of this License." Die GPL kann abgerufen werden unter
-                     http://www.fsf.org/licenses/gpl.
-                </item>
-                <item>
                     <bullet>(4)</bullet>
                     Wenn Sie das Programm in einer veränderten Form verbreiten oder öffentlich zugänglich machen,
                      müssen Sie im Source Code einen Hinweis mit den Änderungen aufnehmen und mit dem Datum der
@@ -250,13 +236,6 @@
                     <bullet>(5)</bullet>
                     Sie dürfen von Dritten für die Einräumung eines einfachen Nutzungsrechts an veränderten Versionen
                      des Programms kein Entgelt verlangen.
-                </item>
-                <item>
-                    <bullet>(6)</bullet>
-                    Wenn Sie an der veränderten Version des Programms ein anderes Schutzrecht als ein Urheberrecht
-                     erwerben, insbesondere ein Patent oder Gebrauchsmuster, lizenzieren Sie dieses Schutzrecht für
-                     veränderte und unveränderte Versionen des Programms in dem Umfang, der erforderlich ist, um
-                     die Rechte aus dieser Lizenz wahrnehmen zu können.
                 </item>
                 <item>
                     <bullet>(6)</bullet>

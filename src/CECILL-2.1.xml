@@ -38,7 +38,7 @@ secondly, the election of a governing law, French law, with which it is conforma
         </item>
          </list>
          <p>
-The authors of the CeCILL (for Ce[a] C[nrs] I[nria] L[ogiciel] L[ibre]) license are:
+The authors of the <alt name="licenseNameFootnote" match="CeCILL[¹1]?( \(?for Ce[\[\(]a[\]\)] C[\[\(]nrs[\]\)] I[\[\(]nria[\]\)] L[\[\(]ogiciel[\]\)] L[\[\(]ibre[\]\)]\)?)?">CeCILL¹</alt> license are:
       </p>
          <list>
             <item>
@@ -190,7 +190,7 @@ These expressions may be used both in singular and plural form.
 PURPOSE
       
       <p>
-The purpose of the Agreement is the grant by the Licensor to the Licensee of a non-exclusive, transferable and worldwide license for the Software as set forth in Article 5 hereinafter for the whole term of the protection granted by the rights over said Software.
+The purpose of the Agreement is the grant by the Licensor to the Licensee of a non-exclusive, transferable and worldwide license for the Software as set forth in Article 5 <optional>&lt;#scope&gt;</optional> hereinafter for the whole term of the protection granted by the rights over said Software.
       </p>
          </item>
          <item>
@@ -222,7 +222,7 @@ the first time the Licensee exercises any of the rights granted hereunder.
                <item>
                   <bullet>3.2</bullet>
           
-One copy of the Agreement, containing a notice relating to the characteristics of the Software, to the limited warranty, and to the fact that its use is restricted to experienced users has been provided to the Licensee prior to its acceptance as set forth in Article 3.1 hereinabove, and the Licensee hereby acknowledges that it has read and understood it.
+One copy of the Agreement, containing a notice relating to the characteristics of the Software, to the limited warranty, and to the fact that its use is restricted to experienced users has been provided to the Licensee prior to its acceptance as set forth in Article 3.1 <optional>&lt;#accepting&gt;</optional> hereinabove, and the Licensee hereby acknowledges that it has read and understood it.
           
         </item>
             </list>
@@ -239,7 +239,7 @@ EFFECTIVE DATE AND TERM
 EFFECTIVE DATE
           
           <p>
-The Agreement shall become effective on the date when it is accepted by the Licensee as set forth in Article 3.1.
+The Agreement shall become effective on the date when it is accepted by the Licensee as set forth in Article 3.1 <optional>&lt;#accepting&gt;</optional>.
           </p>
                </item>
                <item>
@@ -421,7 +421,7 @@ OVER THE INITIAL SOFTWARE
 The Holder owns the economic rights over the Initial Software. Any or all use of the Initial Software is subject to compliance with the terms and conditions under which the Holder has elected to distribute its work and no one shall be entitled to modify the terms and conditions for the distribution of said Initial Software.
           </p>
                   <p>
-The Holder undertakes that the Initial Software will remain ruled at least by this Agreement, for the duration set forth in Article 4.2.
+The Holder undertakes that the Initial Software will remain ruled at least by this Agreement, for the duration set forth in Article 4.2<optional>&lt;#term&gt;</optional>.
           </p>
                </item>
                <item>
@@ -531,13 +531,13 @@ The Licensee shall be responsible for verifying, by any or all means, the suitab
                <item>
                   <bullet>9.2</bullet>
           
-The Licensor hereby represents, in good faith, that it is entitled to grant all the rights over the Software (including in particular the rights set forth in Article 5).
+The Licensor hereby represents, in good faith, that it is entitled to grant all the rights over the Software (including in particular the rights set forth in Article 5<optional>&lt;#scope&gt;</optional>).
           
         </item>
                <item>
                   <bullet>9.3</bullet>
           
-The Licensee acknowledges that the Software is supplied "as is" by the Licensor without any other express or tacit warranty, other than that provided for in Article 9.2 and, in particular, without any warranty as to its commercial value, its secured, safe, innovative or relevant nature.
+The Licensee acknowledges that the Software is supplied "as is" by the Licensor without any other express or tacit warranty, other than that provided for in Article 9.2 <optional>&lt;#good-faith&gt;</optional> and, in particular, without any warranty as to its commercial value, its secured, safe, innovative or relevant nature.
           
           <p>
 Specifically, the Licensor does not warrant that the Software is free from any error, that it will operate without interruption, that it will be compatible with the Licensee's own equipment and software configuration, nor that it will meet the Licensee's requirements.
@@ -636,7 +636,7 @@ So as to ensure coherence, the wording of this Agreement is protected and may on
                <item>
                   <bullet>12.3</bullet>
           
-Any Software distributed under a given version of the Agreement may only be subsequently distributed under the same version of the Agreement or a subsequent version, subject to the provisions of Article 5.3.4.
+Any Software distributed under a given version of the Agreement may only be subsequently distributed under the same version of the Agreement or a subsequent version, subject to the provisions of Article 5.3.4<optional>&lt;#compatibility&gt;</optional>.
           
         </item>
             </list>
@@ -662,5 +662,6 @@ Failing an amicable solution within two (2) months as from their occurrence, and
             </list>
          </item>
       </list>
+	  <optional>1 CeCILL stands for Ce(a) C(nrs) I(nria) L(ogiciel) L(ibre)</optional>
    </license>
 </SPDXLicenseCollection>

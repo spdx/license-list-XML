@@ -12,7 +12,7 @@
     is part of all distributions of LaTeX version 2003/12/01 or later. This work has the LPPL maintenance status
     "maintained". This Current Maintainer of this work is 
     <alt match=".+" name="maintainer">M. Y. Name</alt>. This work consists of 
-    <alt match=".+" name="the work">pig.dtx and pig.ins % and the derived file pig.sty</alt>. 
+    <alt match=".+" name="the work">pig.dtx and pig.ins and the derived file pig.sty</alt>.
   </standardLicenseHeader>
       <notes>This license was released 1 Oct 2004</notes>
       <titleText>
@@ -22,11 +22,10 @@
          <p>LPPL Version 1.3a 2004-10-01</p>
       </titleText>
       <copyrightText>
-         <p>Copyright 1999 2002-04 LaTeX3</p>
+         <p>Copyright 1999 2002-04 LaTeX3 Project</p>
       </copyrightText>
-      <br/>Project Everyone is allowed to distribute verbatim copies of this license document, but modification of
-           it is not allowed.
-      <br/>
+      <p>Everyone is allowed to distribute verbatim copies of this license document, but modification of
+           it is not allowed.</p>
       <p>PREAMBLE 
         <br/>======== 
       </p>

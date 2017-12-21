@@ -11,8 +11,7 @@ var gulp = require('gulp'),
 	srcdir = "src",
 	xsdlocation = "schema/ListedLicense.xsd",
 	schemaString = fs.readFileSync(xsdlocation, 'utf8'),
-	schema = xsd.parse(schemaString),
-	MAX_FILE_SIZE = 32766;
+	schema = xsd.parse(schemaString);
 
 /**
  * Validates a files against the XSD
@@ -23,9 +22,6 @@ var gulp = require('gulp'),
 function validate(file) {
 
 	if (file) {
-		if (file.size > MAX_FILE_SIZE) {
-			return new Error("File is too large for validation.  Size is "+file.size,file.name);
-		}
 		var documentString = fs.readFileSync(file, 'utf8');
 		var validationErrors = schema.validate(documentString);
 		if (validationErrors) {
@@ -37,7 +33,6 @@ function validate(file) {
 				} else {
 					errormsg = ' at line ' + error.line + ' ' + error.message;
 				}
-				console.log('Validation error(s) for file '+file+':'+error);
 			});
 			return new Error("File "+file+" "+errormsg);
 		} else {
@@ -52,21 +47,26 @@ function validateall(callback) {
 			return;
 		}
 		var error = null;
+		var pass = 0, fail = 0;
 		files.forEach(function(file) {
 			var fileError = validate(file, fileError);
 			if (fileError) {
+				fail++;
 				if (!error) {
 					error = fileError;
 				} else {
 					// append the file in error
 					error = new Error(error.message+fileError.message);
 				}
+			} else {
+				pass++;
 			}
 		});
 		if (error) {
 			gutil.log(error.message);
 			callback(error);
 		}
+		gutil.log('validation complete ' + pass + ' passed, ' + fail + ' failed');
 	});
 }
 
@@ -74,10 +74,4 @@ gulp.task('validate', function(callback) {
 	validateall(callback);
 });
 
-// Comment the following out - just used for testing
-validateall(function(error) {
-	if (error) {
-		console.log(error.message);
-	}
-});
-console.log('done');
+gulp.task('default', ['validate']);
