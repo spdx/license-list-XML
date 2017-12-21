@@ -6,7 +6,7 @@ This repository contains the XML "source" files (and schema) used to generate th
 The XML format for the SPDX source files is not necessarily stable and the files in this repository should not be used by tools. The output files in the [license-list-data repository](https://github.com/spdx/license-list-data) are, however, are stable and well-supported. They are available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://github.com/spdx/tools) (or create your own tools) to consume the supported formats of the license list.
 
 # Requesting a new license for the SPDX License List
-To request a license be added to the SPDX License List, create a [new issue](https://github.com/spdx/license-list-XML/issues/new) in this repository with the following information (or submit an email to spdx-legal@lists.spdx.org and we will create an issue for you):
+To request a license be added to the SPDX License List, create a [new issue](https://github.com/spdx/license-list-XML/issues/new) in this repository with the following information (or submit an email to the [SPDX Legal Team](https://spdx.org/legal-team) at spdx-legal@lists.spdx.org and we will create an issue for you):
 * Proposed Full Name for the license or exception
 * Proposed Short Identifier
 * Functioning URL reference to the license or exception text, either from the license author or a community recognized source
