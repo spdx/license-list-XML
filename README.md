@@ -16,5 +16,3 @@ To request a license be added to the SPDX License List, create a [new issue](htt
 * Indicate whether the license is [OSI-approved](https://opensource.org/licenses/alphabetical) or whether it has been submitted for approval to the OSI and is currently under review
 * Indicate whether the license is FSF Free/Libre or whether it has been submitted for approval to FSF and is currently under review
 * Provide a short explanation regarding the need for this license or exception to be included on the SPDX License List, including identifying at least one program that uses this license
-
-hello world
