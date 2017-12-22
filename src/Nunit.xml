@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isDeprecated="true" licenseId="Nunit" name="Nunit License">
+   <license isDeprecated="true" deprecatedVersion="3.0" licenseId="Nunit" name="Nunit License">
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Nunit</crossRef>
       </crossRefs>
