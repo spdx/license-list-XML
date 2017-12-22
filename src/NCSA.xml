@@ -16,8 +16,10 @@
       </copyrightText>
 
       <p>Developed by: 
-        <alt match=".+" name="organization">&lt;Name of Development Group&gt; &lt;Name of Institution&gt;
-        &lt;URL for Development Group/Institution&gt;</alt>
+        <alt match=".+" name="organization">
+		<br/>&lt;Name of Institution&gt;
+		<br/>&lt;Name of Development Group&gt; 
+        <br/>&lt;URL for Development Group/Institution&gt;</alt>
       </p>
     
     
