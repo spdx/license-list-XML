@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license licenseId="LGPL-2.1" isOsiApproved="true"
+  <license licenseId="LGPL-2.1-only" isOsiApproved="true"
   name="GNU Lesser General Public License v2.1 only">
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</crossRef>
