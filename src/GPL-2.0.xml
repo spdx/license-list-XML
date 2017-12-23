@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
   <license licenseId="GPL-2.0" isOsiApproved="true"
-  name="GNU General Public License v2.0 only">
+  name="GNU General Public License v2.0 only"
+  isDeprecated="true" deprecatedVersion="3.0">
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</crossRef>
       <crossRef>http://www.opensource.org/licenses/GPL-2.0</crossRef>
     </crossRefs>
+    <notes>
+      DEPRECATED: Deprecated in lieu of more
+      explicit license identifier of GPL-2.0-only
+    </notes>
     <standardLicenseHeader>
       Copyright (C)<alt name="copyright" match=".+">yyyy name of author</alt>
       <p>

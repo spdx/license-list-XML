@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
   <license licenseId="LGPL-2.0" isOsiApproved="true"
-  name="GNU Library General Public License v2 only">
+  name="GNU Library General Public License v2 only"
+  isDeprecated="true" deprecatedVersion="3.0">
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html</crossRef>
     </crossRefs>
+    <notes>
+      DEPRECATED: Deprecated in lieu of more
+      explicit license identifier of LGPL-2.0-only
+    </notes>
     <standardLicenseHeader>
       Copyright (C)<alt name="copyright" match=".+">year name of author</alt>
       This library is free software; you can redistribute it and/or modify it

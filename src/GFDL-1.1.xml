@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
   <license licenseId="GFDL-1.1" isOsiApproved="false"
-  name="GNU Free Documentation License v1.1">
+  name="GNU Free Documentation License v1.1"
+  isDeprecated="true" deprecatedVersion="3.0">
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/fdl-1.1.txt</crossRef>
     </crossRefs>
+    <notes>
+      DEPRECATED: Deprecated in lieu of more
+      explicit license identifier of GFDL-1.1-only
+    </notes>
     <standardLicenseHeader>
       Copyright (c) <alt name="copyright" match=".+">YEAR YOUR NAME</alt>
       . Permission is granted to copy, distribute and/or modify this
