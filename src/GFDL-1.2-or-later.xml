@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license licenseId="GFDL-1.2" isOsiApproved="false"
-  name="GNU Free Documentation License v1.2">
+  <license licenseId="GFDL-1.2-or-later" isOsiApproved="false"
+  name="GNU Free Documentation License v1.2 or later">
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/fdl-1.2.txt</crossRef>
     </crossRefs>
