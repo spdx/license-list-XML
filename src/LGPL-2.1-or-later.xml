@@ -11,7 +11,8 @@
       <p>
         This library is free software; you can redistribute it and/or
         modify it under the terms of the GNU Lesser General Public
-        License as published by the Free Software Foundation; version 2.1.
+        License as published by the Free Software Foundation; version 2.1
+	or any later version.
       </p>
       <p>
         This library is distributed in the hope that it will be useful,
@@ -26,8 +27,7 @@
       </p>
     </standardLicenseHeader>
     <notes>
-      This license was released: February 1999. This refers to when
-      this LGPL 2.1 only is being used (as opposed to "or later).
+      This license was released: February 1999.
     </notes>
     <titleText>
       <p>
