@@ -17,8 +17,8 @@
 
       <p>Developed by: 
         <alt match=".+" name="organization">
-		<br/>&lt;Name of Institution&gt;
 		<br/>&lt;Name of Development Group&gt; 
+		<br/>&lt;Name of Institution&gt;
         <br/>&lt;URL for Development Group/Institution&gt;</alt>
       </p>
     
