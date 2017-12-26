@@ -1,6 +1,6 @@
-.DS_Store
-# Ignore all hidden files/dirs except .gitignore and .travis.yml
+# Ignore all hidden files/dirs except the ones we whitelist
 .*
+!/.github
 !/.gitignore
 !/.travis.yml
 
