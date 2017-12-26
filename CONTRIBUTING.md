@@ -8,9 +8,9 @@ The SPDX License List is maintained by the SPDX Legal Team. Work for the SPDX Le
 You can join the mailing list and otherwise manage your subscription [via spdx-legal mailman](https://lists.spdx.org/mailman/listinfo/spdx-legal). Information on the bi-weekly calls and the working area for the SPDX Legal Team, can be found on the [SPDX wiki](https://wiki.spdx.org/view/Legal_Team)
 
 ## Request a new license or exception be added to the SPDX License List
-The SPDX Legal Team greatly appreciates proposals for new open source licenses or exceptions to be added to the SPDX License List.  To request that a license or exception be added to the SPDX License List, please:
+The SPDX Legal Team greatly appreciates proposals for new free and open source licenses or exceptions to be added to the SPDX License List.  To request a license or exception be added to the SPDX License List, please:
 
-1)  First, review the [license list overview and inclusion principles](https://spdx.org/spdx-license-list/license-list-overview).
+#  Review the [license list overview and inclusion principles](https://spdx.org/spdx-license-list/license-list-overview).
 
 2)  Check the historical license and exceptions [tracking page](https://docs.google.com/spreadsheets/d/11AKxLBoN_VXM32OmDTk2hKeYExKzsnPjAVM7rLstQ8s/edit?pli=1#gid=695212681) and Issues with label ADD to ensure this license or exception has not been previously requested. 
 
@@ -32,6 +32,6 @@ If you are not on the SPDX-legal mailing list, please join here. If you send you
 * The new license/exception will be officially  added to the next release of the SPDX License List.
 
 ## Other Contributions to the SPDX License List
-If you find an error or have a suggested update to an existing license, please open an Issue here. Someone will respond and depending on the nature of the Issue, it may be referred for further discusison on the mailing list or bi-weekly calls. Examples of things that should be logged via an issue here (versus raised on the mailing list/discussed on calls) may include:
+If you find an error or have a suggested update to an existing license, please open an Issue here. Someone will respond and depending on the nature of the Issue, it may be referred for further discussion on the mailing list or bi-weekly calls. Examples of things that should be logged via an issue here (versus raised on the mailing list/discussed on calls) may include:
 * update an URL for a license
-* recommend additional markup for matching purposes (usually requirsd legal review)
+* recommend additional markup for matching purposes (usually requires legal review)
