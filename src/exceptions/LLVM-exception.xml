@@ -5,6 +5,9 @@
          <crossRef>http://lists.llvm.org/pipermail/llvm-dev/2017-August/116266.html</crossRef>
       </crossRefs>
       <notes>This exception was created specifically to be used with Apache-2.0</notes>
+	  <titleText>---- LLVM Exceptions to the Apache 2.0 License ----
+			<br/>
+	  </titleText>
       <p> As an exception, if, as a result of your compiling your source 
       code, portions of this Software are embedded into an Object form of 
       such source code, you may redistribute such embedded portions in such 
