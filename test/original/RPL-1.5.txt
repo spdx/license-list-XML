@@ -64,7 +64,7 @@ LICENSE TERMS
 
 2.0 Acceptance Of License. You are not required to accept this License since you have not signed it, however nothing else grants you permission to use, copy, distribute, modify, or create derivatives of either the Software or any Extensions created by a Contributor. These actions are prohibited by law if you do not accept this License. Therefore, by performing any of these actions You indicate Your acceptance of this License and Your agreement to be bound by all its terms and conditions. IF YOU DO NOT AGREE WITH ALL THE TERMS AND CONDITIONS OF THIS LICENSE DO NOT USE, MODIFY, CREATE DERIVATIVES, OR DISTRIBUTE THE SOFTWARE. IF IT IS IMPOSSIBLE FOR YOU TO COMPLY WITH ALL THE TERMS AND CONDITIONS OF THIS LICENSE THEN YOU CAN NOT USE, MODIFY, CREATE DERIVATIVES, OR DISTRIBUTE THE SOFTWARE.
 
-3.0 Grant of License From Licensor. Subject to the terms and conditions of this License, Licensor hereby grants You a world-wide, royalty-free, non- exclusive license, subject to Licensor's intellectual property rights, and any third party intellectual property claims derived from the Licensed Software under this License, to do the following:
+3.0 Grant of License From Licensor. Subject to the terms and conditions of this License, Licensor hereby grants You a world-wide, royalty-free, non-exclusive license, subject to Licensor's intellectual property rights, and any third party intellectual property claims derived from the Licensed Software under this License, to do the following:
 
      3.1 Use, reproduce, modify, display, perform, sublicense and distribute Licensed Software and Your Extensions in both Source Code form or as an executable program.
 
@@ -74,7 +74,7 @@ LICENSE TERMS
 
      3.4 Licensor reserves the right to release new versions of the Software with different features, specifications, capabilities, functions, licensing terms, general availability or other characteristics. Title, ownership rights, and intellectual property rights in and to the Licensed Software shall remain in Licensor and/or its Contributors.
 
-4.0 Grant of License From Contributor. By application of the provisions in Section 6 below, each Contributor hereby grants You a world-wide, royalty- free, non-exclusive license, subject to said Contributor's intellectual property rights, and any third party intellectual property claims derived from the Licensed Software under this License, to do the following:
+4.0 Grant of License From Contributor. By application of the provisions in Section 6 below, each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license, subject to said Contributor's intellectual property rights, and any third party intellectual property claims derived from the Licensed Software under this License, to do the following:
 
      4.1 Use, reproduce, modify, display, perform, sublicense and distribute any Extensions Deployed by such Contributor or portions thereof, in both Source Code form or as an executable program, either on an unmodified basis or as part of Derivative Works.
 
