@@ -6,7 +6,7 @@
       <crossRef>http://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html</crossRef>
     </crossRefs>
     <standardLicenseHeader>
-      Copyright (C)<alt name="copyright" match=".+">19xx name of author</alt>
+      Copyright (C) <alt name="copyright" match=".+">19xx name of author</alt>
       <p>
         This program is free software; you can redistribute it and/or
         modify it under the terms of the GNU General Public License

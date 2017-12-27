@@ -16,7 +16,7 @@
     </notes>
     <copyrightText>
       <p>
-        Copyright (c)<alt name="copyright"
+        Copyright (c) <alt name="copyright"
         match=".+">&lt;YEAR&gt; &lt;COPYRIGHT HOLDERS&gt;</alt>
       </p>
     </copyrightText>
