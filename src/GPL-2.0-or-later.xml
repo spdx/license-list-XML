@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license licenseId="GPL-2.0" isOsiApproved="true"
-  name="GNU General Public License v2.0 only"
-  isDeprecated="true" deprecatedVersion="3.0">
+  <license licenseId="GPL-2.0-or-later" isOsiApproved="true"
+  name="GNU General Public License v2.0 or later">
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</crossRef>
       <crossRef>http://www.opensource.org/licenses/GPL-2.0</crossRef>
     </crossRefs>
-    <notes>
-      DEPRECATED: Deprecated in lieu of more
-      explicit license identifier of GPL-2.0-only
-    </notes>
     <standardLicenseHeader>
       Copyright (C)<alt name="copyright" match=".+">yyyy name of author</alt>
       <p>
         This program is free software; you can redistribute it and/or
         modify it under the terms of the GNU General Public License
-        as published by the Free Software Foundation; version 2.
+	as published by the Free Software Foundation; version 2
+	or any later version.
       </p>
       <p>
         This program is distributed in the hope that it will be
@@ -33,8 +29,7 @@
       </p>
     </standardLicenseHeader>
     <notes>
-      This license was released: June 1991 This refers to when this
-      GPL 2.0 only is being used (as opposed to GPLv2 or later).
+      This license was released: June 1991
     </notes>
     <titleText>
       <p>
