@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="true" licenseId="GPL-3.0"
-            name="GNU General Public License v3.0 only">
+   <license isOsiApproved="true" licenseId="GPL-3.0+" isDeprecated="true" deprecatedVersion="2.0rc2"
+            name="GNU General Public License v3.0 or later">
       <crossRefs>
          <crossRef>http://www.gnu.org/licenses/gpl-3.0-standalone.html</crossRef>
          <crossRef>http://www.opensource.org/licenses/GPL-3.0</crossRef>
       </crossRefs>
+	  <notes>DEPRECATED: Use the license identifier GPL-3.0-or-later</notes>
       <standardLicenseHeader> Copyright (C) 
     <alt match=".+" name="copyright">&lt;year&gt; &lt;name of author&gt;</alt>[year] This program is free software:
     you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the
