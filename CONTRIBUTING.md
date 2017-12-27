@@ -35,4 +35,5 @@ The SPDX Legal Team greatly appreciates proposals for new free and open source l
 If you find an error or have a suggested update to an existing license, please open a [new issue](https://github.com/spdx/license-list-XML/issues/new). Someone will respond and depending on the nature of the Issue, it may be referred for further discussion on the mailing list or bi-weekly calls. Examples of things that should be logged via an issue (versus raised on the mailing list/discussed on calls) may include:
 * update an URL for a license
 * recommend additional markup for matching purposes (usually requires legal review)
+
 Please do not raise general questions via issues in this Github repository, but use the appropriate workgroup mailing list. 
