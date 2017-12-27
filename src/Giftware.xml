@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Giftware" name="Giftware License">
       <crossRefs>
-         <crossRef>http://alleg.sourceforge.net//license.html</crossRef>
+         <crossRef>http://liballeg.org/license.html#allegro-4-the-giftware-license</crossRef>
       </crossRefs>
       <notes>This license may also be known as Allegro 4. The Allegro 5 license shown at the alleg.sourceforge.net URL is
          the same as zlib</notes>
