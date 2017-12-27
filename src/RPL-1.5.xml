@@ -167,7 +167,7 @@
         <item>
             <bullet>3.0</bullet>
           Grant of License From Licensor. Subject to the terms and conditions of this License, Licensor
-             hereby grants You a world-wide, royalty-free, non- exclusive license, subject to Licensor's
+             hereby grants You a world-wide, royalty-free, <alt match="non ?- ?exclusive" name="anotherExtraSpace">non-exclusive</alt> license, subject to Licensor's
              intellectual property rights, and any third party intellectual property claims derived from
              the Licensed Software under this License, to do the following:
       <list>
@@ -200,7 +200,7 @@
         <item>
             <bullet>4.0</bullet>
           Grant of License From Contributor. By application of the provisions in Section 6 below, each
-             Contributor hereby grants You a world-wide, royalty-<alt match=" ?" name="extraSpace"/>free, non-exclusive license, subject to
+             Contributor hereby grants You a world-wide, <alt match="royalty ?- ?free" name="extraSpace">royalty-free</alt>, non-exclusive license, subject to
              said Contributor's intellectual property rights, and any third party intellectual property
              claims derived from the Licensed Software under this License, to do the following:
       <list>
