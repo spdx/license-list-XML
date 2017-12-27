@@ -5,10 +5,6 @@
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html</crossRef>
     </crossRefs>
-    <notes>
-      DEPRECATED: Deprecated in lieu of more
-      explicit license identifier of GPL-1.0-only
-    </notes>
     <standardLicenseHeader>
       Copyright (C)<alt name="copyright" match=".+">19xx name of author</alt>
       <p>
