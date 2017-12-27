@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license licenseId="GFDL-1.1" isOsiApproved="false"
-  name="GNU Free Documentation License v1.1"
-  isDeprecated="true" deprecatedVersion="3.0">
+  <license licenseId="GFDL-1.1-only" isOsiApproved="false"
+  name="GNU Free Documentation License v1.1 only">
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/fdl-1.1.txt</crossRef>
     </crossRefs>
-    <notes>
-      DEPRECATED: Deprecated in lieu of more
-      explicit license identifier of GFDL-1.1-only
-    </notes>
     <standardLicenseHeader>
       Copyright (c) <alt name="copyright" match=".+">YEAR YOUR NAME</alt>
-      . Permission is granted to copy, distribute and/or modify this
+      Permission is granted to copy, distribute and/or modify this
       document under the terms of the GNU Free Documentation License,
-      Version 1.1 or any later version published by the Free Software
-      Foundation; with the Invariant Sections being LIST THEIR
+      Version 1.1; with the Invariant Sections being LIST THEIR
       TITLES, with the Front-Cover Texts being LIST, and with the
       Back-Cover Texts being LIST. A copy of the license is included
       in the section entitled "GNU Free Documentation License".

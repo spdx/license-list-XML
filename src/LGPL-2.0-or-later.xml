@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license licenseId="LGPL-2.0" isOsiApproved="true"
-  name="GNU Library General Public License v2 only"
-  isDeprecated="true" deprecatedVersion="3.0">
+  <license licenseId="LGPL-2.0-or-later" isOsiApproved="true"
+  name="GNU Library General Public License v2 or later">
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html</crossRef>
     </crossRefs>
-    <notes>
-      DEPRECATED: Deprecated in lieu of more
-      explicit license identifier of LGPL-2.0-only
-    </notes>
     <standardLicenseHeader>
       Copyright (C)<alt name="copyright" match=".+">year name of author</alt>
       This library is free software; you can redistribute it and/or modify it
       under the terms of the GNU Library General Public License as published
-      by the Free Software Foundation; version 2. This library is distributed
-      in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
-      even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
-      PURPOSE. See the GNU Library General Public License for more details.
-      You should have received a copy of the GNU Library General Public
-      License along with this library; if not, write to the Free Software
+      by the Free Software Foundation; version 2 or any later version. This
+      library is distributed in the hope that it will be useful, but WITHOUT ANY
+      WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+      FOR A PARTICULAR PURPOSE. See the GNU Library General Public License for
+      more details.  You should have received a copy of the GNU Library General
+      Public License along with this library; if not, write to the Free Software
       Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA.
     </standardLicenseHeader>
     <notes>
       This license was released: June 1991. This license has
-      been superseded by LGPL v2.1 This refers to when this
-      LGPL 2.0 only is being used (as opposed to "or later).
+      been superseded by LGPL v2.1
     </notes>
     <titleText>
       <p>
