@@ -22,8 +22,7 @@
       <p>
         You should have received a copy of the GNU General Public License
         along with this program; if not, write to the Free Software Foundation,
-        Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301
-        <optional>,</optional>
+        Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301<optional>,</optional>
         USA.
       </p>
     </standardLicenseHeader>
@@ -40,8 +39,7 @@
     </titleText>
     <p>
       Copyright (C) 1989, 1991 Free Software Foundation, Inc.<br></br>
-      51 Franklin Street, Fifth Floor, Boston, MA 02110-1301
-      <optional>,</optional>
+      51 Franklin Street, Fifth Floor, Boston, MA 02110-1301<optional>,</optional>
       USA
     </p>
     <p>
@@ -402,17 +400,11 @@
         the "copyright" line and a pointer to where the full notice is found.
       </p>
       <p>
-        <optional>&lt;</optional>
-        one line to give the program's name and an idea of what it does.
-        <optional>&gt;</optional>
+        <optional>&lt;</optional>one line to give the program's name and an idea of what it does.<optional>&gt;</optional>
         <br></br>
         Copyright (C)
-        <optional>&lt;</optional>
-        yyyy
-        <optional>&gt;</optional>
-        <optional>&lt;</optional>
-        name of author
-        <optional>&gt;</optional>
+        <optional>&lt;</optional>yyyy<optional>&gt;</optional>
+        <optional>&lt;</optional>name of author<optional>&gt;</optional>
       </p>
       <p>
         This program is free software; you can redistribute it and/or
@@ -429,10 +421,7 @@
       <p>
         You should have received a copy of the GNU General Public License
         along with this program; if not, write to the Free Software Foundation,
-        Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301
-        <optional>
-          ,
-        </optional>
+        Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301<optional>,</optional>
         USA. Also add information on how to
         contact you by electronic and paper mail.
       </p>

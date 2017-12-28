@@ -18,8 +18,7 @@
     </titleText>
     <p>
       Copyright (C) 1989, 1991 Free Software Foundation, Inc.<br></br>
-      51 Franklin Street, Fifth Floor, Boston, MA 02110-1301
-      <optional>,</optional>
+      51 Franklin Street, Fifth Floor, Boston, MA 02110-1301<optional>,</optional>
       USA
     </p>
     <p>
@@ -399,10 +398,7 @@
       <p>
         You should have received a copy of the GNU General Public License
         along with this program; if not, write to the Free Software Foundation,
-        Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301
-        <optional>
-          ,
-        </optional>
+        Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301<optional>,</optional>
         USA.
       </p>
       </standardLicenseHeader>
