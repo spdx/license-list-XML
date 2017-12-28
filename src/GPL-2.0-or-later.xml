@@ -17,7 +17,7 @@
       </p>
     </titleText>
     <p>
-      Copyright (C) 1989, 1991 Free Software Foundation, Inc.<br></br>
+      Copyright (C) 1989, 1991 Free Software Foundation, Inc.<alt name="incComma" match="|,"/><br/>
       51 Franklin Street, Fifth Floor, Boston, MA 02110-1301<optional>,</optional>
       USA
     </p>
@@ -83,6 +83,7 @@
       distribution and modification follow.
     </p>
     <p>
+      <alt name="termsTitle" match="|GNU GENERAL PUBLIC LICENSE"/>
       TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
     </p>
     <list>
@@ -434,6 +435,15 @@
       <p>
 	<optional>&lt;</optional>signature of Ty Coon<optional>&gt;</optional>,
 	1 April 1989 Ty Coon, President of Vice
+      </p>
+    </optional>
+    <optional>
+      <p>
+        This General Public License does not permit incorporating your program into
+        proprietary programs.  If your program is a subroutine library, you may
+        consider it more useful to permit linking proprietary applications with the
+        library.  If this is what you want to do, use the GNU Lesser General
+        Public License instead of this License.
       </p>
     </optional>
     </text>
