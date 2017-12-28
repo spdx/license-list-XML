@@ -14,4 +14,4 @@ The SPDX License List is maintained by the SPDX Legal Team. Work and discussion 
 
 You can join the mailing list and otherwise manage your subscription [via spdx-legal mailman](https://lists.spdx.org/mailman/listinfo/spdx-legal). Information on the bi-weekly calls and the working area for the SPDX Legal Team, can be found on the [SPDX wiki](https://wiki.spdx.org/view/Legal_Team)
 
-For specific guidance on contributing to the SPDX License List via this repository, including how to request a new license or exception be added, please see [Contributing.md].
+For specific guidance on contributing to the SPDX License List via this repository, including how to request a new license or exception be added, please see [CONTRIBUTING.md].
