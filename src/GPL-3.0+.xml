@@ -8,7 +8,8 @@
       </crossRefs>
 	  <notes>DEPRECATED: Use the license identifier GPL-3.0-or-later</notes>
       <standardLicenseHeader> Copyright (C) 
-    <alt match=".+" name="copyright">&lt;year&gt; &lt;name of author&gt;</alt>[year] This program is free software:
+    <alt match=".+" name="copyright">&lt;year&gt; &lt;name of author&gt;</alt>
+    This program is free software:
     you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the
     Free Software Foundation, version. This program is distributed in the hope that it will be useful, but WITHOUT
     ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
