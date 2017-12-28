@@ -2,13 +2,14 @@
 Please familiarize yourself with the SPDX License List and its supporting documentation, so that you understand the pertinent context around the list itself:
 * [Overview of the SPDX License List](https://spdx.org/spdx-license-list/license-list-overview) explains some key background, principles for the inclusion of a license on the SPDX License List, as well as an explanation of the fields contained on the list.
 * [SPDX License List Matching Guidelines](https://spdx.org/spdx-license-list/matching-guidelines) provides guidelines to be used for the purposes of matching licenses and license exceptions against those included on the SPDX License List. 
+* [SPDX Specification](https://spdx.org/specifications): It is helpful to be familiar with certain sections of the SPDX Specification thatuse or deal with the SPDX License List. In particular: sub-sections related to license information in Section 3, 4, and 6; Appendices II, IV, and V.  
 
 # How to contribute/participate: general
-The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done both via the mailing list and bi-weekly calls. In particular, the bi-weekly calls are used to discuss topics and issues that may be difficult to only discuss via email.
-You can join the mailing list and otherwise manage your subscription [via spdx-legal mailman](https://lists.spdx.org/mailman/listinfo/spdx-legal). Information on the bi-weekly calls and the working area for the SPDX Legal Team, can be found on the [SPDX wiki](https://wiki.spdx.org/view/Legal_Team)
+The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done via the mailing list and bi-weekly calls. In particular, the bi-weekly calls are used to discuss topics and issues that may be difficult to only discuss via email.
+You can join the mailing list and otherwise manage your subscription [via spdx-legal mailman](https://lists.spdx.org/mailman/listinfo/spdx-legal). Information on the bi-weekly calls and the working area for the SPDX Legal Team, can be found on the [SPDX legal team wiki](https://wiki.spdx.org/view/Legal_Team)
 
 ## Request a new license or exception be added to the SPDX License List
-The SPDX Legal Team greatly appreciates proposals for new free and open source licenses or exceptions to be added to the SPDX License List.  To request a license or exception be added to the SPDX License List, please:
+The SPDX Legal Team appreciates proposals for new free and open source licenses or exceptions to be added to the SPDX License List.  To request a license or exception be added to the SPDX License List, please:
 
 1.  Review the [license list overview and inclusion principles](https://spdx.org/spdx-license-list/license-list-overview).
 
@@ -20,9 +21,9 @@ The SPDX Legal Team greatly appreciates proposals for new free and open source l
 * Issue name or email subject line: "New License/Exception Request: <license/exception name>" 
 * Provide a proposed Full Name for the license or exception.
 * Provide a proposed Short Identifier.
-* Provide a functioning url reference to the license or exception text
-* Indicate whether the license is OSI-approved (see: http://www.opensource.org/licenses/alphabetical) or whether it has been submitted for approval to the OSI and is currently under review.
-* Provide a short explanation regarding the need for this license or exception to be included on the SPDX License List, including identifying at least one program that uses it.
+* Provide a functioning URL reference to the license or exception text.
+* Indicate whether the license is OSI-approved or is currently under review. (If the latter, please provide some information as to where in the process.) 
+* Provide a short explanation regarding the need for this license or exception to be included on the SPDX License List, and identify at least one program that uses it.
 * Provide the text of the license. 
 
 ### Review Process
@@ -32,7 +33,8 @@ The SPDX Legal Team greatly appreciates proposals for new free and open source l
 4. The new license/exception will be officially added for the next release of the SPDX License List.
 
 ## Other Contributions to the SPDX License List
-If you find an error or have a suggested update to an existing license, please open a [new issue](https://github.com/spdx/license-list-XML/issues/new). Someone will respond and depending on the nature of the Issue, it may be referred for further discussion on the mailing list or bi-weekly calls. Examples of things that should be logged via an issue (versus raised on the mailing list/discussed on calls) may include:
+If you find an error or have a suggested update to an existing license, please open a [new issue](https://github.com/spdx/license-list-XML/issues/new). Depending on the nature of the Issue, it may be referred for further discussion on the mailing list or bi-weekly calls. 
+Examples of things that should be logged via an issue (versus raised on the mailing list/discussed on calls) may include:
 * update an URL for a license
 * recommend additional markup for matching purposes (usually requires legal review)
 
