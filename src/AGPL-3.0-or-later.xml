@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license licenseId="AGPL-3.0" isOsiApproved="true"
-  name="GNU Affero General Public License v3.0"
-  isDeprecated="true" deprecatedVersion="3.0">
+  <license licenseId="AGPL-3.0-or-later" isOsiApproved="true"
+  name="GNU Affero General Public License v3.0 or later">
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/agpl.txt</crossRef>
       <crossRef>http://www.opensource.org/licenses/AGPL-3.0</crossRef>
     </crossRefs>
-    <notes>
-      DEPRECATED: Deprecated in lieu of more
-      explicit license identifier of AGPL-3.0-only
-    </notes>
     <standardLicenseHeader>
       Copyright (C)<alt name="copyright" match=".+">[year] [name of author]</alt>
       This program is free software: you can redistribute it and/or modify it
       under the terms of the GNU Affero General Public License as published
-      by the Free Software Foundation, version 3. This program is distributed
+      by the Free Software Foundation, either version 3 of the License, or 
+      <optional>(at your option)</optional> any later version. 
+      This program is distributed
       in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
       even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
       PURPOSE. See the GNU Affero General Public License for more details.
