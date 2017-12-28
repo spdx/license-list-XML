@@ -12,15 +12,19 @@
           provide for limited attribution for the Original Developer. In addition, Exhibit A has been modified
           to be consistent with Exhibit B. Software distributed under the License is distributed on an
           "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the
-          License for the specific language governing rights and limitations under the License. The Original
+          License for the specific language governing rights and limitations under the License. 
+         <p>The Original
           Code is 
-    <alt match=".+" name="code">_____</alt>. The Original Developer is not the Initial Developer and is 
-    <alt match=".+" name="developer">_____</alt>. If left blank, the Original Developer is the Initial Developer.
-    The Initial Developer of the Original Code is 
+            <alt match=".+" name="code">_____</alt>.</p> 
+         <p>The Original Developer is not the Initial Developer and is 
+    <alt match=".+" name="developer">_____</alt>. If left blank, the Original Developer is the Initial Developer.</p>
+    <p>The Initial Developer of the Original Code is 
     <alt match=".+" name="InitialDeveloper">_____</alt>. All portions of the code written by 
     <alt match=".+" name="createdby">_____</alt> are Copyright (c) 
-    <alt match=".+" name="copyright">_____</alt>. All Rights Reserved. Contributor 
-    <alt match=".+" name="contributor">_____</alt>. Alternatively, the contents of this file may be used under the
+       <alt match=".+" name="copyright">_____</alt>. All Rights Reserved.</p> 
+         <p>Contributor 
+            <alt match=".+" name="contributor">_____</alt>.</p> 
+         <p>Alternatively, the contents of this file may be used under the
     terms of the 
     <alt match=".+" name="AltLicense">_____</alt> license (the 
     <alt match=".+" name="licenseName">[____]</alt> License), in which case the provisions of 
@@ -31,7 +35,7 @@
     other provisions required by the 
     <alt match=".+" name="licenseName">[____]</alt> License. If you do not delete the provisions above, a recipient
     may use your version of this file under either the CPAL or the 
-    <alt match=".+" name="licenseName">[____]</alt> License. 
+            <alt match=".+" name="licenseName">[____]</alt> License. </p>
   </standardLicenseHeader>
       <titleText>
          <p>Common Public Attribution License Version 1.0 (CPAL)</p>
