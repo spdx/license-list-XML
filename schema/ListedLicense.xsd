@@ -59,7 +59,7 @@
 	</complexType>
 	<complexType name="crossRefsType">
 		<sequence>
-			<element name="crossRef" type="string" minOccurs="1" maxOccurs="unbounded"/>
+			<element name="crossRef" type="anyURI" minOccurs="1" maxOccurs="unbounded"/>
 		</sequence>
 	</complexType>
 	<complexType name="altType" mixed="true">
