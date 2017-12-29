@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isDeprecated="true" deprecatedVersion="2.0rc2" licenseId="eCos-2.0" name="eCos license version 2.0">
+   <license deprecatedVersion="2.0rc2" licenseId="eCos-2.0" name="eCos license version 2.0">
       <crossRefs>
          <crossRef>http://www.gnu.org/licenses/ecos-license.html</crossRef>
       </crossRefs>
