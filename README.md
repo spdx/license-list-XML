@@ -10,8 +10,5 @@ Please note that the format for this repository is internal to the SPDX legal te
 In contrast, the output files in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data) are stable and well-supported, and make the License List available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://github.com/spdx/tools) (or create your own) to consume the supported formats of the license list.
 
 # How to contribute/participate
-The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done both via the mailing list and bi-weekly calls. In particular, the bi-weekly calls are used to discuss topics and issues that may be difficult to only discuss via email.
 
-You can join the mailing list and otherwise manage your subscription [via spdx-legal mailman](https://lists.spdx.org/mailman/listinfo/spdx-legal). Information on the bi-weekly calls and the working area for the SPDX Legal Team, can be found on the [SPDX wiki](https://wiki.spdx.org/view/Legal_Team)
-
-For specific guidance on contributing to the SPDX License List via this repository, including how to request a new license or exception be added, please see [CONTRIBUTING](https://github.com/spdx/license-list-XML/blob/master/CONTRIBUTING.md).
+We welcome contribution!  See [our contribution documentation](CONTRIBUTING.md) for details.
