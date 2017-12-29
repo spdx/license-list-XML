@@ -9,15 +9,22 @@
     <standardLicenseHeader>
       Copyright (C)<alt name="copyright"
       match=".+">&lt;year&gt; &lt;name of author&gt;</alt>
-	<p>This program is free software: you can redistribute it and/or
-      	modify it under the terms of the GNU General Public License as
- 	published by the Free Software Foundation, version 3.</p> 
-	<p>This program is
-      	distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
-      	without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-	PARTICULAR PURPOSE. See the GNU General Public License for more details.</p>
-      <p>You should have received a copy of the GNU General Public License
-      along with this program. If not, see http://www.gnu.org/licenses/</p>
+      <p>
+        This program is free software: you can redistribute it and/or
+        modify it under the terms of the GNU General Public License
+        as published by the Free Software Foundation, version 3.
+      </p>
+      <p>
+        This program is distributed in the hope that it will be
+        useful, but WITHOUT ANY WARRANTY; without even the implied
+        warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+        PURPOSE. See the GNU General Public License for more details.
+      </p>
+      <p>
+        You should have received a copy of the GNU General
+        Public License along with this program. If not, see
+        &lt;http<optional>s</optional>://www.gnu.org/licenses/&gt;.
+      </p>
     </standardLicenseHeader>
     <notes>
       This license was released: 29 June 2007 This refers to when
