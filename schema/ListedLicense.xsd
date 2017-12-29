@@ -32,8 +32,7 @@
 		<all>
 			<element name="crossRefs" type="tns:crossRefsType" minOccurs="0" maxOccurs="1"/>
 			<element name="notes" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1"/>
-			<element name="standardLicenseHeader" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
-			<element name="text" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="text" type="tns:formattedAltFileGrantTextType" minOccurs="0" maxOccurs="1"/>
 		</all>
 		<attribute name="licenseId" type="string" use="required" />
 		<attribute name="isOsiApproved" type="boolean"/>
@@ -55,10 +54,19 @@
 	<complexType name="optionalType" mixed="true">
 		<group ref="tns:formattedAltTextGroup" minOccurs="0" maxOccurs="unbounded"/>
 	</complexType>
+	<complexType name="optionalFileGrantType" mixed="true">
+		<group ref="tns:formattedAltFileGrantTextGroup" minOccurs="0" maxOccurs="unbounded"/>
+	</complexType>
 	<complexType name="listType">
 		<choice minOccurs="1" maxOccurs="unbounded">
 			<element name="item" type="tns:formattedAltTextType"/>
 			<element name="list" type="tns:listType"/>
+		</choice>
+	</complexType>
+	<complexType name="listFileGrantType">
+		<choice minOccurs="1" maxOccurs="unbounded">
+			<element name="item" type="tns:formattedAltFileGrantTextType"/>
+			<element name="list" type="tns:listFileGrantType"/>
 		</choice>
 	</complexType>
 	<complexType name="emptyType"/>
@@ -67,6 +75,9 @@
 	</complexType>
 	<complexType name="formattedAltTextType" mixed="true">
 		<group ref="tns:formattedAltTextGroup" minOccurs="0" maxOccurs="unbounded"/>
+	</complexType>
+	<complexType name="formattedAltFileGrantTextType" mixed="true">
+		<group ref="tns:formattedAltFileGrantTextGroup" minOccurs="0" maxOccurs="unbounded"/>
 	</complexType>
 	<group name="formattedFixedTextGroup">
 		<choice>
@@ -88,6 +99,19 @@
 			<element name="br" type="tns:emptyType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="titleText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
 			<element name="copyrightText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
+		</choice>
+	</group>
+	<group name="formattedAltFileGrantTextGroup">
+		<choice>
+			<element name="p" type="tns:formattedAltFileGrantTextType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="bullet" type="string" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="list" type="tns:listFileGrantType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="optional" type="tns:optionalFileGrantType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="alt" type="tns:altType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="br" type="tns:emptyType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="titleText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="copyrightText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="fileGrant" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
 		</choice>
 	</group>
 </schema>
