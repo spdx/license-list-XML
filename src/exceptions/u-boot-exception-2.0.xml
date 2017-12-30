@@ -6,7 +6,7 @@
       </crossRefs>
       <notes>Typically used with GPL-2.0+</notes>
       <titleText>
-         <p>The U-Boot License Exception:</p>
+         <p>GPL License Exception:</p>
       </titleText>
       <p>Even though U-Boot in general is covered by the GPL-2.0/GPL-2.0+,
          this does *not* cover the so-called "standalone" applications
