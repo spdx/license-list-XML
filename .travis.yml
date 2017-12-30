@@ -7,5 +7,3 @@ matrix:
       - language: node_js
         node_js:
           - "node"
-        before_script:
-          - npm run preinstall

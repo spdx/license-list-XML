@@ -8,17 +8,17 @@
     </crossRefs>
     <standardLicenseHeader>
       Copyright (C)<alt name="copyright" match=".+">[year] [name of author]</alt>
-      This program is free software: you can redistribute it and/or modify it
+      <p>This program is free software: you can redistribute it and/or modify it
       under the terms of the GNU Affero General Public License as published
       by the Free Software Foundation, either version 3 of the License, or 
-      <optional>(at your option)</optional> any later version. 
-      This program is distributed
+	      <optional>(at your option)</optional> any later version. </p>
+      <p>This program is distributed
       in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
       even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
-      PURPOSE. See the GNU Affero General Public License for more details.
-      You should have received a copy of the GNU Affero General Public License
+      PURPOSE. See the GNU Affero General Public License for more details.</p>
+      <p>You should have received a copy of the GNU Affero General Public License
       along with this program. If not, see
-      &lt;http<optional>s</optional>://www.gnu.org/licenses/&gt;
+	      &lt;http<optional>s</optional>://www.gnu.org/licenses/&gt;</p>
     </standardLicenseHeader>
     <notes>
       This version was released: 19 November 2007
@@ -775,8 +775,6 @@
       <item>
         <bullet>17.</bullet>
         Interpretation of Sections 15 and 16.
-      </item>
-    </list>
     <p>
       If the disclaimer of warranty and limitation of liability
       provided above cannot be given local legal effect according to
@@ -785,6 +783,8 @@
       connection with the Program, unless a warranty or assumption of
       liability accompanies a copy of the Program in return for a fee.
     </p>
+      </item>
+    </list>
     <optional>
       <p>
         END OF TERMS AND CONDITIONS

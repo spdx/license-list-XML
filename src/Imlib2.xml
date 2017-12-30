@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Imlib2" name="Imlib2 License">
       <crossRefs>
-         <crossRef>http://trac.enlightenment.org/e/browser/trunk/imlib2/COPYING</crossRef>
+         <crossRef>https://git.enlightenment.org/legacy/imlib2.git/tree/COPYING</crossRef>
       </crossRefs>
       <titleText>
          <p>Imlib2 License</p>

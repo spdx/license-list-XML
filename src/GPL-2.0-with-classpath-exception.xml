@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isDeprecated="true" licenseId="GPL-2.0-with-classpath-exception"
+   <license isDeprecated="true" deprecatedVersion="2.0rc2" licenseId="GPL-2.0-with-classpath-exception"
             name="GNU General Public License v2.0 w/Classpath exception">
       <crossRefs>
          <crossRef>http://www.gnu.org/software/classpath/license.html</crossRef>

@@ -4,6 +4,9 @@
       <crossRefs>
          <crossRef>http://opensource.linux-mirror.org/licenses/afl-2.1.txt</crossRef>
       </crossRefs>
+      <standardLicenseHeader>
+         Licensed under the Academic Free License version 2.1
+      </standardLicenseHeader>
       <titleText>
          <p>The Academic Free License 
         <br/>v.2.1 

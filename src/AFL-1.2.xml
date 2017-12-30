@@ -5,6 +5,9 @@
          <crossRef>http://opensource.linux-mirror.org/licenses/afl-1.2.txt</crossRef>
          <crossRef>http://wayback.archive.org/web/20021204204652/http://www.opensource.org/licenses/academic.php</crossRef>
       </crossRefs>
+      <standardLicenseHeader>
+        Licensed under the Academic Free License version 1.2
+      </standardLicenseHeader>
       <notes>This license has been superseded by later versions.
   
     We found these notes here: https://web.archive.org/web/20100828113909/http://opensource.linux-mirror.org/licenses/afl-1.2.txt

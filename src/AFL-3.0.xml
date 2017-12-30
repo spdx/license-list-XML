@@ -5,6 +5,9 @@
          <crossRef>http://www.rosenlaw.com/AFL3.0.htm</crossRef>
          <crossRef>http://www.opensource.org/licenses/afl-3.0</crossRef>
       </crossRefs>
+      <standardLicenseHeader>
+         Licensed under the Academic Free License version 3.0
+      </standardLicenseHeader>
       <titleText>
          <p>Academic Free License ("AFL") v. 3.0</p>
       </titleText>
