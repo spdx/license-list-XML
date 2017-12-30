@@ -2,8 +2,8 @@ matrix:
     include:
       - language: java
         before_install:
-          - wget https://dl.bintray.com/spdx/spdx-tools/org/spdx/spdx-tools/2.1.7/spdx-tools-2.1.7-jar-with-dependencies.jar
-        script: ./validate.sh
+          - wget https://dl.bintray.com/spdx/spdx-tools/org/spdx/spdx-tools/2.1.8/spdx-tools-2.1.8-jar-with-dependencies.jar
+        script: ./publishLicenseList.sh
       - language: node_js
         node_js:
           - "node"
