@@ -17,4 +17,4 @@ echo running SPDX Tool command $PUBLISHCMD
 java -jar $TOOLSJAR $PUBLISHCMD
 rc=$?; if [[ $rc != 0 ]]; then exit $rc; fi
 rm $WARNINGSFILE
-echo License list is valid
+echo License list has been validated.
