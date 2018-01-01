@@ -4,6 +4,7 @@ matrix:
         before_install:
           - wget https://dl.bintray.com/spdx/spdx-tools/org/spdx/spdx-tools/2.1.8/spdx-tools-2.1.8-jar-with-dependencies.jar
         script: 
+          - echo $TRAVIS_PULL_REQUEST
           - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then bash ./travis/testBuildLicenseList.sh; fi'
           - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then bash ./.travis/publishLicenseList.sh; fi'
       - language: node_js
