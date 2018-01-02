@@ -1,3 +1,10 @@
-language: node_js
-node_js:
-  - "node"
+matrix:
+    include:
+      - language: java
+        before_install:
+          - wget https://dl.bintray.com/spdx/spdx-tools/org/spdx/spdx-tools/2.1.8/spdx-tools-2.1.8-jar-with-dependencies.jar
+        script: 
+          - 'if [[ "$TRAVIS_PULL_REQUEST" = "false" && "$TRAVIS_BRANCH" = "master" ]]; then bash ./.travis/publishLicenseList.sh; else bash ./.travis/testBuildLicenseList.sh; fi'
+      - language: node_js
+        node_js:
+          - "node"
