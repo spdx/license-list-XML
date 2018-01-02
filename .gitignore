@@ -4,5 +4,8 @@
 !/.gitignore
 !/.travis.yml
 
+/resources
+/spdx-tools-*.jar
+
 # nodeJS
 node_modules/

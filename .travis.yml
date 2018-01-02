@@ -1,3 +1,10 @@
-language: node_js
-node_js:
-  - "node"
+matrix:
+  include:
+    - language: java
+      before_install:
+        - git clone --depth 1 https://github.com/goneall/license-test-files
+      script:
+        - make TEST_DATA=license-test-files/simpleTestForGenerator validate-canonical-match
+    - language: node_js
+      node_js:
+      - "node"
