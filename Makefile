@@ -1,5 +1,4 @@
 TOOL_VERSION = 2.1.8
-TOOL_SHA256 = 4871a3f72cd87f5680da4dbda8fbc7805f365b599c8fbfd8f9d9e371b3a2d3b8
 TEST_DATA = ../license-test-files
 
 .PHONY: validate-canonical-match
@@ -10,9 +9,13 @@ validate-canonical-match: spdx-tools-$(TOOL_VERSION).jar-valid resources/license
 spdx-tools-%.jar:
 	curl -L https://dl.bintray.com/spdx/spdx-tools/org/spdx/spdx-tools/$*/spdx-tools-$*-jar-with-dependencies.jar >$@
 
+.PRECIOUS: spdx-tools-%.jar.asc
+spdx-tools-%.jar.asc:
+	curl -L https://dl.bintray.com/spdx/spdx-tools/org/spdx/spdx-tools/$*/spdx-tools-$*-jar-with-dependencies.jar.asc >$@
+
 .PHONY: spdx-tools-%.jar-valid
-spdx-tools-%.jar-valid: spdx-tools-%.jar
-	echo '$(TOOL_SHA256) $<' | sha256sum --check
+spdx-tools-%.jar-valid: spdx-tools-%.jar.asc spdx-tools-%.jar goneall.gpg
+	gpg --verify --no-default-keyring --keyring ./goneall.gpg $<
 
 .tmp:
 	mkdir -p $@
@@ -29,4 +32,4 @@ clean:
 
 .PHONY: full-clean
 full-clean: clean
-	rm -rf resources spdx-tool-*.jar
+	rm -rf resources spdx-tool-*.jar*

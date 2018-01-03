@@ -5,7 +5,7 @@
 !/.travis.yml
 
 /resources
-/spdx-tools-*.jar
+/spdx-tools-*.jar*
 
 # nodeJS
 node_modules/
