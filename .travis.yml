@@ -3,6 +3,7 @@ matrix:
       - language: java
         before_install:
           - wget https://dl.bintray.com/spdx/spdx-tools/org/spdx/spdx-tools/2.1.8/spdx-tools-2.1.8-jar-with-dependencies.jar
+          - echo '4871a3f72cd87f5680da4dbda8fbc7805f365b599c8fbfd8f9d9e371b3a2d3b8  spdx-tools-2.1.8-jar-with-dependencies.jar' | sha256sum --check
         script: 
           - 'if [[ "$TRAVIS_PULL_REQUEST" = "false" && "master" = "$TRAVIS_BRANCH" ]]; then ./.travis/testPublishLicenseList.sh; else ./.travis/testBuildLicenseList.sh; fi'
       - language: node_js
