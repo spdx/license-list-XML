@@ -46,15 +46,15 @@ git add -A
 COMMIT_MSG="Automatic update of license list data from license XML repository version $VERSION"
 git commit -m "$COMMIT_MSG"
 # Check to see if we should add a tag
-if [[ $VERSION =~ .+-g[a-f0-9]{7} ]]
-then
+#if [[ $VERSION =~ .+-g[a-f0-9]{7} ]]
+#then
 # Just push without adding a tag
 	echo Pushing updates to the license list data repository.  This could take a while...
 	git push origin --quiet
-else
+#else
 # Add a tag and push with the tags
-	git tag -a $VERSION -m "Adding release mathing the license list XML tag $VERSION"
-	echo Pushing new version to the license list data repository.  This could take a while...
-	git push origin --tags --quiet
-fi
+#	git tag -a $VERSION -m "Adding release mathing the license list XML tag $VERSION"
+#	echo Pushing new version to the license list data repository.  This could take a while...
+#	git push origin --tags --quiet
+#fi
 exit 0
