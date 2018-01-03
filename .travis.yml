@@ -1,11 +1,8 @@
 matrix:
   include:
     - language: java
-      before_install:
-        - git clone --branch master https://github.com/goneall/license-test-files
-        - git -C license-test-files checkout d2035d9c5327e4acbde7b3d8b24501f9d5ac6438
       script:
-        - make TEST_DATA=license-test-files/simpleTestForGenerator validate-canonical-match
+        - make TEST_DATA=test/simpleTestForGenerator validate-canonical-match
     - language: node_js
       node_js:
       - "node"
