@@ -21,7 +21,10 @@ spdx-tools-%.jar-valid: spdx-tools-%.jar.asc spdx-tools-%.jar goneall.gpg
 	mkdir -p $@
 
 resources/licenses-full.json: resources
-	curl -L https://wking.github.io/fsf-api/licenses-full.json >$@
+	echo '{}' >$@
+# the 2.1.8 tools choke on the current live version.
+# https://github.com/wking/fsf-api/pull/9
+# https://github.com/wking/fsf-api/pull/10
 
 resources:
 	mkdir -p $@
