@@ -32,6 +32,7 @@
 		<all>
 			<element name="crossRefs" type="tns:crossRefsType" minOccurs="0" maxOccurs="1"/>
 			<element name="notes" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1"/>
+			<element name="standardLicenseHeader" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
 			<element name="text" type="tns:formattedAltStandardLicenseHeaderTextType" minOccurs="0" maxOccurs="1"/>
 		</all>
 		<attribute name="licenseId" type="string" use="required" />
