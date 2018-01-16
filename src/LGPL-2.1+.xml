@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="LGPL-2.1+"  isDeprecated="true" deprecatedVersion="2.0rc2"
-            name="GNU Library General Public License v2 or later">
+            name="GNU Library General Public License v2.1 or later">
 	  <notes>DEPRECATED: Use the license identifier LGPL-2.1-or-later</notes>
       <crossRefs>
          <crossRef>http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</crossRef>
@@ -19,8 +19,7 @@
     License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth
     Floor, Boston, MA 02110-1301 USA </p>
       </standardLicenseHeader>
-      <notes>This license was released: February 1999. This refers to when this LGPL 2.1 only is being used (as opposed to
-         "or later).</notes>
+    <text>
       <titleText>
          <p>GNU LESSER GENERAL PUBLIC LICENSE</p>
          <p>Version 2.1, February 1999</p>
@@ -445,5 +444,6 @@
         <br/>That's all there is to it!
       </p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

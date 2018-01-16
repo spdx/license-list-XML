@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/MIT#AdobeGlyph</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright (c) 1997,1998,2002,2007 Adobe Systems Incorporated</p>
       </copyrightText>
@@ -34,6 +35,6 @@
          express, statutory, or implied warranties relating to the Adobe materials, including but not limited 
          to those concerning merchantability or fitness for a particular purpose or non-infringement of any
          third party rights regarding the Adobe materials.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

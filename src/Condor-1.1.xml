@@ -6,6 +6,7 @@
          <crossRef>http://web.archive.org/web/20111123062036/http://research.cs.wisc.edu/condor/license.html#condor</crossRef>
       </crossRefs>
       <notes>This license was released 30 October 2003</notes>
+    <text>
       <titleText>
          <p>Condor Public License</p>
          <p>Version 1.1, October 30, 2003</p>
@@ -127,6 +128,6 @@
           <br/>http://pages.cs.wisc.edu/~miron/miron.html 
         </p>
       </optional>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

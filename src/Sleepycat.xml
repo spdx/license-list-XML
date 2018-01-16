@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/Sleepycat</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>The Sleepycat License <copyrightText>Copyright (c) 1990-1999 Sleepycat Software. All rights reserved.</copyrightText>
          </p>
@@ -108,6 +109,6 @@
          INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
          TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
          ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

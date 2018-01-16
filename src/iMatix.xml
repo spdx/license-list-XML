@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://legacy.imatix.com/html/sfl/sfl4.htm#license</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>The SFL License Agreement</p>
       </titleText>
@@ -76,6 +77,6 @@
              the quality and performance of the Product is with you. Should the Product prove defective, the
              full cost of repair, servicing, or correction lies with you.</item>
          </list>
-      
+    </text>
     </license>
 </SPDXLicenseCollection>

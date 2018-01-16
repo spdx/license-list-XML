@@ -5,6 +5,7 @@
          <crossRef>http://sourceforge.net/p/clisp/clisp/ci/default/tree/COPYRIGHT</crossRef>
       </crossRefs>
       <notes>Typically used with GPL-2.0</notes>
+    <text>
       <p>Summary:</p>
       <p>This program is free software; you can redistribute it and/or
        modify it under the terms of the GNU General Public License
@@ -55,5 +56,6 @@
        CLISP through dynamic linking is not exempted from this
        copyright. I.e. such code, when distributed for use with
        CLISP, must be distributed under the GPL.</p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

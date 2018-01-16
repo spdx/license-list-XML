@@ -25,6 +25,7 @@
     under the RCSL): 
     <alt match=".+" name="testLocation">_____</alt>. 
   </standardLicenseHeader>
+    <text>
       <titleText>
          <p>RealNetworks Public Source License Version 1.0</p>
          <p>(Rev. Date October 28, 2002)</p>
@@ -593,5 +594,6 @@
          and in strict compliance at all times with RealNetworks' third party trademark usage guidelines which
          are posted at www.realnetworks.com/info/helixlogo.html.</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

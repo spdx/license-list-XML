@@ -29,6 +29,7 @@
       This license was released: February 1999. This refers to when
       this LGPL 2.1 only is being used (as opposed to "or later).
     </notes>
+    <text>
     <titleText>
       <p>
         GNU LESSER GENERAL PUBLIC LICENSE
@@ -655,5 +656,6 @@
         That's all there is to it!
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

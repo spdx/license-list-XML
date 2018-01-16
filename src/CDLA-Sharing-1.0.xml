@@ -5,6 +5,7 @@
     <crossRefs>
       <crossRef>https://cdla.io/sharing-1-0</crossRef>
     </crossRefs>
+    <text>
     <titleText>
       <p>
         Community Data License Agreement - Sharing - Version 1.0
@@ -339,5 +340,6 @@
         </list>
       </item>
     </list>
+    </text>
   </license>
 </SPDXLicenseCollection>

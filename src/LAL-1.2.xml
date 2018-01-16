@@ -9,6 +9,7 @@
 English: http://artlibre.org/licence/lal/licence-art-libre-12/
 Italian: http://artlibre.org/licence/lal/it/
 Spanish: http://artlibre.org/licence/lal/es/</notes>
+    <text>
       <titleText>
          <p>Licence Art Libre
         <br/>[ Copyleft Attitude ]
@@ -179,5 +180,6 @@ Spanish: http://artlibre.org/licence/lal/es/</notes>
         </item>
       </list>
       <p>Cette licence est soumise au droit français.</p>
+    </text>
     </license>
 </SPDXLicenseCollection>

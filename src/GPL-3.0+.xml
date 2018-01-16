@@ -9,15 +9,25 @@
 	  <notes>DEPRECATED: Use the license identifier GPL-3.0-or-later</notes>
       <standardLicenseHeader> Copyright (C) 
     <alt match=".+" name="copyright">&lt;year&gt; &lt;name of author&gt;</alt>
-    This program is free software:
-    you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the
-    Free Software Foundation, version. This program is distributed in the hope that it will be useful, but WITHOUT
-    ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-    GNU General Public License for more details. You should have received a copy of the GNU General Public License
-    along with this program. If not, see http://www.gnu.org/licenses/
+      <p>
+        This program is free software: you can redistribute it and/or
+        modify it under the terms of the GNU General Public License
+        as published by the Free Software Foundation, either version
+        3 of the License, or (at your option) any later version.
+      </p>
+      <p>
+        This program is distributed in the hope that it will be
+        useful, but WITHOUT ANY WARRANTY; without even the implied
+        warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+        PURPOSE. See the GNU General Public License for more details.
+      </p>
+      <p>
+        You should have received a copy of the GNU General
+        Public License along with this program. If not, see
+        &lt;http<optional>s</optional>://www.gnu.org/licenses/&gt;.
+      </p>
   </standardLicenseHeader>
-      <notes>This license was released: 29 June 2007 This refers to when this GPL 3.0 only is being used (as opposed to
-         "or later).</notes>
+    <text>
       <titleText>
          <p>GNU GENERAL PUBLIC LICENSE 
         <br/>Version 3, 29 June 2007 
@@ -597,5 +607,6 @@
          License instead of this License. But first, please read
          &lt;http<optional>s</optional>://www.gnu.org/philosophy/why-not-lgpl.html&gt;.</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

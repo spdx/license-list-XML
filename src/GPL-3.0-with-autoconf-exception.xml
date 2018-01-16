@@ -7,6 +7,7 @@
       </crossRefs>
       <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
      
+    <text>
 	     <p>insert GPL v3 text here</p>
 	     <p>AUTOCONF CONFIGURE SCRIPT EXCEPTION</p>
 	     <p>Version 3.0, 18 August 2009</p>
@@ -33,6 +34,6 @@
 			<p>The availability of this Exception does not imply any general presumption that third-party software is unaffected by the copyleft requirements of the license of Autoconf.</p>
 		       </item>
 	     </list>
-	
+    </text>
   </license>
 </SPDXLicenseCollection>

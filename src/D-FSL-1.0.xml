@@ -14,6 +14,7 @@
       </crossRefs>
       <notes>This license was created for and is backed by the German state. The English translation can be found here:
          http://www.dipp.nrw.de/d-fsl/index_html/lizenzen/en/D-FSL-1_0_en.txt</notes>
+    <text>
         <titleText>
             <p>Deutsche Freie Software Lizenz</p>
         </titleText>
@@ -430,5 +431,6 @@
             <p>Die Lizenz kann unter http://www.d-fsl.de abgerufen werden."</p>
         </item>
       </list>
+    </text>
   </license>
 </SPDXLicenseCollection>

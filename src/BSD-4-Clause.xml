@@ -6,6 +6,7 @@
          <crossRef>http://directory.fsf.org/wiki/License:BSD_4Clause</crossRef>
       </crossRefs>
       <notes>This license was rescinded by the author on 22 July 1999.</notes>
+    <text>
       <copyrightText>
          <p>Copyright (c) 
         <alt match=".+" name="copyright">&lt;year&gt; &lt;owner&gt;</alt>. All rights reserved. 
@@ -54,6 +55,6 @@
         NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
         POSSIBILITY OF SUCH DAMAGE. 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

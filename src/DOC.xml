@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.cs.wustl.edu/~schmidt/ACE-copying.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Copyright and Licensing Information for ACE(TM), TAO(TM), CIAO(TM), DAnCE(TM), and CoSMIC(TM)</p>
       </titleText>
@@ -56,6 +57,6 @@
          Washington University, UC Irvine, or Vanderbilt University to appear in their names.</p>
       <p>If you have any suggestions, additions, comments, or questions, please let me know.</p>
       <p>Douglas C. Schmidt</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

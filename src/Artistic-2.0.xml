@@ -6,6 +6,7 @@
          <crossRef>http://www.opensource.org/licenses/artistic-license-2.0</crossRef>
       </crossRefs>
       <notes>This license was released: 2006</notes>
+    <text>
       <titleText>
          <p>The Artistic License 2.0</p>
       </titleText>
@@ -231,6 +232,6 @@
          POSSIBILITY OF SUCH DAMAGE.</p>
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

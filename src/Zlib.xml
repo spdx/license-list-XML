@@ -5,6 +5,7 @@
          <crossRef>http://www.zlib.net/zlib_license.html</crossRef>
          <crossRef>http://www.opensource.org/licenses/Zlib</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>zlib License</p>
       </titleText>
@@ -32,6 +33,6 @@
           This notice may not be removed or altered from any source distribution.
         </item>
       </list>
-
+    </text>
   </license>
 </SPDXLicenseCollection>

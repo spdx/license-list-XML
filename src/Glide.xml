@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.users.on.net/~triforce/glidexp/COPYING.txt</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>3DFX GLIDE Source Code General Public License</p>
       </titleText>
@@ -308,6 +309,6 @@
               </list>
             </item>
           </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

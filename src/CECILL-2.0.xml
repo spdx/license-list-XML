@@ -8,6 +8,7 @@
       <notes>
 French version can be found here: http://www.cecill.info/licences/Licence_CeCILL_V2-fr.html
   </notes>
+    <text>
       <titleText>
          <p>
 CeCILL FREE SOFTWARE LICENSE AGREEMENT
@@ -643,5 +644,6 @@ Failing an amicable solution within two (2) months as from their occurrence, and
 Version 2.0 dated 2006-09-05.
   </p>
   <optional>1 CeCILL stands for Ce(a) C(nrs) I(nria) L(ogiciel) L(ibre)</optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

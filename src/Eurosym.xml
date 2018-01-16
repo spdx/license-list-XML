@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Eurosym</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright (c) 1999-2002 Henrik Theiling</p>
       </copyrightText>
@@ -46,6 +47,6 @@
         </item>
       </list>
       <p>This licence is governed by the Laws of Germany. Disputes shall be settled by Saarbruecken City Court.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

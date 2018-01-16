@@ -9,6 +9,7 @@
     <notes>
       This license was released: 29 June 2007.
     </notes>
+    <text>
     <titleText>
       <p>
         GNU LESSER GENERAL PUBLIC LICENSE<br></br>
@@ -252,5 +253,6 @@
         </p>
       </item>
     </list>
+    </text>
   </license>
 </SPDXLicenseCollection>

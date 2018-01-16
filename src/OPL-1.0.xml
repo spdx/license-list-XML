@@ -5,6 +5,7 @@
          <crossRef>http://old.koalateam.com/jackaroo/OPL_1_0.TXT</crossRef>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Open_Public_License</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>OPEN PUBLIC LICENSE 
         <br/>Version 1.0 
@@ -468,5 +469,6 @@
          <p>Text for this Exhibit B is found in the corresponding addendum, described in section 6.4 above, text file
          provided by the Initial Developer. This license is not valid or complete with out that file.</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

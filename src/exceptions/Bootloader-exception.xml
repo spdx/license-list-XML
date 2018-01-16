@@ -4,7 +4,7 @@
       <crossRefs>
          <crossRef>https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt</crossRef>
       </crossRefs>
-  
+    <text>
       <titleText>
          <p>Bootloader Exception<alt match="-*" name="titleUnderline"/></p>
       </titleText>
@@ -15,5 +15,6 @@ those combinations without any restriction coming from the use of those
 files. (The General Public License restrictions do apply in other respects;
 for example, they cover modification of the files, and distribution when
 not linked into a <alt name="combined" match="combined|combine">combined</alt> executable.)</p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

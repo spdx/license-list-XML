@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/AdobePostscriptAFM</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright (c) 1985, 1987, 1989, 1990, 1991, 1992, 1993, 1997 Adobe Systems Incorporated. All Rights
          Reserved.</p>
@@ -15,6 +16,6 @@
          file or any of the AFM files are prominently noted in the modified file(s); and that this paragraph is
          not modified. Adobe Systems has no responsibility or obligation to support the use of the AFM
          files.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -9,6 +9,7 @@
          BSD-3-Clause-No-Nuclear-License, except it has a different
          entire disclaimer clause that is the same as
          BSD-3-Clause.</notes>
+    <text>
       <copyrightText>
          <p>Copyright © 2008, 2014 Oracle and/or its affiliates. All rights
          reserved.</p>
@@ -55,5 +56,6 @@
       <p>You acknowledge that this software is not designed, licensed or
          intended for use in the design, construction, operation or
          maintenance of any nuclear facility.</p>
+    </text>
   </license>
 </SPDXLicenseCollection>

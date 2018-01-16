@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://www.opencascade.com/content/occt-public-license</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Open CASCADE Technology Public License 
         <br/>Version 6.6, April 2013 
@@ -284,5 +285,6 @@
         <br/>End of Schedule "B" 
       </p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

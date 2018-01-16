@@ -5,6 +5,7 @@
          <crossRef>http://www.egenix.com/products/eGenix.com-Public-License-1.1.0.pdf</crossRef>
          <crossRef>https://fedoraproject.org/wiki/Licensing/eGenix.com_Public_License_1.1.0</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>EGENIX.COM PUBLIC LICENSE AGREEMENT 
         <br/>Version 1.1.0 
@@ -111,6 +112,6 @@
         <br/>D-40764 Langenfeld 
         <br/>Germany 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

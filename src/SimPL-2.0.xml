@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/SimPL-2.0</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Simple Public License (SimPL)</p>
       </titleText>
@@ -92,6 +93,6 @@
          find helpful. To avoid confusion, however, if you change the terms in any way then you may not call
          your license the Simple Public License or the SimPL (but feel free to acknowledge that your license is
          "based on the Simple Public License").</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

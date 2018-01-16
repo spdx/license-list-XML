@@ -7,6 +7,7 @@
       </crossRefs>
       <notes>This license was superseded by v2.0. This is Artistic License 1.0 as found on OSI site, including clause
          8.</notes>
+    <text>
       <titleText>
          <p>The Artistic License</p>
       </titleText>
@@ -140,5 +141,6 @@
       <optional>
          <p>The End</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

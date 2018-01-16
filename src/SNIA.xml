@@ -5,6 +5,7 @@
          <crossRef>https://fedoraproject.org/wiki/Licensing/SNIA_Public_License</crossRef>
       </crossRefs>
       <notes>This is MPL-1.1 with some edits.</notes>
+    <text>
       <titleText>
          <p>STORAGE NETWORKING INDUSTRY ASSOCIATION 
         <br/>PUBLIC LICENSE 
@@ -460,5 +461,6 @@
          <p>Contributor(s): ______________________________________.</p>
          <p>Read more about this license at http://www.snia.org/smi/developers/open_source/</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

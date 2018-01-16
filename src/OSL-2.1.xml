@@ -7,6 +7,7 @@
       </crossRefs>
       <standardLicenseHeader>Licensed under the Open Software License version 2.1</standardLicenseHeader>
       <notes>Same as version 2.0 of this license except with changes to section 10</notes>
+    <text>
       <titleText>
          <p>The Open Software Licensev. 2.1</p>
       </titleText>
@@ -194,6 +195,6 @@
       <p>This license is Copyright (C) 2003-2004 Lawrence E. Rosen. All rights reserved. Permission is hereby
          granted to copy and distribute this license without modification. This license may not be modified
          without the express written permission of its copyright owner.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

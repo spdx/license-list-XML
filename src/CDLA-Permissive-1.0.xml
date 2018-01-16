@@ -5,6 +5,7 @@
     <crossRefs>
       <crossRef>https://cdla.io/permissive-1-0</crossRef>
     </crossRefs>
+    <text>
     <titleText>
       <p>
         Community Data License Agreement - Permissive - Version 1.0
@@ -322,5 +323,6 @@
         </list>
       </item>
     </list>
+    </text>
   </license>
 </SPDXLicenseCollection>

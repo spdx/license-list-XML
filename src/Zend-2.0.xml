@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://web.archive.org/web/20130517195954/http://www.zend.com/license/2_00.txt</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>The Zend Engine License, version 2.00</p>
       </titleText>
@@ -59,6 +60,6 @@
        ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
        OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
        DAMAGE.</p>
-  
+    </text>
    </license>
 </SPDXLicenseCollection>

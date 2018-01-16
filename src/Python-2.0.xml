@@ -5,6 +5,7 @@
          <crossRef>http://www.opensource.org/licenses/Python-2.0</crossRef>
       </crossRefs>
       <notes>This is the overall Python license, which is comprised of several licenses.</notes>
+    <text>
       <titleText>
          <p>PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2</p>
       </titleText>
@@ -213,6 +214,6 @@
          LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
          LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
          ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

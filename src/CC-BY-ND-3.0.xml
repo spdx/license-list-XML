@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://creativecommons.org/licenses/by-nd/3.0/legalcode</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Creative Commons Attribution-NoDerivs 3.0 Unported</p>
       </titleText>
@@ -333,6 +334,6 @@
          request from time to time. For the avoidance of doubt, this trademark restriction does not form part
          of this License.</p>
       <p>Creative Commons may be contacted at http://creativecommons.org/.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

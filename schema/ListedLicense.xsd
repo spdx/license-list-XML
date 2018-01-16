@@ -17,18 +17,11 @@
 		</choice>
 	</complexType>
 	<complexType name="ExceptionType" mixed="true">
-		<choice minOccurs="1" maxOccurs="unbounded">
+		<all>
 			<element name="crossRefs" type="tns:crossRefsType" minOccurs="0" maxOccurs="1"/>
 			<element name="notes" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1"/>
-			<element name="titleText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
-			<element name="copyrightText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
-			<element name="bullet" type="string"/>
-			<element name="list" type="tns:listType"/>
-			<element name="p" type="tns:formattedAltTextType"/>
-			<element name="optional" type="tns:optionalType"/>
-			<element name="alt" type="tns:altType"/>
-			<element name="br" type="tns:emptyType"/>
-		</choice>
+			<element name="text" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
+		</all>
 		<attribute name="licenseId" type="string" use="required" />
 		<attribute name="isDeprecated" type="boolean"/>
 		<attribute name="name" type="string" use="required" />
@@ -36,22 +29,14 @@
 		<attribute name="deprecatedVersion" type="string"/>
 	</complexType>
 	<complexType name="LicenseType" mixed="true">
-		<choice minOccurs="1" maxOccurs="unbounded">
+		<all>
 			<element name="crossRefs" type="tns:crossRefsType" minOccurs="0" maxOccurs="1"/>
 			<element name="notes" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1"/>
 			<element name="standardLicenseHeader" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
-			<element name="titleText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
-			<element name="copyrightText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
-			<element name="bullet" type="string"/>
-			<element name="list" type="tns:listType"/>
-			<element name="p" type="tns:formattedAltTextType"/>
-			<element name="optional" type="tns:optionalType"/>
-			<element name="alt" type="tns:altType"/>
-			<element name="br" type="tns:emptyType"/>
-		</choice>
+			<element name="text" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
+		</all>
 		<attribute name="licenseId" type="string" use="required" />
 		<attribute name="isOsiApproved" type="boolean"/>
-		<attribute name="isFsfLibre" type="boolean"/>
 		<attribute name="isDeprecated" type="boolean"/>
 		<attribute name="name" type="string" use="required" />
 		<attribute name="listVersionAdded" type="string"/>

@@ -5,6 +5,7 @@
          <crossRef>http://www.opensource.org/licenses/CNRI-Python</crossRef>
       </crossRefs>
       <notes>CNRI portion of the multi-part Python License (Python-2.0)</notes>
+    <text>
       <titleText>
          <p>CNRI OPEN SOURCE LICENSE AGREEMENT</p>
       </titleText>
@@ -79,5 +80,6 @@
       </list>
     
       <p>ACCEPT</p>
+    </text>
   </license>
 </SPDXLicenseCollection>

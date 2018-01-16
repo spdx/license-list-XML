@@ -5,6 +5,7 @@
          <crossRef>http://old.zope.org/Resources/License/ZPL-2.0</crossRef>
          <crossRef>http://opensource.org/licenses/ZPL-2.0</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Zope Public License (ZPL) Version 2.0</p>
       </titleText>
@@ -61,5 +62,6 @@
          <p>This software consists of contributions made by Zope Corporation and many individuals on behalf of Zope
          Corporation. Specific attributions are listed in the accompanying credits file.</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

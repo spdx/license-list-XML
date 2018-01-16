@@ -6,6 +6,7 @@
       </crossRefs>
       <notes>This license is the same as MIT, but with a choice of law clause. This License has been voluntarily
          deprecated by its author.</notes>
+    <text>
       <titleText>
          <p>The X.Net, Inc. License</p>
       </titleText>
@@ -27,6 +28,6 @@
          SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
       <p>This agreement shall be governed in all respects by the laws of the State of California and by the laws
          of the United States of America.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

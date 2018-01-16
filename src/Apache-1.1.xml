@@ -6,11 +6,12 @@
          <crossRef>http://opensource.org/licenses/Apache-1.1</crossRef>
       </crossRefs>
       <notes>This license has been superseded by Apache License 2.0</notes>
+    <text>
       <titleText>
          <p>Apache License 1.1</p>
       </titleText>
       <copyrightText>
-         <p>Copyright (c) 2000 The Apache Software Foundation. All rights reserved.</p>
+         <p>Copyright (c) <alt name="copyright" match=".+">2000 The Apache Software Foundation</alt>. All rights reserved.</p>
       </copyrightText>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
        that the following conditions are met:</p>
@@ -73,5 +74,6 @@
        written at the National Center for Supercomputing Applications, University of Illinois,
       Urbana-Champaign.</optional>
       </p>
+    </text>
   </license>
 </SPDXLicenseCollection>

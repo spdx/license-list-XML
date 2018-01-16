@@ -17,6 +17,7 @@
     one that includes a double-disclaimer. That is acceptable, as long as it remains impossible to construct a non-OSD-compliant 
     license that matches the pattern.
   </notes>
+    <text>
       <titleText>
          <p>Historical Permission Notice and Disclaimer</p>
       </titleText>
@@ -44,6 +45,6 @@
            OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, 
            NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</p>
       </optional>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

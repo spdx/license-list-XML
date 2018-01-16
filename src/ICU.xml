@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://source.icu-project.org/repos/icu/icu/trunk/license.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>ICU License - ICU 1.8.1 and later</p>
          <p>COPYRIGHT AND PERMISSION NOTICE</p>
@@ -30,6 +31,6 @@
       <p>Except as contained in this notice, the name of a copyright holder shall not be used in advertising or
          otherwise to promote the sale, use or other dealings in this Software without prior written
          authorization of the copyright holder.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

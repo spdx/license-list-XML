@@ -5,6 +5,7 @@
          <crossRef>http://doc.qt.nokia.com/3.3/license.html</crossRef>
          <crossRef>http://www.opensource.org/licenses/QPL-1.0</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>THE Q PUBLIC LICENSE version 1.0</p>
       </titleText>
@@ -119,6 +120,6 @@
          WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</p>
       <p>Choice of Law</p>
       <p>This license is governed by the Laws of Norway. Disputes shall be settled by Oslo City Court.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -7,7 +7,7 @@
       </crossRefs>
       <notes>Typically used with GPL-2.0
   </notes>
-    
+    <text>
       <p>As a special exception, the Free Software Foundation gives
          unlimited permission to copy, distribute and modify the
          configure scripts that are the output of Autoconf. You need
@@ -35,6 +35,6 @@
          portions to the data portions.) If your modification has such
          potential, you must delete any notice of this special
          exception to the GPL from your modified version.</p>
-    
+    </text>
   </exception>
 </SPDXLicenseCollection>

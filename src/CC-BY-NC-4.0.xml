@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://creativecommons.org/licenses/by-nc/4.0/legalcode</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p><optional>Creative Commons </optional>Attribution-NonCommercial 4.0 International</p>
       </titleText>
@@ -469,6 +470,6 @@
             licenses or any other arrangements, understandings, or agreements concerning use of licensed material.
             For the avoidance of doubt, this paragraph does not form part of the public licenses.</p>
         <p>Creative Commons may be contacted at creativecommons.org.</p>
-
+    </text>
     </license>
 </SPDXLicenseCollection>

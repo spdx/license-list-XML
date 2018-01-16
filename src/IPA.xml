@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/IPA</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>IPA Font License Agreement v1.0</p>
       </titleText>
@@ -240,6 +241,6 @@
           This Agreement shall be construed under the laws of Japan.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

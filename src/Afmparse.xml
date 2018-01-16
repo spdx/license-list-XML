@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Afmparse</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>(C) 1988, 1989 by Adobe Systems Incorporated. All rights reserved.</p>
       </copyrightText>
@@ -25,6 +26,6 @@
          RESPONSIBILITY OR LIABILITY FOR ANY ERRORS OR INACCURACIES, MAKES NO WARRANTY OF ANY KIND (EXPRESS,
          IMPLIED OR STATUTORY) WITH RESPECT TO THIS INFORMATION, AND EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES
          OF MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSES AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -7,6 +7,7 @@
       </crossRefs>
       <notes>Norwegian translation available here:
          http://data.norge.no/nlod/no/1.0</notes>
+    <text>
       <titleText>
          <p>Norwegian Licence for Open Government Data (NLOD)</p>
       </titleText>
@@ -296,5 +297,6 @@
          claim at other competent legal venues and/or based on the laws
          of the country where the intellectual property rights are
          sought enforced.</p>
+    </text>
   </license>
 </SPDXLicenseCollection>

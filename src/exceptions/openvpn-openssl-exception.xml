@@ -5,6 +5,7 @@
          <crossRef>http://openvpn.net/index.php/license.html</crossRef>
       </crossRefs>
       <notes>Typically used with GPL 2.0</notes>
+    <text>
       <titleText>
          <p>Special exception for linking OpenVPN with OpenSSL:</p>
       </titleText>
@@ -18,5 +19,6 @@
          exception to your version of the file, but you are not
          obligated to do so. If you do not wish to do so, delete this
          exception statement from your version.</p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

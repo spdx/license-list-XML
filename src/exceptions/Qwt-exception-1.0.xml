@@ -5,6 +5,7 @@
          <crossRef>http://qwt.sourceforge.net/qwtlicense.html</crossRef>
       </crossRefs>
       <notes>Specified to be associated with LGPL-2.1.  On Fedora List as "Qwt License 1.0".</notes>
+    <text>
       <titleText>
          <p>Qwt License Version 1.0,
         <br/>January 1, 2003
@@ -45,5 +46,6 @@
          documentation to satisfy this requirement: [program/widget] is
          based in part on the work of the Qwt project
          (http://qwt.sf.net)."</p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

@@ -7,6 +7,7 @@
       </crossRefs>
       <notes>This is same as BSD-3-Clause but with explicit statement as to no patent rights granted in last
          paragraph.</notes>
+    <text>
       <titleText>
          <p>The Clear BSD License</p>
       </titleText>
@@ -54,6 +55,6 @@
         TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
         ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

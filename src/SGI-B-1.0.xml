@@ -33,6 +33,7 @@
          </p>
       </standardLicenseHeader>
       <notes>This license was released 25 January 2000</notes>
+    <text>
       <titleText>
          <p>SGI FREE SOFTWARE LICENSE B 
         <br/>(Version 1.0 1/25/2000) 
@@ -325,5 +326,6 @@
             <optional>]</optional>
          </p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

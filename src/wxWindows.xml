@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license licenseId="wxWindows" name="wxWindows Library License"  isDeprecated="true" deprecatedVersion="2.0rc2">
-   <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/WXwindows</crossRef>
       </crossRefs>
-      <notes>Typically used with GPL-2.0+
+   <notes>
+     <p>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</p>
+     <p>Typically used with GPL-2.0+.</p>
   </notes>
+    <text>
       <p>EXCEPTION NOTICE</p>
       <list>
         <item>
@@ -48,5 +50,6 @@
              accordingly.
         </item>
       </list>
+    </text>
   </license>
 </SPDXLicenseCollection>

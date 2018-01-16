@@ -24,6 +24,7 @@
       been superseded by LGPL v2.1 This refers to when this
       LGPL 2.0 only is being used (as opposed to "or later).
     </notes>
+    <text>
     <titleText>
       <p>
         GNU LIBRARY GENERAL PUBLIC LICENSE
@@ -633,5 +634,6 @@
         That's all there is to it!
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

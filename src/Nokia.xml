@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/nokia</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Nokia Open Source License (NOKOS License)</p>
          <p>Version 1.0a</p>
@@ -446,5 +447,6 @@
          <p>Copyright © &lt;year&gt; Nokia and others. All Rights Reserved.</p>
          <p>Contributor(s): ______________________________________.</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

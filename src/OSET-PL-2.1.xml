@@ -6,6 +6,7 @@
          <crossRef>http://opensource.org/licenses/OPL-2.1</crossRef>
          <crossRef>http://www.osetfoundation.org/public-license</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>OSET Public License</p>
       </titleText>
@@ -623,5 +624,6 @@
                   <p>This Source Code Form is "Incompatible With Secondary Licenses",
             	      as defined by the OSET Public License, v.2.1.</p>
 	     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

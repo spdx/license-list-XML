@@ -5,6 +5,7 @@
          <crossRef>http://www.sendmail.com/pdfs/open_source/sendmail_license.pdf</crossRef>
          <crossRef>https://web.archive.org/web/20160322142305/https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>SENDMAIL LICENSE</p>
       </titleText>
@@ -110,5 +111,6 @@
       <optional>
          <p>$Revision: 8.16 $, Last updated $Date: 2010/10/25 23:11:19 $, Document 139848.1</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

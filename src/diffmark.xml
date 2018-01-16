@@ -4,7 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/diffmark</crossRef>
       </crossRefs>
-    
+    <text>
       <list>
         <item>
             <bullet>1.</bullet>
@@ -15,6 +15,6 @@
           I refuse any responsibility for the consequences
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

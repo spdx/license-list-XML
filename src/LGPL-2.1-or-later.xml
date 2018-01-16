@@ -29,6 +29,7 @@
     <notes>
       This license was released: February 1999.
     </notes>
+    <text>
     <titleText>
       <p>
         GNU LESSER GENERAL PUBLIC LICENSE
@@ -655,5 +656,6 @@
         That's all there is to it!
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

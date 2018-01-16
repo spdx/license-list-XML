@@ -5,6 +5,7 @@
          <crossRef>http://opensource.org/licenses/RPL-1.1</crossRef>
       </crossRefs>
       <notes>This license has been superseded by the Reciprocal Public License, version 1.5</notes>
+    <text>
       <titleText>
          <p>Reciprocal Public License, version 1.1</p>
       </titleText>
@@ -672,5 +673,6 @@
          QUIET ENJOYMENT, OR NON-INFRINGEMENT. See the Licenses for specific language governing rights and
          limitations under the Licenses.</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

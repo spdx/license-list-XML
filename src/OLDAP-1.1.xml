@@ -6,6 +6,7 @@
          <crossRef>http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=806557a5ad59804ef3a44d5abfbe91d706b0791f</crossRef>
       </crossRefs>
       <notes>This license was released 25 August 1998.</notes>
+    <text>
       <titleText>
          <p>The OpenLDAP Public License 
         <br/>Version 1.1, 25 August 1998 
@@ -145,5 +146,6 @@
       <optional>
          <p>The End</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

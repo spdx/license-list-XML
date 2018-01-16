@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Latex2e</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright (C) 2007, 2008, 2009, 2010 Karl Berry. 
         <br/>Copyright (C) 1988, 1994, 2007 Stephen Gilmore. 
@@ -18,6 +19,6 @@
          permission notice identical to this one.</p>
       <p>Permission is granted to copy and distribute translations of this manual into another language, under the
          above conditions for modified versions.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

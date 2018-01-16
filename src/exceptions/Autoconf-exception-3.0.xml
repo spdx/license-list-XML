@@ -5,6 +5,7 @@
          <crossRef>http://www.gnu.org/licenses/autoconf-exception-3.0.html</crossRef>
       </crossRefs>
       <notes>Typically used with GPL-3.0</notes>
+    <text>
       <titleText>
          <p>AUTOCONF CONFIGURE SCRIPT EXCEPTION
         <br/>Version 3.0, 18 August 2009</p>
@@ -60,5 +61,6 @@
             copyleft requirements of the license of Autoconf.</p>
          </item>
       </list>
+    </text>
   </exception>
 </SPDXLicenseCollection>

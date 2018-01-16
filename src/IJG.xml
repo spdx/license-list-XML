@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://dev.w3.org/cvsweb/Amaya/libjpeg/Attic/README?rev=1.2</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Independent JPEG Group License</p>
       </titleText>
@@ -85,6 +86,6 @@
         <br/>"The Graphics Interchange Format(c) is the Copyright property of CompuServe Incorporated.
              GIF(sm) is a Service Mark property of CompuServe Incorporated." 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

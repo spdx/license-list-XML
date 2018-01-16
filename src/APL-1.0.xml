@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/APL-1.0</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>ADAPTIVE PUBLIC LICENSE 
         <br/>Version 1.0 
@@ -1014,5 +1015,6 @@ ________________________________________________ <br/>
          </list>
 	        <p>//***EXHIBIT A ENDS HERE.***//</p>
       </optional>
+    </text>
     </license>
 </SPDXLicenseCollection>

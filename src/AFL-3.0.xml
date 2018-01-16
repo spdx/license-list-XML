@@ -8,6 +8,7 @@
       <standardLicenseHeader>
          Licensed under the Academic Free License version 3.0
       </standardLicenseHeader>
+    <text>
       <titleText>
          <p>Academic Free License ("AFL") v. 3.0</p>
       </titleText>
@@ -207,6 +208,6 @@
              and You comply with its license review and certification process.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

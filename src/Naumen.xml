@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/Naumen</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>NAUMEN Public License</p>
       </titleText>
@@ -53,6 +54,6 @@
          POSSIBILITY OF SUCH DAMAGE.</p>
       <p>This software consists of contributions made by NAUMEN and Contributors. Specific attributions are listed
          in the accompanying credits file.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

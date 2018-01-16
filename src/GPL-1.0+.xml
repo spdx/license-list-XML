@@ -15,8 +15,7 @@
          <p>You should have received a copy of the GNU General Public License along with
     this program; if not, write to the Free Software Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA. </p>
       </standardLicenseHeader>
-      <notes>This license was released: February 1989. This license has been deprecated. This refers to when this GPL 1.0
-         only is being used (as opposed to "or later).</notes>
+    <text>
       <titleText>
          <p>GNU GENERAL PUBLIC LICENSE 
         <br/>Version 1, February 1989 
@@ -236,5 +235,6 @@
          <p>&lt;signature of Ty Coon&gt;, 1 April 1989 Ty Coon, President of Vice</p>
          <p>That's all there is to it!</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>
