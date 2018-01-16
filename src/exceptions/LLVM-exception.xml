@@ -5,6 +5,7 @@
          <crossRef>http://lists.llvm.org/pipermail/llvm-dev/2017-August/116266.html</crossRef>
       </crossRefs>
       <notes>This exception was created specifically to be used with Apache-2.0</notes>
+	  <text>
 	  <titleText>
 		<p>
 		<optional>---- </optional>LLVM Exceptions to the Apache 2.0 License<optional> ----</optional>
@@ -24,5 +25,6 @@
       you may retroactively and prospectively choose to deem waived or 
       otherwise exclude such Section(s) of the License, but only in their 
       entirety and only with respect to the Combined Software.</p>
+	  </text>
   </exception>
 </SPDXLicenseCollection>
