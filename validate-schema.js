@@ -15,7 +15,11 @@ var fs = require('fs');
  */
 function validate(schema, file) {
 	var documentString = fs.readFileSync(file, 'utf8');
-	var validationErrors = schema.validate(documentString);
+	try {
+		var validationErrors = schema.validate(documentString);
+	} catch(error) {
+		return new Error('File ' + file + ': ' + error);
+	}
 	if (validationErrors) {
 		var errormsg = null;
 		validationErrors.forEach(function(error) {
