@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.mozilla.org/MPL/NPL/1.0/</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>NETSCAPE PUBLIC LICENSE 
         <br/>Version 1.0
@@ -467,5 +468,6 @@
              Modifications.] 
       </p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

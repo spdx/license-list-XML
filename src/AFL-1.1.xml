@@ -9,6 +9,7 @@
          Licensed under the Academic Free License version 1.1.
       </standardLicenseHeader>  
       <notes>This license has been superseded by later versions.</notes>
+    <text>
       <titleText>
          <p>Academic Free License</p>
          <p>Version 1.1</p>
@@ -76,6 +77,6 @@
       <p>This license is Copyright (C) 2002 Lawrence E. Rosen. All rights reserved.</p>
         <p>Permission is hereby granted to copy and distribute this license without modification. This license
              may not be modified without the express written permission of its copyright owner.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

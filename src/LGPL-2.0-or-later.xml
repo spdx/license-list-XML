@@ -24,6 +24,7 @@
       This license was released: June 1991. This license has
       been superseded by LGPL v2.1
     </notes>
+    <text>
     <titleText>
       <p>
         GNU LIBRARY GENERAL PUBLIC LICENSE
@@ -633,5 +634,6 @@
         That's all there is to it!
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

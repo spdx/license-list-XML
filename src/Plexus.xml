@@ -5,6 +5,7 @@
          <crossRef>https://fedoraproject.org/wiki/Licensing/Plexus_Classworlds_License</crossRef>
       </crossRefs>
       <notes>dom4j uses this same license.</notes>
+    <text>
       <copyrightText>
          <p>Copyright 
         <alt match=".+" name="copyright">2002 (C) The Codehaus</alt>. All Rights Reserved. 
@@ -63,6 +64,6 @@
         NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
         POSSIBILITY OF SUCH DAMAGE. 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

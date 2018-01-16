@@ -8,7 +8,7 @@
          choice has changed over time (from GPL originally, to BSD-2-Clause currently), so one needs to be
          aware of that change. The Ruby License itself is un-versioned, but has varied a bit over the years,
          the last substantive variation being in 2002.</notes>
-    
+    <text>
       <list>
         <item>
             <bullet>1.</bullet>
@@ -87,6 +87,6 @@
              PURPOSE.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -5,6 +5,7 @@
          <crossRef>http://geti2p.net/en/get-involved/develop/licenses#java_exception</crossRef>
       </crossRefs>
       <notes>Typically used with GPL-2.0+</notes>
+    <text>
       <p>In addition, as a special exception, 
         <alt match=".+" name="licensor">XXXX</alt> gives permission to
         link the code of this program with the proprietary Java
@@ -17,5 +18,6 @@
         wish to do so, delete this exception statement from your
         version.
       </p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

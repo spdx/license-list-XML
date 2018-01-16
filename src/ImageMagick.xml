@@ -14,6 +14,7 @@
          implied. See the License for the specific language governing permissions and limitations under the
          License.
   </notes>
+    <text>
       <optional>
          <p>Before we get to the text of the license, lets just review what the license says in simple terms:</p>
          <p>It allows you to:</p>
@@ -292,5 +293,6 @@
          implied. See the License for the specific language governing permissions and limitations under the
          License.</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

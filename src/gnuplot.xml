@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Gnuplot</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright 1986 - 1993, 1998, 2004 Thomas Williams, Colin Kelley</p>
       </copyrightText>
@@ -39,6 +40,6 @@
          distributions.</p>
       <p>This software is provided "as is" without express or implied warranty to the extent permitted
          by applicable law.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

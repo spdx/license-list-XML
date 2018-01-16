@@ -9,6 +9,7 @@
          licenses which are referred to in totality by the notices in
          the source files.</notes>
     
+    <text>
       <p>---- Part 1: CMU/UCD copyright notice: (BSD like) -----</p>
     
       <copyrightText>
@@ -382,6 +383,6 @@
          CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
          OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
          EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

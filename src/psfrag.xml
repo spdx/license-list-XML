@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/psfrag</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>psfrag.dtx</p>
       </titleText>
@@ -16,6 +17,6 @@
          implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Don't come complaining to us if
          you modify this file and it doesn't work! If this file is modified by anyone but the authors, those
          changes and their authors must be explicitly stated HERE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

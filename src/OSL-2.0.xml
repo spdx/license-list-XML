@@ -5,6 +5,7 @@
          <crossRef>http://web.archive.org/web/20041020171434/http://www.rosenlaw.com/osl2.0.html</crossRef>
       </crossRefs>
       <standardLicenseHeader>Licensed under the Open Software License version 2.0</standardLicenseHeader>
+    <text>
       <titleText>
          <p>Open Software Licensev. 2.0</p>
       </titleText>
@@ -192,6 +193,6 @@
       <p>This license is Copyright (C) 2003 Lawrence E. Rosen. All rights reserved. Permission is hereby granted
          to copy and distribute this license without modification. This license may not be modified without the
          express written permission of its copyright owner.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

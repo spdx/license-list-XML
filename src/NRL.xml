@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://web.mit.edu/network/isakmp/nrllicense.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>NRL License</p>
       </titleText>
@@ -81,6 +82,6 @@
       <p>The views and conclusions contained in the software and documentation are those of the authors and should
          not be interpreted as representing official policies, either expressed or implied, of the US Naval
          Research Laboratory (NRL).</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

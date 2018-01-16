@@ -6,6 +6,7 @@
       </crossRefs>
       <notes>Typically used with GPL-2.0 or GPL-3.0
   </notes>
+    <text>
       <titleText>
          <p>Bison Exception</p>
       </titleText>
@@ -21,5 +22,6 @@
          License without this special exception.</p>
       <p>This special exception was added by the Free Software Foundation
          in version 2.2 of Bison.</p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

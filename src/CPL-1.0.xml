@@ -5,6 +5,7 @@
          <crossRef>http://opensource.org/licenses/CPL-1.0</crossRef>
       </crossRefs>
       <notes>This license was superseded by Eclipse Public License</notes>
+    <text>
       <titleText>
          <p>Common Public License Version 1.0</p>
       </titleText>
@@ -234,6 +235,6 @@
          United States of America. No party to this Agreement will bring a legal action under this Agreement
          more than one year after the cause of action arose. Each party waives its rights to a jury trial in
          any resulting litigation.</p>
-
+    </text>
   </license>
 </SPDXLicenseCollection>

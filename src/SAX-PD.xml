@@ -4,7 +4,7 @@
       <crossRefs>
          <crossRef>http://www.saxproject.org/copying.html</crossRef>
       </crossRefs>
-    
+    <text>
       <p>Copyright Status</p>
       <p>SAX is free!</p>
       <p>In fact, it's not possible to own a license to SAX, since it's been placed in the public domain.</p>
@@ -41,6 +41,6 @@
       <p>David Megginson, Megginson Technologies Ltd. 
         <br/>2000-05-05 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

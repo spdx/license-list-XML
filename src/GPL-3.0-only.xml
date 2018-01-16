@@ -30,6 +30,7 @@
       This license was released: 29 June 2007 This refers to when
       this GPL 3.0 only is being used (as opposed to "or later).
     </notes>
+    <text>
     <titleText>
       <p>
         GNU GENERAL PUBLIC LICENSE<br></br>
@@ -851,5 +852,6 @@
 	&lt;http<optional>s</optional>://www.gnu.org/philosophy/why-not-lgpl.html&gt;.
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

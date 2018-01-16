@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/xpp</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>LICENSE FOR THE Extreme! Lab PullParser</p>
       </titleText>
@@ -57,6 +58,6 @@
          "WORMS", OR OTHER HARMFUL CODE. LICENSEE ASSUMES THE ENTIRE RISK AS TO THE PERFORMANCE OF SOFTWARE
          AND/OR ASSOCIATED MATERIALS, AND TO THE PERFORMANCE AND VALIDITY OF INFORMATION GENERATED USING
          SOFTWARE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

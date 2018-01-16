@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.unidata.ucar.edu/software/netcdf/copyright.html</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright 1993-2014 University Corporation for Atmospheric Research/Unidata</p>
       </copyrightText>
@@ -28,6 +29,6 @@
          DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF
          CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE ACCESS, USE OR
          PERFORMANCE OF THIS SOFTWARE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

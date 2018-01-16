@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://www.affero.org/oagpl.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>AFFERO GENERAL PUBLIC LICENSE
           <br/>Version 1, March 2002 </p>
@@ -272,5 +273,6 @@
              HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
         </item>
       </list>
+    </text>
   </license>
 </SPDXLicenseCollection>

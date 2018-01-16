@@ -6,6 +6,7 @@
       </crossRefs>
       <notes>This license was released 22 August 1998. This license was issued twice, but only with formatting
          differences.</notes>
+    <text>
       <titleText>
          <p>The Net Boolean Public License</p>
       </titleText>
@@ -144,5 +145,6 @@
       <optional>
          <p>The End</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

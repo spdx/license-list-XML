@@ -6,6 +6,7 @@
          <crossRef>http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=cd1284c4a91a8a380d904eee68d1583f989ed386</crossRef>
       </crossRefs>
       <notes>This license was released 8 December 2000.</notes>
+    <text>
       <titleText>
          <p>The OpenLDAP Public License 
         <br/>Version 2.4, 8 December 2000 
@@ -59,6 +60,6 @@
         <copyrightText>Copyright 1999-2000 The OpenLDAP Foundation, Redwood City, California, USA. All Rights Reserved.</copyrightText>
         Permission to copy and distributed verbatim copies of this document is granted.
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

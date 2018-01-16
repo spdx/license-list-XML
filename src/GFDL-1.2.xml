@@ -19,6 +19,7 @@
       and no Back-Cover Texts. A copy of the license is included
       in the section entitled "GNU Free Documentation License".
     </standardLicenseHeader>
+    <text>
     <titleText>
       <p>
         GNU Free Documentation License<br></br>
@@ -527,5 +528,6 @@
         General Public License, to permit their use in free software.
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.zimbra.com/license/yahoo_public_license_1.0.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Yahoo! Public License, Version 1.0 (YPL)</p>
       </titleText>
@@ -187,6 +188,6 @@
          party's right to take subsequent action.
       </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>https://github.com/robbiehanson/CocoaHTTPServer/blob/master/LICENSE.txt</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright (c) 
         <alt match=".+" name="copyright">2011, Deusty, LLC</alt>
@@ -50,6 +51,6 @@
         THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
         DAMAGE.
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

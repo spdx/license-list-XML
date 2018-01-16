@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/NLPL</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>NO LIMIT PUBLIC LICENSE</p>
          <p>Version 0, June 2012</p>
@@ -25,6 +26,6 @@
           No limit to do anything with this work and this license.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

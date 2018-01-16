@@ -6,6 +6,7 @@
       </crossRefs>
       <notes>Combines the Classpath exception with the Macros and Inline Functions
          exception.</notes>
+    <text>
       <p>Linking this library statically or dynamically with other modules
          is making a combined work based on this library. Thus, the
          terms and conditions of the GNU General Public License cover
@@ -29,5 +30,6 @@
          License. This exception does not however invalidate any other
          reasons why the executable file might be covered by the GNU
          General Public License.</p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

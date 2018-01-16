@@ -5,6 +5,7 @@
          <crossRef>http://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt</crossRef>
          <crossRef>http://www.opensource.org/licenses/OGTSL</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>The Open Group Test Suite License</p>
       </titleText>
@@ -109,5 +110,6 @@
       <optional>
          <p>The End</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

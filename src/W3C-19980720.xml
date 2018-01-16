@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://www.w3.org/Consortium/Legal/copyright-software-19980720.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>W3C® SOFTWARE NOTICE AND LICENSE</p>
       </titleText>
@@ -60,5 +61,6 @@
          materials from our site, including specific terms and conditions for packages like libwww, Amaya, and
          Jigsaw. Other questions about this notice can be directed to site-policy@w3.org.</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

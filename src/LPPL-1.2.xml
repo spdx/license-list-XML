@@ -13,6 +13,7 @@
     <alt match=".+" name="the work">the files pig.dtx and pig.ins</alt>
       </standardLicenseHeader>
       <notes>This license was released 3 Sept 1999.</notes>
+    <text>
       <titleText>
          <p>The LaTeX Project Public License 
         <br/>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 
@@ -273,5 +274,6 @@
          `.cfg') are examples of files bearing less restrictive conditions on the distribution of a
          modified version of the file. The additional conditions on LaTeX software given above are examples of
          declaring a category of files bearing exceptional additional conditions.</p>
+    </text>
   </license>
 </SPDXLicenseCollection>

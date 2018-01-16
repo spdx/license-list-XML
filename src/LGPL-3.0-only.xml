@@ -10,6 +10,7 @@
       This license was released: 29 June 2007. This refers to when
       this LGPL 3.0 only is being used (as opposed to "or later).
     </notes>
+    <text>
     <titleText>
       <p>
         GNU LESSER GENERAL PUBLIC LICENSE<br></br>
@@ -253,5 +254,6 @@
         </p>
       </item>
     </list>
+    </text>
   </license>
 </SPDXLicenseCollection>

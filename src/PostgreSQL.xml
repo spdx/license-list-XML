@@ -5,6 +5,7 @@
          <crossRef>http://www.postgresql.org/about/licence</crossRef>
          <crossRef>http://www.opensource.org/licenses/PostgreSQL</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>PostgreSQL Database Management System 
         <br/>(formerly known as Postgres, then as Postgres95) 
@@ -26,6 +27,6 @@
          IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE PROVIDED
          HEREUNDER IS ON AN "AS IS" BASIS, AND <alt match=".+" name="copyrightHolderAsIs">THE UNIVERSITY OF CALIFORNIA</alt> HAS NO OBLIGATIONS TO PROVIDE
          MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

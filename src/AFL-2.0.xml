@@ -8,6 +8,7 @@
       <standardLicenseHeader>
          <p>Licensed under the Academic Free License version 2.0</p>
       </standardLicenseHeader>
+    <text>
       <titleText>
          <p>The Academic Free License 
         <br/>v. 2.0 
@@ -188,5 +189,6 @@
         <br/>Permission is hereby granted to copy and distribute this license without modification. This license
              may not be modified without the express written permission of its copyright owner. 
       </p>
+    </text>
   </license>
 </SPDXLicenseCollection>

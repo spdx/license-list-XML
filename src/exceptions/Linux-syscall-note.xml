@@ -5,6 +5,7 @@
          <crossRef>https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/COPYING</crossRef>
       </crossRefs>
       <notes>This note is used with the Linux kernel to clarify how user space API files should be treated.</notes>
+    <text>
       <p> NOTE! This copyright does *not* cover user programs that use kernel
          services by normal system calls - this is merely considered normal use
          of the kernel, and does *not* fall under the heading of "derived work".
@@ -17,5 +18,6 @@
       v2.2 or v3.x or whatever), unless explicitly otherwise stated.</p>
 
       <p>Linus Torvalds</p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

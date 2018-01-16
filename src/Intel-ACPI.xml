@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Intel_ACPI_Software_License_Agreement</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>ACPI - Software License Agreement</p>
       </titleText>
@@ -139,6 +140,6 @@
             </list>
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

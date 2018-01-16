@@ -26,6 +26,7 @@
     <notes>
       This version was released: 19 November 2007
     </notes>
+    <text>
     <titleText>
       <p>
         GNU AFFERO GENERAL PUBLIC LICENSE<br></br>
@@ -849,5 +850,6 @@
 	&lt;http<optional>s</optional>://www.gnu.org/licenses/&gt;.
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

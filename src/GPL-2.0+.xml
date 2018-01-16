@@ -19,6 +19,7 @@
     this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
     02110-1301<optional>,</optional> USA.</p>
       </standardLicenseHeader>
+    <text>
       <titleText>
          <p>GNU GENERAL PUBLIC LICENSE
         <br/>Version 2, June 1991
@@ -305,5 +306,6 @@
          passes at compilers) written by James Hacker.</p>
          <p><optional>&lt;</optional>signature of Ty Coon<optional>&gt;</optional>, 1 April 1989 Ty Coon, President of Vice</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

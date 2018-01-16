@@ -8,6 +8,7 @@
      <p>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</p>
      <p>Typically used with GPL-2.0+.</p>
   </notes>
+    <text>
       <p>EXCEPTION NOTICE</p>
       <list>
         <item>
@@ -49,5 +50,6 @@
              accordingly.
         </item>
       </list>
+    </text>
   </license>
 </SPDXLicenseCollection>

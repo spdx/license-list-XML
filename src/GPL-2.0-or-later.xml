@@ -31,6 +31,7 @@
     <notes>
       This license was released: June 1991
     </notes>
+    <text>
     <titleText>
       <p>
         GNU GENERAL PUBLIC LICENSE<br></br>
@@ -465,5 +466,6 @@
 	1 April 1989 Ty Coon, President of Vice
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

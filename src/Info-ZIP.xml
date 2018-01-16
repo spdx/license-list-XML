@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.info-zip.org/license.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Info-ZIP License</p>
       </titleText>
@@ -64,6 +65,6 @@
              "Pocket Zip," and "MacZip" for its own source and binary releases.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

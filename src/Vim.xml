@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://vimdoc.sourceforge.net/htmldoc/uganda.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>VIM LICENSE</p>
       </titleText>
@@ -118,6 +119,6 @@
              license that they came with, at your option.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

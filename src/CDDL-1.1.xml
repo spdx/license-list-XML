@@ -8,6 +8,7 @@
       </crossRefs>
       <notes>Same as 1.0, but changes name from Sun to Oracle in section 4.1 and adds patent infringement termination
          clause (section 6.3)</notes>
+    <text>
       <titleText>
          <p>COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) 
         <br/>Version 1.1 
@@ -422,5 +423,6 @@
              the state courts of the State of California, with venue lying in Santa Clara County,
              California. 
       </p>
+    </text>
   </license>
 </SPDXLicenseCollection>

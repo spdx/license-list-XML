@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/BSD_Protection_License</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>BSD Protection License 
         <br/>February 2002 
@@ -162,6 +163,6 @@
          BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
          LIABILITY, OR TORT, EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
          DAMAGES.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

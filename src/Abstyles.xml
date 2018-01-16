@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Abstyles</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>This is APREAMBL.TEX, version 1.10e, written by Hans-Hermann Bode 
         <br/>(HHBODE@DOSUNI1.BITNET), for the BibTeX `adaptable' family, version 1.10. 
@@ -18,6 +19,6 @@
       <p>Permission is granted to copy and distribute modified versions of this document under the conditions for
          verbatim copying, provided that the entire resulting derived work is distributed under the terms of a
          permission notice identical to this one.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#CMU_Style</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright 1989, 1991, 1992 by Carnegie Mellon University</p>
          <p>Derivative Work - 1996, 1998-2000 Copyright 1996, 1998-2000 The Regents of the University of California</p>
@@ -21,6 +22,6 @@
          DAMAGES WHATSOEVER RESULTING FROM THE LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
          NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
          THIS SOFTWARE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

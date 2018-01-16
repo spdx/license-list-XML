@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://sam.zoy.org/wtfpl/COPYING</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
         <br/>Version 2, December 2004 
@@ -23,6 +24,6 @@
           You just DO WHAT THE FUCK YOU WANT TO.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

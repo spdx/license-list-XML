@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Bahyph</crossRef>
       </crossRefs>
+    <text>
       <optional>
          <p>COPYRIGHT NOTICE</p>
       </optional>
@@ -26,5 +27,6 @@
       <optional>
          <p>END OF COPYRIGHT NOTICE</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

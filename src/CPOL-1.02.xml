@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://www.codeproject.com/info/cpol10.aspx</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>The Code Project Open License (CPOL) 1.02</p>
       </titleText>
@@ -308,5 +309,6 @@
             </list>
         </item>
       </list>    
+    </text>
   </license>
 </SPDXLicenseCollection>

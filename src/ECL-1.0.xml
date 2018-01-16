@@ -9,6 +9,7 @@
     <alt match=".+" name="copyright">&lt;year&gt; &lt;copyright holders&gt;</alt> Licensed under the Educational
     Community License version 1.0 
   </standardLicenseHeader>
+    <text>
       <titleText>
          <p>The Educational Community License</p>
       </titleText>
@@ -42,5 +43,6 @@
          the Original or Derivative Works without specific, written prior permission. Title to copyright in the
          Original Work and any associated documentation will at all times remain with the copyright
          holders.</p>
+    </text>
   </license>
 </SPDXLicenseCollection>

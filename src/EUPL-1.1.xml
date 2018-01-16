@@ -9,6 +9,7 @@
       </crossRefs>
       <notes>This license was released: 16 May 2008 This license is available in the 22 official languages of the EU. The
          English version is included here.</notes>
+    <text>
       <titleText>
          <p>European Union Public Licence V. 1.1</p>
       </titleText>
@@ -331,6 +332,6 @@
                 Cecill v. 2.0
             </item>
         </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/DSDP</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>COPYRIGHT NOTIFICATION</p>
       </titleText>
@@ -38,6 +39,6 @@
              GOVERNMENT OR ANY AGENCY THEREOF. THE VIEW AND OPINIONS OF AUTHORS EXPRESSED HEREIN DO NOT
              NECESSARILY STATE OR REFLECT THOSE OF THE UNITED STATES GOVERNMENT OR ANY AGENCY THEREOF. 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/libtiff</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright (c) 1988-1997 Sam Leffler</p>
          <p>Copyright (c) 1991-1997 Silicon Graphics, Inc.</p>
@@ -20,6 +21,6 @@
          CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
          PROFITS, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY OF LIABILITY, ARISING
          OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

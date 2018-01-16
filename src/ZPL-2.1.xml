@@ -5,6 +5,7 @@
          <crossRef>http://old.zope.org/Resources/ZPL/</crossRef>
       </crossRefs>
       <notes>This is a generic version of the ZPL 2.0 license</notes>
+    <text>
       <titleText>
          <p>Zope Public License (ZPL) Version 2.1</p>
       </titleText>
@@ -54,6 +55,6 @@
          CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
          NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
          POSSIBILITY OF SUCH DAMAGE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

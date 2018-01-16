@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/TORQUEv1.1</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>TORQUE v2.5+ Software License v1.1</p>
       </titleText>
@@ -82,5 +83,6 @@
              should comply with the TORQUE license as well as the OpenPBS license. 
       </p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

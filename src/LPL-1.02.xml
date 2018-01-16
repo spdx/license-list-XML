@@ -5,6 +5,7 @@
          <crossRef>http://plan9.bell-labs.com/plan9/license.html</crossRef>
          <crossRef>http://www.opensource.org/licenses/LPL-1.02</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Lucent Public License Version 1.02</p>
       </titleText>
@@ -253,6 +254,6 @@
          any resulting litigation.</p>
          </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

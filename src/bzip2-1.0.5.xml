@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://bzip.org/1.0.5/bzip2-manual-1.0.5.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Version 1.0.5 of 10 December 2007</p>
       </titleText>
@@ -52,6 +53,6 @@
          However, I do not have the resources to carry out a patent search. Therefore I cannot give any
          guarantee of the above statement. 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

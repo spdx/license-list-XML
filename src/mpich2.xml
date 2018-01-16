@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/MIT</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>COPYRIGHT</p>
       </copyrightText>
@@ -29,6 +30,6 @@
          employees, makes any warranty express or implied, or assumes any legal liability or responsibility for
          the accuracy, completeness, or usefulness of any information, apparatus, product, or process
          disclosed, or represents that its use would not infringe privately owned rights.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

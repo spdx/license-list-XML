@@ -31,6 +31,7 @@
         &lt;http<optional>s</optional>://www.gnu.org/licenses/&gt;.
       </p>
     </standardLicenseHeader>
+    <text>
     <titleText>
       <p>
         GNU GENERAL PUBLIC LICENSE<br></br>
@@ -852,5 +853,6 @@
 	&lt;http<optional>s</optional>://www.gnu.org/philosophy/why-not-lgpl.html&gt;.
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

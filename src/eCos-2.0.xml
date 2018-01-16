@@ -5,6 +5,7 @@
          <crossRef>http://www.gnu.org/licenses/ecos-license.html</crossRef>
       </crossRefs>
       <notes>DEPRECATED: This is really GPL-2.0 or later with an exception. Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
+    <text>
       <titleText>The eCos license version 2.0</titleText>
      
 	     <p>This file is part of eCos, the Embedded Configurable Operating System. Copyright (C) 1998, 1999, 2000, 2001, 2002 Red Hat, Inc.</p>
@@ -18,5 +19,6 @@
       <optional>
 	        <p>####ECOSGPLCOPYRIGHTEND####</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

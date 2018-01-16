@@ -5,6 +5,7 @@
          <crossRef>http://directory.fedoraproject.org/wiki/GPL_Exception_License_Text</crossRef>
       </crossRefs>
       <notes>Specified to be associated with GPL-2.0</notes>
+    <text>
       <p>This Program is free software; you can redistribute it and/or
        modify it under the terms of the GNU General Public License as
        published by the Free Software Foundation; version 2 of the
@@ -39,5 +40,6 @@
        to provide this exception without modification, you must
        delete this exception statement from your version and license
        this file solely under the GPL without exception.</p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

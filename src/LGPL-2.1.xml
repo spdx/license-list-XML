@@ -30,6 +30,7 @@
         Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
       </p>
     </standardLicenseHeader>
+    <text>
     <titleText>
       <p>
         GNU LESSER GENERAL PUBLIC LICENSE
@@ -656,5 +657,6 @@
         That's all there is to it!
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

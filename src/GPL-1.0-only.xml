@@ -28,6 +28,7 @@
       This license was released: February 1989. This refers to when this GPL version
       1.0 only is being used (as opposed to "or later").
     </notes>
+    <text>
     <titleText>
       <p>
         GNU GENERAL PUBLIC LICENSE<br></br>
@@ -356,5 +357,6 @@
         That's all there is to it!
       </p>
     </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

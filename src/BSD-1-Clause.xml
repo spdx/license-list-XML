@@ -4,6 +4,7 @@
     <crossRefs>
       <crossRef>https://svnweb.freebsd.org/base/head/include/ifaddrs.h?revision=326823</crossRef>
     </crossRefs>
+    <text>
     <copyrightText>
       <p>
         Copyright (c) <alt name="copyright" match=".+">&lt;year&gt; &lt;owner&gt;</alt>
@@ -38,5 +39,6 @@
       NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
       THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     </p>
+    </text>
   </license>
 </SPDXLicenseCollection>

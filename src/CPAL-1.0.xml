@@ -37,6 +37,7 @@
     may use your version of this file under either the CPAL or the 
             <alt match=".+" name="licenseName">[____]</alt> License. </p>
   </standardLicenseHeader>
+    <text>
       <titleText>
          <p>Common Public Attribution License Version 1.0 (CPAL)</p>
       </titleText>
@@ -666,5 +667,6 @@
              the terms of the CPAL. 
       </p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/MirOS</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>MirOS License</p>
       </titleText>
@@ -92,5 +93,6 @@
             </list>
          </p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

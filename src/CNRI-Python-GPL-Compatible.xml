@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://www.python.org/download/releases/1.6.1/download_win/</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>CNRI OPEN SOURCE GPL-COMPATIBLE LICENSE AGREEMENT</p>
       </titleText>
@@ -84,5 +85,6 @@
       <optional>
          <p>ACCEPT</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

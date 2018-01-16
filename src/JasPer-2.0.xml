@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.ece.uvic.ca/~mdadams/jasper/LICENSE</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>JasPer License Version 2.0</p>
       </titleText>
@@ -52,5 +53,6 @@
       PHYSICAL OR ENVIRONMENTAL DAMAGE ("HIGH RISK ACTIVITIES"). THE COPYRIGHT HOLDERS SPECIFICALLY
       DISCLAIM ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES. 
       </p>
+    </text>
   </license>
 </SPDXLicenseCollection>
