@@ -1,8 +1,9 @@
 .DS_Store
-# Ignore all hidden files/dirs except .gitignore and .travis.yml
+# Ignore all hidden files/dirs except .gitignore, .travis and .travis.yml
 .*
 !/.gitignore
 !/.travis.yml
+!/.travis
 
 # nodeJS
 node_modules/
