@@ -1,5 +1,5 @@
 #!/bin/bash
-TOOLSJAR=spdx-tools-2.1.8-jar-with-dependencies.jar
+TOOLSJAR=spdx-tools-2.1.9-jar-with-dependencies.jar
 LICENSE_XML_DIR=./
 TEST_DIR=./test/original
 LICENSE_OUTPUT_DIR=.OUTPUTFILES
@@ -14,7 +14,7 @@ echo $IGNORE_WARNINGS > $WARNINGS_FILE
 # Test and generate the output files
 PUBLISH_CMD="LicenseRDFAGenerator $LICENSE_XML_DIR $LICENSE_OUTPUT_DIR $VERSION $RELEASE_DATE $TEST_DIR $WARNINGS_FILE"
 echo running SPDX Tool command $PUBLISH_CMD
-java -jar $TOOLSJAR $PUBLISH_CMD
+java -jar -DLocalFsfFreeJson=true $TOOLSJAR $PUBLISH_CMD
 rc=$?; if [[ $rc != 0 ]]; then exit $rc; fi
 rm $WARNINGS_FILE
 echo License list has been validated.

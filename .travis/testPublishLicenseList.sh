@@ -6,7 +6,7 @@ GIT_EMAIL="gary@sourceauditor.com"
 LICENSE_DATA_REPO="https://github.com/goneall/license-list-data.git"
 LICENSE_DATA_REPO_NO_SCHEME="${LICENSE_DATA_REPO#*://}"
 LICENSE_DATA_URL="https://${GITHUB_TOKEN}@${LICENSE_DATA_REPO_NO_SCHEME}"
-TOOLSJAR=spdx-tools-2.1.8-jar-with-dependencies.jar
+TOOLSJAR=spdx-tools-2.1.9-jar-with-dependencies.jar
 LICENSE_XML_DIR=./
 TEST_DIR=./test/original
 LICENSE_OUTPUT_DIR=.OUTPUTFILES
@@ -33,7 +33,7 @@ echo $IGNORE_WARNINGS > $WARNING_SFILE
 # Test and generate the output files
 PUBLISH_CMD="LicenseRDFAGenerator $LICENSE_XML_DIR $LICENSE_OUTPUT_DIR $VERSION $RELEASE_DATE $TEST_DIR $WARNING_SFILE"
 echo running SPDX Tool command $PUBLISH_CMD
-java -jar $TOOLSJAR $PUBLISH_CMD
+java -jar -DLocalFsfFreeJson=true $TOOLSJAR $PUBLISH_CMD
 rc=$?; if [[ $rc != 0 ]]; then exit $rc; fi
 rm $WARNING_SFILE
 cd $LICENSE_OUTPUT_DIR
