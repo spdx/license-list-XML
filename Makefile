@@ -1,9 +1,9 @@
-TOOL_VERSION = 2.1.8
+TOOL_VERSION = 2.1.9
 TEST_DATA = ../license-test-files
 
 .PHONY: validate-canonical-match
 validate-canonical-match: spdx-tools-$(TOOL_VERSION).jar-valid resources/licenses-full.json $(TEST_DATA) .tmp
-	java -jar spdx-tools-$(TOOL_VERSION).jar LicenseRDFAGenerator . .tmp 1.0 2000-01-01 $(TEST_DATA) expected-warnings
+	java -jar -DLocalFsfFreeJson=true spdx-tools-$(TOOL_VERSION).jar LicenseRDFAGenerator . .tmp 1.0 2000-01-01 $(TEST_DATA) expected-warnings
 
 .PRECIOUS: spdx-tools-%.jar
 spdx-tools-%.jar:
@@ -22,7 +22,7 @@ spdx-tools-%.jar-valid: spdx-tools-%.jar.asc spdx-tools-%.jar goneall.gpg
 
 resources/licenses-full.json: resources
 	echo '{}' >$@
-# the 2.1.8 tools choke on the current live version.
+# the 2.1.9 tools choke on the current live version.
 # https://github.com/wking/fsf-api/pull/9
 # https://github.com/wking/fsf-api/pull/10
 
