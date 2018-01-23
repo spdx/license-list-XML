@@ -10,10 +10,8 @@
          <p>AFFERO GENERAL PUBLIC LICENSE
           <br/>Version 1, March 2002 </p>
       </titleText>
-      <copyrightText>
-      Copyright © 2002 Affero Inc.
-      <br/> 510 Third Street - Suite 225, San Francisco, CA 94107, USA
-    </copyrightText>
+      <p>Copyright © 2002 Affero Inc.
+      <br/> 510 Third Street - Suite 225, San Francisco, CA 94107, USA</p>
       <p>This license is a modified version of the GNU General Public License copyright (C) 1989, 1991 Free
          Software Foundation, Inc. made with their permission. Section 2(d) has been added to cover use of
          software over a computer network.</p>
