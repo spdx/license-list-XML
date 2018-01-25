@@ -7,7 +7,7 @@
       <crossRef>http://www.opensource.org/licenses/GPL-3.0</crossRef>
     </crossRefs>
     <standardLicenseHeader>
-      Copyright (C)<alt name="copyright"
+      Copyright (C) <alt name="copyright"
       match=".+">&lt;year&gt; &lt;name of author&gt;</alt>
       <p>
         This program is free software: you can redistribute it and/or
