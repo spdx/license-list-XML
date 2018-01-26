@@ -1,4 +1,4 @@
-TOOL_VERSION = 2.1.10
+TOOL_VERSION = 2.1.11
 TEST_DATA = test/simpleTestForGenerator
 
 .PHONY: validate-canonical-match
