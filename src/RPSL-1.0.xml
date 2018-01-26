@@ -6,25 +6,6 @@
          <crossRef>https://helixcommunity.org/content/rpsl</crossRef>
          <crossRef>http://www.opensource.org/licenses/RPSL-1.0</crossRef>
       </crossRefs>
-      <standardLicenseHeader> Copyright © 1995-2002 RealNetworks, Inc. and/or its licensors. All Rights Reserved. The contents of this
-          file, and the files included with this file, are subject to the current version of the RealNetworks
-          Public Source License Version 1.0 (the "RPSL") available at
-          https://www.helixcommunity.org/content/rpsl unless you have licensed the file under the RealNetworks
-          Community Source License Version 1.0 (the "RCSL") available at
-          https://www.helixcommunity.org/content/rcsl, in which case the RCSL will apply. You may also obtain
-          the license terms directly from RealNetworks. You may not use this file except in compliance with
-          the RPSL or, if you have a valid RCSL with RealNetworks applicable to this file, the RCSL. Please
-          see the applicable RPSL or RCSL for the rights, obligations and limitations governing use of the
-          contents of the file. This file is part of the Helix DNA Technology. RealNetworks is the developer
-          of the Original code and owns the copyrights in the portions it created. This file, and the files
-          included with this file, is distributed and made available on an 'AS IS' basis, WITHOUT WARRANTY OF
-          ANY KIND, EITHER EXPRESS OR IMPLIED, AND REALNETWORKS HEREBY DISCLAIMS ALL SUCH WARRANTIES,
-          INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
-          QUIET ENJOYMENT OR NON-INFRINGEMENT. Contributor(s): 
-    <alt match=".+" name="contributor">_____</alt> Technology Compatibility Kit Test Suite(s) Location (if licensed
-    under the RCSL): 
-    <alt match=".+" name="testLocation">_____</alt>. 
-  </standardLicenseHeader>
     <text>
       <titleText>
          <p>RealNetworks Public Source License Version 1.0</p>
@@ -522,7 +503,8 @@
       
       <optional>
          <p>EXHIBIT A.</p>
-         <p>"Copyright (c) 1995-2002 RealNetworks, Inc. and/or its licensors. All Rights Reserved.</p>
+        <standardLicenseHeader>
+         <p><optional>"</optional>Copyright (c) 1995-2002 RealNetworks, Inc. and/or its licensors. All Rights Reserved.</p>
          <p>The contents of this file, and the files included with this file, are subject to the current version of
          the RealNetworks Public Source License Version 1.0 (the "RPSL") available at
          https://www.helixcommunity.org/content/rpsl unless you have licensed the file under the RealNetworks
@@ -538,9 +520,10 @@
          WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND REALNETWORKS HEREBY DISCLAIMS ALL SUCH
          WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
          PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT.</p>
-         <p>Contributor(s): ____________________________________</p>
-         <p>Technology Compatibility Kit Test Suite(s) Location (if licensed under the RCSL):</p>
-         <p>________________________________"</p>
+         <p>Contributor(s): <alt name="contributor" match=".+">____________________________________</alt></p>
+         <p>Technology Compatibility Kit Test Suite(s) Location (if licensed under the RCSL):
+         <alt match=".+" name="testLocation">_____</alt><optional>"</optional></p>
+         </standardLicenseHeader>
          <p>Object Code Notice: Helix DNA Client technology included. Copyright (c) RealNetworks, Inc., 1995-2002.
          All rights reserved.</p>
          <p>EXHIBIT B</p>

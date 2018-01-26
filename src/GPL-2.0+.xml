@@ -7,18 +7,6 @@
          <crossRef>http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</crossRef>
          <crossRef>http://www.opensource.org/licenses/GPL-2.0</crossRef>
       </crossRefs>
-      <standardLicenseHeader> Copyright (C)
-    <alt match=".+" name="copyright">yyyy name of author</alt>
-         <p>This program is free software; you can redistribute
-    it and/or modify it under the terms of the GNU General Public License as published by the Free Software
-    Foundation; version 2. </p>
-         <p>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
-    without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
-    Public License for more details. </p>
-         <p>You should have received a copy of the GNU General Public License along with
-    this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
-    02110-1301<optional>,</optional> USA.</p>
-      </standardLicenseHeader>
     <text>
       <titleText>
          <p>GNU GENERAL PUBLIC LICENSE
@@ -280,8 +268,9 @@
          <p>To do so, attach the following notices to the program. It is safest to attach them to the start of each
          source file to most effectively convey the exclusion of warranty; and each file should have at least
          the "copyright" line and a pointer to where the full notice is found.</p>
-         <p><optional>&lt;</optional>one line to give the program's name and an idea of what it does.<optional>&gt;</optional>
-         <br/>Copyright (C) <optional>&lt;</optional>yyyy<optional>&gt;</optional> <optional>&lt;</optional>name of author<optional>&gt;</optional></p>
+         <standardLicenseHeader>
+         <p><alt name="description" match=".+">&lt;one line to give the program's name and an idea of what it does.&gt;</alt><br/>
+         Copyright (C) <alt name="copyright" match=".+">&lt;yyyy&gt; &lt;name of author&gt;</alt></p>
          <p>This program is free software; you can redistribute it and/or modify it under the terms of the GNU
          General Public License as published by the Free Software Foundation; either version 2 of the License,
          or (at your option) any later version.</p>
@@ -289,8 +278,9 @@
          the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
          Public License for more details.</p>
          <p>You should have received a copy of the GNU General Public License along with this program; if not, write
-         to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301<optional>,</optional> USA.
-         Also add information on how to contact you by electronic and paper mail.</p>
+         to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301<optional>,</optional> USA.</p>
+         </standardLicenseHeader>
+         <p>Also add information on how to contact you by electronic and paper mail.</p>
          <p>If the program is interactive, make it output a short notice like this when it starts in an interactive
          mode:</p>
          <p>Gnomovision version 69, Copyright (C) year name of author Gnomovision comes with ABSOLUTELY NO WARRANTY;

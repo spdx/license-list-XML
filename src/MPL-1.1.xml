@@ -5,28 +5,6 @@
          <crossRef>http://www.mozilla.org/MPL/MPL-1.1.html</crossRef>
          <crossRef>http://www.opensource.org/licenses/MPL-1.1</crossRef>
       </crossRefs>
-      <standardLicenseHeader> The contents of this file are subject to the Mozilla Public License Version 1.1 (the "License");
-          you may not use this file except in compliance with the License. You may obtain a copy of the
-          License at http://www.mozilla.org/MPL/ Software distributed under the License is distributed on an
-          "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-          for the specific language governing rights and limitations under the License. The Original Code is 
-    <alt match=".+" name="code">_____</alt>. The Initial Developer of the Original Code is 
-    <alt match=".+" name="InitialDeveloper">_____</alt>. Portions created by 
-    <alt match=".+" name="createdby">_____</alt> are Copyright (C) 
-    <alt match=".+" name="copyright">_____</alt>. All Rights Reserved. Contributor(s): 
-    <alt match=".+" name="contributor">_____</alt>. Alternatively, the contents of this file may be used under the
-    terms of the 
-    <alt match=".+" name="AltLicense">_____</alt> license (the " 
-    <alt match=".+" name="licenseName">[____]</alt> License"), in which case the provisions of 
-    <alt match=".+" name="licenseName">[____]</alt> License are applicable instead of those above. If you wish to
-    allow use of your version of this file only under the terms of the 
-    <alt match=".+" name="licenseName">[____]</alt> License and not to allow others to use your version of this file
-    under the MPL, indicate your decision by deleting the provisions above and replace them with the notice and
-    other provisions required by the 
-    <alt match=".+" name="licenseName">[____]</alt> License. If you do not delete the provisions above, a recipient
-    may use your version of this file under either the MPL or the 
-    <alt match=".+" name="licenseName">[____]</alt>] License." 
-  </standardLicenseHeader>
       <notes>This license has been superseded by v2.0</notes>
     <text>
       <titleText>
@@ -537,25 +515,26 @@
     
       <optional>
          <p>Exhibit A - Mozilla Public License.</p>
-         <p>"The contents of this file are subject to the Mozilla Public License Version 1.1 (the
+         <standardLicenseHeader>
+         <p><optional>"</optional>The contents of this file are subject to the Mozilla Public License Version 1.1 (the
          "License"); you may not use this file except in compliance with the License. You may obtain
          a copy of the License at http://www.mozilla.org/MPL/</p>
          <p>Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF
          ANY KIND, either express or implied. See the License for the specific language governing rights and
          limitations under the License.</p>
-         <p>The Original Code is ______________________________________.</p>
-         <p>The Initial Developer of the Original Code is ________________________. 
-        <br/>Portions created by ______________________ are Copyright (C) ______ 
-        <br/>_______________________. All Rights Reserved. 
+         <p>The Original Code is <alt name="code" match=".+">______________________________________</alt>.</p>
+         <p>The Initial Developer of the Original Code is <alt name="initialDeveloper" match=".+">________________________</alt>.
+        <br/>Portions created by <alt name="creator" match=".+">______________________</alt> are Copyright (C) <alt name="copyright" match=".+">______</alt>. All Rights Reserved.
       </p>
-         <p>Contributor(s): ______________________________________.</p>
-         <p>Alternatively, the contents of this file may be used under the terms of the _____ license (the
-         "[___] License"), in which case the provisions of [______] License are applicable instead of
-         those above. If you wish to allow use of your version of this file only under the terms of the [____]
+         <p>Contributor(s): <alt name="contributor" match=".+">______________________________________</alt>.</p>
+         <p>Alternatively, the contents of this file may be used under the terms of the <alt name="altLicense" match=".+">_____</alt> license (the
+         "<alt name="altLicenseShort1" match=".+">[___]</alt> License"), in which case the provisions of <alt name="altLicenseShort2" match=".+">[______]</alt> License are applicable instead of
+         those above. If you wish to allow use of your version of this file only under the terms of the <alt name="altLicenseShort3" match=".+">[____]</alt>
          License and not to allow others to use your version of this file under the MPL, indicate your decision
          by deleting the provisions above and replace them with the notice and other provisions required by the
-         [___] License. If you do not delete the provisions above, a recipient may use your version of this
-         file under either the MPL or the [___] License."</p>
+         <alt name="altLicenseShort4" match=".+">[___]</alt> License. If you do not delete the provisions above, a recipient may use your version of this
+         file under either the MPL or the <alt name="altLicenseShort5" match=".+">[___]</alt> License.<optional>"</optional></p>
+         </standardLicenseHeader>
          <p>NOTE: The text of this Exhibit A may differ slightly from the text of the notices in the Source Code
          files of the Original Code. You should use the text of this Exhibit A rather than the text found in
          the Original Code Source Code for Your Modifications.</p>

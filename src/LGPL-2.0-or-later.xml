@@ -5,21 +5,6 @@
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html</crossRef>
     </crossRefs>
-    <standardLicenseHeader>
-      Copyright (C) <alt name="copyright" match=".+">year name of author</alt>
-      <p>This library is free software; you can redistribute it and/or modify it
-      under the terms of the GNU Library General Public License as published
-        by the Free Software Foundation; version 2 or any later version.</p> 
-      <p>This
-      library is distributed in the hope that it will be useful, but WITHOUT ANY
-      WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
-      FOR A PARTICULAR PURPOSE. See the GNU Library General Public License for
-        more details.</p>  
-      <p>You should have received a copy of the GNU Library General
-      Public License along with this library; if not, write to the Free Software
-      Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA.
-      </p>
-    </standardLicenseHeader>
     <notes>
       This license was released: June 1991. This license has
       been superseded by LGPL v2.1
@@ -590,10 +575,11 @@
         warranty; and each file should have at least the "copyright"
         line and a pointer to where the full notice is found.
       </p>
+      <standardLicenseHeader>
       <p>
-        one line to give the library's name
-        and an idea of what it does.<br></br>
-        Copyright (C) year name of author
+        <alt name="description" match=".+">one line to give the library's name
+        and an idea of what it does.</alt><br/>
+        Copyright (C) <alt name="copyright" match=".+">year name of author</alt>
       </p>
       <p>
         This library is free software; you can redistribute it and/or
@@ -613,6 +599,7 @@
         not, write to the Free Software Foundation, Inc., 51
         Franklin St, Fifth Floor, Boston, MA 02110-1301, USA.
       </p>
+      </standardLicenseHeader>
       <p>
         Also add information on how to contact you by electronic and paper mail.
       </p>
