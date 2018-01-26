@@ -1,5 +1,5 @@
 TOOL_VERSION = 2.1.9
-TEST_DATA = ../license-test-files
+TEST_DATA = test/simpleTestForGenerator
 
 .PHONY: validate-canonical-match
 validate-canonical-match: spdx-tools-$(TOOL_VERSION).jar-valid resources/licenses-full.json $(TEST_DATA) .tmp
