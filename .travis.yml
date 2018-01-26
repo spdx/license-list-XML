@@ -2,7 +2,7 @@ matrix:
   include:
     - language: java
       script:
-        - make TEST_DATA=test/simpleTestForGenerator validate-canonical-match
+        - make validate-canonical-match
     - language: node_js
       node_js:
       - "node"

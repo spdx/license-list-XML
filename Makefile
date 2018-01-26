@@ -1,9 +1,9 @@
 TOOL_VERSION = 2.1.9
-TEST_DATA = ../license-test-files
+TEST_DATA = test/simpleTestForGenerator
 
 .PHONY: validate-canonical-match
 validate-canonical-match: spdx-tools-$(TOOL_VERSION).jar-valid resources/licenses-full.json $(TEST_DATA) .tmp
-	java -jar -DLocalFsfFreeJson=true spdx-tools-$(TOOL_VERSION).jar LicenseRDFAGenerator . .tmp 1.0 2000-01-01 $(TEST_DATA) expected-warnings
+	java -jar -DLocalFsfFreeJson=true spdx-tools-$(TOOL_VERSION).jar LicenseRDFAGenerator src .tmp 1.0 2000-01-01 $(TEST_DATA) expected-warnings
 
 .PRECIOUS: spdx-tools-%.jar
 spdx-tools-%.jar:
