@@ -19,7 +19,7 @@
          OR THE INFORMATION OR WORKS PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE
          USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER.</p>
       </optional>
-    
+
       <p>Statement of Purpose</p>
       <p>The laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related
          Rights (defined below) upon the creator and subsequent owner(s) (each and all, an "owner")
@@ -61,7 +61,7 @@
                  in paragraph 4(a), below;
             </item>
                <item>
-                  <bullet>v.</bullet> 
+                  <bullet>v.</bullet>
               rights protecting the extraction, dissemination, use and reuse of data in a Work;
             </item>
                <item>
@@ -147,7 +147,7 @@
             </list>
         </item>
       </list>
-      <alt match="For more information, please see <http://creativecommons.org/publicdomain/zero/1.0/>" name="upstreamLink"></alt>
+      <alt match="For more information, please see &lt;http://creativecommons.org/publicdomain/zero/1.0/>" name="upstreamLink"></alt>
     </text>
   </license>
 </SPDXLicenseCollection>
