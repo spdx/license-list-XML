@@ -5,12 +5,8 @@
       <crossRefs>
          <crossRef>http://www.latex-project.org/lppl/lppl-1-0.txt</crossRef>
       </crossRefs>
-      <standardLicenseHeader> Copyright 
-    <alt match=".+" name="copyright">2001 M. Y. Name</alt> This program can redistributed and/or modified under the
-    terms of the LaTeX Project Public License Distributed from CTAN archives in directory
-    macros/latex/base/lppl.txt; either version 1 of the License, or (at your option) any later version. 
-  </standardLicenseHeader>
       <notes>This license was released 1 Mar 1999</notes>
+    <text>
       <titleText>
          <p>LaTeX Project Public License</p>
          <p>LPPL Version 1.0 1999-03-01</p>
@@ -30,12 +26,15 @@
       <p>To use this license, the files of your distribution should have an explicit copyright notice giving your
          name and the year, together with a reference to this license.</p>
       <p>A typical example would be</p>
-      <p>%% pig.sty %% Copyright 2001 M. Y. Name</p>
-      <p>% This program can redistributed and/or modified under the terms 
-        <br/>% of the LaTeX Project Public License Distributed from CTAN 
-        <br/>% archives in directory macros/latex/base/lppl.txt; either 
-        <br/>% version 1 of the License, or (at your option) any later version. 
+      <standardLicenseHeader>
+      <p><optional>%%</optional> <alt name="filename" match=".+">pig.sty</alt>
+      <br/><optional>%%</optional> Copyright <alt name="copyright" match=".+">2001 M. Y. Name</alt></p>
+      <p>% This program can redistributed and/or modified under the terms
+        <br/><optional>%</optional> of the LaTeX Project Public License Distributed from CTAN
+        <br/><optional>%</optional> archives in directory macros/latex/base/lppl.txt; either
+        <br/><optional>%</optional> version 1 of the License, or (at your option) any later version.
       </p>
+      </standardLicenseHeader>
       <p>Given such a notice in the file, the conditions of this document would apply, with:</p>
       <p>`The Program' referring to the software `pig.sty' and `The Copyright Holder' referring to the person `M.
          Y. Name'.</p>
@@ -185,5 +184,6 @@
              meets these requirements.
         </item>
       </list>
+    </text>
   </license>
 </SPDXLicenseCollection>

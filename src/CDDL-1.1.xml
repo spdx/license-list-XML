@@ -4,9 +4,11 @@
             name="Common Development and Distribution License 1.1">
       <crossRefs>
          <crossRef>http://glassfish.java.net/public/CDDL+GPL_1_1.html</crossRef>
+         <crossRef>https://javaee.github.io/glassfish/LICENSE</crossRef>
       </crossRefs>
       <notes>Same as 1.0, but changes name from Sun to Oracle in section 4.1 and adds patent infringement termination
          clause (section 6.3)</notes>
+    <text>
       <titleText>
          <p>COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) 
         <br/>Version 1.1 
@@ -421,5 +423,6 @@
              the state courts of the State of California, with venue lying in Santa Clara County,
              California. 
       </p>
+    </text>
   </license>
 </SPDXLicenseCollection>

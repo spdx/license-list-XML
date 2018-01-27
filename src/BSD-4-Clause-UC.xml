@@ -9,12 +9,11 @@
          of California. Captures the retroactive deletion of the third (advertising) clause of the Original BSD
          license for BSD-licensed code developed by UC Berkeley and its contributors (see
          ftp://ftp.cs.berkeley.edu/pub/4bsd/README.Impt.License.Change)</notes>
+    <text>
       <titleText>
          <p>BSD-4-Clause (University of California-Specific)</p>
       </titleText>
-      <copyrightText>
-         <p>Copyright [various years] The Regents of the University of California. All rights reserved.</p>
-      </copyrightText>
+         <p>Copyright <alt match=".+" name="cyears">[various years]</alt> The Regents of the University of California. All rights reserved.</p>
     
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
@@ -50,6 +49,6 @@
          INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
          TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
          ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

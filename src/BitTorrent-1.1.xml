@@ -14,6 +14,7 @@
       under the License.</p>
       </standardLicenseHeader>
       <notes>Standard header seems to use wrong version number (this is how it appears on all references found.)</notes>
+    <text>
       <titleText>
          <p>BitTorrent Open Source License 
         <br/>Version 1.1 
@@ -477,8 +478,6 @@
           Glossary. All defined terms in this License that are used in more than one Section of this
              License are repeated here, in alphabetical order, for the convenience of the reader. The
              Section of this License in which each defined term is first used is shown in parentheses.
-        </item>
-      </list>
       <p>Contributor: Each person or entity who created or contributed to the creation of, and distributed, a
          Modification. (See Section 2)</p>
       <p>Derivative Works: That term as used in this License is defined under U.S. copyright law. (See Section 1(b))</p>
@@ -496,7 +495,8 @@
          and installation of an executable program, or a list of differential comparisons against the Source
          Code of the Licensed Product. (See Section 1(a))</p>
       <p>You: This term is defined in Section 14 of this License.</p>
-    
+        </item>
+   </list>
       <optional>
          <p>EXHIBIT A</p>
          <p>The Notice below must appear in each file of the Source Code of any copy you distribute of the Licensed
@@ -513,5 +513,6 @@
          under the License.</p>
          <p>BitTorrent, Inc.</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

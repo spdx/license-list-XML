@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.geuz.org/gl2ps/COPYING.GL2PS</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>GL2PS LICENSE Version 2, November 2003</p>
       </titleText>
@@ -29,6 +30,6 @@
         </item>
       </list>
       <p>This software is provided "as is" without express or implied warranty.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

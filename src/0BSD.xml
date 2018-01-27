@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://landley.net/toybox/license.html</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright (C) 2006 by Rob Landley &lt;rob@landley.net&gt;</p>
       </copyrightText>
@@ -15,6 +16,6 @@
          LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING
          FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS
          ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

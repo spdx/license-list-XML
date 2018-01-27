@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://www.sugarcrm.com/crm/SPL</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>SUGARCRM PUBLIC LICENSE</p>
       </titleText>
@@ -465,5 +466,6 @@
             </item>
          </list>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

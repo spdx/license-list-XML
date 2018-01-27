@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="BSD-2-Clause-FreeBSD"
-            name="BSD 2-clause FreeBSD License">
+            name="BSD 2-Clause FreeBSD License">
       <crossRefs>
          <crossRef>http://www.freebsd.org/copyright/freebsd-license.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>The FreeBSD Copyright</p>
       </titleText>
@@ -38,6 +39,6 @@
       <p>The views and conclusions contained in the software and documentation are those of the authors and should
          not be interpreted as representing official policies, either expressed or implied, of the FreeBSD
          Project.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -6,6 +6,7 @@
          <crossRef>http://otm.illinois.edu/uiuc_openSource</crossRef>
          <crossRef>http://www.opensource.org/licenses/NCSA</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>University of Illinois/NCSA Open Source License</p>
       </titleText>
@@ -16,8 +17,10 @@
       </copyrightText>
 
       <p>Developed by: 
-        <alt match=".+" name="organization">&lt;Name of Development Group&gt; &lt;Name of Institution&gt;
-        &lt;URL for Development Group/Institution&gt;</alt>
+        <alt match=".+" name="organization">
+		<br/>&lt;Name of Development Group&gt; 
+		<br/>&lt;Name of Institution&gt;
+        <br/>&lt;URL for Development Group/Institution&gt;</alt>
       </p>
     
     
@@ -52,6 +55,6 @@
          NO EVENT SHALL THE CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
          LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
          WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

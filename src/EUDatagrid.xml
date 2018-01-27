@@ -5,6 +5,7 @@
          <crossRef>http://eu-datagrid.web.cern.ch/eu-datagrid/license.html</crossRef>
          <crossRef>http://www.opensource.org/licenses/EUDatagrid</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>EU DataGrid Software License</p>
       </titleText>
@@ -72,6 +73,6 @@
          PROFITS, OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY THEORY OF CONTRACT, WARRANTY, TORT
          (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, ARISING IN ANY WAY OUT OF THE USE OF THIS
          SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

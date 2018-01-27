@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://opendatacommons.org/licenses/pddl/1.0/</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Open Data Commons - Public Domain Dedication &amp; License (PDDL)</p>
       </titleText>
@@ -347,6 +348,6 @@
              are included in this Document in order to meet the intent of this Document.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

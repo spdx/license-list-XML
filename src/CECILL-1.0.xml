@@ -6,6 +6,7 @@
          <crossRef>http://www.cecill.info/licences/Licence_CeCILL_V1-fr.html</crossRef>
       </crossRefs>
       <notes>English translation can be found here: http://www.cecill.info/licences/Licence_CeCILL_V1-US.html</notes>
+    <text>
       <titleText>
          <p>CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL</p>
       </titleText>
@@ -515,5 +516,6 @@
       <optional>
          <p>Version 1 du 21/06/2004</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

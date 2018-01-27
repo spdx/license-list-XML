@@ -6,6 +6,7 @@
          <crossRef>http://www.opensource.org/licenses/EPL-1.0</crossRef>
       </crossRefs>
       <notes>EPL replaced the CPL on 28 June 2005.</notes>
+    <text>
       <titleText>
          <p>Eclipse Public License - v 1.0</p>
       </titleText>
@@ -249,6 +250,6 @@
          any resulting litigation.</p>
          </item>
       </list>  
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

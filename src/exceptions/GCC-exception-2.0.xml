@@ -7,15 +7,20 @@
       <notes>Typically used with GPL-2.0+.  Sometimes also referred to a
          "linking exception."  
   </notes>
-    
-      <p>In addition to the permissions in the GNU General Public License,
-         the Free Software Foundation gives you unlimited permission to
-         link the compiled version of this file into combinations with
-         other programs, and to distribute those combinations without
-         any restriction coming from the use of this file. (The General
-         Public License restrictions do apply in other respects; for
-         example, they cover modification of the file, and distribution
-         when not linked into a combine executable.)</p>
-    
+    <text>
+      <p>In addition to the permissions in the GNU
+        <optional>Library</optional> General Public License, the Free
+        Software Foundation gives you unlimited permission to link the
+        compiled version of this file<optional> into
+        combinations</optional> with other programs, and to distribute
+        those
+        <alt name="programs" match="programs|combinations">programs</alt>
+        without any restriction coming from the use of this file.  (The
+        <alt name="general" match="General|Library">General</alt>
+        Public License restrictions do apply in other respects; for
+        example, they cover modification of the file, and distribution
+        when not linked into
+        <alt name="anotherProgram" match="another program|a combined? executable">another program</alt>.)</p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

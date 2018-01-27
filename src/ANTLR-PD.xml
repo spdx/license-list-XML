@@ -6,6 +6,7 @@
       </crossRefs>
       <notes>ANTLR used this public domain notice through version 2.7 and then switched to a BSD license for version 3.0
          and later.</notes>
+    <text>
       <titleText>
          <p>ANTLR 2 License</p>
       </titleText>
@@ -20,6 +21,6 @@
          tool with the output, please mention that you developed it using ANTLR. In addition, we ask that the
          headers remain intact in our source code. As long as these guidelines are kept, we expect to continue
          enhancing this system and expect to make other tools available as they are completed.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

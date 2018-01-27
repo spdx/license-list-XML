@@ -6,6 +6,7 @@
       </crossRefs>
       <notes>The OpenSSL toolkit stays under a dual license, i.e. both the conditions of the OpenSSL License and the
          original SSLeay license apply to the toolkit.</notes>
+    <text>
       <titleText>
          <p>OpenSSL License</p>
       </titleText>
@@ -66,7 +67,8 @@
          <p>Original SSLeay License</p>
       </titleText>
       <copyrightText>
-         <p>Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com) All rights reserved.</p>
+         <p>Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
+           <br/>All rights reserved.</p>
       </copyrightText>
     
       <p>This package is an SSL implementation written by Eric Young (eay@cryptsoft.com). The implementation was
@@ -120,6 +122,6 @@
       <p>The licence and distribution terms for any publically available version or derivative of this code cannot
          be changed. i.e. this code cannot simply be copied and put under another distribution licence
          [including the GNU Public Licence.]</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isDeprecated="true" licenseId="GPL-3.0-with-autoconf-exception"
+   <license isDeprecated="true" deprecatedVersion="2.0rc2" licenseId="GPL-3.0-with-autoconf-exception"
             name="GNU General Public License v3.0 w/Autoconf exception">
       <crossRefs>
          <crossRef>http://www.gnu.org/licenses/autoconf-exception-3.0.html</crossRef>
       </crossRefs>
       <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
      
+    <text>
 	     <p>insert GPL v3 text here</p>
 	     <p>AUTOCONF CONFIGURE SCRIPT EXCEPTION</p>
 	     <p>Version 3.0, 18 August 2009</p>
@@ -33,6 +34,6 @@
 			<p>The availability of this Exception does not imply any general presumption that third-party software is unaffected by the copyleft requirements of the license of Autoconf.</p>
 		       </item>
 	     </list>
-	
+    </text>
   </license>
 </SPDXLicenseCollection>

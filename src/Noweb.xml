@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Noweb</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Noweb is copyright 1989-2000 by Norman Ramsey. All rights reserved.</p>
       </copyrightText>
@@ -20,6 +21,6 @@
          source code to be used and modified under the terms of this license. You must state clearly that your
          work uses or is based on noweb and that noweb is available free of change. You must also request that
          bug reports on your work be reported to you.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -23,16 +23,12 @@
         "software"
     ],
     "scripts": {
-        "preinstall": "(npm list gulp -g || npm install gulp -g)"
+        "test": "node validate-schema.js"
     },
     "dependencies": {
         "libxml-xsd": "0.5.2",
         "glob": "7.1.2",
-        "gulp-util": "3.0.8",
         "fs": ""
-    },
-    "devDependencies": {
-        "gulp": "^3.9.1"
     },
     "license": "CC-BY-3.0 AND MIT"
 }

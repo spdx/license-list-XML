@@ -28,6 +28,7 @@ Copyright (c)
          or modifications to the files" to the copyright notice, to
          make clear that the license is compatible with other liberal
          licenses.</notes>
+    <text>
       <p>This work is being provided by the copyright holders under the
          following license.</p>
       <p>License
@@ -79,5 +80,6 @@ Copyright (c)
          advertising or publicity pertaining to the work without
          specific, written prior permission. Title to copyright in this
          work will at all times remain with copyright holders.</p>
+    </text>
   </license>
 </SPDXLicenseCollection>

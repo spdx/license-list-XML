@@ -18,6 +18,7 @@
     * The AFL includes the warranty by the licensor that it either owns the copyright or that it is distributing the software under a license. None of the other licenses contain that warranty. All other warranties are disclaimed, as is the case for the other licenses.
     * The AFL is itself copyrighted (with the right granted to copy and distribute without modification). This ensures that the owner of the copyright to the license will control changes. The Apache license contains a copyright notice, but the BSD, MIT and UoI/NCSA licenses do not. 
   </notes>
+    <text>
       <titleText>
          <p>Academic Free License</p>
          <p>Version 1.2</p>
@@ -26,7 +27,9 @@
          <p>This Academic Free License applies to any original work of authorship (the "Original Work") whose owner
          (the "Licensor") has placed the following notice immediately following the copyright notice for the 
          Original Work:</p>
+         <standardLicenseHeader>
          <p>Licensed under the Academic Free License version 1.2</p>
+         </standardLicenseHeader>
       </optional>
     
       <p>Grant of License. Licensor hereby grants to any person obtaining a copy of the Original Work ("You") a
@@ -80,6 +83,6 @@
       <p>This license is Copyright (C) 2002 Lawrence E. Rosen. All rights reserved.</p>
       <p>Permission is hereby granted to copy and distribute this license without modification. This license
          may not be modified without the express written permission of its copyright owner.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

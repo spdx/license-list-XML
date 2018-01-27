@@ -4,7 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Open_Market_License</crossRef>
       </crossRefs>
-    
+    <text>
       <p>This FastCGI application library source and object code (the "Software") and its documentation (the
          "Documentation") are copyrighted by Open Market, Inc ("Open Market"). The following terms apply to all
          files associated with the Software and Documentation unless explicitly disclaimed in individual
@@ -24,6 +24,6 @@
          HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS
          IS". OPEN MARKET HAS NO LIABILITY IN CONTRACT, TORT, NEGLIGENCE OR OTHERWISE ARISING OUT OF THIS
          SOFTWARE OR THE DOCUMENTATION.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

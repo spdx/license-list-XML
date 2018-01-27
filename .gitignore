@@ -1,7 +1,11 @@
 .DS_Store
-# Ignore all hidden files/dirs except .gitignore
+# Ignore all hidden files/dirs except .gitignore and .travis.yml
 .*
 !/.gitignore
+!/.travis.yml
+
+/resources
+/spdx-tools-*.jar*
 
 # nodeJS
 node_modules/

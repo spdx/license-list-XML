@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://opensource.org/licenses/UPL</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>The Universal Permissive License (UPL), Version 1.0</p>
       </titleText>
@@ -43,6 +44,6 @@
          NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
          WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
          SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

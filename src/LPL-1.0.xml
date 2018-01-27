@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://opensource.org/licenses/LPL-1.0</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Lucent Public License Version 1.0</p>
       </titleText>
@@ -263,6 +264,6 @@
       </p>
          </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

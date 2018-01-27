@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/NOSL3.0</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Non-Profit Open Software License 3.0</p>
       </titleText>
@@ -242,5 +243,6 @@
             </list>
         </item>
       </list>
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -9,6 +9,7 @@
 English: http://artlibre.org/licence/lal/licence-art-libre-12/
 Italian: http://artlibre.org/licence/lal/it/
 Spanish: http://artlibre.org/licence/lal/es/</notes>
+    <text>
       <titleText>
          <p>Licence Art Libre
         <br/>[ Copyleft Attitude ]
@@ -48,15 +49,30 @@ Spanish: http://artlibre.org/licence/lal/es/</notes>
              réalisme.
         <br/>Ainsi, l’objet de l’art n’est pas confondu avec l’objet
              d’art fini et défini comme tel.
+		<br/>C’est la raison essentielle de cette Licence Art Libre : promouvoir et protéger des pratiques artistiques libérées des seules règles de l’économie de marché.
       </p>
       <p>DÉFINITIONS</p>
-      <p>– L’oeuvre :</p>
-      <p>– L’oeuvre originelle :</p>
-      <p>– Les oeuvres conséquentes :</p>
-      <p>– Original (source ou ressource de l’oeuvre) :</p>
-      <p>– Copie :</p>
-      <p>– Auteur de l’oeuvre originelle :</p>
-      <p>– Contributeur :</p>
+      <p>– L’oeuvre :
+	  <br/>il s’agit d’une oeuvre commune qui comprend l’oeuvre originelle ainsi que toutes les contributions postérieures (les originaux conséquents et les copies). Elle est créée à l’initiative de l’auteur originel qui par cette licence définit les conditions selon lesquelles les contributions sont faites.
+	  </p>
+      <p>– L’oeuvre originelle :
+	  <br/>c’est-à-dire l’oeuvre créée par l’initiateur de l’oeuvre commune dont les copies vont être modifiées par qui le souhaite.
+	  </p>
+      <p>– Les oeuvres conséquentes :
+	  <br/>c’est-à-dire les propositions des auteurs qui contribuent à la formation de l’oeuvre en faisant usage des droits de reproduction, de diffusion et de modification que leur confère la licence.
+	  </p>
+      <p>– Original (source ou ressource de l’oeuvre) :
+	  <br/>exemplaire daté de l’oeuvre, de sa définition, de sa partition ou de son programme que l’auteur présente comme référence pour toutes actualisations, interprétations, copies ou reproductions ultérieures.
+	  </p>
+      <p>– Copie :
+	  <br/>toute reproduction d’un original au sens de cette licence.
+	  </p>
+      <p>– Auteur de l’oeuvre originelle :
+	  <br/>c’est la personne qui a créé l’oeuvre à l’origine d’une arborescence de cette oeuvre modifiée. Par cette licence, l’auteur détermine les conditions dans lesquelles ce travail se fait.
+	  </p>
+      <p>– Contributeur :
+	  <br/>toute personne qui contribue à la création de l’oeuvre. Il est l’auteur d’une oeuvre originale résultant de la modification d’une copie de l’oeuvre originelle ou de la modification d’une copie d’une oeuvre conséquente.
+	  </p>
       <list>
         <item>
             <bullet>1.</bullet>
@@ -70,7 +86,7 @@ Spanish: http://artlibre.org/licence/lal/es/</notes>
             <bullet>2.</bullet>
           L’ÉTENDUE DE LA JOUISSANCE
             <br/>Cette oeuvre est soumise au droit d’auteur, et
-                 l’auteur par cette
+                 l’auteur par cette licence vous indique quelles sont vos libertés pour la copier, la diffuser et la modifier:
           
         </item>
         <item>
@@ -86,18 +102,19 @@ Spanish: http://artlibre.org/licence/lal/es/</notes>
             <bullet>2.2</bullet>
           LA LIBERTÉ DE DIFFUSER, D’INTERPRÉTER (OU DE REPRÉSENTATION)
             <br/>Vous pouvez diffuser librement les copies de ces
-                 oeuvres, modifiées
+                 oeuvres, modifiées ou non, quel que soit le support, quel que soit le lieu, à titre onéreux ou gratuit si vous respectez toutes les conditions suivantes: 
             <br/>– joindre aux copies, cette licence à l’identique,
-                 ou indiquer précisément où se trouve la
-                 licence,
-          
+                 ou indiquer précisément où se trouve la licence,
+			<br/>– indiquer au destinataire le nom de l’auteur des originaux,      
+			<br/>– indiquer au destinataire où il pourra avoir accès aux originaux 
+			<br/>(originels et/ou conséquents). 
+			L’auteur de l’original pourra, s’il le souhaite, vous autoriser à diffuser l’original dans les mêmes conditions que les copies.          
         </item>
         <item>
             <bullet>2.3</bullet>
           LA LIBERTÉ DE MODIFIER
             <br/>Vous avez la liberté de modifier les copies des
-                 originaux (originels
-          
+                 originaux (originels et conséquents), qui peuvent être partielles ou non, dans le respect des conditions prévues à l’article 2.2 en cas de diffusion (ou représentation) de la copie modifiée. L’auteur de l’original pourra, s’il le souhaite, vous autoriser à modifier l’original dans les mêmes conditions que les copies.
         </item>
         <item>
             <bullet>3.</bullet>
@@ -128,7 +145,9 @@ Spanish: http://artlibre.org/licence/lal/es/</notes>
                  ses dispositions. Le fait de copier, de
                  diffuser, ou de modifier l’oeuvre constitue
                  une acception tacite.
-          
+            <br/>Cette licence a pour durée la durée des droits d’auteur attachés à l’oeuvre. 
+			<br/>Si vous ne respectez pas les termes de cette licence, vous perdez automatiquement les droits qu’elle vous confère. 
+			<br/>Si le régime juridique auquel vous êtes soumis ne vous permet pas de respecter les termes de cette licence, vous ne pouvez pas vous prévaloir des libertés qu’elle confère.
         </item>
         <item>
             <bullet>6.</bullet>
@@ -161,5 +180,6 @@ Spanish: http://artlibre.org/licence/lal/es/</notes>
         </item>
       </list>
       <p>Cette licence est soumise au droit français.</p>
+    </text>
     </license>
 </SPDXLicenseCollection>

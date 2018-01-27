@@ -6,6 +6,7 @@
       </crossRefs>
       <notes>The PHP License v3.01 is essentially the same as v3.0, with the exception of a couple word differences and
          updated url in section 6.</notes>
+    <text>
       <titleText>
          <p>The PHP License, version 3.01</p>
       </titleText>
@@ -66,6 +67,6 @@
       <p>The PHP Group can be contacted via Email at group@php.net.</p>
       <p>For more information on the PHP Group and the PHP project, please see &lt;http://www.php.net&gt;.</p>
       <p>PHP includes the Zend Engine, freely available at &lt;http://www.zend.com&gt;.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

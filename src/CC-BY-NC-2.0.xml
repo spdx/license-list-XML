@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://creativecommons.org/licenses/by-nc/2.0/legalcode</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Creative Commons Attribution-NonCommercial 2.0</p>
       </titleText>
@@ -288,6 +289,6 @@
          compliance with Creative Commons' then-current trademark usage guidelines, as may be published on
          its website or otherwise made available upon request from time to time.</p>
       <p>Creative Commons may be contacted at http://creativecommons.org/.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

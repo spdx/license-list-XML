@@ -5,14 +5,7 @@
       <crossRefs>
          <crossRef>http://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo-x86/licenses/BitTorrent?r1=1.1&amp;r2=1.1.1.1&amp;diff_format=s</crossRef>
       </crossRefs>
-      <standardLicenseHeader>
-         <p>The contents of this file are subject to the BitTorrent Open Source License Version 1.0 (the License). 
-      You may not copy or use this file, in either source code or executable form, except in compliance with 
-      the License. You may obtain a copy of the License at http://www.bittorrent.com/license/.</p>
-         <p>Software distributed under the License is distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND, 
-      either express or implied. See the License for the specific language governing rights and limitations under 
-      the License.</p>
-      </standardLicenseHeader>
+    <text>
       <titleText>
          <p>BitTorrent Open Source License 
         <br/>Version 1.0 
@@ -260,28 +253,6 @@
                this License are fulfilled for those portions of the Derivative Works that consist of the
                Licensed Product or any Modifications thereto.
           </item>
-               <item>
-                  <bullet>g.</bullet>
-            Compensation for Distribution of Executable Versions of Licensed Products, Modifications 
-            or Derivative Works. Notwithstanding any provision of this License to the contrary, by distributing, 
-            selling, licensing, sublicensing or otherwise making available any Licensed Product, or Modification 
-            or Derivative Work thereof, you and Licensor hereby acknowledge and agree that you may sell, license 
-            or sublicense for a fee, accept donations or otherwise receive compensation for executable versions 
-            of a Licensed Product, without paying a royalty or other fee to the Licensor or any other Contributor, 
-            provided that such executable versions (i) contain your or another Contributor's material Modifications, 
-            or (ii) are otherwise material Derivative Works. For purposes of this License, an executable version of 
-            the Licensed Product will be deemed to contain a material Modification, or will otherwise be deemed a 
-            material Derivative Work, if (a) the Licensed Product is modified with your own or a third party's software 
-            programs or other code, and/or the Licensed Product is combined with a number of your own or a third party's 
-            software programs or code, respectively, and (b) such software programs or code add or contribute material 
-            value, functionality or features to the License Product. For the avoidance of doubt, to the extent your 
-            executable version of a Licensed Product does not contain your or another Contributor's material Modifications 
-            or is otherwise not a material Derivative Work, in each case as contemplated herein, you may not sell, license 
-            or sublicense for a fee, accept donations or otherwise receive compensation for such executable. Additionally, 
-            without limitation of the foregoing and notwithstanding any provision of this License to the contrary, you 
-            cannot charge for, sell, license or sublicense for a fee, accept donations or otherwise receive compensation 
-            for the Source Code.
-          </item>
             </list>
         </item>
         <item>
@@ -455,8 +426,7 @@
           Glossary. All defined terms in this License that are used in more than one Section of this
              License are repeated here, in alphabetical order, for the convenience of the reader. The
              Section of this License in which each defined term is first used is shown in parentheses.
-        </item>
-      </list>
+ 
       <p>Contributor: Each person or entity who created or contributed to the creation of, and distributed, a
          Modification. (See Section 2)</p>
       <p>Derivative Works: That term as used in this License is defined under U.S. copyright law. (See Section 1(b))</p>
@@ -475,19 +445,23 @@
         <br/>Section 1(a)) 
       </p>
       <p>You: This term is defined in Section 14 of this License.</p>
-    
+           </item>
+      </list>
       <optional>
          <p>EXHIBIT A</p>
          <p>The Notice below must appear in each file of the Source Code of any copy you distribute of the Licensed
          Product or any hereto. Contributors to any Modifications may add their own copyright notices to
          identify their own contributions.</p>
          <p>License:</p>
+         <standardLicenseHeader>
          <p>The contents of this file are subject to the BitTorrent Open Source License Version 1.0 (the License).
          You may not copy or use this file, in either source code or executable form, except in compliance with
          the License. You may obtain a copy of the License at http://www.bittorrent.com/license/.</p>
          <p>Software distributed under the License is distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND,
          either express or implied. See the License for the specific language governing rights and limitations
          under the License.</p>
+         </standardLicenseHeader>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

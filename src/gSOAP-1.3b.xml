@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.cs.fsu.edu/~engelen/license.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>gSOAP Public License</p>
          <p>Version 1.3b</p>
@@ -209,7 +210,7 @@
                     <item>
                         <bullet>3.2.</bullet>
                         Availability of Source Code.
-                        <p>Any Modification created by You will be provided to the Initial Developer in Source Code
+                        <p>Any Modification created by You <alt name="shall" match="will|shall">shall</alt> be provided to the Initial Developer in Source Code
                          form and are subject to the terms of the License.</p>
                     </item>
                     <item>
@@ -485,5 +486,6 @@
             </item>
         </list>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

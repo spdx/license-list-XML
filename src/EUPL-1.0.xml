@@ -7,6 +7,7 @@
          <crossRef>http://ec.europa.eu/idabc/servlets/Doc027f.pdf?id=31096</crossRef>
       </crossRefs>
       <notes>The European Commission has approved the EUPL on 9 January 2007.</notes>
+    <text>
       <titleText>
          <p>European Union Public Licence V.1.0</p>
       </titleText>
@@ -320,6 +321,6 @@
               Cecill v. 2.0
           </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

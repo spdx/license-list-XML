@@ -5,6 +5,7 @@
          <crossRef>https://www.keepassx.org/dev/projects/keepassx/repository/revisions/b8dfb9cc4d5133e0f09cd7533d15a4f1c19a40f2/entry/LICENSE.NOKIA-LGPL-EXCEPTION</crossRef>
       </crossRefs>
       <notes>Typically used by Nokia Qt to apply an exception to LGPL-2.1</notes>
+    <text>
       <titleText>
          <p>Nokia Qt LGPL Exception version 1.1</p>
       </titleText>
@@ -56,5 +57,6 @@
       </list>
       <p>Furthermore, you are not required to apply this additional
        permission to a modified version of the Library.</p>
+    </text>
   </exception>
 </SPDXLicenseCollection>

@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.apache.org/licenses/LICENSE-1.0</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright (c) 1995-1999 The Apache Group. All rights reserved.</p>
       </copyrightText>
@@ -52,7 +53,7 @@
             <bullet>6.</bullet>
           Redistributions of any form whatsoever must retain the following acknowledgment:
           <p>"This product includes software developed by <alt match=".+" name="nameClause6">the 
-          Apache Group for use in the Apache HTTP server project (http://www.apache.org/)</alt>.</p>
+          Apache Group for use in the Apache HTTP server project (http://www.apache.org/)</alt>."</p>
         </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED BY 
@@ -72,5 +73,6 @@
          Applications, University of Illinois, Urbana-Champaign. For more information on the Apache Group and
          the Apache HTTP server project, please see &lt;http://www.apache.org/&gt;.</optional>
       </p>
+    </text>
   </license>
 </SPDXLicenseCollection>

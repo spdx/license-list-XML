@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Matrix_Template_Library_License</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Software License for MTL</p>
       </titleText>
@@ -73,6 +74,6 @@
          HORSES", "TRAP DOORS", "WORMS", OR OTHER HARMFUL CODE. LICENSEE ASSUMES THE
          ENTIRE RISK AS TO THE PERFORMANCE OF SOFTWARE AND/OR ASSOCIATED MATERIALS, AND TO THE PERFORMANCE AND
          VALIDITY OF INFORMATION GENERATED USING SOFTWARE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

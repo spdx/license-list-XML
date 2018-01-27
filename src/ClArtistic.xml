@@ -2,8 +2,10 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="ClArtistic" name="Clarified Artistic License">
       <crossRefs>
+         <crossRef>http://gianluca.dellavedova.org/2011/01/03/clarified-artistic-license/</crossRef>
          <crossRef>http://www.ncftp.com/ncftp/doc/LICENSE.txt</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>The Clarified Artistic License</p>
       </titleText>
@@ -152,6 +154,7 @@
              PARTICULAR PURPOSE.
         </item>
       </list>
-      <p>The End</p>
+      <optional><p>The End</p></optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

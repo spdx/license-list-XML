@@ -6,6 +6,7 @@
          <crossRef>http://www-igm.univ-mlv.fr/~unitex/lgpllr.html</crossRef>
       </crossRefs>
       <notes>Appears to have borrowed some language from the LGPL-2.1.</notes>
+    <text>
       <titleText>
          <p>Lesser General Public License For Linguistic Resources</p>
       </titleText>
@@ -267,5 +268,6 @@
         </item>
       </list>
       <p>END OF TERMS AND CONDITIONS</p>
+    </text>
   </license>
 </SPDXLicenseCollection>

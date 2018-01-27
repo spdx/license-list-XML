@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/Watcom-1.0</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Sybase Open Watcom Public License version 1.0</p>
       </titleText>
@@ -415,5 +416,6 @@
          FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT. Please see the License for the specific
          language governing rights and limitations under the License."</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

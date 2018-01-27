@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/MakeIndex</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>MakeIndex Distribution Notice</p>
          <p>11/11/1989</p>
@@ -38,6 +39,6 @@
          considered modified versions. All modified versions should be reported back to the author.</p>
       <p>This program is distributed with no warranty of any sort. No contributor accepts responsibility for the
          consequences of using this program or for whether it serves any particular purpose.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

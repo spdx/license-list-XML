@@ -5,6 +5,7 @@
          <crossRef>http://www.opensource.org/licenses/RSCPL</crossRef>
          <crossRef>http://wayback.archive.org/web/20060715140826/http://www.risource.org/RPL/RPL-1.0A.shtml</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Ricoh Source Code Public License 
         <br/>Version 1.0 
@@ -475,5 +476,6 @@
          Inc. are Copyright (C) 1995-1999. All Rights Reserved.</p>
          <p>Contributor(s): ______________________________________."</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Apple_MIT_License</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright: Copyright (c) 2006 by Apple Computer, Inc., All Rights Reserved.</p>
       </copyrightText>
@@ -33,6 +34,6 @@
          AND/OR DISTRIBUTION OF THE APPLE SOFTWARE, HOWEVER CAUSED AND WHETHER UNDER THEORY OF CONTRACT, TORT
          (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF APPLE HAS BEEN ADVISED OF THE
          POSSIBILITY OF SUCH DAMAGE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

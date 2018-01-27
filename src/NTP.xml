@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/NTP</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>NTP License (NTP)</p>
       </titleText>
@@ -22,6 +23,6 @@
         <alt match=".+" name="TMname">(TrademarkedName)</alt> makes no representations about the suitability
         this software for any purpose. It is provided "as is" without express or implied warranty. 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

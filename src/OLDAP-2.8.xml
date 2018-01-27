@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>http://www.openldap.org/software/release/license.html</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>The OpenLDAP Public License 
         <br/>Version 2.8, 17 August 2003 
@@ -49,6 +50,6 @@
         <copyrightText>Copyright 1999-2003 The OpenLDAP Foundation, Redwood City, California, USA. All Rights Reserved.</copyrightText>
         Permission to copy and distribute verbatim copies of this document is granted.
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

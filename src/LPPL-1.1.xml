@@ -5,14 +5,8 @@
       <crossRefs>
          <crossRef>http://www.latex-project.org/lppl/lppl-1-1.txt</crossRef>
       </crossRefs>
-      <standardLicenseHeader> Copyright 
-    <alt match=".+" name="copyright">2001 M. Y. Name</alt> This program may be distributed and/or modified under the
-    conditions of the LaTeX Project Public License, either version 1.1 of this license or (at your option) any later
-    version. The latest version of this license is in http://www.latex-project.org/lppl.txt and version 1.1 or later
-    is part of all distributions of LaTeX version 1999/06/01 or later. This program consists of 
-    <alt match=".+" name="the work">the files pig.dtx and pig.ins</alt>
-      </standardLicenseHeader>
       <notes>This license was released 10 July 1999.</notes>
+    <text>
       <titleText>
          <p>The LaTeX Project Public License 
         <br/>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 
@@ -239,17 +233,21 @@
          including your name and the year and also a statement that the distribution and/or modification of the
          file is constrained by the conditions in this license.</p>
       <p>Here is an example of such a notice and statement:</p>
-      <p>%% pig.dtx 
-        <br/>%% Copyright 2001 M. Y. Name 
-        <br/>% 
-        <br/>% This program may be distributed and/or modified under the 
-        <br/>% conditions of the LaTeX Project Public License, either version 1.1 
-        <br/>% of this license or (at your option) any later version. 
-        <br/>% The latest version of this license is in % http://www.latex-project.org/lppl.txt 
-        <br/>% and version 1.1 or later is part of all distributions of LaTeX % version 1999/06/01 or later. 
-        <br/>% 
-        <br/>% This program consists of the files pig.dtx and pig.ins 
+      <standardLicenseHeader>
+      <p><optional>%%</optional> <alt name="filename" match=".+">pig.dtx</alt>
+        <br/><optional>%%</optional> Copyright <alt name="copyright" match=".+">2001 M. Y. Name</alt>
+        <br/><optional>%</optional>
+        <br/><optional>%</optional> This program may be distributed and/or modified under the
+        <br/><optional>%</optional> conditions of the LaTeX Project Public License, either version 1.1
+        <br/><optional>%</optional> of this license or (at your option) any later version.
+        <br/><optional>%</optional> The latest version of this license is in
+        <br/><optional>%</optional> http://www.latex-project.org/lppl.txt
+        <br/><optional>%</optional> and version 1.1 or later is part of all distributions of LaTeX
+        <br/><optional>%</optional> version 1999/06/01 or later.
+        <br/><optional>%</optional>
+        <br/><optional>%</optional> This program consists of the <alt name="filenames" match=".+">files pig.dtx and pig.ins</alt>
       </p>
+      </standardLicenseHeader>
       <p>Given such a notice and statement in a file, the conditions given in this license document would apply,
          with `The Program' referring to the two files `pig.dtx' and `pig.ins', and `The
          Copyright Holder' referring to the person `M. Y. Name'.</p>
@@ -275,5 +273,6 @@
          `.cfg') are examples of files bearing less restrictive conditions on the distribution of a
          modified version of the file. The additional conditions on LaTeX software given above are examples of
          declaring a category of files bearing exceptional additional conditions.</p>
+    </text>
   </license>
 </SPDXLicenseCollection>

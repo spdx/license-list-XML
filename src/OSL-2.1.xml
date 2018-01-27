@@ -5,8 +5,8 @@
          <crossRef>http://opensource.org/licenses/OSL-2.1</crossRef>
          <crossRef>http://web.archive.org/web/20050212003940/http://www.rosenlaw.com/osl21.htm</crossRef>
       </crossRefs>
-      <standardLicenseHeader>Licensed under the Open Software License version 2.1</standardLicenseHeader>
       <notes>Same as version 2.0 of this license except with changes to section 10</notes>
+    <text>
       <titleText>
          <p>The Open Software Licensev. 2.1</p>
       </titleText>
@@ -14,7 +14,9 @@
       <p>This Open Software License (the "License") applies to any original work of authorship (the
          "Original Work") whose owner (the "Licensor") has placed the following notice
          immediately following the copyright notice for the Original Work:</p>
+      <standardLicenseHeader>
       <p>Licensed under the Open Software License version 2.1</p>
+      </standardLicenseHeader>
       <list>
         <item>
             <bullet>1)</bullet>
@@ -194,6 +196,6 @@
       <p>This license is Copyright (C) 2003-2004 Lawrence E. Rosen. All rights reserved. Permission is hereby
          granted to copy and distribute this license without modification. This license may not be modified
          without the express written permission of its copyright owner.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

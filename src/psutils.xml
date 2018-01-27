@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/psutils</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>PS Utilities Package</p>
       </titleText>
@@ -51,6 +52,6 @@
       </list>
       <p>Basically, I don't mind how you use the programs so long as you acknowledge the author, and give people
          the originals if they want them.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

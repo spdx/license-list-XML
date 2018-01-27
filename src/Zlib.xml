@@ -5,10 +5,13 @@
          <crossRef>http://www.zlib.net/zlib_license.html</crossRef>
          <crossRef>http://www.opensource.org/licenses/Zlib</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>zlib License</p>
       </titleText>
-    
+      <copyrightText>
+         <optional><p>Copyright (c) &lt;year&gt; &lt;copyright holders&gt;</p></optional>
+      </copyrightText>
       <p>This software is provided 'as-is', without any express or implied warranty. In no event will the authors
          be held liable for any damages arising from the use of this software.</p>
       <p>Permission is granted to anyone to use this software for any purpose, including commercial applications,
@@ -30,6 +33,6 @@
           This notice may not be removed or altered from any source distribution.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/TOSL</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Trusster Open Source License version 1.0a (TRUST) copyright (c) 2006 Mike Mintz and Robert Ekendahl. All
          rights reserved.</p>
@@ -43,6 +44,6 @@
          LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
          LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
          IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

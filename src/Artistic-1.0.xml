@@ -4,8 +4,9 @@
       <crossRefs>
          <crossRef>http://opensource.org/licenses/Artistic-1.0</crossRef>
       </crossRefs>
-      <notes>This license was superseded by v2.0 This is Artistic License 1.0 as found on OSI site, excluding clause
+      <notes>This license was superseded by v2.0. This is Artistic License 1.0 as found on OSI site, excluding clause
          8.</notes>
+    <text>
       <titleText>
          <p>The Artistic License</p>
       </titleText>
@@ -134,5 +135,6 @@
       <optional>
          <p>The End</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
          <p>Copyright (c) 1986 by University of Toronto. Written by Henry Spencer. Not derived from licensed software.</p>
       </copyrightText>
@@ -26,6 +27,6 @@
              original software.
         </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

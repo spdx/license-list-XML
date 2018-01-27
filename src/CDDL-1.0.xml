@@ -6,6 +6,7 @@
          <crossRef>http://www.opensource.org/licenses/cddl1</crossRef>
       </crossRefs>
       <notes>This license was released: 24 January 2004.</notes>
+    <text>
       <titleText>
          <p>COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) 
         <br/>Version 1.0 
@@ -401,5 +402,6 @@
            Nothing herein is intended or shall be deemed to constitute any admission of liability.</p>
          </item>
       </list>
+    </text>
   </license>
 </SPDXLicenseCollection>

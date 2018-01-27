@@ -4,7 +4,9 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/AMD_plpa_map_License</crossRef>
       </crossRefs>
+    <text>
       <copyrightText>
+         Copyright (c) 2006, 2007 Advanced Micro Devices, Inc.
          <p>All rights reserved.</p>
       </copyrightText>
     
@@ -69,6 +71,6 @@
          disputes arising out of this license shall be subject to the jurisdiction of the federal and state
          courts in Austin, Texas, and all defenses are hereby waived concerning personal jurisdiction and venue
          of these courts.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

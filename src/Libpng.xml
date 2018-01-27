@@ -5,6 +5,7 @@
          <crossRef>http://www.libpng.org/pub/png/src/libpng-LICENSE.txt</crossRef>
       </crossRefs>
     
+    <text>
       <p>This copy of the libpng notices is provided for your convenience. In case of any discrepancy between this
          copy and the notices in the file png.h that is included in the libpng distribution, the latter shall
          prevail.</p>
@@ -96,6 +97,6 @@
         <br/>glennrp at users.sourceforge.net 
         <br/>December 9, 2010 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

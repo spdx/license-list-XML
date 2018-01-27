@@ -5,20 +5,19 @@
       <crossRefs>
          <crossRef>http://opensource.org/licenses/ECL-1.0</crossRef>
       </crossRefs>
-      <standardLicenseHeader> Copyright (c) 
-    <alt match=".+" name="copyright">&lt;year&gt; &lt;copyright holders&gt;</alt> Licensed under the Educational
-    Community License version 1.0 
-  </standardLicenseHeader>
+    <text>
       <titleText>
          <p>The Educational Community License</p>
       </titleText>
       <p>This Educational Community License (the "License") applies to any original work of authorship (the
          "Original Work") whose owner (the "Licensor") has placed the following notice immediately following
          the copyright notice for the Original Work:</p>
+      <standardLicenseHeader>
       <p>Copyright (c) 
         <alt match=".+" name="copyright">&lt;year&gt; &lt;copyright holders&gt;</alt>
       </p>
       <p>Licensed under the Educational Community License version 1.0</p>
+      </standardLicenseHeader>
       <p>This Original Work, including software, source code, documents, or other related items, is being provided
          by the copyright holder(s) subject to the terms of the Educational Community License. By obtaining,
          using and/or copying this Original Work, you agree that you have read, understand, and will comply
@@ -42,5 +41,6 @@
          the Original or Derivative Works without specific, written prior permission. Title to copyright in the
          Original Work and any associated documentation will at all times remain with the copyright
          holders.</p>
+    </text>
   </license>
 </SPDXLicenseCollection>

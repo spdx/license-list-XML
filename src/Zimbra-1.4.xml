@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.zimbra.com/legal/zimbra-public-license-1-4</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Zimbra Public License, Version 1.4 (ZPL)</p>
       </titleText>
@@ -182,6 +183,6 @@
                  take subsequent action.</p>
             </item>
         </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

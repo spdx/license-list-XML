@@ -9,6 +9,7 @@
       <notes>French is the canonical language for this license. An English
          translation is provided here:
          https://www.forge.gouv.qc.ca/participez/licence-logicielle/licence-libre-du-quebec-liliq-in-english/quebec-free-and-open-source-licence-reciprocity-liliq-r-v1-1/</notes>
+    <text>
       <titleText>
          <p>Licence Libre du Québec – Réciprocité (LiLiQ-R)</p>
          <p>Version 1.1</p>
@@ -289,5 +290,6 @@
          d'identifier la provenance de la licence.</p>
         </item>
       </list>
+    </text>
    </license>
 </SPDXLicenseCollection>

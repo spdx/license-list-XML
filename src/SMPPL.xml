@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>https://github.com/dcblake/SMP/blob/master/Documentation/License.txt</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Secure Messaging Protocol (SMP) Libraries [ACL, CML, SFL]</p>
       </titleText>
@@ -70,5 +71,6 @@
        <copyrightText>
          <p>Copyright © 1997-2002 National Security Agency</p>
       </copyrightText>
+    </text>
   </license>
 </SPDXLicenseCollection>

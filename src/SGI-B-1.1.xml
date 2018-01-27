@@ -5,29 +5,8 @@
       <crossRefs>
          <crossRef>http://oss.sgi.com/projects/FreeB/</crossRef>
       </crossRefs>
-      <standardLicenseHeader>
-         <p>License Applicability. Except to the extent portions of this file are made subject to an alternative
-         license as permitted in the SGI Free Software License B, Version 1.1 (the "License"), the contents of
-         this file are subject only to the provisions of the License. You may not use this file except in
-         compliance with the License. You may obtain a copy of the License at Silicon Graphics, Inc., attn:
-         Legal Services, 1600 Amphitheatre Parkway, Mountain View, CA 94043-1351, or at:</p>
-         <p>http://oss.sgi.com/projects/FreeB</p>
-         <p>Note that, as provided in the License, the Software is distributed on an "AS IS" basis, with ALL EXPRESS
-         AND IMPLIED WARRANTIES AND CONDITIONS DISCLAIMED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED
-         WARRANTIES AND CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE,
-         AND NON-INFRINGEMENT.</p>
-         <p>Original Code. The Original Code is: <optional>[</optional>
-            <alt match=".+" name="softwareNameHeader">name of software</alt>,
-      <alt match=".+" name="softwareVersionHeader">version number</alt>, and 
-      <alt match=".+" name="softwareReleaseDateHeader">release date</alt>
-            <optional>]</optional>, developed by Silicon Graphics, Inc. The Original Code is Copyright (c) 
-      <optional>[</optional>
-            <alt match=".+" name="softwareFirstPublicationDateHeader">dates of first publication, as appearing in
-        the Notice in the Original Code</alt>
-            <optional>]</optional> Silicon Graphics, Inc. Copyright in any portions created by third
-         parties is as indicated elsewhere herein. All Rights Reserved.</p>
-      </standardLicenseHeader>
       <notes>This license was released 22 February 2002</notes>
+    <text>
       <titleText>
          <p>SGI FREE SOFTWARE LICENSE B 
         <br/>(Version 1.1 02/22/2000) 
@@ -307,6 +286,7 @@
       </list>
       <optional>
          <p>Exhibit A</p>
+         <standardLicenseHeader>
          <p>License Applicability. Except to the extent portions of this file are made subject to an alternative
          license as permitted in the SGI Free Software License B, Version 1.1 (the "License"), the contents of
          this file are subject only to the provisions of the License. You may not use this file except in
@@ -318,21 +298,25 @@
          WARRANTIES AND CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE,
          AND NON-INFRINGEMENT.</p>
          <p>Original Code. The Original Code is: <optional>[</optional>
-            <alt match=".+" name="softwareNameExhibitA">name of software</alt>,
-      <alt match=".+" name="softwareVersionExhibitA">version number</alt>, and 
-      <alt match=".+" name="softwareReleaseDateExhibitA">release date</alt>
+            <alt match=".+" name="softwareName">name of software</alt>,
+      <alt match=".+" name="softwareVersion">version number</alt>, and
+      <alt match=".+" name="softwareReleaseDate">release date</alt>
             <optional>]</optional>, developed by Silicon Graphics, Inc. The Original Code is Copyright (c) 
       <optional>[</optional>
-            <alt match=".+" name="softwareFirstPublicationDateExhibitA">dates of first publication, as appearing in
+            <alt match=".+" name="softwareFirstPublicationDate">dates of first publication, as appearing in
         the Notice in the Original Code</alt>
             <optional>]</optional>
        Silicon Graphics, Inc. Copyright in any portions created by third
          parties is as indicated elsewhere herein. All Rights Reserved.</p>
+         <optional>
          <p>Additional Notice Provisions: <optional>[</optional>
-            <alt match=".+" name="additionalProvisionsExhibitA">such additional provisions, if any, as appear in the
+            <alt match=".+" name="additionalProvisions">such additional provisions, if any, as appear in the
           Notice in the Original Code under the heading "Additional Notice Provisions"</alt>
             <optional>]</optional>
          </p>
+         </optional>
+         </standardLicenseHeader>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

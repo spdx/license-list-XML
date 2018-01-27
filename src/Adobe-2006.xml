@@ -5,6 +5,7 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/AdobeLicense</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>Adobe Systems Incorporated(r) Source Code License Agreement</p>
       </titleText>
@@ -31,6 +32,6 @@
          THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
          ARISING IN ANY WAY OUT OF THE USE OF THIS SOURCE CODE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
          DAMAGE.</p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

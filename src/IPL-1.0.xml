@@ -5,6 +5,7 @@
          <crossRef>http://www.opensource.org/licenses/IPL-1.0</crossRef>
       </crossRefs>
       <notes>This license was superseded by CPL.</notes>
+    <text>
       <titleText>
          <p>IBM Public License Version 1.0</p>
       </titleText>
@@ -307,6 +308,6 @@
           </p>
          </item>
       </list>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>

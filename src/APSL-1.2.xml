@@ -6,6 +6,7 @@
          <crossRef>http://www.samurajdata.se/opensource/mirror/licenses/apsl.php</crossRef>
       </crossRefs>
       <notes>This license was released 4 Jan 2001.</notes>
+    <text>
       <titleText>
          <p>Apple Public Source License Ver. 1.2</p>
       </titleText>
@@ -395,14 +396,13 @@
                parties with respect to the subject matter hereof. This License shall be governed by the
                laws of the United States and the State of California, except that body of California law
                concerning conflicts of law.
-          </item>
-        </list>
-      </list>
       <p>Where You are located in the province of Quebec, Canada, the following clause applies: The parties hereby
          confirm that they have requested that this License and all related documents be drafted in English.
          Les parties ont exigé que le présent contrat et tous les documents connexes soient
          rédigés en anglais.</p>
-    
+              </item>
+        </list>
+      </list>
       <optional>
          <p>EXHIBIT A.</p>
          <p>"Portions Copyright (c) 1999-2001 Apple Computer, Inc. All Rights Reserved.</p>
@@ -416,5 +416,6 @@
          PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT. Please see the License for the specific language
          governing rights and limitations under the License."</p>
       </optional>
+    </text>
   </license>
 </SPDXLicenseCollection>

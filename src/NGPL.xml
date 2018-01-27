@@ -4,6 +4,7 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/NGPL</crossRef>
       </crossRefs>
+    <text>
       <titleText>
          <p>NETHACK GENERAL PUBLIC LICENSE</p>
       </titleText>
@@ -102,6 +103,6 @@
          Agreement. In other words, go ahead and share NetHack, but don't try to stop anyone else
          from sharing it farther. 
       </p>
-    
+    </text>
   </license>
 </SPDXLicenseCollection>
