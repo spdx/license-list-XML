@@ -147,7 +147,7 @@
             </list>
         </item>
       </list>
-      <alt match="For more information, please see &lt;http://creativecommons.org/publicdomain/zero/1.0/>" name="upstreamLink"></alt>
+      <optional><alt match="For more information, please see &lt;http://creativecommons.org/publicdomain/zero/1.0/>" name="upstreamLink"></alt></optional>
     </text>
   </license>
 </SPDXLicenseCollection>
