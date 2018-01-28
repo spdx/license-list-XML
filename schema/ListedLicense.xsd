@@ -344,7 +344,7 @@
 				<annotation>
 					<documentation xml:lang="en">
 						<xhtml:p>
-							<xhtml:code>titleText</xhtml:code> is the title of the license/exception.
+							<xhtml:code>titleText</xhtml:code> is the title of the license/exception.  This that the content should be formatted as a header and that it optional (as described in <xhtml:content>optionalType</xhtml:content>).
 						</xhtml:p>
 					</documentation>
 				</annotation>

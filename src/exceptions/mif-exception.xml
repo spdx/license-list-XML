@@ -3,7 +3,8 @@
    <exception licenseId="mif-exception" name="Macros and Inline Functions Exception">
       <crossRefs>
          <crossRef>http://www.scs.stanford.edu/histar/src/lib/cppsup/exception</crossRef>
-         <crossRef>http://dev.bertos.org/doxygen/ https://www.threadingbuildingblocks.org/licensing</crossRef>
+         <crossRef>http://dev.bertos.org/doxygen/</crossRef>
+         <crossRef>https://www.threadingbuildingblocks.org/licensing</crossRef>
       </crossRefs>
       <notes>Typically used with GPL-2.0 for older versions of GCC. This is similar to
          the eCos Exception.</notes>
