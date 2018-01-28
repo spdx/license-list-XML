@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="AGPL-1.0"
-            name="Affero General Public License v1.0"
-            isDeprecated="true" deprecatedVersion="3.1">
+   <license isOsiApproved="false" licenseId="AGPL-1.0-or-later"
+            name="Affero General Public License v1.0 or later">
       <crossRefs>
          <crossRef>http://www.affero.org/oagpl.html</crossRef>
       </crossRefs>
-      <notes><p>DEPRECATED: Use the license identifier AGPL-1.0-only instead of APL-1.0, and use AGPL-1.0-or-later instead of AGPL-1.0.</p></notes>
+      <notes>
+        <p>Section 9 of this license allows content under this "any later version" grant to be redistributed under the GPL-3.0-or-later.  Affero Inc. also released an AGPL-2.0 (http://www.affero.org/agpl2.html) to allow AGPL-1.0-or-later work to be distributed under the AGPL-3.0-or-later.</p>
+      </notes>
     <text>
       <titleText>
          <p>AFFERO GENERAL PUBLIC LICENSE
