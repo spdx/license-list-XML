@@ -5,15 +5,6 @@
       <crossRefs>
          <crossRef>http://www.latex-project.org/lppl/lppl-1-3a.txt</crossRef>
       </crossRefs>
-      <standardLicenseHeader> Copyright 
-    <alt match=".+" name="copyright">2003 M. Y. Name</alt> This work may be distributed and/or modified under the
-    conditions of the LaTeX Project Public License, either version 1.3 of this license or (at your option) any later
-    version. The latest version of this license is in http://www.latex-project.org/lppl.txt and version 1.3 or later
-    is part of all distributions of LaTeX version 2003/12/01 or later. This work has the LPPL maintenance status
-    "maintained". This Current Maintainer of this work is 
-    <alt match=".+" name="maintainer">M. Y. Name</alt>. This work consists of 
-    <alt match=".+" name="the work">pig.dtx and pig.ins and the derived file pig.sty</alt>.
-  </standardLicenseHeader>
       <notes>This license was released 1 Oct 2004</notes>
     <text>
       <titleText>
@@ -333,23 +324,26 @@
          also a statement that the distribution and/or modification of that component is constrained by the
          conditions in this license.</p>
       <p>Here is an example of such a notice and statement:</p>
-      <p>%% pig.dtx 
-        <br/>%% Copyright 2003 M. Y. Name 
-        <br/>% 
-        <br/>% This work may be distributed and/or modified under the 
-        <br/>% conditions of the LaTeX Project Public License, either version 1.3 
-        <br/>% of this license or (at your option) any later version. 
-        <br/>% The latest version of this license is in 
-        <br/>% http://www.latex-project.org/lppl.txt 
-        <br/>% and version 1.3 or later is part of all distributions of LaTeX 
-        <br/>% version 2003/12/01 or later. 
-        <br/>% 
-        <br/>% This work has the LPPL maintenance status "maintained". 
-        <br/>% 
-        <br/>% This Current Maintainer of this work is M. Y. Name. 
-        <br/>% 
-        <br/>% This work consists of the files pig.dtx and pig.ins % and the derived file pig.sty. 
+      <standardLicenseHeader>
+      <p><optional>%%</optional> <alt name="filename" match=".+">pig.dtx</alt>
+        <br/><optional>%%</optional> Copyright <alt name="copyright" match=".+">2003 M. Y. Name</alt>
+        <br/><optional>%</optional>
+        <br/><optional>%</optional> This work may be distributed and/or modified under the
+        <br/><optional>%</optional> conditions of the LaTeX Project Public License, either version 1.3
+        <br/><optional>%</optional> of this license or (at your option) any later version.
+        <br/><optional>%</optional> The latest version of this license is in
+        <br/><optional>%</optional> http://www.latex-project.org/lppl.txt
+        <br/><optional>%</optional> and version 1.3 or later is part of all distributions of LaTeX
+        <br/><optional>%</optional> version 2003/12/01 or later.
+        <br/><optional>%</optional>
+        <br/><optional>%</optional> This work has the LPPL maintenance status "<alt name="status" match="maintained|author-maintained|unmaintained">maintained</alt>".
+        <br/><optional>%</optional>
+        <br/><optional>%</optional> <alt name="maintainerThis" match="This|The">This</alt> Current Maintainer of this work is <alt name="maintainer" match=".+">M. Y. Name</alt>.
+        <br/><optional>%</optional>
+        <br/><optional>%</optional> This work consists of the <alt name="filenames" match=".+">files pig.dtx and pig.ins
+        <br/>% and the derived file pig.sty</alt>.
       </p>
+      </standardLicenseHeader>
       <p>Given such a notice and statement in a file, the conditions given in this license document would apply,
          with the `Work' referring to the three files `pig.dtx', `pig.ins', and `pig.sty'
          (the last being generated from `pig.dtx' using `pig.ins'), the `Base Interpreter'
