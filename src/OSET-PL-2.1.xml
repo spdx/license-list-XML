@@ -3,8 +3,8 @@
    <license isOsiApproved="true" licenseId="OSET-PL-2.1"
             name="OSET Public License version 2.1">
       <crossRefs>
-         <crossRef>http://opensource.org/licenses/OPL-2.1</crossRef>
          <crossRef>http://www.osetfoundation.org/public-license</crossRef>
+         <crossRef>http://opensource.org/licenses/OPL-2.1</crossRef>
       </crossRefs>
     <text>
       <titleText>
