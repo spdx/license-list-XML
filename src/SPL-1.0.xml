@@ -4,26 +4,6 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/SPL-1.0</crossRef>
       </crossRefs>
-      <standardLicenseHeader> The contents of this file are subject to the Sun Public License Version 1.0 (the License); you may not use
-          this file except in compliance with the License. A copy of the License is available at
-          http://www.sun.com/ The Original Code is 
-    <alt match=".+" name="code">_____</alt>. The Initial Developer of the Original Code is 
-    <alt match=".+" name="InitialDeveloper">_____</alt>. Portions created by 
-    <alt match=".+" name="createdby">_____</alt> are Copyright (C) 
-    <alt match=".+" name="copyright">_____</alt>. All Rights Reserved. Contributor(s): 
-    <alt match=".+" name="contributor">_____</alt> Alternatively, the contents of this file may be used under the
-    terms of the 
-    <alt match=".+" name="AltLicense">_____</alt> license (the 
-    <alt match=".+" name="licenseName">[____]</alt> License), in which case the provisions of 
-    <alt match=".+" name="licenseName">[____]</alt> License are applicable instead of those above. If you wish to
-    allow use of your version of this file only under the terms of the 
-    <alt match=".+" name="licenseName">[____]</alt> License and not to allow others to use your version of this file
-    under the SPL, indicate your decision by deleting the provisions above and replace them with the notice and
-    other provisions required by the 
-    <alt match=".+" name="licenseName">[____]</alt> License. If you do not delete the provisions above, a recipient
-    may use your version of this file under either the SPL or the 
-    <alt match=".+" name="licenseName">[____]</alt> License. 
-  </standardLicenseHeader>
     <text>
       <titleText>
          <p>SUN PUBLIC LICENSE Version 1.0</p>
@@ -510,19 +490,23 @@
     
       <optional>
          <p>Exhibit A -Sun Public License Notice.</p>
+        <standardLicenseHeader>
          <p>The contents of this file are subject to the Sun Public License Version 1.0 (the License); you may not
          use this file except in compliance with the License. A copy of the License is available at
          http://www.sun.com/</p>
-         <p>The Original Code is _________________. The Initial Developer of the Original Code is ___________.
-         Portions created by ______ are Copyright (C)_________. All Rights Reserved.</p>
-         <p>Contributor(s): ______________________________________.</p>
-         <p>Alternatively, the contents of this file may be used under the terms of the _____ license (the ?[___]
-         License?), in which case the provisions of [______] License are applicable instead of those above. If
-         you wish to allow use of your version of this file only under the terms of the [____] License and not
+         <p>The Original Code is <alt name="code" match=".+">_________________</alt>.
+         The Initial Developer of the Original Code is <alt name="initialDeveloper" match=".+">___________</alt>.
+         Portions created by <alt name="createdBy" match=".+">______</alt> are Copyright (C) <alt name="copyright" match=".+">_________</alt>.
+         All Rights Reserved.</p>
+         <p>Contributor(s): <alt name="contributor" match=".+">______________________________________</alt>.</p>
+         <p>Alternatively, the contents of this file may be used under the terms of the <alt name="altLicense" match=".+">_____ license</alt> (the <alt name="altLicenseShort1" match=".+">?[___] License?</alt>), in which case the provisions of <alt name="altLicenseShort2" match=".+">[______]</alt> License are applicable instead of those above. If
+         you wish to allow use of your version of this file only under the terms of the <alt name="altLicenseShort3" match=".+">[____]</alt> License and not
          to allow others to use your version of this file under the SPL, indicate your decision by deleting the
-         provisions above and replace them with the notice and other provisions required by the [___] License.
+         provisions above and replace them with the notice and other provisions required by the <alt name="altLicenseShort4" match=".+">[___]</alt> License.
          If you do not delete the provisions above, a recipient may use your version of this file under either
-         the SPL or the [___] License. [NOTE: The text of this Exhibit A may differ slightly from the text of
+         the SPL or the <alt name="altLicenseShort5" match=".+">[___]</alt> License.</p>
+        </standardLicenseHeader>
+         <p>[NOTE: The text of this Exhibit A may differ slightly from the text of
          the notices in the Source Code files of the Original Code. You should use the text of this Exhibit A
          rather than the text found in the Original Code Source Code for Your Modifications.]</p>
       </optional>

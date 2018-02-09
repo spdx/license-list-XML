@@ -6,27 +6,6 @@
       <crossRef>http://www.gnu.org/licenses/gpl-3.0-standalone.html</crossRef>
       <crossRef>http://www.opensource.org/licenses/GPL-3.0</crossRef>
     </crossRefs>
-    <standardLicenseHeader>
-      Copyright (C)<alt name="copyright"
-      match=".+">&lt;year&gt; &lt;name of author&gt;</alt>
-      <p>
-        This program is free software: you can redistribute it and/or
-        modify it under the terms of the GNU General Public License
-        as published by the Free Software Foundation, either version
-        3 of the License, or (at your option) any later version.
-      </p>
-      <p>
-        This program is distributed in the hope that it will be
-        useful, but WITHOUT ANY WARRANTY; without even the implied
-        warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
-        PURPOSE. See the GNU General Public License for more details.
-      </p>
-      <p>
-        You should have received a copy of the GNU General
-        Public License along with this program. If not, see
-        &lt;http<optional>s</optional>://www.gnu.org/licenses/&gt;.
-      </p>
-    </standardLicenseHeader>
     <notes>
       This license was released: 29 June 2007
     </notes>
@@ -792,10 +771,11 @@
         state the exclusion of warranty; and each file should have at least
         the “copyright” line and a pointer to where the full notice is found.
       </p>
+      <standardLicenseHeader>
       <p>
-        &lt;one line to give the program's name and
-        a brief idea of what it does.&gt;<br></br>
-        Copyright (C) &lt;year&gt; &lt;name of author&gt;
+        <alt name="description" match=".+">&lt;one line to give the program's name and
+        a brief idea of what it does.&gt;</alt><br/>
+        Copyright (C) <alt name="copyright" match=".+">&lt;year&gt; &lt;name of author&gt;</alt>
       </p>
       <p>
         This program is free software: you can redistribute it and/or
@@ -814,6 +794,7 @@
 	Public License along with this program. If not, see
 	&lt;http<optional>s</optional>://www.gnu.org/licenses/&gt;.
       </p>
+      </standardLicenseHeader>
       <p>
         Also add information on how to contact you by electronic and paper mail.
       </p>

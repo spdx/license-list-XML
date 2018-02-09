@@ -5,15 +5,6 @@
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/fdl-1.3.txt</crossRef>
     </crossRefs>
-    <standardLicenseHeader>
-      Copyright (c)<alt name="copyright" match=".+">YEAR YOUR NAME</alt>
-      Permission is granted to copy, distribute and/or modify this
-      document under the terms of the GNU Free Documentation License,
-      Version 1.3 or any later version published by the Free Software
-      Foundation; with no Invariant Sections, no Front-Cover Texts,
-      and no Back-Cover Texts. A copy of the license is included
-      in the section entitled "GNU Free Documentation License".
-    </standardLicenseHeader>
     <notes>
       This license was released 3 November 2008.
     </notes>
@@ -559,14 +550,17 @@
         a copy of the License in the document and put the following
         copyright and license notices just after the title page:
       </p>
+      <standardLicenseHeader>
       <p>
-        Copyright (c) YEAR YOUR NAME. Permission is granted to copy,
+        Copyright (c) <alt name="copyright" match=".+">YEAR YOUR NAME</alt>. Permission is granted to copy,
         distribute and/or modify this document under the terms of the GNU
         Free Documentation License, Version 1.3 or any later version published
-        by the Free Software Foundation; with no Invariant Sections, no
-        Front-Cover Texts, and no Back-Cover Texts. A copy of the license is
+        by the Free Software Foundation; with <alt name="invariantSections" match="no Invariant Sections|the Invariant Sections being .*">no Invariant Sections</alt>,
+        <alt name="frontCoverTexts" match="no Front-Cover Texts|with the Front-Cover Texts being .+">no Front-Cover Texts</alt>,
+        and <alt name="backCoverTexts" match="no Back-Cover Texts|with the Back-Cover Texts being .+">no Back-Cover Texts</alt>. A copy of the license is
         included in the section entitled "GNU Free Documentation License".
       </p>
+      </standardLicenseHeader>
       <p>
         If you have Invariant Sections, Front-Cover Texts and
         Back-Cover Texts, replace the "with...Texts." line with this:

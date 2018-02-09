@@ -2,8 +2,8 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Fair" name="Fair License">
       <crossRefs>
-         <crossRef>http://www.opensource.org/licenses/Fair</crossRef>
          <crossRef>http://fairlicense.org/</crossRef>
+         <crossRef>http://www.opensource.org/licenses/Fair</crossRef>
       </crossRefs>
     <text>
       <titleText>

@@ -6,26 +6,6 @@
       <crossRef>http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</crossRef>
       <crossRef>http://www.opensource.org/licenses/LGPL-2.1</crossRef>
     </crossRefs>
-    <standardLicenseHeader>
-      Copyright (C)<alt name="copyright" match=".+">year name of author</alt>
-      <p>
-        This library is free software; you can redistribute it and/or
-        modify it under the terms of the GNU Lesser General Public
-        License as published by the Free Software Foundation; version 2.1
-	or any later version.
-      </p>
-      <p>
-        This library is distributed in the hope that it will be useful,
-        but WITHOUT ANY WARRANTY; without even the implied warranty
-        of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-        See the GNU Lesser General Public License for more details.
-      </p>
-      <p>
-        You should have received a copy of the GNU Lesser General Public License
-        along with this library; if not, write to the Free Software Foundation,
-        Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
-      </p>
-    </standardLicenseHeader>
     <notes>
       This license was released: February 1999.
     </notes>
@@ -613,14 +593,9 @@
         warranty; and each file should have at least the "copyright"
         line and a pointer to where the full notice is found.
       </p>
-      <p>
-	<optional>&lt;</optional>one line to give the library's name
-	and an idea of what it does.<optional>&gt;</optional>
-        <br></br>
-        Copyright (C)
-        <optional>&lt;</optional>year<optional>&gt;</optional>
-        <optional>&lt;</optional>name of author<optional>&gt;</optional>
-      </p>
+      <standardLicenseHeader>
+      <p><alt name="description" match=".+">&lt;one line to give the library's name and an idea of what it does.&gt;</alt><br/>
+      Copyright (C) <alt name="copyright" match=".+">&lt;year&gt; &lt;name of author&gt;</alt></p>
       <p>
         This library is free software; you can redistribute it and/or
         modify it under the terms of the GNU Lesser General Public
@@ -636,8 +611,11 @@
       <p>
         You should have received a copy of the GNU Lesser General Public License
         along with this library; if not, write to the Free Software Foundation,
-        Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA Also
-        add information on how to contact you by electronic and paper mail.
+        Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+      </p>
+      </standardLicenseHeader>
+      <p>
+        Also add information on how to contact you by electronic and paper mail.
       </p>
       <p>
         You should also get your employer (if you work as a programmer)

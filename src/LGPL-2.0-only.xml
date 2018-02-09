@@ -6,7 +6,7 @@
       <crossRef>http://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html</crossRef>
     </crossRefs>
     <standardLicenseHeader>
-      Copyright (C)<alt name="copyright" match=".+">year name of author</alt>
+      Copyright (C) <alt name="copyright" match=".+">year name of author</alt>
       <p>This library is free software; you can redistribute it and/or modify it
       under the terms of the GNU Library General Public License as published
         by the Free Software Foundation; version 2.</p> 

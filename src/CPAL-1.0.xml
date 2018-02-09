@@ -5,38 +5,6 @@
       <crossRefs>
          <crossRef>http://www.opensource.org/licenses/CPAL-1.0</crossRef>
       </crossRefs>
-      <standardLicenseHeader> The contents of this file are subject to the Common Public Attribution License Version 1.0 (the
-          "License"); you may not use this file except in compliance with the License. You may
-          obtain a copy of the License at _____. The License is based on the Mozilla Public License Version
-          1.1 but Sections 14 and 15 have been added to cover use of software over a computer network and
-          provide for limited attribution for the Original Developer. In addition, Exhibit A has been modified
-          to be consistent with Exhibit B. Software distributed under the License is distributed on an
-          "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the
-          License for the specific language governing rights and limitations under the License. 
-         <p>The Original
-          Code is 
-            <alt match=".+" name="code">_____</alt>.</p> 
-         <p>The Original Developer is not the Initial Developer and is 
-    <alt match=".+" name="developer">_____</alt>. If left blank, the Original Developer is the Initial Developer.</p>
-    <p>The Initial Developer of the Original Code is 
-    <alt match=".+" name="InitialDeveloper">_____</alt>. All portions of the code written by 
-    <alt match=".+" name="createdby">_____</alt> are Copyright (c) 
-       <alt match=".+" name="copyright">_____</alt>. All Rights Reserved.</p> 
-         <p>Contributor 
-            <alt match=".+" name="contributor">_____</alt>.</p> 
-         <p>Alternatively, the contents of this file may be used under the
-    terms of the 
-    <alt match=".+" name="AltLicense">_____</alt> license (the 
-    <alt match=".+" name="licenseName">[____]</alt> License), in which case the provisions of 
-    <alt match=".+" name="licenseName">[____]</alt> License are applicable instead of those above. If you wish to
-    allow use of your version of this file only under the terms of the 
-    <alt match=".+" name="licenseName">[____]</alt> License and not to allow others to use your version of this file
-    under the CPAL, indicate your decision by deleting the provisions above and replace them with the notice and
-    other provisions required by the 
-    <alt match=".+" name="licenseName">[____]</alt> License. If you do not delete the provisions above, a recipient
-    may use your version of this file under either the CPAL or the 
-            <alt match=".+" name="licenseName">[____]</alt> License. </p>
-  </standardLicenseHeader>
     <text>
       <titleText>
          <p>Common Public Attribution License Version 1.0 (CPAL)</p>
@@ -629,31 +597,33 @@
     
       <optional>
          <p>EXHIBIT A. Common Public Attribution License Version 1.0.</p>
+         <standardLicenseHeader>
          <p>"The contents of this file are subject to the Common Public Attribution License Version 1.0 (the
          "License"); you may not use this file except in compliance with the License. You may
-         obtain a copy of the License at _____________. The License is based on the Mozilla Public License
+         obtain a copy of the License at <alt name="source" match=".+">_____________</alt>. The License is based on the Mozilla Public License
          Version 1.1 but Sections 14 and 15 have been added to cover use of software over a computer network
          and provide for limited attribution for the Original Developer. In addition, Exhibit A has been
          modified to be consistent with Exhibit B. 
         <br/>Software distributed under the License is distributed on an "AS IS" basis, WITHOUT
              WARRANTY OF ANY KIND, either express or implied. See the License for the specific language
              governing rights and limitations under the License. 
-        <br/>The Original Code is______________________. 
-        <br/>The Original Developer is not the Initial Developer and is __________. If left blank, the Original
+        <br/>The Original Code is <alt name="code" match=".+">______________________</alt>.
+        <br/>The Original Developer is not the Initial Developer and is <alt name="originalDeveloper" match=".+">__________</alt>. If left blank, the Original
              Developer is the Initial Developer. 
-        <br/>The Initial Developer of the Original Code is ____________. All portions of the code written by
-             ___________ are Copyright (c) _____. All Rights Reserved. 
-        <br/>Contributor ______________________. 
-        <br/>Alternatively, the contents of this file may be used under the terms of the _____ license (the
-             [___] License), in which case the provisions of [______] License are applicable instead of
+        <br/>The Initial Developer of the Original Code is <alt name="initialDeveloper" match=".+">____________</alt>. All portions of the code written by
+             <alt name="initialDeveloper2" match=".+">___________</alt> are Copyright (c) <alt name="copyright" match=".+">_____</alt>. All Rights Reserved.
+        <br/>Contributor <alt name="contributor" match=".+">______________________</alt>.
+        <br/>Alternatively, the contents of this file may be used under the terms of the <alt name="altLicense" match=".+">_____</alt> license (the
+             <alt name="altLicenseShort1" match=".+">[___]</alt> License), in which case the provisions of <alt name="altLicenseShort2" match=".+">[______]</alt> License are applicable instead of
              those above. 
-        <br/>If you wish to allow use of your version of this file only under the terms of the [____] License
+        <br/>If you wish to allow use of your version of this file only under the terms of the <alt name="altLicenseShort3" match=".+">[____]</alt> License
              and not to allow others to use your version of this file under the CPAL, indicate your
              decision by deleting the provisions above and replace them with the notice and other
-             provisions required by the [___] License. If you do not delete the provisions above, a
-             recipient may use your version of this file under either the CPAL or the [___]
+             provisions required by the <alt name="altLicenseShort4" match=".+">[___]</alt> License. If you do not delete the provisions above, a
+             recipient may use your version of this file under either the CPAL or the <alt name="altLicenseShort5" match=".+">[___]</alt>
              License." 
       </p>
+         </standardLicenseHeader>
          <p>[NOTE: The text of this Exhibit A may differ slightly from the text of the notices in the Source Code
          files of the Original Code. You should use the text of this Exhibit A rather than the text found in
          the Original Code Source Code for Your Modifications.]</p>

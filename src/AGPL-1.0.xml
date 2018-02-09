@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="AGPL-1.0"
-            name="Affero General Public License v1.0">
+            name="Affero General Public License v1.0"
+            isDeprecated="true" deprecatedVersion="3.1">
       <crossRefs>
          <crossRef>http://www.affero.org/oagpl.html</crossRef>
       </crossRefs>
+      <notes><p>DEPRECATED: Use the license identifier AGPL-1.0-only instead of APL-1.0, and use AGPL-1.0-or-later instead of AGPL-1.0.</p></notes>
     <text>
       <titleText>
          <p>AFFERO GENERAL PUBLIC LICENSE
           <br/>Version 1, March 2002 </p>
       </titleText>
-      <copyrightText> 
-      Copyright © 2002 Affero Inc.
-      <br/> 510 Third Street - Suite 225, San Francisco, CA 94107, USA 
-    </copyrightText>
+      <p>Copyright © 2002 Affero Inc.
+      <br/> 510 Third Street - Suite 225, San Francisco, CA 94107, USA</p>
       <p>This license is a modified version of the GNU General Public License copyright (C) 1989, 1991 Free
          Software Foundation, Inc. made with their permission. Section 2(d) has been added to cover use of
          software over a computer network.</p>
@@ -48,7 +48,7 @@
          program proprietary. To prevent this, we have made it clear that any patent must be licensed for
          everyone's free use or not licensed at all.</p>
       <p>The precise terms and conditions for copying, distribution and modification follow.</p>
-      
+
       <p>TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION</p>
       <list>
         <item>
@@ -156,7 +156,7 @@
                you received the program in object code or executable form with such an offer, in accord
                with Subsection b above.)
           </item>
-            </list> 
+            </list>
             <p>The source code for a work means the preferred form of the work for making modifications to
                it. For an executable work, complete source code means all the source code for all modules
                it contains, plus any associated interface definition files, plus the scripts used to

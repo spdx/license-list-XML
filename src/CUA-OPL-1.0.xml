@@ -5,29 +5,6 @@
       <crossRefs>
          <crossRef>http://opensource.org/licenses/CUA-OPL-1.0</crossRef>
       </crossRefs>
-      <standardLicenseHeader> 
-        <p>The contents of this file are subject to the CUA Office Public License Version 1.0 (the
-          "License"); you may not use this file except in compliance with the License. You may
-          obtain a copy of the License at http://cuaoffice.sourceforge.net/ Software distributed under the
-          License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express
-          or implied. See the License for the specific language governing rights and limitations under the
-          License. </p>
-          <p>The Original Code is <alt match=".+" name="OriginalCodeCopyrightNotice">_____</alt>.</p> 
-          <p>The Initial Developer of the Original Code is <alt match=".+" name="InitialDeveloperName">_____</alt>. </p>
-          <p>Portions created by <alt match=".+" name="OtherContributorName">_____</alt> are Copyright (C) 
-          <alt match=".+" name="OtherContributorCopyrightNotice">_____</alt>. All Rights Reserved. </p>
-          <p>Contributor(s): <alt match=".+" name="AdditionalContributors">_____</alt>. </p>
-            
-        <p>Alternatively, the contents of this file may be used under the terms of the 
-        <alt match=".+" name="AltLicenseName">_____</alt> license (the "<alt match=".+" name="AltLicenseName">[____]</alt> License"), 
-        in which case the provisions of <alt match=".+" name="AltLicenseName">[____]</alt> License are applicable 
-        instead of those above. If you wish to allow use of your version of this file only under the terms of 
-        the <alt match=".+" name="AltLicenseName">[____]</alt> License and not to allow others to use your version 
-        of this file under the CUAPL, indicate your decision by deleting the provisions above and replace 
-        them with the notice and other provisions required by the <alt match=".+" name="AltLicenseName">[____]</alt> 
-        License. If you do not delete the provisions above, a recipient may use your version of this file 
-        under either the CUAPL or the <alt match=".+" name="AltLicenseName">[____]</alt> License. </p>
-      </standardLicenseHeader>
     <text>
       <titleText>
          <p>CUA Office Public License Version 1.0</p>
@@ -520,23 +497,25 @@
       </list>
       <optional>
          <p>EXHIBIT A - CUA Office Public License.</p>
-         <p>"The contents of this file are subject to the CUA Office Public License Version 1.0 (the
+         <standardLicenseHeader>
+         <p><optional>"</optional>The contents of this file are subject to the CUA Office Public License Version 1.0 (the
          "License"); you may not use this file except in compliance with the License. You may obtain
          a copy of the License at http://cuaoffice.sourceforge.net/</p>
          <p>Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF
          ANY KIND, either express or implied. See the License for the specific language governing rights and
          limitations under the License.</p>
-         <p>The Original Code is ______________________________________.</p>
-         <p>The Initial Developer of the Original Code is ________________________. Portions created by
-         ______________________ are Copyright (C) ______ _______________________. All Rights Reserved.</p>
-         <p>Contributor(s): ______________________________________.</p>
-         <p>Alternatively, the contents of this file may be used under the terms of the _____ license (the
-         "[___] License"), in which case the provisions of [______] License are applicable instead of
-         those above. If you wish to allow use of your version of this file only under the terms of the [____]
+         <p>The Original Code is <alt name="code" match=".+">______________________________________</alt>.</p>
+         <p>The Initial Developer of the Original Code is <alt name="initialDeveloper" match=".+">________________________</alt>. Portions created by
+         <alt name="creator" match=".+">______________________</alt> are Copyright (C) <alt name="copyright" match=".+">______ _______________________</alt>. All Rights Reserved.</p>
+         <p>Contributor(s): <alt name="contributor" match=".+">______________________________________</alt>.</p>
+         <p>Alternatively, the contents of this file may be used under the terms of the <alt name="altLicense" match=".+">_____</alt> license (the
+         "<alt name="altLicenseShort1" match=".+">[___]</alt> License"), in which case the provisions of <alt name="altLicenseShort2" match=".+">[______]</alt> License are applicable instead of
+         those above. If you wish to allow use of your version of this file only under the terms of the <alt name="altLicenseShort3" match=".+">[____]</alt>
          License and not to allow others to use your version of this file under the CUAPL, indicate your
          decision by deleting the provisions above and replace them with the notice and other provisions
-         required by the [___] License. If you do not delete the provisions above, a recipient may use your
-         version of this file under either the CUAPL or the [___] License."</p>
+         required by the <alt name="altLicenseShort4" match=".+">[___]</alt> License. If you do not delete the provisions above, a recipient may use your
+         version of this file under either the CUAPL or the <alt name="altLicenseShort5" match=".+">[___]</alt> License.<optional>"</optional></p>
+         </standardLicenseHeader>
          <p>[NOTE: The text of this Exhibit A may differ slightly from the text of the notices in the Source Code
          files of the Original Code. You should use the text of this Exhibit A rather than the text found in
          the Original Code Source Code for Your Modifications.]</p>

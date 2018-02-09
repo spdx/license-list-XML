@@ -1,11 +1,8 @@
 matrix:
-    include:
-      - language: java
-        before_install:
-          - wget https://dl.bintray.com/spdx/spdx-tools/org/spdx/spdx-tools/2.1.9/spdx-tools-2.1.9-jar-with-dependencies.jar
-          - echo '1f39ef01ab1bf0cc587f4c745f3857cab9f0a17465361f15ecc5ad48e0648d63  spdx-tools-2.1.9-jar-with-dependencies.jar' | sha256sum --check
-        script: 
-          - 'if [[ "$TRAVIS_PULL_REQUEST" = "false" && "master" = "$TRAVIS_BRANCH" ]]; then ./.travis/testPublishLicenseList.sh; else ./.travis/testBuildLicenseList.sh; fi'
-      - language: node_js
-        node_js:
-          - "node"
+  include:
+    - language: java
+      script:
+        - make validate-canonical-match
+    - language: node_js
+      node_js:
+      - "node"
