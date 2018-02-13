@@ -3,8 +3,8 @@ TEST_DATA = test/simpleTestForGenerator
 GIT_USERNAME="License Publisher (maintained by Gary O'Neall)"
 GIT_EMAIL="gary@sourceauditor.com"
 LICENSE_DATA_REPO="https://github.com/goneall/license-list-data.git"
-LICENSE_DATA_REPO_NO_SCHEME="${LICENSE_DATA_REPO#*://}"
-LICENSE_DATA_URL="https://${GITHUB_TOKEN}@${LICENSE_DATA_REPO_NO_SCHEME}"
+LICENSE_DATA_REPO_NO_SCHEME="$(LICENSE_DATA_REPO#*://)"
+LICENSE_DATA_URL="https://$(GITHUB_TOKEN)@$(LICENSE_DATA_REPO_NO_SCHEME)"
 VERSION=$(git describe --always || echo 'UNKNOWN')
 RELEASE_DATE=$(date -I)
 #TODO Change the license data repo to license-list-xml before merging pull request
