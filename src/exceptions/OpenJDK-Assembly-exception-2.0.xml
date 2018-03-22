@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <exception licenseId="OpenJDK-assembly-exception-2.0" name="Open JDK Assembly exception 2.0">
+   <exception licenseId="OpenJDK-assembly-exception-1.0" name="OpenJDK Assembly exception 1.0">
       <crossRefs>
          <crossRef>http://openjdk.java.net/legal/assembly-exception.html
          </crossRef>
