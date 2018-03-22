@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="true" licenseId="Linux-OpenIB"
+   <license isOsiApproved="false" licenseId="Linux-OpenIB"
             name="Linux Kernel Variant of OpenIB.org license">
       <crossRefs>
          <crossRef>https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/drivers/infiniband/core/sa.h</crossRef>
       </crossRefs>
+      <notes>This license is BSD-2-Clause with the MIT disclaimer. The linux kernel uses this license extensively throughout the driver subsystem since 2005. Note that the OpenIB.org license is a true match to BSD-2-Clause. </notes>
     <text>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:</p>
       <list>
