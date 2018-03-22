@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <exception licenseId="LLVM-exception" name="LLVM Exceptions to the Apache 2.0">
+   <exception licenseId="LLVM-exception" name="LLVM Exception">
       <crossRefs>
          <crossRef>http://lists.llvm.org/pipermail/llvm-dev/2017-August/116266.html</crossRef>
       </crossRefs>
