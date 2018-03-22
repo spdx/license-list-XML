@@ -5,7 +5,8 @@
          <crossRef>http://openjdk.java.net/legal/assembly-exception.html
          </crossRef>
       </crossRefs>
-      <titleText>OpenJDK Assembly Exception</titleText>
+      <text>
+      <titleText>OpenJDK Assembly Exception</titleText>  
       <p>
          The OpenJDK source code made available by Oracle America, Inc.
          (Oracle) at openjdk.java.net ("OpenJDK Code") is distributed
@@ -46,5 +47,6 @@
          Modules if the new code is made subject to this exception by
          its copyright holder.
       </p>
+      </text>
    </exception>
 </SPDXLicenseCollection>
