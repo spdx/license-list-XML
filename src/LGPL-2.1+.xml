@@ -2,7 +2,9 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="LGPL-2.1+"  isDeprecated="true" deprecatedVersion="2.0rc2"
             name="GNU Library General Public License v2.1 or later">
-	  <notes>DEPRECATED: Use the license identifier LGPL-2.1-or-later</notes>
+      <obsoletedBys>
+         <obsoletedBy>LGPL-2.1-or-later</obsoletedBy>
+      </obsoletedBys>
       <crossRefs>
          <crossRef>http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</crossRef>
          <crossRef>http://www.opensource.org/licenses/LGPL-2.1</crossRef>

@@ -2,10 +2,13 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isDeprecated="true" deprecatedVersion="2.0rc2" licenseId="GPL-2.0-with-bison-exception"
             name="GNU General Public License v2.0 w/Bison exception">
+      <obsoletedBys>
+         <obsoletedBy>GPL-2.0 WITH Bison-exception-2.2</obsoletedBy>
+         <obsoletedBy expression="GPL-2.0-with-bison-exception+">GPL-2.0-or-later WITH Bison-exception-2.2</obsoletedBy>
+      </obsoletedBys>
       <crossRefs>
          <crossRef>http://git.savannah.gnu.org/cgit/bison.git/tree/data/yacc.c?id=193d7c7054ba7197b0789e14965b739162319b5e#n141</crossRef>
       </crossRefs>
-      <notes>DEPRECATED: Use License Expression Syntax and Exceptions list to create equivalent license.</notes>
     <text>
 	     <titleText>Bison Exception</titleText>
      

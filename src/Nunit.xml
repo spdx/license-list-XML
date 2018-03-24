@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isDeprecated="true" deprecatedVersion="3.0" licenseId="Nunit" name="Nunit License">
+      <obsoletedBys>
+         <obsoletedBy>zlib-acknowledgement</obsoletedBy>
+      </obsoletedBys>
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Nunit</crossRef>
       </crossRefs>
-      <notes>DEPRECATED: This license was added twice by accident. Use short identifier: zlib-acknowledgement </notes>
     <text>
       <copyrightText>
          <p>Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie Poole 

@@ -3,13 +3,13 @@
   <license licenseId="GPL-1.0" isOsiApproved="false"
   name="GNU General Public License v1.0 only"
   isDeprecated="true" deprecatedVersion="3.0">
+    <obsoletedBys>
+      <obsoletedBy>GPL-1.0-only</obsoletedBy>
+      <obsoletedBy expression="GPL-1.0+">GPL-1.0-or-later</obsoletedBy>
+    </obsoletedBys>
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html</crossRef>
     </crossRefs>
-    <notes>
-      DEPRECATED: Deprecated in lieu of more
-      explicit license identifier of GPL-1.0-only
-    </notes>
     <standardLicenseHeader>
       Copyright (C) <alt name="copyright" match=".+">19xx name of author</alt>
       <p>
