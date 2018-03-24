@@ -2,7 +2,9 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="StandardML-NJ" isDeprecated="true" deprecatedVersion="2.0rc2"
             name="Standard ML of New Jersey License">
-      <obsoletedBy>SMLNJ</obsoletedBy>
+      <obsoletedBys>
+         <obsoletedBy>SMLNJ</obsoletedBy>
+      </obsoletedBys>
       <crossRefs>
          <crossRef>http://www.smlnj.org//license.html</crossRef>
       </crossRefs>

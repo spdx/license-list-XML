@@ -3,8 +3,10 @@
   <license licenseId="GPL-3.0" isOsiApproved="true"
   name="GNU General Public License v3.0 only"
   isDeprecated="true" deprecatedVersion="3.0">
-    <obsoletedBy>GPL-3.0-only</obsoletedBy>
-    <obsoletedBy expression="GPL-3.0+">GPL-3.0-or-later</obsoletedBy>
+    <obsoletedBys>
+      <obsoletedBy>GPL-3.0-only</obsoletedBy>
+      <obsoletedBy expression="GPL-3.0+">GPL-3.0-or-later</obsoletedBy>
+    </obsoletedBys>
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/gpl-3.0-standalone.html</crossRef>
       <crossRef>http://www.opensource.org/licenses/GPL-3.0</crossRef>

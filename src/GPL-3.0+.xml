@@ -2,7 +2,9 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="GPL-3.0+" isDeprecated="true" deprecatedVersion="2.0rc2"
             name="GNU General Public License v3.0 or later">
-      <obsoletedBy>GPL-3.0-or-later</obsoletedBy>
+      <obsoletedBys>
+         <obsoletedBy>GPL-3.0-or-later</obsoletedBy>
+      </obsoletedBys>
       <crossRefs>
          <crossRef>http://www.gnu.org/licenses/gpl-3.0-standalone.html</crossRef>
          <crossRef>http://www.opensource.org/licenses/GPL-3.0</crossRef>

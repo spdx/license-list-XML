@@ -42,7 +42,7 @@
 			</documentation>
 		</annotation>
 		<all>
-			<element name="obsoletedBy" type="tns:obsoletedByType" minOccurs="0" maxOccurs="unbounded" />
+			<element name="obsoletedBys" type="tns:obsoletedBysType" minOccurs="0" maxOccurs="1" />
 			<element name="crossRefs" type="tns:crossRefsType" minOccurs="0" maxOccurs="1"/>
 			<element name="notes" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1"/>
 			<element name="text" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
@@ -62,7 +62,7 @@
 			</documentation>
 		</annotation>
 		<all>
-			<element name="obsoletedBy" type="tns:obsoletedByType" minOccurs="0" maxOccurs="unbounded" />
+			<element name="obsoletedBys" type="tns:obsoletedBysType" minOccurs="0" maxOccurs="1" />
 			<element name="crossRefs" type="tns:crossRefsType" minOccurs="0" maxOccurs="1"/>
 			<element name="notes" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1">
 				<annotation>
@@ -165,6 +165,18 @@
 					</documentation>
 				</annotation>
 			</element>
+		</sequence>
+	</complexType>
+	<complexType name="obsoletedBysType">
+		<annotation>
+			<documentation xml:lang="en">
+				<xhtml:p>
+					<xhtml:code>obsoletedBysType</xhtml:code> is a wrapper for a set of <xhtml:code>obsoletedBy</xhtml:code> entries.
+				</xhtml:p>
+			</documentation>
+		</annotation>
+		<sequence>
+			<element name="obsoletedBy" type="tns:obsoletedByType" minOccurs="1" maxOccurs="unbounded" />
 		</sequence>
 	</complexType>
 	<complexType name="obsoletedByType" mixed="true">

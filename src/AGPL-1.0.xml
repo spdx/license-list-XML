@@ -3,8 +3,10 @@
    <license isOsiApproved="false" licenseId="AGPL-1.0"
             name="Affero General Public License v1.0"
             isDeprecated="true" deprecatedVersion="3.1">
-      <obsoletedBy>AGPL-1.0-only</obsoletedBy>
-      <obsoletedBy expression="AGPL-1.0+">AGPL-1.0-or-later</obsoletedBy>
+      <obsoletedBys>
+         <obsoletedBy>AGPL-1.0-only</obsoletedBy>
+         <obsoletedBy expression="AGPL-1.0+">AGPL-1.0-or-later</obsoletedBy>
+      </obsoletedBys>
       <crossRefs>
          <crossRef>http://www.affero.org/oagpl.html</crossRef>
       </crossRefs>
