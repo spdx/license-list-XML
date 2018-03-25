@@ -7,7 +7,7 @@
       <notes>Used with the LGPL-2.1, which is mentioned explicitly in the exception text.</notes>
     <text>
       <titleText>
-         <p><alt name="nokia" match="|Nokia |The Qt Company ">The Qt Company </alt>Qt LGPL Exception version 1.1</p>
+         <p><alt name="nokia" match="|Nokia|The Qt Company">The Qt Company</alt> Qt LGPL Exception version 1.1</p>
       </titleText>
       <p>As an additional permission to the GNU Lesser General Public
        License version 2.1, the object code form of a "work that
