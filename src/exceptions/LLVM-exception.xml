@@ -8,7 +8,9 @@
 	  <text>
 	  <titleText>
 		<p>
-		<optional>---- </optional>LLVM Exceptions to the Apache 2.0 License<optional> ----</optional>
+		    <alt match="-*" name="titleDash1"/>
+		    LLVM Exceptions to the Apache 2.0 License
+		    <alt match="-*" name="titleDash2"/>
 		</p>
 	  </titleText>
       <p> As an exception, if, as a result of your compiling your source 
