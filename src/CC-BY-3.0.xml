@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="CC-BY-3.0"
-            name="Creative Commons Attribution 3.0">
+            name="Creative Commons Attribution 3.0 Unported">
       <crossRefs>
          <crossRef>http://creativecommons.org/licenses/by/3.0/legalcode</crossRef>
       </crossRefs>
