@@ -336,7 +336,7 @@
         <br/><optional>%</optional> and version 1.3 or later is part of all distributions of LaTeX
         <br/><optional>%</optional> version 2003/12/01 or later.
         <br/><optional>%</optional>
-        <br/><optional>%</optional> This work has the LPPL maintenance status "<alt name="status" match="maintained|author-maintained|unmaintained">maintained</alt>".
+        <br/><optional>%</optional> This work has the LPPL maintenance status "<alt name="status" match="author-maintained|unmaintained|maintained">maintained</alt>".
         <br/><optional>%</optional>
         <br/><optional>%</optional> <alt name="maintainerThis" match="This|The">This</alt> Current Maintainer of this work is <alt name="maintainer" match=".+">M. Y. Name</alt>.
         <br/><optional>%</optional>

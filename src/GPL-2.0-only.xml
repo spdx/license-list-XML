@@ -38,7 +38,7 @@
       </p>
     </titleText>
     <p>
-      Copyright (C) 1989, 1991 Free Software Foundation, Inc.<alt name="incComma" match="|,"/><br/>
+      Copyright (C) 1989, 1991 Free Software Foundation, Inc.<alt name="incComma" match=",|"/><br/>
       51 Franklin Street, Fifth Floor, Boston, MA 02110-1301<optional>,</optional>
       USA
     </p>
@@ -104,7 +104,7 @@
       distribution and modification follow.
     </p>
     <p>
-      <alt name="termsTitle" match="|GNU GENERAL PUBLIC LICENSE"/>
+      <alt name="termsTitle" match="GNU GENERAL PUBLIC LICENSE|"/>
       TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
     </p>
     <list>
@@ -401,7 +401,7 @@
         the "copyright" line and a pointer to where the full notice is found.
       </p>
       <p>
-        <optional>&lt;</optional>one line to give the program's name and <alt name="ideaArticle" match="an|a brief">an</alt> idea of what it does.<optional>&gt;</optional>
+        <optional>&lt;</optional>one line to give the program's name and <alt name="ideaArticle" match="a brief|an">an</alt> idea of what it does.<optional>&gt;</optional>
         <br></br>
         Copyright (C)
         <optional>&lt;</optional><alt name="templateYear" match="yyyy|year">yyyy</alt><optional>&gt;</optional>

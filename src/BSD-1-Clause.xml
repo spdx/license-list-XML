@@ -26,7 +26,7 @@
     <p>
       THIS SOFTWARE IS PROVIDED BY <alt name="copyrightHolderAsIs"
       match=".+">Berkeley Software Design, Inc.</alt>
-      "AS IS" AND ANY<alt name="express" match="EXPRESS|EXPRESSED">EXPRESS</alt>
+      "AS IS" AND ANY<alt name="express" match="EXPRESS(ED)?">EXPRESS</alt>
       OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
       WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
       ARE DISCLAIMED. IN NO EVENT SHALL<alt name="copyrightHolderLiability"

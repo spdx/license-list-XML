@@ -260,7 +260,7 @@
 			<annotation>
 				<documentation xml:lang="en">
 					<xhtml:p>
-						<xhtml:code>match</xhtml:code> is the <xhtml:a href="http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html#tag_09_04">POSIX extended regular expression (ERE)</xhtml:a> defining allowed matches.
+						<xhtml:code>match</xhtml:code> is the <xhtml:a href="http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html#tag_09_04">POSIX extended regular expression (ERE)</xhtml:a> defining allowed matches.  Where possible, alternates are listed in order of decreasing numbers of matched characters, which allows for regular expression engines using both POSIX's <xhtml:a href="http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html#tag_09_01_02">longest-match</xhtml:a> semantics and those which prefer the leftmost branch (e.g. <xhtml:a href="https://golang.org/pkg/regexp/#Compile">Go</xhtml:a>, <xhtml:a href="https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf#sec-alternative.cE">JavaScript</xhtml:a>, <xhtml:a href="http://perldoc.perl.org/perlre.html#Combining-RE-Pieces">Perl</xhtml:a>, <xhtml:a href="https://docs.python.org/3.5/library/re.html#regular-expression-syntax">Python</xhtml:a>, etc.)
 					</xhtml:p>
 				</documentation>
 			</annotation>

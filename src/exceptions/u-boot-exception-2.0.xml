@@ -7,7 +7,7 @@
       <notes>Typically used with GPL-2.0+</notes>
       <text>
       <titleText>
-         <p><alt name="title" match="GPL|The U-Boot">GPL</alt> License Exception:</p>
+         <p><alt name="title" match="The U-Boot|GPL">GPL</alt> License Exception:</p>
       </titleText>
       <p>Even though U-Boot in general is covered by the GPL-2.0/GPL-2.0+,
          this does *not* cover the so-called "standalone" applications
