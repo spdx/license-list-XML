@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <exception licenseId="LLVM-exception" name="LLVM Exception">
       <crossRefs>
-         <crossRef>http://lists.llvm.org/pipermail/llvm-dev/2017-August/116266.html</crossRef>
+         <crossRef>http://llvm.org/foundation/relicensing/LICENSE.txt</crossRef>
       </crossRefs>
       <notes>This exception was created specifically to be used with Apache-2.0</notes>
 	  <text>
