@@ -5,7 +5,7 @@
 !/.travis.yml
 
 /resources
-/spdx-tools-*.jar*
+/licenseListPublisher-*.jar*
 
 # nodeJS
 node_modules/
