@@ -5,4 +5,4 @@ matrix:
         - 'if [[ "$TRAVIS_PULL_REQUEST" = "false" && "master" = "$TRAVIS_BRANCH" ]]; then make deploy-license-data; else make validate-canonical-match; fi'
     - language: node_js
       node_js:
-      - "node"
+      - "9"

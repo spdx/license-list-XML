@@ -3,14 +3,14 @@
   <license licenseId="LGPL-2.1" isOsiApproved="true"
   name="GNU Lesser General Public License v2.1 only"
   isDeprecated="true" deprecatedVersion="3.0">
+    <obsoletedBys>
+      <obsoletedBy>LGPL-2.1-only</obsoletedBy>
+      <obsoletedBy expression="LGPL-2.1+">LGPL-2.1-or-later</obsoletedBy>
+    </obsoletedBys>
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</crossRef>
       <crossRef>http://www.opensource.org/licenses/LGPL-2.1</crossRef>
     </crossRefs>
-    <notes>
-      DEPRECATED: Deprecated in lieu of more
-      explicit license identifier of LGPL-2.1-only
-    </notes>
     <standardLicenseHeader>
       Copyright (C) <alt name="copyright" match=".+">year name of author</alt>
       <p>

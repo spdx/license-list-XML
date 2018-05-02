@@ -6,7 +6,7 @@
 !/.travis
 
 /resources
-/spdx-tools-*.jar*
+/licenseListPublisher-*.jar*
 
 # nodeJS
 node_modules/

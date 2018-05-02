@@ -3,14 +3,14 @@
   <license licenseId="LGPL-3.0" isOsiApproved="true"
   name="GNU Lesser General Public License v3.0 only"
   isDeprecated="true" deprecatedVersion="3.0">
+    <obsoletedBys>
+      <obsoletedBy>LGPL-3.0-only</obsoletedBy>
+      <obsoletedBy expression="LGPL-3.0+">LGPL-3.0-or-later</obsoletedBy>
+    </obsoletedBys>
     <crossRefs>
       <crossRef>http://www.gnu.org/licenses/lgpl-3.0-standalone.html</crossRef>
       <crossRef>http://www.opensource.org/licenses/LGPL-3.0</crossRef>
     </crossRefs>
-    <notes>
-      DEPRECATED: Deprecated in lieu of more
-      explicit license identifier of LGPL-3.0-only
-    </notes>
     <text>
     <titleText>
       <p>

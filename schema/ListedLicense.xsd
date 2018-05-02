@@ -42,6 +42,7 @@
 			</documentation>
 		</annotation>
 		<all>
+			<element name="obsoletedBys" type="tns:obsoletedBysType" minOccurs="0" maxOccurs="1" />
 			<element name="crossRefs" type="tns:crossRefsType" minOccurs="0" maxOccurs="1"/>
 			<element name="notes" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1"/>
 			<element name="text" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
@@ -61,6 +62,7 @@
 			</documentation>
 		</annotation>
 		<all>
+			<element name="obsoletedBys" type="tns:obsoletedBysType" minOccurs="0" maxOccurs="1" />
 			<element name="crossRefs" type="tns:crossRefsType" minOccurs="0" maxOccurs="1"/>
 			<element name="notes" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1">
 				<annotation>
@@ -165,6 +167,69 @@
 			</element>
 		</sequence>
 	</complexType>
+	<complexType name="obsoletedBysType">
+		<annotation>
+			<documentation xml:lang="en">
+				<xhtml:p>
+					<xhtml:code>obsoletedBysType</xhtml:code> is a wrapper for a set of <xhtml:code>obsoletedBy</xhtml:code> entries.
+				</xhtml:p>
+			</documentation>
+		</annotation>
+		<sequence>
+			<element name="obsoletedBy" type="tns:obsoletedByType" minOccurs="1" maxOccurs="unbounded" />
+		</sequence>
+	</complexType>
+	<complexType name="obsoletedByType" mixed="true">
+		<annotation>
+			<documentation xml:lang="en">
+				<xhtml:p>
+					<xhtml:code>obsoletedByType</xhtml:code> represents a recommended replacement for license expressions containing a given license or exception.  The algorithm for determining the recommended replacement in the context of a given license expression is:
+				</xhtml:p>
+				<xhtml:ol>
+					<xhtml:li>Parse the license expression to extract the short identifiers.</xhtml:li>
+					<xhtml:li>Look up <xhtml:code>obsoletedBy</xhtml:code> entries for the short identifiers.</xhtml:li>
+					<xhtml:li>If any <xhtml:code>obsoletedBy</xhtml:code> has an <xhtml:code>expression</xhtml:code> attribute that matches the source, the value of that <xhtml:code>obsoletedBy</xhtml:code> is the recommended replacement for that expression.  Otherwise, the value of the <xhtml:code>obsoletedBy</xhtml:code> without an expression attribute is the recommended replacement for the short identifier.</xhtml:li>
+				</xhtml:ol>
+				<xhtml:p>
+					For example, the expression <xhtml:code>GPL-2.0+ WITH GCC-exception-2.0</xhtml:code> could be parsed to either of the following short license identifiers:
+				</xhtml:p>
+				<xhtml:ul>
+					<xhtml:li>
+						<xhtml:p>
+							<xhtml:code>GPL-2.0+</xhtml:code>, in which case there would be a single <xhtml:code>obsoletedBy</xhtml:code> with no <xhtml:code>expression</xhtml:code> attribute:
+						</xhtml:p>
+						<xhtml:p>
+							<xhtml:code>&lt;obsoletedBy&gt;GPL-2.0-or-later&lt;/obsoletedBy&gt;</xhtml:code>
+						</xhtml:p>
+						<xhtml:p>
+							So the recommended replacement for <xhtml:code>GPL-2.0+</xhtml:code> would be <xhtml:code>GPL-2.0-or-later</xhtml:code>.
+						</xhtml:p>
+					</xhtml:li>
+					<xhtml:li>
+						<xhtml:p>
+							<xhtml:code>GPL-2.0</xhtml:code>, in which case there would be two <xhtml:code>obsoletedBy</xhtml:code> elements:
+						</xhtml:p>
+						<xhtml:p>
+							<xhtml:code>&lt;obsoletedBy&gt;GPL-2.0-only&lt;/obsoletedBy&gt;</xhtml:code><xhtml:br/>
+							<xhtml:code>&lt;obsoletedBy expression="GPL-2.0+"&gt;GPL-2.0-or-later&lt;/obsoletedBy&gt;</xhtml:code>
+						</xhtml:p>
+						<xhtml:p>
+							The element with <xhtml:code>expression="GPL-2.0+"</xhtml:code> matches the initial license expression, so the recommended replacement for <xhtml:code>GPL-2.0+</xhtml:code> is <xhtml:code>GPL-2.0-or-later</xhtml:code>.
+						</xhtml:p>
+					</xhtml:li>
+				</xhtml:ul>
+			</documentation>
+		</annotation>
+		<attribute name="expression" type="string">
+			<annotation>
+				<documentation xml:lang="en">
+					<xhtml:p>
+						<xhtml:code>expression</xhtml:code> is the license expression which is obsoleted by the expression contained by the element.  Defaults to the bare identifier.
+					</xhtml:p>
+				</documentation>
+			</annotation>
+		</attribute>
+	</complexType>
 	<complexType name="altType" mixed="true">
 		<annotation>
 			<documentation xml:lang="en">
@@ -195,7 +260,7 @@
 			<annotation>
 				<documentation xml:lang="en">
 					<xhtml:p>
-						<xhtml:code>match</xhtml:code> is the <xhtml:a href="http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html#tag_09_04">POSIX extended regular expression (ERE)</xhtml:a> defining allowed matches.
+						<xhtml:code>match</xhtml:code> is the <xhtml:a href="http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html#tag_09_04">POSIX extended regular expression (ERE)</xhtml:a> defining allowed matches.  Where possible, alternates are listed in order of decreasing numbers of matched characters, which allows for regular expression engines using both POSIX's <xhtml:a href="http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html#tag_09_01_02">longest-match</xhtml:a> semantics and those which prefer the leftmost branch (e.g. <xhtml:a href="https://golang.org/pkg/regexp/#Compile">Go</xhtml:a>, <xhtml:a href="https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf#sec-alternative.cE">JavaScript</xhtml:a>, <xhtml:a href="http://perldoc.perl.org/perlre.html#Combining-RE-Pieces">Perl</xhtml:a>, <xhtml:a href="https://docs.python.org/3.5/library/re.html#regular-expression-syntax">Python</xhtml:a>, etc.)
 					</xhtml:p>
 				</documentation>
 			</annotation>

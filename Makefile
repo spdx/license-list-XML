@@ -1,4 +1,4 @@
-TOOL_VERSION = 2.1.11
+TOOL_VERSION = 2.1.12
 TEST_DATA = test/simpleTestForGenerator
 GIT_USERNAME="License Publisher (maintained by Gary O'Neall)"
 GIT_EMAIL="gary@sourceauditor.com"
@@ -48,19 +48,19 @@ release-license-data: deploy-license-data
 	fi
 	
 .PHONY: validate-canonical-match
-validate-canonical-match: spdx-tools-$(TOOL_VERSION).jar-valid resources/licenses-full.json $(TEST_DATA) .tmp
-	java -jar -DLocalFsfFreeJson=true -DlistedLicenseSchema="schema/ListedLicense.xsd" spdx-tools-$(TOOL_VERSION).jar LicenseRDFAGenerator src .tmp 1.0 2000-01-01 $(TEST_DATA) expected-warnings
+validate-canonical-match: licenseListPublisher-$(TOOL_VERSION).jar-valid resources/licenses-full.json $(TEST_DATA) .tmp
+	java -jar -DLocalFsfFreeJson=true -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator src .tmp 1.0 2000-01-01 $(TEST_DATA) expected-warnings
 
-.PRECIOUS: spdx-tools-%.jar
-spdx-tools-%.jar:
-	curl -L https://dl.bintray.com/spdx/spdx-tools/org/spdx/spdx-tools/$*/spdx-tools-$*-jar-with-dependencies.jar >$@
+.PRECIOUS: licenseListPublisher-%.jar
+licenseListPublisher-%.jar:
+	curl -L https://dl.bintray.com/spdx/spdx-tools/org/spdx/licenseListPublisher/$*/licenseListPublisher-$*-jar-with-dependencies.jar >$@
 
-.PRECIOUS: spdx-tools-%.jar.asc
-spdx-tools-%.jar.asc:
-	curl -L https://dl.bintray.com/spdx/spdx-tools/org/spdx/spdx-tools/$*/spdx-tools-$*-jar-with-dependencies.jar.asc >$@
+.PRECIOUS: licenseListPublisher-%.jar.asc
+licenseListPublisher-%.jar.asc:
+	curl -L https://dl.bintray.com/spdx/spdx-tools/org/spdx/licenseListPublisher/$*/licenseListPublisher-$*-jar-with-dependencies.jar.asc >$@
 
-.PHONY: spdx-tools-%.jar-valid
-spdx-tools-%.jar-valid: spdx-tools-%.jar.asc spdx-tools-%.jar goneall.gpg
+.PHONY: licenseListPublisher-%.jar-valid
+licenseListPublisher-%.jar-valid: licenseListPublisher-%.jar.asc licenseListPublisher-%.jar goneall.gpg
 	gpg --verify --no-default-keyring --keyring ./goneall.gpg $<
 
 .tmp:
@@ -68,9 +68,6 @@ spdx-tools-%.jar-valid: spdx-tools-%.jar.asc spdx-tools-%.jar goneall.gpg
 
 resources/licenses-full.json: resources
 	echo '{}' >$@
-# the 2.1.9 tools choke on the current live version.
-# https://github.com/wking/fsf-api/pull/9
-# https://github.com/wking/fsf-api/pull/10
 
 resources:
 	mkdir -p $@
@@ -81,4 +78,4 @@ clean:
 
 .PHONY: full-clean
 full-clean: clean
-	rm -rf resources spdx-tool-*.jar*
+	rm -rf resources licenseListPublisher-*.jar*

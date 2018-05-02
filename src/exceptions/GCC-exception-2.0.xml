@@ -14,13 +14,13 @@
         compiled version of this file<optional> into
         combinations</optional> with other programs, and to distribute
         those
-        <alt name="programs" match="programs|combinations">programs</alt>
+        <alt name="programs" match="combinations|programs">programs</alt>
         without any restriction coming from the use of this file.  (The
         <alt name="general" match="General|Library">General</alt>
         Public License restrictions do apply in other respects; for
         example, they cover modification of the file, and distribution
         when not linked into
-        <alt name="anotherProgram" match="another program|a combined? executable">another program</alt>.)</p>
+        <alt name="anotherProgram" match="a combined? executable|another program">another program</alt>.)</p>
     </text>
   </exception>
 </SPDXLicenseCollection>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="CC-BY-NC-ND-2.0"
-            name="Creative Commons Attribution Non Commercial No Derivatives 2.0">
+            name="Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic">
       <crossRefs>
          <crossRef>http://creativecommons.org/licenses/by-nc-nd/2.0/legalcode</crossRef>
       </crossRefs>
