@@ -5,4 +5,4 @@ matrix:
         - make validate-canonical-match
     - language: node_js
       node_js:
-      - "node"
+      - "9"
