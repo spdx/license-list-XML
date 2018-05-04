@@ -24,7 +24,7 @@ deploy-license-data: licenseListPublisher-$(TOOL_VERSION).jar-valid resources/li
 	rm -r .tmp/jsonld
 	rm -r .tmp/rdfa
 	rm -r .tmp/rdfnt
-	rm -r .tmp/rdfturtle7527de0395b76cb393e3678c4d942c848311f5cd
+	rm -r .tmp/rdfturtle
 	rm -r .tmp/rdfxml
 	rm -r .tmp/template
 	rm -r .tmp/text
