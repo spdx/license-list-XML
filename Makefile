@@ -49,7 +49,8 @@ release-license-data: deploy-license-data
 		echo Can not release license data - license list version '$VERSION' does not match a release pattern
 		exit 1
 	else
-		git tag -a $(VERSION) -m "Adding release mathing the license list XML tag $VERSION"
+		cd .tmp && \
+		git tag -a $(VERSION) -m "Adding release mathing the license list XML tag $(VERSION)" && \
 		git push origin --tags --quiet
 	fi
 
