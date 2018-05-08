@@ -12,7 +12,7 @@ RELEASE_MSG = Adding release matching the license list XML tag $(VERSION)
 #TODO Change the license data repo to license-list-xml before merging pull request
 	
 .PHONY: validate-canonical-match
-validate-canonical-match: licenseListPublisher-$(TOOL_VERSION).jar-valid resources/licenses-full.json $(TEST_DATA) $(LICENSE_OUTPUT_DIR)
+validate-canonical-match: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA) $(LICENSE_OUTPUT_DIR)
 	java -jar -DLocalFsfFreeJson=false -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator src $(LICENSE_OUTPUT_DIR) 1.0 2000-01-01 $(TEST_DATA) expected-warnings
 
 .PHONY: deploy-license-data
