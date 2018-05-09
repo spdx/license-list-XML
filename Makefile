@@ -1,7 +1,7 @@
 TOOL_VERSION = 2.1.12
 TEST_DATA = test/simpleTestForGenerator
 GIT_AUTHOR = License Publisher (maintained by Gary O'Neall) <gary@sourceauditor.com>
-LICENSE_DATA_REPO_NO_SCHEME = github.com/goneall/license-list-data.git
+LICENSE_DATA_REPO_NO_SCHEME = github.com/spdx/license-list-data.git
 LICENSE_DATA_REPO = https://$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_DATA_URL = https://$(GITHUB_TOKEN)@$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_OUTPUT_DIR = .tmp
