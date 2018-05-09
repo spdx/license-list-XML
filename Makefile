@@ -20,16 +20,7 @@ deploy-license-data: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA)
 	rm -rf $(LICENSE_OUTPUT_DIR)
 	git clone $(LICENSE_DATA_URL) $(LICENSE_OUTPUT_DIR) --quiet --depth 1
 	# Clean out the old data directories
-	rm -rf $(LICENSE_OUTPUT_DIR)/html
-	rm -rf $(LICENSE_OUTPUT_DIR)/json
-	rm -rf $(LICENSE_OUTPUT_DIR)/jsonld
-	rm -rf $(LICENSE_OUTPUT_DIR)/rdfa
-	rm -rf $(LICENSE_OUTPUT_DIR)/rdfnt
-	rm -rf $(LICENSE_OUTPUT_DIR)/rdfturtle
-	rm -rf $(LICENSE_OUTPUT_DIR)/rdfxml
-	rm -rf $(LICENSE_OUTPUT_DIR)/template
-	rm -rf $(LICENSE_OUTPUT_DIR)/text
-	rm -rf $(LICENSE_OUTPUT_DIR)/website
+	find "$(LICENSE_OUTPUT_DIR)" -mindepth 1 -maxdepth 1 -name .git -prune -o -type d -exec rm -rf {} \+
 	rm -f $(LICENSE_OUTPUT_DIR)/licenses.md
 	java -jar -DLocalFsfFreeJson=false -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator src $(LICENSE_OUTPUT_DIR) $(VERSION) $(RELEASE_DATE) $(TEST_DATA) expected-warnings
 	
