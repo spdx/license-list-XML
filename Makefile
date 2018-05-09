@@ -16,27 +16,26 @@ validate-canonical-match: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_
 	java -jar -DLocalFsfFreeJson=false -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator src $(LICENSE_OUTPUT_DIR) 1.0 2000-01-01 $(TEST_DATA) expected-warnings
 
 .PHONY: deploy-license-data
-deploy-license-data: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA) $(LICENSE_OUTPUT_DIR)	
+deploy-license-data: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA)
+	rm -rf $(LICENSE_OUTPUT_DIR)
 	git clone $(LICENSE_DATA_URL) $(LICENSE_OUTPUT_DIR) --quiet --depth 1
 	# Clean out the old data directories
-	rm -r $(LICENSE_OUTPUT_DIR)/html
-	rm -r $(LICENSE_OUTPUT_DIR)/json
-	rm -r $(LICENSE_OUTPUT_DIR)/jsonld
-	rm -r $(LICENSE_OUTPUT_DIR)/rdfa
-	rm -r $(LICENSE_OUTPUT_DIR)/rdfnt
-	rm -r $(LICENSE_OUTPUT_DIR)/rdfturtle
-	rm -r $(LICENSE_OUTPUT_DIR)/rdfxml
-	rm -r $(LICENSE_OUTPUT_DIR)/template
-	rm -r $(LICENSE_OUTPUT_DIR)/text
-	rm -r $(LICENSE_OUTPUT_DIR)/website
-	rm $(LICENSE_OUTPUT_DIR)/licenses.md
+	rm -rf $(LICENSE_OUTPUT_DIR)/html
+	rm -rf $(LICENSE_OUTPUT_DIR)/json
+	rm -rf $(LICENSE_OUTPUT_DIR)/jsonld
+	rm -rf $(LICENSE_OUTPUT_DIR)/rdfa
+	rm -rf $(LICENSE_OUTPUT_DIR)/rdfnt
+	rm -rf $(LICENSE_OUTPUT_DIR)/rdfturtle
+	rm -rf $(LICENSE_OUTPUT_DIR)/rdfxml
+	rm -rf $(LICENSE_OUTPUT_DIR)/template
+	rm -rf $(LICENSE_OUTPUT_DIR)/text
+	rm -rf $(LICENSE_OUTPUT_DIR)/website
+	rm -f $(LICENSE_OUTPUT_DIR)/licenses.md
 	java -jar -DLocalFsfFreeJson=false -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator src $(LICENSE_OUTPUT_DIR) $(VERSION) $(RELEASE_DATE) $(TEST_DATA) expected-warnings
 	
-	echo $(COMMIT_MSG)
 	git -C "$(LICENSE_OUTPUT_DIR)" add -A .
 	git -C "$(LICENSE_OUTPUT_DIR)" commit --author "$(GIT_AUTHOR)" -m "$(COMMIT_MSG)"
-	echo Pushing updates to the license list data repository.  This could take a while...
-	git -C "$(LICENSE_OUTPUT_DIR)" push --quiet origin
+	git -C "$(LICENSE_OUTPUT_DIR)" push origin
 	
 .PHONY: release-license-data
 release-license-data: deploy-license-data
