@@ -9,34 +9,33 @@ VERSION = $(shell git describe --always || echo 'UNKNOWN')
 RELEASE_DATE = $(shell date '+%Y-%m-%d')
 COMMIT_MSG = License list build $(VERSION) using license list publisher $(TOOL_VERSION)
 RELEASE_MSG = Adding release matching the license list XML tag $(VERSION)
-#TODO Change the license data repo to license-list-xml before merging pull request
 	
 .PHONY: validate-canonical-match
 validate-canonical-match: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA) $(LICENSE_OUTPUT_DIR)
-	java -jar -DLocalFsfFreeJson=false -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator src $(LICENSE_OUTPUT_DIR) 1.0 2000-01-01 $(TEST_DATA) expected-warnings
+	java -jar -DLocalFsfFreeJson=false -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator src '$(LICENSE_OUTPUT_DIR)' 1.0 2000-01-01 $(TEST_DATA) expected-warnings
 
 .PHONY: deploy-license-data
 deploy-license-data: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA)
-	rm -rf $(LICENSE_OUTPUT_DIR)
-	git clone $(LICENSE_DATA_URL) $(LICENSE_OUTPUT_DIR) --quiet --depth 1
+	rm -rf '$(LICENSE_OUTPUT_DIR)'
+	git clone --quiet --depth 1 $(LICENSE_DATA_URL) '$(LICENSE_OUTPUT_DIR)'
 	# Clean out the old data directories
-	find "$(LICENSE_OUTPUT_DIR)" -mindepth 1 -maxdepth 1 -name .git -prune -o -type d -exec rm -rf {} \+
+	find '$(LICENSE_OUTPUT_DIR)' -mindepth 1 -maxdepth 1 -name .git -prune -o -type d -exec rm -rf {} \+
 	rm -f $(LICENSE_OUTPUT_DIR)/licenses.md
-	java -jar -DLocalFsfFreeJson=false -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator src $(LICENSE_OUTPUT_DIR) $(VERSION) $(RELEASE_DATE) $(TEST_DATA) expected-warnings
+	java -jar -DLocalFsfFreeJson=false -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator src '$(LICENSE_OUTPUT_DIR)' $(VERSION) $(RELEASE_DATE) $(TEST_DATA) expected-warnings
 	
-	git -C "$(LICENSE_OUTPUT_DIR)" add -A .
-	git -C "$(LICENSE_OUTPUT_DIR)" commit --author "$(GIT_AUTHOR)" -m "$(COMMIT_MSG)"
-	git -C "$(LICENSE_OUTPUT_DIR)" push origin
+	git -C '$(LICENSE_OUTPUT_DIR)' add -A .
+	git -C '$(LICENSE_OUTPUT_DIR)' commit --author "$(GIT_AUTHOR)" -m "$(COMMIT_MSG)"
+	git -C '$(LICENSE_OUTPUT_DIR)' push origin
 	
 .PHONY: release-license-data
 release-license-data: deploy-license-data
-	if [[ $VERSION =~ .+-g[a-f0-9]{7} ]]
+	if [[ $(VERSION) =~ .+-g[a-f0-9]{7} ]]
 	then
-		echo Can not release license data - license list version '$VERSION' does not match a release pattern
+		echo Can not release license data - license list version $(VERSION) does not match a release pattern
 		exit 1
 	else
-		git -C "$(LICENSE_OUTPUT_DIR)" tag -a $(VERSION) -m "$(RELEASE_MESSAGE)"
-		git -C "$(LICENSE_OUTPUT_DIR)" push --tags --quiet origin
+		git -C '$(LICENSE_OUTPUT_DIR)' tag -a $(VERSION) -m "$(RELEASE_MESSAGE)"
+		git -C '$(LICENSE_OUTPUT_DIR)' push --tags --quiet origin
 	fi
 
 .PRECIOUS: licenseListPublisher-%.jar
