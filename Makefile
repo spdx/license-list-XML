@@ -27,17 +27,6 @@ deploy-license-data: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA)
 	git -C '$(LICENSE_OUTPUT_DIR)' commit --author "$(GIT_AUTHOR)" -m "$(COMMIT_MSG)"
 	git -C '$(LICENSE_OUTPUT_DIR)' push origin
 	
-.PHONY: release-license-data
-release-license-data: deploy-license-data
-	if [[ $(VERSION) =~ .+-g[a-f0-9]{7} ]]
-	then
-		echo Can not release license data - license list version $(VERSION) does not match a release pattern
-		exit 1
-	else
-		git -C '$(LICENSE_OUTPUT_DIR)' tag -a $(VERSION) -m "$(RELEASE_MESSAGE)"
-		git -C '$(LICENSE_OUTPUT_DIR)' push --tags --quiet origin
-	fi
-
 .PRECIOUS: licenseListPublisher-%.jar
 licenseListPublisher-%.jar:
 	curl -L https://dl.bintray.com/spdx/spdx-tools/org/spdx/licenseListPublisher/$*/licenseListPublisher-$*-jar-with-dependencies.jar >$@
