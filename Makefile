@@ -25,7 +25,7 @@ deploy-license-data: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA)
 	
 	git -C '$(LICENSE_OUTPUT_DIR)' add -A .
 	git -C '$(LICENSE_OUTPUT_DIR)' commit --author "$(GIT_AUTHOR)" -m "$(COMMIT_MSG)"
-	git -C '$(LICENSE_OUTPUT_DIR)' push $(LICENSE_DATA_URL)
+	git -C '$(LICENSE_OUTPUT_DIR)' push origin
 	
 .PRECIOUS: licenseListPublisher-%.jar
 licenseListPublisher-%.jar:
