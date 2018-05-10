@@ -22,7 +22,6 @@ deploy-license-data: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA)
 	find '$(LICENSE_OUTPUT_DIR)' -mindepth 1 -maxdepth 1 -name .git -prune -o -type d -exec rm -rf {} \+
 	rm -f $(LICENSE_OUTPUT_DIR)/licenses.md
 	java -jar -DLocalFsfFreeJson=false -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator src '$(LICENSE_OUTPUT_DIR)' $(VERSION) $(RELEASE_DATE) $(TEST_DATA) expected-warnings
-	
 	git -C '$(LICENSE_OUTPUT_DIR)' add -A .
 	git -C '$(LICENSE_OUTPUT_DIR)' commit --author "$(GIT_AUTHOR)" -m "$(COMMIT_MSG)"
 	git -C '$(LICENSE_OUTPUT_DIR)' push origin
