@@ -26,8 +26,8 @@
             </item>
             <item>
                 <bullet>3.</bullet>
-				<alt match="(The\sname\sof\s.+may not)|(Neither\sthe\sname\sof\s.+nor\sthe\snames\sof\sits\scontributors\smay)" name="organizationClause3">
-                Neither the name of the copyright holder nor the names of its contributors may</alt> 
+                <alt match="(The name of.+may not)|(Neither the name of.+nor the names of its contributors may)" name="organizationClause3">
+                 Neither the name of the copyright holder nor the names of its contributors may</alt> 
                  be used to endorse or promote products derived from this 
                  software without specific prior written permission.
             </item>
