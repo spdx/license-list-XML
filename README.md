@@ -9,6 +9,12 @@ Please note that the format for this repository is internal to the SPDX legal te
 
 In contrast, the output files in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data) are stable and well-supported, and make the License List available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://github.com/spdx/tools) (or create your own) to consume the supported formats of the license list.
 
+# Case insensitivity
+
+This project commits to never, in any past or future version, contain identifiers which differ only in case but have different semantics.
+For example, the presence of an [`MIT`](src/MIT.xml) identifier in the current list means that there will never be an `Mit` identifier which matches text not matched by the `MIT` identifier.
+List consumers are enouraged to use the canonical identifier casing, but this uniqueness commitment ensures that case-insensitive comparison with listed identifiers will be unambiguous.
+
 # How to contribute/participate
 
 We welcome contribution!  See [our contribution documentation](CONTRIBUTING.md) for details.
