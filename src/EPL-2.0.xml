@@ -6,6 +6,9 @@
 			<crossRef>https://www.eclipse.org/legal/epl-2.0</crossRef>
 			<crossRef>https://www.opensource.org/licenses/EPL-2.0</crossRef>
 		</crossRefs>
+    <notes>
+      <p>Secondary Licenses declared via Exhibit A should be represented using the disjunctive OR operator (See: SPDX spec, section on SPDX License Expressions and https://www.eclipse.org/legal/epl-2.0/faq.php for more info).</p>  
+    </notes>
     <text>
 		<titleText>
 			<p>Eclipse Public License - v 2.0</p>
