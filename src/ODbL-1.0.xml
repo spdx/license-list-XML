@@ -308,8 +308,14 @@
                   <p>DATABASE NAME should be replaced with the name of the Database and a hyperlink to the URI of
                the Database. "Open Database License" should contain a hyperlink to the URI of
                the text of this License. If hyperlinks are not possible, You should include the plain
-               text of the required URI's with the above notice. 4.4 Share alike.</p>
+               text of the required URI's with the above notice.</p>
                </item>
+	    </list>
+		</item>
+		<item>
+			<bullet>4.4</bullet>
+			Share alike.
+			<list>
                <item>
                   <bullet>a.</bullet>
             Any Derivative Database that You Publicly Use must be only under the terms of:
