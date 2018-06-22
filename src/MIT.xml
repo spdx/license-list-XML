@@ -9,7 +9,9 @@
          <p>MIT License</p>
       </titleText>
       <copyrightText>
-         <p><alt match=".+" name="copyright">Copyright (c) &lt;year&gt; &lt;copyright holders&gt;</alt></p>
+         <p>Copyright (c) 
+		    <alt match=".+" name="copyright">&lt;year&gt; &lt;copyright holders&gt;</alt>
+	     </p>
       </copyrightText>
     
       <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
