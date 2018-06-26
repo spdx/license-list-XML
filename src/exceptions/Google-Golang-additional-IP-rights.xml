@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+    <exception licenseId="Google-Golang-additional-IP-rights"
+               name="Google Additional IP Rights Grant (Patents) for Golang">
+        <crossRefs>
+            <crossRef>https://github.com/golang/go/blob/4468e5b3761b8d38104cec857fc7ec20cdc211ad/PATENTS</crossRef>
+        </crossRefs>
+        <text>
+            <titleText>
+                <p>Additional IP Rights Grant (Patents)</p>
+            </titleText>
+
+            <p>
+                "This implementation" means the copyrightable works distributed by Google as part of <alt match=".+" name="project0">the Go project</alt>.
+            </p>
+
+            <p>
+                Google hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, transfer<optional>,</optional> and otherwise run, modify and propagate the contents of this implementation of <alt match=".+" name="project1">Go</alt>, where such license applies only to those patent claims, both currently owned or controlled by Google and acquired in the future, licensable by Google that are necessarily infringed by this implementation of <alt match=".+" name="project2">Go</alt>.  This grant does not include claims that would be infringed only as a consequence of further modification of this implementation.  If you or your agent or exclusive licensee institute or order or agree to the institution of patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that this implementation of <alt match=".+" name="project3">Go</alt> or any code incorporated within this implementation of <alt match=".+" name="project4">Go</alt> constitutes direct or contributory patent infringement, or inducement of patent infringement, then any patent rights granted to you under this License for this implementation of <alt match=".+" name="project5">Go</alt> shall terminate as of the date such litigation is filed.
+            </p>
+        </text>
+    </exception>
+</SPDXLicenseCollection>
