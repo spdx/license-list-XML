@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <exception licenseId="OCaml-LGPL-Linking-Exception" name="OCaml LGPL Linking Exception">
+      <crossRefs>
+         <crossRef>https://caml.inria.fr/ocaml/license.en.html</crossRef>
+      </crossRefs>
+      <notes>
+        Adopted by OCaml core in 2001 here: https://github.com/ocaml/ocaml/commit/02ef950033b81fe371759f024faa55f361ba83a6#diff-9879d6db96fd29134fc802214163b95a (git-svn-id: http://caml.inria.fr/svn/ocaml/trunk@4146 f963ae5c-01c2-4b8c-9fe0-0dff7051ff02)
+      </notes>
+    <text>
+      <titleText>
+         <p>OCaml LGPL Linking Exception</p>
+      </titleText>
+      <p>
+        In the following, "the OCaml Core System" refers to all files marked
+        "Copyright INRIA" in this distribution.
+
+        The OCaml Core System is distributed under the terms of the GNU Lesser
+        General Public License (LGPL) version 2.1 (included below).
+
+        As a special exception to the GNU Lesser General Public License, you may
+        link, statically or dynamically, a "work that uses the OCaml Core System"
+        with a publicly distributed version of the OCaml Core System to produce
+        an executable file containing portions of the OCaml Core System, and
+        distribute that executable file under terms of your choice, without any
+        of the additional requirements listed in clause 6 of the GNU Lesser
+        General Public License. By "a publicly distributed version of the OCaml
+        Core System", we mean either the unmodified OCaml Core System as
+        distributed by INRIA, or a modified version of the OCaml Core System
+        that is distributed under the conditions defined in clause 2 of the GNU
+        Lesser General Public License. This exception does not however
+        invalidate any other reasons why the executable file might be covered
+        by the GNU Lesser General Public License.
+      </p>
+    </text>
+  </exception>
+</SPDXLicenseCollection>
