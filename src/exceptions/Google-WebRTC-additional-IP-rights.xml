@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+    <exception licenseId="Google-WebRTC-additional-IP-rights"
+               name="Google Additional IP Rights Grant (Patents) for WebRTC">
+        <crossRefs>
+            <crossRef>https://webrtc.googlesource.com/src/+/bb547203bfebcc478b263c4e9ca173c6fd5a0c5d/PATENTS</crossRef>
+        </crossRefs>
+        <text>
+            <titleText>
+                <p>Additional IP Rights Grant (Patents)</p>
+            </titleText>
+
+            <p>
+                "This implementation" means the copyrightable works distributed by Google as part of <alt match=".+" name="project0">the WebRTC code package</alt>.
+            </p>
+
+            <p>
+                Google hereby grants to you a perpetual, worldwide, non-exclusive, no-charge, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, transfer<optional>,</optional> and otherwise run, modify and propagate the contents of this implementation of <alt match=".+" name="project1">the WebRTC code package</alt>, where such license applies only to those patent claims, both currently owned by Google and acquired in the future, licensable by Google that are necessarily infringed by this implementation of <alt match=".+" name="project2">the WebRTC code package</alt>. This grant does not include claims that would be infringed only as a consequence of further modification of this implementation. If you or your agent or exclusive licensee institute or order or agree to the institution of patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that this implementation of <alt match=".+" name="project3">the WebRTC code package</alt> or any code incorporated within this implementation of <alt match=".+" name="project4">the WebRTC code package</alt> constitutes direct or contributory patent infringement, or inducement of patent infringement, then any patent rights granted to you under this License for this implementation of <alt match=".+" name="project5">the WebRTC code package</alt> shall terminate as of the date such litigation is filed.
+            </p>
+        </text>
+    </exception>
+</SPDXLicenseCollection>
