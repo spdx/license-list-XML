@@ -7,11 +7,11 @@
       </crossRefs>
     <text>
       <titleText>
-	     <optional>##</optional>
+        <alt name="header1" match="#*"/>
          <p>ODC Open Database License (ODbL)</p>
       </titleText>
       <optional>
-	     <optional>###</optional>
+        <alt name="header2" match="#*"/>
          <p>Preamble</p>
          <p>The Open Database License (ODbL) is a license agreement intended to allow users to freely share, modify,
          and use this Database while maintaining this same freedom for others. Many databases are covered by
