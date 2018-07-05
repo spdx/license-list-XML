@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="ODC-By-1.0"
+   <license isOsiApproved="false" listVersionAdded="3.2" licenseId="ODC-By-1.0"
             name="Open Data Commons Attribution License v1.0">
       <crossRefs>
          <crossRef>https://opendatacommons.org/licenses/by/1.0/</crossRef>
