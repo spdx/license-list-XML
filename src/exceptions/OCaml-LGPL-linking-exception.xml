@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <exception licenseId="OCaml-LGPL-Linking-Exception" name="OCaml LGPL Linking Exception">
+   <exception licenseId="OCaml-LGPL-Linking-Exception" name="OCaml LGPL Linking Exception" listVersionAdded="TODO">
       <crossRefs>
          <crossRef>https://caml.inria.fr/ocaml/license.en.html</crossRef>
       </crossRefs>
