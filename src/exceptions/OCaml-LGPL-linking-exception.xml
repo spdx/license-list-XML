@@ -12,13 +12,8 @@
          <p>OCaml LGPL Linking Exception</p>
       </titleText>
       <p>
-        In the following, "the OCaml Core System" refers to all files marked
-        "Copyright INRIA" in this distribution.
-
-        The OCaml Core System is distributed under the terms of the GNU Lesser
-        General Public License (LGPL) version 2.1 (included below).
-
-        As a special exception to the GNU Lesser General Public License, you may
+        As a special exception to the GNU <alt name="lesser" match="Library|Lesser">Lesser</alt> 
+        General Public License, you may
         link, statically or dynamically, a "work that uses the OCaml Core System"
         with a publicly distributed version of the OCaml Core System to produce
         an executable file containing portions of the OCaml Core System, and
