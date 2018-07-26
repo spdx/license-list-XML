@@ -8,12 +8,14 @@ Please familiarize yourself with the SPDX License List and its supporting docume
 The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done via the mailing list and bi-weekly calls. In particular, the bi-weekly calls are used to discuss topics and issues that may be difficult to only discuss via email.
 You can join the mailing list and otherwise manage your subscription [via spdx-legal mailman](https://lists.spdx.org/mailman/listinfo/spdx-legal). Information on the bi-weekly calls and the working area for the SPDX Legal Team, can be found on the [SPDX legal team wiki](https://wiki.spdx.org/view/Legal_Team)
 
+Please do not raise general questions via issues in this Github repository, but use the appropriate workgroup mailing list. 
+
 ## Request a new license or exception be added to the SPDX License List
 The SPDX Legal Team appreciates proposals for new free and open source licenses or exceptions to be added to the SPDX License List.  To request a license or exception be added to the SPDX License List, please:
 
 1.  Review the [license list overview and inclusion principles](https://spdx.org/spdx-license-list/license-list-overview).
 
-2.  Check the historical license and exceptions [tracking page](https://docs.google.com/spreadsheets/d/11AKxLBoN_VXM32OmDTk2hKeYExKzsnPjAVM7rLstQ8s/edit?pli=1#gid=695212681) and issues labeled [new license/exception request](https://github.com/spdx/license-list-XML/labels/new%20license%2Fexception%20request) to ensure this license or exception has not been previously requested. 
+2.  Check the [SPDX License List](https://spdx.org/licenses/), historical license and exceptions [tracking page](https://docs.google.com/spreadsheets/d/11AKxLBoN_VXM32OmDTk2hKeYExKzsnPjAVM7rLstQ8s/edit?pli=1#gid=695212681) and issues labeled [new license/exception request](https://github.com/spdx/license-list-XML/labels/new%20license%2Fexception%20request) to ensure this license or exception has not been previously requested. 
 
 3. Submit your request with all of the following information either via a new Issue or via the SPDX-legal mailing list
 (If you are not on the SPDX-legal mailing list, please join first, see above. If you send your license request without joining the mailing list, this will greatly slow down correspondance in both directions.)
@@ -21,7 +23,7 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 * Issue name or email subject line: "New License/Exception Request: <license/exception name>" 
 * Provide a proposed Full Name for the license or exception.
 * Provide a proposed Short Identifier.
-* Provide a functioning URL reference to the license or exception text.
+* Provide a functioning URL reference to the license or exception text, preferably from the author or a community recognized source.
 * Indicate whether the license is OSI-approved or is currently under review. (If the latter, please provide some information as to where in the process.) 
 * Provide a short explanation regarding the need for this license or exception to be included on the SPDX License List, and identify at least one program that uses it.
 * Provide the text of the license. 
@@ -38,4 +40,4 @@ Examples of things that should be logged via an issue (versus raised on the mail
 * update an URL for a license
 * recommend additional markup for matching purposes (usually requires legal review)
 
-Please do not raise general questions via issues in this Github repository, but use the appropriate workgroup mailing list. 
+
