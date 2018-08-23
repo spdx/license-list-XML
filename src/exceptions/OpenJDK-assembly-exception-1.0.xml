@@ -7,14 +7,16 @@
       </crossRefs>
       <text>
       <titleText>OpenJDK Assembly Exception</titleText>
-      <p>
-         The OpenJDK source code made available by Oracle America, Inc.
-         (Oracle) at openjdk.java.net ("OpenJDK Code") is distributed
-         under the terms of the GNU General Public License
-         &lt;http://www.gnu.org/copyleft/gpl.html&gt; version 2 only
-         ("GPL2"), with the following clarification and special
-         exception.
-      </p>
+      <optional>
+         <p>
+            The OpenJDK source code made available by Oracle America, Inc.
+            (Oracle) at openjdk.java.net ("OpenJDK Code") is distributed
+            under the terms of the GNU General Public License
+            &lt;http://www.gnu.org/copyleft/gpl.html&gt; version 2 only
+            ("GPL2"), with the following clarification and special
+            exception.
+         </p>
+       </optional>
 
       <list>
          <item>
@@ -37,16 +39,17 @@
             </p>
          </item>
       </list>
-
-      <p>As such, it allows licensees and sublicensees of Oracle's GPL2
-         OpenJDK Code to build an executable that includes those
-         portions of necessary code that Oracle could not provide under
-         GPL2 (or that Oracle has provided under GPL2 with the Classpath
-         exception). If you modify or add to the OpenJDK code, that new
-         GPL2 code may still be combined with Designated Exception
-         Modules if the new code is made subject to this exception by
-         its copyright holder.
-      </p>
+         <optional>
+            <p>As such, it allows licensees and sublicensees of Oracle's GPL2
+               OpenJDK Code to build an executable that includes those
+               portions of necessary code that Oracle could not provide under
+               GPL2 (or that Oracle has provided under GPL2 with the Classpath
+               exception). If you modify or add to the OpenJDK code, that new
+               GPL2 code may still be combined with Designated Exception
+               Modules if the new code is made subject to this exception by
+               its copyright holder.
+            </p>
+         </optional>
       </text>
    </exception>
 </SPDXLicenseCollection>
