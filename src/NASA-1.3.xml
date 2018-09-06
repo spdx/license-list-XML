@@ -17,9 +17,11 @@
          REPRODUCES, DISTRIBUTES, MODIFIES OR REDISTRIBUTES THE SUBJECT SOFTWARE, AS DEFINED HEREIN, OR ANY
          PART THEREOF, IS, BY THAT ACTION, ACCEPTING IN FULL THE RESPONSIBILITIES AND OBLIGATIONS CONTAINED IN
          THIS AGREEMENT.</p>
-      <p>Government Agency: _____ Government Agency Original Software Designation: __ Government Agency Original
-         Software Title: _____ User Registration Requested. Please Visit http://___ Government Agency Point of
-         Contact for Original Software: _____</p>
+      <p>Government Agency: <alt match=".+" name="governmentAgency">_______________</alt></p>
+      <p>Government Agency Original Software Designation: <alt match=".+" name="governmentAgencyOriginalSoftwareDesignation">_______________</alt></p>
+      <p>Government Agency Original Software Title: <alt match=".+" name="governmentAgencyOriginalSoftwareTitle">_______________</alt></p>
+      <p>User Registration Requested. Please Visit <alt match=".+" name="userRegistrationWebsite1">http://_______________</alt></p>
+      <p>Government Agency Point of Contact for Original Software: <alt match=".+" name="governmentAgencyPointOfContact1">_______________</alt></p>
       <list>
           
         <item>
@@ -64,7 +66,7 @@
                   <bullet>G.</bullet>
                 
                     "Original Software" means the computer software first released under this Agreement
-                    by Government Agency with Government Agency designation __ and entitled _________, including
+                    by Government Agency with Government Agency designation <alt match=".+" name="governmentAgencyDesignation">_______________</alt> and entitled <alt match=".+" name="governmentAgencyTitle">_______________</alt>, including
                     source code, object code and accompanying documentation, if any.
                 
             </item>
@@ -212,10 +214,10 @@
                     <p>[The following copyright notice will be used if created by a contractor pursuant to Government
                      Agency contract and rights obtained from creator by assignment. Government Agency will insert
                      the year and its Agency designation and remove the bracketed language.] Copyright (c) {YEAR}
-                     United States Government as represented by ___ ____. All Rights Reserved.</p>
+                     United States Government as represented by <alt match=".+" name="governmentRepresentedBy1">_______________</alt>. All Rights Reserved.</p>
                     <p>[The following copyright notice will be used if created by civil servants only. Government Agency
                      will insert the year and its Agency designation and remove the bracketed language.] Copyright
-                     (c) {YEAR} United States Government as represented by ____ ____. No copyright is claimed in
+                     (c) {YEAR} United States Government as represented by <alt match=".+" name="governmentRepresentedBy2">_______________</alt>. No copyright is claimed in
                      the United States under Title 17, U.S.Code. All Other Rights Reserved.</p>
                 </item>
                 <item>
@@ -248,7 +250,7 @@
                     <bullet>F.</bullet>
                     In an effort to track usage and maintain accurate records of the Subject Software, each
                      Recipient, upon receipt of the Subject Software, is requested to register with Government
-                     Agency by visiting the following website: ______. Recipient's name and personal
+                     Agency by visiting the following website: <alt match=".+" name="userRegistrationWebsite2">_______________</alt>. Recipient's name and personal
                      information shall be used for statistical purposes only. Once a Recipient makes a Modification
                      available, it is requested that the Recipient inform Government Agency at the web site
                      provided above how to access the Modification.
@@ -256,7 +258,7 @@
                      will not be supported by releasing Government Agency] In an effort to track usage and maintain
                      accurate records of the Subject Software, each Recipient, upon receipt of the Subject
                      Software, is requested to provide Government Agency, by e-mail to the Government Agency Point
-                     of Contact listed in clause 5.F., the following information: ______. Recipient's name and
+                     of Contact listed in clause 5.F., the following information: <alt match=".+" name="governmentAgencyPointOfContact2">_______________</alt>. Recipient's name and
                      personal information shall be used for statistical purposes only. Once a Recipient makes a
                      Modification available, it is requested that the Recipient inform Government Agency, by e-mail
                      to the Government Agency Point of Contact listed in clause 5.F., how to access the
@@ -366,7 +368,7 @@
                 <item>
                     <bullet>F.</bullet>
                     Point of Contact: Any Recipient contact with Government Agency is to be directed to the
-                     designated representative as follows: ___________.
+                     designated representative as follows: <alt match=".+" name="governmentAgencyPointOfContact3">_______________</alt>.
                 </item>
             </list>
         </item>
