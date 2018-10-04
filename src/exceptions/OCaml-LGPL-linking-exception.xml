@@ -16,24 +16,25 @@
               As a special exception to the GNU <alt name="libraryTypo"
               match="Library|Lesser">Lesser</alt> General Public License, you
               may link, statically or dynamically, a "work that uses <alt
-              name="linkedSoftwareName1" match="the OCaml Core System|opam">
-              the OCaml Core System</alt>with a publicly distributed version of
-              <alt name="linkedSoftwareName2"
-              match="the OCaml Core System|opam">the OCaml Core System</alt> to
-              produce an executable file containing portions of
+              name="linkedSoftwareName1"
+              match="the OCaml Core System|opam|the Library">the OCaml Core
+              System</alt>with a publicly distributed version of <alt
+              name="linkedSoftwareName2"
+              match="the OCaml Core System|opam|the Library">the OCaml Core
+              System</alt> to produce an executable file containing portions of
               <alt name="linkedSoftwareName3"
-              match="the OCaml Core System|opam">the OCaml Core System</alt>,
-              and distribute that executable file under terms of your choice,
-              without any of the additional requirements listed in clause 6 of
-              the GNU Lesser General Public License. By "a publicly distributed
-              version of <alt name="linkedSoftwareName4"
-              match="the OCaml Core System|opam">
-              the OCaml Core System</alt>", we mean either the unmodified <alt
-              name="linkedSoftwareName5" match="OCaml Core System|opam">
+              match="the OCaml Core System|opam|the Library">the OCaml Core
+              System</alt>, and distribute that executable file under terms of
+              your choice, without any of the additional requirements listed in
+              clause 6 of the GNU Lesser General Public License. By "a publicly
+              distributed version of <alt name="linkedSoftwareName4"
+              match="the OCaml Core System|opam|the Library">the OCaml Core
+              System</alt>", we mean either the unmodified <alt
+              name="linkedSoftwareName5" match="OCaml Core System|opam|Library">
               OCaml Core System</alt> as distributed by <alt name="distributor"
               match="INRIA|OCamlPro">INRIA</alt>, or a modified version of <alt
               name="linkedSoftwareName6"
-              match="the OCaml Core System|opam|the opam">
+              match="the OCaml Core System|opam|the opam|the Library">
               the OCaml Core System</alt> that is distributed under the
               conditions defined in clause 2 of the GNU Lesser General Public
               License. This exception does not however invalidate any other
