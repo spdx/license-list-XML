@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-    <exception licenseId="OCaml-LGPL-Linking-Exception" name="OCaml LGPL Linking Exception" listVersionAdded="3.3">
+    <exception licenseId="OCaml-LGPL-linking-exception" name="OCaml LGPL Linking Exception" listVersionAdded="3.3">
         <crossRefs>
             <crossRef>https://caml.inria.fr/ocaml/license.en.html</crossRef>
         </crossRefs>
@@ -18,7 +18,7 @@
               may link, statically or dynamically, a "work that uses <alt
               name="linkedSoftwareName1"
               match="the OCaml Core System|opam|the Library">the OCaml Core
-              System</alt>with a publicly distributed version of <alt
+              System</alt>" with a publicly distributed version of <alt
               name="linkedSoftwareName2"
               match="the OCaml Core System|opam|the Library">the OCaml Core
               System</alt> to produce an executable file containing portions of
