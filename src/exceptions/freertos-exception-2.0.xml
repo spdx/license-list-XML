@@ -3,9 +3,9 @@
    <exception licenseId="freertos-exception-2.0" name="FreeRTOS Exception 2.0">
       <crossRefs>
          <crossRef>http://www.freertos.org/a00114.html#exception</crossRef>
+         <crossRef>https://web.archive.org/web/20140825223939/http://www.freertos.org:80/license.txt</crossRef>
       </crossRefs>
-      <notes>Used with GPL-2.0, as specified at
-         http://www.freertos.org/license.txt</notes>
+      <notes>Used with GPL-2.0</notes>
     <text>
       <p>Any FreeRTOS source code, whether modified or in its original
        release form, or whether in whole or in part, can only be
