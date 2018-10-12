@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-    <license isOsiApproved="false" licenseId="OGL-UK-1.0" name="Open Government License (UK) v1.0" listVersionAdded="3.3">
+    <license isOsiApproved="false" licenseId="OGL-UK-1.0" name="Open Government Licence (UK) v1.0" listVersionAdded="3.3">
         <crossRefs>
             <crossRef>http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/</crossRef>
         </crossRefs>
