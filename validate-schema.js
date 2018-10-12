@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Node.js for validating SPDX license XML files.
- * SPDX-License-Identifier: MIT
+ * SPDX-License-Identifier: CC0-1.0
  */
 
 var xsd = require('libxml-xsd');
