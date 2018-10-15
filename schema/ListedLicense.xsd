@@ -7,7 +7,7 @@
 				This format is internal to the SPDX legal team and is subject to change.  For stable output formats, see <xhtml:a href="https://github.com/spdx/license-list-data">license-list-data</xhtml:a>.
 			</xhtml:p>
 			<xhtml:p>
-				SPDX-License-Identifier: CC0-1.0.
+				SPDX-License-Identifier: CC0-1.0
 			</xhtml:p>
 		</documentation>
 	</annotation>
