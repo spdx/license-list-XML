@@ -9,6 +9,6 @@ Please note that the format for this repository is internal to the SPDX legal te
 
 In contrast, the output files in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data) are stable and well-supported, and make the License List available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://github.com/spdx/tools) (or create your own) to consume the supported formats of the license list.
 
-# How to contribute/participate
+# How to contribute/participate 
 
 We welcome contribution!  See [our contribution documentation](CONTRIBUTING.md) for details.
