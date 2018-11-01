@@ -10,7 +10,7 @@ New licenses/exceptions added: 6
 1. OCaml-LGPL-linking-exception
 1. Sendmail-8.23
 
-Added CC0-1.0 as license for source files associated
+Updated or added license info for source files associated with SPDX License List (.json, scheme, .js files) with CC0-1.0
 
 Various additions to Notes field
 
