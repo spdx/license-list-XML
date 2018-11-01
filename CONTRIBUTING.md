@@ -31,7 +31,7 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 * Text: Full text of the license or exception. 
 * Comments: Provide a short explanation regarding the need for this license or exception to be included on the SPDX License List, and identify at least one program that uses it.
 
-4. Follow the discussion or any request for additional information via the Issue and comments.
+4. Follow the discussion or any request for additional information via the Issue and comments. Note, if the SPDX-legal team has questions that go unanswered for several months, we will close the issue without making a final decision. 
 
 ## Review Process
 
