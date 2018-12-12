@@ -25,7 +25,7 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 
 * Full Name: Provide a proposed Full Name for the license or exception. 
 * Short Identifier: Provide a proposed Short Identifier. 
-* Source/URL Provide a functioning URL reference to the license or exception text, preferably from the author or a community recognized source.
+* Source/URL: Provide a functioning URL reference to the license or exception text, preferably from the author or a community recognized source.
 * OSI Approved: Indicate whether the license is OSI-approved or is currently under review. (If the latter, please provide some information as to where in the process.) 
 * Standard License Header: If the license designates specific text to be put in the header of source files, include that here; otherwise leave blank.
 * Text: Full text of the license or exception. 
