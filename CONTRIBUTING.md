@@ -37,7 +37,7 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 
 1. The SPDX Legal Team will discuss any submissions for new licenses or exceptions via comments in the Github issue. Please follow the comments and respond accordingly if there are questions or additional information requested.
 2. New licenses may be approved if 3 SPDX-legal team members (2 lawyers, 1 non-lawyer) sign-off that the license is acceptable AND there is no objection raised from the greater SPDX-legal community within the Github issue comments. If there are objections, then the issue will be labelled "discuss on legal call" and will be discussed on an upcoming bi-weekly call. 
-2. Issues will be lablled either "new license/exception: Accepted" or "new license/exception: Not Accepted" as appropriate with an explanation and the Issue closed for the latter case.
+3. Issues will be labelled either "new license/exception: Accepted" or "new license/exception: Not Accepted" as appropriate with an explanation and the Issue closed for the latter case.
 3. If accepted, the new license or exception will be prepared by a member of the SPDX Legal Team in the proper XML format and plain text via a Pull Request and reviewed as appropriate. 
 4. The new license/exception will be officially added for the next release of the SPDX License List.
 
