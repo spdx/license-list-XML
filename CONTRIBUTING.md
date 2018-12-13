@@ -6,8 +6,8 @@ Please familiarize yourself with the SPDX License List and its supporting docume
 
 # How to contribute/participate: general
 The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done via:
-* mailing list: our traditional form of communication. Meeting reminders, minutes, updates are posted there, as well as discussion. You can join the mailing list and otherwise manage your subscription [via spdx-legal mailman](https://lists.spdx.org/mailman/listinfo/spdx-legal). 
-* this Github repo: comments and issues and PRs related to specific changes to the files that comprise the SPDX License List, e.g., update a URL, recommend additional markup for matching purposes. In particular, new license requests are tracked here.
+* mailing list: our traditional form of communication. Meeting reminders, minutes, and updates are posted there, as well as discussion. You can join the mailing list and otherwise manage your subscription [via spdx-legal mailman](https://lists.spdx.org/mailman/listinfo/spdx-legal). 
+* this Github repo: comments and issues and PRs related to specific changes to the files that comprise the SPDX License List, e.g., update a URL, recommend additional markup for matching purposes, or other such changes. Requests for new license or exceptions are tracked here, see more info on that process below.
 * bi-weekly calls: used to discuss topics and issues that may be difficult to only discuss via email or via Github. Information on the bi-weekly calls and the working area for the SPDX Legal Team, can be found on the [SPDX legal team wiki](https://wiki.spdx.org/view/Legal_Team)
 
 Please do not raise general questions via issues in this Github repository, but use the appropriate workgroup mailing list. 
@@ -21,15 +21,15 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 
 3. Submit your request via the SPDX Online Tool [Submit New License](http://13.57.134.254/app/submit_new_license/) using the following guidance. See also [overview-fields](https://spdx.org/spdx-license-list/license-list-overview#fields) for more info on some of these fields. Note: you must have a Github account in order to use this tool/process. 
 
-* Full Name: Provide a proposed Full Name for the license or exception. 
-* Short Identifier: Provide a proposed Short Identifier. 
+* Full Name: Provide a proposed Full Name for the license or exception using the guidance in the [overview-fields](https://spdx.org/spdx-license-list/license-list-overview#fields). 
+* Short Identifier: Provide a proposed Short Identifier using the guidance in the [overview-fields](https://spdx.org/spdx-license-list/license-list-overview#fields). 
 * Source/URL: Provide a functioning URL reference to the license or exception text, preferably from the author or a community recognized source.
 * OSI Approved: Indicate whether the license is OSI-approved or is currently under review. (If the latter, please provide some information as to where in the process.) 
 * Standard License Header: If the license designates specific text to be put in the header of source files, include that here; otherwise leave blank.
 * Text: Full text of the license or exception. 
-* Comments: Provide a short explanation regarding the need for this license or exception to be included on the SPDX License List, and identify at least one program that uses it.
+* Comments: Provide a short explanation regarding the need for this license or exception to be included on the SPDX License List, and identify at least one program that uses it or any other related information. 
 
-4. Follow the discussion or any request for additional information via the Issue and comments. Note, if the SPDX-legal team has questions that go unanswered for several months, we will close the issue without making a final decision. 
+4. Follow the discussion or any request for additional information via the issue and comments. Please note, if the SPDX-legal team has questions that go unanswered by the submitter for several months, we will close the issue without making a final decision. 
 
 ## Review Process
 
