@@ -1,5 +1,17 @@
 # Release Notes for SPDX License List
 
+## version 3.4 - 2018-12-???
+
+New licenses/exceptions added: 0
+
+Various minor updates to license matching markup
+
+Updated CONTRIBUTING page and links for "Request New License" (previously a webpage) to point here
+
+See all PRs for 3.4 here: https://github.com/spdx/license-list-XML/pulls?utf8=%E2%9C%93&q=milestone%3A%223.4+release%22+
+
+See comparision of changes from 3.3 and 3.4:
+
 ## version 3.3 - 2018-10-24
 
 New licenses/exceptions added: 6
