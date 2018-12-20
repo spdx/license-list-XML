@@ -12,6 +12,7 @@ Updated CONTRIBUTING page and links for "Request New License" (previously a webp
 
 See all PRs for 3.4 here: https://github.com/spdx/license-list-XML/pulls?utf8=%E2%9C%93&q=milestone%3A%223.4+release%22+
 
+See comparision of changes from 3.3 and 3.4: https://github.com/spdx/license-list-XML/compare/v3.3...v3.4
 
 ## version 3.3 - 2018-10-24
 
