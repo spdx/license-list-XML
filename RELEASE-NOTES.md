@@ -1,10 +1,12 @@
 # Release Notes for SPDX License List
 
-## version 3.4 - 2018-12-???
+## version 3.4 - 2018-12-20
 
-New licenses/exceptions added: 0
+New licenses/exceptions added: 1
 
-Various minor updates to license matching markup
+1. copyleft-next-0.3.0
+
+Various minor updates to license matching markup and tools.
 
 Updated CONTRIBUTING page and links for "Request New License" (previously a webpage) to point here
 
@@ -18,7 +20,7 @@ New licenses/exceptions added: 6
 1. OGL-UK-1.0
 1. OGL-UK-2.0
 1. OGL-UK-3.0
-1. copyleft-next-0.3.2
+1. copyleft-next-0.3.1
 1. OCaml-LGPL-linking-exception
 1. Sendmail-8.23
 
