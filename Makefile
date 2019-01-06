@@ -7,7 +7,9 @@ LICENSE_DATA_REPO_NO_SCHEME = github.com/spdx/license-list-data.git
 LICENSE_DATA_REPO = https://$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_DATA_URL = https://$(GITHUB_TOKEN)@$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_OUTPUT_DIR = .tmp
-VERSION = $(shell git describe --always || echo 'UNKNOWN')
+GITVERSION = $(shell git describe --always || echo 'UNKNOWN')
+# Remove leading 'v' or 'V'
+VERSION = $(subst V,,$(subst v,,$(GITVERSION)))
 RELEASE_DATE = $(shell date '+%Y-%m-%d')
 COMMIT_MSG = License list build $(VERSION) using license list publisher $(TOOL_VERSION)
 RELEASE_MSG = Adding release matching the license list XML tag $(VERSION)
