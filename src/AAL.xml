@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="AAL" name="Attribution Assurance License">
       <crossRefs>
-         <crossRef>http://www.opensource.org/licenses/attribution</crossRef>
+         <crossRef>https://opensource.org/licenses/attribution</crossRef>
       </crossRefs>
       <notes>
     This license was released: 2002

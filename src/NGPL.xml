@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="NGPL" name="Nethack General Public License">
       <crossRefs>
-         <crossRef>http://www.opensource.org/licenses/NGPL</crossRef>
+         <crossRef>https://opensource.org/licenses/NGPL</crossRef>
       </crossRefs>
     <text>
       <titleText>

@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="MirOS" name="MirOS License">
       <crossRefs>
-         <crossRef>http://www.opensource.org/licenses/MirOS</crossRef>
+         <crossRef>https://opensource.org/licenses/MirOS</crossRef>
       </crossRefs>
     <text>
       <titleText>

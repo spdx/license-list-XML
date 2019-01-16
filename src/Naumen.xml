@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Naumen" name="Naumen Public License">
       <crossRefs>
-         <crossRef>http://www.opensource.org/licenses/Naumen</crossRef>
+         <crossRef>https://opensource.org/licenses/Naumen</crossRef>
       </crossRefs>
     <text>
       <titleText>
