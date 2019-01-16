@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Intel" name="Intel Open Source License">
       <crossRefs>
-         <crossRef>http://opensource.org/licenses/Intel</crossRef>
+         <crossRef>https://opensource.org/licenses/Intel</crossRef>
       </crossRefs>
       <notes>This license has been deprecated. A note at the top of the OSI license page states, "The Intel Open
          Source License for CDSA/CSSM Implementation (BSD License with Export Notice) (Intel has ceased to use
