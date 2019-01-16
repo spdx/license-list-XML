@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="FSFAP" name="FSF All Permissive License">
       <crossRefs>
-         <crossRef>http://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html</crossRef>
+         <crossRef>https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html</crossRef>
       </crossRefs>
     <text>
       <p>Copying and distribution of this file, with or without

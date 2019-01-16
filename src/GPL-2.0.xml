@@ -8,7 +8,7 @@
       <obsoletedBy expression="GPL-2.0+">GPL-2.0-or-later</obsoletedBy>
     </obsoletedBys>
     <crossRefs>
-      <crossRef>http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</crossRef>
+      <crossRef>https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</crossRef>
       <crossRef>http://www.opensource.org/licenses/GPL-2.0</crossRef>
     </crossRefs>
     <standardLicenseHeader>
