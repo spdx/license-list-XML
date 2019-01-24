@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <exception licenseId="OpenSSL-exception" name="OpenSSL Exception">
+      <crossRefs>
+         <crossRef>http://openvpn.net/index.php/license.html</crossRef>
+         <crossRef>https://tracker.debian.org/media/packages/o/openvpn/copyright-2.4.0-6%2Bdeb9u2</crossRef>
+         <crossRef>ftp://ftp.axis.com/pub_soft/MPQT/P1354/5_40_19_1/P1354_5_40_19_1_thirdpartysoftwarelicenses.txt</crossRef>
+      </crossRefs>
+    <text>
+      <p>In addition, as a special exception, <alt match=".+" name="licensorPlaceholder">licensor</alt>
+         gives permission to link the code of this program with the
+         OpenSSL Library (or with modified versions of OpenSSL that use
+         the same license as OpenSSL), and distribute linked
+         combinations including the two. You must obey the GNU General
+         Public License in all respects for all of the code used other
+         than OpenSSL. If you modify this file, you may extend this
+         exception to your version of the file, but you are not
+         obligated to do so. If you do not wish to do so, delete this
+         exception statement from your version.</p>
+    </text>
+  </exception>
+</SPDXLicenseCollection>
