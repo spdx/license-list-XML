@@ -7,7 +7,7 @@
 
     <text>
       <p>PNG Reference Library License version 2</p>
-      <alt match="^[-]*$"/ title="dashed-line"></alt>
+      <alt match="^[-]*$" title="dashed-line">---------------------------------------</alt>
       <list>
         <item><bullet>*</bullet> Copyright (c) 1995-2018 The PNG Reference Library Authors.</item>
         <item><bullet>*</bullet> Copyright (c) 2018 Cosmin Truta.</item>
@@ -42,7 +42,8 @@
 
           <item><bullet>3.</bullet>This Copyright notice may not be removed or
           altered from any source or altered source distribution.</item>
-        </p>
+        </list>
+      </p>
     </text>
   </license>
 </SPDXLicenseCollection>
