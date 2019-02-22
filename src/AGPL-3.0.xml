@@ -8,8 +8,8 @@
       <obsoletedBy expression="AGPL-3.0+">AGPL-3.0-or-later</obsoletedBy>
     </obsoletedBys>
     <crossRefs>
-      <crossRef>http://www.gnu.org/licenses/agpl.txt</crossRef>
-      <crossRef>http://www.opensource.org/licenses/AGPL-3.0</crossRef>
+      <crossRef>https://www.gnu.org/licenses/agpl.txt</crossRef>
+      <crossRef>https://opensource.org/licenses/AGPL-3.0</crossRef>
     </crossRefs>
     <standardLicenseHeader>
       Copyright (C) <alt name="copyright" match=".+">[year] [name of author]</alt>

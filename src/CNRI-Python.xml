@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="CNRI-Python" name="CNRI Python License">
       <crossRefs>
-         <crossRef>http://www.opensource.org/licenses/CNRI-Python</crossRef>
+         <crossRef>https://opensource.org/licenses/CNRI-Python</crossRef>
       </crossRefs>
       <notes>CNRI portion of the multi-part Python License (Python-2.0)</notes>
     <text>

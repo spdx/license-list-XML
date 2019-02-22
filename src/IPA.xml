@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="IPA" name="IPA Font License">
       <crossRefs>
-         <crossRef>http://www.opensource.org/licenses/IPA</crossRef>
+         <crossRef>https://opensource.org/licenses/IPA</crossRef>
       </crossRefs>
     <text>
       <titleText>

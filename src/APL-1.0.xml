@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="APL-1.0" name="Adaptive Public License 1.0">
       <crossRefs>
-         <crossRef>http://www.opensource.org/licenses/APL-1.0</crossRef>
+         <crossRef>https://opensource.org/licenses/APL-1.0</crossRef>
       </crossRefs>
     <text>
       <titleText>

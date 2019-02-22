@@ -3,7 +3,7 @@
    <license isOsiApproved="true" licenseId="CUA-OPL-1.0"
             name="CUA Office Public License v1.0">
       <crossRefs>
-         <crossRef>http://opensource.org/licenses/CUA-OPL-1.0</crossRef>
+         <crossRef>https://opensource.org/licenses/CUA-OPL-1.0</crossRef>
       </crossRefs>
       <notes>The CUA Office Project has ceased to use or recommend this license. This license is essentially a rebranded version of MPL-1.1, but was included on the SPDX License List due to its OSI-approved status. </notes>
     <text>

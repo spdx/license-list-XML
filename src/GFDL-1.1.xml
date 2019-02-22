@@ -8,7 +8,7 @@
       <obsoletedBy expression="GFDL-1.1+">GFDL-1.1-or-later</obsoletedBy>
     </obsoletedBys>
     <crossRefs>
-      <crossRef>http://www.gnu.org/licenses/old-licenses/fdl-1.1.txt</crossRef>
+      <crossRef>https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt</crossRef>
     </crossRefs>
     <standardLicenseHeader>
       Copyright (c) <alt name="copyright" match=".+">YEAR YOUR NAME</alt>

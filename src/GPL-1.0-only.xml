@@ -3,7 +3,7 @@
   <license licenseId="GPL-1.0-only" isOsiApproved="false"
   name="GNU General Public License v1.0 only">
     <crossRefs>
-      <crossRef>http://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html</crossRef>
+      <crossRef>https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html</crossRef>
     </crossRefs>
     <standardLicenseHeader>
       Copyright (C) <alt name="copyright" match=".+">19xx name of author</alt>

@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="SPL-1.0" name="Sun Public License v1.0">
       <crossRefs>
-         <crossRef>http://www.opensource.org/licenses/SPL-1.0</crossRef>
+         <crossRef>https://opensource.org/licenses/SPL-1.0</crossRef>
       </crossRefs>
     <text>
       <titleText>

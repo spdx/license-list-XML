@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="CPL-1.0" name="Common Public License 1.0">
       <crossRefs>
-         <crossRef>http://opensource.org/licenses/CPL-1.0</crossRef>
+         <crossRef>https://opensource.org/licenses/CPL-1.0</crossRef>
       </crossRefs>
       <notes>This license was superseded by Eclipse Public License</notes>
     <text>

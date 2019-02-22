@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Entessa" name="Entessa Public License v1.0">
       <crossRefs>
-         <crossRef>http://opensource.org/licenses/Entessa</crossRef>
+         <crossRef>https://opensource.org/licenses/Entessa</crossRef>
       </crossRefs>
     <text>
       <titleText>

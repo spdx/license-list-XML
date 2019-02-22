@@ -8,8 +8,8 @@
       <obsoletedBy expression="GPL-3.0+">GPL-3.0-or-later</obsoletedBy>
     </obsoletedBys>
     <crossRefs>
-      <crossRef>http://www.gnu.org/licenses/gpl-3.0-standalone.html</crossRef>
-      <crossRef>http://www.opensource.org/licenses/GPL-3.0</crossRef>
+      <crossRef>https://www.gnu.org/licenses/gpl-3.0-standalone.html</crossRef>
+      <crossRef>https://opensource.org/licenses/GPL-3.0</crossRef>
     </crossRefs>
     <standardLicenseHeader>
       Copyright (C) <alt name="copyright"

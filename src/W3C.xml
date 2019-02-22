@@ -4,7 +4,7 @@
             name="W3C Software Notice and License (2002-12-31)">
       <crossRefs>
          <crossRef>http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html</crossRef>
-         <crossRef>http://www.opensource.org/licenses/W3C</crossRef>
+         <crossRef>https://opensource.org/licenses/W3C</crossRef>
       </crossRefs>
       <standardLicenseHeader>
          <copyrightText>Copyright (C) <alt match=".+" name="year">[$date-of-software]</alt> World Wide Web Consortium, 
