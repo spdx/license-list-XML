@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="HPND-sell-variant"
-            name="Historical Permission Notice and Disclaimer - sell variant">
+            name="Historical Permission Notice and Disclaimer - sell variant" listVersionAdded="3.5">
       <crossRefs>
          <crossRef>https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/net/sunrpc/auth_gss/gss_generic_token.c?h=v4.19</crossRef>
       </crossRefs>
