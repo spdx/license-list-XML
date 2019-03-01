@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <exception licenseId="freertos-exception-2.0" name="FreeRTOS Exception 2.0">
       <crossRefs>
-         <crossRef>https://web.archive.org/web/20060809182744/http://www.freertos.org/a00114.html</crossRef>
+         <crossRef>https://web.archive.org/web/20060809182744id_/http://www.freertos.org/a00114.html</crossRef>
       </crossRefs>
       <notes>This exception was used by the FreeRTOS project with GPL-2.0 until Amazon acquired the project and changed the license to MIT. Note, the exact text of the exception varied over the years and on different pages.</notes>
     <text>

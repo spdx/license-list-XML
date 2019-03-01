@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Zend-2.0" name="Zend License v2.0">
       <crossRefs>
-         <crossRef>https://web.archive.org/web/20130517195954/http://www.zend.com/license/2_00.txt</crossRef>
+         <crossRef>https://web.archive.org/web/20130517195954id_/http://www.zend.com/license/2_00.txt</crossRef>
       </crossRefs>
     <text>
       <titleText>
@@ -11,7 +11,7 @@
       <copyrightText>
       Copyright (c) 1999-2002 Zend Technologies Ltd. All rights reserved.<br/>
       </copyrightText>
-  
+
       <p>Redistribution and use in source and binary forms, with or without modification, is permitted provided that
        the following conditions are met:</p>
       <list>
