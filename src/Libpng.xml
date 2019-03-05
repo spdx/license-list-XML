@@ -2,7 +2,9 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Libpng" name="libpng License"
       isDeprecated="true" deprecatedVersion="3.5">
-     <obsoletedBy>LibPNG-1.0</obsoletedBy>
+     <obsoletedBys>
+       <obsoletedBy>LibPNG-1.0</obsoletedBy>
+     </obsoletedBys>
      <notes>DEPRECATED: Use LibPNG-1.0 identifier instead of libpng</notes>
      <crossRefs>
          <crossRef>http://www.libpng.org/pub/png/src/libpng-LICENSE.txt</crossRef>
