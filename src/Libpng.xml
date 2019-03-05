@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="Libpng" name="libpng License">
-      <crossRefs>
+   <license isOsiApproved="false" licenseId="Libpng" name="libpng License"
+      isDeprecated="true" deprecatedVersion="3.5">
+     <obsoletedBy>LibPNG-1.0</obsoletedBy>
+     <notes>DEPRECATED: Use LibPNG-1.0 identifier instead of libpng</notes>
+     <crossRefs>
          <crossRef>http://www.libpng.org/pub/png/src/libpng-LICENSE.txt</crossRef>
-      </crossRefs>
-    
+     </crossRefs>
+
     <text>
       <p>This copy of the libpng notices is provided for your convenience. In case of any discrepancy between this
          copy and the notices in the file png.h that is included in the libpng distribution, the latter shall
@@ -16,51 +19,51 @@
          2006-2010 Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as
          libpng-1.2.5 with the following individual added to the list of Contributing Authors</p>
       <p>Cosmin Truta</p>
-      <p>libpng versions 1.0.7, July 1, 2000, through 1.2.5 - October 3, 2002, are 
+      <p>libpng versions 1.0.7, July 1, 2000, through 1.2.5 - October 3, 2002, are
         <br/>Copyright (c) 2000-2002 Glenn Randers-Pehrson, and are distributed according to the same disclaimer
              and license as libpng-1.0.6 with the following individuals added to the list of Contributing
-             Authors 
+             Authors
       </p>
-      <p>Simon-Pierre Cadieux 
-        <br/>Eric S. Raymond 
-        <br/>Gilles Vollant 
+      <p>Simon-Pierre Cadieux
+        <br/>Eric S. Raymond
+        <br/>Gilles Vollant
       </p>
       <p>and with the following additions to the disclaimer:</p>
       <p>There is no warranty against interference with your enjoyment of the library or against infringement.
          There is no warranty that our efforts or the library will fulfill any of your particular purposes or
          needs. This library is provided with all faults, and the entire risk of satisfactory quality,
          performance, accuracy, and effort is with the user.</p>
-      <p>libpng versions 0.97, January 1998, through 1.0.6, March 20, 2000, are 
+      <p>libpng versions 0.97, January 1998, through 1.0.6, March 20, 2000, are
         <br/>Copyright (c) 1998, 1999 Glenn Randers-Pehrson, and are distributed according to the same
              disclaimer and license as libpng-0.96, with the following individuals added to the list of
-             Contributing Authors: 
+             Contributing Authors:
       </p>
-      <p>Tom Lane 
-        <br/>Glenn Randers-Pehrson 
-        <br/>Willem van Schaik 
+      <p>Tom Lane
+        <br/>Glenn Randers-Pehrson
+        <br/>Willem van Schaik
       </p>
-      <p>libpng versions 0.89, June 1996, through 0.96, May 1997, are 
-        <br/>Copyright (c) 1996, 1997 Andreas Digger 
+      <p>libpng versions 0.89, June 1996, through 0.96, May 1997, are
+        <br/>Copyright (c) 1996, 1997 Andreas Digger
         <br/>Distributed according to the same disclaimer and license as libpng-0.88, with the following
-             individuals added to the list of Contributing Authors: 
+             individuals added to the list of Contributing Authors:
       </p>
-      <p>John Bowler 
-        <br/>Kevin Bracey 
-        <br/>Sam Bushell 
-        <br/>Magnus Holmgren 
-        <br/>Greg Roelofs 
-        <br/>Tom Tanner 
+      <p>John Bowler
+        <br/>Kevin Bracey
+        <br/>Sam Bushell
+        <br/>Magnus Holmgren
+        <br/>Greg Roelofs
+        <br/>Tom Tanner
       </p>
-      <p>libpng versions 0.5, May 1995, through 0.88, January 1996, are 
-        <br/>Copyright (c) 1995, 1996 Guy Eric Schalnat, Group 42, Inc. 
+      <p>libpng versions 0.5, May 1995, through 0.88, January 1996, are
+        <br/>Copyright (c) 1995, 1996 Guy Eric Schalnat, Group 42, Inc.
       </p>
       <p>For the purposes of this copyright and license, "Contributing Authors" is defined as the following set of
          individuals:</p>
-      <p>Andreas Dilger 
-        <br/>Dave Martindale 
-        <br/>Guy Eric Schalnat 
-        <br/>Paul Schmidt 
-        <br/>Tim Wegner 
+      <p>Andreas Dilger
+        <br/>Dave Martindale
+        <br/>Guy Eric Schalnat
+        <br/>Paul Schmidt
+        <br/>Tim Wegner
       </p>
       <p>The PNG Reference Library is supplied "AS IS". The Contributing Authors and Group 42, Inc. disclaim all
          warranties, expressed or implied, including, without limitation, the warranties of merchantability and
@@ -93,9 +96,9 @@
          (88x31) and "pngnow.png" (98x31).</p>
       <p>Libpng is OSI Certified Open Source Software. OSI Certified Open Source is a certification mark of the
          Open Source Initiative.</p>
-      <p>Glenn Randers-Pehrson 
-        <br/>glennrp at users.sourceforge.net 
-        <br/>December 9, 2010 
+      <p>Glenn Randers-Pehrson
+        <br/>glennrp at users.sourceforge.net
+        <br/>December 9, 2010
       </p>
     </text>
   </license>
