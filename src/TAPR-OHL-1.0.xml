@@ -4,8 +4,8 @@
             <crossRef>
 https://www.tapr.org/OHL</crossRef>
         </crossRefs>
-        <standardLicenseHeader />
-        <notes />
+        <standardLicenseHeader></standardLicenseHeader>
+        <notes></notes>
         <text>
             <titleText>The TAPR Open Hardware License
                 Version 1.0 (May 25, 2007)</titleText>
@@ -138,69 +138,75 @@ documentation:
                 </item>
             </list>
             <p>
-TERMS AND CONDITIONS</p>
-            <p />
+TERMS AND CONDITIONS
+            </p>
             <p>
 1.   Introduction</p>
-            <p>
-1.1  This Agreement governs how you may use, copy, modify, and
+            <list>
+                <item>
+                    <bullet>1.1</bullet>  This Agreement governs how you may use, copy, modify, and
 distribute Documentation, and how you may make, have made, and
 distribute Products based on that Documentation.  As used in this
 Agreement, to "distribute" Documentation means to directly or indirectly
 make copies available to a third party, and to "distribute" Products
 means to directly or indirectly give, loan, sell or otherwise transfer
-them to a third party.</p>
-            <p />
-            <p>
-1.2  "Documentation" includes:</p>
-            <p>
-     (a) schematic diagrams;</p>
-            <p>
-     (b) circuit or circuit board layouts, including Gerber and other</p>
-            <p>
-         data files used for manufacture;</p>
-            <p>
-     (c) mechanical drawings, including CAD, CAM, and other data files</p>
-            <p>
-         used for manufacture;</p>
-            <p>
-     (d) flow charts and descriptive text; and</p>
-            <p>
-     (e) other explanatory material.</p>
-            <p>
-Documentation may be in any tangible or intangible form of expression,
+                            them to a third party.
+                </item>
+                <item>
+                    <bullet>1.2</bullet>  "Documentation" includes:
+                    <list>
+                        <item>
+                            <bullet>(a)</bullet> schematic diagrams;
+                        </item>
+                        <item>
+                            <bullet>(b)</bullet> circuit or circuit board layouts, including Gerber and other
+                data files used for manufacture;
+                        </item>
+                        <item>
+                            <bullet>(c)</bullet> mechanical drawings, including CAD, CAM, and other data files
+         used for manufacture;
+                        </item>
+                        <item>
+                            <bullet>(d)</bullet> flow charts and descriptive text; and
+                        </item>
+                        <item>
+                            <bullet>(e)</bullet> other explanatory material.
+                        </item>
+                    </list>
+                    <p>Documentation may be in any tangible or intangible form of expression,
 including but not limited to computer files in open or proprietary
-formats and representations on paper, film, or other media.</p>
-            <p />
-            <p>
-1.3  "Products" include:</p>
-            <p>
-     (a) circuit boards, mechanical assemblies, and other physical parts</p>
-            <p>
-         and components;</p>
-            <p>
-     (b) assembled or partially assembled units (including components</p>
-            <p>
-         and subassemblies); and</p>
-            <p>
-     (c) parts and components combined into kits intended for assembly</p>
-            <p>
-         by others;</p>
-            <p>
-which are based in whole or in part on the Documentation.</p>
-            <p />
-            <p>
-1.4  This Agreement applies to any Documentation which contains a
+    formats and representations on paper, film, or other media.</p>
+                </item>
+                <item>
+                    <bullet>1.3</bullet>  "Products" include:
+                    <list>
+                        <item>
+                            <bullet>(a)</bullet> circuit boards, mechanical assemblies, and other physical parts
+    and components;
+                        </item>
+                        <item>
+                            <bullet>(b)</bullet> assembled or partially assembled units (including components
+        and subassemblies); and
+                        </item>
+                        <item>
+                            <bullet>(c)</bullet> parts and components combined into kits intended for assembly
+        by others;
+                        </item>
+                    </list>
+    which are based in whole or in part on the Documentation.
+                </item>
+                <item>
+                    <bullet>1.4</bullet>  This Agreement applies to any Documentation which contains a
 notice stating it is subject to the TAPR Open Hardware License, and to
 all Products based in whole or in part on that Documentation.  If
 Documentation is distributed in an archive (such as a "zip" file) which
 includes this document, all files in that archive are subject to this
 Agreement unless they are specifically excluded.  Each person who
 contributes content to the Documentation is referred to in this
-Agreement as a "Licensor."</p>
-            <p />
-            <p>
-1.5  By (a) using, copying, modifying, or distributing the
+    Agreement as a "Licensor."
+                </item>
+                <item>
+                    <bullet>1.5</bullet>  By (a) using, copying, modifying, or distributing the
 Documentation, or (b) making or having Products made or distributing
 them, you accept this Agreement, agree to comply with its terms, and
 become a "Licensee."  Any activity inconsistent with this Agreement will
@@ -208,51 +214,54 @@ automatically terminate your rights under it (including the immunities
 from suit granted in Section 2), but the rights of others who have
 received Documentation, or have obtained Products, directly or
 indirectly from you will not be affected so long as they fully comply
-with it themselves.</p>
-            <p />
-            <p>
-1.6  This Agreement does not apply to software, firmware, or code
+with it themselves.
+                </item>
+                <item>
+                    <bullet>1.6</bullet>  This Agreement does not apply to software, firmware, or code
 loaded into programmable devices which may be used in conjunction with
 Documentation or Products.  Such software is subject to the license
-terms established by its copyright holder(s).</p>
-            <p />
+terms established by its copyright holder(s).
+                </item>
+            </list>
             <p>
 2.   Patents</p>
-            <p>
-2.1  Each Licensor grants you, every other Licensee, and every
+            <list>
+                <item>
+                    <bullet>2.1</bullet>  Each Licensor grants you, every other Licensee, and every
 possessor or user of Products a perpetual, worldwide, and royalty-free
 immunity from suit under any patent, patent application, or other
 intellectual property right which he or she controls, to the extent
 necessary to make, have made, possess, use, and distribute Products.
 This immunity does not extend to infringement arising from modifications
-subsequently made by others.</p>
-            <p />
-            <p>
-2.2  If you make or have Products made, or distribute Documentation
+subsequently made by others.
+                </item>
+                <item>
+                    <bullet>2.2</bullet>  If you make or have Products made, or distribute Documentation
 that you have modified, you grant every Licensor, every other Licensee,
 and every possessor or user of Products a perpetual, worldwide, and
 royalty-free immunity from suit under any patent, patent application, or
 other intellectual property right which you control, to the extent
 necessary to make, have made, possess, use, and distribute Products.
 This immunity does not extend to infringement arising from modifications
-subsequently made by others.</p>
-            <p />
-            <p>
-2.3  To avoid doubt, providing Documentation to a third party for the
+subsequently made by others.
+                </item>
+                <item>
+                    <bullet>2.3</bullet>  To avoid doubt, providing Documentation to a third party for the
 sole purpose of having that party make Products on your behalf is not
 considered "distribution,"\" and a third party's act of making Products
 solely on your behalf does not cause that party to grant the immunity
-described in the preceding paragraph.</p>
-            <p />
-            <p>
-2.4  These grants of immunity are a material part of this Agreement,
+described in the preceding paragraph.
+                </item>
+                <item>
+                    <bullet>2.4</bullet>  These grants of immunity are a material part of this Agreement,
 and form a portion of the consideration given by each party to the
 other.  If any court judgment or legal agreement prevents you from
 granting the immunity required by this Section, your rights under this
 Agreement will terminate and you may no longer use, copy, modify or
 distribute the Documentation, or make, have made, or distribute
-Products.</p>
-            <p />
+Products.
+                </item>
+            </list>
             <p>
 3.   Modifications</p>
             <p>You may modify the Documentation, and those modifications will become
@@ -266,104 +275,110 @@ under this Section and you need take no further action if any address
 fails.</p>
             <p>
 4.   Distributing Documentation</p>
-            <p>
-4.1  You may distribute unmodified copies of the Documentation in its
+            <list>
+                <item>
+                    <bullet>4.1</bullet>  You may distribute unmodified copies of the Documentation in its
 entirety in any medium, provided that you retain all copyright and other
 notices (including references to this Agreement) included by each
-Licensor, and include an unaltered copy of this Agreement.</p>
-            <p>
-4.2  You may distribute modified copies of the Documentation if you</p>
-            <p>
-comply with all the requirements of the preceding paragraph and:</p>
-            <p>
-     (a) include a prominent notice in an ASCII or other open format</p>
-            <p>
-         file identifying those elements of the Documentation that you</p>
-            <p>
-         changed, and stating that the modifications are licensed under</p>
-            <p>
-         the terms of this Agreement;</p>
-            <p>
-     (b) include all new documentation files that you create, as well as</p>
-            <p>
-         both the original and modified versions of each file you change</p>
-            <p>
-         (files may be in your development tool's native file format,</p>
-            <p>
-         but if reasonably possible, you must also include open format,</p>
-            <p>
-         such as Gerber, ASCII, Postscript, or PDF, versions);</p>
-            <p>
-     (c) do not change the terms of this Agreement with respect to</p>
-            <p>
-         subsequent licensees; and</p>
-            <p>
-     (d) if you make or have Products made, include in the Documentation</p>
-            <p>
-         all elements reasonably required to permit others to make</p>
-            <p>
-         Products, including Gerber, CAD/CAM and other files used for</p>
-            <p>
-         manufacture.</p>
-            <p />
+Licensor, and include an unaltered copy of this Agreement.
+                </item>
+                <item>
+                    <bullet>4.2</bullet>  You may distribute modified copies of the Documentation if you
+comply with all the requirements of the preceding paragraph and:
+                    <list>
+                        <item>
+                            <bullet>(a)</bullet> include a prominent notice in an ASCII or other open format
+         file identifying those elements of the Documentation that you
+         changed, and stating that the modifications are licensed under
+        the terms of this Agreement;
+                        </item>
+                        <item>
+                            <bullet>(b)</bullet> include all new documentation files that you create, as well as
+         both the original and modified versions of each file you change
+         (files may be in your development tool's native file format,
+         but if reasonably possible, you must also include open format,
+         such as Gerber, ASCII, Postscript, or PDF, versions);
+                        </item>
+                        <item>
+                            <bullet>(c)</bullet> do not change the terms of this Agreement with respect to
+         subsequent licensees; and
+                        </item>
+                        <item>
+                            <bullet>(d)</bullet> if you make or have Products made, include in the Documentation
+         all elements reasonably required to permit others to make
+         Products, including Gerber, CAD/CAM and other files used for
+        manufacture.
+                        </item>
+                    </list>
+                </item>
+            </list>
             <p>
 5.   Making Products</p>
-            <p>
-5.1  You may use the Documentation to make or have Products made,
+                <list>
+                    <item>
+                        <bullet>5.1</bullet>  You may use the Documentation to make or have Products made,
 provided that each Product retains any notices included by the Licensor
-(including, but not limited to, copyright notices on circuit boards).</p>
-            <p>
-5.2  You may distribute Products you make or have made, provided that
+(including, but not limited to, copyright notices on circuit boards).
+                    </item>
+                    <item>
+                        <bullet>5.2</bullet>  You may distribute Products you make or have made, provided that
 you include with each unit a copy of the Documentation in a form
 consistent with Section 4.  Alternatively, you may include either (i) an
 offer valid for at least three years to provide that Documentation, at
 no charge other than the reasonable cost of media and postage, to any
 person who requests it; or (ii) a URL where that Documentation may be
 downloaded, available for at least three years after you last distribute
-the Product.</p>
-            <p />
-            <p>
+the Product.
+                    </item>
+                </list>
+                <p>
 6.   NEW LICENSE VERSIONS</p>
-            <p>
+                <p>
 TAPR may publish updated versions of the OHL which retain the same
 general provisions as the present version, but differ in detail to
 address new problems or concerns, and carry a distinguishing version
 number.  If the Documentation specifies a version number which applies
 to it and "any later version", you may choose either that version or any
 later version published by TAPR.  If the Documentation does not specify
-a version number, you may choose any version ever published by TAPR. 
+a version number, you may choose any version ever published by TAPR.
 TAPR owns the copyright to the OHL, but grants permission to any person
 to copy, distribute, and use it in unmodified form.</p>
-            <p />
-            <p>
+                <p>
 7.   WARRANTY AND LIABILITY LIMITATIONS</p>
-            <p>
-7.1  THE DOCUMENTATION IS PROVIDED ON AN"AS-IS" BASIS WITHOUT
+                <list>
+                    <item>
+                        <bullet>7.1</bullet>  THE DOCUMENTATION IS PROVIDED ON AN"AS-IS" BASIS WITHOUT
 WARRANTY OF ANY KIND, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  ALL
 WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY
 WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
-TITLE, ARE HEREBY EXPRESSLY DISCLAIMED.</p>
-            <p>
-7.2  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW WILL ANY LICENSOR
+TITLE, ARE HEREBY EXPRESSLY DISCLAIMED.
+                    </item>
+                    <item>
+                        <bullet>7.2</bullet> IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW WILL ANY LICENSOR
 BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT,
 INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES ARISING OUT OF
 THE USE OF, OR INABILITY TO USE, THE DOCUMENTATION OR PRODUCTS,
 INCLUDING BUT NOT LIMITED TO CLAIMS OF INTELLECTUAL PROPERTY
 INFRINGEMENT OR LOSS OF DATA, EVEN IF THAT PARTY HAS BEEN ADVISED OF THE
-POSSIBILITY OF SUCH DAMAGES.</p>
-            <p>
-7.3  You agree that the foregoing limitations are reasonable due to
+    POSSIBILITY OF SUCH DAMAGES.
+                    </item>
+                    <item>
+                        <bullet>7.3</bullet> You agree that the foregoing limitations are reasonable due to
 the non-financial nature of the transaction represented by this
 Agreement, and acknowledge that were it not for these limitations, the
 Licensor(s) would not be willing to make the Documentation available to
-you.</p>
-            <p>
-7.4  You agree to defend, indemnify, and hold each Licensor harmless
+you.
+                    </item>
+                    <item>
+                        <bullet>7.4</bullet>  You agree to defend, indemnify, and hold each Licensor harmless
 from any claim brought by a third party alleging any defect in the
 design, manufacture, or operation of any Product which you make, have
-made, or distribute pursuant to this Agreement.</p>
-            <p>
+made, or distribute pursuant to this Agreement.
+                    </item>
+                </list>
+                <p>
                                  ####</p>
-        </text>
-    </license>
-</SPDXLicenseCollection>
+
+            </text>
+        </license>
+    </SPDXLicenseCollection>
