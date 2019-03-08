@@ -27,8 +27,11 @@
       </p>
     </standardLicenseHeader>
     <notes>
-      This license was released: June 1991 This refers to when this
-      GPL 2.0 only is being used (as opposed to GPLv2 or later).
+      This license was released: June 1991. This license identifier refers to when 
+      GPL-2.0-only is being used as opposed to GPL-2.0-or-later. The option to use either that
+      version of the license only or to make it available under any later version of that license
+      is denoted in the standard license header. (The standard license header in the license 
+      itself includes the default "or (at your option) any later version" language.)
     </notes>
     <text>
     <titleText>
