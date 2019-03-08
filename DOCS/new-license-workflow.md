@@ -1,11 +1,11 @@
-This document provides guidance and checklists for SPDX legal team members who are assigned to shephard a new license request.  It assumes that the requestor has already submitted the new license/exception request via the SPDX online tools or has otherwise created a GitHub issue for the request. 
+This document provides guidance and checklists for SPDX legal team members who are assigned to shepherd a new license request.  It assumes that the requestor has already submitted the new license/exception request via the SPDX online tools or has otherwise created a GitHub issue for the request. 
 
-New license requests are to be assigned to an SPDX legal team member and that person is responsible for following the request through to its final determination.  Make sure to add yourself as the Assignee, add the label “new license/exception request”, and the appropriate release milestone to the issue
+New license requests are to be assigned to an SPDX legal team member and that person is responsible for following the request through to its final determination.  Make sure to add yourself as the Assignee, add the label “new license/exception request”, and the appropriate release milestone to the issue.
 
 Things for the assigned team member to check:
 1. Is the license or exception already on the SPDX License List?  Or is it similar enough to an existing license or exception that additional markup could accomodate a match and there is no need to add the license? Has it been submitted and rejected previously?
     1. Use Alan’s diff tool to compare to existing licenses.
-    2. If it’s a case of additional markup, then may want to discuss with legal team to ensure markup is non-substantive or differences in text do not alter legal meaning (if so, this cuts towards adding a new license). For more on this see the Matching Guidelines, guideline #2 in particular.
+    2. If it’s a case of additional markup, then may want to discuss with legal team to ensure markup is non-substantive or differences in text do not alter legal meaning (if so, this cuts towards adding a new license). For more on this see the [Matching Guidelines](https://spdx.org/spdx-license-list/matching-guidelines), guideline #2 in particular.
     3. If the license is already on the list, then the license does not need to be added: inform the requestor, comment on the issue as such, and close issue.
     4. If additional markup can accommodate the license, then the license does not need to be added: inform the requestor, comment on the issue as such, create a PR for the existing license with the additional markup, and close issue once the PR has been merged.
 2. If the submitter is not the license author or steward, ask for that contact or try to find that person or organization to make them aware the license has been submitted.
