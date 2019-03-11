@@ -5,11 +5,10 @@ The [SPDX License List](https://spdx.org/licenses/) is a list of commonly found 
 # This Repository
 This repository contains the XML source and schema files used to generate the authoritative, supported SPDX list file formats, including the web pages you see at [spdx.org/licenses](https://spdx.org/licenses/) and other generated data formats found in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data). 
 
-## This Repository Is Unstable
-Please note that the format for this repository is internal to the SPDX legal team and is subject to change. Specifically, the XML format for the SPDX source files here is currently unstable, so any direct consumers of _this_ repository's source files should expect occasional, backwards-incompatible changes.
-
-In contrast, the output files in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data) are stable and well-supported, and make the License List available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://github.com/spdx/tools) (or create your own) to consume the supported formats of the license list.
-
 # How to contribute/participate 
-
 We welcome contribution!  See [our contribution documentation](CONTRIBUTING.md) for details.
+
+# Consuming License Data from this Repository
+Output files in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data) are generated from the XML source in this repository.  These output files are stable and well-supported, and make the License List available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://github.com/spdx/tools) (or create your own) to consume the supported formats of the license list.
+
+Please note that the XML format for this repository is internal to the SPDX legal team and is subject to change, so any direct consumers of _this_ repository's source files should expect occasional, backwards-incompatible changes.
