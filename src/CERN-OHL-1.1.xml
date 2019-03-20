@@ -4,9 +4,7 @@
             <crossRef>
 https://www.ohwr.org/project/licenses/wikis/cern-ohl-v1.1</crossRef>
         </crossRefs>
-        <standardLicenseHeader></standardLicenseHeader>
-        <notes>
-2nd try...</notes>
+
         <text>
             <titleText>
 CERN OHL v1.1
@@ -19,7 +17,6 @@ CERN OHL v1.1
 Preamble</p>
             <p>
 Through this CERN Open Hardware Licence ("CERN OHL") version 1.1, the Organization wishes to disseminate its hardware designs (as published on http://www.ohwr.org/) as widely as possible, and generally to foster collaboration among public research hardware designers. The CERN OHL is copyright of CERN. Anyone is welcome to use the CERN OHL, in unmodified form only, for the distribution of his own Open Hardware designs. Any other right is reserved.</p>
-            <p />
             <p>
 1. Definitions</p>
             <p>
