@@ -3,6 +3,7 @@
    <license isOsiApproved="false" licenseId="MIT-CMU" name="CMU License">
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#CMU_Style</crossRef>
+         <crossRef>https://github.com/python-pillow/Pillow/blob/fffb426092c8db24a5f4b6df243a8a3c01fb63cd/LICENSE</crossRef>
       </crossRefs>
     <text>
       <copyrightText>
