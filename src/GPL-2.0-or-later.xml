@@ -7,11 +7,13 @@
       <crossRef>https://opensource.org/licenses/GPL-2.0</crossRef>
     </crossRefs>
     <notes>
-      This license was released: June 1991. This license identifier refers to when 
-      GPL-2.0-or-later is being used as opposed to GPL-2.0-only. The option to use either that
-      version of the license only or to make it available under any later version of that license
-      is denoted in the standard license header. (The standard license header in the license 
-      itself includes the default "or (at your option) any later version" language.)
+      This license was released: June 1991. This license identifier refers to the 
+      choice to use code under GPL-2.0-or-later (such as GPL 3, a possible future GPL 4,
+      and so on), as distinguished from use of code under GPL-2.0-only. The license
+      notice (usually at the head of the file) states which of these applies to the 
+      code in the file.
+
+     <p>The example in the exhibit to the license shows the license notice for the "or later" approach.</p>
 
     </notes>
     <text>
