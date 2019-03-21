@@ -2,11 +2,11 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
   <exception licenseId="GPL-CC-1.0" name="GPL Cooperation Commitment 1.0">
     <crossRefs>
-      <crossRef>https://gplcc.github.io/</crossRef>
+      <crossRef>https://github.com/gplcc/gplcc/blob/master/Project/COMMITMENT</crossRef>
+	    <crossRef>https://gplcc.github.io/gplcc/Project/README-PROJECT.html</crossRef> 	
     </crossRefs>
     <notes>
-      Single exception covering three variants:
-      Individual, Company, and Project.
+      This is the GPL Cooperation Commitment for projects. It is distinct from the GPL Cooperation Commitment for companies or individuals in that it applies at the project level for all contributions going forward as of the date it is adopted. 
     </notes>
     <text>
       <titleText>
