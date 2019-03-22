@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license isOsiApproved="false" licenseId="SHL-0.51" name="Solderpad Hardware License, Version 0.51" listAddedVersion="3.5">
+  <license isOsiApproved="false" licenseId="SHL-0.51" name="Solderpad Hardware License, Version 0.51" listVersionAdded="3.5">
     <crossRefs>
       <crossRef>https://solderpad.org/licenses/SHL-0.51/</crossRef>
     </crossRefs>
