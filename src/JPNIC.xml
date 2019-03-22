@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license isOsiApproved="false" licenseId="JPNIC" name="Japan Network Information Center License" listVersionAdded=“3.5”>
+  <license isOsiApproved="false" licenseId="JPNIC" name="Japan Network Information Center License" listVersionAdded="3.5">
     <crossRefs>
       <crossRef>https://gitlab.isc.org/isc-projects/bind9/blob/master/COPYRIGHT#L366</crossRef>
     </crossRefs>
