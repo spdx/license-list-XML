@@ -11,7 +11,7 @@
       <copyrightText>
         <p>Copyright (c) <alt name="copyright" match=".+">2000-2002 Japan Network Information Center</alt>. All rights reserved.</p>
       </copyrightText>
-      <p>By using this file, you agree to the terms and conditions set forth bellow.</p>
+      <p>By using this file, you agree to the terms and conditions set forth <alt match="bellow|below" name="bellow">bellow</alt>.</p>
       <p>LICENSE TERMS AND CONDITIONS</p>
       <p>The following License Terms and Conditions apply, unless a different license is obtained from <alt match=".+" name="organizationClause1">Japan Network Information Center</alt> ("<alt match=".+" name="organizationClause2">JPNIC</alt>"), <alt match=".+" name="organizationClause3">a Japanese association, Kokusai-Kougyou-Kanda Bldg 6F, 2-3-4 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, Japan</alt>.</p>
       <list>
