@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="LibPNG-2.0"
-     name="LibPNG License 2.0" listVersionAdded="3.5">
+   <license isOsiApproved="false" licenseId="libpng-2.0"
+     name="PNG Reference Library version 2" listVersionAdded="3.5">
       <crossRefs>
          <crossRef>http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
          </crossRef>
