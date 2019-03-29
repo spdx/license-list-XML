@@ -1,5 +1,25 @@
 # Release Notes for SPDX License List
 
+## version 3.5 - 2019-
+
+New licenses/exceptions added: 
+
+1. JPNIC
+1. libpng-2.0
+1. HPND-sell-variant
+1. GPL-CC-1.0
+1. TAPR-OHL-1.0
+1. CERN-OHL-1.1
+1. CERN-OHL-1.2
+
+Addition of markup to various licenses and other minor updates.
+
+Add page describing internal workflow for adding a new license in /DOCS directory.
+
+See all PRs for 3.5 here: https://github.com/spdx/license-list-XML/pulls?utf8=%E2%9C%93&q=is%3Apr+milestone%3A%223.5+release%22+
+
+See comparison of changes from 3.4 to 3.5: 
+
 ## version 3.4 - 2018-12-20
 
 New licenses/exceptions added: 1
