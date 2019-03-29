@@ -2,7 +2,7 @@
 
 ## version 3.5 - 2019-
 
-New licenses/exceptions added: 
+New licenses/exceptions added: 7
 
 1. JPNIC
 1. libpng-2.0
