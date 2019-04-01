@@ -1,6 +1,6 @@
 # Release Notes for SPDX License List
 
-## version 3.5 - 2019-
+## version 3.5 - 2019-04-02
 
 New licenses/exceptions added: 7
 
