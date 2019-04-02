@@ -4,11 +4,13 @@ Please familiarize yourself with the SPDX License List and its supporting docume
 * [SPDX License List Matching Guidelines](https://spdx.org/spdx-license-list/matching-guidelines) provides guidelines to be used for the purposes of matching licenses and license exceptions against those included on the SPDX License List. 
 * [SPDX Specification](https://spdx.org/specifications): It is helpful to be familiar with certain sections of the SPDX Specification thatuse or deal with the SPDX License List. In particular: sub-sections related to license information in Section 3, 4, and 6; Appendices II, IV, and V.  
 
+Please join the mailing list and our bi-weekly calls! See details in next section. 
+
 # How to contribute/participate: general
 The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done via:
-* mailing list: our traditional form of communication. Meeting reminders, minutes, and updates are posted there, as well as discussion. You can join the mailing list and otherwise manage your subscription [via spdx-legal mailman](https://lists.spdx.org/mailman/listinfo/spdx-legal). 
-* this Github repo: comments and issues and PRs related to specific changes to the files that comprise the SPDX License List, e.g., update a URL, recommend additional markup for matching purposes, or other such changes. Requests for new license or exceptions are tracked here, see more info on that process below.
-* bi-weekly calls: used to discuss topics and issues that may be difficult to only discuss via email or via Github. Information on the bi-weekly calls and the working area for the SPDX Legal Team, can be found on the [SPDX legal team wiki](https://wiki.spdx.org/view/Legal_Team)
+* **mailing list**: our traditional form of communication. Meeting reminders, minutes, and updates are posted there, as well as discussion. You can join the mailing list and otherwise manage your subscription [via spdx-legal mailman](https://lists.spdx.org/mailman/listinfo/spdx-legal). 
+* **bi-weekly calls**: used to discuss topics and issues that may be difficult to only discuss via email or via Github. Information on the bi-weekly calls and the working area for the SPDX Legal Team, can be found on the [SPDX legal team wiki](https://wiki.spdx.org/view/Legal_Team)
+* **this Github repo**: comments and issues and PRs related to specific changes to the files that comprise the SPDX License List, e.g., update a URL, recommend additional markup for matching purposes, or other such changes. Requests for new license or exceptions are tracked here, see more info on that process below.
 
 Please do not raise general questions via issues in this Github repository, but use the appropriate workgroup mailing list. 
 
