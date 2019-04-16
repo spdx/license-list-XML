@@ -19,7 +19,7 @@
       <p><optional>## </optional>Notices</p>
       <p>You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <optional>&lt;</optional>https://blueoakcouncil.org/license/1.0.0<optional>&gt;</optional>.</p>
       <p><optional>## </optional>Excuse</p>
-      <p>If anyone notifies you in writing that you have not complied with <alt match="Notices">[Notices](#notices)</alt>, you can keep your license by taking all practical steps to comply within 30 days after the notice. If you do not do so, your license ends immediately.</p>
+      <p>If anyone notifies you in writing that you have not complied with <alt name="noticesRef" match="Notices">[Notices](#notices)</alt>, you can keep your license by taking all practical steps to comply within 30 days after the notice. If you do not do so, your license ends immediately.</p>
       <p><optional>## </optional>Patent</p>
       <p>Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.</p>
       <p><optional>## </optional>Reliability</p>
