@@ -11,12 +11,23 @@ Because the present focus of SPDX is the collection and presentation of the open
 
 ### Open Source Definition 
 
-The terms "free software," "open source software," or their variants (FOSS, FLOSS, libre software, etc.) are defined differently by different organizations. At a minimum, all definitions of open source or free software include the characteristic that the source code be made available for inspection and modification and that the source code may be freely distributed. However, there are a number of other characteristics that vary depending on the policy focus of the defining organization. Even though the various definitions of open source software differ in some respects, there are certain fundamental characteristics commonly incorporated in all these definitions.
+The terms "free software," "open source software," or their variants (FOSS, FLOSS, libre software, etc.) are defined differently by different organizations. At a minimum, all definitions of open source or free software include the characteristic that the source code be made available for inspection and modification and that the source code may be freely distributed. 
 
-The SPDX Legal Team uses the definition promulgated by the Open Source Initiative (OSI) as the basis for analyzing candidate licenses for inclusion on the SPDX License List. That definition is available at https://opensource.org/osd.
+The SPDX Legal Team uses the following definitions as the basis for analyzing candidate licenses for inclusion on the SPDX License List.
+* Open Source Definition (OSD) from the Open Source Initiative (OSI)
+* Open Source Hardware Definition from teh Open Source Hardware Association
+* (add open date definition?)
+
+Note: SPDX has always endeavored to ensure all OSI-approved licenses are included on the SPDX License List and have a short identifier, which is also used on the OSI website. 
 
 ### Candidate License Analysis
 
-Determining whether a candidate license is deemed to be open source for purpose of inclusion on the SPDX License List requires the SPDX Legal Team to engage in a case-by-case evaluation of each candidate license. Candidate licenses that substantially comply with the open source definition will be added to the SPDX License List. Nevertheless, the SPDX Legal Team does not require (1) strict compliance with all elements of the OSI Definition; or (2) strict compliance with any particular element of the OSI Definition. Rather, it treats each element of the definition as a factor to be balanced in light of the totality of the candidate license and SPDX's goals and objectives. The SPDX Legal Team may also analyze “environmental” factors outside the open source definition, such as whether a candidate license is already included on the OSI license list or other such lists, whether the candidate license is in common use, or whether a commonly used open source project uses it (particularly where such open source project is a dependency on which other projects rely).
+Determining whether a candidate license is deemed to be open source for purpose of inclusion on the SPDX License List requires the SPDX Legal Team to engage in a case-by-case evaluation of each candidate license based on a number of factors. No one factor is dispositive and factors may weight differently. The ultimate decision will be based on the totality of the factors and SPDX's goals and objectives. Factors include:
+* does the license substantially comply with one of the open source definitions noted above
+* existing use of the license in wild (e.g., wide use of license or use of license in prominent projects)
+* if it is a newly drafted license, it is drafted such that it can be used by anyone (e.g., it is not company-specific or a "vanity" license)
+* relevant input from the license steward (e.g., regarding name or if the license steward does not want the license added)
+* relevant open source community factors
 
-The SPDX Legal Team endeavors to explain its reasoning, analysis, and conclusions with respect to a candidate license as a means of developing precedent.
+Comments on license inclusion will be noted in the Github issue for the license (or reference to meeting minutes, as necessary). Some license requests may be decided solely via comments in the Github issue and some may involve discussion on the bi-weekly legal call. Thus it is recommended that requestors join the mailing list and calls to fully participate. 
+
