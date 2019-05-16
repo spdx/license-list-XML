@@ -1,10 +1,10 @@
 # About the SPDX License List
 
 ## What
-The SPDX License List includes a list of commonly found free and open source licenses and exceptions, matching guidelines, and license expression language.  Such licenses may be used with open source software, hardware, data, documentation or other content. Each entry on the SPDX License includes a short identifier, full name, vetted license text including matching guidelines markup as appropriate, and a canonical permanent URL. 
+The SPDX License List includes a list of commonly found free and open source licenses and exceptions, matching guidelines, and license expression language.  Such licenses may be used with open source software, hardware, data, documentation or other content. Each entry on the SPDX License List includes a short identifier, full name, vetted license text including matching guidelines markup as appropriate, and a canonical permanent URL. 
 
 ## Why
-The purpose of the SPDX License List is to enable efficient and reliable identification of such licenses and exceptions in an SPDX document, in source files or elsewhere. The SPDX short identifiers combined with the matching guidelines ensures that anyone can reliably know exactly what license text is being referred for a given SPDX identifier.
+The purpose of the SPDX License List is to enable efficient and reliable identification of such licenses and exceptions in an SPDX document, in source files or elsewhere. The SPDX short identifiers combined with the matching guidelines ensures that anyone can reliably know exactly what license text is being referred to for a given SPDX identifier.
 
 ## How
 * For more about how SPDX license identifiers are used in an SPDX document, a software bill of materials, or other places that store license data, see <LINKS TO SPECIFIC SECTIONS OF SPEC). 
