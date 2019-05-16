@@ -9,6 +9,7 @@ Determining whether a candidate license should be included on the SPDX License L
   * Free Software Definition from the Free Software Foundation (FSF) - https://www.gnu.org/philosophy/free-sw.en.html
   * Open Source Hardware Definition from the Open Source Hardware Association (OSHWA) - https://www.oshwa.org/definition/
   * Open Definition from the Open Knowledge Foundation (for open data) - http://opendefinition.org/od/2.1/en/
+  * Note: licenses that these organizations consider to meet their definition are presumptively appropriate for inclusion on the SPDX License List. Specifically, SPDX aims to ensure all OSI-approved licenses are included on the SPDX License List and have a short identifier, which is also used on the OSI website. 
 * Consider existing use of the license in wild (e.g., wide use of license or use of license in prominent projects)
 * If it is a newly drafted license, it is drafted such that it can be used by anyone (e.g., it is not company-specific or a "vanity" license)
 * Relevant input from the license steward (e.g., regarding name or if the license steward does not want the license added)
@@ -25,4 +26,4 @@ Although SPDX has traditionally focused on open source licensing, software may c
 
 Because the present focus of SPDX is the collection and presentation of the open-source software licenses contained in a software package, any license that is a candidate for inclusion on the SPDX License List must have the general attributes of an "open source" license.
 
-Note: SPDX has always endeavored to ensure all OSI-approved licenses are included on the SPDX License List and have a short identifier, which is also used on the OSI website. 
+
