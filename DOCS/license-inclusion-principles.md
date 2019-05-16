@@ -9,14 +9,15 @@ Although SPDX has traditionally focused on open source licensing, software may c
 
 Because the present focus of SPDX is the collection and presentation of the open-source software licenses contained in a software package, any license that is a candidate for inclusion on the SPDX License List must have the general attributes of an "open source" license.
 
-### Open Source Definition 
+### Open Source Definition and similar definitions
 
 The terms "free software," "open source software," or their variants (FOSS, FLOSS, libre software, etc.) are defined differently by different organizations. At a minimum, all definitions of open source or free software include the characteristic that the source code be made available for inspection and modification and that the source code may be freely distributed. 
 
 The SPDX Legal Team uses the following definitions as the basis for analyzing candidate licenses for inclusion on the SPDX License List.
-* Open Source Definition (OSD) from the Open Source Initiative (OSI)
-* Open Source Hardware Definition from teh Open Source Hardware Association
-* (add open date definition?)
+* Open Source Definition (OSD) from the Open Source Initiative (OSI) - https://opensource.org/osd
+* Free Software Definition from the Free Software Foundation - https://www.gnu.org/philosophy/free-sw.en.html
+* Open Source Hardware Definition from the Open Source Hardware Association - https://www.oshwa.org/definition/
+* Open Definition from the Open Knowledge Foundation (for open data) - http://opendefinition.org/od/2.1/en/
 
 Note: SPDX has always endeavored to ensure all OSI-approved licenses are included on the SPDX License List and have a short identifier, which is also used on the OSI website. 
 
