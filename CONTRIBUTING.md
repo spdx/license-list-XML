@@ -21,15 +21,7 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 
 2.  Check the [SPDX License List](https://spdx.org/licenses/), historical license and exceptions [tracking page](https://docs.google.com/spreadsheets/d/11AKxLBoN_VXM32OmDTk2hKeYExKzsnPjAVM7rLstQ8s/edit?pli=1#gid=695212681) and issues labeled [new license/exception request](https://github.com/spdx/license-list-XML/labels/new%20license%2Fexception%20request) to ensure this license or exception has not been previously requested. 
 
-3. Submit your request via the SPDX Online Tool [Submit New License](http://13.57.134.254/app/submit_new_license/) using the following guidance. See also [overview-fields](https://spdx.org/spdx-license-list/license-list-overview#fields) for more info on some of these fields. Note: you must have a Github account in order to use this tool/process. 
-
-* Full Name: Provide a proposed Full Name for the license or exception using the guidance in the [overview-fields](https://spdx.org/spdx-license-list/license-list-overview#fields). 
-* Short Identifier: Provide a proposed Short Identifier using the guidance in the [overview-fields](https://spdx.org/spdx-license-list/license-list-overview#fields). 
-* Source/URL: Provide a functioning URL reference to the license or exception text, preferably from the author or a community recognized source.
-* OSI Approved: Indicate whether the license is OSI-approved or is currently under review. (If the latter, please provide some information as to where in the process.) 
-* Standard License Header: If the license designates specific text to be put in the header of source files, include that here; otherwise leave blank.
-* Text: Full text of the license or exception. 
-* Comments: Provide a short explanation regarding the need for this license or exception to be included on the SPDX License List, and identify at least one program that uses it or any other related information. 
+3. Submit your request via the SPDX Online Tool [Submit New License](http://13.57.134.254/app/submit_new_license/) using the following guidance provided there. See also [overview-fields](https://spdx.org/spdx-license-list/license-list-overview#fields) for more info on some of these fields. Note: you must have a Github account in order to use this tool/process. 
 
 4. Follow the discussion or any request for additional information via the issue and comments. Please note, if the SPDX-legal team has questions that go unanswered by the submitter for several months, we will close the issue without making a final decision. 
 
