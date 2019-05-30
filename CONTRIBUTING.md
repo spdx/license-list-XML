@@ -31,8 +31,11 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 2. New licenses may be approved if 3 SPDX-legal team members (2 lawyers, 1 non-lawyer) sign-off that the license is acceptable AND there is no objection raised from the greater SPDX-legal community within the Github issue comments. If there are objections, then the issue will be labelled "discuss on legal call" and will be discussed on an upcoming bi-weekly call. 
 3. Issues will be labelled either "new license/exception: Accepted" or "new license/exception: Not Accepted" as appropriate with an explanation and the Issue closed for the latter case.
 4. If accepted, the new license or exception will be prepared by a member of the SPDX Legal Team in the proper XML format and plain text test file via a Pull Request and reviewed as appropriate. 
-5. The new license/exception will be officially added for the next release of the SPDX License List. SPDX License List releases are done on quarterly basis (more or less).
+5. The new license/exception will be officially added for the next release of the SPDX License List. 
 
-
+## Release Timing
+* SPDX License List releases are done on quarterly basis (more or less) - i.e. end of March, end of June, end of Sept, end of Dec
+* All PRs to be included as part of release must be merged 1 week prior to release date to allow time for actual release work
+* Any new issues raised within the month of the next release will likely be tagged for the following release, unless it is an easy-to-resolve issue
 
 
