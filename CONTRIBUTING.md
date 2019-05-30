@@ -6,15 +6,15 @@ Please familiarize yourself with the SPDX License List and its supporting docume
 
 Please join the mailing list and our bi-weekly calls! See details in next section. 
 
-# How to contribute/participate: general
+# How to contribute/participate
 The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done via:
-* **mailing list**: our traditional form of communication. Meeting reminders, minutes, and updates are posted there, as well as discussion. You can join the mailing list and otherwise manage your subscription [via spdx-legal mailman](https://lists.spdx.org/mailman/listinfo/spdx-legal). 
+* **join the mailing list**: Please introduce yourself and let us know a bit about your interest in SPDX! The mailing list is our traditional form of communication. Join the mailing list and otherwise manage your subscription [via spdx-legal mailman](https://lists.spdx.org/mailman/listinfo/spdx-legal). 
 * **bi-weekly calls**: used to discuss topics and issues that may be difficult to only discuss via email or via Github. Information on the bi-weekly calls and the working area for the SPDX Legal Team, can be found on the [SPDX legal team wiki](https://wiki.spdx.org/view/Legal_Team)
 * **this Github repo**: comments and issues and PRs related to specific changes to the files that comprise the SPDX License List, e.g., update a URL, recommend additional markup for matching purposes, or other such changes. Requests for new license or exceptions are tracked here, see more info on that process below.
 
 Please do not raise general questions via issues in this Github repository, but use the appropriate workgroup mailing list. 
 
-# Request a new license or exception be added to the SPDX License List
+## Request a new license or exception be added to the SPDX License List
 The SPDX Legal Team appreciates proposals for new free and open source licenses or exceptions to be added to the SPDX License List.  To request a license or exception be added to the SPDX License List, please:
 
 1.  Review the [license list overview and inclusion principles](https://spdx.org/spdx-license-list/license-list-overview).
@@ -31,8 +31,11 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 2. New licenses may be approved if 3 SPDX-legal team members (2 lawyers, 1 non-lawyer) sign-off that the license is acceptable AND there is no objection raised from the greater SPDX-legal community within the Github issue comments. If there are objections, then the issue will be labelled "discuss on legal call" and will be discussed on an upcoming bi-weekly call. 
 3. Issues will be labelled either "new license/exception: Accepted" or "new license/exception: Not Accepted" as appropriate with an explanation and the Issue closed for the latter case.
 4. If accepted, the new license or exception will be prepared by a member of the SPDX Legal Team in the proper XML format and plain text test file via a Pull Request and reviewed as appropriate. 
-5. The new license/exception will be officially added for the next release of the SPDX License List.
+5. The new license/exception will be officially added for the next release of the SPDX License List. 
 
-
+## Release Timing
+* SPDX License List releases are done on quarterly basis (more or less) - i.e. end of March, end of June, end of Sept, end of Dec
+* All PRs to be included as part of release must be merged 1 week prior to release date to allow time for actual release work
+* Any new issues raised within the month of the next release will likely be tagged for the following release, unless it is an easy-to-resolve issue
 
 
