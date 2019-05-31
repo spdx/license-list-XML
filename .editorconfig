@@ -1,0 +1,8 @@
+# EditorConfig definitions: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Definitions for all files:
+[*]
+charset = utf-8
