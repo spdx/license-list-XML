@@ -44,26 +44,26 @@
       <p>Nous désignons par « œuvre », autant l’œuvre initiale, les œuvres
        conséquentes, que l’œuvre commune telles que définies ci-après
        :</p>
-      <p>L’œuvre commune : Il s’agit d’une œuvre qui comprend l’œuvre initiale 
-    ainsi que toutes les contributions postérieures (les originaux conséquents 
-    et les copies). Elle est créée à l’initiative de l’auteur initial qui par 
-    cette licence définit les conditions selon lesquelles les contributions 
+      <p>L’œuvre commune : Il s’agit d’une œuvre qui comprend l’œuvre initiale
+    ainsi que toutes les contributions postérieures (les originaux conséquents
+    et les copies). Elle est créée à l’initiative de l’auteur initial qui par
+    cette licence définit les conditions selon lesquelles les contributions
     sont faites.
     </p>
-    
-      <p>L’œuvre initiale : C’est-à-dire l’œuvre créée par l’initiateur 
+
+      <p>L’œuvre initiale : C’est-à-dire l’œuvre créée par l’initiateur
     de l’œuvre commune dont les copies vont être modifiées par qui le souhaite.
     </p>
-      <p>Les œuvres conséquentes : C’est-à-dire les contributions 
-    des auteurs qui participent à la formation de l’œuvre commune en 
-    faisant usage des droits de reproduction, de diffusion et de 
+      <p>Les œuvres conséquentes : C’est-à-dire les contributions
+    des auteurs qui participent à la formation de l’œuvre commune en
+    faisant usage des droits de reproduction, de diffusion et de
     modification que leur confère la licence.
     </p>
-      <p>Originaux (sources ou ressources de l’œuvre) : Chaque exemplaire 
-    daté de l’œuvre initiale ou conséquente que leurs auteurs présentent comme 
-    référence pour toutes actualisations, interprétations, 
+      <p>Originaux (sources ou ressources de l’œuvre) : Chaque exemplaire
+    daté de l’œuvre initiale ou conséquente que leurs auteurs présentent comme
+    référence pour toutes actualisations, interprétations,
     copies ou reproductions ultérieures.</p>
-    
+
       <p>Copie : Toute reproduction d’un original au sens de cette licence.
     </p>
       <list>
@@ -73,7 +73,7 @@
             <br/>Cette licence a pour objet de définir les
                  conditions selon lesquelles vous pouvez jouir
                  librement de l’œuvre.
-          
+
         </item>
         <item>
             <bullet>2.</bullet>
@@ -82,7 +82,7 @@
                  l’auteur par cette licence vous indique
                  quelles sont vos libertés pour la copier, la
                  diffuser et la modifier.
-          
+
         <list>
                <item>
                   <bullet>2.1</bullet>
@@ -90,7 +90,7 @@
             <br/>Vous avez la liberté de copier cette œuvre pour
                  vous, vos amis ou toute autre personne, quelle
                  que soit la technique employée.
-          
+
         </item>
                <item>
                   <bullet>2.2</bullet>
@@ -100,7 +100,7 @@
                  support, quel que soit le lieu, à titre
                  onéreux ou gratuit, si vous respectez toutes
                  les conditions suivantes :
-                
+
           <list>
                      <item>
                         <bullet>1.</bullet>
@@ -118,7 +118,7 @@
               indiquer au destinataire où il pourrait avoir accès aux
                  originaux (initiaux et/ou conséquents).
             </item>
-                  </list>     
+                  </list>
                   <p>Les auteurs des originaux pourront, s’ils le souhaitent,
              vous autoriser à diffuser l’original dans les mêmes
              conditions que les copies.</p>
@@ -129,7 +129,7 @@
             <br/>Vous avez la liberté de modifier les copies des
                  originaux (initiaux et conséquents) dans le
                  respect des conditions suivantes :
-          
+
           <list>
                      <item>
                         <bullet>1.</bullet>
@@ -175,13 +175,13 @@
                  l’ensemble, alors l’intégration n’est possible
                  qu’à condition que l’ensemble soit soumis à la
                  LAL ou une licence compatible.
-          
+
         </item>
         <item>
             <bullet>5.</bullet>
           CRITÈRES DE COMPATIBILITÉ.
             <br/>Une licence est compatible avec la LAL si et seulement si :
-          
+
         <list>
                <item>
                   <bullet>1.</bullet>
@@ -222,7 +222,7 @@
                  celles qui vous ont été accordées par cette
                  licence. Ces autorisations n’entraînent pas un
                  dessaisissement de vos droits intellectuels.
-          
+
         </item>
         <item>
             <bullet>7.</bullet>
@@ -231,7 +231,7 @@
                  la LAL (liberté de copier, diffuser, modifier)
                  implique pour chacun la responsabilité de ses
                  propres faits.
-          
+
         </item>
         <item>
             <bullet>8.</bullet>
@@ -246,7 +246,7 @@
                  vous perdez automatiquement les droits qu’elle
                  vous confère.
 			<br/>Si le régime juridique auquel vous êtes soumis ne vous permet pas de respecter les termes de cette licence, vous ne pouvez pas vous prévaloir des libertés qu’elle confère.
-          
+
         </item>
         <item>
             <bullet>9.</bullet>
@@ -261,7 +261,7 @@
                  la LAL sous laquelle la copie vous a été
                  communiquée ou alors, vous prévaloir des
                  dispositions d’une des versions ultérieures.
-          
+
         </item>
         <item>
             <bullet>10.</bullet>
@@ -271,14 +271,14 @@
                  bénéficier des libertés qu’elle confère sera
                  liée directement aux auteurs de l’œuvre
                  commune.
-          
+
         </item>
         <item>
             <bullet>11.</bullet>
           LE CONTEXTE JURIDIQUE.
             <br/>Cette licence est rédigée en référence au droit français et à la
                 Convention de Berne relative au droit d’auteur.
-         
+
       </item>
       </list>
     </text>

@@ -5,13 +5,13 @@
          <crossRef>https://opensource.org/licenses/Multics</crossRef>
       </crossRefs>
       <notes>
-     
+
   </notes>
     <text>
       <titleText>
          <p>Multics License</p>
       </titleText>
-    
+
       <optional>
          <p>Historical Background</p>
          <p>This edition of the Multics software materials and documentation is provided and donated to Massachusetts
@@ -41,9 +41,9 @@
          in advertising or publicity pertaining to distribution of the programs without specific prior written
          permission.</p>
       <copyrightText>
-        <p>Copyright 1972 by Massachusetts Institute of Technology and Honeywell Information Systems Inc. 
-          <br/>Copyright 2006 by BULL HN Information Systems Inc. 
-          <br/>Copyright 2006 by Bull SAS All Rights Reserved 
+        <p>Copyright 1972 by Massachusetts Institute of Technology and Honeywell Information Systems Inc.
+          <br/>Copyright 2006 by BULL HN Information Systems Inc.
+          <br/>Copyright 2006 by Bull SAS All Rights Reserved
         </p>
       </copyrightText>
     </text>

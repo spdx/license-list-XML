@@ -8,17 +8,17 @@
       <notes>This is the overall Net-SNMP license, which is comprised of several
          licenses which are referred to in totality by the notices in
          the source files.</notes>
-    
+
     <text>
       <p>---- Part 1: CMU/UCD copyright notice: (BSD like) -----</p>
-    
+
       <copyrightText>
          <p>Copyright 1989, 1991, 1992 by Carnegie Mellon University</p>
          <p>Derivative Work - 1996, 1998-2000 Copyright 1996, 1998-2000 The
          Regents of the University of California</p>
          <p>All Rights Reserved</p>
       </copyrightText>
-    
+
       <p>Permission to use, copy, modify and distribute this software and
          its documentation for any purpose and without fee is hereby
          granted, provided that the above copyright notice appears in
@@ -120,12 +120,12 @@
          THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
          DAMAGE.</p>
       <p>---- Part 4: Sun Microsystems, Inc. copyright notice (BSD) -----</p>
-    
+
       <copyrightText>
          <p>Copyright © 2003 Sun Microsystems, Inc., 4150 Network Circle,
          Santa Clara, California 95054, U.S.A. All rights reserved.</p>
       </copyrightText>
-    
+
       <p>Use is subject to license terms below.</p>
       <p>This distribution may include materials developed by third parties.</p>
       <p>Sun, Sun Microsystems, the Sun logo and Solaris are trademarks or
@@ -254,12 +254,12 @@
          EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
       <p>---- Part 7: Fabasoft R&amp;D Software GmbH &amp; Co KG copyright
          notice (BSD) -----</p>
-    
+
       <copyrightText>
          <p>Copyright (c) Fabasoft R&amp;D Software GmbH &amp; Co KG, 2003
          oss@fabasoft.com Author: Bernhard Penz</p>
       </copyrightText>
-    
+
       <p>Redistribution and use in source and binary forms, with or
          without modification, are permitted provided that the
          following conditions are met:</p>
@@ -300,11 +300,11 @@
          THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
          DAMAGE.</p>
       <p>---- Part 8: Apple Inc. copyright notice (BSD) -----</p>
-    
+
       <copyrightText>
          <p>Copyright (c) 2007 Apple Inc. All rights reserved.</p>
       </copyrightText>
-    
+
       <p>Redistribution and use in source and binary forms, with or
          without modification, are permitted provided that the
          following conditions are met:</p>

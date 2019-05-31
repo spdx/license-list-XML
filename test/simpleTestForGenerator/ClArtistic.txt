@@ -32,7 +32,7 @@ Definitions:
 
      d) make other distribution arrangements with the Copyright Holder.
 
-     e) permit and encourge anyone who receives a copy of the modified Package permission to make your modifications Freely Available in some specific way. 
+     e) permit and encourge anyone who receives a copy of the modified Package permission to make your modifications Freely Available in some specific way.
 
 4. You may distribute the programs of this Package in object code or executable form, provided that you do at least ONE of the following:
 

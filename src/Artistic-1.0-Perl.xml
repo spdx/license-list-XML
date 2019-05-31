@@ -11,7 +11,7 @@
       <titleText>
          <p>The "Artistic License"</p>
       </titleText>
-    
+
       <p>Preamble</p>
       <p>The intent of this document is to state the conditions under which a Package may be copied, such that the
          Copyright Holder maintains some semblance of artistic control over the development of the package,
@@ -147,7 +147,7 @@
              PARTICULAR PURPOSE.
         </item>
       </list>
-    
+
       <optional>
          <p>The End</p>
       </optional>

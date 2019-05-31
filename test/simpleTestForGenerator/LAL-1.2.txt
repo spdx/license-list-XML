@@ -41,7 +41,7 @@ Cette oeuvre est soumise au droit d’auteur, et l’auteur par cette licence vo
 Vous avez la liberté de copier cette oeuvre pour un usage personnel, pour vos amis, ou toute autre personne et quelque soit la technique employée.
 
 2.2 LA LIBERTÉ DE DIFFUSER, D’INTERPRÉTER (OU DE REPRÉSENTATION)
-Vous pouvez diffuser librement les copies de ces oeuvres, modifiées ou non, quel que soit le support, quel que soit le lieu, à titre onéreux ou gratuit si vous respectez toutes les conditions suivantes: 
+Vous pouvez diffuser librement les copies de ces oeuvres, modifiées ou non, quel que soit le support, quel que soit le lieu, à titre onéreux ou gratuit si vous respectez toutes les conditions suivantes:
      – joindre aux copies, cette licence à l’identique, ou indiquer précisément où se trouve la licence,      – indiquer au destinataire le nom de l’auteur des originaux,      – indiquer au destinataire où il pourra avoir accès aux originaux (originels et/ou conséquents). L’auteur de l’original pourra, s’il le souhaite, vous autoriser à diffuser l’original dans les mêmes conditions que les copies.
 
 2.3 LA LIBERTÉ DE MODIFIER

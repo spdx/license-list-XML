@@ -1,4 +1,4 @@
-PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2 
+PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
 
      1. This LICENSE AGREEMENT is between the Python Software Foundation ("PSF"), and the Individual or Organization ("Licensee") accessing and otherwise using this software ("Python") in source or binary form and its associated documentation.
 
@@ -17,7 +17,7 @@ PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
      8. By copying, installing or otherwise using Python, Licensee agrees to be bound by the terms and conditions of this License Agreement.
 
 
-BEOPEN.COM LICENSE AGREEMENT FOR PYTHON 2.0 
+BEOPEN.COM LICENSE AGREEMENT FOR PYTHON 2.0
 
 BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1
 
@@ -36,7 +36,7 @@ BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1
      7. By copying, installing or otherwise using the software, Licensee agrees to be bound by the terms and conditions of this License Agreement.
 
 
-CNRI OPEN SOURCE LICENSE AGREEMENT (for Python 1.6b1) 
+CNRI OPEN SOURCE LICENSE AGREEMENT (for Python 1.6b1)
 
 IMPORTANT: PLEASE READ THE FOLLOWING AGREEMENT CAREFULLY.
 
@@ -63,7 +63,7 @@ BY CLICKING ON "ACCEPT" WHERE INDICATED BELOW, OR BY COPYING, INSTALLING OR OTHE
 ACCEPT
 
 
-CWI LICENSE AGREEMENT FOR PYTHON 0.9.0 THROUGH 1.2 
+CWI LICENSE AGREEMENT FOR PYTHON 0.9.0 THROUGH 1.2
 
 Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam, The Netherlands. All rights reserved.
 

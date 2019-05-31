@@ -6,7 +6,7 @@
       </crossRefs>
       <notes>Typically used with GPL-2.0+</notes>
     <text>
-      <p>In addition, as a special exception, 
+      <p>In addition, as a special exception,
         <alt match=".+" name="licensor">XXXX</alt> gives permission to
         link the code of this program with the proprietary Java
         implementation provided by Sun (or other vendors as well), and

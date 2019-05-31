@@ -8,8 +8,8 @@
       <notes>This license was released 1 Oct 2004</notes>
     <text>
       <titleText>
-         <p>The LaTeX Project Public License 
-        <br/>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 
+         <p>The LaTeX Project Public License
+        <br/>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
       </p>
          <p>LPPL Version 1.3a 2004-10-01</p>
       </titleText>
@@ -18,8 +18,8 @@
       </copyrightText>
       <p>Everyone is allowed to distribute verbatim copies of this license document, but modification of
            it is not allowed.</p>
-      <p>PREAMBLE 
-        <br/>======== 
+      <p>PREAMBLE
+        <br/>========
       </p>
       <p>The LaTeX Project Public License (LPPL) is the primary license under which the the LaTeX kernel and the
          base LaTeX packages are distributed.</p>
@@ -36,8 +36,8 @@
          maintaining the availability, integrity, and reliability of that work. If you do not see how to
          achieve your goal while meeting these conditions, then read the document `cfgguide.tex' and
          `modguide.tex' in the base LaTeX distribution for suggestions.</p>
-      <p>DEFINITIONS 
-        <br/>=========== 
+      <p>DEFINITIONS
+        <br/>===========
       </p>
       <p>In this license document the following terms are used:</p>
       <p>`Work' Any work being distributed under this License. `Derived Work' Any work that under any
@@ -62,8 +62,8 @@
          considered part of the Base Interpreter provided that each external component clearly identifies
          itself whenever it is used interactively. Unless explicitly specified when applying the license to the
          Work, the only applicable Base Interpreter is a "LaTeX-Format".</p>
-      <p>CONDITIONS ON DISTRIBUTION AND MODIFICATION 
-        <br/>=========================================== 
+      <p>CONDITIONS ON DISTRIBUTION AND MODIFICATION
+        <br/>===========================================
       </p>
       <list>
         <item>
@@ -197,8 +197,8 @@
              parties with all applicable laws.
         </item>
         </list>
-      <p>NO WARRANTY 
-        <br/>=========== 
+      <p>NO WARRANTY
+        <br/>===========
       </p>
       <p>There is no warranty for the Work. Except when otherwise stated in writing, the Copyright Holder
          provides the Work `as is', without warranty of any kind, either expressed or implied,
@@ -214,8 +214,8 @@
          rendered inaccurate, or losses sustained by anyone as a result of any failure of the Work to
          operate with any other programs), even if the Copyright Holder or said author or said other
          party has been advised of the possibility of such damages.</p>
-      <p>MAINTENANCE OF THE WORK 
-        <br/>======================= 
+      <p>MAINTENANCE OF THE WORK
+        <br/>=======================
       </p>
       <p>The Work has the status `author-maintained' if the Copyright Holder explicitly and
          prominently states near the primary copyright notice in the Work that the Work can only be
@@ -265,7 +265,7 @@
                of the Work be passed to you, then this takes effect immediately upon announcement.
             </item>
             </list>
-          </item>    
+          </item>
           <item>
             <bullet>4.</bullet>
             If you make an `intention announcement' as described in 2b. above and after three months
@@ -286,14 +286,14 @@
       <p>If you become the Current Maintainer of the Work, you should immediately provide, within the Work, a
          prominent and unambiguous statement of your status as Current Maintainer. You should also announce
          your new status to the same pertinent community as in 2b) above.</p>
-      <p>WHETHER AND HOW TO DISTRIBUTE WORKS UNDER THIS LICENSE 
-        <br/>====================================================== 
+      <p>WHETHER AND HOW TO DISTRIBUTE WORKS UNDER THIS LICENSE
+        <br/>======================================================
       </p>
       <p>This section contains important instructions, examples, and recommendations for authors who are
          considering distributing their works under this license. These authors are addressed as `you' in
          this section.</p>
-      <p>Choosing This License or Another License 
-        <br/>---------------------------------------- 
+      <p>Choosing This License or Another License
+        <br/>----------------------------------------
       </p>
       <p>If for any part of your work you want or need to use *distribution* conditions that differ significantly
          from those in this license, then do not refer to this license anywhere in your work but, instead,
@@ -305,8 +305,8 @@
          Public License (GPL) was considered inappropriate. Even if your work is unrelated to LaTeX, the
          discussion in `modguide.tex' may still be relevant, and authors intending to distribute their
          works under any license are encouraged to read it.</p>
-      <p>A Recommendation on Modification Without Distribution 
-        <br/>----------------------------------------------------- 
+      <p>A Recommendation on Modification Without Distribution
+        <br/>-----------------------------------------------------
       </p>
       <p>It is wise never to modify a component of the Work, even for your own personal use, without also meeting
          the above conditions for distributing the modified component. While you might intend that such
@@ -316,8 +316,8 @@
          could have legal implications and, worse, cause problems for the community. It is therefore usually in
          your best interest to keep your copy of the Work identical with the public one. Many works provide
          ways to control the behavior of that work without altering any of its licensed components.</p>
-      <p>How to Use This License 
-        <br/>----------------------- 
+      <p>How to Use This License
+        <br/>-----------------------
       </p>
       <p>To use this license, place in each of the components of your work both an explicit copyright notice
          including your name and the year the work was authored and/or last substantially modified. Include
@@ -353,8 +353,8 @@
          above into "author-maintained". However, we recommend that you use "maintained" as
          the Maintenance section was added in order to ensure that your Work remains useful to the community
          even when you can no longer maintain and support it yourself.</p>
-      <p>Important Recommendations 
-        <br/>------------------------- 
+      <p>Important Recommendations
+        <br/>-------------------------
       </p>
       <p>Defining What Constitutes the Work</p>
       <p>The LPPL requires that distributions of the Work contain all the files of the Work. It is therefore

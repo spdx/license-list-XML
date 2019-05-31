@@ -2,7 +2,7 @@ This copy of the libpng notices is provided for your convenience.  In case of an
 
 COPYRIGHT NOTICE, DISCLAIMER, and LICENSE:
 
-If you modify libpng you may insert additional notices immediately following this sentence. 
+If you modify libpng you may insert additional notices immediately following this sentence.
 
 This code is released under the libpng license.
 

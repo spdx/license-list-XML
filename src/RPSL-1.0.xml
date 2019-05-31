@@ -500,7 +500,7 @@
             </list>
          </item>
       </list>
-      
+
       <optional>
          <p>EXHIBIT A.</p>
         <standardLicenseHeader>
@@ -529,36 +529,36 @@
          <p>EXHIBIT B</p>
          <p>Compatible Source Licenses for the RealNetworks Public Source License. The following list applies to the
          most recent version of the license as of October 25, 2002, unless otherwise indicated.</p>
-         <p>Academic Free License 
-        <br/>Apache Software License 
-        <br/>Apple Public Source License 
-        <br/>Artistic license 
-        <br/>Attribution Assurance Licenses 
-        <br/>BSD license 
-        <br/>Common Public License1 
-        <br/>Eiffel Forum License 
-        <br/>GNU General Public License (GPL)1 
-        <br/>GNU Library or "Lesser" General Public License (LGPL)1 
-        <br/>IBM Public License 
-        <br/>Intel Open Source License 
-        <br/>Jabber Open Source License 
-        <br/>MIT license 
-        <br/>MITRE Collaborative Virtual Workspace License (CVW License) 
-        <br/>Motosoto License 
-        <br/>Mozilla Public License 1.0 (MPL) 
-        <br/>Mozilla Public License 1.1 (MPL) 
-        <br/>Nokia Open Source License 
-        <br/>Open Group Test Suite License 
-        <br/>Python Software Foundation License 
-        <br/>Ricoh Source Code Public License 
-        <br/>Sun Industry Standards Source License (SISSL) 
-        <br/>Sun Public License 
-        <br/>University of Illinois/NCSA Open Source License 
-        <br/>Vovida Software License v. 1.0 
-        <br/>W3C License 
-        <br/>X.Net License 
-        <br/>Zope Public License 
-        <br/>zlib/libpng license 
+         <p>Academic Free License
+        <br/>Apache Software License
+        <br/>Apple Public Source License
+        <br/>Artistic license
+        <br/>Attribution Assurance Licenses
+        <br/>BSD license
+        <br/>Common Public License1
+        <br/>Eiffel Forum License
+        <br/>GNU General Public License (GPL)1
+        <br/>GNU Library or "Lesser" General Public License (LGPL)1
+        <br/>IBM Public License
+        <br/>Intel Open Source License
+        <br/>Jabber Open Source License
+        <br/>MIT license
+        <br/>MITRE Collaborative Virtual Workspace License (CVW License)
+        <br/>Motosoto License
+        <br/>Mozilla Public License 1.0 (MPL)
+        <br/>Mozilla Public License 1.1 (MPL)
+        <br/>Nokia Open Source License
+        <br/>Open Group Test Suite License
+        <br/>Python Software Foundation License
+        <br/>Ricoh Source Code Public License
+        <br/>Sun Industry Standards Source License (SISSL)
+        <br/>Sun Public License
+        <br/>University of Illinois/NCSA Open Source License
+        <br/>Vovida Software License v. 1.0
+        <br/>W3C License
+        <br/>X.Net License
+        <br/>Zope Public License
+        <br/>zlib/libpng license
       </p>
          <p>1Note: because this license contains certain reciprocal licensing terms that purport to extend to
          independently developed code, You may be prohibited under the terms of this otherwise compatible

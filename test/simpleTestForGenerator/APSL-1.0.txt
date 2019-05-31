@@ -26,25 +26,25 @@ Please read this License carefully before downloading this software. By download
      2.1 You may use, copy, modify and distribute Original Code, with or without Modifications, solely for Your internal research and development, provided that You must in each instance:
 
           (a) retain and reproduce in all copies of Original Code the copyright and other proprietary notices and disclaimers of Apple as they appear in the Original Code, and keep intact all notices in the Original Code that refer to this License;
-     
+
           (b) include a copy of this License with every copy of Source Code of Covered Code and documentation You distribute, and You may not offer or impose any terms on such Source Code that alter or restrict this License or the recipients' rights hereunder, except as permitted under Section 6; and
-     
+
           (c) completely and accurately document all Modifications that you have made and the date of each such Modification, designate the version of the Original Code you used, prominently include a file carrying such information with the Modifications, and duplicate the notice in Exhibit A in each file of the Source Code of all such Modifications.
 
      2.2 You may Deploy Covered Code, provided that You must in each instance:
 
           (a) satisfy all the conditions of Section 2.1 with respect to the Source Code of the Covered Code;
-     
+
           (b) make all Your Deployed Modifications publicly available in Source Code form via electronic distribution (e.g. download from a web site) under the terms of this License and subject to the license grants set forth in Section 3 below, and any additional terms You may choose to offer under Section 6. You must continue to make the Source Code of Your Deployed Modifications available for as long as you Deploy the Covered Code or twelve (12) months from the date of initial Deployment, whichever is longer;
-     
+
           (c) must notify Apple and other third parties of how to obtain Your Deployed Modifications by filling out and submitting the required information found at http://www.apple.com/publicsource/modifications.html; and
-     
+
           (d) if you Deploy Covered Code in object code, executable form only, include a prominent notice, in the code itself as well as in related documentation, stating that Source Code of the Covered Code is available under the terms of this License with information on how and where to obtain such Source Code.
 
 3. Your Grants. In consideration of, and as a condition to, the licenses granted to You under this License:
 
           (a) You hereby grant to Apple and all third parties a non-exclusive, royalty-free license, under Your Applicable Patents and other intellectual property rights owned or controlled by You, to use, reproduce, modify, distribute and Deploy Your Modifications of the same scope and extent as Apple's licenses under Sections 2.1 and 2.2; and
-     
+
           (b) You hereby grant to Apple and its subsidiaries a non-exclusive, worldwide, royalty-free, perpetual and irrevocable license, under Your Applicable Patents and other intellectual property rights owned or controlled by You, to use, reproduce, execute, compile, display, perform, modify or have modified (for Apple and/or its subsidiaries), sublicense and distribute Your Modifications, in any form, through multiple tiers of distribution.
 
 4. Larger Works. You may create a Larger Work by combining Covered Code with other code not governed by the terms of this License and distribute the Larger Work as a single product. In each such instance, You must make sure the requirements of this License are fulfilled for the Covered Code or any portion thereof.
@@ -72,9 +72,9 @@ other than as permitted by and in strict compliance at all times with Apple's th
 
      12.1 Termination. This License and the rights granted hereunder will terminate:
 
-          (a) automatically without notice from Apple if You fail to comply with any term(s) of this License and fail to cure such breach within 30 days of becoming aware of such breach; 
+          (a) automatically without notice from Apple if You fail to comply with any term(s) of this License and fail to cure such breach within 30 days of becoming aware of such breach;
 
-          (b) immediately in the event of the circumstances described in Sections 9.1 and/or 13.6(b); or 
+          (b) immediately in the event of the circumstances described in Sections 9.1 and/or 13.6(b); or
 
           (c) automatically without notice from Apple if You, at any time during the term of this License, commence an action for patent infringement against Apple.
 

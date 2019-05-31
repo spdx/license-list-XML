@@ -6,12 +6,12 @@
     </crossRefs>
     <text>
       <copyrightText>
-        <p>Copyright 
+        <p>Copyright
 		      <alt match=".+" name="copyrightYears">1992, 1993, 1994</alt> by Jutta Degener and Carsten Bormann,
 	      </p>
         <p>Technische Universitaet Berlin</p>
       </copyrightText>
-    
+
       <p>
         Any use of this software is permitted provided that this notice is not
         removed and that neither the authors nor the Technische Universitaet Berlin

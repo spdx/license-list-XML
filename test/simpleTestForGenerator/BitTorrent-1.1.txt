@@ -28,7 +28,7 @@ You may use the Licensed Product for any purpose, but the Licensor is not provid
 7. If you assert any patent claims against the Licensor relating to the Licensed Product, or if you breach any terms of the License, your rights to the Licensed Product under this License automatically terminate.
 You may use this License to distribute your own Derivative Works, in which case the provisions of this License will apply to your Derivative Works just as they do to the original Licensed Product.
 
-Alternatively, you may distribute your Derivative Works under any other OSI-approved Open Source license, or under a proprietary license of your choice. If you use any license other than this License, however, you must continue to fulfill the requirements of this License (including the provisions relating to publishing the Source Code) for those portions of your Derivative Works that consist of the Licensed Product, including the files containing 
+Alternatively, you may distribute your Derivative Works under any other OSI-approved Open Source license, or under a proprietary license of your choice. If you use any license other than this License, however, you must continue to fulfill the requirements of this License (including the provisions relating to publishing the Source Code) for those portions of your Derivative Works that consist of the Licensed Product, including the files containing
 Modifications.
 
 New versions of this License may be published from time to time in connection with new versions of a Licensed Product or otherwise. You may choose to continue to use the license terms in this version of the License for the Licensed Product that was originally licensed hereunder, however, the new versions of this License will at all times apply to new versions of the Licensed Product released by Licensor after the release of the new version of this License. Only the Licensor has the right to change the License terms as they apply to the Licensed Product.
@@ -53,17 +53,17 @@ License Terms
 4. Your Obligations Regarding Distribution.
 
      a. Application of This License to Your Modifications. As an express condition for your use of the Licensed Product, you hereby agree that any Modifications that you create or to which you contribute, and which you distribute, are governed by the terms of this License including, without limitation, Section 2. Any Modifications that you create or to which you contribute may be distributed only under the terms of this License or a future version of this License released under Section 7. You must include a copy of this License with every copy of the Modifications you distribute. You agree not to offer or impose any terms on any Source Code or executable version of the Licensed Product or Modifications that alter or restrict the applicable version of this License or the recipients' rights hereunder. However, you may include an additional document offering the additional rights described in Section 4(d).
-	
+
      b. Availability of Source Code. You must make available, without charge, under the terms of this License, the Source Code of the Licensed Product and any Modifications that you distribute, either on the same media as you distribute any executable or other form of the Licensed Product, or via a mechanism generally accepted in the software development community for the electronic transfer of data (an "Electronic Distribution Mechanism"). The Source Code for any version of Licensed Product or Modifications that you distribute must remain available for as long as any executable or other form of the Licensed Product is distributed by you. You are responsible for ensuring that the Source Code version remains available even if the Electronic Distribution Mechanism is maintained by a third party.
-	
+
      c. Intellectual Property Matters.
 
           i. Third Party Claims. If you have knowledge that a license to a third party's intellectual property right is required to exercise the rights granted by this License, you must include a text file with the Source Code distribution titled "LEGAL" that describes the claim and the party making the claim in sufficient detail that a recipient will know whom to contact. If you obtain such knowledge after you make any Modifications available as described in Section 4(b), you shall promptly modify the LEGAL file in all copies you make available thereafter and shall take other steps (such as notifying appropriate mailing lists or newsgroups) reasonably calculated to inform those who received the Licensed Product from you that new knowledge has been obtained.
           ii. Contributor APIs. If your Modifications include an application programming interface ("API") and you have knowledge of patent licenses that are reasonably necessary to implement that API, you must also include this information in the LEGAL file.
           iii. Representations. You represent that, except as disclosed pursuant to 4(c)(i) above, you believe that any Modifications you distribute are your original creations and that you have sufficient rights to grant the rights conveyed by this License.
-	
+
      d. Required Notices. You must duplicate this License in any documentation you provide along with the Source Code of any Modifications you create or to which you contribute, and which you distribute, wherever you describe recipients' rights relating to Licensed Product. You must duplicate the notice contained in Exhibit A (the "Notice") in each file of the Source Code of any copy you distribute of the Licensed Product. If you created a Modification, you may add your name as a Contributor to the Notice. If it is not possible to put the Notice in a particular Source Code file due to its structure, then you must include such Notice in a location (such as a relevant directory file) where a user would be likely to look for such a notice. You may choose to offer, and charge a fee for, warranty, support, indemnity or liability obligations to one or more recipients of Licensed Product. However, you may do so only on your own behalf, and not on behalf of the Licensor or any Contributor. You must make it clear that any such warranty, support, indemnity or liability obligation is offered by you alone, and you hereby agree to indemnify the Licensor and every Contributor for any liability incurred by the Licensor or such Contributor as a result of warranty, support, indemnity or liability terms you offer.
-	
+
      e. Distribution of Executable Versions. You may distribute Licensed Product as an executable program under a license of your choice that may contain terms different from this License provided (i) you have satisfied the requirements of Sections 4(a) through 4(d) for that distribution, (ii) you include a conspicuous notice in the executable version, related documentation and collateral materials stating that the Source Code version of the Licensed Product is available under the terms of this License, including a description of how and where you have fulfilled the obligations of Section 4(b), and (iii) you make it clear that any terms that differ from this License are offered by you alone, not by Licensor or any Contributor. You hereby agree to indemnify the Licensor and every Contributor for any liability incurred by Licensor or such Contributor as a result of any terms you offer.
 
      f. Distribution of Derivative Works. You may create Derivative Works (e.g., combinations of some or all of the Licensed Product with other code) and distribute the Derivative Works as products under any other license you select, with the proviso that the requirements of this License are fulfilled for those portions of the Derivative Works that consist of the Licensed Product or any Modifications thereto.
@@ -77,7 +77,7 @@ License Terms
 7. Versions of This License.
 
      a. New Versions. Licensor may publish from time to time revised and/or new versions of the License.
-     
+
      b. Effect of New Versions. Once Licensed Product has been published under a particular version of the License, you may always continue to use it under the terms of that version, provided that any such license be in full force and effect at the time, and has not been revoked or otherwise terminated. You may also choose to use such Licensed Product under the terms of any subsequent version (but not any prior version) of the License published by Licensor. No one other than Licensor has the right to modify the terms applicable to Licensed Product created under this License.
 
      c. Derivative Works of this License. If you create or use a modified version of this License, which you may do only in order to apply it to software that is not already a Licensed Product under this License, you must rename your license so that it is not confusingly similar to this License, and must make it clear that your license contains terms that differ from this License. In so naming your license, you may not use any trademark of Licensor or any Contributor.
@@ -116,7 +116,7 @@ Licensed Product: Any BitTorrent Product licensed pursuant to this License. The 
 
 Licensor: BitTorrent, Inc. (See first paragraph of License)
 
-Modifications: Any additions to or deletions from the substance or structure of (i) a file containing Licensed 
+Modifications: Any additions to or deletions from the substance or structure of (i) a file containing Licensed
 Product, or (ii) any new file that contains any part of Licensed Product. (See Section 2)
 
 Notice: The notice contained in Exhibit A. (See Section 4(e))

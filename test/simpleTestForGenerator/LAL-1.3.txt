@@ -37,7 +37,7 @@ Vous avez la liberté de copier cette œuvre pour vous, vos amis ou toute autre 
 
 2.2 LA LIBERTÉ DE DIFFUSER (INTERPRÉTER, REPRÉSENTER, DISTRIBUER).
 Vous pouvez diffuser librement les copies de ces œuvres, modifiées ou non, quel que soit le support, quel que soit le lieu, à titre onéreux ou gratuit, si vous respectez toutes les conditions suivantes :
-	
+
      1.	joindre aux copies cette licence à l’identique ou indiquer précisément où se trouve la licence ;
      2.	indiquer au destinataire le nom de chaque auteur des originaux, y compris le vôtre si vous avez modifié l’œuvre ;
      3.	indiquer au destinataire où il pourrait avoir accès aux originaux (initiaux et/ou conséquents).
@@ -46,7 +46,7 @@ Les auteurs des originaux pourront, s’ils le souhaitent, vous autoriser à dif
 
 2.3 LA LIBERTÉ DE MODIFIER.
 Vous avez la liberté de modifier les copies des originaux (initiaux et conséquents) dans le respect des conditions suivantes :
-	
+
      1.	celles prévues à l’article 2.2 en cas de diffusion de la copie modifiée ;
      2.	indiquer qu’il s’agit d’une œuvre modifiée et, si possible, la nature de la modification ;
      3.	diffuser cette œuvre conséquente avec la même licence ou avec toute licence compatible ;
@@ -61,7 +61,7 @@ Si l’œuvre n’est plus accessible indépendamment de l’ensemble, alors l�
 
 5. CRITÈRES DE COMPATIBILITÉ.
 Une licence est compatible avec la LAL si et seulement si :
-	
+
      1.	elle accorde l’autorisation de copier, diffuser et modifier des copies de l’œuvre, y compris à des fins lucratives, et sans autres restrictions que celles qu’impose le respect des autres critères de compatibilité ;
      2.	elle garantit la paternité de l’œuvre et l’accès aux versions antérieures de l’œuvre quand cet accès est possible ;
      3.	elle reconnaît la LAL également compatible (réciprocité) ;

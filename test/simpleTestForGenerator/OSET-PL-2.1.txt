@@ -17,7 +17,7 @@ The text of the license begins here:
 
      1.4 “Covered Software” means Source Code Form to which the initial Contributor has attached the notice in Exhibit A, the Executable Form of such Source Code Form, and Modifications of such Source Code Form, in each case including portions thereof.
 
-     1.5 “Incompatible With Secondary Licenses” means: 
+     1.5 “Incompatible With Secondary Licenses” means:
           a. That the initial Contributor has attached the notice described in Exhibit B to the Covered Software; or
           b. that the Covered Software was made available under the terms of version 1.x or earlier of the License, but not also under the terms of a Secondary License.
 
@@ -29,7 +29,7 @@ The text of the license begins here:
 
      1.9 “Licensable” means having the right to grant, to the maximum extent possible, whether at the time of the initial grant or subsequently, any and all of the rights conveyed by this License.
 
-     1.10 “Modifications” means any of the following: 
+     1.10 “Modifications” means any of the following:
           a. any file in Source Code Form that results from an addition to, deletion from, or modification of the contents of Covered Software; or
 		  b. any new file in Source Code Form that contains any Covered Software.
 
@@ -46,7 +46,7 @@ The text of the license begins here:
      2.1 Grants Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license:
 	 a. under intellectual property rights (other than patent or trademark) Licensable by such Contributor to use, reproduce, make available, modify, display, perform, distribute, and otherwise exploit its Contributions, either on an unmodified basis, with Modifications, or as part of a Larger Work; and
 	 b. under Patent Claims of such Contributor to make, use, sell, offer for sale, have made, import, and otherwise transfer either its Contributions or its Contributor Version.
-	
+
      2.2 Effective Date
      The licenses granted in Section 2.1 with respect to any Contribution become effective for each Contribution on the date the Contributor first distributes such Contribution.
 
@@ -75,7 +75,7 @@ The text of the license begins here:
 	 All distribution of Covered Software in Source Code Form, including any Modifications that You create or to which You contribute, must be under the terms of this License. You must inform recipients that the Source Code Form of the Covered Software is governed by the terms of this License, and how they can obtain a copy of this License. You must cause any of Your Modifications to carry prominent notices stating that You changed the files. You may not attempt to alter or restrict the recipients’ rights in the Source Code Form.
 
      3.2 Distribution of Executable Form
-	 If You distribute Covered Software in Executable Form then: 
+	 If You distribute Covered Software in Executable Form then:
 
           a. such Covered Software must also be made available in Source Code Form, as described in Section 3.1, and You must inform recipients of the Executable Form how they can obtain a copy of such Source Code Form by reasonable means in a timely manner, at a charge no more than the cost of distribution to the recipient; and
 		  b. You may distribute such Executable Form under the terms of this License, or sublicense it under different terms, provided that the license for the Executable Form does not attempt to limit or alter the recipients’ rights in the Source Code Form under this License.
@@ -124,7 +124,7 @@ Any litigation relating to this License may be brought only in the courts of a j
 
      9.1 Commercial Item
 	 The Covered Software is a “commercial item,” as that term is defined in 48 C.F.R. 2.101 (Oct. 1995), consisting of “commercial computer software” and “commercial computer software documentation,” as such terms are used in 48 C.F.R. 12.212 (Sept. 1995). Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995), all U.S. Government End Users acquire Covered Software with only those rights set forth herein.
-     
+
      9.2 No Sovereign Immunity
 	 The U.S. federal government and states that use or distribute Covered Software hereby waive their sovereign immunity with respect to enforcement of the provisions of this License.
 

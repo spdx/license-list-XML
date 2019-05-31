@@ -8,15 +8,15 @@
       <notes>This license was released January 2004</notes>
     <text>
       <titleText>
-         <p>Apache License 
-        <br/>Version 2.0, January 2004 
-        <br/>http://www.apache.org/licenses/ 
+         <p>Apache License
+        <br/>Version 2.0, January 2004
+        <br/>http://www.apache.org/licenses/
       </p>
       </titleText>
       <optional>
          <p>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION</p>
       </optional>
-    
+
       <list>
         <item>
             <bullet>1.</bullet>
@@ -193,7 +193,7 @@
              liability.
         </item>
       </list>
-    
+
       <optional>
          <p>END OF TERMS AND CONDITIONS</p>
          <p>APPENDIX: How to apply the Apache License to your work.</p>
@@ -205,16 +205,16 @@
          archives.</p>
          <standardLicenseHeader>
          <p>Copyright <alt name="copyright" match=".+">[yyyy] [name of copyright owner]</alt></p>
-         <p>Licensed under the Apache License, Version 2.0 (the "License"); 
-        <br/>you may not use this file except in compliance with the License. 
-        <br/>You may obtain a copy of the License at 
+         <p>Licensed under the Apache License, Version 2.0 (the "License");
+        <br/>you may not use this file except in compliance with the License.
+        <br/>You may obtain a copy of the License at
       </p>
          <p>http://www.apache.org/licenses/LICENSE-2.0</p>
-         <p>Unless required by applicable law or agreed to in writing, software 
-        <br/>distributed under the License is distributed on an "AS IS" BASIS, 
-        <br/>WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
-        <br/>See the License for the specific language governing permissions and 
-        <br/>limitations under the License. 
+         <p>Unless required by applicable law or agreed to in writing, software
+        <br/>distributed under the License is distributed on an "AS IS" BASIS,
+        <br/>WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        <br/>See the License for the specific language governing permissions and
+        <br/>limitations under the License.
       </p>
         </standardLicenseHeader>
       </optional>

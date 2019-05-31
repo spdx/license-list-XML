@@ -6,8 +6,8 @@
       </crossRefs>
     <text>
       <titleText>
-         <p>ADAPTIVE PUBLIC LICENSE 
-        <br/>Version 1.0 
+         <p>ADAPTIVE PUBLIC LICENSE
+        <br/>Version 1.0
       </p>
       </titleText>
       <p>THE LICENSED WORK IS PROVIDED UNDER THE TERMS OF THIS ADAPTIVE PUBLIC LICENSE ("LICENSE"). ANY USE,
@@ -142,15 +142,15 @@
               </item>
                      <item>
                         <bullet>(c)</bullet>
-                to any combination of the Initial Work and any such other Subsequent Work; 
+                to any combination of the Initial Work and any such other Subsequent Work;
                   <br/>where such changes and/or additions originate from a Subsequent Contributor. A
                        Subsequent Work will "originate" from a Subsequent Contributor if the Subsequent
                        Work was a result of efforts by such Subsequent Contributor (or anyone acting on
                        such Subsequent Contributor's behalf, such as, a contractor or other entity that
                        is engaged by or under the direction of the Subsequent Contributor). For greater
                        certainty, a Subsequent Work expressly excludes and shall not capture within its
-                       meaning any Independent Module. 
-                
+                       meaning any Independent Module.
+
               </item>
                   </list>
                </item>
@@ -185,10 +185,10 @@
                            <item>
                               <bullet>(ii)</bullet>
                     reproduce, publicly display, publicly perform, distribute, and sublicense any derivative
-                       works (if any) prepared by Recipient; 
+                       works (if any) prepared by Recipient;
                       <br/>in Source Code and Executable form, either with other Modifications, on an
-                       unmodified basis, or as part of a Larger Work. 
-                    
+                       unmodified basis, or as part of a Larger Work.
+
                   </item>
                         </list>
                      </item>
@@ -205,10 +205,10 @@
                            <item>
                               <bullet>(ii)</bullet>
                     reproduce, publicly display, publicly perform, distribute, and sublicense any derivative
-                       works (if any) prepared by Recipient; 
+                       works (if any) prepared by Recipient;
                        <br/>in Source Code and Executable form, either with other Modifications, on an
-                       unmodified basis, or as part of a Larger Work. 
-                    
+                       unmodified basis, or as part of a Larger Work.
+
                   </item>
                         </list>
                      </item>
@@ -267,7 +267,7 @@
                </item>
                <item>
                   <bullet>2.3.</bullet>
-            ACKNOWLEDGEMENT AND DISCLAIMER. 
+            ACKNOWLEDGEMENT AND DISCLAIMER.
               <br/>Recipient understands and agrees that although Initial Contributor and each Subsequent
                  Contributor grants the licenses to its Contributions set forth herein, no
                  representation, warranty, guarantee or assurance is provided by any Initial
@@ -285,7 +285,7 @@
           </item>
                <item>
                   <bullet>2.4.</bullet>
-            RESERVATION. 
+            RESERVATION.
               <br/>Nothing in this License shall be deemed to grant any rights to trademarks, copyrights,
                  patents, trade secrets or any other intellectual property of Initial Contributor,
                  Subsequent Contributor, or Distributor except as expressly stated herein.
@@ -323,7 +323,7 @@
                </item>
                <item>
                   <bullet>3.2.</bullet>
-          EXECUTABLE DISTRIBUTIONS OF THE LICENSED WORK. 
+          EXECUTABLE DISTRIBUTIONS OF THE LICENSED WORK.
             <br/>A Distributor may choose to distribute the Licensed Work, or any portion thereof, in
                  Executable form (an "EXECUTABLE DISTRIBUTION") to any third party, under the terms of
                  Section 2 of this License, provided the Executable Distribution is made available
@@ -356,7 +356,7 @@
                </item>
                <item>
                   <bullet>3.3.</bullet>
-          SOURCE CODE DISTRIBUTIONS. 
+          SOURCE CODE DISTRIBUTIONS.
             <br/>When a Distributor makes the Licensed Work, or any portion thereof, available to any Person
                  in Source Code form, it must be made available under this License and a copy of this
                  License must be included with each copy of the Source Code, situated so that the copy
@@ -364,24 +364,24 @@
                  clarification, this Section 3.3 applies to all distribution of the Licensed Work in
                  any Source Code form. A Distributor may charge a fee for the physical act of
                  transferring a copy, which charge shall be no more than the cost of physically
-                 performing source distribution. 
-          
+                 performing source distribution.
+
           </item>
                <item>
                   <bullet>3.4.</bullet>
-              REQUIRED NOTICES IN SOURCE CODE. 
+              REQUIRED NOTICES IN SOURCE CODE.
                 <br/>Each Subsequent Contributor must ensure that the notice set out in Part 5 of Exhibit A is
                      included in each file of the Source Code for each Subsequent Work originating from
                      that particular Subsequent Contributor, if such notice is not already included in each
                      such file. If it is not possible to put such notice in a particular Source Code file
                      due to its structure, then the Subsequent Contributor must include such notice in a
                      location (such as a relevant directory in which the file is stored) where a user would
-                     be likely to look for such a notice. 
-              
+                     be likely to look for such a notice.
+
             </item>
                <item>
                   <bullet>3.5.</bullet>
-              NO DISTRIBUTION REQUIREMENTS FOR INTERNALLY USED MODIFICATIONS. 
+              NO DISTRIBUTION REQUIREMENTS FOR INTERNALLY USED MODIFICATIONS.
                 <br/>Notwithstanding Sections 3.2, 3.3 and 3.4, Recipient may, internally within its own
                      corporation or organization use the Licensed Work, including the Initial Work and
                      Subsequent Works, and make Modifications for internal use within Recipient's own
@@ -401,14 +401,14 @@
             </item>
                <item>
                   <bullet>3.6.</bullet>
-              INDEPENDENT MODULES. 
+              INDEPENDENT MODULES.
                 <br/>This License shall not apply to Independent Modules of any Initial Contributor, Subsequent
                      Contributor, Distributor or any Recipient, and such Independent Modules may be
                      licensed or made available under one or more separate license agreements.
             </item>
                <item>
                   <bullet>3.7.</bullet>
-              LARGER WORKS. 
+              LARGER WORKS.
                 <br/>Any Distributor or Recipient may create or contribute to a Larger Work by combining any of
                      the Licensed Work with other code not governed by the terms of this License, and may
                      distribute the Larger Work as one or more products. However, in any such case,
@@ -476,14 +476,14 @@
                </item>
                <item>
                   <bullet>3.9.</bullet>
-          USE OF DISTRIBUTOR NAME. 
+          USE OF DISTRIBUTOR NAME.
             <br/>The name of a Distributor may not be used by any other Distributor to endorse or promote
                  the Licensed Work or products derived from the Licensed Work, without prior written
                  permission.
         </item>
                <item>
                   <bullet>3.10.</bullet>
-              LIMITED RECOGNITION OF INITIAL CONTRIBUTOR.         
+              LIMITED RECOGNITION OF INITIAL CONTRIBUTOR.
               <list>
                      <item>
                         <bullet>(a)</bullet>
@@ -535,7 +535,7 @@
         <list>
                <item>
                   <bullet>4.1.</bullet>
-          COMMERCIAL SERVICES. 
+          COMMERCIAL SERVICES.
             <br/>A Recipient ("COMMERCIAL RECIPIENT") may choose to offer, and to charge a fee for,
                  warranty, support, indemnity or liability obligations (collectively, "SERVICES") to
                  one or more other Recipients or Distributors. However, such Commercial Recipient may
@@ -549,12 +549,12 @@
                  obligation of the Commercial Recipient as a Distributor, when distributing any of the
                  Licensed Work in Source Code or Executable form, to make such distribution
                  royalty-free (subject to the right to charge a fee of no more than the cost of
-                 physically performing Source Code or Executable distribution (as the case may be)). 
-          
+                 physically performing Source Code or Executable distribution (as the case may be)).
+
         </item>
                <item>
                   <bullet>4.2.</bullet>
-          INDEMNITY. 
+          INDEMNITY.
             <br/>Commercial distributors of software may accept certain responsibilities with respect to end
                  users, business partners and the like. While this License is intended to facilitate
                  the commercial use of the Licensed Work, the Distributor who includes any of the
@@ -573,8 +573,8 @@
                  (a) promptly notify the Commercial Distributor in writing of such claim; and (b) allow
                  the Commercial Distributor to control, and co-operate with the Commercial Distributor
                  in, the defense and any related settlement negotiations. The Indemnified Party may
-                 participate in any such claim at its own expense. 
-          
+                 participate in any such claim at its own expense.
+
         </item>
             </list>
          </item>
@@ -584,14 +584,14 @@
         <list>
                <item>
                   <bullet>5.1.</bullet>
-          NEW VERSIONS. 
+          NEW VERSIONS.
             <br/>The Initial Contributor may publish revised and/or new versions of the License from time to
-                 time. Each version will be given a distinguishing version number. 
-          
+                 time. Each version will be given a distinguishing version number.
+
         </item>
                <item>
                   <bullet>5.2.</bullet>
-          EFFECT OF NEW VERSIONS. 
+          EFFECT OF NEW VERSIONS.
             <br/>Once the Licensed Work or any portion thereof has been published by Initial Contributor
                  under a particular version of the License, Recipient may choose to continue to use it
                  under the terms of that version. However, if a Recipient chooses to use the Licensed
@@ -601,18 +601,18 @@
                  preparation of derivative works, public display of, public performance of,
                  distribution and sublicensing by the Recipient in connection with the Licensed Work.
                  No one other than the Initial Contributor has the right to modify the terms applicable
-                 to the Licensed Work 
-          
+                 to the Licensed Work
+
         </item>
             </list>
-         </item>    
+         </item>
          <item>
             <bullet>6.</bullet>
         DISCLAIMER OF WARRANTY.
           <list>
                <item>
                   <bullet>6.1.</bullet>
-          GENERAL DISCLAIMER. 
+          GENERAL DISCLAIMER.
             <br/>EXCEPT AS EXPRESSLY SET FORTH IN THIS LICENSE, THE LICENSED WORK IS PROVIDED UNDER THIS
                  LICENSE ON AN "AS IS" BASIS, WITHOUT ANY REPRESENTATION, WARRANTY, GUARANTEE,
                  ASSURANCE OR CONDITION OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT
@@ -622,18 +622,18 @@
                  RESPECT, RECIPIENT (NOT THE INITIAL CONTRIBUTOR OR ANY SUBSEQUENT CONTRIBUTOR) ASSUMES
                  THE COST OF ANY NECESSARY SERVICING, REPAIR OR CORRECTION. THIS CLAUSE CONSTITUTES AN
                  ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY LICENSED WORK IS AUTHORIZED HEREUNDER
-                 EXCEPT UNDER THIS LICENSE INCLUDING WITHOUT LIMITATION THIS DISCLAIMER. 
-          
+                 EXCEPT UNDER THIS LICENSE INCLUDING WITHOUT LIMITATION THIS DISCLAIMER.
+
         </item>
                <item>
                   <bullet>6.2.</bullet>
-          RESPONSIBILITY OF RECIPIENTS. 
+          RESPONSIBILITY OF RECIPIENTS.
             <br/>Each Recipient is solely responsible for determining the appropriateness of using and
                  distributing the Licensed Work and assumes all risks associated with its exercise of
                  rights under this License, including but not limited to the risks and costs of program
                  errors, compliance with applicable laws, damage to or loss of data, programs or
-                 equipment, and unavailability or interruption of operations. 
-          
+                 equipment, and unavailability or interruption of operations.
+
         </item>
             </list>
          </item>
@@ -906,7 +906,7 @@ ________________________________________________ <br/>
         <p>For the purposes of this License, paragraphs A, B, C, D and E of this Part 6 of Exhibit A are only
            incorporated and form part of the terms of the License if the Initial Contributor places an "X" or
            "x" in the selection box alongside the YES answer to the question immediately below.</p>
-               <p>Is this a Patents-Included License pursuant to Section 2.2 of the License? 
+               <p>Is this a Patents-Included License pursuant to Section 2.2 of the License?
 	    <list>
 		                   <item>
                         <p>YES [ ] </p>
@@ -957,16 +957,16 @@ ________________________________________________ <br/>
                         <item>
                            <bullet>(2)</bullet>
             the combination of Modifications made by that Subsequent Contributor with its Subsequent Work
-               (or portions of such combination); 
-              <br/>(collectively and in each case, the "SUBSEQUENT CONTRIBUTOR VERSION"). 
+               (or portions of such combination);
+              <br/>(collectively and in each case, the "SUBSEQUENT CONTRIBUTOR VERSION").
               <br/>Notwithstanding the foregoing, no patent license is granted under this Paragraph C by
                    such Subsequent Contributor: (1) for any code that such Subsequent Contributor
                    deletes from the Subsequent Contributor Version (or any portion thereof)
                    distributed by the Subsequent Contributor prior to such distribution; (2) for any
                    Modifications made to the Subsequent Contributor Version (or any portion thereof)
                    by any other Person; or (3) separate from the Subsequent Contributor Version (or
-                   portions thereof) distributed or made available by the Subsequent Contributor. 
-            
+                   portions thereof) distributed or made available by the Subsequent Contributor.
+
           </item>
                      </list>
                   </item>

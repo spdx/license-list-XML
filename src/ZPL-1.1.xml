@@ -14,7 +14,7 @@
       <optional>
          <p>This license has been certified as open source.</p>
       </optional>
-    
+
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
       <list>
@@ -67,7 +67,7 @@
          INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
          TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
          ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
-    
+
       <optional>
          <p>This software consists of contributions made by Zope Corporation and many individuals on behalf of Zope
          Corporation. Specific attributions are listed in the accompanying credits file.</p>

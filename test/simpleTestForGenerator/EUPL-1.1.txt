@@ -4,9 +4,9 @@ EUPL (c) the European Community 2007
 
 This European Union Public Licence (the "EUPL") applies to the Work or Software (as defined below) which is provided under the terms of this Licence. Any use of the Work, other than as authorised under this Licence is prohibited (to the extent such use is covered by a right of the copyright holder of the Work).
 
-The Original Work is provided under the terms of this Licence when the Licensor (as defined below) has placed the following notice immediately following the copyright notice for the Original Work: 
+The Original Work is provided under the terms of this Licence when the Licensor (as defined below) has placed the following notice immediately following the copyright notice for the Original Work:
 
-     Licensed under the EUPL V.1.1 
+     Licensed under the EUPL V.1.1
 
 or has expressed by any other mean his willingness to license under the EUPL.
 
@@ -38,17 +38,17 @@ In this Licence, the following terms have the following meaning:
 
 The Licensor hereby grants You a world-wide, royalty-free, non-exclusive, sublicensable licence to do the following, for the duration of copyright vested in the Original Work:
 
-     - use the Work in any circumstance and for all usage, 
+     - use the Work in any circumstance and for all usage,
 
-     - reproduce the Work, 
+     - reproduce the Work,
 
-     - modify the Original Work, and make Derivative Works based upon the Work, 
+     - modify the Original Work, and make Derivative Works based upon the Work,
 
-     - communicate to the public, including the right to make available or display the Work or copies thereof to the public and perform publicly, as the case may be, the Work, 
+     - communicate to the public, including the right to make available or display the Work or copies thereof to the public and perform publicly, as the case may be, the Work,
 
-     - distribute the Work or copies thereof, 
+     - distribute the Work or copies thereof,
 
-     - lend and rent the Work or copies thereof, 
+     - lend and rent the Work or copies thereof,
 
      - sub-license rights in the Work or copies thereof.
 
@@ -140,7 +140,7 @@ This Licence shall be governed by the law of the European Union country where th
 
 This licence shall be governed by the Belgian law if:
 
-     - a litigation arises between the European Commission, as a Licensor, and any Licensee; 
+     - a litigation arises between the European Commission, as a Licensor, and any Licensee;
 
      - the Licensor, other than the European Commission, has no residence or registered office inside a European Union country.
 
@@ -148,10 +148,10 @@ This licence shall be governed by the Belgian law if:
 
 Appendix
 
-"Compatible Licences" according to article 5 EUPL are: 
+"Compatible Licences" according to article 5 EUPL are:
 
-     - GNU General Public License (GNU GPL) v. 2 
-     - Open Software License (OSL) v. 2.1, v. 3.0 
-     - Common Public License v. 1.0 
-     - Eclipse Public License v. 1.0 
+     - GNU General Public License (GNU GPL) v. 2
+     - Open Software License (OSL) v. 2.1, v. 3.0
+     - Common Public License v. 1.0
+     - Eclipse Public License v. 1.0
      - Cecill v. 2.0
