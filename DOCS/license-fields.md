@@ -25,7 +25,7 @@ The following information describes how each field on the license and exception 
 
 **D) Notes**
 * Include date of release, if found, for licenses with multiple versions, using European date format: day - month - year
-* Only factual information is included here 
+* Only factual information is included here
 * Does not contain information (or links to information) that includes any kind of interpretation or comment about the license (even if written by the license author)
 * Links to other official language translations of the license
 * For exceptions, includes a reference to the license(s) to which this exception typically applies
