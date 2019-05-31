@@ -34,7 +34,7 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 5. The new license/exception will be officially added for the next release of the SPDX License List. 
 
 ## Release Timing
-* SPDX License List releases are done on quarterly basis (more or less) - i.e. end of March, end of June, end of Sept, end of Dec
+* SPDX License List releases are done on quarterly basis (more or less) - i.e. end of March, end of June, end of September, end of December
 * All PRs to be included as part of release must be merged 1 week prior to release date to allow time for actual release work
 * Any new issues raised within the month of the next release will likely be tagged for the following release, unless it is an easy-to-resolve issue
 
