@@ -1,5 +1,5 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-    <license isOsiApproved="false" licenseId="CC-PD" name="Copyright-Only Dedication (based on United States law) or Public Domain Certification" listVersionAdded="3.6">
+    <license isOsiApproved="false" licenseId="CC-PDDC" name="Creative Commons Public Domain Dedication and Certification" listVersionAdded="3.6">
         <crossRefs>
             <crossRef>
 https://creativecommons.org/licenses/publicdomain/</crossRef>
