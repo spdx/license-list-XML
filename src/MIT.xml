@@ -9,8 +9,7 @@
          <p>MIT License</p>
       </titleText>
       <copyrightText>
-         <p>Copyright (c)
-           <alt match=".+" name="copyright">&lt;year&gt; &lt;copyright holders&gt;</alt>
+         <p>Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
          </p>
       </copyrightText>
 

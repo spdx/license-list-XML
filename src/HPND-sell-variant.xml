@@ -10,7 +10,7 @@
   </notes>
     <text>
       <copyrightText>
-         <p><alt match=".+" name="copyright">&lt;copyright notice&gt;</alt></p>
+         <p>&lt;copyright notice&gt;</p>
       </copyrightText>
 
       <p>Permission to use, copy, modify, distribute, and sell this software and its documentation for any purpose
