@@ -12,9 +12,8 @@
          <p>The Clear BSD License</p>
       </titleText>
       <copyrightText>
-         <p>Copyright (c)
-        <alt match=".+" name="copyright">[xxxx]-[xxxx] [Owner Organization]</alt>
-            <br/>All rights reserved.
+         <p>Copyright (c) [xxxx]-[xxxx] [Owner Organization]
+            <br/>All rights reserved. 
       </p>
       </copyrightText>
 

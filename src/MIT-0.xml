@@ -16,7 +16,7 @@
       </titleText>
       <copyrightText>
         <p>
-          Copyright <alt name="copyright" match="(c)|"/> <alt match=".+" name="copyright">&lt;YEAR&gt; &lt;COPYRIGHT HOLDER&gt;</alt>
+          Copyright &lt;YEARr&gt; &lt;COPYRIGHT HOLDER&gt;
         </p>
       </copyrightText>
 

@@ -9,7 +9,7 @@
         <p>Japan Network Information Center License</p>
       </titleText>
       <copyrightText>
-        <p>Copyright (c) <alt name="copyright" match=".+">2000-2002 Japan Network Information Center</alt>. All rights reserved.</p>
+        <p>Copyright (c) 2000-2002 Japan Network Information Center. All rights reserved.</p>
       </copyrightText>
       <p>By using this file, you agree to the terms and conditions set forth <alt match="bellow|below" name="bellow">bellow</alt>.</p>
       <p>LICENSE TERMS AND CONDITIONS</p>

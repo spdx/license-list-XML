@@ -7,8 +7,7 @@
       <notes>dom4j uses this same license.</notes>
     <text>
       <copyrightText>
-         <p>Copyright
-        <alt match=".+" name="copyright">2002 (C) The Codehaus</alt>. All Rights Reserved.
+         <p>Copyright 2002 (C) The Codehaus. All Rights Reserved. 
       </p>
       </copyrightText>
 
