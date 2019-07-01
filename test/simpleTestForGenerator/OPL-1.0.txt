@@ -1,5 +1,5 @@
-OPEN PUBLIC LICENSE 
-Version 1.0 
+OPEN PUBLIC LICENSE
+Version 1.0
 
 1. Definitions.
 
@@ -133,4 +133,4 @@ Text for this Exhibit A is found in the corresponding addendum, described in sec
 
 EXHIBIT B.
 
-Text for this Exhibit B is found in the corresponding addendum, described in section 6.4 above, text file provided by the Initial Developer. This license is not valid or complete with out that file. 
+Text for this Exhibit B is found in the corresponding addendum, described in section 6.4 above, text file provided by the Initial Developer. This license is not valid or complete with out that file.

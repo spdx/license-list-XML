@@ -49,7 +49,7 @@
          rights reserved. """</p>
          <p>Please replace &lt;year&gt; with the value from the FreeType version you actually use.</p>
       </optional>
-    
+
       <p>Legal Terms</p>
       <list>
         <item>
@@ -141,7 +141,7 @@
             <p>http://www.freetype.org</p>
         </item>
       </list>
-    
+
       <optional>
          <p>--- end of FTL.TXT ---</p>
       </optional>

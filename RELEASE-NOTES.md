@@ -18,7 +18,7 @@ Add page describing internal workflow for adding a new license in /DOCS director
 
 See all PRs for 3.5 here: https://github.com/spdx/license-list-XML/pulls?utf8=%E2%9C%93&q=is%3Apr+milestone%3A%223.5+release%22+
 
-See comparison of changes from 3.4 to 3.5: 
+See comparison of changes from 3.4 to 3.5:
 
 ## version 3.4 - 2018-12-20
 

@@ -1,8 +1,8 @@
 Copyright (c) 2000-2002 Japan Network Information Center.  All rights reserved.
- 
+
 By using this file, you agree to the terms and conditions set forth bellow.
 
-                        LICENSE TERMS AND CONDITIONS 
+                        LICENSE TERMS AND CONDITIONS
 
 The following License Terms and Conditions apply, unless a different
 license is obtained from Japan Network Information Center ("JPNIC"),

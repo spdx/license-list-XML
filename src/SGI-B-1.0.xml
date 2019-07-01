@@ -8,8 +8,8 @@
       <notes>This license was released 25 January 2000</notes>
     <text>
       <titleText>
-         <p>SGI FREE SOFTWARE LICENSE B 
-        <br/>(Version 1.0 1/25/2000) 
+         <p>SGI FREE SOFTWARE LICENSE B
+        <br/>(Version 1.0 1/25/2000)
       </p>
       </titleText>
       <list>
@@ -171,7 +171,7 @@
              Recipient breaches any term herein and fails to cure such breach within 30 days thereof. Any
              sublicense to the Covered Code that is properly granted shall survive any termination of this
              License, absent termination by the terms of such sublicense. Provisions that, by their nature,
-             must remain in effect beyond the termination of this License, shall survive.  
+             must remain in effect beyond the termination of this License, shall survive.
         </item>
         <item>
             <bullet>5.</bullet>
@@ -288,11 +288,11 @@
             <alt match=".+" name="softwareName">name of software</alt>,
       <alt match=".+" name="softwareVersion">version number</alt>, and
       <alt match=".+" name="softwareReleaseDate">release date</alt>
-            <optional>]</optional>, developed by Silicon Graphics, Inc. The Original Code is Copyright (c) 
+            <optional>]</optional>, developed by Silicon Graphics, Inc. The Original Code is Copyright (c)
       <optional>[</optional>
             <alt match=".+" name="softwareFirstPublicationDate">dates of first publication, as appearing in
         the Notice in the Original Code</alt>
-            <optional>]</optional> Silicon Graphics, Inc. Copyright in any 
+            <optional>]</optional> Silicon Graphics, Inc. Copyright in any
         portions created by third parties is as indicated elsewhere herein. All Rights Reserved.</p>
          <p>Additional Notice Provisions: <optional>[</optional>
             <alt match=".+" name="additionalProvisions">such additional provisions, if any, as appear in

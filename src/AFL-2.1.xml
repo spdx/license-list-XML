@@ -6,8 +6,8 @@
       </crossRefs>
     <text>
       <titleText>
-         <p>The Academic Free License 
-        <br/>v.2.1 
+         <p>The Academic Free License
+        <br/>v.2.1
       </p>
       </titleText>
       <optional>
@@ -18,7 +18,7 @@
          <p>Licensed under the Academic Free License version 2.1</p>
          </standardLicenseHeader>
       </optional>
-    
+
       <list>
         <item>
             <bullet>1)</bullet>
@@ -185,9 +185,9 @@
              such uses by You.
         </item>
       </list>
-      <p>This license is Copyright (C) 2003-2004 Lawrence E. Rosen. All rights reserved. 
+      <p>This license is Copyright (C) 2003-2004 Lawrence E. Rosen. All rights reserved.
         <br/>Permission is hereby granted to copy and distribute this license without modification. This license
-             may not be modified without the express written permission of its copyright owner. 
+             may not be modified without the express written permission of its copyright owner.
       </p>
     </text>
   </license>

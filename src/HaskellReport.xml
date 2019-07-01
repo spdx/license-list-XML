@@ -5,10 +5,10 @@
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/Haskell_Language_Report_License</crossRef>
       </crossRefs>
-    
+
     <text>
-      <p>Code derived from the document "Report on the Programming Language 
-        <br/>Haskell 2010", is distributed under the following license: 
+      <p>Code derived from the document "Report on the Programming Language
+        <br/>Haskell 2010", is distributed under the following license:
       </p>
       <p>
         <copyrightText>Copyright (c) 2010 Simon Marlow</copyrightText>

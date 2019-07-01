@@ -9,19 +9,19 @@
          <p>NTP License (NTP)</p>
       </titleText>
       <copyrightText>
-         <p>Copyright (c) 
+         <p>Copyright (c)
         <alt match=".+" name="copyright">(CopyrightHoldersName) (From 4-digit-year)-(To 4-digit-year)</alt>
          </p>
       </copyrightText>
-    
+
       <p>Permission to use, copy, modify, and distribute this software and its documentation for any purpose with
          or without fee is hereby granted, provided that the above copyright notice appears in all copies and
          that both the copyright notice and this permission notice appear in supporting documentation, and that
-         the name 
+         the name
         <alt match=".+" name="TMname">(TrademarkedName)</alt> not be used in advertising or publicity pertaining
-        to distribution of the software without specific, written prior permission. 
+        to distribution of the software without specific, written prior permission.
         <alt match=".+" name="TMname">(TrademarkedName)</alt> makes no representations about the suitability
-        this software for any purpose. It is provided "as is" without express or implied warranty. 
+        this software for any purpose. It is provided "as is" without express or implied warranty.
       </p>
     </text>
   </license>

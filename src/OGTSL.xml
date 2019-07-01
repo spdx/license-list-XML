@@ -31,7 +31,7 @@
          into the original, and also raise any specification issues with the appropriate bodies (for example
          the POSIX committees).</p>
       </optional>
-    
+
       <p>Definitions:</p>
       <p>"Package" refers to the collection of files distributed by the Copyright Holder, and derivatives of that
          collection of files created through textual modification.</p>
@@ -106,7 +106,7 @@
              PURPOSE.
         </item>
       </list>
-    
+
       <optional>
          <p>The End</p>
       </optional>

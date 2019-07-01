@@ -7,8 +7,8 @@
       </crossRefs>
     <text>
       <titleText>
-         <p>INTERBASE PUBLIC LICENSE 
-        <br/>Version 1.0 
+         <p>INTERBASE PUBLIC LICENSE
+        <br/>Version 1.0
       </p>
       </titleText>
       <list>
@@ -17,7 +17,7 @@
           Definitions.
           <list>
                <item>
-                  <bullet>1.0.1.</bullet> 
+                  <bullet>1.0.1.</bullet>
               "Commercial Use" means distribution or otherwise making the Covered Code
                  available to a third party.
             </item>
@@ -118,7 +118,7 @@
                  entity.
             </item>
             </list>
-        </item>  
+        </item>
         <item>
             <bullet>2.</bullet>
           Source Code License.
@@ -194,7 +194,7 @@
                    Contributor.
               </item>
                   </list>
-               </item>  
+               </item>
             </list>
         </item>
         <item>
@@ -314,8 +314,8 @@
                  of this License and distribute the Larger Work as a single product. In such a case, You must
                  make sure the requirements of this License are fulfilled for the Covered Code.</p>
                </item>
-            </list>    
-        </item>       
+            </list>
+        </item>
         <item>
             <bullet>4.</bullet>
           Inability to Comply Due to Statute or Regulation.
@@ -371,23 +371,23 @@
                <item>
                   <bullet>6.4</bullet>
               Origin of the Interbase Public License.
-              <p>The Interbase public license is based on the Mozilla Public License V 1.1 with the following changes: 
+              <p>The Interbase public license is based on the Mozilla Public License V 1.1 with the following changes:
                 <br/>The license is published by Borland Software Corporation. Only Borland Software Corporation
-                     can modify the terms applicable to Covered Code. 
+                     can modify the terms applicable to Covered Code.
                 <br/>The license can be modified used for code which is not already governed by this license.
                      Modified versions of the license must be renamed to avoid confusion with Netscape?s or
                      Interbase Software?s license and must include a description of changes from the
-                     Interbase Public License. 
-                <br/>The name of the license in Exhibit A is the "Interbase Public License". 
-                <br/>The reference to an alternative license in Exhibit A has been removed. 
-                <br/>Amendments I, II, III, V, and VI have been deleted. 
-                <br/>Exhibit A, Netscape Public License has been deleted 
+                     Interbase Public License.
+                <br/>The name of the license in Exhibit A is the "Interbase Public License".
+                <br/>The reference to an alternative license in Exhibit A has been removed.
+                <br/>Amendments I, II, III, V, and VI have been deleted.
+                <br/>Exhibit A, Netscape Public License has been deleted
                 <br/>A new amendment (II) has been added, describing the required and restricted rights to use
-                     the trademarks of Borland Software Corporation 
+                     the trademarks of Borland Software Corporation
               </p>
                </item>
             </list>
-        </item>    
+        </item>
         <item>
             <bullet>7.</bullet>
           DISCLAIMER OF WARRANTY.
@@ -442,7 +442,7 @@
                        Participant.
                   </item>
                   </list>
-               </item>    
+               </item>
                <item>
                   <bullet>8.3.</bullet>
               If You assert a patent infringement claim against Participant alleging that such
@@ -459,7 +459,7 @@
                  distributor hereunder prior to termination shall survive termination.
             </item>
             </list>
-        </item>    
+        </item>
         <item>
             <bullet>9.</bullet>
           LIMITATION OF LIABILITY.
@@ -545,26 +545,26 @@
           Trademark Usage.
         <list>
                <item>
-                  <bullet>II.1.</bullet> 
+                  <bullet>II.1.</bullet>
               Advertising Materials. All advertising materials mentioning features or use of the covered Code
                  must display the following acknowledgement: "This product includes software developed by Borland
                  Software Corp. "
             </item>
                <item>
-                  <bullet>II.2.</bullet> 
+                  <bullet>II.2.</bullet>
               Endorsements. The names "InterBase," "ISC," and "IB" must not be used
                  to endorse or promote Contributor Versions or Larger Works without the prior written permission of
                  Interbase.
             </item>
-               <item>     
-                  <bullet>II.3.</bullet> 
+               <item>
+                  <bullet>II.3.</bullet>
               Product Names. Contributor Versions and Larger Works may not be called "InterBase" or
                  "Interbase" nor may the word "InterBase" appear in their names without the prior
                  written permission of Interbase.
             </item>
-            </list> 
+            </list>
          </item>
-      </list>  
+      </list>
     </text>
   </license>
 </SPDXLicenseCollection>

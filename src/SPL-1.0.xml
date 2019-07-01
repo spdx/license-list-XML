@@ -8,7 +8,7 @@
       <titleText>
          <p>SUN PUBLIC LICENSE Version 1.0</p>
       </titleText>
-    
+
       <list>
         <item>
             <bullet>1.</bullet>
@@ -195,7 +195,7 @@
                     Covered Code in the absence of Modifications made by that Contributor.
                </item>
                   </list>
-               </item>        
+               </item>
             </list>
          </item>
          <item>
@@ -485,9 +485,9 @@
            means that the Initial Developer permits you to utilize portions of the Covered Code under Your choice
            of the alternative licenses, if any, specified by the Initial Developer in the file described in
            Exhibit A.</p>
-         </item>    
+         </item>
       </list>
-    
+
       <optional>
          <p>Exhibit A -Sun Public License Notice.</p>
         <standardLicenseHeader>

@@ -23,12 +23,12 @@ copy, modify, and distribute documentation, and to make, use and
 distribute products based on that documentation.
 
 Unlike the GPL, the OHL is not primarily a copyright license.  While
-copyright protects documentation from unauthorized copying, modification, 
-and distribution, it has little to do with your right to make, distribute, 
-or use a product based on that documentation.  For better or worse, patents 
-play a significant role in those activities.  Although it does not prohibit 
-anyone from patenting inventions embodied in an Open Hardware design, and 
-of course cannot prevent a third party from enforcing their patent rights, 
+copyright protects documentation from unauthorized copying, modification,
+and distribution, it has little to do with your right to make, distribute,
+or use a product based on that documentation.  For better or worse, patents
+play a significant role in those activities.  Although it does not prohibit
+anyone from patenting inventions embodied in an Open Hardware design, and
+of course cannot prevent a third party from enforcing their patent rights,
 those who benefit from an OHL design may not bring lawsuits claiming that
 design infringes their patents or other intellectual property.
 
@@ -83,7 +83,7 @@ others, you must include all the materials you received from the
 upstream licensors.  In addition, if you have modified the
 documentation:
     *  You must identify the modifications in a text file (preferably
-       named "CHANGES.TXT") that you include with the documentation. 
+       named "CHANGES.TXT") that you include with the documentation.
        That file must also include a statement like "These modifications
        are licensed under the TAPR Open Hardware License."
     *  You must include any new files you created, including any
@@ -237,7 +237,7 @@ address new problems or concerns, and carry a distinguishing version
 number.  If the Documentation specifies a version number which applies
 to it and "any later version", you may choose either that version or any
 later version published by TAPR.  If the Documentation does not specify
-a version number, you may choose any version ever published by TAPR. 
+a version number, you may choose any version ever published by TAPR.
 TAPR owns the copyright to the OHL, but grants permission to any person
 to copy, distribute, and use it in unmodified form.
 

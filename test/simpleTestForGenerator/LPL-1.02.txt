@@ -1,4 +1,4 @@
-Lucent Public License Version 1.02 
+Lucent Public License Version 1.02
 
 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
 
@@ -43,7 +43,7 @@ THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS PUBLIC LICENSE ("AG
           1.  it complies with the terms and conditions of this Agreement;
           2.  if the Program is distributed in source code or other tangible form, a copy of this Agreement or Distributor's own license agreement is included with each copy of the Program; and
           3.  if distributed under Distributor's own license agreement, such license agreement:
-          
+
                a.  effectively disclaims on behalf of all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose;
                b.  effectively excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits; and
                c.  states that any provisions which differ from this Agreement are offered by that Contributor alone and not by any other party.

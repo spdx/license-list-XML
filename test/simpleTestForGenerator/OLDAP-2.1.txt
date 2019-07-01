@@ -1,5 +1,5 @@
 The OpenLDAP Public License
-Version 2.1, 29 February 2000 
+Version 2.1, 29 February 2000
 
 Copyright 1999-2000, The OpenLDAP Foundation, Redwood City, California, USA. All Rights Reserved.
 

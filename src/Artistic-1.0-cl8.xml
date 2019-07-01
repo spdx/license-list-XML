@@ -11,7 +11,7 @@
       <titleText>
          <p>The Artistic License</p>
       </titleText>
-    
+
       <p>Preamble</p>
       <p>The intent of this document is to state the conditions under which a Package may be copied, such that the
          Copyright Holder maintains some semblance of artistic control over the development of the package,
@@ -48,7 +48,7 @@
           You may otherwise modify your copy of this Package in any way, provided that you insert a
              prominent notice in each changed file stating how and when you changed that file, and provided
              that you do at least ONE of the following:
-        
+
           <list>
                <item>
                   <bullet>a)</bullet>
@@ -77,7 +77,7 @@
             <bullet>4.</bullet>
           You may distribute the programs of this Package in object code or executable form, provided that
              you do at least ONE of the following:
-        
+
           <list>
                <item>
                   <bullet>a)</bullet>
@@ -137,7 +137,7 @@
              PARTICULAR PURPOSE.
         </item>
       </list>
-    
+
       <optional>
          <p>The End</p>
       </optional>

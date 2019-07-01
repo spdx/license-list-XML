@@ -63,7 +63,7 @@
              conditions of this License Agreement.
         </item>
       </list>
-    
+
       <titleText>
          <p>BEOPEN.COM LICENSE AGREEMENT FOR PYTHON 2.0</p>
          <p>BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1</p>
@@ -119,7 +119,7 @@
              and conditions of this License Agreement.
         </item>
       </list>
-    
+
       <titleText>
          <p>CNRI OPEN SOURCE LICENSE AGREEMENT (for Python 1.6b1)</p>
       </titleText>
@@ -193,7 +193,7 @@
              Agreement.
         </item>
       </list>
-    
+
       <optional>
          <p>ACCEPT</p>
       </optional>
@@ -203,7 +203,7 @@
       <copyrightText>
          <p>Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam, The Netherlands. All rights reserved.</p>
       </copyrightText>
-    
+
       <p>Permission to use, copy, modify, and distribute this software and its documentation for any purpose and
          without fee is hereby granted, provided that the above copyright notice appear in all copies and that
          both that copyright notice and this permission notice appear in supporting documentation, and that the

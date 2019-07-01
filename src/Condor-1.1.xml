@@ -17,7 +17,7 @@
          Miron Livny, Dept of Computer Sciences, 1210 W. Dayton St., Madison, WI 53706-1685, (608) 262-0856 or
          miron@cs.wisc.edu.</p>
       </copyrightText>
-    
+
       <p>This software referred to as the Condor® Version 6.x software ("Software") was developed by the Condor
          Project, Condor Team, Computer Sciences Department, University of Wisconsin-Madison, under the
          authority of the Board of Regents of the University of Wisconsin System and includes voluntary
@@ -35,10 +35,10 @@
         </item>
         <item>
             <p>
-               <bullet>2.</bullet> Any user documentation included with a redistribution must include the following notice: 
-            <br/>"This product includes software from the Condor® Project (http://www.condorproject.org/)" 
+               <bullet>2.</bullet> Any user documentation included with a redistribution must include the following notice:
+            <br/>"This product includes software from the Condor® Project (http://www.condorproject.org/)"
             <br/>Alternatively, if that is where third-party acknowledgments normally appear, this
-                 acknowledgment must be reproduced in the Software itself. 
+                 acknowledgment must be reproduced in the Software itself.
           </p>
         </item>
         <item>
@@ -74,19 +74,19 @@
         </item>
         <item>
             <bullet>6.</bullet>
-          DISCLAIMER 
+          DISCLAIMER
             <br/>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS AND THE UNIVERSITY "AS
                  IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
                  WARRANTIES OF MERCHANTABILITY, OF SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR
                  PURPOSE OR USE ARE DISCLAIMED. THE COPYRIGHT HOLDERS AND CONTRIBUTORS AND THE
                  UNIVERSITY MAKE NO REPRESENTATION THAT THE SOFTWARE, MODIFICATIONS, ENHANCEMENTS OR
                  DERIVATIVE WORKS THEREOF, WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADEMARK, TRADE
-                 SECRET OR OTHER PROPRIETARY RIGHT. 
-          
+                 SECRET OR OTHER PROPRIETARY RIGHT.
+
         </item>
         <item>
             <bullet>7.</bullet>
-          LIMITATION OF LIABILITY 
+          LIMITATION OF LIABILITY
             <br/>THE COPYRIGHT HOLDERS AND CONTRIBUTORS AND ANY OTHER OFFICER, AGENT, OR EMPLOYEE OF THE
                  UNIVERSITY SHALL HAVE NO LIABILITY TO LICENSEE OR OTHER PERSONS FOR DIRECT, INDIRECT,
                  SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES OF ANY CHARACTER
@@ -94,8 +94,8 @@
                  USE, DATA OR PROFITS, OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY THEORY OF
                  CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE,
                  ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
-                 OF SUCH DAMAGES. 
-          
+                 OF SUCH DAMAGES.
+
         </item>
         <item>
             <bullet>8.</bullet>
@@ -119,13 +119,13 @@
       </list>
       <optional>
         <p>For more information:</p>
-        <p>Condor Team 
-          <br/>Attention: Professor Miron Livny 
-          <br/>7367 Computer Sciences 
-          <br/>1210 W. Dayton St. 
-          <br/>Madison, WI 53706-1685 
-          <br/>miron@cs.wisc.edu 
-          <br/>http://pages.cs.wisc.edu/~miron/miron.html 
+        <p>Condor Team
+          <br/>Attention: Professor Miron Livny
+          <br/>7367 Computer Sciences
+          <br/>1210 W. Dayton St.
+          <br/>Madison, WI 53706-1685
+          <br/>miron@cs.wisc.edu
+          <br/>http://pages.cs.wisc.edu/~miron/miron.html
         </p>
       </optional>
     </text>

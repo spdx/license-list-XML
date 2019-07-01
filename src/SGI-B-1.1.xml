@@ -8,8 +8,8 @@
       <notes>This license was released 22 February 2002</notes>
     <text>
       <titleText>
-         <p>SGI FREE SOFTWARE LICENSE B 
-        <br/>(Version 1.1 02/22/2000) 
+         <p>SGI FREE SOFTWARE LICENSE B
+        <br/>(Version 1.1 02/22/2000)
       </p>
       </titleText>
       <list>
@@ -65,7 +65,7 @@
                         <bullet>B.</bullet>
           Any new file that contains any part of the Original Code or previous Modifications.
         </item>
-                  </list> 
+                  </list>
                </item>
                <item>
                   <bullet>1.9</bullet>
@@ -301,7 +301,7 @@
             <alt match=".+" name="softwareName">name of software</alt>,
       <alt match=".+" name="softwareVersion">version number</alt>, and
       <alt match=".+" name="softwareReleaseDate">release date</alt>
-            <optional>]</optional>, developed by Silicon Graphics, Inc. The Original Code is Copyright (c) 
+            <optional>]</optional>, developed by Silicon Graphics, Inc. The Original Code is Copyright (c)
       <optional>[</optional>
             <alt match=".+" name="softwareFirstPublicationDate">dates of first publication, as appearing in
         the Notice in the Original Code</alt>

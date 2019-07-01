@@ -60,7 +60,7 @@ You may charge a fee for the physical act of transferring a copy, and you may at
      a) The modified work must itself be a software library.
 
      b) You must cause the files modified to carry prominent notices stating that you changed the files and the date of any change.
-     
+
      c) You must cause the whole of the work to be licensed at no charge to all third parties under the terms of this License.
 
      d) If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility, other than as an argument passed when the facility is invoked, then you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates, and performs whatever part of its purpose remains meaningful.
@@ -100,7 +100,7 @@ You must give prominent notice with each copy of the work that the Library is us
      a) Accompany the work with the complete corresponding machine-readable source code for the Library including whatever changes were used in the work (which must be distributed under Sections 1 and 2 above); and, if the work is an executable linked with the Library, with the complete machine-readable "work that uses the Library", as object code and/or source code, so that the user can modify the Library and then relink to produce a modified executable containing the modified Library. (It is understood that the user who changes the contents of definitions files in the Library will not necessarily be able to recompile the application to use the modified definitions.)
 
      b) Accompany the work with a written offer, valid for at least three years, to give the same user the materials specified in Subsection 6a, above, for a charge no more than the cost of performing this distribution.
- 
+
      c) If distribution of the work is made by offering access to copy from a designated place, offer equivalent access to copy the above specified materials from the same place.
 
      d) Verify that the user has already received a copy of these materials or that you have already sent this user a copy.

@@ -2,37 +2,37 @@ Before we get to the text of the license, lets just review what the license says
 
 It allows you to:
 
-     * freely download and use ImageMagick software, in whole or in part, for personal, company internal, or commercial purposes; 
-     * use ImageMagick software in packages or distributions that you create;     
-     * link against a library under a different license; 
-     * link code under a different license against a library under this license; 
-     * merge code into a work under a different license; 
-     * extend patent grants to any code using code under this license; 
-     * and extend patent protection. 
+     * freely download and use ImageMagick software, in whole or in part, for personal, company internal, or commercial purposes;
+     * use ImageMagick software in packages or distributions that you create;
+     * link against a library under a different license;
+     * link code under a different license against a library under this license;
+     * merge code into a work under a different license;
+     * extend patent grants to any code using code under this license;
+     * and extend patent protection.
 
 It forbids you to:
 
-     * redistribute any piece of ImageMagick-originated software without proper attribution; 
-     * use any marks owned by ImageMagick Studio LLC in any way that might state or imply that ImageMagick Studio LLC endorses your distribution; 
-     * use any marks owned by ImageMagick Studio LLC in any way that might state or imply that you created the ImageMagick software in question. 
+     * redistribute any piece of ImageMagick-originated software without proper attribution;
+     * use any marks owned by ImageMagick Studio LLC in any way that might state or imply that ImageMagick Studio LLC endorses your distribution;
+     * use any marks owned by ImageMagick Studio LLC in any way that might state or imply that you created the ImageMagick software in question.
 
 It requires you to:
 
-     * include a copy of the license in any redistribution you may make that includes ImageMagick software; 
-     * provide clear attribution to ImageMagick Studio LLC for any distributions that include ImageMagick software. 
+     * include a copy of the license in any redistribution you may make that includes ImageMagick software;
+     * provide clear attribution to ImageMagick Studio LLC for any distributions that include ImageMagick software.
 
 It does not require you to:
 
-     * include the source of the ImageMagick software itself, or of any modifications you may have made to it, in any redistribution you may assemble that includes it; 
-     * submit changes that you make to the software back to the ImageMagick Studio LLC (though such feedback is encouraged). 
+     * include the source of the ImageMagick software itself, or of any modifications you may have made to it, in any redistribution you may assemble that includes it;
+     * submit changes that you make to the software back to the ImageMagick Studio LLC (though such feedback is encouraged).
 
 A few other clarifications include:
 
-     * ImageMagick is freely available without charge; 
-     * you may include ImageMagick on a DVD as long as you comply with the terms of the license; 
-     * you can give modified code away for free or sell it under the terms of the ImageMagick license or distribute the result under a different license, but you need to acknowledge the use of the ImageMagick software; 
-     * the license is compatible with the GPL V3. 
-     * when exporting the ImageMagick software, review its export classification. 
+     * ImageMagick is freely available without charge;
+     * you may include ImageMagick on a DVD as long as you comply with the terms of the license;
+     * you can give modified code away for free or sell it under the terms of the ImageMagick license or distribute the result under a different license, but you need to acknowledge the use of the ImageMagick software;
+     * the license is compatible with the GPL V3.
+     * when exporting the ImageMagick software, review its export classification.
 
 Terms and Conditions for Use, Reproduction, and Distribution
 
@@ -68,10 +68,10 @@ Contributor shall mean Licensor and any individual or Legal Entity on behalf of 
 
 4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
 
-     a. You must give any other recipients of the Work or Derivative Works a copy of this License; and 
-     b. You must cause any modified files to carry prominent notices stating that You changed the files; and 
-     c. You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and 
-     d. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. 
+     a. You must give any other recipients of the Work or Derivative Works a copy of this License; and
+     b. You must cause any modified files to carry prominent notices stating that You changed the files; and
+     c. You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+     d. If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
 
 You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
 

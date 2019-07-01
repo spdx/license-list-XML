@@ -10,7 +10,7 @@
       <titleText>
          <p>ERLANG PUBLIC LICENSE Version 1.1</p>
       </titleText>
-    
+
       <list>
         <item>
             <bullet>1.</bullet>
@@ -99,7 +99,7 @@
             </item>
             </list>
         </item>
-        
+
         <item>
             <bullet>2.</bullet>
           Source Code License.
@@ -147,7 +147,7 @@
                </item>
             </list>
         </item>
-        
+
         <item>
             <bullet>3.</bullet>
           Distribution Obligations.
@@ -313,7 +313,7 @@
              with the Stockholm City Court as the first instance.</p>
         </item>
       </list>
-    
+
       <p>EXHIBIT A.</p>
       <p>``The contents of this file are subject to the Erlang Public License, Version 1.1, (the
         "License"); you may not use this file except in compliance with the License. You should have

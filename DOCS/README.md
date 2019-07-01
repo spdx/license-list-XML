@@ -1,4 +1,4 @@
-This folder contains documentation that is critical for understanding the SPDX License List.  
+This folder contains documentation that is critical for understanding the SPDX License List.
 
 Included here is:
 * [About the SPDX License List](what-why-how.md): the what, why and how. Start here!

@@ -6,11 +6,11 @@
       </crossRefs>
     <text>
       <titleText>
-         <p>NETIZEN OPEN SOURCE LICENSE 
-        <br/>Version 1.0 
+         <p>NETIZEN OPEN SOURCE LICENSE
+        <br/>Version 1.0
       </p>
       </titleText>
-    
+
       <list>
         <item>
             <bullet>1.</bullet>
@@ -242,7 +242,7 @@
               <list>
                      <item>
                         <bullet>(a)</bullet>
-                  Third Party Claims. 
+                  Third Party Claims.
                     <br/>If Contributor has knowledge that a license under a third party's intellectual
                          property rights is required to exercise the rights granted by such Contributor
                          under Sections 2.1 or 2.2, Contributor must include a text file with the
@@ -257,7 +257,7 @@
                 </item>
                      <item>
                         <bullet>(b)</bullet>
-                  Contributor APIs. 
+                  Contributor APIs.
                     <br/>If Contributor's Modifications include an application programming interface
                          and Contributor has knowledge of patent licenses which are reasonably
                          necessary to implement that API, Contributor must also include this
@@ -265,7 +265,7 @@
                 </item>
                      <item>
                         <bullet>(c)</bullet>
-                  Representations. 
+                  Representations.
                     <br/>Contributor represents that, except as disclosed pursuant to Section 3.4(a) above,
                          Contributor believes that Contributor's Modifications are
                          Contributor's original creation(s) and/or Contributor has sufficient
@@ -275,7 +275,7 @@
                </item>
                <item>
                   <bullet>3.5.</bullet>
-              Required Notices. 
+              Required Notices.
                 <br/>You must duplicate the notice in Exhibit A in each file of the Source Code. If it is
                      not possible to put such notice in a particular Source Code file due to its
                      structure, then You must include such notice in a location (such as a relevant
@@ -295,7 +295,7 @@
             </item>
                <item>
                   <bullet>3.6.</bullet>
-              Distribution of Executable Versions. 
+              Distribution of Executable Versions.
                 <br/>You may distribute Covered Code in Executable form only if the requirements of Section
                      3.1-3.5 have been met for that Covered Code, and if You include a notice stating
                      that the Source Code version of the Covered Code is available under the terms of
@@ -317,12 +317,12 @@
             </item>
                <item>
                   <bullet>3.7.</bullet>
-              Larger Works. 
+              Larger Works.
                 <br/>You may create a Larger Work by combining Covered Code with other code not governed by
                      the terms of this License and distribute the Larger Work as a single LEDs product.
                      In such a case, You must make sure the requirements of this License are fulfilled
                      for the Covered Code.
-            </item>            
+            </item>
             </list>
         </item>
         <item>
@@ -348,14 +348,14 @@
           <list>
                <item>
                   <bullet>6.1.</bullet>
-              New Versions. 
+              New Versions.
                 <br/>Netizen Pty Ltd ("Netizen ") may publish revised and/or new versions of the
                      License from time to time. Each version will be given a distinguishing version
                      number.
             </item>
                <item>
                   <bullet>6.2.</bullet>
-              Effect of New Versions. 
+              Effect of New Versions.
                 <br/>Once Covered Code has been published under a particular version of the License, You may
                      always continue to use it under the terms of that version. You may also choose to
                      use such Covered Code under the terms of any subsequent version of the License
@@ -364,7 +364,7 @@
             </item>
                <item>
                   <bullet>6.3.</bullet>
-              Derivative Works. 
+              Derivative Works.
                 <br/>If You create or use a modified version of this License (which you may only do in order
                      to apply it to code which is not already Covered Code governed by this License),
                      You must (a) rename Your license so that the phrases "Netizen",
@@ -470,7 +470,7 @@
         </item>
         <item>
             <bullet>9.</bullet>
-          LIMITATION OF LIABILITY. 
+          LIMITATION OF LIABILITY.
             <br/>UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING NEGLIGENCE),
                  CONTRACT, OR OTHERWISE, SHALL YOU, THE INITIAL DEVELOPER, ANY OTHER CONTRIBUTOR, OR
                  ANY DISTRIBUTOR OF COVERED CODE, OR ANY SUPPLIER OF ANY OF SUCH PARTIES, BE LIABLE TO
@@ -499,14 +499,14 @@
           MISCELLANEOUS.
           <p>This License represents the complete agreement concerning subject matter hereof. If any provision
              of this License is held to be unenforceable, such provision shall be reformed only to the
-             extent necessary to make it enforceable. 
+             extent necessary to make it enforceable.
             <br/>This Agreement shall be governed by and construed according to the law of the State of
                  Victoria. The parties irrevocably submit to the exclusive jurisdiction of the Courts
                  of Victoria and Australia and any Courts hearing appeals from such Courts. This
-                 Agreement is deemed to have been made in Victoria. 
+                 Agreement is deemed to have been made in Victoria.
             <br/>The application of the United Nations Convention on Contracts for the International Sale of
                  Goods is expressly excluded. Any law or regulation which provides that the language of
-                 a contract shall be construed against the drafter shall not apply to this License. 
+                 a contract shall be construed against the drafter shall not apply to this License.
           </p>
         </item>
         <item>
@@ -525,9 +525,9 @@
              "Multiple-Licensed" means that the Initial Developer permits you to utilize portions of the
              Covered Code under Your choice of the NPL or the alternative licenses, if any, specified by the
              Initial Developer in the file described in Exhibit A.</p>
-        </item>        
+        </item>
       </list>
-  
+
       <optional>
          <p>EXHIBIT A - Netizen Open Source License</p>
          <p>``The contents of this file are subject to the Netizen Open Source License Version 1.0 (the

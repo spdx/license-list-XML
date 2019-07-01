@@ -2,21 +2,21 @@ SIL OPEN FONT LICENSE
 
 Version 1.0 - 22 November 2005
 
-PREAMBLE 
+PREAMBLE
 
 The goals of the Open Font License (OFL) are to stimulate worldwide development of cooperative font projects, to support the font creation efforts of academic and linguistic communities, and to provide an open framework in which fonts may be shared and improved in partnership with others.
 
 The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and sold with any software provided that the font names of derivative works are changed. The fonts and derivatives, however, cannot be released under any other type of license.
 
-DEFINITIONS 
+DEFINITIONS
 
 "Font Software" refers to any and all of the following:
 
-     - font files 
-     - data files 
-     - source code 
-     - build scripts 
-     - documentation 
+     - font files
+     - data files
+     - source code
+     - build scripts
+     - documentation
 
 "Reserved Font Name" refers to the Font Software name as seen by users and any other names as specified after the copyright statement.
 
@@ -26,7 +26,7 @@ DEFINITIONS
 
 "Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
 
-PERMISSION & CONDITIONS 
+PERMISSION & CONDITIONS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
 
@@ -40,10 +40,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 5) The Font Software, modified or unmodified, in part or in whole, must be distributed using this license, and may not be distributed under any other license.
 
-TERMINATION 
+TERMINATION
 
 This license becomes null and void if any of the above conditions are not met.
 
-DISCLAIMER 
+DISCLAIMER
 
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
