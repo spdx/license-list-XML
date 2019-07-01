@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <exception licenseId="GPL-CC-1.0" name="GPL Cooperation Commitment 1.0">
+  <exception licenseId="GPL-CC-1.0" name="GPL Cooperation Commitment 1.0" listVersionAdded="3.5">
     <crossRefs>
       <crossRef>https://github.com/gplcc/gplcc/blob/master/Project/COMMITMENT</crossRef>
 	    <crossRef>https://gplcc.github.io/gplcc/Project/README-PROJECT.html</crossRef>
