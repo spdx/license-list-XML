@@ -275,9 +275,27 @@
 			</documentation>
 		</annotation>
 		<group ref="tns:formattedAltTextGroup" minOccurs="0" maxOccurs="unbounded"/>
+		<attribute name="spacing" type="string" default="before">
+			<annotation>
+				<documentation xml:lang="en">
+					<xhtml:p>
+						<xhtml:code>spacing</xhtml:code> defines how spacing is handled around the optional text.  Since XML does not preserve white space, to render the text from the license XML we need to provide hints to the tools that translate the XML to text (or other formats).  Valid values are <xhtml:code>none</xhtml:code> for no spaces before or after the optional text; <xhtml:code>before</xhtml:code> (default) for a space before, but not after the optional text; <xhtml:code>after</xhtml:code> for a space after, but not before the optional text; <xhtml:code>both</xhtml:code>a space before and after the optional text.
+					</xhtml:p>
+				</documentation>
+			</annotation>
+		</attribute>		
 	</complexType>
 	<complexType name="optionalStandardLicenseHeaderType" mixed="true">
 		<group ref="tns:formattedAltStandardLicenseHeaderTextGroup" minOccurs="0" maxOccurs="unbounded"/>
+				<attribute name="spacing" type="string" default="before">
+			<annotation>
+				<documentation xml:lang="en">
+					<xhtml:p>
+						<xhtml:code>spacing</xhtml:code> defines how spacing is handled around the optional text.  Since XML does not preserve white space, to render the text from the license XML we need to provide hints to the tools that translate the XML to text (or other formats).  Valid values are <xhtml:code>none</xhtml:code> for no spaces before or after the optional text; <xhtml:code>before</xhtml:code> (default) for a space before, but not after the optional text; <xhtml:code>after</xhtml:code> for a space after, but not before the optional text; <xhtml:code>both</xhtml:code>a space before and after the optional text.
+					</xhtml:p>
+				</documentation>
+			</annotation>
+		</attribute>
 	</complexType>
 	<complexType name="listType">
 		<annotation>
