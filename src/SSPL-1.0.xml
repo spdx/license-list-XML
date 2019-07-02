@@ -69,12 +69,11 @@ TERMS AND CONDITIONS</p>
           such as a menu, a prominent item in the list meets this criterion.</p>
                 </item>
                 <item>
-                    <bullet>1.</bullet>
-        Source Code.
-                    <br></br>
+                    <bullet>1.</bullet>Source Code.
+                    <p>
         The "source code" for a work means the preferred
         form of the work for making modifications to it.
-        "Object code" means any non-source form of a work.
+        "Object code" means any non-source form of a work.</p>
                     <p>
           A "Standard Interface" means an interface that either is an official
           standard defined by a recognized standards body, or, in the case
@@ -116,14 +115,14 @@ TERMS AND CONDITIONS</p>
                 <item>
                     <bullet>2.</bullet>
         Basic Permissions.
-                    <br></br>
+                    <p>
         All rights granted under this License are granted for the term of
         copyright on the Program, and are irrevocable provided the stated
         conditions are met. This License explicitly affirms your unlimited
         permission to run the unmodified Program, subject to section 13. The output from running a
         covered work is covered by this License only if the output, given its
         content, constitutes a covered work. This License acknowledges your
-        rights of fair use or other equivalent, as provided by copyright law.
+        rights of fair use or other equivalent, as provided by copyright law.</p>
                     <p>
           Subject to section 13, you may make, run and propagate covered works that you do not convey,
           without conditions so long as your license otherwise remains in force.
@@ -143,11 +142,11 @@ TERMS AND CONDITIONS</p>
                 <item>
                     <bullet>3.</bullet>
         Protecting Users' Legal Rights From Anti-Circumvention Law.
-                    <br></br>
+                    <p>
         No covered work shall be deemed part of an effective technological
         measure under any applicable law fulfilling obligations under article
         11 of the WIPO copyright treaty adopted on 20 December 1996, or
-        similar laws prohibiting or restricting circumvention of such measures.
+        similar laws prohibiting or restricting circumvention of such measures.</p>
                     <p>
           When you convey a covered work, you waive any legal power to
           forbid circumvention of technological measures to the extent
@@ -160,14 +159,14 @@ TERMS AND CONDITIONS</p>
                 <item>
                     <bullet>4.</bullet>
         Conveying Verbatim Copies.
-                    <br></br>
+                    <p>
         You may convey verbatim copies of the Program's source code as
         you receive it, in any medium, provided that you conspicuously
         and appropriately publish on each copy an appropriate copyright
         notice; keep intact all notices stating that this License and any
         non-permissive terms added in accord with section 7 apply to the
         code; keep intact all notices of the absence of any warranty; and
-        give all recipients a copy of this License along with the Program.
+        give all recipients a copy of this License along with the Program.</p>
                     <p>
           You may charge any price or no price for each copy that you
           convey, and you may offer support or warranty protection for a fee.</p>
@@ -175,10 +174,10 @@ TERMS AND CONDITIONS</p>
                 <item>
                     <bullet>5.</bullet>
         Conveying Modified Source Versions.
-                    <br></br>
+                    <p>
         You may convey a work based on the Program, or the modifications to
         produce it from the Program, in the form of source code under the terms
-        of section 4, provided that you also meet all of these conditions:
+        of section 4, provided that you also meet all of these conditions:</p>
                     <list>
                         <item>
                             <bullet>a)</bullet>
@@ -224,11 +223,11 @@ TERMS AND CONDITIONS</p>
                 <item>
                     <bullet>6.</bullet>
         Conveying Non-Source Forms.
-                    <br></br>
+                    <p>
         You may convey a covered work in object code form
         under the terms of sections 4 and 5, provided that you
         also convey the machine-readable Corresponding Source
-        under the terms of this License, in one of these ways:
+        under the terms of this License, in one of these ways:</p>
                     <list>
                         <item>
                             <bullet>a)</bullet>
@@ -338,7 +337,7 @@ TERMS AND CONDITIONS</p>
                 <item>
                     <bullet>7.</bullet>
         Additional Terms.
-                    <br></br>
+                    <p>
         "Additional permissions" are terms that supplement the terms of this
         License by making exceptions from one or more of its conditions.
         Additional permissions that are applicable to the entire Program
@@ -346,7 +345,7 @@ TERMS AND CONDITIONS</p>
         the extent that they are valid under applicable law. If additional
         permissions apply only to part of the Program, that part may be used
         separately under those permissions, but the entire Program remains
-        governed by this License without regard to the additional permissions.
+        governed by this License without regard to the additional permissions.</p>
                     <p>
           When you convey a copy of a covered work, you may at your option
           remove any additional permissions from that copy, or from any part
@@ -524,7 +523,6 @@ TERMS AND CONDITIONS</p>
           deprive yourself of the benefit of the patent license for this
           particular work, or (3) arrange, in a manner consistent with
           the requirements of this License, to extend the patent
-                        <br></br>
           license to downstream recipients. "Knowingly relying" means you have
           actual knowledge that, but for the patent license, your conveying
           the covered work in a country, or your recipient's use of the
@@ -566,11 +564,10 @@ TERMS AND CONDITIONS</p>
           If conditions are imposed on you (whether by court order,
           agreement or otherwise) that contradict the conditions of this
           License, they do not excuse you from the conditions of this
-          License. If you cannot convey a covered work so as to satisfy
+          License. If you cannot use, propagate or convey a covered work so as to satisfy
           simultaneously your obligations under this License and any other
           pertinent obligations, then as a consequence you may
-                        <br></br>
-          not convey it at all. For example, if you agree to terms
+          not use, propagate or convey it at all. For example, if you agree to terms
           that obligate you to collect a royalty for further conveying
           from those to whom you convey the Program, the only
           way you could satisfy both those terms and this License
