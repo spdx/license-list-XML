@@ -9,8 +9,7 @@
          <p>NTP License (NTP)</p>
       </titleText>
       <copyrightText>
-         <p>Copyright (c)
-        <alt match=".+" name="copyright">(CopyrightHoldersName) (From 4-digit-year)-(To 4-digit-year)</alt>
+         <p>Copyright (c) (CopyrightHoldersName) (From 4-digit-year)-(To 4-digit-year)
          </p>
       </copyrightText>
 
