@@ -520,7 +520,7 @@
              specified by the Initial Developer in the file described in Exhibit A.</p>
             <p>EXHIBIT A - InterBase Public License.</p>
             <standardLicenseHeader>
-            <p><optional>"</optional>The contents of this file are subject to the Interbase Public License Version 1.0 (the
+            <p><optional spacing="none">"</optional>The contents of this file are subject to the Interbase Public License Version 1.0 (the
              "License"); you may not use this file except in compliance with the License. You may
              obtain a copy of the License at http://www.Interbase.com/IPL.html</p>
             <p>Software distributed under the License is distributed on an "AS IS" basis, WITHOUT

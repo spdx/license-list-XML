@@ -76,7 +76,7 @@
                source and data file of the Program and any Modification you distribute must contain the
                following notice:
         <standardLicenseHeader>
-        <p><optional>"</optional>Copyright (c) <alt name="copyright" match=".+">2000- (insert then current year) OCLC Online Computer Library Center, Inc. and other
+        <p><optional spacing="none">"</optional>Copyright (c) <alt name="copyright" match=".+">2000- (insert then current year) OCLC Online Computer Library Center, Inc. and other
            contributors</alt>. All rights reserved. The contents of this file, as updated from time to time by the
            OCLC Office of Research, are subject to OCLC Research Public License Version 2.0 (the "License");
            you may not use this file except in compliance with the License. You may obtain a current copy of
@@ -87,7 +87,7 @@
            For more information on OCLC Research, please see http://www.oclc.org/research/. The Original Code
            is <alt name="code" match=".+">______________________________</alt>. The Initial Developer of the Original Code is
            <alt name="initialDeveloper" match=".+">________________________</alt>. Portions created by <alt name="creator" match=".+">______________________</alt> are Copyright (C) <alt name="copyright2" match=".+">____________________________</alt>. All Rights Reserved. Contributor(s):
-           <alt name="contributor" match=".+">______________________________________</alt>.<optional>"</optional></p>
+           <alt name="contributor" match=".+">______________________________________</alt>.<optional spacing="none">"</optional></p>
         </standardLicenseHeader>
          </item>
          <item>

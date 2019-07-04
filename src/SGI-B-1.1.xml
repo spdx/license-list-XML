@@ -297,22 +297,22 @@
          AND IMPLIED WARRANTIES AND CONDITIONS DISCLAIMED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED
          WARRANTIES AND CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE,
          AND NON-INFRINGEMENT.</p>
-         <p>Original Code. The Original Code is: <optional>[</optional>
+         <p>Original Code. The Original Code is: <optional spacing="before">[</optional>
             <alt match=".+" name="softwareName">name of software</alt>,
       <alt match=".+" name="softwareVersion">version number</alt>, and
       <alt match=".+" name="softwareReleaseDate">release date</alt>
-            <optional>]</optional>, developed by Silicon Graphics, Inc. The Original Code is Copyright (c)
-      <optional>[</optional>
+            <optional spacing="after">]</optional>, developed by Silicon Graphics, Inc. The Original Code is Copyright (c)
+      <optional spacing="before">[</optional>
             <alt match=".+" name="softwareFirstPublicationDate">dates of first publication, as appearing in
         the Notice in the Original Code</alt>
-            <optional>]</optional>
+            <optional spacing="after">]</optional>
        Silicon Graphics, Inc. Copyright in any portions created by third
          parties is as indicated elsewhere herein. All Rights Reserved.</p>
          <optional>
-         <p>Additional Notice Provisions: <optional>[</optional>
+         <p>Additional Notice Provisions: <optional spacing="before">[</optional>
             <alt match=".+" name="additionalProvisions">such additional provisions, if any, as appear in the
           Notice in the Original Code under the heading "Additional Notice Provisions"</alt>
-            <optional>]</optional>
+            <optional spacing="after">]</optional>
          </p>
          </optional>
          </standardLicenseHeader>

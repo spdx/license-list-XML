@@ -47,7 +47,7 @@
 	copyrights.
       </p>
       <p>
-	Definitions<optional>:</optional>
+	Definitions<optional  spacing="none">:</optional>
       </p>
       <p>
 	"Covered License" means the GNU General Public License, version
