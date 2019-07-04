@@ -429,7 +429,7 @@
       <optional>
          <p>EXHIBIT A.</p>
          <standardLicenseHeader>
-         <p><optional>"</optional>The contents of this file are subject to the Mozilla Public License Version 1.0 (the
+         <p><optional spacing="none">"</optional>The contents of this file are subject to the Mozilla Public License Version 1.0 (the
          "License"); you may not use this file except in compliance with the License. You may obtain
          a copy of the License at http://www.mozilla.org/MPL/</p>
          <p>Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF
@@ -440,7 +440,7 @@
         <alt match=".+" name="InitialDeveloper">_____</alt>. Portions created by
         <alt match=".+" name="createdby">_____</alt> are Copyright (C)
         <alt match=".+" name="copyright">_____</alt>. All Rights Reserved. Contributor(s):
-        <alt match=".+" name="contributor">_____</alt>.<optional>"</optional>
+        <alt match=".+" name="contributor">_____</alt>.<optional spacing="none">"</optional>
       </p>
         </standardLicenseHeader>
       </optional>

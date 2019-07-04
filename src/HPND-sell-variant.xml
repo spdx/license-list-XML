@@ -14,10 +14,10 @@
       </copyrightText>
 
       <p>Permission to use, copy, modify, distribute, and sell this software and its documentation for any purpose
-         is hereby granted without fee, provided that the above copyright notice appears in all copies<optional>,</optional>
+         is hereby granted without fee, provided that the above copyright notice appears in all copies<optional spacing="after">,</optional>
          <optional>and</optional> that both <optional>that</optional>
          <optional>the</optional> copyright notice
-         and this permission notice appear in supporting documentation<optional>, and that the name <optional>of</optional>
+         and this permission notice appear in supporting documentation<optional spacing="after">, and that the name <optional>of</optional>
             <alt match=".*" name="copyrightHolder0">&lt;copyright holder&gt;</alt>
             <alt match=".*" name="orRelated">&lt;or related entities&gt;</alt>
          not be used in advertising or publicity pertaining to distribution of the software without specific, written
