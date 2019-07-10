@@ -1,5 +1,36 @@
 # Release Notes for SPDX License List
 
+## version 3.6 - 2019-07-10
+
+New licenses/exceptions added: 10
+
+1. blessing
+1. BlueOak-1.0.0
+1. BSD-3-Clause-Open-MPI
+1. CC-PDDC
+1. Parity-6.0.0
+1. SHL-0.5
+1. SHL-0.51
+1. SSPL-1.0
+1. Swift-exception
+1. Universal-FOSS-exception-1.0
+
+Addition of markup to various licenses and other minor updates.
+
+Add and update documentation originating from SPDX website, including:
+* About the SPDX License List
+* Explanation of SPDX License List Fields
+* License Inclusion Principles
+
+Technical fixes to schema and license markup for handling of spacing and other updates.
+
+Cleanup of stray whitespace across the repository.
+
+See all PRs for 3.6 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.6+release%22+is%3Aclosed
+
+See comparision of changes from 3.5 to 3.6: https://github.com/spdx/license-list-XML/compare/v3.5...v3.6
+
+
 ## version 3.5 - 2019-04-02
 
 New licenses/exceptions added: 7
