@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="true" licenseId="MirOS" name="MirOS License">
+   <license isOsiApproved="true" licenseId="MirOS" name="The MirOS Licence">
       <crossRefs>
          <crossRef>https://opensource.org/licenses/MirOS</crossRef>
       </crossRefs>
+    <standardLicenseHeader>
+      Copyright © <alt name="copyright" match=".+">year, year, year, …<br/>
+           First M. Last &lt;user@host.domain&gt;</alt>
+      <p>
+	Provided that these terms and disclaimer and all copyright notices<br/>
+	are retained or reproduced in an accompanying document, permission<br/>
+	is granted to deal in this work without restriction, including un‐<br/>
+	limited rights to use, publicly perform, distribute, sell, modify,<br/>
+	merge, give away, or sublicence.</p>
+      <p>
+	This work is provided “AS IS” and WITHOUT WARRANTY of any kind, to<br/>
+	the utmost extent permitted by applicable law, neither express nor<br/>
+	implied; without malicious intent or gross negligence. In no event<br/>
+	may a licensor, author or contributor be held liable for indirect,<br/>
+	direct, other damage, loss, or other issues arising in any way out<br/>
+	of dealing in the work, even if advised of the possibility of such<br/>
+	damage or existence of a defect, except proven that it results out<br/>
+	of said person’s immediate fault when using the work as intended.</p>
+    </standardLicenseHeader>
     <text>
       <titleText>
-         <p>MirOS License</p>
+         <p>The MirOS Licence</p>
       </titleText>
       <copyrightText>
          <p>Copyright [YEAR]
@@ -26,69 +45,103 @@
          when using the work as intended.</p>
 
       <optional>
-         <p>I_N_S_T_R_U_C_T_I_O_N_S_:_
-        <br/>To apply the template(1) specify the years of copyright (separated by comma, not as a range), the
-             legal names of the copyright holders, and the real names of the authors if different. Avoid
-             adding text.
+         <p>INSTRUCTIONS:
+        <br/>To apply the template[1] specify the years of copyright (separated by comma, not as a range), the
+             legal names of the copyright holders, and the real names of the authors (and licensors, possibly)
+             if different. Avoid adding any text that could be read as further restriction.
       </p>
-         <p>R_A_T_I_O_N_A_L_E_:_
+         <p>RATIONALE:
         <br/>This licence is apt for any kind of work (such as source code, fonts, documentation, graphics,
              sound etc.) and the preferred terms for work added to MirBSD. It has been drafted as
-             universally usable equivalent of the "historic permission notice"(2) adapted to Europen law
-             because in some (droit d'auteur) countries authors cannot disclaim all liabi‐ lities.
-             Compliance to DFSG(3) 1.1 is ensured, and GPLv2 compatibility is asserted unless advertising
-             clauses are used. The MirOS Licence is certified to conform to OKD(4) 1.0 and OSD(5) 1.9, and
-             qualifies as a Free Software(6) and also Free Documentation(7) licence and is included in some
-             relevant lists(8)(9)(10).
+             universally usable equivalent of the "historic permission notice"[2] adapted to Europen law
+             because some countries have specific requirements for disclaimers, and author and licensor can
+             differ in (droit d'auteur) legislations. The licence conforms to DFSG[3] 1.1, OKD[4] 2.1,
+             OSD[5] 1.9, CSD[6], qualifies as a Free Software[7] and Free Documentation[8] licence, for
+             Free Cultural Works[9], and is thus included in relevant lists[10] of licences. It's also a
+             licence suitable for OER and Open Content[18].
       </p>
-         <p>We believe you are not liable for work inserted which is intellectual property of third parties, if you
-         were not aware of the fact, act appropriately as soon as you become aware of that problem, seek an
-         amicable solution for all parties, and never knowingly distribute a work without being authorised to
-         do so by its licensors.
+         <p>The webpage[19] for this licence contains further information as well
+         as additional resources such as translations.
       </p>
          <p>
-        R_E_F_E_R_E_N_C_E_S_:_
+        REFERENCES:
         <br/>
             <list>
                <item>
-                  <bullet>(1)</bullet>
-            also at http://mirbsd.de/MirOS-Licence
+                  <bullet>[1]</bullet>
+            also on the web with its own homepage[19] or as plaintext, either UTF-8 encoded at http://www.mirbsd.org/MirOS-Licence or with just ASCII at http://www.mirbsd.org/MirOS-Licence.asc
           </item>
                <item>
-                  <bullet>(2)</bullet>
-            http://www.opensource.org/licenses/historical.php
+                  <bullet>[2]</bullet>
+            https://opensource.org/licenses/historical.php
           </item>
                <item>
-                  <bullet>(3)</bullet>
+                  <bullet>[3]</bullet>
             http://www.debian.org/social_contract#guidelines
           </item>
                <item>
-                  <bullet>(4)</bullet>
-            http://www.opendefinition.org/1.0
+                  <bullet>[4]</bullet>
+            http://opendefinition.org/od/2.1/en/
           </item>
                <item>
-                  <bullet>(5)</bullet>
-            http://www.opensource.org/docs/osd
+                  <bullet>[5]</bullet>
+            https://opensource.org/osd
           </item>
                <item>
-                  <bullet>(6)</bullet>
+                  <bullet>[6]</bullet>
+            http://copyfree.org/standard
+          </item>
+               <item>
+                  <bullet>[7]</bullet>
             http://www.gnu.org/philosophy/free-sw.html
           </item>
                <item>
-                  <bullet>(7)</bullet>
+                  <bullet>[8]</bullet>
             http://www.gnu.org/philosophy/free-doc.html
           </item>
                <item>
-                  <bullet>(8)</bullet>
-            http://www.ifross.de/ifross_html/lizenzcenter.html
+                  <bullet>[9]</bullet>
+            http://freedomdefined.org/Definition
           </item>
                <item>
-                  <bullet>(9)</bullet>
-            http://www.opendefinition.org/licenses
+                  <bullet>[10]</bullet>
+            ifrOSS[11][12], Debian[13] (DFSG[3]), OKFN[14] (OKD[4]), OSI[15] (OSD[5]), Copyfree[16] (CSD[6]), although not yet on the FSF[17] list
           </item>
                <item>
-                  <bullet>(10)</bullet>
-            http://opensource.org/licenses/miros.html
+                  <bullet>[11]</bullet>
+            http://www.ifross.org/lizenz-center
+          </item>
+               <item>
+                  <bullet>[12]</bullet>
+            http://www.ifross.org/en/license-center
+          </item>
+               <item>
+                  <bullet>[13]</bullet>
+            https://wiki.debian.org/DFSGLicenses
+          </item>
+               <item>
+                  <bullet>[14]</bullet>
+            http://opendefinition.org/licenses/
+          </item>
+               <item>
+                  <bullet>[15]</bullet>
+            https://opensource.org/licenses/alphabetical
+          </item>
+               <item>
+                  <bullet>[16]</bullet>
+            http://copyfree.org/standard/licenses
+          </item>
+               <item>
+                  <bullet>[17]</bullet>
+            http://www.gnu.org/licenses/license-list.html
+          </item>
+               <item>
+                  <bullet>[18]</bullet>
+            http://opencontent.org/definition/
+          </item>
+               <item>
+                  <bullet>[19]</bullet>
+            http://www.mirbsd.org/MirOS-Licence.htm
           </item>
             </list>
          </p>
