@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="true" licenseId="UCL-1.0" name="Upstream Compatibility License v1.0">
+   <license isOsiApproved="true" licenseId="UCL-1.0" name="Upstream Compatibility License v1.0" listVersionAdded="3.7">
       <crossRefs>
          <crossRef>https://opensource.org/licenses/UCL-1.0</crossRef>
       </crossRefs>
@@ -200,7 +200,7 @@
              the "Open Software License" or "OSL" or the "Upstream Compatibility License" or "UCL"
              and you may not use those names in the name of your Modified License; (ii) You must
              replace the notice specified in the first paragraph above with the notice "Licensed under
-             &lt;insert your license name here&gt;" or with a notice of your own that is not confusingly
+           <optional>&lt;insert your license name here&gt;</optional>" or with a notice of your own that is not confusingly
              similar to the notice in this License; and (iii) You may not claim that your original works
              are open source software unless your Modified License has been approved by Open
              Source Initiative (OSI) and You comply with its license review and certification process.
