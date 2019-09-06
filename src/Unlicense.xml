@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Unlicense" name="The Unlicense">
       <crossRefs>
-         <crossRef>http://unlicense.org/</crossRef>
+         <crossRef>https://unlicense.org/</crossRef>
       </crossRefs>
       <notes>This is a public domain dedication</notes>
     <text>
@@ -21,7 +21,7 @@
          NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
          OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
          OTHER DEALINGS IN THE SOFTWARE.</p>
-      <optional><p>For more information, please refer to &lt;http://unlicense.org/&gt;</p></optional>
+      <optional><p>For more information, please refer to &lt;https://unlicense.org/&gt;</p></optional>
     </text>
   </license>
 </SPDXLicenseCollection>
