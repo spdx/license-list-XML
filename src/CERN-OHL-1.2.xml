@@ -1,5 +1,5 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-    <license isOsiApproved="false" licenseId="CERN-OHL-1.2" name="CERN Open Hardware Licence v1.2" listVersionAdded="3.5">
+    <license isOsiApproved="false" licenseId="CERN-OHL-1.2" name="CERN Open Hardware License v1.2" listVersionAdded="3.5">
         <crossRefs>
             <crossRef>
 https://www.ohwr.org/project/licenses/wikis/cern-ohl-v1.2</crossRef>
