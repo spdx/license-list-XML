@@ -6,7 +6,7 @@
         <crossRef>http://web.mit.edu/kolya/.f/root/athena.mit.edu/sipb.mit.edu/project/openssh/OldFiles/src/openssh-2.9.9p2/ssh-add.1</crossRef>
         <crossRef>https://joinup.ec.europa.eu/svn/lesoll/trunk/italc/lib/src/dsa_key.cpp</crossRef>
     </crossRefs>
-    <notes>This is a short statement that appears in some files associated with the original SSH implementation.</notes>
+    <notes>This is short version of SSH-OpenSSH that appears in some files associated with the original SSH implementation.</notes>
     <text>
         <p>As far as I am concerned, the code I have written for this software
         can be used freely for any purpose.  Any derived versions of this
