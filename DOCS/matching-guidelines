@@ -188,7 +188,7 @@
 	
 	<p><strong>13. HTTP Protocol</strong></p>
 
-	<p style="padding-left: 30px;"><span style="text-decoration: underline;">12.2 Purpose:</span>&nbsp; To avoid a license mismatch due to a different in a hyperlink protocol (e.g. http vs. https)</p>
+	<p style="padding-left: 30px;"><span style="text-decoration: underline;">13.1 Purpose:</span>&nbsp; To avoid a license mismatch due to a different in a hyperlink protocol (e.g. http vs. https)</p>
 
-	<p style="padding-left: 60px;"><span style="text-decoration: underline;">12.1.1 Guideline:</span>&nbsp;HTTP:// and HTTPS:// should be considered equivalent.</p>
+	<p style="padding-left: 60px;"><span style="text-decoration: underline;">13.1.1 Guideline:</span>&nbsp;HTTP:// and HTTPS:// should be considered equivalent.</p>
 </div>
