@@ -185,4 +185,10 @@
 	<p style="padding-left: 30px;"><span style="text-decoration: underline;">12.1 Purpose:</span>&nbsp; To avoid a license mismatch merely because extraneous text that&nbsp;appears at the end of the terms of a license is different or missing. This also&nbsp;avoids a mismatch if the extraneous text merely serves as a license notice example and includes a specific copyright holder&#39;s name.</p>
 
 	<p style="padding-left: 60px;"><span style="text-decoration: underline;">12.1.1 Guideline:</span>&nbsp; Ignore any text that occurs after the obvious end of the&nbsp;license and does not include substantive text of the license, for example: text that occurs after a statement such as, &quot;END OF TERMS&nbsp;AND CONDITIONS,&quot; or an exhibit or appendix that includes an example or instructions on to how to&nbsp;apply the license to your code. Do not apply this guideline or ignore text that is comprised of additional&nbsp;license terms (e.g., permitted additional terms under GPL-3.0, section 7). Templates do not include markup for this guideline.</p>
+	
+	<p><strong>13. HTTP Protocol</strong></p>
+
+	<p style="padding-left: 30px;"><span style="text-decoration: underline;">12.2 Purpose:</span>&nbsp; To avoid a license mismatch due to a different in a hyperlink protocol (e.g. http vs. https)</p>
+
+	<p style="padding-left: 60px;"><span style="text-decoration: underline;">12.1.1 Guideline:</span>&nbsp;HTTP:// and HTTPS:// should be considered equivalent.</p>
 </div>
