@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="true" licenseId="MirOS" name="MirOS License">
+   <license isOsiApproved="true" licenseId="MirOS" name="The MirOS Licence">
       <crossRefs>
          <crossRef>https://opensource.org/licenses/MirOS</crossRef>
       </crossRefs>
     <text>
       <titleText>
-         <p>MirOS License</p>
+         <p>The MirOS Licence</p>
       </titleText>
       <copyrightText>
-         <p>Copyright [YEAR]
-        <br/>[NAME] [EMAIL]
+         <p>Copyright [YEAR] [NAME] [EMAIL]
       </p>
       </copyrightText>
 
@@ -24,75 +23,6 @@
          other issues arising in any way out of dealing in the work, even if advised of the possibility of such
          damage or existence of a defect, except proven that it results out of said person's immediate fault
          when using the work as intended.</p>
-
-      <optional>
-         <p>I_N_S_T_R_U_C_T_I_O_N_S_:_
-        <br/>To apply the template(1) specify the years of copyright (separated by comma, not as a range), the
-             legal names of the copyright holders, and the real names of the authors if different. Avoid
-             adding text.
-      </p>
-         <p>R_A_T_I_O_N_A_L_E_:_
-        <br/>This licence is apt for any kind of work (such as source code, fonts, documentation, graphics,
-             sound etc.) and the preferred terms for work added to MirBSD. It has been drafted as
-             universally usable equivalent of the "historic permission notice"(2) adapted to Europen law
-             because in some (droit d'auteur) countries authors cannot disclaim all liabi‐ lities.
-             Compliance to DFSG(3) 1.1 is ensured, and GPLv2 compatibility is asserted unless advertising
-             clauses are used. The MirOS Licence is certified to conform to OKD(4) 1.0 and OSD(5) 1.9, and
-             qualifies as a Free Software(6) and also Free Documentation(7) licence and is included in some
-             relevant lists(8)(9)(10).
-      </p>
-         <p>We believe you are not liable for work inserted which is intellectual property of third parties, if you
-         were not aware of the fact, act appropriately as soon as you become aware of that problem, seek an
-         amicable solution for all parties, and never knowingly distribute a work without being authorised to
-         do so by its licensors.
-      </p>
-         <p>
-        R_E_F_E_R_E_N_C_E_S_:_
-        <br/>
-            <list>
-               <item>
-                  <bullet>(1)</bullet>
-            also at http://mirbsd.de/MirOS-Licence
-          </item>
-               <item>
-                  <bullet>(2)</bullet>
-            http://www.opensource.org/licenses/historical.php
-          </item>
-               <item>
-                  <bullet>(3)</bullet>
-            http://www.debian.org/social_contract#guidelines
-          </item>
-               <item>
-                  <bullet>(4)</bullet>
-            http://www.opendefinition.org/1.0
-          </item>
-               <item>
-                  <bullet>(5)</bullet>
-            http://www.opensource.org/docs/osd
-          </item>
-               <item>
-                  <bullet>(6)</bullet>
-            http://www.gnu.org/philosophy/free-sw.html
-          </item>
-               <item>
-                  <bullet>(7)</bullet>
-            http://www.gnu.org/philosophy/free-doc.html
-          </item>
-               <item>
-                  <bullet>(8)</bullet>
-            http://www.ifross.de/ifross_html/lizenzcenter.html
-          </item>
-               <item>
-                  <bullet>(9)</bullet>
-            http://www.opendefinition.org/licenses
-          </item>
-               <item>
-                  <bullet>(10)</bullet>
-            http://opensource.org/licenses/miros.html
-          </item>
-            </list>
-         </p>
-      </optional>
     </text>
   </license>
 </SPDXLicenseCollection>
