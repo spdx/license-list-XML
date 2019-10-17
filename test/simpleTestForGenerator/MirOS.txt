@@ -1,7 +1,6 @@
 The MirOS Licence
 
-Copyright [YEAR]
-[NAME] [EMAIL]
+Copyright [YEAR] [NAME] [EMAIL]
 
 Provided that these terms and disclaimer and all copyright notices are retained or reproduced in an accompanying document, permission is granted to deal in this work without restriction, including unlimited rights to use, publicly perform, distribute, sell, modify, merge, give away, or sublicence.
 
