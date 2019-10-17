@@ -1,5 +1,5 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-    <license isOsiApproved="false" licenseId="OGL-C" name="Open Government Licence - Canada">
+    <license isOsiApproved="false" licenseId="OGL-Canada-2.0" name="Open Government Licence - Canada" listVersionAdded="3.7">
         <crossRefs>
             <crossRef>
 https://open.canada.ca/en/open-government-licence-canada</crossRef>
