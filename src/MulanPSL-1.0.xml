@@ -69,6 +69,7 @@
             <item><bullet>3，</bullet> 请将如下声明文本放入每个源文件的头部注释中。</item>
         </list>
 
+       <standardLicenseHeader>
         <p>Copyright (c) [2019] [name of copyright holder]</p>
         <p>[Software Name] is licensed under the Mulan PSL v1.</p>
         <p>You can use this software according to the terms and conditions of the Mulan PSL v1.</p>
@@ -76,6 +77,7 @@
             <p>http://license.coscl.org.cn/MulanPSL</p>
         <p>THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.</p>
         <p>See the Mulan PSL v1 for more details.</p>
+       </standardLicenseHeader>
 
         <titleText><p>Mulan Permissive Software License，Version 1</p></titleText>
 
