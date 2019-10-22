@@ -1,5 +1,31 @@
 # Release Notes for SPDX License List
 
+## version 3.7 - 2019-10-22
+
+New licenses/exceptions added: 6
+
+1. etalab-2.0
+1. MulanPSL-1.0
+1. OGL-Canada-2.0
+1. SSH-OpenSSH
+1. SSH-short
+1. UCL-1.0
+
+Updates and cleanup of markup for various licenses and other minor changes.
+
+Add and update documentation regarding the history of the SPDX License List and
+development of license inclusion guidelines.
+
+Technical fixes to license list publisher to handle appropriate display of
+optional text fields.
+
+Add helper script to enable testing a single license XML file rather than
+requiring re-test of entire repo.
+
+See all PRs for 3.7 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.7+release%22+is%3Aclosed
+
+See comparision of changes from 3.6 to 3.7: https://github.com/spdx/license-list-XML/compare/v3.6...v3.7
+
 ## version 3.6 - 2019-07-10
 
 New licenses/exceptions added: 10
@@ -29,7 +55,6 @@ Cleanup of stray whitespace across the repository.
 See all PRs for 3.6 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.6+release%22+is%3Aclosed
 
 See comparision of changes from 3.5 to 3.6: https://github.com/spdx/license-list-XML/compare/v3.5...v3.6
-
 
 ## version 3.5 - 2019-04-02
 
