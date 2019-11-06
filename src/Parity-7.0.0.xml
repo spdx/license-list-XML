@@ -21,17 +21,21 @@
       <p><alt name="contributeRef" match="\[Contribute\]\(\#contribute\)|Contribute">[Contribute](#contribute)</alt> software you develop, operate, or analyze with this software, including changes or additions to this software.  When in doubt, <alt name="contributeRef" match="\[contribute\]\(#contribute\)|contribute">[contribute](#contribute)</alt>.</p>
       <p><optional>## </optional>Prototypes</p>
       <p>You don't have to <alt name="contributeRef" match="\[contribute\]\(#contribute\)|contribute">[contribute](#contribute)</alt> any change, addition, or other software that meets all these criteria:</p>
-      <p>1.  You don't use it for more than thirty days.</p>
-      <p>2.  You don't share it outside the team developing it, other than for non-production user testing.</p>
-      <p>3.  You don't develop, operate, or analyze other software with it for anyone outside the team developing it.</p>
+      <list>
+        <item><bullet>1.  </bullet>You don't use it for more than thirty days.</item>
+        <item><bullet>2.  </bullet>You don't share it outside the team developing it, other than for non-production user testing.</item>
+        <item><bullet>3.  </bullet>You don't develop, operate, or analyze other software with it for anyone outside the team developing it.</item>
+      </list>
       <p><optional>## </optional>Reverse Engineering</p>
       <p>You may use this software to operate and analyze software you can't <alt name="contributeRef" match="\[contribute\]\(#contribute\)|contribute">[contribute](#contribute)</alt> in order to develop alternatives you can and do <alt name="contributeRef" match="\[contribute\]\(#contribute\)|contribute">[contribute](#contribute)</alt>.</p>
       <p><optional>## </optional>Contribute</p>
       <p>To <alt name="contributeRef" match="\[contribute\]\(#contribute\)|contribute">[contribute](#contribute)</alt> software:</p>
-      <p>1.  Publish all source code for the software in the preferred form for making changes through a freely accessible distribution system widely used for similar source code so the contributor and others can find and copy it.</p>
-      <p>2.  Make sure every part of the source code is available under this license or another license that allows everything this license does, such as <alt name="blueOakRef" match="\[the Blue Oak Model License 1.0.0\]\(https://blueoakcouncil.org/license/1.0.0\)|the Blue Oak Model License">[the Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0)</alt>, <alt name="apacheRef" match="\[the Apache License 2.0\]\(https://www.apache.org/licenses/LICENSE-2.0.html\)|the Apache License 2.0">[the Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)</alt>, <alt name="mitRef" match="\[the MIT license\]\(https://spdx.org/licenses/MIT.html\)|the MIT license">[the MIT license](https://spdx.org/licenses/MIT.html)</alt>, or <alt name="bsdRef" match="\[the two-clause BSD license\]\(https://spdx.org/licenses/BSD-2-Clause.html\)">[the two-clause BSD license](https://spdx.org/licenses/BSD-2-Clause.html)</alt>.</p>
-      <p>3.  Take these steps within thirty days.</p>
-      <p>4.  Note that this license does _not_ allow you to change the license terms for this software.  You must follow <alt name="noticesRef" match="\[Notices\]\(#notices\)|Notices">[Notices](#notices)</alt>.</p>
+      <list>
+        <item><bullet>1.  </bullet>Publish all source code for the software in the preferred form for making changes through a freely accessible distribution system widely used for similar source code so the contributor and others can find and copy it.</item>
+        <item><bullet>2.  </bullet>Make sure every part of the source code is available under this license or another license that allows everything this license does, such as <alt name="blueOakRef" match="\[the Blue Oak Model License 1.0.0\]\(https://blueoakcouncil.org/license/1.0.0\)|the Blue Oak Model License">[the Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0)</alt>, <alt name="apacheRef" match="\[the Apache License 2.0\]\(https://www.apache.org/licenses/LICENSE-2.0.html\)|the Apache License 2.0">[the Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)</alt>, <alt name="mitRef" match="\[the MIT license\]\(https://spdx.org/licenses/MIT.html\)|the MIT license">[the MIT license](https://spdx.org/licenses/MIT.html)</alt>, or <alt name="bsdRef" match="\[the two-clause BSD license\]\(https://spdx.org/licenses/BSD-2-Clause.html\)">[the two-clause BSD license](https://spdx.org/licenses/BSD-2-Clause.html)</alt>.</item>
+        <item><bullet>3.  </bullet>Take these steps within thirty days.</item>
+        <item><bullet>4.  </bullet>Note that this license does _not_ allow you to change the license terms for this software.  You must follow <alt name="noticesRef" match="\[Notices\]\(#notices\)|Notices">[Notices](#notices)</alt>.</item>
+      </list>
       <p><optional>## </optional>Excuse</p>
       <p>You're excused for unknowingly breaking <alt name="copyleftRef" match="\[Copyleft\]\(#copyleft\)|Copyleft">[Copyleft](#copyleft)</alt> if you <alt name="contributeRef" match="\[contribute\]\(#contribute\)|contribute">[contribute](#contribute)</alt> as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule.  You're excused for unknowingly breaking <alt name="noticesRef" match="\[Notices\]\(#notices\)|Notices">[Notices](#notices)</alt> if you take all practical steps to comply within thirty days of learning you broke the rule.</p>
       <p><optional>## </optional>Defense</p>
