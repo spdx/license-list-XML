@@ -9,8 +9,8 @@
       <titleText>
         <p><optional># </optional>The Parity Public License 7.0.0</p>
       </titleText>
-      <p>Contributor: <alt match=".+" name="copyright">contributor name</alt></p>
-      <p>Source Code: <alt match=".+" name="source">source</alt></p>
+      <p>Contributor: <alt match=".+" name="copyright">name</alt></p>
+      <p>Source Code: <alt match=".+" name="address">address</alt></p>
       <p><optional>## </optional>Purpose</p>
       <p>This license allows you to use and share this software for free, but you have to share software that builds on it alike.</p>
       <p><optional>## </optional>Agreement</p>
