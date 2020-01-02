@@ -16,7 +16,7 @@
          AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.</p>
          <p>License</p>
       </optional>
-    
+
       <p>THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE
          ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE
          LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS
@@ -124,7 +124,7 @@
                USC Section 114 of the US Copyright Act (or the equivalent in other jurisdictions).
           </item>
             </list>
-         </item>    
+         </item>
          <item><p>The above rights may be exercised in all media and formats whether now known or hereafter
          devised. The above rights include the right to make such modifications as are
          technically necessary to exercise the rights in other media and formats, but otherwise
@@ -258,7 +258,7 @@
          Creative Commons without the prior written consent of Creative Commons. Any permitted use will
          be in compliance with Creative Commons' then-current trademark usage guidelines, as may be
          published on its website or otherwise made available upon request from time to time.</p>
-      <p>Creative Commons may be contacted at http<optional>s</optional>://creativecommons.org/.</p>
+      <p>Creative Commons may be contacted at http<optional spacing="none">s</optional>://creativecommons.org/.</p>
     </text>
   </license>
 </SPDXLicenseCollection>

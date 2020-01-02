@@ -7,8 +7,7 @@
     <text>
     <copyrightText>
       <p>
-        Copyright (c) <alt name="copyright" match=".+">&lt;year&gt; &lt;owner&gt;</alt>
-        All rights reserved.
+        Copyright (c) &lt;year&gt; &lt;owner&gt; All rights reserved.
       </p>
     </copyrightText>
     <p>

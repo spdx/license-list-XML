@@ -1,4 +1,4 @@
-LICENSE FOR THE Extreme! Lab PullParser 
+LICENSE FOR THE Extreme! Lab PullParser
 
 Copyright (c) 2002 The Trustees of Indiana University. All rights reserved.
 

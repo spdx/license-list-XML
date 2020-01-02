@@ -10,7 +10,7 @@
       <titleText>
          <p>Sun Industry Standards Source License - Version 1.1</p>
       </titleText>
-    
+
       <list>
         <item>
             <bullet>1.0</bullet>
@@ -314,17 +314,17 @@
              not apply to this License.</p>
         </item>
       </list>
-    
+
       <optional>
          <p>EXHIBIT A - Sun Standards License</p>
          <standardLicenseHeader>
-         <p><optional>"</optional>The contents of this file are subject to the Sun Standards License Version 1.1 (the "License"); You may
+         <p><optional spacing="none">"</optional>The contents of this file are subject to the Sun Standards License Version 1.1 (the "License"); You may
          not use this file except in compliance with the License. You may obtain a copy of the License at
          <alt name="source" match=".+">_______________________________</alt>.</p>
          <p>Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND,
-         either 
+         either
         <br/>express or implied. See the License for the specific language governing rights and limitations
-             under the License. 
+             under the License.
       </p>
          <p>The Original Code is <alt name="code" match=".+">______________________________________</alt>.</p>
          <p>The Initial Developer of the Original Code is: <alt name="initialDeveloper" match=".+">Sun Microsystems, Inc.</alt>.</p>
@@ -334,10 +334,10 @@
          <p>Contributor(s): <alt name="contributor" match=".+">_______________________________________</alt></p>
          </standardLicenseHeader>
          <p>EXHIBIT B - Standards</p>
-         <p>The Standard is defined as the following: 
-        <br/>OpenOffice.org XML File Format Specification, located at http://xml.openoffice.org 
-        <br/>OpenOffice.org Application Programming Interface Specification, located at 
-        <br/>http://api.openoffice.org 
+         <p>The Standard is defined as the following:
+        <br/>OpenOffice.org XML File Format Specification, located at http://xml.openoffice.org
+        <br/>OpenOffice.org Application Programming Interface Specification, located at
+        <br/>http://api.openoffice.org
       </p>
       </optional>
     </text>

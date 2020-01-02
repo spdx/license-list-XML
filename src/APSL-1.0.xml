@@ -8,8 +8,8 @@
       <notes>This license was released 16 March 1999.</notes>
     <text>
       <titleText>
-         <p>APPLE PUBLIC SOURCE LICENSE 
-        <br/>Version 1.0 - March 16, 1999 
+         <p>APPLE PUBLIC SOURCE LICENSE
+        <br/>Version 1.0 - March 16, 1999
       </p>
       </titleText>
       <optional>
@@ -17,7 +17,7 @@
          software, you are agreeing to be bound by the terms of this License. If you do not or cannot agree to
          the terms of this License, please do not download or use the software.</p>
       </optional>
-    
+
       <list>
         <item>
             <bullet>1.</bullet>
@@ -274,11 +274,11 @@
              "Apple", "Apple Computer", "Mac OS X", "Mac OS X
              Server" or any other trademarks or trade names belonging to Apple (collectively
              "Apple Marks") and no Apple Marks may be used to endorse or promote products derived
-             from the Original Code 
+             from the Original Code
             <br/>other than as permitted by and in strict compliance at all times with Apple's third
                  party trademark usage guidelines which are posted at
-                 http://www.apple.com/legal/guidelinesfor3rdparties.html. 
-          
+                 http://www.apple.com/legal/guidelinesfor3rdparties.html.
+
         </item>
         <item>
             <bullet>11.</bullet>
@@ -321,7 +321,7 @@
             Effect of Termination. Upon termination, You agree to immediately stop any further use,
                reproduction, modification and distribution of the Covered Code, or Affected Original Code
                in the case of termination under Section 9.1, and to destroy all copies of the Covered
-               Code or Affected Original Code (in the case of 
+               Code or Affected Original Code (in the case of
               <br/>termination under Section 9.1) that are in your possession or control. All sublicenses
                    to the Covered Code which have been properly granted prior to termination shall
                    survive any termination of this License. Provisions which, by their nature, should
@@ -330,8 +330,8 @@
                    liable to the other for compensation, indemnity or damages of any sort solely as a
                    result of terminating this License in accordance with its terms, and termination
                    of this License will be without prejudice to any other right or remedy of either
-                   party. 
-            
+                   party.
+
           </item>
         </list>
         <item>
@@ -355,13 +355,13 @@
             Government End Users. The Covered Code is a "commercial item" as defined in FAR
                2.101. Government software and technical data rights in the Covered Code include only
                those rights customarily provided to the public as defined in this License. This customary
-               commercial license in technical data and software is provided in 
+               commercial license in technical data and software is provided in
               <br/>accordance with FAR 12.211 (Technical Data) and 12.212 (Computer Software) and, for
                    Department of Defense purchases, DFAR 252.227-7015 (Technical Data -- Commercial
                    Items) and 227.7202-3 (Rights in Commercial Computer Software or Computer Software
                    Documentation). Accordingly, all U.S. Government End Users acquire Covered Code
-                   with only those rights set forth herein. 
-            
+                   with only those rights set forth herein.
+
           </item>
             <item>
                <bullet>13.3</bullet>
@@ -418,7 +418,7 @@
               </item>
         </list>
       </list>
-      
+
       <optional>
          <p>EXHIBIT A.</p>
          <p>"Portions Copyright (c) 1999 Apple Computer, Inc. All Rights Reserved. This file contains Original

@@ -26,7 +26,7 @@ b. Modify or delete any pre-existing copyright notices, change notices, or Licen
 
 c. Assert any patent claims against the Licensor or Contributors, or which would in any way restrict the ability of any third party to use the Licensed Software or portions thereof in any form under the terms of this License, or Your rights to the Licensed Software under this License automatically terminate.
 
-d. Represent either expressly or by implication, appearance, or otherwise that You represent Licensor or 
+d. Represent either expressly or by implication, appearance, or otherwise that You represent Licensor or
 
 Contributors in any capacity or that You have any form of legal association by virtue of this License.
 

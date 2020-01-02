@@ -11,7 +11,7 @@
       <optional>
          <p>COPYRIGHT NOTICE</p>
       </optional>
-    
+
       <p>All of the documentation and software included in this software distribution from the US Naval Research
          Laboratory (NRL) are copyrighted by their respective developers.</p>
       <p>Portions of the software are derived from the Net/2 and 4.4-Lite Berkeley Software Distributions (BSD) of
@@ -25,11 +25,11 @@
          portions to NRL. Outside the USA, NRL has copyright on some of the software developed at NRL. The
          affected files all contain specific copyright notices and those notices must be retained in any
          derived work.</p>
-    
+
       <titleText>
          <p>NRL LICENSE</p>
       </titleText>
-    
+
       <p>NRL grants permission for redistribution and use in source and binary forms, with or without
          modification, of the software and documentation created at NRL provided that the following conditions
          are met:</p>
@@ -63,7 +63,7 @@
                 Research Laboratory.</p>
                </item>
             </list>
-          
+
         </item>
         <item>
             <bullet>5.</bullet>

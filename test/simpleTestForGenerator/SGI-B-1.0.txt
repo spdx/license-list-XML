@@ -1,52 +1,52 @@
-SGI FREE SOFTWARE LICENSE B 
+SGI FREE SOFTWARE LICENSE B
 (Version 1.0 1/25/2000)
 
 1. Definitions.
-	
+
      1.1 "Additional Notice Provisions" means such additional provisions as appear in the Notice in Original Code under the heading "Additional Notice Provisions."
-	
+
      1.2 "API" means an application programming interface established by SGI in conjunction with the Original Code.
-	
+
      1.3 "Covered Code" means the Original Code or Modifications or the combination of the Original Code and Modifications, in each case including portions thereof.
-	
+
      1.4 "Hardware" means any physical device that accepts input, processes input, stores the results of processing, and/or provides output.
-	
+
      1.5 "Larger Work" means a work which combines Covered Code or portions thereof with code not governed by the terms of this License.
-	
+
      1.6 "Licensable" means having the right to grant, to the maximum extent possible, whether at the time of the initial grant or subsequently acquired, any and all of the rights conveyed herein.
-	
+
      1.7 "License" means this document.
-	
+
      1.8 "Modifications" means any addition to the substance or structure of the Original Code and/or any addition to or deletion from previous Modifications. When Covered Code is released as a series of files, a Modification is:
-		
+
           A. Any addition to the contents of a file containing Original Code and/or any addition to or deletion from previous Modifications.
-		
+
           B. Any new file that contains any part of the Original Code or previous Modifications.
-	
+
      1.9 "Notice" means any notice in Original Code or Covered Code, as required by and in compliance with this License.
-	
+
      1.10 "Original Code" means source code of computer software code which is described in the source code Notice required by Exhibit A as Original Code, and updates and error corrections specifically thereto.
-	
+
      1.11 "Recipient" means an individual or a legal entity exercising rights under, and complying with all of the terms of, this License or a future version of this License issued under Section 8. For legal entities, "Recipient" includes any entity which controls, is controlled by, or is under common control with Recipient. For purposes of this definition, "control" of an entity means (a) the power, direct or indirect, to direct or manage such entity, or (b) ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
-	
+
      1.12 SGI" means Silicon Graphics, Inc.
 
 2. License Grant and Restrictions.
-	
+
      2.1v License Grant. Subject to the provisions of this License and any third party intellectual property claims, for the duration of intellectual property protections inherent in the Original Code, SGI hereby grants Recipient a worldwide, royalty-free, non-exclusive license, to do the following: (i) under copyrights Licensable by SGI, to reproduce, distribute, create derivative works from, and, to the extent applicable, display and perform the Original Code alone and/or as part of a Larger Work; and (ii) under any patent claims Licensable by SGI and embodied in the Original Code, to make, have made, use, practice, sell, and offer for sale, and/or otherwise dispose of the Original Code. Recipient accepts the terms and conditions of this License by undertaking any of the aforementioned actions.
-	
+
      2.2 Restriction on Patent License. Notwithstanding the provisions of Section 2.1(ii), no patent license is granted: 1) separate from the Original Code; nor 2) for infringements caused by (i) modification of the Original Code, or (ii) the combination of the Original Code with other software or Hardware.
-	
+
      2.3 No License For Hardware Implementations. The licenses granted in Section 2.1 are not applicable to implementation in Hardware of the algorithms embodied in the Original Code.
-	
+
      2.4 Modifications License and API Compliance. Modifications are only licensed under Section 2.1(i) to the extent such Modifications are fully compliant with any API as may be identified in Additional Notice Provisions as appear in the Original Code.
 
 3. Redistributions.
-		
+
      A.	Retention of Notice/Copy of License. The Notice set forth in Exhibit A, below, must be conspicuously retained or included in any and all redistributions of Covered Code. For distributions of the Covered Code in source code form, the Notice must appear in every file that can include a text comments field; in executable form, the Notice and a copy of this License must appear in related documentation or collateral where the Recipient’s rights relating to Covered Code are described. Any Additional Notice Provisions which actually appears in the Original Code must also be retained or included in any and all redistributions of Covered Code.
-		
+
      B.	Alternative License. Provided that Recipient is in compliance with the terms of this License, Recipient may distribute the source code and/or executable version(s) of Covered Code under (1) this License; (2) a license identical to this License but for only such changes as are necessary in order to clarify Recipient’s role as licensor of Modifications, without derogation of any of SGI’s rights; and/or (3) a license of Recipient’s choosing, containing terms different from this License, provided that the license terms include this Section 3 and Sections 4, 6, 7, 10, 12, and 13, which terms may not be modified or superseded by any other terms of such license. If Recipient elects to use any license other than this License, Recipient must make it absolutely clear that any of its terms which differ from this License are offered by Recipient alone, and not by SGI.
-		
+
      C.	Indemnity. Recipient hereby agrees to indemnify SGI for any liability incurred by SGI as a result of any such alternative license terms Recipient offers.
 
 4. Termination. This License and the rights granted hereunder will terminate automatically if Recipient breaches any term herein and fails to cure such breach within 30 days thereof. Any sublicense to the Covered Code that is properly granted shall survive any termination of this License, absent termination by the terms of such sublicense. Provisions that, by their nature, must remain in effect beyond the termination of this License, shall survive.

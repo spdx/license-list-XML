@@ -11,7 +11,7 @@ SUN PUBLIC LICENSE Version 1.0
      1.3. "Covered Code" means the Original Code or Modifications or the combination of the Original Code and Modifications, in each case including portions thereof and corresponding documentation released with the source code.
 
      1.4. "Electronic Distribution Mechanism" means a mechanism generally accepted in the software development community for the electronic transfer of data.
-     
+
      1.5. "Executable" means Covered Code in any form other than Source Code.
 
      1.6. "Initial Developer" means the individual or entity identified as the Initial Developer in the Source Code notice required by Exhibit A.
@@ -48,7 +48,7 @@ SUN PUBLIC LICENSE Version 1.0
 
           (d) Notwithstanding Section 2.1(b) above, no patent license is granted: 1) for code that You delete from the Original Code; 2) separate from the Original Code; or 3) for infringements caused by:
 
-               i) the modification of the Original Code or 
+               i) the modification of the Original Code or
 
                ii) the combination of the Original Code with other software or devices.
 

@@ -74,10 +74,10 @@ By downloading and using this software, you are agreeing to be bound by the term
 
      12.1 Termination.  This License and the rights granted hereunder will terminate:
 
-          (a) automatically without notice from Apple if You fail to comply with any term(s) of this License and fail to cure such breach within 30 days of becoming aware of such breach; 
+          (a) automatically without notice from Apple if You fail to comply with any term(s) of this License and fail to cure such breach within 30 days of becoming aware of such breach;
 
-          (b) immediately in the event of the circumstances described in Section 13.5(b); or 
-     
+          (b) immediately in the event of the circumstances described in Section 13.5(b); or
+
           (c) automatically without notice from Apple if You, at any time during the term of this License, commence an action for patent infringement against Apple.
 
      12.2 Effect of Termination.  Upon termination, You agree to immediately stop any further use, reproduction, modification, sublicensing and distribution of the Covered Code and to destroy all copies of the Covered Code that are in your possession or control. All sublicenses to the Covered Code which have been properly granted prior to termination shall survive any termination of this License. Provisions which, by their nature, should remain in effect beyond the termination of this License shall survive, including but not limited to Sections 3, 5, 8, 9, 10, 11, 12.2 and 13.  Neither party will be liable to the other for compensation, indemnity or damages of any sort solely as a result of terminating this License in accordance with its terms, and termination of this License will be without prejudice to any other right or remedy of either party.

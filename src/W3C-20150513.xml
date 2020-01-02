@@ -9,7 +9,7 @@
          <alt match=".+" name="softwareNameURI">[$name_of_software:
     $distribution_URI]</alt>
 
-Copyright (c) 
+Copyright (c)
     <alt match=".+" name="year">[$date-of-software]</alt> World Wide Web
     Consortium, (Massachusetts Institute of Technology, European Research
     Consortium for Informatics and Mathematics, Keio University, Beihang).

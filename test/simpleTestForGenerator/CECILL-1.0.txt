@@ -32,7 +32,7 @@ Dans ce contrat, les termes suivants, lorsqu’ils seront écrits avec une lettr
 
 Contrat: désigne le présent contrat de licence, ses éventuelles versions postérieures et annexes.
 
-Logiciel: désigne le logiciel sous sa forme de Code Objet et/ou de Code Source et le cas échéant sa documentation, dans leur état au moment de l’acceptation du 
+Logiciel: désigne le logiciel sous sa forme de Code Objet et/ou de Code Source et le cas échéant sa documentation, dans leur état au moment de l’acceptation du
 Contrat par le Licencié.
 
 Logiciel Initial: désigne le Logiciel sous sa forme de Code Source et de Code Objet et le cas échéant sa documentation, dans leur état au moment de leur première diffusion sous les termes du Contrat.
@@ -51,11 +51,11 @@ Contributeur: désigne le Licencié auteur d’au moins une Contribution.
 
 Concédant: désigne le Titulaire ou toute personne physique ou morale distribuant le Logiciel sous le Contrat.
 
-Contributions: désigne l’ensemble des modifications, corrections, traductions, adaptations et/ou nouvelles fonctionnalités intégrées dans le Logiciel par tout 
+Contributions: désigne l’ensemble des modifications, corrections, traductions, adaptations et/ou nouvelles fonctionnalités intégrées dans le Logiciel par tout
 
 Contributeur, ainsi que les Modules Statiques.
 
-Module: désigne un ensemble de fichiers sources y compris leur documentation qui, une fois compilé sous forme exécutable, permet de réaliser des fonctionnalités ou 
+Module: désigne un ensemble de fichiers sources y compris leur documentation qui, une fois compilé sous forme exécutable, permet de réaliser des fonctionnalités ou
 services supplémentaires à ceux fournis par le Logiciel.
 
 Module Dynamique: désigne tout Module, créé par le Contributeur, indépendant du Logiciel, tel que ce Module et le Logiciel sont sous forme de deux exécutables indépendants qui s’exécutent dans un espace d’adressage indépendant, l’un appelant l’autre au moment de leur exécution.
@@ -92,7 +92,7 @@ Article 5 - ETENDUE DES DROITS CONCEDES
 
 Le Concédant concède au Licencié, qui accepte, les droits suivants sur le Logiciel pour toutes destinations et pour la durée du Contrat dans les conditions ci-après détaillées.
 
-Par ailleurs, le Concédant concède au Licencié à titre gracieux les droits d’exploitation du ou des brevets qu’il détient sur tout ou partie des inventions 
+Par ailleurs, le Concédant concède au Licencié à titre gracieux les droits d’exploitation du ou des brevets qu’il détient sur tout ou partie des inventions
 implémentées dans le Logiciel.
 
 5.1. DROITS D’UTILISATION

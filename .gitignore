@@ -1,6 +1,10 @@
 .DS_Store
-# Ignore all hidden files/dirs except .gitignore and .travis.yml
+
+# Ignore all hidden files and directories
+# except .editorconfig, .gitattributes, .gitignore and .travis.yml
 .*
+!/.editorconfig
+!/.gitattributes
 !/.gitignore
 !/.travis.yml
 

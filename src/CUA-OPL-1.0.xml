@@ -15,8 +15,8 @@
             <bullet>1.</bullet>
           Definitions.
           <list>
-               <item>        
-                  <bullet>1.0.1.</bullet> 
+               <item>
+                  <bullet>1.0.1.</bullet>
               "Commercial Use" means distribution or otherwise making the Covered Code
                  available to a third party.
             </item>
@@ -58,7 +58,7 @@
               "License" means this document.
             </item>
                <item>
-                  <bullet>1.8.1.</bullet> 
+                  <bullet>1.8.1.</bullet>
               "Licensable" means having the right to grant, to the maximum extent possible,
                  whether at the time of the initial grant or subsequently acquired, any and all of the rights
                  conveyed herein.
@@ -114,7 +114,7 @@
                  entity.
             </item>
             </list>
-        </item>  
+        </item>
         <item>
             <bullet>2.</bullet>
           Source Code License.
@@ -189,8 +189,8 @@
               </item>
                   </list>
                </item>
-            </list>  
-        </item>    
+            </list>
+        </item>
         <item>
             <bullet>3.</bullet>
           Distribution Obligations.
@@ -304,10 +304,10 @@
                  Code.
             </item>
             </list>
-        </item>  
+        </item>
         <item>
             <bullet>4.</bullet>
-          Inability to Comply Due to Statute or Regulation. 
+          Inability to Comply Due to Statute or Regulation.
             <br/>If it is impossible for You to comply with any of the terms of this License with respect to
                  some or all of the Covered Code due to statute, judicial order, or regulation then You
                  must: (a) comply with the terms of this License to the maximum extent possible; and
@@ -315,15 +315,15 @@
                  included in the LEGAL file described in Section 3.4 and must be included with all
                  distributions of the Source Code. Except to the extent prohibited by statute or
                  regulation, such description must be sufficiently detailed for a recipient of ordinary
-                 skill to be able to understand it. 
-          
+                 skill to be able to understand it.
+
         </item>
         <item>
             <bullet>5.</bullet>
-          Application of this License. 
+          Application of this License.
             <br/>This License applies to code to which the Initial Developer has attached the notice in
-                 Exhibit A and to related Covered Code. 
-          
+                 Exhibit A and to related Covered Code.
+
         </item>
         <item>
             <bullet>6.</bullet>
@@ -354,11 +354,11 @@
                  described in Exhibit A shall not of themselves be deemed to be modifications of this
                  License.)
             </item>
-            </list> 
-        </item>  
+            </list>
+        </item>
         <item>
             <bullet>7.</bullet>
-          DISCLAIMER OF WARRANTY. 
+          DISCLAIMER OF WARRANTY.
             <br/>COVERED CODE IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS, WITHOUT WARRANTY
                  OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES
                  THAT THE COVERED CODE IS FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE
@@ -367,8 +367,8 @@
                  INITIAL DEVELOPER OR ANY OTHER CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY
                  SERVICING, REPAIR OR CORRECTION. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL
                  PART OF THIS LICENSE. NO USE OF ANY COVERED CODE IS AUTHORIZED HEREUNDER EXCEPT UNDER
-                 THIS DISCLAIMER. 
-          
+                 THIS DISCLAIMER.
+
         </item>
         <item>
             <bullet>8.</bullet>
@@ -428,11 +428,11 @@
                  (excluding distributors and resellers) which have been validly granted by You or any
                  distributor hereunder prior to termination shall survive termination.
             </item>
-            </list> 
-        </item>  
+            </list>
+        </item>
         <item>
             <bullet>9.</bullet>
-          LIMITATION OF LIABILITY. 
+          LIMITATION OF LIABILITY.
             <br/>UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING NEGLIGENCE),
                  CONTRACT, OR OTHERWISE, SHALL YOU, THE INITIAL DEVELOPER, ANY OTHER CONTRIBUTOR, OR
                  ANY DISTRIBUTOR OF COVERED CODE, OR ANY SUPPLIER OF ANY OF SUCH PARTIES, BE LIABLE TO
@@ -444,23 +444,23 @@
                  RESULTING FROM SUCH PARTY'S NEGLIGENCE TO THE EXTENT APPLICABLE LAW PROHIBITS
                  SUCH LIMITATION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF
                  INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO
-                 YOU. 
-          
+                 YOU.
+
         </item>
         <item>
             <bullet>10.</bullet>
-          U.S. GOVERNMENT END USERS. 
+          U.S. GOVERNMENT END USERS.
             <br/>The Covered Code is a "commercial item," as that term is defined in 48 C.F.R.
                  2.101 (Oct. 1995), consisting of "commercial computer software" and
                  "commercial computer software documentation," as such terms are used in 48
                  C.F.R. 12.212 (Sept. 1995). Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1
                  through 227.7202-4 (June 1995), all U.S. Government End Users acquire Covered Code
-                 with only those rights set forth herein. 
-          
+                 with only those rights set forth herein.
+
         </item>
         <item>
             <bullet>11.</bullet>
-          MISCELLANEOUS. 
+          MISCELLANEOUS.
             <br/>This License represents the complete agreement concerning subject matter hereof. If any
                  provision of this License is held to be unenforceable, such provision shall be
                  reformed only to the extent necessary to make it enforceable. This License shall be
@@ -474,18 +474,18 @@
                  and reasonable attorneys' fees and expenses. The application of the United
                  Nations Convention on Contracts for the International Sale of Goods is expressly
                  excluded. Any law or regulation which provides that the language of a contract shall
-                 be construed against the drafter shall not apply to this License. 
-          
+                 be construed against the drafter shall not apply to this License.
+
         </item>
         <item>
             <bullet>12.</bullet>
-          RESPONSIBILITY FOR CLAIMS. 
+          RESPONSIBILITY FOR CLAIMS.
             <br/>As between Initial Developer and the Contributors, each party is responsible for claims and
                  damages arising, directly or indirectly, out of its utilization of rights under this
                  License and You agree to work with Initial Developer and Contributors to distribute
                  such responsibility on an equitable basis. Nothing herein is intended or shall be
-                 deemed to constitute any admission of liability. 
-          
+                 deemed to constitute any admission of liability.
+
         </item>
         <item>
             <bullet>13.</bullet>
@@ -499,7 +499,7 @@
       <optional>
          <p>EXHIBIT A - CUA Office Public License.</p>
          <standardLicenseHeader>
-         <p><optional>"</optional>The contents of this file are subject to the CUA Office Public License Version 1.0 (the
+         <p><optional spacing="none">"</optional>The contents of this file are subject to the CUA Office Public License Version 1.0 (the
          "License"); you may not use this file except in compliance with the License. You may obtain
          a copy of the License at http://cuaoffice.sourceforge.net/</p>
          <p>Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF
@@ -515,7 +515,7 @@
          License and not to allow others to use your version of this file under the CUAPL, indicate your
          decision by deleting the provisions above and replace them with the notice and other provisions
          required by the <alt name="altLicenseShort4" match=".+">[___]</alt> License. If you do not delete the provisions above, a recipient may use your
-         version of this file under either the CUAPL or the <alt name="altLicenseShort5" match=".+">[___]</alt> License.<optional>"</optional></p>
+         version of this file under either the CUAPL or the <alt name="altLicenseShort5" match=".+">[___]</alt> License.<optional spacing="none">"</optional></p>
          </standardLicenseHeader>
          <p>[NOTE: The text of this Exhibit A may differ slightly from the text of the notices in the Source Code
          files of the Original Code. You should use the text of this Exhibit A rather than the text found in

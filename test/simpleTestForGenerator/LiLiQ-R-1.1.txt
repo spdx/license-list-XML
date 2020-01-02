@@ -6,8 +6,8 @@ Version 1.1
 Cette licence s'applique à tout logiciel distribué dont le titulaire du droit d'auteur précise qu'il est sujet aux termes de la Licence Libre du Québec – Réciprocité (LiLiQ-R) (ci-après appelée la « licence »).
 
 2. Définitions
-Dans la présente licence, à moins que le contexte n'indique un sens différent, on entend par:     
-     
+Dans la présente licence, à moins que le contexte n'indique un sens différent, on entend par:
+
      « concédant » : le titulaire du droit d'auteur sur le logiciel, ou toute personne dûment autorisée par ce dernier à accorder la présente licence;
      « contributeur » : le titulaire du droit d'auteur ou toute personne autorisée par ce dernier à soumettre au concédant une contribution. Un contributeur dont sa contribution est incorporée au logiciel est considéré comme un concédant en regard de sa contribution;
      « contribution » : tout logiciel original, ou partie de logiciel original soumis et destiné à être incorporé dans le logiciel;
@@ -67,12 +67,12 @@ Sous réserve d'une entente distincte, toute contribution soumise par un contrib
 La licence n'accorde aucune permission particulière qui permettrait d'utiliser les marques de commerce du concédant, autre que celle requise permettant d'identifier la provenance du logiciel.
 
 7. Garanties
-Sauf mention contraire, le concédant distribue le logiciel sans aucune garantie, aux risques et périls de l'acquéreur de la copie du logiciel, et ce, sans assurer que le logiciel puisse répondre à un besoin particulier ou puisse donner un résultat quelconque. 
+Sauf mention contraire, le concédant distribue le logiciel sans aucune garantie, aux risques et périls de l'acquéreur de la copie du logiciel, et ce, sans assurer que le logiciel puisse répondre à un besoin particulier ou puisse donner un résultat quelconque.
 
 Sans lier le concédant d'une quelconque manière, rien n'empêche un licencié d'offrir ou d'exclure des garanties ou du support.
 
 8. Responsabilité
-Le licencié est responsable de tout préjudice résultant de l'exercice des droits accordés par la licence. 
+Le licencié est responsable de tout préjudice résultant de l'exercice des droits accordés par la licence.
 
 Le concédant ne saurait être tenu responsable du préjudice subi par le licencié ou par des tiers, pour quelque cause que ce soit en lien avec la licence et les droits qui y sont accordés.
 

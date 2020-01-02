@@ -11,7 +11,7 @@
       <copyrightText>
          <p>Copyright (c) 1990-2009 Info-ZIP. All rights reserved.</p>
       </copyrightText>
-    
+
       <p>For the purposes of this copyright and license, "Info-ZIP" is defined as the following set of
          individuals:</p>
       <p>Mark Adler, John Bush, Karl Davis, Harald Denker, Jean-Michel Dubois, Jean-loup Gailly, Hunter Goatley,
@@ -51,7 +51,7 @@
              such and must not be misrepresented as being the original source or, if binaries, compiled
              from the original source. Such altered versions also must not be misrepresented as being
              Info-ZIP releases--including, but not limited to, labeling of the altered versions with
-             the names "Info-ZIP" (or any variation thereof, including, but not limited to,  
+             the names "Info-ZIP" (or any variation thereof, including, but not limited to,
              different capitalizations), "Pocket UnZip," "WiZ" or
              "MacZip" without the explicit permission of Info-ZIP. Such altered versions are
              further prohibited from misrepresentative use of the Zip-Bugs or Info-ZIP e-mail addresses

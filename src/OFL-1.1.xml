@@ -7,8 +7,8 @@
       </crossRefs>
       <notes>This license was released: 26 February 2007.</notes>
     <text>
-      <copyrightText><optional><p>Copyright (c) &lt;dates&gt;, &lt;Copyright Holder&gt; (&lt;URL|email&gt;),
-         <br/>with Reserved Font Name &lt;Reserved Font Name&gt;.</p></optional></copyrightText>
+      <copyrightText><p>Copyright (c) &lt;dates&gt;, &lt;Copyright Holder&gt; (&lt;URL|email&gt;),
+         <br/>with Reserved Font Name &lt;Reserved Font Name&gt;.</p></copyrightText>
       <optional>
          <p>This Font Software is licensed under the SIL Open Font License, Version 1.1.</p>
          <p>This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL</p>
@@ -17,7 +17,7 @@
          <p>SIL OPEN FONT LICENSE</p>
          <p>Version 1.1 - 26 February 2007</p>
       </titleText>
-    
+
       <p>PREAMBLE</p>
       <p>The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font
          projects, to support the font creation efforts of academic and linguistic communities, and to provide

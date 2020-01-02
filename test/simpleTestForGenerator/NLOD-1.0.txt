@@ -7,7 +7,7 @@ This licence grants you the right to copy, use and distribute information, provi
 This licence shall not impose any limitations on the rights or freedoms of the licensee under the Norwegian Freedom of Information Act or any other legislation granting the general public a right of access to public sector information, or that follow from exemptions or limitations stipulated in the Norwegian Copyright Act. Further, the licence shall not impose any limitations on the licensee's freedom of expression recognized by law.
 
 1. Definitions
-     
+
      «Database» shall mean a database or similar protected under Section 43 of the Norwegian Copyright Act.
      «Information» shall mean texts, images, recordings, data sets or other works protected under Section 1 of the Norwegian Copyright Act, or which are protected under provisions addressing what is referred to as «neighbouring rights» in Chapter 5 of the Norwegian Copyright Act (including databases and photographs), and which are distributed under this licence.
      «Copy» shall mean reproduction in any form.
@@ -15,7 +15,7 @@ This licence shall not impose any limitations on the rights or freedoms of the l
      «Licensor» shall mean the natural or legal person that makes information available under this licence.
      «Distribute» shall mean any actions whereby information is made available, including to distribute, transfer, communicate, disperse, show, perform, sell, lend and rent.
      «Use» shall mean one or more actions relevant to copyright law requiring permission from the owner of the copyright.
-	
+
 2. Licence
 The licensee, subject to the limitations that follow from this licence, may use the information for any purpose and in all contexts, by:
 

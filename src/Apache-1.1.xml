@@ -11,7 +11,7 @@
          <p>Apache License 1.1</p>
       </titleText>
       <copyrightText>
-         <p>Copyright (c) <alt name="copyright" match=".+">2000 The Apache Software Foundation</alt>. All rights reserved.</p>
+         <p>Copyright (c) 2000 The Apache Software Foundation. All rights reserved.</p>
       </copyrightText>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
        that the following conditions are met:</p>
@@ -30,42 +30,42 @@
          <item>
             <bullet>3.</bullet>
         The end-user documentation included with the redistribution, if any, must include the following
-           acknowledgment: 
-          <br/>"This product includes software developed by 
-          <alt match=".+" name="organizationClause3">the Apache Software Foundation (http://www.apache.org/)</alt>." 
+           acknowledgment:
+          <br/>"This product includes software developed by
+          <alt match=".+" name="organizationClause3">the Apache Software Foundation (http://www.apache.org/)</alt>."
           <br/>Alternately, this acknowledgment may appear in the software itself, if and wherever such
-               third-party acknowledgments normally appear. 
-        
+               third-party acknowledgments normally appear.
+
       </item>
          <item>
             <bullet>4.</bullet>
-        The 
+        The
           <alt match="name\(s\)|name|name" name="nameClause4">name</alt>
             <alt match=".+" name="organizationClause4">"Apache" and "Apache Software Foundation"</alt> must
           not be used to endorse or promote products derived from this software without prior written
-          permission. For written permission, please contact 
+          permission. For written permission, please contact
           <alt match=".+" name="contactClause4">apache@apache.org</alt>.
-        
+
       </item>
          <item>
             <bullet>5.</bullet>
-        Products derived from this software may not be called 
-          <alt match=".+" name="name1Clause5">"Apache" [ex. "Jakarta," "Apache," or "Apache Commons,"]</alt> nor may 
+        Products derived from this software may not be called
+          <alt match=".+" name="name1Clause5">"Apache" [ex. "Jakarta," "Apache," or "Apache Commons,"]</alt> nor may
           <alt match=".+" name="name2clause5">"Apache" [ex. the names]</alt> appear in their name, without
-          prior written permission of 
-          <alt match=".+" name="name3clause5">the Apache Software Foundation</alt>. 
-        
+          prior written permission of
+          <alt match=".+" name="name3clause5">the Apache Software Foundation</alt>.
+
       </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED ''AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
        TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN
-       NO EVENT SHALL 
+       NO EVENT SHALL
       <alt match=".+" name="copyrightHolderLiability">THE APACHE SOFTWARE FOUNDATION OR ITS CONTRIBUTORS</alt>
       BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
       BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
       BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
       LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-      SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+      SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     </p>
       <p>
          <optional>This software consists of voluntary contributions made by many individuals on behalf of the Apache

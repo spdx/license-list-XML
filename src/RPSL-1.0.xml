@@ -500,11 +500,11 @@
             </list>
          </item>
       </list>
-      
+
       <optional>
          <p>EXHIBIT A.</p>
         <standardLicenseHeader>
-         <p><optional>"</optional>Copyright (c) 1995-2002 RealNetworks, Inc. and/or its licensors. All Rights Reserved.</p>
+         <p><optional spacing="none">"</optional>Copyright (c) 1995-2002 RealNetworks, Inc. and/or its licensors. All Rights Reserved.</p>
          <p>The contents of this file, and the files included with this file, are subject to the current version of
          the RealNetworks Public Source License Version 1.0 (the "RPSL") available at
          https://www.helixcommunity.org/content/rpsl unless you have licensed the file under the RealNetworks
@@ -522,43 +522,43 @@
          PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT.</p>
          <p>Contributor(s): <alt name="contributor" match=".+">____________________________________</alt></p>
          <p>Technology Compatibility Kit Test Suite(s) Location (if licensed under the RCSL):
-         <alt match=".+" name="testLocation">_____</alt><optional>"</optional></p>
+         <alt match=".+" name="testLocation">_____</alt><optional spacing="none">"</optional></p>
          </standardLicenseHeader>
          <p>Object Code Notice: Helix DNA Client technology included. Copyright (c) RealNetworks, Inc., 1995-2002.
          All rights reserved.</p>
          <p>EXHIBIT B</p>
          <p>Compatible Source Licenses for the RealNetworks Public Source License. The following list applies to the
          most recent version of the license as of October 25, 2002, unless otherwise indicated.</p>
-         <p>Academic Free License 
-        <br/>Apache Software License 
-        <br/>Apple Public Source License 
-        <br/>Artistic license 
-        <br/>Attribution Assurance Licenses 
-        <br/>BSD license 
-        <br/>Common Public License1 
-        <br/>Eiffel Forum License 
-        <br/>GNU General Public License (GPL)1 
-        <br/>GNU Library or "Lesser" General Public License (LGPL)1 
-        <br/>IBM Public License 
-        <br/>Intel Open Source License 
-        <br/>Jabber Open Source License 
-        <br/>MIT license 
-        <br/>MITRE Collaborative Virtual Workspace License (CVW License) 
-        <br/>Motosoto License 
-        <br/>Mozilla Public License 1.0 (MPL) 
-        <br/>Mozilla Public License 1.1 (MPL) 
-        <br/>Nokia Open Source License 
-        <br/>Open Group Test Suite License 
-        <br/>Python Software Foundation License 
-        <br/>Ricoh Source Code Public License 
-        <br/>Sun Industry Standards Source License (SISSL) 
-        <br/>Sun Public License 
-        <br/>University of Illinois/NCSA Open Source License 
-        <br/>Vovida Software License v. 1.0 
-        <br/>W3C License 
-        <br/>X.Net License 
-        <br/>Zope Public License 
-        <br/>zlib/libpng license 
+         <p>Academic Free License
+        <br/>Apache Software License
+        <br/>Apple Public Source License
+        <br/>Artistic license
+        <br/>Attribution Assurance Licenses
+        <br/>BSD license
+        <br/>Common Public License1
+        <br/>Eiffel Forum License
+        <br/>GNU General Public License (GPL)1
+        <br/>GNU Library or "Lesser" General Public License (LGPL)1
+        <br/>IBM Public License
+        <br/>Intel Open Source License
+        <br/>Jabber Open Source License
+        <br/>MIT license
+        <br/>MITRE Collaborative Virtual Workspace License (CVW License)
+        <br/>Motosoto License
+        <br/>Mozilla Public License 1.0 (MPL)
+        <br/>Mozilla Public License 1.1 (MPL)
+        <br/>Nokia Open Source License
+        <br/>Open Group Test Suite License
+        <br/>Python Software Foundation License
+        <br/>Ricoh Source Code Public License
+        <br/>Sun Industry Standards Source License (SISSL)
+        <br/>Sun Public License
+        <br/>University of Illinois/NCSA Open Source License
+        <br/>Vovida Software License v. 1.0
+        <br/>W3C License
+        <br/>X.Net License
+        <br/>Zope Public License
+        <br/>zlib/libpng license
       </p>
          <p>1Note: because this license contains certain reciprocal licensing terms that purport to extend to
          independently developed code, You may be prohibited under the terms of this otherwise compatible

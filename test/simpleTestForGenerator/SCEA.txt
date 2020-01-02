@@ -29,7 +29,7 @@ SCEA welcomes contributions in form of modifications, optimizations, tools or do
 You may redistribute copies of the Software, modifications or derivatives thereof in Source Code Form, provided that You:
 
      a. Include a copy of this License and any copyright notices with source
-     
+
      b. Identify modifications if any were made to the Software
 
      c. Include a copy of all documentation accompanying the Software and modifications made by You

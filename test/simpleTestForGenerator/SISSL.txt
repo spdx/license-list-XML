@@ -19,9 +19,9 @@ Sun Industry Standards Source License - Version 1.1
      1.8 "Licensable" means having the right to grant, to the maximum extent possible, whether at the time of the initial grant or subsequently acquired, any and all of the rights conveyed herein.
 
      1.9 "Modifications" means any addition to or deletion from the substance or structure of either the Original Code or any previous Modifications. A Modification is:
-	
+
           A. Any addition to or deletion from the contents of a file containing Original Code or previous Modifications.
-	
+
           B. Any new file that contains any part of the Original Code or previous Modifications.
 
      1.10 "Original Code" means Source Code of computer software code which is described in the Source Code notice required by Exhibit A as Original Code.
@@ -37,9 +37,9 @@ Sun Industry Standards Source License - Version 1.1
 2.0 SOURCE CODE LICENSE
 
      2.1 The Initial Developer Grant  The Initial Developer hereby grants You a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims: 
-	
+
           (a) under intellectual property rights (other than patent or trademark) Licensable by Initial Developer to use, reproduce, modify, display, perform, sublicense and distribute the Original Code (or portions thereof) with or without Modifications, and/or as part of a Larger Work; and
-	
+
           (b) under Patents Claims infringed by the making, using or selling of Original Code, to make, have made, use, practice, sell, and offer for sale, and/or otherwise dispose of the Original Code (or portions thereof).
           (c) the licenses granted in this Section 2.1(a) and (b) are effective on the date Initial Developer first distributes Original Code under the terms of this License.
           (d) Notwithstanding Section 2.1(b) above, no patent license is granted: 1) for code that You delete from the Original Code; 2) separate from the Original Code; or 3) for infringements caused by: i) the modification of the Original Code or ii) the combination of the Original Code with other software or devices, including but not limited to Modifications. 

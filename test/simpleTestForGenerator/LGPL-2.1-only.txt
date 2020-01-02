@@ -60,7 +60,7 @@ You may charge a fee for the physical act of transferring a copy, and you may at
 2. You may modify your copy or copies of the Library or any portion of it, thus forming a work based on the Library, and copy and distribute such modifications or work under the terms of Section 1 above, provided that you also meet all of these conditions:
 
      a) The modified work must itself be a software library.
- 
+
      b) You must cause the files modified to carry prominent notices stating that you changed the files and the date of any change.
 
      c) You must cause the whole of the work to be licensed at no charge to all third parties under the terms of this License.

@@ -8,8 +8,8 @@
       <notes>This license was released: 6 August 2003.</notes>
     <text>
       <titleText>
-         <p>APPLE PUBLIC SOURCE LICENSE 
-        <br/>Version 2.0 - August 6, 2003 
+         <p>APPLE PUBLIC SOURCE LICENSE
+        <br/>Version 2.0 - August 6, 2003
       </p>
       </titleText>
       <optional>
@@ -20,7 +20,7 @@
          "Apple Inc." This change has been reflected below and copyright years updated, but no other
          changes have been made to the APSL 2.0.</p>
       </optional>
-    
+
       <list>
         <item>
             <bullet>1.</bullet>
@@ -400,7 +400,7 @@
             </list>
         </item>
       </list>
-    
+
       <optional>
          <p>EXHIBIT A.</p>
          <p>"Portions Copyright (c) 1999-2007 Apple Inc. All Rights Reserved.</p>

@@ -6,14 +6,16 @@
          <crossRef>https://fedoraproject.org/wiki/Licensing/TCL</crossRef>
       </crossRefs>
     <text>
-      <copyrightText>
-         <p>This software is copyrighted by 
-        <alt match=".+" name="authors">the Regents of the University of California, Sun Microsystems, Inc.,
-        Scriptics Corporation, ActiveState Corporation</alt> and other parties. The following terms apply to all
+	  <p>
+         <copyrightText>
+            This software is copyrighted by the Regents of the University of California, Sun Microsystems, Inc.,
+            Scriptics Corporation, ActiveState Corporation and other parties. 
+	     </copyrightText>  
+		The following terms apply to all
         files associated with the software unless explicitly disclaimed in individual files. 
       </p>
-      </copyrightText>
-    
+
+
       <p>The authors hereby grant permission to use, copy, modify, distribute, and license this software and its
          documentation for any purpose, provided that existing copyright notices are retained in all copies and
          that this notice is included verbatim in any distributions. No written agreement, license, or royalty

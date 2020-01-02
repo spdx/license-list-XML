@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license isOsiApproved="true" licenseId="MIT-0" name="MIT No Attribution">
+  <license isOsiApproved="false" licenseId="MIT-0" name="MIT No Attribution">
     <crossRefs>
       <crossRef>https://github.com/aws/mit-0</crossRef>
       <crossRef>https://romanrm.net/mit-zero</crossRef>
@@ -16,7 +16,7 @@
       </titleText>
       <copyrightText>
         <p>
-          Copyright <alt name="copyright" match="(c)|"/> <alt match=".+" name="copyright">&lt;YEARr&gt; &lt;COPYRIGHT HOLDER&gt;</alt>
+          Copyright &lt;YEARr&gt; &lt;COPYRIGHT HOLDER&gt;
         </p>
       </copyrightText>
 

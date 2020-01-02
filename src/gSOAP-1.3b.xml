@@ -9,7 +9,7 @@
          <p>gSOAP Public License</p>
          <p>Version 1.3b</p>
       </titleText>
-    
+
         <optional>
           <p>The gSOAP public license is derived from the Mozilla Public License (MPL1.1). The sections that were
              deleted from the original MPL1.1 text are 1.0.1, 2.1.(c),(d), 2.2.(c),(d), 8.2.(b), 10, and 11.
@@ -353,7 +353,7 @@
             </item>
             <item>
                 <bullet>7</bullet>
-                DISCLAIMER OF WARRANTY.  
+                DISCLAIMER OF WARRANTY.
                 <p>COVERED CODE IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS, WITHOUT WARRANTY OF
                  ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
                  WARRANTIES OF MERCHANTABILITY, OF FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT OF THIRD
@@ -445,7 +445,7 @@
                  Nothing herein is intended or shall be deemed to constitute any admission of liability.</p>
             </item>
         </list>
-    
+
       <optional>
         <list>
             <item>

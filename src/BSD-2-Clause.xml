@@ -7,11 +7,10 @@
       </crossRefs>
     <text>
       <copyrightText>
-         <p>Copyright (c) 
-        <alt match=".+" name="copyright">&lt;year&gt; &lt;owner&gt;</alt><optional>. All rights reserved.</optional>
+         <p>Copyright (c) &lt;year&gt; &lt;owner&gt;. All rights reserved.
       </p>
       </copyrightText>
-    
+
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
       <list>
@@ -27,16 +26,16 @@
              distribution.
         </item>
       </list>
-      <p>THIS SOFTWARE IS PROVIDED BY 
+      <p>THIS SOFTWARE IS PROVIDED BY
         <alt match=".+" name="copyrightHolderAsIs">THE COPYRIGHT HOLDERS AND CONTRIBUTORS</alt> "AS IS" AND ANY
         <alt match="EXPRESS(ED)?" name="express">EXPRESS</alt> OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
-        AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL 
+        AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
         <alt match=".+" name="copyrightHolderLiability">THE COPYRIGHT HOLDER OR CONTRIBUTORS</alt> BE LIABLE FOR
         ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
         LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
         INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
         TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
-        ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+        ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
       </p>
     </text>
   </license>

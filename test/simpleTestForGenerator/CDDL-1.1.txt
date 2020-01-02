@@ -20,11 +20,11 @@ Version 1.1
 1.8. “Licensable” means having the right to grant, to the maximum extent possible, whether at the time of the initial grant or subsequently acquired, any and all of the rights conveyed herein.
 
 1.9. “Modifications” means the Source Code and Executable form of any of the following:
-     
+
      A. Any file that results from an addition to, deletion from or modification of the contents of a file containing Original Software or previous Modifications;
-     
+
      B. Any new file that contains any part of the Original Software or previous Modification; or
-     
+
      C. Any new file that is contributed or otherwise made available under the terms of this License.
 
 1.10. “Original Software” means the Source Code and Executable form of computer software code that is originally released under this License.
@@ -45,7 +45,7 @@ Conditioned upon Your compliance with Section 3.1 below and subject to third par
      (b) under Patent Claims infringed by the making, using or selling of Original Software, to make, have made, use, practice, sell, and offer for sale, and/or otherwise dispose of the Original Software (or portions thereof).
 
      (c) The licenses granted in Sections 2.1(a) and (b) are effective on the date Initial Developer first distributes or otherwise makes the Original Software available to a third party under the terms of this License.
- 
+
      (d) Notwithstanding Section 2.1(b) above, no patent license is granted: (1) for code that You delete from the Original Software, or (2) for infringements caused by: (i) the modification of the Original Software, or (ii) the combination of the Original Software with other software or devices.
 
 2.2. Contributor Grant.

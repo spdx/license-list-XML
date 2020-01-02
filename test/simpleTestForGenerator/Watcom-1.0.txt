@@ -30,7 +30,7 @@ Sybase Open Watcom Public License version 1.0
 
      2.1 You may use, reproduce, display, perform, modify and distribute Original Code, with or without Modifications, solely for Your internal research and development and/or Personal Use, provided that in each instance:
 
-          (a) You must retain and reproduce in all copies of Original Code the copyright and other proprietary notices and disclaimers of Sybase as they appear in the Original Code, and keep intact all notices in the Original Code that refer to this License; and 
+          (a) You must retain and reproduce in all copies of Original Code the copyright and other proprietary notices and disclaimers of Sybase as they appear in the Original Code, and keep intact all notices in the Original Code that refer to this License; and
 
           (b) You must retain and reproduce a copy of this License with every copy of Source Code of Covered Code and documentation You distribute, and You may not offer or impose any terms on such Source Code that alter or restrict this License or the recipients' rights hereunder, except as permitted under Section 6.
 
@@ -38,13 +38,13 @@ Sybase Open Watcom Public License version 1.0
 
      2.2 You may use, reproduce, display, perform, modify and Deploy Covered Code, provided that in each instance:
 
-          (a) You must satisfy all the conditions of Section 2.1 with respect to the Source Code of the Covered Code; 
+          (a) You must satisfy all the conditions of Section 2.1 with respect to the Source Code of the Covered Code;
 
-          (b) You must duplicate, to the extent it does not already exist, the notice in Exhibit A in each file of the Source Code of all Your Modifications, and cause the modified files to carry prominent notices stating that You changed the files and the date of any change; 
+          (b) You must duplicate, to the extent it does not already exist, the notice in Exhibit A in each file of the Source Code of all Your Modifications, and cause the modified files to carry prominent notices stating that You changed the files and the date of any change;
 
-          (c) You must make Source Code of all Your Deployed Modifications publicly available under the terms of this License, including the license grants set forth in Section 3 below, for as long as you Deploy the Covered Code or twelve (12) months from the date of initial Deployment, whichever is longer. You should preferably distribute the Source Code of Your Deployed Modifications electronically (e.g. download from a web site); 
+          (c) You must make Source Code of all Your Deployed Modifications publicly available under the terms of this License, including the license grants set forth in Section 3 below, for as long as you Deploy the Covered Code or twelve (12) months from the date of initial Deployment, whichever is longer. You should preferably distribute the Source Code of Your Deployed Modifications electronically (e.g. download from a web site);
 
-          (d) if You Deploy Covered Code in object code, executable form only, You must include a prominent notice, in the code itself as well as in related documentation, stating that Source Code of the Covered Code is available under the terms of this License with information on how and where to obtain such Source Code; and 
+          (d) if You Deploy Covered Code in object code, executable form only, You must include a prominent notice, in the code itself as well as in related documentation, stating that Source Code of the Covered Code is available under the terms of this License with information on how and where to obtain such Source Code; and
 
           (e) the object code form of the Covered Code may be distributed under Your own license agreement, provided that such license agreement contains terms no less protective of Sybase and each Contributor than the terms of this License, and stating that any provisions which differ from this License are offered by You alone and not by any other party.
 
@@ -98,9 +98,9 @@ Sybase Open Watcom Public License version 1.0
 Where You are located in the province of Quebec, Canada, the following clause applies: The parties hereby confirm that they have requested that this License and all related documents be drafted in English. Les parties ont exigè que le prèsent contrat et tous les documents connexes soient rèdiès en anglais.
 
 
-EXHIBIT A. 
+EXHIBIT A.
 
 "Portions Copyright (c) 1983-2002 Sybase, Inc. All Rights Reserved.
-This file contains Original Code and/or Modifications of Original Code as defined in and that are subject to the Sybase Open Watcom Public License version 1.0 (the 'License'). You may not use this file except in compliance with the License. BY USING THIS FILE YOU AGREE TO ALL TERMS AND CONDITIONS OF THE LICENSE. A copy of the License is provided with the Original Code and Modifications, and is also available at www.sybase.com/developer/opensource. 
+This file contains Original Code and/or Modifications of Original Code as defined in and that are subject to the Sybase Open Watcom Public License version 1.0 (the 'License'). You may not use this file except in compliance with the License. BY USING THIS FILE YOU AGREE TO ALL TERMS AND CONDITIONS OF THE LICENSE. A copy of the License is provided with the Original Code and Modifications, and is also available at www.sybase.com/developer/opensource.
 
 The Original Code and all software distributed under the License are distributed on an 'AS IS' basis, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND SYBASE AND ALL CONTRIBUTORS HEREBY DISCLAIM ALL SUCH WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT. Please see the License for the specific language governing rights and limitations under the License."

@@ -1,7 +1,7 @@
 
-Copyright © 2008, 2014 Oracle and/or its affiliates. All rights reserved. 
+Copyright © 2008, 2014 Oracle and/or its affiliates. All rights reserved.
 
-Use is subject to license terms. 
+Use is subject to license terms.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 

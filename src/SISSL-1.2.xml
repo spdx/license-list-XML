@@ -10,7 +10,7 @@
          <br/>SUN INDUSTRY STANDARDS SOURCE LICENSE
     <p>Version 1.2</p>
       </titleText>
-  
+
       <list>
          <item>
             <bullet>1.0</bullet>
@@ -99,8 +99,8 @@
                or (b) ownership of more than fifty percent (50%) of the outstanding shares or beneficial
                ownership of such entity.
           </item>
-            </list> 
-         </item>    
+            </list>
+         </item>
          <item>
             <bullet>2.0</bullet>
         SOURCE CODE LICENSE
@@ -136,7 +136,7 @@
                   </list>
                </item>
             </list>
-         </item>    
+         </item>
          <item>
             <bullet>3.0</bullet>
         DISTRIBUTION OBLIGATIONS
@@ -198,7 +198,7 @@
                must make sure the requirements of this License are fulfilled for the Original Code.
           </item>
             </list>
-         </item>    
+         </item>
          <item>
             <bullet>4.0</bullet>
         INABILITY TO COMPLY DUE TO STATUTE OR REGULATION
@@ -262,26 +262,26 @@
             </list>
          </item>
       </list>
-  
+
       <optional>
          <p>EXHIBIT A - Sun Industry Standards Source License</p>
       <standardLicenseHeader>
-         <p><optional>"</optional>The contents of this file are subject to the Sun Industry Standards Source License Version 1.2 (the
-       License); You 
-      <br/>may not use this file except in compliance with the License.<optional>"</optional>
+         <p><optional spacing="none">"</optional>The contents of this file are subject to the Sun Industry Standards Source License Version 1.2 (the
+       License); You
+      <br/>may not use this file except in compliance with the License.<optional spacing="none">"</optional>
     </p>
-         <p><optional>"</optional>You may obtain a copy of the License at gridengine.sunsource.net/license.html<optional>"</optional></p>
-         <p><optional>"</optional>Software distributed under the License is distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND,
-       either express or 
-      <br/>implied. See the License for the specific language governing rights and limitations under the License.<optional>"</optional>
+         <p><optional spacing="none">"</optional>You may obtain a copy of the License at gridengine.sunsource.net/license.html<optional spacing="none">"</optional></p>
+         <p><optional spacing="none">"</optional>Software distributed under the License is distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND,
+       either express or
+      <br/>implied. See the License for the specific language governing rights and limitations under the License.<optional spacing="none">"</optional>
     </p>
-         <p><optional>"</optional>The Original Code is Grid Engine.<optional>"</optional></p>
-         <p><optional>"</optional>The Initial Developer of the Original Code is:
-      <br/>Sun Microsystems, Inc.<optional>"</optional>
+         <p><optional spacing="none">"</optional>The Original Code is Grid Engine.<optional spacing="none">"</optional></p>
+         <p><optional spacing="none">"</optional>The Initial Developer of the Original Code is:
+      <br/>Sun Microsystems, Inc.<optional spacing="none">"</optional>
     </p>
-         <p><optional>"</optional>Portions created by: Sun Microsystems, Inc. are Copyright (C) 2001 Sun Microsystems, Inc.<optional>"</optional></p>
-         <p><optional>"</optional>All Rights Reserved.<optional>"</optional></p>
-         <p><optional>"</optional>Contributor(s): <alt name="contributor" match=".+">__________________________________"</alt></p>
+         <p><optional spacing="none">"</optional>Portions created by: Sun Microsystems, Inc. are Copyright (C) 2001 Sun Microsystems, Inc.<optional spacing="none">"</optional></p>
+         <p><optional spacing="none">"</optional>All Rights Reserved.<optional spacing="none">"</optional></p>
+         <p><optional spacing="none">"</optional>Contributor(s): <alt name="contributor" match=".+">__________________________________"</alt></p>
       </standardLicenseHeader>
          <p>EXHIBIT B - Standards</p>
          <list>
@@ -307,7 +307,7 @@
           </item>
                </list>
             </item>
-         </list>  
+         </list>
       </optional>
     </text>
    </license>

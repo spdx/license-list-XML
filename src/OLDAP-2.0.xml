@@ -8,14 +8,14 @@
       <notes>This license was released 7 June 1999.</notes>
     <text>
       <titleText>
-         <p>The OpenLDAP Public License 
-        <br/>Version 2.0, 7 June 1999 
+         <p>The OpenLDAP Public License
+        <br/>Version 2.0, 7 June 1999
       </p>
       </titleText>
       <copyrightText>
          <p>Copyright 1999, The OpenLDAP Foundation, Redwood City, California, USA. All Rights Reserved.</p>
       </copyrightText>
-    
+
       <p>Redistribution and use of this software and associated documentation ("Software"), with or without
          modification, are permitted provided that the following conditions are met:</p>
       <list>

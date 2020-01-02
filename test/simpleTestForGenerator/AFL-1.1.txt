@@ -1,13 +1,13 @@
 Academic Free License
 Version 1.1
 
-The Academic Free License applies to any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following notice immediately following the copyright notice for the Original Work: 
+The Academic Free License applies to any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following notice immediately following the copyright notice for the Original Work:
 
      "Licensed under the Academic Free License version 1.1."
 
-Grant of License. Licensor hereby grants to any person obtaining a copy of the Original Work ("You") a world-wide, royalty-free, non-exclusive, perpetual, non-sublicenseable license 
+Grant of License. Licensor hereby grants to any person obtaining a copy of the Original Work ("You") a world-wide, royalty-free, non-exclusive, perpetual, non-sublicenseable license
 
-(1) to use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof, and 
+(1) to use, copy, modify, merge, publish, perform, distribute and/or sell copies of the Original Work and derivative works thereof, and
 
 (2) under patent claims owned or controlled by the Licensor that are embodied in the Original Work as furnished by the Licensor, to make, use, sell and offer for sale the Original Work and derivative works thereof, subject to the following conditions.
 
@@ -23,5 +23,5 @@ License to Source Code. The term "Source Code" means the preferred form of the O
 
 Mutual Termination for Patent Action. This License shall terminate automatically and You may no longer exercise any of the rights granted to You by this License if You file a lawsuit in any court alleging that any OSI Certified open source software that is licensed under any license containing this "Mutual Termination for Patent Action" clause infringes any patent claims that are essential to use that software.
 
-This license is Copyright (C) 2002 Lawrence E. Rosen. All rights reserved. 
+This license is Copyright (C) 2002 Lawrence E. Rosen. All rights reserved.
 Permission is hereby granted to copy and distribute this license without modification. This license may not be modified without the express written permission of its copyright owner.

@@ -8,7 +8,7 @@
       <titleText>
          <p>MOTOSOTO OPEN SOURCE LICENSE - Version 0.9.1</p>
       </titleText>
-    
+
       <p>This Motosoto Open Source License (the "License") applies to "Community Portal
          Server" and related software products as well as any updatesor maintenance releases of that
          software ("Motosoto Products") that are distributed by Motosoto.Com B.V.
@@ -16,7 +16,7 @@
          Product." Licensed Product, in its entirety, is protected by Dutch copyright law. This License
          identifies the terms under which you may use, copy, distribute or modify Licensed Product and has been
          submitted to the Open Software Initiative (OSI) for approval.</p>
-    
+
       <optional>
          <p>Preamble</p>
          <p>This Preamble is intended to describe, in plain English, the nature and scope of this License. However,
@@ -84,7 +84,7 @@
          definitions are repeated for your convenience in a Glossary at the end of the License.</p>
          <p>License Terms</p>
       </optional>
-    
+
       <list>
         <item>
             <bullet>1.</bullet>
