@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: CC0-1.0
 
-TOOL_VERSION = 2.1.20
+TOOL_VERSION = 2.1.22
 TEST_DATA = test/simpleTestForGenerator
 GIT_AUTHOR = License Publisher (maintained by Gary O'Neall) <gary@sourceauditor.com>
 LICENSE_DATA_REPO_NO_SCHEME = github.com/spdx/license-list-data.git
