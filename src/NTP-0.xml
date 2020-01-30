@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="NTP-0" name="NTP No Copyright" listVersionAdded="3.8">
+   <license isOsiApproved="false" licenseId="NTP-0" name="NTP No Attribution" listVersionAdded="3.8">
       <crossRefs>
          <crossRef>https://github.com/tytso/e2fsprogs/blob/master/lib/et/et_name.c</crossRef>
       </crossRefs>
