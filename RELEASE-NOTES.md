@@ -1,5 +1,27 @@
 # Release Notes for SPDX License List
 
+## version 3.8 - 2020-02-09
+
+New licenses/exceptions added: 9
+
+1. GPL-3.0-linking-exception
+1. GPL-3.0-linking-source-exception
+1. libselinux-1.0
+1. NTP-0
+1. OFL-1.0-RFN
+1. OFL-1.0-no-RFN
+1. OFL-1.1-RFN
+1. OFL-1.1-no-RFN
+1. PSF-2.0
+
+Updates and cleanup of markup for various licenses and other minor changes.
+
+Add machine-readable copy of "equivalent words" from matching guidelines.
+
+See all PRs for 3.8 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.8+release%22+is%3Aclosed
+
+See comparision of changes from 3.7 to 3.8: https://github.com/spdx/license-list-XML/compare/v3.7...v3.8
+
 ## version 3.7 - 2019-10-22
 
 New licenses/exceptions added: 6
