@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license licenseId="PSF-2.0" name="Python Software Foundation License 2.0">
+  <license licenseId="PSF-2.0" name="Python Software Foundation License 2.0" listVersionAdded="3.8">
     <crossRefs>
       <crossRef>https://opensource.org/licenses/Python-2.0</crossRef>
     </crossRefs>
