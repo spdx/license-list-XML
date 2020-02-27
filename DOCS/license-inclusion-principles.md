@@ -1,24 +1,28 @@
 # License Inclusion Principles
-Determining whether a candidate license should be included on the SPDX License List requires the SPDX Legal Team to engage in a case-by-case evaluation of each candidate license based on a number of factors. Some factors weigh more heavily than others and the list below attempts to set out an order of priority to that end. However, the ultimate decision will be based on the totality of the factors and SPDX's goals and objectives. 
+Determining whether a candidate license should be included on the SPDX License List requires the SPDX Legal Team to engage in a case-by-case evaluation of each candidate license based on a number of factors. The list below attempts to set out an order of priority to that end. However, the list of factors here is not necessarily exhaustive. The ultimate decision will be based on the totality of the factors and SPDX's goals and objectives. 
 
 ## Candidate License Analysis
 
+Definitive factors:
+* The submitted license must not match another license already on the SPDX License List as per the SPDX matching guidelines.
+* All OSI-approved licenses will be included on the SPDX License List.
+  * This is consistent with early collaboration between SPDX and OSI (2011) to ensure that all OSI-approved licenses were represented on the SPDX License List. Also att that time, OSI began using the SPDX license identifiers in their URLs and on the license pages.
+* Binary licenses or licenses that do not provide for the avilabilty of the source code will not be included on the SPDX License List.
+  
+Other factors (roughly in order of importance):
+* The license substantially complies with one of the following open source definitions (even if not submitted for approval, as in the case of OSI) or these organization consider the license to meet their definition:
+  * [Open Source Definition (OSD)](https://opensource.org/osd) from the Open Source Initiative (OSI)
+  * [Free Software Definition](https://www.gnu.org/philosophy/free-sw.en.html) from the Free Software Foundation (FSF)
+  * [Open Source Hardware Definition](https://www.oshwa.org/definition/) from the Open Source Hardware Association (OSHWA)
+  * [Open Definition](http://opendefinition.org/od/2.1/en/) from the Open Knowledge Foundation (for open data)
+* The license is structured to be generally usabe by anyone. It is not a "vanity" license or specific to one project, consortium or corporation. 
+* The license has actual, substantial use such that it is likely to be encountered. Substantial use may be demonstreated via use in many projects, or in one or a few highly significant projects. 
+* The license has identifiable and stable text; it is not in the midst of drafting. The license steward is committed not modifying after addition to the list and to versioning new versions in the future.
+* The license steward supports or is at least aware of and does not oppose its submission to the SPDX License List.
 
+The SPDX legal team will also consider any information considered relevant by the license steward or open source community.
 
-Factors include:
-
-* Does the license substantially comply with one of the open source definitions:
-  * Open Source Definition (OSD) from the Open Source Initiative (OSI) - https://opensource.org/osd
-  * Free Software Definition from the Free Software Foundation (FSF) - https://www.gnu.org/philosophy/free-sw.en.html
-  * Open Source Hardware Definition from the Open Source Hardware Association (OSHWA) - https://www.oshwa.org/definition/
-  * Open Definition from the Open Knowledge Foundation (for open data) - http://opendefinition.org/od/2.1/en/
-  * Note: licenses that these organizations consider to meet their definition are presumptively appropriate for inclusion on the SPDX License List. Specifically, SPDX aims to ensure all OSI-approved licenses are included on the SPDX License List and have a short identifier, which is also used on the OSI website.
-* Consider existing use of the license in wild (e.g., wide use of license or use of license in prominent projects)
-* If it is a newly drafted license, it is drafted such that it can be used by anyone (e.g., it is not company-specific or a "vanity" license)
-* Relevant input from the license steward (e.g., regarding name or if the license steward does not want the license added)
-* Relevant open source community factors
-
-Comments on license inclusion will be noted in the Github issue for the license (or reference to meeting minutes, as necessary). Some license requests may be decided solely via comments in the Github issue and some may involve discussion on the bi-weekly legal call. Thus it is recommended that requestors join the mailing list and calls to fully participate.
+Comments on license inclusion will be noted in the Github issue for the license (or reference to meeting minutes, as necessary). Some license requests may be decided solely via comments in the Github issue and some may involve discussion on the bi-weekly legal call. Thus it is imperative that requestors join the mailing list and calls to fully participate.
 
 
 ## Backstory
