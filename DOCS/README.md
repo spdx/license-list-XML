@@ -1,7 +1,6 @@
 This folder contains documentation that is critical for understanding the SPDX License List.
 
 Included here is:
-* [About the SPDX License List](what-why-how.md): the what, why and how. Start here!
 * [Explanation of the fields](license-fields.md) used on the SPDX License List
 * [Inclusion principles](license-inclusion-principles.md) for new licenses or exceptions DRAFT, see #925
 * [Matching Guidelines](matching-guidelines): the editable HTML* used on https://spdx.org/spdx-license-list/matching-guidelines which contains the guidelines to determine what is a license match
