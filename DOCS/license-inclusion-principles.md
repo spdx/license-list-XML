@@ -1,9 +1,12 @@
 # License Inclusion Principles
-
+Determining whether a candidate license should be included on the SPDX License List requires the SPDX Legal Team to engage in a case-by-case evaluation of each candidate license based on a number of factors. Some factors weigh more heavily than others and the list below attempts to set out an order of priority to that end. However, the ultimate decision will be based on the totality of the factors and SPDX's goals and objectives. 
 
 ## Candidate License Analysis
 
-Determining whether a candidate license should be included on the SPDX License List requires the SPDX Legal Team to engage in a case-by-case evaluation of each candidate license based on a number of factors. No one factor is dispositive and factors may weight differently. The ultimate decision will be based on the totality of the factors and SPDX's goals and objectives. Factors include:
+
+
+Factors include:
+
 * Does the license substantially comply with one of the open source definitions:
   * Open Source Definition (OSD) from the Open Source Initiative (OSI) - https://opensource.org/osd
   * Free Software Definition from the Free Software Foundation (FSF) - https://www.gnu.org/philosophy/free-sw.en.html
