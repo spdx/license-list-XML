@@ -7,7 +7,7 @@ Determining whether a candidate license should be included on the SPDX License L
 * The submitted license must not match another license already on the SPDX License List as per the SPDX matching guidelines.
 * All OSI-approved licenses will be included on the SPDX License List.
   * This is consistent with early collaboration between SPDX and OSI (2011) to ensure that all OSI-approved licenses were represented on the SPDX License List. Also att that time, OSI began using the SPDX license identifiers in their URLs and on the license pages.
-* Binary licenses or licenses that do not provide for the avilabilty of the source code will not be included on the SPDX License List.
+* Binary software licenses or licenses that do not provide for the avilabilty of the source code will not be included on the SPDX License List.
   
 **Other factors (roughly in order of importance):**
 * The license substantially complies with one of the following open source definitions (even if not submitted for approval, as in the case of OSI) or these organization consider the license to meet their definition:
