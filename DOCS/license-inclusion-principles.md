@@ -6,8 +6,8 @@ Determining whether a candidate license should be included on the SPDX License L
 **Definitive factors:**
 * The submitted license must not match another license already on the SPDX License List as per the SPDX matching guidelines.
 * All OSI-approved licenses will be included on the SPDX License List.
-  * This is consistent with early collaboration between SPDX and OSI (2011) to ensure that all OSI-approved licenses were represented on the SPDX License List. Also att that time, OSI began using the SPDX license identifiers in their URLs and on the license pages.
-* Binary software licenses or licenses that do not provide for the avilabilty of the source code will not be included on the SPDX License List.
+  * This is consistent with early collaboration between SPDX and OSI (2011) to ensure that all OSI-approved licenses were represented on the SPDX License List. Also at that time, OSI began using the SPDX license identifiers in their URLs and on the license pages.
+* Binary-only software licenses or licenses that do not provide for the availability of the source code will not be included on the SPDX License List.
   
 **Other factors (roughly in order of importance):**
 * The license substantially complies with one of the following open source definitions (even if not submitted for approval, as in the case of OSI) or these organization consider the license to meet their definition:
@@ -15,8 +15,8 @@ Determining whether a candidate license should be included on the SPDX License L
   * [Free Software Definition](https://www.gnu.org/philosophy/free-sw.en.html) from the Free Software Foundation (FSF)
   * [Open Source Hardware Definition](https://www.oshwa.org/definition/) from the Open Source Hardware Association (OSHWA)
   * [Open Definition](http://opendefinition.org/od/2.1/en/) from the Open Knowledge Foundation (for open data)
-* The license is structured to be generally usabe by anyone. It is not a "vanity" license or specific to one project, consortium or corporation. 
-* The license has actual, substantial use such that it is likely to be encountered. Substantial use may be demonstreated via use in many projects, or in one or a few highly significant projects. 
+* The license is structured to be generally usable by anyone. It is not a "vanity" license or specific to one project, consortium or corporation.
+* The license has actual, substantial use such that it is likely to be encountered. Substantial use may be demonstrated via use in many projects, or in one or a few highly significant projects.
 * The license has identifiable and stable text; it is not in the midst of drafting. The license steward is committed not modifying after addition to the list and to versioning new versions in the future.
 * If the license does not substantively comply with one of the above open source definitions, the license requires the availability of the source code with limited restrictions and meets other factors listed here.
 * The license steward supports or is at least aware of and does not oppose its submission to the SPDX License List.
