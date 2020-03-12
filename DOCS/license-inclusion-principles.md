@@ -7,7 +7,7 @@ Determining whether a candidate license should be included on the SPDX License L
 * The submitted license must not match another license already on the SPDX License List as per the SPDX matching guidelines.
 * All OSI-approved licenses will be included on the SPDX License List.
   * This is consistent with early collaboration between SPDX and OSI (2011) to ensure that all OSI-approved licenses were represented on the SPDX License List. Also at that time, OSI began using the SPDX license identifiers in their URLs and on the license pages.
-* Binary-only software licenses or licenses that do not provide for the availability of the source code will not be included on the SPDX License List.
+* Software licenses that apply only to executables and do not provide for the availability of the source code will not be included on the SPDX License List.
   
 **Other factors (roughly in order of importance):**
 * The license substantially complies with one of the following open source definitions (even if not submitted for approval, as in the case of OSI) or these organization consider the license to meet their definition:
@@ -25,7 +25,7 @@ The SPDX legal team will also consider any information considered relevant by th
 
 Comments on license inclusion will be noted in the Github issue for the license (or reference to meeting minutes, as necessary). Some license requests may be decided solely via comments in the Github issue and some may involve discussion on the bi-weekly legal call. Thus it is imperative that requestors join the mailing list and calls to fully participate.
 
-*last updated Feb 2020*
+*last updated Mar 2020*
 
 ## Historical Background
 The first beta version of the SPDX License List was published in August 2010 and had approximately one hundred licenses on it. The initial set of licenses was included based on informal discussion and consensus on the SPDX working group calls and email list. Although various "guidelines" were identified in regards to which licenses to include or not during this time, formal guidelines were not recorded beyond the meeting minutes. We had to start somewhere, and the obvious was the easy beginning point. Decisions or guidelines that evolved out of discussion or by implication included the following:
