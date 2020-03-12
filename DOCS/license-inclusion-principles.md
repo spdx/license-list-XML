@@ -16,7 +16,7 @@ Determining whether a candidate license should be included on the SPDX License L
   * [Open Source Hardware Definition](https://www.oshwa.org/definition/) from the Open Source Hardware Association (OSHWA)
   * [Open Definition](http://opendefinition.org/od/2.1/en/) from the Open Knowledge Foundation
 * The license is structured to be generally usable by anyone. It is not a "vanity" license or specific to one project, consortium or corporation.
-* The license has actual, substantial use such that it is likely to be encountered. Substantial use may be demonstrated via use in many projects, or in one or a few highly significant projects.
+* The license has actual, substantial use such that it is likely to be encountered. Substantial use may be demonstrated via use in many projects, or in one or a few highly significant projects. For new licenses, there is definitive plans to be used in one or a few significant projects.
 * The license has identifiable and stable text; it is not in the midst of drafting. The license steward is committed not modifying after addition to the list and to versioning new versions in the future.
 * If the license does not substantively comply with one of the above open source definitions, then the license is primarily intended for free distribution of content (including, in the case of software, its source code) with limited restrictions, and also meets other factors listed here.
 * The license steward supports or is at least aware of and does not oppose its submission to the SPDX License List.
