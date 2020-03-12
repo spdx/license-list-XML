@@ -10,16 +10,16 @@ Determining whether a candidate license should be included on the SPDX License L
 * Software licenses that apply only to executables and do not provide for the availability of the source code will not be included on the SPDX License List.
   
 **Other factors (roughly in order of importance):**
-* The license substantially complies with one of the following open source definitions (even if not submitted for approval or these organization have not considered the license):
+#. The license substantially complies with one of the following open source definitions (even if not submitted for approval or these organization have not considered the license):
   * [Open Source Definition (OSD)](https://opensource.org/osd) from the Open Source Initiative (OSI)
   * [Free Software Definition](https://www.gnu.org/philosophy/free-sw.en.html) from the Free Software Foundation (FSF)
   * [Open Source Hardware Definition](https://www.oshwa.org/definition/) from the Open Source Hardware Association (OSHWA)
   * [Open Definition](http://opendefinition.org/od/2.1/en/) from the Open Knowledge Foundation
-* The license is structured to be generally usable by anyone. It is not a "vanity" license or specific to one project, consortium or corporation.
-* The license has actual, substantial use such that it is likely to be encountered. Substantial use may be demonstrated via use in many projects, or in one or a few highly significant projects. For new licenses, there is definitive plans to be used in one or a few significant projects.
-* The license has identifiable and stable text; it is not in the midst of drafting. The license steward is committed not modifying after addition to the list and to versioning new versions in the future.
-* If the license does not substantively comply with one of the above open source definitions, then the license is primarily intended for free distribution of content (including, in the case of software, its source code) with limited restrictions, and also meets other factors listed here.
-* The license steward supports or is at least aware of and does not oppose its submission to the SPDX License List.
+#. The license is structured to be generally usable by anyone. It is not a "vanity" license or specific to one project, consortium or corporation.
+#. The license has actual, substantial use such that it is likely to be encountered. Substantial use may be demonstrated via use in many projects, or in one or a few highly significant projects. For new licenses, there is definitive plans to be used in one or a few significant projects.
+#. The license has identifiable and stable text; it is not in the midst of drafting. The license steward is committed not modifying after addition to the list and to versioning new versions in the future.
+#. If the license does not substantively comply with one of the above open source definitions, then the license is primarily intended for free distribution of content (including, in the case of software, its source code) with limited restrictions, and also meets other factors listed here.
+#. The license steward supports or is at least aware of and does not oppose its submission to the SPDX License List.
 
 The SPDX legal team will also consider any information considered relevant by the license steward or open source community.
 
