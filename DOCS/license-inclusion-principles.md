@@ -23,7 +23,7 @@ Determining whether a candidate license should be included on the SPDX License L
 4. If the license does not substantively comply with one of the above open source definitions, then the license is primarily intended for free distribution of content (including, in the case of software, its source code) with limited restrictions, and meets other factors listed here.
 5. The license steward supports or is at least aware of and does not oppose its submission to the SPDX License List.
 
-The SPDX legal team will also consider any other information considered relevant by the license steward or open source community.
+The SPDX legal team will also consider any additional information considered relevant by the license steward or open source community.
 
 Comments on license inclusion will be noted in the Github issue for the license (or reference to meeting minutes, as necessary). Some license requests may be decided solely via comments in the Github issue and some may involve discussion on the bi-weekly legal call. Thus it is imperative that requestors join the mailing list and calls to fully participate.
 
