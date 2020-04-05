@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license isOsiApproved="false" licenseId="Parity-7.0.0" name="The Parity Public License 7.0.0" listVersionAdded="3.6">
+  <license isOsiApproved="false" licenseId="Parity-7.0.0" name="The Parity Public License 7.0.0" listVersionAdded="3.9">
     <crossRefs>
       <crossRef>https://paritylicense.com/versions/7.0.0.html</crossRef>
     </crossRefs>
