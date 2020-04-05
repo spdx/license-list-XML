@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="BSD-2-Clause-NetBSD"
-            name="BSD 2-Clause NetBSD License">
+            name="BSD 2-Clause NetBSD License"
+            isDeprecated="true" deprecatedVersion="3.9">
+      <obsoletedBys>
+        <obsoletedBy>BSD-2-Clause</obsoletedBy>
+      </obsoletedBys>
       <crossRefs>
          <crossRef>http://www.netbsd.org/about/redistribution.html#default</crossRef>
       </crossRefs>
-      <notes>NetBSD adopted this 2-clause license in 2008 for code contributed to NetBSD Foundation.</notes>
+      <notes>
+        NetBSD adopted this 2-clause license in 2008 for code contributed to NetBSD Foundation.
+        It is being deprecated as a separate license because the only difference from BSD-2-Clause
+        is the line describing that the code is derived from software contributed to NetBSD,
+        which is not viewed as being a substantive part of the license text.
+      </notes>
     <text>
       <copyrightText>
          <p>Copyright (c) 2008 The NetBSD Foundation, Inc. All rights reserved.</p>
       </copyrightText>
 
       <p>This code is derived from software contributed to The NetBSD Foundation by
-        <alt match=".*" name="contributors"/>
+        <alt match=".*" name="contributors">[contributor name]</alt>.
       </p>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
