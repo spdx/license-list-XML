@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license isOsiApproved="false" licenseId="Polyform-Strict-1.0.0" name="Polyform Strict License 1.0.0" listVersionAdded="3.7">
+  <license isOsiApproved="false" licenseId="Polyform-Strict-1.0.0" name="Polyform Strict License 1.0.0" listVersionAdded="3.9">
     <crossRefs>
       <crossRef>https://polyformproject.org/licenses/strict/1.0.0</crossRef>
     </crossRefs>

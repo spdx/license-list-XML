@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license isOsiApproved="false" licenseId="Polyform-Small-Business-1.0.0" name="Polyform Small Business License 1.0.0" listVersionAdded="3.7">
+  <license isOsiApproved="false" licenseId="Polyform-Small-Business-1.0.0" name="Polyform Small Business License 1.0.0" listVersionAdded="3.9">
     <crossRefs>
       <crossRef>https://polyformproject.org/licenses/small-business/1.0.0</crossRef>
     </crossRefs>

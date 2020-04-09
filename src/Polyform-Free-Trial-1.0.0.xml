@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license isOsiApproved="false" licenseId="Polyform-Free-Trial-1.0.0" name="Polyform Free Trial License 1.0.0" listVersionAdded="3.7">
+  <license isOsiApproved="false" licenseId="Polyform-Free-Trial-1.0.0" name="Polyform Free Trial License 1.0.0" listVersionAdded="3.9">
     <crossRefs>
       <crossRef>https://polyformproject.org/licenses/free-trial/1.0.0</crossRef>
     </crossRefs>
