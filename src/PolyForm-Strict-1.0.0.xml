@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license isOsiApproved="false" licenseId="Polyform-Noncommercial-1.0.0" name="Polyform Noncommercial License 1.0.0" listVersionAdded="3.9">
+  <license isOsiApproved="false" licenseId="PolyForm-Strict-1.0.0" name="PolyForm Strict License 1.0.0" listVersionAdded="3.9">
     <crossRefs>
-      <crossRef>https://polyformproject.org/licenses/noncommercial/1.0.0</crossRef>
+      <crossRef>https://polyformproject.org/licenses/strict/1.0.0</crossRef>
     </crossRefs>
     <notes>This license was released on July 9, 2019.</notes>
     <text>
       <titleText>
-          <p># Polyform Noncommercial License 1.0.0</p>
+          <p># PolyForm Strict License 1.0.0</p>
       </titleText>
-      <p>&lt;https://polyformproject.org/licenses/noncommercial/1.0.0&gt;</p>
+      <p>&lt;https://polyformproject.org/licenses/strict/1.0.0&gt;</p>
       <p>## Acceptance</p>
       <p>In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.</p>
       <p>## Copyright License</p>
-      <p>The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose. However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).</p>
-      <p>## Distribution License</p>
-      <p>The licensor grants you an additional copyright license to distribute copies of the software. Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license).</p>
-      <p>## Notices</p>
-      <p>You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software. For example:</p>
-      <p>&gt; Required Notice: Copyright Yoyodyne, Inc. (http://example.com)</p>
-      <p>## Changes and New Works License</p>
-      <p>The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.</p>
+      <p>The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose, other than distributing the software or making changes or new works based on the software.</p>
       <p>## Patent License</p>
       <p>The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.</p>
       <p>## Noncommercial Purposes</p>
