@@ -10,22 +10,26 @@
       <titleText>
         <p><optional># </optional>The Cryptographic Autonomy License, v. 1.0</p>
       </titleText>
-      <optional>
         <p>
-<optional>*</optional>This Cryptographic Autonomy License (the "License") 
+<optional>*</optional><optional>This Cryptographic Autonomy License (the "License") 
 applies to any Work whose owner has marked it with any of the following 
-notices, or a similar demonstration of intent:<optional>* </optional><br/>
+notices, or a similar demonstration of intent:</optional><optional>* </optional><br/>
 <br />
+<optional>
 SPDX-License-Identifier: CAL-1.0 <br/>
 Licensed under the Cryptographic Autonomy License version 1.0 <br/>
+</optional>
 <br/>
-<optional>*</optional>or<optional>* </optional><br/>
+<optional>*</optional><optional>or</optional><optional>* </optional><br/>
 <br/>
+<optional>
 SPDX-License-Identifier: CAL-1.0-Combined-Work-Exception <br/>
-Licensed under the Cryptographic Autonomy License version 1.0, with Combined Work Exception 
+Licensed under the Cryptographic Autonomy License version 1.0, with Combined Work Exception
+</optional>
         </p>
+<optional>
 ______________________________________________________________________<br/>
-      </optional>
+</optional>
       <list>
         <item>
 <optional>## </optional><bullet>1. </bullet>Purpose
