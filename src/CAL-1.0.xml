@@ -11,14 +11,14 @@
         <p><optional># </optional>The Cryptographic Autonomy License, v. 1.0</p>
       </titleText>
         <p>
-<optional>*</optional>This Cryptographic Autonomy License (the "License") 
+<alt match="This" name="plaintxt_this">*This</alt>This Cryptographic Autonomy License (the "License") 
 applies to any Work whose owner has marked it with any of the following 
 notices, or a similar demonstration of intent:<optional>* </optional><br/>
 <br />
 SPDX-License-Identifier: CAL-1.0 <br/>
 Licensed under the Cryptographic Autonomy License version 1.0 <br/>
 <br/>
-<optional>*</optional>or<optional>*</optional><br/>
+<alt match="or" name="plaintxt_or">*or*</alt><br/>
 <br/>
 
 SPDX-License-Identifier: CAL-1.0-Combined-Work-Exception <br/>
