@@ -11,7 +11,7 @@
         <p><optional># </optional>The Cryptographic Autonomy License, v. 1.0</p>
       </titleText>
         <p>
-<alt match="(\*This|This)" name="this">*This</alt>This Cryptographic Autonomy License (the "License") 
+<alt match="(\*This|This)" name="this">*This</alt> Cryptographic Autonomy License (the "License") 
 applies to any Work whose owner has marked it with any of the following 
 notices, or a similar demonstration of intent:<optional>* </optional><br/>
 <br />
