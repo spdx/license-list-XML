@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license isOsiApproved="true" licenseId="CAL-1.0" name="Cryptographic Autonomy License 1.0">
+  <license isOsiApproved="true" licenseId="CAL-1.0-Combined-Work-Exception" name="Cryptographic Autonomy License 1.0" listVersionAdded="3.9">
     <crossRefs>
       <crossRef>http://cryptographicautonomylicense.com/license-text.html</crossRef>
       <crossRef>https://opensource.org/licenses/CAL-1.0</crossRef>
