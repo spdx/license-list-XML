@@ -3,8 +3,9 @@
   <license isOsiApproved="false" licenseId="PolyForm-Free-Trial-1.0.0" name="PolyForm Free Trial License 1.0.0" listVersionAdded="3.9">
     <crossRefs>
       <crossRef>https://polyformproject.org/licenses/free-trial/1.0.0</crossRef>
+      <crossRef>https://polyformproject.org/wp-content/uploads/2019/07/Polyform-Free-Trial-1.0.0.txt</crossRef>
     </crossRefs>
-    <notes>This license was released on July 9, 2019.</notes>
+    <notes>This license was released on July 9, 2019. This license only permits a free, time-limited trial.</notes>
     <text>
       <titleText>
           <p># PolyForm Free Trial License 1.0.0</p>
