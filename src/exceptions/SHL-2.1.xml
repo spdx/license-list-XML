@@ -30,13 +30,17 @@
                     <bullet>2.</bullet>Grant of License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license under the Rights to reproduce, prepare Derivative Works of, make, adapt, repair, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form and do anything in relation to the Work as if the Rights did not exist.
                 </item>
             </list>
+            <optional>
             <p>APPENDIX</p>
+               <standardLicenseHeader>
             <p>Copyright [yyyy] [name of copyright owner]</p>
             <p>Licensed under the Solderpad Hardware License v 2.1 (the "License"); you may not use this file except in compliance with the License, or, at your option, the Apache License version 2.0.</p>
             <br>You may obtain a copy of the License at</br>
             <br>https://solderpad.org/licenses/SHL-2.1/</br>
             <p>Unless required by applicable law or agreed to in writing, any work distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</p>
             <p>See the License for the specific language governing permissions and limitations under the License.</p>
-        </text>
+                   </standardLicenseHeader>
+            </optional>
+                </text>
     </exception>
 </SPDXLicenseCollection>
