@@ -3,9 +3,9 @@
    <license isOsiApproved="false" licenseId="bzip2-1.0.6"
             name="bzip2 and libbzip2 License v1.0.6">
       <crossRefs>
-         <crossRef>https://github.com/asimonov-im/bzip2/blob/master/LICENSE</crossRef>
+         <crossRef>https://sourceware.org/git/?p=bzip2.git;a=blob;f=LICENSE;hb=bzip2-1.0.6</crossRef>
+          <crossRef>http://bzip.org/1.0.5/bzip2-manual-1.0.5.html</crossRef>
       </crossRefs>
-      <notes>The bzip2.org website only shows version 1.0.5 of the license.</notes>
     <text>
       <copyrightText>
          <p>This program, "bzip2", the associated library "libbzip2", and all documentation, are
