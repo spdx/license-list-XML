@@ -30,7 +30,7 @@ If you are using Information from several Information Providers and listing mult
 
 These are important conditions of this licence and if you fail to comply with them or use the Information other than for Non-Commercial purposes the rights granted to you under this licence, or any similar licence granted by the Licensor, will end automatically.
 
-￼ Exemptions
+Exemptions
 
 This licence does not cover the use of:
 	•	personal data in the Information;
@@ -54,14 +54,14 @@ This licence is governed by the laws of the jurisdiction in which the Informatio
 Definitions
 In this licence the terms below have the following meanings:
 
-‘Information’ means information protected by copyright or by database right (for example, literary and artistic works, content, data and source code) offered for use under the terms of this licence.
+‘Information’ means information protected by copyright or by database right (for example, literary and artistic works, content, data and source code) offered for use under the terms of this licence.
 
-‘Information Provider’ means the person or organisation providing the Information under this licence.
+‘Information Provider’ means the person or organisation providing the Information under this licence.
 
-‘Licensor’ means any Information Provider which has the authority to offer Information under the terms of this licence or the Keeper of the Public Records, who has the authority to offer Information subject to Crown copyright and Crown database rights and Information subject to copyright and database right that has been assigned to or acquired by the Crown, under the terms of this licence.
+‘Licensor’ means any Information Provider which has the authority to offer Information under the terms of this licence or the Keeper of the Public Records, who has the authority to offer Information subject to Crown copyright and Crown database rights and Information subject to copyright and database right that has been assigned to or acquired by the Crown, under the terms of this licence.
 
-‘Non-Commercial purposes’ means not intended for or directed toward commercial advantage or private monetary compensation. For the purposes of this licence, ‘private monetary compensation’ does not include the exchange of the Information for other copyrighted works by means of digital file-sharing or otherwise provided there is no payment of any monetary compensation in connection with the exchange of the Information.
+‘Non-Commercial purposes’ means not intended for or directed toward commercial advantage or private monetary compensation. For the purposes of this licence, ‘private monetary compensation’ does not include the exchange of the Information for other copyrighted works by means of digital file-sharing or otherwise provided there is no payment of any monetary compensation in connection with the exchange of the Information.
 
-‘Use’ as a verb, means doing any act which is restricted by copyright or database right, whether in the original medium or in any other medium, and includes without limitation distributing, copying, adapting, modifying as may be technically necessary to use it in a different mode or format.
+‘Use’ as a verb, means doing any act which is restricted by copyright or database right, whether in the original medium or in any other medium, and includes without limitation distributing, copying, adapting, modifying as may be technically necessary to use it in a different mode or format.
 
-‘You’ means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence.
+‘You’ means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence.
