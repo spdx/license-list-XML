@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license isOsiApproved="true" licenseId="CAL-1.0-Combined-Work-Exception" name="Cryptographic Autonomy License 1.0" listVersionAdded="3.9">
+  <license isOsiApproved="true" licenseId="CAL-1.0-Combined-Work-Exception" name="Cryptographic Autonomy License 1.0 (Combined Work Exception)" listVersionAdded="3.9">
     <crossRefs>
       <crossRef>http://cryptographicautonomylicense.com/license-text.html</crossRef>
       <crossRef>https://opensource.org/licenses/CAL-1.0</crossRef>
     </crossRefs>
-    <notes>The first draft of this license was released February 2019, and the fourth revision was approved by the OSI February 2020.</notes>
+    <notes>The first draft of this license was released February 2019, and the fourth revision was approved by the OSI February 2020. This license list entry is for use when the work is subject to the "Combined Work Exception" as described in section 4.5.</notes>
     <text>
       <titleText>
         <p><optional># </optional>The Cryptographic Autonomy License, v. 1.0</p>
