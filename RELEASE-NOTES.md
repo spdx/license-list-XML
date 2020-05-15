@@ -1,5 +1,43 @@
 # Release Notes for SPDX License List
 
+## version 3.9 - 2020-05-15
+
+New licenses/exceptions added: 16
+
+1. CAL-1.0
+1. CAL-1.0-Combined-Work-Exception
+1. CERN-OHL-P-2.0
+1. CERN-OHL-S-2.0
+1. CERN-OHL-W-2.0
+1. Hippocratic-2.1
+1. LGPL-3.0-linking-exception
+1. MulanPSL-2.0
+1. NCGL-UK-2.0
+1. O-UDA-1.0
+1. OGC-1.0
+1. Parity-7.0.0
+1. PolyForm-Noncommercial-1.0.0
+1. PolyForm-Small-Business-1.0.0
+1. SHL-2.0
+1. SHL-2.1
+
+Deprecate BSD-2-Clause-NetBSD as substantively identical to BSD-2-Clause.
+
+Update and expand license inclusion principles.
+
+Update matching guidelines to v2.1.
+
+Add and update various documentation and legal team meeting details.
+
+Add helper script to enable renaming licenses for use in preparing XML and test
+files.
+
+Updates and cleanup of markup for various licenses and other minor changes.
+
+See all PRs for 3.9 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.9+release%22+is%3Aclosed
+
+See comparision of changes from 3.8 to 3.9: https://github.com/spdx/license-list-XML/compare/v3.8...v3.9
+
 ## version 3.8 - 2020-02-09
 
 New licenses/exceptions added: 9
