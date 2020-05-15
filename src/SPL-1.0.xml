@@ -4,6 +4,10 @@
       <crossRefs>
          <crossRef>https://opensource.org/licenses/SPL-1.0</crossRef>
       </crossRefs>
+      <notes>
+         This license is essentially a rebranded version of MPL-1.1, but with some important changes.
+         In §1.3 it expands the definition of "Covered Code" to also include documentation.
+      </notes>
     <text>
       <titleText>
          <p>SUN PUBLIC LICENSE Version 1.0</p>
