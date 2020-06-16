@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license licenseId="GFDL-1.1-only" isOsiApproved="false"
-  name="GNU Free Documentation License v1.1 only">
+  <license licenseId="GFDL-1.1-only-invariants" isOsiApproved="false"
+  name="GNU Free Documentation License v1.1 only - invariants">
     <crossRefs>
       <crossRef>https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt</crossRef>
     </crossRefs>
@@ -16,7 +16,7 @@
       in the section entitled "GNU Free Documentation License".
     </standardLicenseHeader>
     <notes>
-      This license was released March 2000. The identifier GFDL-1.1-only can be used to indicate that this license applies, without asserting whether or not any Invariant Sections, Front-Cover Texts or Back-Cover Texts are present. See GFDL-1.1-only-invariants and GFDL-1.1-only-no-invariants for alternative identifiers that can be used to express explicitly that these sections or cover texts are present or are not present, respectively.
+      This license was released March 2000. The identifier GFDL-1.1-only-invariants should only be used when there are Invariant Sections, Front-Cover Texts or Back-Cover Texts. See GFDL-1.1-only and GFDL-1.1-only-no-invariants for alternatives.
     </notes>
     <text>
     <titleText>
