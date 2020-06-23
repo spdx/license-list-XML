@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license licenseId="GFDL-1.1-or-later-no-invariants" isOsiApproved="false"
-  name="GNU Free Documentation License v1.1 or later - no invariants">
+  <license licenseId="GFDL-1.1-no-invariants-only" isOsiApproved="false"
+  name="GNU Free Documentation License v1.1 only - no invariants">
     <crossRefs>
       <crossRef>https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt</crossRef>
     </crossRefs>
     <standardLicenseHeader>
-      <p>
-        Copyright (c) <alt name="copyright" match=".+">YEAR YOUR NAME</alt>.
-        Permission is granted to copy,
-        distribute and/or modify this document under the terms of the
-        GNU Free Documentation License, Version 1.1 or any later version
-        published by the Free Software Foundation; with no Invariant
-        Sections, with no Front-Cover Texts, and with no Back-Cover Texts.
-        A copy of the license is included in the section entitled "GNU Free
-        Documentation License".
-      </p>
+      Copyright (c) <alt name="copyright" match=".+">YEAR YOUR NAME</alt>
+      Permission is granted to copy, distribute and/or modify this
+      document under the terms of the GNU Free Documentation License,
+      Version 1.1; with no Invariant Sections, with no Front-Cover Texts,
+      and with no Back-Cover Texts. A copy of the license is included
+      in the section entitled "GNU Free Documentation License".
     </standardLicenseHeader>
     <notes>
-      This license was released March 2000. The identifier GFDL-1.1-or-later-no-invariants should only be used when there are no Invariant Sections, Front-Cover Texts or Back-Cover Texts. See GFDL-1.1-or-later and GFDL-1.1-or-later-invariants for alternatives.
+      This license was released March 2000. The identifier GFDL-1.1-only-no-invariants should only be used when there are no Invariant Sections, Front-Cover Texts or Back-Cover Texts. See GFDL-1.1-only and GFDL-1.1-only-invariants for alternatives.
     </notes>
     <text>
     <titleText>
