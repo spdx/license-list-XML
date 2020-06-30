@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="EPICS" name="EPICS Open License">
+   <license isOsiApproved="false" licenseId="EPICS" name="EPICS Open License" listVersionAdded="3.10">
       <crossRefs>
          <crossRef>https://epics.anl.gov/license/open.php</crossRef>
       </crossRefs>
