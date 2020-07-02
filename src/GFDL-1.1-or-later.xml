@@ -5,8 +5,18 @@
     <crossRefs>
       <crossRef>https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt</crossRef>
     </crossRefs>
+    <standardLicenseHeader>
+      Copyright (c) <alt name="copyright" match=".+">YEAR YOUR NAME</alt>. Permission is granted to copy,
+      distribute and/or modify this document under the terms of the
+      GNU Free Documentation License, Version 1.1 or any later version
+      published by the Free Software Foundation; with <alt name="invariantSections" match="the Invariant Sections
+      being .+|no Invariant Sections">the Invariant Sections
+      being LIST THEIR TITLES</alt>, with <alt name="frontCoverTexts" match="the Front-Cover Texts being .+|no Front-Cover Texts">the Front-Cover Texts being LIST</alt>,
+      and with <alt name="backCoverTexts" match="the Back-Cover Texts being .+|no Back-Cover Texts">the Back-Cover Texts being LIST</alt>. A copy of the license is
+      included in the section entitled "GNU Free Documentation License".
+    </standardLicenseHeader>
     <notes>
-      This license was released March 2000
+      This license was released March 2000. The identifier GFDL-1.1-or-later can be used to indicate that this license applies, without asserting whether or not any Invariant Sections, Front-Cover Texts or Back-Cover Texts are present. See GFDL-1.1-or-later-invariants and GFDL-1.1-or-later-no-invariants for alternative identifiers that can be used to express explicitly that these sections or cover texts are present or are not present, respectively.
     </notes>
     <text>
     <titleText>
@@ -446,18 +456,15 @@
         a copy of the License in the document and put the following
         copyright and license notices just after the title page:
       </p>
-      <standardLicenseHeader>
       <p>
         Copyright (c) YEAR YOUR NAME. Permission is granted to copy,
         distribute and/or modify this document under the terms of the
         GNU Free Documentation License, Version 1.1 or any later version
-        published by the Free Software Foundation; with <alt name="invariantSections" match="the Invariant Sections
-        being .+|no Invariant Sections">the Invariant Sections
-        being LIST THEIR TITLES</alt>, with <alt name="frontCoverTexts" match="the Front-Cover Texts being .+|no Front-Cover Texts">the Front-Cover Texts being LIST</alt>,
-        and with <alt name="backCoverTexts" match="the Back-Cover Texts being .+|no Back-Cover Texts">the Back-Cover Texts being LIST</alt>. A copy of the license is
+        published by the Free Software Foundation; with the Invariant Sections
+        being LIST THEIR TITLES, with the Front-Cover Texts being LIST,
+        and with the Back-Cover Texts being LIST. A copy of the license is
         included in the section entitled "GNU Free Documentation License".
       </p>
-      </standardLicenseHeader>
       <p>
         If you have no Invariant Sections, write "with no Invariant
         Sections" instead of saying which ones are invariant. If you have
