@@ -6,7 +6,7 @@ This document provides guidance and checklists for SPDX legal team members who a
 
 The instructions here assume the requestor has already submitted the new license/exception request via the [SPDX online tools](http://13.57.134.254/app/).
 
-New license requests are to be assigned to an SPDX legal team member and that person is responsible for following the request through to its final determination.  Make sure to add yourself as the Assignee in the license request issue here on GitHub, add the label `new license/exception request`, and add the appropriate release milestone to the issue.
+New license requests are to be assigned to an SPDX legal team member and that person is responsible for following the request through to its final determination.  Make sure to add yourself as the Assignee in the license request issue here on GitHub, add the [label](https://github.com/spdx/license-list-XML/labels) `new license/exception request`, and add the appropriate release milestone to the issue.
 
 ## Things to check for initial request:
 
@@ -24,15 +24,15 @@ Ask the submitter for any additional info needed, preferably via the Github issu
     2. Is the short identifier unique? Does this license have a short identifier that is used elsewhere already (e.g., Fedora)?
     3. Does this license need markup for matching (omitable or replaceable text)?
     4. Record all notes in Issue
-5. If the legal team determines that more information is needed, the information should be requested in the Issue, tagging the requester and/or steward(s) and add the label `new license/exception: waiting for submitter`. If a response is not received within a reasonable amount of time, a follow-up request should be sent. If a response is not received to either request the next release (or two, if close to a release at first correspondance), the Issue will be closed.
+5. If the legal team determines that more information is needed, the information should be requested in the Issue, tagging the requester and/or steward(s) and add the [label](https://github.com/spdx/license-list-XML/labels) `new license/exception: waiting for submitter`. If a response is not received within a reasonable amount of time, a follow-up request should be sent. If a response is not received to either request the next release (or two, if close to a release at first correspondance), the Issue will be closed.
 
 ## If license not accepted:
 
-6. If the license/exception has not been accepted (for whatever reason, including it is already represented on the license list), make a note in the issue as to why, add the label to `new license/exception: Not accepted`, inform the submitter, update the issue as needed, and close.
+6. If the license/exception has not been accepted (for whatever reason, including it is already represented on the license list), make a note in the issue as to why, add the [label](https://github.com/spdx/license-list-XML/labels) to `new license/exception: Not accepted`, inform the submitter, update the issue as needed, and close.
 
 ## If license is accepted:
 
-If the license/exception is accepted, make a note in the issue, add the label `new license/exception: Accepted`. 
+If the license/exception is accepted, make a note in the issue, add the [label](https://github.com/spdx/license-list-XML/labels) `new license/exception: Accepted`. 
 
 The final step is to create the license XML and test .txt files.
 
@@ -59,7 +59,12 @@ That's it! The test .txt file is now ready to go and you can move on to the XML 
 ### Add the XML file
 
 1. The license XML files are in the `src` directory. If the license you're working on does not yet have an XML file there, find the XML file for a similar license then copy it to be the basis of the new license XML file. For instance, for the _K-9 Robotic Dog Hardware License_ (henceforth referred to by its licenseId), you could copy the _CERN Open Hardware License v1.1_ file, `CERN-OHL-1.1.xml` to `K-9RDHL.xml`, then go from there.
-1. FOO: next steps
+1. Set the attributes in the `license` tag:
+    * licenseId: Set to the licenseId for that license. This must match the licenseId used for to name both the XML and test .txt files.
+    * name: The canonical name of the license. This must match the name of the license in the test .txt file. The value set in this attribute is what will appear in the [SPDX License List](https://spdx.org/licenses/).
+    * isOsiApproved: Set to `true` if the license has been [approved by the Open Source Initiative](https://opensource.org/licenses) and `false` else.
+    * listVersionAdded: Set to the [SPDX License List Version](https://github.com/spdx/license-list-XML/milestones) in which this license is being added. This version is set in the Milestone assigned to the issue.
+    * If you copied the XML file of another license, remove any attributes used for that license but not needed for this new one. 
 
 ### Send the pull request for the XML and .txt files
 
