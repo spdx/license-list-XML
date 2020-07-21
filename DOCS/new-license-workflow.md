@@ -110,7 +110,7 @@ That's it! The test .txt file is now ready to go and you can move on to the XML 
     </item>
 </list>
 ```
-1. Save the file and [commit it](https://docs.github.com/en/github/committing-changes-to-your-project) to your clone of the repository.
+5. Save the file and [commit it](https://docs.github.com/en/github/committing-changes-to-your-project) to your clone of the repository.
 
 Voila! You're done! Yes, there may be more advanced cases where more work than this is required. If you don't add licenses often, it's unlikely the core team will have assigned you something like that, but if they did or you have any questions at all, please ask! They love to help!
 
