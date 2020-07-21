@@ -68,7 +68,57 @@ That's it! The test .txt file is now ready to go and you can move on to the XML 
 1. Set the value of the `crossRef` tag to the URL for the canonical version of the license. 
     * This should be the same as the URL used for the text added to the test .txt file above.
     * If the XML file you copied includes any additional `crossRef` tags, make sure you remove them.
-1. 
+1. Add the text of the license in the `text` tag. There are several special things to pay attention to here:
+    * The text must be the same text used in the test .txt file above. This is why it makes sense to do the test .txt file before the XML: it makes it easy to cut/paste the correct text into the XML file.
+    * The title of the license should be wrapped in `<titleText></titleText>` tags. The value here should match the value in the `name` attribute in the `license` tag above.
+    * Every paragraph should be wrapped in `<p></p>` tags, including the text in the `<titleText>` tag. Text in list tags (see below) do not need to be wrapped in `<p>` tags.
+    * Lists—either ordered (numbered/lettered) or unordered (bullets)—must be formatted with `list`, `item`, and `bullet` tags. Lists can be nested. It's much easier to show this than explain it, so here's a basic example (see also [CC-BY-NC-ND-3.0-IGO](../src/CC-BY-NC-ND-3.0-IGO.xml) for a real world example):
+```
+<list>
+    <item>
+        <bullet>1.</bullet> text 1
+    </item>
+    <item>
+        <bullet>2.</bullet> text 2
+        <list>
+            <item>
+                <bullet>*</bullet> text *
+            </item>
+            <item>
+                <bullet>-</bullet> text -
+            </item>
+        </list>
+    </item>
+    <item>
+        <bullet>3.</bullet> text 3
+        <list>
+            <item>
+                <bullet>a.</bullet> text a
+            </item>
+            <item>
+                <bullet>b.</bullet> text b
+                <list>
+                    <item>
+                        <bullet>i.</bullet> text i
+                    </item>
+                    <item>
+                        <bullet>ii.</bullet> text ii
+                    </item>
+                </list>
+            </item>
+        </list>
+    </item>
+</list>
+```
+
+Voila! You're done! Yes, there may be more advanced cases where more work than this is required. If you don't add licenses often, it's unlikely the core team will have assigned you something like that, but if they did or you have any questions at all, please ask! They love to help!
+
+### Test locally
+
+1. FOO: add this
+1. browser
+1. run all tests
+1. run one test
 
 ### Send the pull request for the XML and .txt files
 
