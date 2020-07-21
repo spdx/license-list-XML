@@ -65,6 +65,10 @@ That's it! The test .txt file is now ready to go and you can move on to the XML 
     * isOsiApproved: Set to `true` if the license has been [approved by the Open Source Initiative](https://opensource.org/licenses) and `false` else.
     * listVersionAdded: Set to the [SPDX License List Version](https://github.com/spdx/license-list-XML/milestones) in which this license is being added. This version is set in the Milestone assigned to the issue.
     * If you copied the XML file of another license, remove any attributes used for that license but not needed for this new one. 
+1. Set the value of the `crossRef` tag to the URL for the canonical version of the license. 
+    * This should be the same as the URL used for the text added to the test .txt file above.
+    * If the XML file you copied includes any additional `crossRef` tags, make sure you remove them.
+1. 
 
 ### Send the pull request for the XML and .txt files
 
