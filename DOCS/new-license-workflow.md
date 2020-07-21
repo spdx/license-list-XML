@@ -44,7 +44,7 @@ The following steps assume you're working from a clone of the repo, but we have 
 
 ### Add the test .txt file
 
-1. The test files are in the `test/simpleTestForGenerator/` directory.
+1. The test files are in the `test/simpleTestForGenerator/` directory of your clone of the license-list-XML repo.
 1. Locate the canonical text for the license. There should be a link to this in the issue, but if there isn't please ask for it from the license steward. Don't proceed until you have confirmed that you have the canonical text.
 1. Copy the text of the license and add it to an appropriately named .txt file (see above for naming guidelines). This must be plaintext and ASCII/Unicode with no special characters such as smart quotes. Do try to keep formatting elements such as section indentation. For example, here's one of many indented sections in the [CC-BY-NC-ND-3.0-IGO.txt file](../test/simpleTestForGenerator/CC-BY-NC-ND-3.0-IGO.txt):
 ```
