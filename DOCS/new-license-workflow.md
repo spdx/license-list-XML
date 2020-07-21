@@ -45,14 +45,25 @@ The following steps assume you're working from a clone of the repo, but we have 
 ### Add the test .txt file
 
 1. The test files are in the `test/simpleTestForGenerator/` directory.
+1. Locate the canonical text for the license. There should be a link to this in the issue, but if there isn't please ask for it from the license steward. Don't proceed until you have confirmed that you have the canonical text.
+1. Copy the text of the license and add it to an appropriately named .txt file (see above for naming guidelines). This must be plaintext and ASCII/Unicode with no special characters such as smart quotes. Do try to keep formatting elements such as section indentation. For example, here's one of many indented sections in the [CC-BY-NC-ND-3.0-IGO.txt file](../test/simpleTestForGenerator/CC-BY-NC-ND-3.0-IGO.txt):
+```
+1. Definitions
 
-1. FOO: next steps
+    a. “IGO” means, solely and exclusively for purposes of this License, an organization established by a treaty or other instrument governed by international law and possessing its own international legal personality. Other organizations established to carry out activities across national borders and that accordingly enjoy immunity from legal process are also IGOs for the sole and exclusive purposes of this License. IGOs may include as members, in addition to states, other entities.
+```
+1. Save the file and [commit it](https://docs.github.com/en/github/committing-changes-to-your-project) to your clone of the repository.
+
+That's it! The test .txt file is now ready to go and you can move on to the XML file. It's slightly trickier than the test .txt file, but not much (at least not in the basic case that we cover here).
 
 ### Add the XML file
 
 1. The license XML files are in the `src` directory. If the license you're working on does not yet have an XML file there, find the XML file for a similar license then copy it to be the basis of the new license XML file. For instance, for the _K-9 Robotic Dog Hardware License_ (henceforth referred to by its licenseId), you could copy the _CERN Open Hardware License v1.1_ file, `CERN-OHL-1.1.xml` to `K-9RDHL.xml`, then go from there.
-
 1. FOO: next steps
+
+### Send the pull request for the XML and .txt files
+
+1. FOO: add this
 
 ### Editing the XML file using the SPDX Online tools
 
