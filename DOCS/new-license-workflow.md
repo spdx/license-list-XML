@@ -110,21 +110,47 @@ That's it! The test .txt file is now ready to go and you can move on to the XML 
     </item>
 </list>
 ```
+1. Save the file and [commit it](https://docs.github.com/en/github/committing-changes-to-your-project) to your clone of the repository.
 
 Voila! You're done! Yes, there may be more advanced cases where more work than this is required. If you don't add licenses often, it's unlikely the core team will have assigned you something like that, but if they did or you have any questions at all, please ask! They love to help!
 
 ### Test locally
 
-1. FOO: add this
-1. browser
-1. run all tests
-1. run one test
+When you send the pull request (below), our [CI/CD](https://en.wikipedia.org/wiki/CI/CD) tool [Travis](https://travis-ci.org/github/spdx/license-list-XML) will run all of the tests to make sure everything is OK.
 
-### Send the pull request for the XML and .txt files
+However, that can take quite a bit of time since it runs the tests for every single license in the list. If you make a mistake, you may be waiting a while to learn about it. Often it's much faster to test things locally first. There are three ways to do this:
+
+#### Use your browser to test the XML file
+
+Most web browsers "speak" XML, which means they're a quick and easy way to tell whether you have valid XML in your file. If you've messed something up (forgotten a closing tag, for instance), the browser will give you an error. If everything is A-OK, the browser will show you your XML file.
+
+To test this, either point your browser at the XML file in your file system using [`file://`](https://en.wikipedia.org/wiki/File_URI_scheme) or drag/drop the XML file onto your browser window.
+
+#### Run all tests on your machine
+
+You can run the same tests Travis will, just on your local machine so it's a little faster than waiting for the Travis return trip.
+
+This requires that you're familiar with the command line and ensuring that script dependencies are all installed. Learning these things is left as an exercise for the reader.
+
+1. Change to the directory where you've cloned the `license-list-XML` repo
+1. Run `make validate-canonical-match`
+1. Go make a cup of tea or something ☕️, because this will take a few minutes to complete
+
+#### Test just the one license you added
+
+If you don't feel like a cup of tea right now, you can run the `make validate-canonical-match` process against a single file instead of the entire corpus of licenses:
+
+1. Change to the directory where you've cloned the `license-list-XML` repo
+1. Run `./test-one-license licenseId`, replacing (of course) the `licenseId` with (naturally) the licenseId of the license in question 
+1. Don't make that cup of tea, since you won't have time
+
+### Send the pull request (PR) for the XML and .txt files
 
 1. FOO: add this
 
 ### Editing the XML file using the SPDX Online tools
+
+The [SPDX Online tools](http://13.57.134.254/app/license_requests/) are an option for editing the XML file but currently the tools can't help you add a test .txt file. Hopefully we'll be able to add that functionality in the future, but for now we recommend you use the "clone and edit" option detailed above when adding a new license. However, should you choose to try the online tools, here are some instructions:
 
 1. Go to SPDX Online tools and to [License Requests](http://13.57.134.254/app/license_requests/); click on your license and “edit XML”. Review XML file - make sure to include or check:
     1. The current XML output does not implement some of XML tagging and may mark every new line with a paragraph tag depending on input. If this has happened, it may be more efficient to re-submit the license text, using a wrapped text version.
