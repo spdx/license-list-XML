@@ -28,7 +28,7 @@ Ask the submitter for any additional info needed, preferably via the Github issu
 
 ## If license not accepted:
 
-6. If the license/exception has not been accepted (for whatever reason, including it is already represented on the license list), make a note in the issue as to why, add the [label](https://github.com/spdx/license-list-XML/labels) to `new license/exception: Not accepted`, inform the submitter, update the issue as needed, and close.
+If the license/exception has not been accepted (for whatever reason, including it is already represented on the license list), make a note in the issue as to why, add the [label](https://github.com/spdx/license-list-XML/labels) to `new license/exception: Not accepted`, inform the submitter, update the issue as needed, and close.
 
 ## If license is accepted:
 
@@ -52,7 +52,7 @@ The following steps assume you're working from a clone of the repo, but we have 
 
     a. “IGO” means, solely and exclusively for purposes of this License, an organization established by a treaty or other instrument governed by international law and possessing its own international legal personality. Other organizations established to carry out activities across national borders and that accordingly enjoy immunity from legal process are also IGOs for the sole and exclusive purposes of this License. IGOs may include as members, in addition to states, other entities.
 ```
-1. Save the file and [commit it](https://docs.github.com/en/github/committing-changes-to-your-project) to your clone of the repository.
+4. Save the file and [commit it](https://docs.github.com/en/github/committing-changes-to-your-project) to your clone of the repository.
 
 That's it! The test .txt file is now ready to go and you can move on to the XML file. It's slightly trickier than the test .txt file, but not much (at least not in the basic case that we cover here).
 
