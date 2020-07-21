@@ -32,7 +32,9 @@ Ask the submitter for any additional info needed, preferably via the Github issu
 
 ## If license is accepted:
 
-7. If the license/exception is accepted, make a note in the issue, add the label `new license/exception: Accepted`. The final step is to create the license XML and test .txt files.
+If the license/exception is accepted, make a note in the issue, add the label `new license/exception: Accepted`. 
+
+The final step is to create the license XML and test .txt files.
 
 While you can do this using the [SPDX Online tools](https://spdxtools.sourceauditor.com/), we recommend you [clone (fork) the license-list-XML repository (repo)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-forks), make the edits on your clone of the repo, then [send a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). This will be necessary for the test .txt file regardless, as the SPDX Online tools do not yet support adding a test .txt file.
 
