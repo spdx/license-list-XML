@@ -112,7 +112,7 @@ That's it! The test .txt file is now ready to go and you can move on to the XML 
 ```
 5. Save the file and [commit it](https://docs.github.com/en/github/committing-changes-to-your-project) to your clone of the repository.
 
-Voila! You're done! Yes, there may be more advanced cases where more work than this is required. If you don't add licenses often, it's unlikely the core team will have assigned you something like that, but if they did or you have any questions at all, please ask! They love to help!
+You're done! Yes, there may be more advanced cases where more work than this is required. If you don't add licenses often, it's unlikely the core team will have assigned you something like that, but if they did or you have any questions at all, please ask! They love to help!
 
 ### Test locally
 
@@ -146,7 +146,17 @@ If you don't feel like a cup of tea right now, you can run the `make validate-ca
 
 ### Send the pull request (PR) for the XML and .txt files
 
-1. FOO: add this
+You're nearly done! All that's left is for you to tell the team you're done and the work is ready for review and merging.
+
+To do that, [send a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) (commonly known as a PR) to the project.
+
+If you've never sent a PR before, or if you hit any problems, please let us know! We'll help you with the process so you can successfully contribute to the license list.
+
+After you send your PR, the team will have a look and provide feedback. It might be that more changes are needed. If that's the case, simply make the changes in your clone of the repo and then commit them. Your PR will automatically update with the changes, so you won't have to do anything special.
+
+Once everything looks good, the team will merge your PR into the main list.
+
+🍾 Voila! 🍾 You've just landed a patch in an open source project. Congratulations!
 
 ### Editing the XML file using the SPDX Online tools
 
