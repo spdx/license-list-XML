@@ -127,15 +127,15 @@ Voila! You're done! Yes, there may be more advanced cases where more work than t
 ### Editing the XML file using the SPDX Online tools
 
 1. Go to SPDX Online tools and to [License Requests](http://13.57.134.254/app/license_requests/); click on your license and “edit XML”. Review XML file - make sure to include or check:
-        1. The current XML output does not implement some of XML tagging and may mark every new line with a paragraph tag depending on input. If this has happened, it may be more efficient to re-submit the license text, using a wrapped text version.
-        1. Make sure to include listVersionAdded= and the correct license list version number for the upcoming release
-        1. Check for a standard license header
-        1. Check if there should be any Notes based on Notes field descripiton in [link](Overview page)
-        1. Check that we have a working URL for the license text in the wild. If using a link in GitHub, include a link to a specific commit
-        1. Check all the XML formatting: the current XML output does not insert the bullet or list tags. Use a previously submitted license as reference for how to format
-        1. If you have questions about text that could be optional or could be replaceable, add a comment to the PR, once made or add a reviewer to check it
-    2. Before submitting the PR, you may want to run the test suite locally to catch any errors when comparing the XML against the test .txt file. Typically you can do this by running “make validate-canonical-match” from your checked-out copy of the license-list-XML repo.
-    3. Once the XML is done, “submit changes” in the tool, which will create a new PR in the repo. Tag the PR to be reviewed by at least one other member of the legal team before merging.
-    4. Once the PR is created in the repo, add a .txt file for the license in the test/simpleTestForGenerator directory
-    4. Check to see if the PR passes the automated test suite on check-in.  If it does not pass, evaluate the cause and resolve it.  If you need assistance, contact one of the technical leads (@goneall or @zvr) for assistance.
-    4. Once review has been completed and there are no further question, merge PR, and close issue.
+    1. The current XML output does not implement some of XML tagging and may mark every new line with a paragraph tag depending on input. If this has happened, it may be more efficient to re-submit the license text, using a wrapped text version.
+    1. Make sure to include listVersionAdded= and the correct license list version number for the upcoming release
+    1. Check for a standard license header
+    1. Check if there should be any Notes based on Notes field descripiton in [link](Overview page)
+    1. Check that we have a working URL for the license text in the wild. If using a link in GitHub, include a link to a specific commit
+    1. Check all the XML formatting: the current XML output does not insert the bullet or list tags. Use a previously submitted license as reference for how to format
+    1. If you have questions about text that could be optional or could be replaceable, add a comment to the PR, once made or add a reviewer to check it
+2. Before submitting the PR, you may want to run the test suite locally to catch any errors when comparing the XML against the test .txt file. Typically you can do this by running “make validate-canonical-match” from your checked-out copy of the license-list-XML repo.
+3. Once the XML is done, “submit changes” in the tool, which will create a new PR in the repo. Tag the PR to be reviewed by at least one other member of the legal team before merging.
+4. Once the PR is created in the repo, add a .txt file for the license in the test/simpleTestForGenerator directory
+4. Check to see if the PR passes the automated test suite on check-in.  If it does not pass, evaluate the cause and resolve it.  If you need assistance, contact one of the technical leads (@goneall or @zvr) for assistance.
+4. Once review has been completed and there are no further question, merge PR, and close issue.
