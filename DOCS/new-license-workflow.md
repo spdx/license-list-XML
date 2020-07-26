@@ -2,7 +2,7 @@
 
 > ⚠️ **NOTA BENE:** A GitHub account is required for the New License Workflow. If you do not have a GitHub account yet, you must [create one](https://github.com/join) (for free) to continue with the workflow.
 
-This document provides guidance and checklists for SPDX legal team members who are assigned to shepherd a new license request.  
+This document provides guidance and checklists for SPDX legal team members who are assigned to shepherd a new license request.
 
 The instructions here assume the requestor has already submitted the new license/exception request via the [SPDX online tools](http://13.57.134.254/app/).
 
@@ -36,7 +36,7 @@ If the license/exception is accepted, make a note in the issue, add the [label](
 
 The final step is to create the license XML and test .txt files.
 
-While you can do this using the [SPDX Online tools](https://spdxtools.sourceauditor.com/), we recommend you [clone (fork) the license-list-XML repository (repo)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-forks), make the edits on your clone of the repo, then [send a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). This will be necessary for the test .txt file regardless, as the SPDX Online tools do not yet support adding a test .txt file.
+While you can do this using the [SPDX Online tools](https://spdxtools.sourceauditor.com/), you can also [clone (fork) the license-list-XML repository (repo)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-forks), make the edits on your clone of the repo, then [send a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). The clone-and-edit process is currently necessary for the test .txt file regardless, as the SPDX Online tools do not yet support adding a test .txt file (see issue [here](https://github.com/spdx/spdx-online-tools/issues/206)).
 
 The following steps assume you're working from a clone of the repo, but we have some basic steps afterward if you'd like to edit the XML using the SPDX Online tools.
 
@@ -46,11 +46,11 @@ The following steps assume you're working from a clone of the repo, but we have 
 
 1. The test files are in the `test/simpleTestForGenerator/` directory of your clone of the license-list-XML repo.
 1. Locate the canonical text for the license. There should be a link to this in the issue, but if there isn't please ask for it from the license steward. Don't proceed until you have confirmed that you have the canonical text.
-1. Copy the text of the license and add it to an appropriately named .txt file (see above for naming guidelines). This must be plaintext and ASCII/Unicode with no special characters such as smart quotes. Do try to keep formatting elements such as section indentation, _using spaces to make the indentation rather than using tabs_. For example, here's one of many indented sections in the [CC-BY-NC-ND-3.0-IGO.txt file](../test/simpleTestForGenerator/CC-BY-NC-ND-3.0-IGO.txt):
+1. Copy the text of the license and add it to an appropriately named .txt file (see above for naming guidelines). This must be UTF-8 encoded. Special characters such as smart quotes should be avoided. Do try to keep formatting elements such as section indentation, _using spaces to make the indentation rather than using tabs_. For example, here's one of many indented sections in the [CC-BY-NC-ND-3.0-IGO.txt file](../test/simpleTestForGenerator/CC-BY-NC-ND-3.0-IGO.txt):
 ```
-1. Definitions
+8. Miscellaneous
 
-    a. “IGO” means, solely and exclusively for purposes of this License, an organization established by a treaty or other instrument governed by international law and possessing its own international legal personality. Other organizations established to carry out activities across national borders and that accordingly enjoy immunity from legal process are also IGOs for the sole and exclusive purposes of this License. IGOs may include as members, in addition to states, other entities.
+    a. Each time You Distribute or Publicly Perform the Work or a Collection, the Licensor offers to the recipient a license to the Work on the same terms and conditions as the license granted to You under this License.
 ```
 4. Save the file and [commit it](https://docs.github.com/en/github/committing-changes-to-your-project) to your clone of the repository.
 
@@ -68,6 +68,9 @@ That's it! The test .txt file is now ready to go and you can move on to the XML 
 1. Set the value of the `crossRef` tag to the URL for the canonical version of the license. 
     * This should be the same as the URL used for the text added to the test .txt file above.
     * If the XML file you copied includes any additional `crossRef` tags, make sure you remove them.
+1. Optionally, include a `notes` tag with any miscellaneous notes that would be relevant to users of the license.
+    * `notes` is typically used to explain things like why a license has an entry on the list separate from another identical or nearly-identical license.
+    * License interpretation comments should generally _not_ be included in a `notes` tag.
 1. Add the text of the license in the `text` tag. There are several special things to pay attention to here:
     * The text must be the same text used in the test .txt file above. This is why it makes sense to do the test .txt file before the XML: it makes it easy to cut/paste the correct text into the XML file.
     * The title of the license should be wrapped in `<titleText></titleText>` tags. The value here should match the value in the `name` attribute in the `license` tag above.
@@ -110,7 +113,7 @@ That's it! The test .txt file is now ready to go and you can move on to the XML 
     </item>
 </list>
 ```
-5. Save the file and [commit it](https://docs.github.com/en/github/committing-changes-to-your-project) to your clone of the repository.
+6. Save the file and [commit it](https://docs.github.com/en/github/committing-changes-to-your-project) to your clone of the repository.
 
 You're done! Yes, there may be more advanced cases where more work than this is required. If you don't add licenses often, it's unlikely the core team will have assigned you something like that, but if they did or you have any questions at all, please ask! They love to help!
 
@@ -125,6 +128,8 @@ However, that can take quite a bit of time since it runs the tests for every sin
 Most web browsers "speak" XML, which means they're a quick and easy way to tell whether you have valid XML in your file. If you've messed something up (forgotten a closing tag, for instance), the browser will give you an error. If everything is A-OK, the browser will show you your XML file.
 
 To test this, either point your browser at the XML file in your file system using [`file://`](https://en.wikipedia.org/wiki/File_URI_scheme) or drag/drop the XML file onto your browser window.
+
+Of course, keep in mind that this only tests that the XML file is valid XML. The next tests below can be used to check whether the XML file correctly matches to the test text file.
 
 #### Run all tests on your machine
 
@@ -151,6 +156,8 @@ You're nearly done! All that's left is for you to tell the team you're done and 
 To do that, [send a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) (commonly known as a PR) to the project.
 
 If you've never sent a PR before, or if you hit any problems, please let us know! We'll help you with the process so you can successfully contribute to the license list.
+
+If the PR will take care of the issue's request, then in the PR description (not the PR title or comments, and not the commit message) you should include a line that says `Fixes #`, with the issue number immediately following the hash sign. That way, when the PR is merged, GitHub will automatically close the issue as well.
 
 After you send your PR, the team will have a look and provide feedback. It might be that more changes are needed. If that's the case, simply make the changes in your clone of the repo and then commit them. Your PR will automatically update with the changes, so you won't have to do anything special.
 
