@@ -4,7 +4,7 @@
 
 This document provides guidance and checklists for SPDX legal team members who are assigned to shepherd a new license request.
 
-The instructions here assume the requestor has already submitted the new license/exception request via the [SPDX online tools](http://13.57.134.254/app/).
+The instructions here assume the requestor has already submitted the new license/exception request via the [SPDX online tools](http://13.57.134.254/app/). Note that it is also possible for license requests to be submitted directly as Issues in the GitHub repo; when this occurs, they will not appear on the SPDX online tools page.
 
 New license requests are to be assigned to an SPDX legal team member and that person is responsible for following the request through to its final determination.  Make sure to add yourself as the Assignee in the license request issue here on GitHub, add the [label](https://github.com/spdx/license-list-XML/labels) `new license/exception request`, and add the appropriate release milestone to the issue.
 
@@ -17,8 +17,9 @@ New license requests are to be assigned to an SPDX legal team member and that pe
     3. If additional markup can accommodate the license, then the license does not need to be added: inform the requestor, comment on the issue as such, then create a PR for the existing license with the additional markup, and close issue once the PR has been merged.
 
 2. If the submitter is not the license author or steward, ask for that contact or try to find that person or organization to make them aware the license has been submitted.
-3. Check the submission for any other missing information, e.g., working URL, examples of use, full text, standard header, etc. See the Field definitions on Overview page for assistance.
+3. Check the submission for any other missing information, e.g., working URL, examples of use, full text, standard header, etc. See the Field definitions on [Overview page](https://spdx.dev/license-list/) for assistance.
 Ask the submitter for any additional info needed, preferably via the Github issue, if possible. Record any updates there.
+    1. The "standard header" or "official license header" is defined in the [SPDX Matching Guidelines (sec. 1.1.1)](https://spdx.dev/license-list/matching-guidelines/) as "specific text specified within the license itself to be put in the header of files."
 4. Review the following, bring any questions to legal team:
     1. Is this an open source license?
     2. Is the short identifier unique? Does this license have a short identifier that is used elsewhere already (e.g., Fedora)?
@@ -173,7 +174,7 @@ The [SPDX Online tools](http://13.57.134.254/app/license_requests/) are an optio
     1. The current XML output does not implement some of XML tagging and may mark every new line with a paragraph tag depending on input. If this has happened, it may be more efficient to re-submit the license text, using a wrapped text version.
     1. Make sure to include listVersionAdded= and the correct license list version number for the upcoming release
     1. Check for a standard license header
-    1. Check if there should be any Notes based on Notes field descripiton in [link](Overview page)
+    1. Check if there should be any Notes based on Notes field descripiton in the [Overview page](https://spdx.dev/license-list/)
     1. Check that we have a working URL for the license text in the wild. If using a link in GitHub, include a link to a specific commit
     1. Check all the XML formatting: the current XML output does not insert the bullet or list tags. Use a previously submitted license as reference for how to format
     1. If you have questions about text that could be optional or could be replaceable, add a comment to the PR, once made or add a reviewer to check it
