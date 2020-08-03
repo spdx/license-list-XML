@@ -42,8 +42,8 @@
         TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
         ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
       <p>The views and conclusions contained in the software and documentation are those of the authors and should
-         not be interpreted as representing official policies, either expressed or implied, of the copyright holders
-         or contributors.</p>
+         not be interpreted as representing official policies, either expressed or implied, of <alt match=".+"
+         name="copyrightHolderViews">the copyright holders or contributors.</alt></p>
     </text>
   </license>
 </SPDXLicenseCollection>
