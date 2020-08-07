@@ -1,5 +1,40 @@
 # Release Notes for SPDX License List
 
+## version 3.10 - 2020-08-03
+
+New licenses/exceptions added: 20
+
+1. BSD-2-Clause-Views
+1. CC-BY-NC-ND-3.0-IGO
+1. CC-BY-SA-3.0-AT
+1. CC-BY-3.0-AT
+1. EPICS
+1. GFDL-1.1-invariants-only
+1. GFDL-1.1-invariants-or-later
+1. GFDL-1.1-no-invariants-only
+1. GFDL-1.1-no-invariants-or-later
+1. GFDL-1.2-invariants-only
+1. GFDL-1.2-invariants-or-later
+1. GFDL-1.2-no-invariants-only
+1. GFDL-1.2-no-invariants-or-later
+1. GFDL-1.3-invariants-only
+1. GFDL-1.3-invariants-or-later
+1. GFDL-1.3-no-invariants-only
+1. GFDL-1.3-no-invariants-or-later
+1. GLWTPL
+1. NIST-PD
+1. NIST-PD-fallback
+
+Extensive updates to documentation for workflow to add new licenses.
+
+Deprecate BSD-2-Clause-FreeBSD as substantively identical to BSD-2-Clause-Views.
+
+Updates and cleanup of markup for various licenses and other minor changes.
+
+See all PRs for 3.10 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.10+release%22+is%3Aclosed
+
+See comparision of changes from 3.9 to 3.10: https://github.com/spdx/license-list-XML/compare/v3.9...v3.10
+
 ## version 3.9 - 2020-05-15
 
 New licenses/exceptions added: 16
