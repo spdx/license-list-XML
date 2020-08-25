@@ -72,14 +72,14 @@
                          Original Code or any previous Modifications. When Covered Code is released as a series of
                          files, a Modification is:
                         <list>
-                            <item>
-                                <bullet>B.</bullet>
-                                Any new file that contains any part of the Original Code or previous Modifications.
-                            </item>
-                            <item>
+                           <item>
                                 <bullet>A.</bullet>
                                 Any addition to or deletion from the contents of a file containing Original Code or previous
                                  Modifications.
+                           </item>
+                           <item>
+                                <bullet>B.</bullet>
+                                Any new file that contains any part of the Original Code or previous Modifications.
                             </item>
                         </list>
                     </item>
@@ -123,7 +123,14 @@
                         <p>Subject to third party intellectual property claims, each Contributor hereby grants You a
                          world-wide, royalty-free, non-exclusive license</p>
                         <list>
-                            <item>
+                           <item>
+                                <bullet>(a)</bullet>
+                                under intellectual property rights (other than patent or trademark) Licensable by Contributor, to
+                                 use, reproduce, modify, display, perform, sublicense and distribute the Modifications created
+                                 by such Contributor (or portions thereof) either on an unmodified basis, with other
+                                 Modifications, as Covered Code and/or as part of a Larger Work; and
+                           </item>
+                           <item>
                                 <bullet>(b)</bullet>
                                 under Patent Claims infringed by the making, using, or selling of Modifications made by that
                                  Contributor either alone and/or in combination with its Contributor Version (or portions of
@@ -145,13 +152,6 @@
                                  or ii) the combination of Modifications made by that Contributor with other software (except
                                  as part of the Contributor Version) or other devices; or 4) under Patent Claims infringed by
                                  Covered Code in the absence of Modifications made by that Contributor.
-                            </item>
-                            <item>
-                                <bullet>(a)</bullet>
-                                under intellectual property rights (other than patent or trademark) Licensable by Contributor, to
-                                 use, reproduce, modify, display, perform, sublicense and distribute the Modifications created
-                                 by such Contributor (or portions thereof) either on an unmodified basis, with other
-                                 Modifications, as Covered Code and/or as part of a Larger Work; and
                             </item>
                         </list>
                     </item>
