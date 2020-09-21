@@ -4,7 +4,7 @@
 
 This document provides guidance and checklists for SPDX legal team members who are assigned to shepherd a new license request.
 
-The instructions here assume the requestor has already submitted the new license/exception request via the [SPDX online tools](http://13.57.134.254/app/). Note that it is also possible for license requests to be submitted directly as Issues in the GitHub repo; when this occurs, they will not appear on the SPDX online tools page.
+The instructions here assume the requestor has already submitted the new license/exception request via the [SPDX online tools](https://tools.spdx.org). Note that it is also possible for license requests to be submitted directly as Issues in the GitHub repo; when this occurs, they will not appear on the SPDX online tools page.
 
 New license requests are to be assigned to an SPDX legal team member and that person is responsible for following the request through to its final determination.  Make sure to add yourself as the Assignee in the license request issue here on GitHub, add the [label](https://github.com/spdx/license-list-XML/labels) `new license/exception request`, and add the appropriate release milestone to the issue.
 
@@ -168,9 +168,9 @@ Once everything looks good, the team will merge your PR into the main list.
 
 ### Editing the XML file using the SPDX Online tools
 
-The [SPDX Online tools](http://13.57.134.254/app/license_requests/) are an option for editing the XML file but currently the tools can't help you add a test .txt file. Hopefully we'll be able to add that functionality in the future, but for now we recommend you use the "clone and edit" option detailed above when adding a new license. However, should you choose to try the online tools, here are some instructions:
+The [SPDX Online tools](https://tools.spdx.org/) are an option for editing the XML file but currently the tools can't help you add a test .txt file. Hopefully we'll be able to add that functionality in the future, but for now we recommend you use the "clone and edit" option detailed above when adding a new license. However, should you choose to try the online tools, here are some instructions:
 
-1. Go to SPDX Online tools and to [License Requests](http://13.57.134.254/app/license_requests/); click on your license and “edit XML”. Review XML file - make sure to include or check:
+1. Go to SPDX Online tools and to [License Requests](https://tools.spdx.org/app/license_requests/); click on your license and “edit XML”. Review XML file - make sure to include or check:
     1. The current XML output does not implement some of XML tagging and may mark every new line with a paragraph tag depending on input. If this has happened, it may be more efficient to re-submit the license text, using a wrapped text version.
     1. Make sure to include listVersionAdded= and the correct license list version number for the upcoming release
     1. Check for a standard license header
