@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-    <license isOsiApproved="false" licenseId="Unicode-DFS-2016" listVersionAdded="2.6"
+    <license isOsiApproved="true" licenseId="Unicode-DFS-2016" listVersionAdded="2.6"
             name="Unicode License Agreement - Data Files and Software (2016)">
         <crossRefs>
             <crossRef>http://www.unicode.org/copyright.html</crossRef>
