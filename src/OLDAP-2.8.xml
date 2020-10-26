@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="OLDAP-2.8"
+   <license isOsiApproved="true" licenseId="OLDAP-2.8"
             name="Open LDAP Public License v2.8">
       <crossRefs>
          <crossRef>http://www.openldap.org/software/release/license.html</crossRef>
