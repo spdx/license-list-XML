@@ -1,7 +1,7 @@
 # Before you contribute to the SPDX License List
 Please familiarize yourself with the SPDX License List and its supporting documentation, so that you understand the pertinent context around the list itself:
-* [License inclusion principles](DOCS/license-inclusion-principles) 
-* [Explanation of the fields contained on the list] (DOCS/license-fields)
+* [License inclusion principles](DOCS/license-inclusion-principles.md) 
+* [Explanation of the fields contained on the list](DOCS/license-fields.md)
 * [SPDX License List Matching Guidelines](https://spdx.org/spdx-license-list/matching-guidelines) provides guidelines to be used for the purposes of matching licenses and license exceptions against those included on the SPDX License List.
 * [SPDX Specification](https://spdx.org/specifications): It is helpful to be familiar with certain sections of the SPDX Specification thatuse or deal with the SPDX License List. In particular: sub-sections related to license information in Section 3, 4, and 6; Appendices II, IV, and V.
 
@@ -18,11 +18,11 @@ Please do not raise general questions via issues in this Github repository, but 
 ## Request a new license or exception be added to the SPDX License List
 The SPDX Legal Team appreciates proposals for new free and open source licenses or exceptions to be added to the SPDX License List.  To request a license or exception be added to the SPDX License List, please:
 
-1.  Review the [license inclusion principles](DOCS/license-inclusion-principles).
+1.  Review the [license inclusion principles](DOCS/license-inclusion-principles.md).
 
 2.  Check the [SPDX License List](https://spdx.org/licenses/), keeping in mind the [SPDX License List Matching Guidelines](https://spdx.org/spdx-license-list/matching-guidelines) and issues labeled [new license/exception request](https://github.com/spdx/license-list-XML/labels/new%20license%2Fexception%20request) to ensure this license or exception has not been previously requested.
 
-3. Submit your request via the SPDX Online Tool [Submit New License](https://tools.spdx.org/app/submit_new_license/) using the guidance provided there. Also see the [explanation of the fields contained on the list] (DOCS/license-fields). Note: you must have a Github account in order to use this tool/process.
+3. Submit your request via the SPDX Online Tool [Submit New License](https://tools.spdx.org/app/submit_new_license/) using the guidance provided there. Also see the [explanation of the fields contained on the list](DOCS/license-fields.md). Note: you must have a Github account in order to use this tool/process.
 
 4. Submitters are expected to follow and participate in the discussion and answer any request for additional information via the issue and comments. Please note, if submitters are unresponsive for several months, the issue will be closed without making a final decision.
 
