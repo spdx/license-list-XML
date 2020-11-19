@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
   <license licenseId="BUSL-1.1" isOsiApproved="false"
-  name="Business Source License 1.1">
+  name="Business Source License 1.1" listVersionAdded="3.11">
     <crossRefs>
       <crossRef>https://mariadb.com/bsl11/</crossRef>
     </crossRefs>
