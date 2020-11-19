@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="HTMLTIDY" name="HTML Tidy License">
+   <license isOsiApproved="false" licenseId="HTMLTIDY" name="HTML Tidy License" listVersionAdded="3.11">
       <crossRefs>
          <crossRef>https://github.com/htacg/tidy-html5/blob/next/README/LICENSE.md</crossRef>
       </crossRefs>
