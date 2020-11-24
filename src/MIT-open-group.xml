@@ -10,7 +10,7 @@
         </crossRefs>
         <text>
             <copyrightText>
-                <p>Copyright &lt;yyyy, yyyy&gt; <alt match=".+" name="name1">The Open Group</alt></p>
+                <p>Copyright &lt;yyyy, yyyy&gt; The Open Group</p>
             </copyrightText>
             <p>Permission to use, copy, modify, distribute, and sell this
                 software and its documentation for any purpose is hereby granted
@@ -29,10 +29,10 @@
                 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
                 THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
             </p>
-            <p>Except as contained in this notice, the name of <alt match=".+" name="name2"> The Open Group</alt>
+            <p>Except as contained in this notice, the name of <alt match=".+" name="name1"> The Open Group</alt>
                 shall not be used in advertising or otherwise to promote the
                 sale, use or other dealings in this Software without prior
-                written authorization from <alt match=".+" name="name3">The Open Group</alt>.
+                written authorization from <alt match=".+" name="name2">The Open Group</alt>.
             </p>
         </text>
     </license>
