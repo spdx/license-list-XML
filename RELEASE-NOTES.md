@@ -1,5 +1,23 @@
 # Release Notes for SPDX License List
 
+## version 3.11 - 2020-11-25
+
+New licenses/exceptions added: 5
+
+1. BUSL-1.1
+1. CC-BY-3.0-US
+1. CC-BY-SA-2.0-UK
+1. HTMLTIDY
+1. MIT-open-group
+
+Update several licenses to note where they have become OSI-approved.
+
+Updates and cleanup of markup for various licenses and other minor changes.
+
+See all PRs for 3.11 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.11+release%22+is%3Aclosed
+
+See comparision of changes from 3.10 to 3.11: https://github.com/spdx/license-list-XML/compare/v3.10...v3.11
+
 ## version 3.10 - 2020-08-03
 
 New licenses/exceptions added: 20
