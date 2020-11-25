@@ -616,7 +616,7 @@
       </p>
       <p>
 	<optional>&lt;</optional>one line to give the library's name
-	and an idea of what it does.<optional>&gt;</optional>
+	and <alt match="an idea|a brief idea" name="ideaClause">an idea</alt> of what it does.<optional>&gt;</optional>
         <br></br>
         Copyright (C)
         <optional>&lt;</optional>year<optional>&gt;</optional>
