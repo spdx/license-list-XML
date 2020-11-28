@@ -2,8 +2,9 @@
 
 ## version 3.11 - 2020-11-25
 
-New licenses/exceptions added: 5
+New licenses/exceptions added: 6
 
+1. ANTLR-PD-fallback
 1. BUSL-1.1
 1. CC-BY-3.0-US
 1. CC-BY-SA-2.0-UK
