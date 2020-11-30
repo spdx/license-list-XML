@@ -11,7 +11,7 @@ New licenses/exceptions added: 6
 1. HTMLTIDY
 1. MIT-open-group
 
-Update several licenses to note where they have become OSI-approved.
+Update several licenses to note that they have become OSI-approved.
 
 Updates and cleanup of markup for various licenses and other minor changes.
 
