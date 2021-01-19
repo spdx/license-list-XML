@@ -9,7 +9,7 @@ jobs:
         with:
           node-version: '9'
       - run: |
-          npm ci  
+          npm install
           npm test
   validate_canonical_match:
     name: Validate canonical match
