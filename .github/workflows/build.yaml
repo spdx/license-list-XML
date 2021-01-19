@@ -8,7 +8,9 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '9'
-      - run: npm test
+      - run: |
+          npm ci  
+          npm test
   validate_canonical_match:
     name: Validate canonical match
     runs-on: ubuntu-latest
