@@ -9,7 +9,7 @@
       <crossRefs>
          <crossRef>http://ac-archive.sourceforge.net/doc/copyright.html</crossRef>
       </crossRefs>
-
+      <notes>DEPRECATED: Use license expression including main license, "WITH" operator, and identifier: Autoconf-exception-2.0</notes>
     <text>
 	     <p>insert GPL v2 license text here</p>
 	     <p>Autoconf Exception</p>
