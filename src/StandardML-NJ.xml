@@ -8,6 +8,8 @@
       <crossRefs>
          <crossRef>http://www.smlnj.org//license.html</crossRef>
       </crossRefs>
+       <notes>DEPRECATED: Duplicate license. Use license identifier: SMLNJ
+      </notes>
     <text>
       <titleText>
          <p>STANDARD ML OF NEW JERSEY COPYRIGHT NOTICE, LICENSE AND DISCLAIMER.</p>
