@@ -9,7 +9,7 @@
       <crossRefs>
          <crossRef>https://www.gnu.org/licenses/gpl-faq.html#FontException</crossRef>
       </crossRefs>
-
+      <notes>DEPRECATED: Use license expression including main license, "WITH" operator, and identifier: Font-exception-2.0</notes>
     <text>
 	     <p>insert GPL v2 license text here</p>
 	     <p>Font Exception</p>
