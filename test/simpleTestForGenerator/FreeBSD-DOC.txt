@@ -12,12 +12,12 @@ THIS DOCUMENTATION IS PROVIDED BY THE FREEBSD DOCUMENTATION PROJECT "AS IS" AND 
 
 Manual Pages
 
-Some FreeBSD manual pages contain text from the IEEE Std 1003.1, 2004 Edition, Standard for Information Technology - Portable Operating System Interface (POSIX®) specification. These manual pages are subject to the following terms:
+Some FreeBSD manual pages contain text from the IEEE Std 1003.1, 2004 Edition, Standard for Information Technology — Portable Operating System Interface (POSIX®) specification. These manual pages are subject to the following terms:
 
     The Institute of Electrical and Electronics Engineers and The Open Group, have given us permission to reprint portions of their documentation.
 
     In the following statement, the phrase "this text" refers to portions of the system documentation.
 
-    Portions of this text are reprinted and reproduced in electronic form in the FreeBSD manual pages, from IEEE Std 1003.1, 2004 Edition, Standard for Information Technology — Portable Operating System Interface (POSIX), The Open Group Base Specifications Issue 6, Copyright© 2001-2004 by the Institute of Electrical and Electronics Engineers, Inc and The Open Group. In the event of any discrepancy between these versions and the original IEEE and The Open Group Standard, the original IEEE and The Open Group Standard is the referee document. The original Standard can be obtained online at https://www.opengroup.org/membership/forums/platform/unix.
+    Portions of this text are reprinted and reproduced in electronic form in the FreeBSD manual pages, from IEEE Std 1003.1, 2004 Edition, Standard for Information Technology — Portable Operating System Interface (POSIX), The Open Group Base Specifications Issue 6, Copyright© 2001-2004 by the Institute of Electrical and Electronics Engineers, Inc and The Open Group. In the event of any discrepancy between these versions and the original IEEE and The Open Group Standard, the original IEEE and The Open Group Standard is the referee document. The original Standard can be obtained online at https://www.opengroup.org/membership/forums/platform/unix.
 
     This notice shall appear on any product containing this material.
