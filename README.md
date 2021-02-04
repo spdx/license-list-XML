@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/spdx/license-list-XML.svg?branch=master)](https://travis-ci.org/spdx/license-list-XML)
+[![Build Status](https://api.travis-ci.com/spdx/license-list-XML.svg?branch=master)](https://travis-ci.com/spdx/license-list-XML)
 # SPDX License List
 ## What
 The [SPDX License List](https://spdx.org/licenses/) is an integral part of the SPDX Specification. The SPDX License List itself is a list of commonly found licenses and exceptions used in free and open or collaborative software, data, hardware, or documentation. The purpose of the SPDX License List is to enable easy and efficient identification of such licenses and exceptions in an SPDX document, in source files or elsewhere. The SPDX License List includes a standardized short identifier, full name, vetted license text including matching guidelines markup as appropriate, and a canonical permanent URL for each license and exception.
