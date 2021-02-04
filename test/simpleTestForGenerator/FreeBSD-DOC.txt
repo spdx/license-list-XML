@@ -12,7 +12,7 @@ THIS DOCUMENTATION IS PROVIDED BY THE FREEBSD DOCUMENTATION PROJECT "AS IS" AND 
 
 Manual Pages
 
-Some FreeBSD manual pages contain text from the IEEE Std 1003.1, 2004 Edition, Standard for Information Technology — Portable Operating System Interface (POSIX®) specification. These manual pages are subject to the following terms:
+Some FreeBSD manual pages contain text from the IEEE Std 1003.1, 2004 Edition, Standard for Information Technology - Portable Operating System Interface (POSIX®) specification. These manual pages are subject to the following terms:
 
     The Institute of Electrical and Electronics Engineers and The Open Group, have given us permission to reprint portions of their documentation.
 

@@ -24,7 +24,7 @@
       </list>
       <p>THIS DOCUMENTATION IS PROVIDED BY THE FREEBSD DOCUMENTATION PROJECT "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE FREEBSD DOCUMENTATION PROJECT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
       <p>Manual Pages</p>
-      <p>Some FreeBSD manual pages contain text from the IEEE Std 1003.1, 2004 Edition, Standard for Information Technology — Portable Operating System Interface (POSIX®) specification. These manual pages are subject to the following terms:</p>
+      <p>Some FreeBSD manual pages contain text from the IEEE Std 1003.1, 2004 Edition, Standard for Information Technology - Portable Operating System Interface (POSIX®) specification. These manual pages are subject to the following terms:</p>
       <list>
         <item>
             The Institute of Electrical and Electronics Engineers and The Open Group, have given us permission to reprint portions of their documentation.
