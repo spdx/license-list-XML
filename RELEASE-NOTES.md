@@ -2,15 +2,16 @@
 
 ## version 3.11 - 2020-11-25
 
-New licenses/exceptions added: 5
+New licenses/exceptions added: 6
 
+1. ANTLR-PD-fallback
 1. BUSL-1.1
 1. CC-BY-3.0-US
 1. CC-BY-SA-2.0-UK
 1. HTMLTIDY
 1. MIT-open-group
 
-Update several licenses to note where they have become OSI-approved.
+Update several licenses to note that they have become OSI-approved.
 
 Updates and cleanup of markup for various licenses and other minor changes.
 
