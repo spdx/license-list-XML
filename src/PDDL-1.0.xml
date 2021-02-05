@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="PDDL-1.0"
-            name="ODC Public Domain Dedication &amp; License 1.0">
+            name="Open Data Commons Public Domain Dedication &amp; License 1.0">
       <crossRefs>
          <crossRef>http://opendatacommons.org/licenses/pddl/1.0/</crossRef>
+         <crossRef>https://opendatacommons.org/licenses/pddl/</crossRef>
       </crossRefs>
     <text>
       <titleText>
-         <p>Open Data Commons - Public Domain Dedication &amp; License (PDDL)</p>
+         <p>Open Data Commons Public Domain Dedication &amp; License (PDDL)</p>
       </titleText>
 
       <p>Preamble
