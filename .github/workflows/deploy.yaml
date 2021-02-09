@@ -14,3 +14,5 @@ jobs:
         with:
           java-version: '11'
       - run: make deploy-license-data
+        env:
+          GITHUB_TOKEN: ${{ secrets.LICENSE_LIST_GITHUB_TOKEN }}
