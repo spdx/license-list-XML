@@ -13,6 +13,8 @@ jobs:
       - uses: actions/setup-java@v1
         with:
           java-version: '11'
+      - run: git config --global user.email "gary@sourceauditor.com"
+      - run: git config --global user.name "License Publisher (maintained by Gary O'Neall)"
       - run: make deploy-license-data
         env:
           GITHUB_TOKEN: ${{ secrets.LICENSE_LIST_GITHUB_TOKEN }}
