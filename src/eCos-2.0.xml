@@ -7,6 +7,7 @@
       <crossRefs>
          <crossRef>https://www.gnu.org/licenses/ecos-license.html</crossRef>
       </crossRefs>
+      <notes>DEPRECATED: Use license expression including main license, "WITH" operator, and identifier: eCos-exception-2.0</notes>
     <text>
       <titleText>The eCos license version 2.0</titleText>
 
