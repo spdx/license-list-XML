@@ -3,7 +3,6 @@
 # Ignore all hidden files and directories
 # except .editorconfig, .gitattributes, .gitignore and .travis.yml
 .*
-!/.github
 !/.editorconfig
 !/.gitattributes
 !/.gitignore
