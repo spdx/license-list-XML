@@ -17,4 +17,5 @@ jobs:
       - run: git config --global user.name "License Publisher (maintained by Gary O'Neall)"
       - run: make deploy-license-data
         env:
-          GITHUB_TOKEN: ${{ secrets.LICENSE_LIST_GITHUB_TOKEN }}
+          LICENSE_LIST_GITHUB_TOKEN: ${{ secrets.LICENSE_LIST_GITHUB_TOKEN }}
+          SHA_FOR_GITHUB: ${{ github.sha }}

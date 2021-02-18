@@ -25,3 +25,5 @@ jobs:
           java-version: '11'
       - name: Validate canonical match
         run: make validate-canonical-match
+    env:
+        GITHUB_SHA: ${{ github.sha }}
