@@ -3,7 +3,7 @@
 TOOL_VERSION = 2.1.23
 TEST_DATA = test/simpleTestForGenerator
 GIT_AUTHOR = License Publisher (maintained by Gary O'Neall) <gary@sourceauditor.com>
-GIT_AUTHOR_EMAIL = gary@sourceauditor
+GIT_AUTHOR_EMAIL = gary@sourceauditor.com
 LICENSE_DATA_REPO_NO_SCHEME = github.com/spdx/license-list-data.git
 LICENSE_DATA_REPO = https://$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_DATA_URL = https://$(LICENSE_LIST_GITHUB_TOKEN)@$(LICENSE_DATA_REPO_NO_SCHEME)
