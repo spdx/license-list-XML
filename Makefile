@@ -25,6 +25,7 @@ TEMP_TEMP = $(if $(and $(or $(filter $(NUM_FILES_CHANGED),1), $(filter $(NUM_FIL
 LICENSE_SOURCE = $(strip $(if $(and $(or $(filter $(NUM_FILES_CHANGED),1), $(filter $(NUM_FILES_CHANGED),2)), $(filter $(NUM_SOURCE_FILE_CHANGED),1)), $(SOURCE_FILE_CHANGED), $(LICENSE_SOURCE_DIR)));
 .PHONY: validate-canonical-match
 validate-canonical-match: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA) $(LICENSE_OUTPUT_DIR)
+	git diff-tree --no-commit-id --name-only -r $(SHA_FOR_GITHUB)
 	java -jar -DLocalFsfFreeJson=true -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator '$(LICENSE_SOURCE:;=)' '$(LICENSE_OUTPUT_DIR)' 1.0 2000-01-01 $(TEST_DATA) expected-warnings
 
 .PHONY: deploy-license-data
