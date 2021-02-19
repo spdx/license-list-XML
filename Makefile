@@ -4,9 +4,7 @@ TOOL_VERSION = 2.1.23
 TEST_DATA = test/simpleTestForGenerator
 GIT_AUTHOR = License Publisher (maintained by Gary O'Neall) <gary@sourceauditor.com>
 GIT_AUTHOR_EMAIL = gary@sourceauditor
-# LICENSE_DATA_REPO_NO_SCHEME = github.com/spdx/license-list-data.git
-# TEMP!!!! CHANGE THE FOLLOWING BACK TO THE ABOVE BEFORE MERGING TO SPDX REPO !!!!!
-LICENSE_DATA_REPO_NO_SCHEME = github.com/goneall/license-list-data.git
+LICENSE_DATA_REPO_NO_SCHEME = github.com/spdx/license-list-data.git
 LICENSE_DATA_REPO = https://$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_DATA_URL = https://$(LICENSE_LIST_GITHUB_TOKEN)@$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_OUTPUT_DIR = .tmp
@@ -21,7 +19,6 @@ NUM_FILES_CHANGED = $(shell git diff-tree --no-commit-id --name-only -r $(SHA_FO
 SOURCE_FILE_CHANGED = $(strip $(shell git diff-tree --no-commit-id --name-only -r $(SHA_FOR_GITHUB) | grep 'src/'))
 NUM_SOURCE_FILE_CHANGED = $(shell git diff-tree --no-commit-id --name-only -r $(SHA_FOR_GITHUB) | grep 'src/' | wc -l)
 LICENSE_SOURCE_DIR = src
-TEMP_TEMP = $(if $(and $(or $(filter $(NUM_FILES_CHANGED),1), $(filter $(NUM_FILES_CHANGED),2)), $(filter $(NUM_SOURCE_FILE_CHANGED),1)), $(SOURCE_FILE_CHANGED), $(LICENSE_SOURCE_DIR));
 LICENSE_SOURCE = $(strip $(if $(and $(or $(filter $(NUM_FILES_CHANGED),1), $(filter $(NUM_FILES_CHANGED),2)), $(filter $(NUM_SOURCE_FILE_CHANGED),1)), $(SOURCE_FILE_CHANGED), $(LICENSE_SOURCE_DIR)));
 .PHONY: validate-canonical-match
 validate-canonical-match: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA) $(LICENSE_OUTPUT_DIR)
@@ -55,8 +52,7 @@ licenseListPublisher-%.jar.asc:
 
 .PHONY: licenseListPublisher-%.jar-valid
 licenseListPublisher-%.jar-valid: licenseListPublisher-%.jar.asc licenseListPublisher-%.jar goneall.gpg
-#	gpg --verify --no-default-keyring --keyring ./goneall.gpg $<
-	echo THIS NEEDS TO BE PUT BACK _ TEMP FOR TESTING!!!
+	gpg --verify --no-default-keyring --keyring ./goneall.gpg $<
 
 $(LICENSE_OUTPUT_DIR):
 	mkdir -p $@
