@@ -4,7 +4,10 @@ TOOL_VERSION = 2.1.23
 TEST_DATA = test/simpleTestForGenerator
 GIT_AUTHOR = License Publisher (maintained by Gary O'Neall) <gary@sourceauditor.com>
 GIT_AUTHOR_EMAIL = gary@sourceauditor.com
-LICENSE_DATA_REPO_NO_SCHEME = github.com/spdx/license-list-data.git
+# TODO - CHANGE THIS BACK
+#### IMPORTANT
+#LICENSE_DATA_REPO_NO_SCHEME = github.com/spdx/license-list-data.git
+LICENSE_DATA_REPO_NO_SCHEME = github.com/goneall/license-list-data.git
 LICENSE_DATA_REPO = https://$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_DATA_URL = https://$(LICENSE_LIST_GITHUB_TOKEN)@$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_OUTPUT_DIR = .tmp
@@ -14,15 +17,24 @@ VERSION = $(subst V,,$(subst v,,$(GITVERSION)))
 RELEASE_DATE = $(shell date '+%Y-%m-%d')
 COMMIT_MSG = License list build $(VERSION) using license list publisher $(TOOL_VERSION)
 RELEASE_MSG = Adding release matching the license list XML tag $(VERSION)
-# Based on https://github.community/t/find-what-files-changed-in-a-pushed-commit/17037
-NUM_FILES_CHANGED = $(shell git diff-tree --no-commit-id --name-only -r $(SHA_FOR_GITHUB) | wc -l)
-SOURCE_FILE_CHANGED = $(strip $(shell git diff-tree --no-commit-id --name-only -r $(SHA_FOR_GITHUB) | grep 'src/'))
-NUM_SOURCE_FILE_CHANGED = $(shell git diff-tree --no-commit-id --name-only -r $(SHA_FOR_GITHUB) | grep 'src/' | wc -l)
+# Note - the following only works for pull requests - does not work for pushes
+NUM_FILES_CHANGED = $(shell git diff --name-only $(INPUT_BASE_REF) $(GITHUB_SHA) | wc -l)
+SOURCE_FILE_CHANGED = $(strip $(shell git diff --name-only $(INPUT_BASE_REF) $(GITHUB_SHA) | grep 'src/'))
+NUM_SOURCE_FILE_CHANGED = $(shell git diff --name-only $(INPUT_BASE_REF) $(GITHUB_SHA) | grep 'src/' | wc -l)
 LICENSE_SOURCE_DIR = src
 LICENSE_SOURCE = $(strip $(if $(and $(or $(filter $(NUM_FILES_CHANGED),1), $(filter $(NUM_FILES_CHANGED),2)), $(filter $(NUM_SOURCE_FILE_CHANGED),1)), $(SOURCE_FILE_CHANGED), $(LICENSE_SOURCE_DIR)));
 .PHONY: validate-canonical-match
 validate-canonical-match: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA) $(LICENSE_OUTPUT_DIR)
-	git diff-tree --no-commit-id --name-only -r $(SHA_FOR_GITHUB)
+	echo INPUT_BASE_REF
+	echo $(INPUT_BASE_REF)
+	echo NUM_FILES_CHANGED
+	echo $(NUM_FILES_CHANGED)
+	echo SOURCE_FILE_CHANGED
+	echo $(SOURCE_FILE_CHANGED)
+	echo NUM_SOURCE_FILE_CHANGED
+	echo $(NUM_SOURCE_FILE_CHANGED)
+	echo LICENSE_SOURCE
+	echo $(LICENSE_SOURCE)
 	java -jar -DLocalFsfFreeJson=true -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator '$(LICENSE_SOURCE:;=)' '$(LICENSE_OUTPUT_DIR)' 1.0 2000-01-01 $(TEST_DATA) expected-warnings
 
 .PHONY: deploy-license-data
