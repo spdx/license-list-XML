@@ -30,10 +30,13 @@ jobs:
             # Pull Request
             git fetch origin $GITHUB_BASE_REF --depth=1
             export BASE_REF=origin/$GITHUB_BASE_REF
-          else
-            # Push
+          elif [ ${{ github.event.before }} ]; then
+             # Push
             git fetch origin ${{ github.event.before }} --depth=1
             export BASE_REF=${{ github.event.before }}
+          else
+            # Use the last commit
+            export BASE_REF=$(git log -n 1 --pretty=format:"%H")
           fi
           echo "::set-output name=BASE_REF::$BASE_REF"
       - run: echo ${{steps.fetchdiff.outputs.BASE_REF}}
