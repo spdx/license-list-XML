@@ -35,8 +35,9 @@ jobs:
             git fetch origin ${{ github.event.before }} --depth=1
             export BASE_REF=${{ github.event.before }}
           else
-            # Use the last commit
-            export BASE_REF=$(git log -n 1 --pretty=format:"%H")
+            # This is the first commit in the branch - use the prior commit for the compare
+            export BASE_REF=$(git log -n 1 --skip=1 --pretty=format:"%H")
+            git fetch origin $BASE_REF --depth=1
           fi
           echo "::set-output name=BASE_REF::$BASE_REF"
       - run: echo ${{steps.fetchdiff.outputs.BASE_REF}}
