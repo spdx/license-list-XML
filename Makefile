@@ -4,10 +4,7 @@ TOOL_VERSION = 2.1.23
 TEST_DATA = test/simpleTestForGenerator
 GIT_AUTHOR = License Publisher (maintained by Gary O'Neall) <gary@sourceauditor.com>
 GIT_AUTHOR_EMAIL = gary@sourceauditor.com
-# TODO - CHANGE THIS BACK
-#### IMPORTANT
-#LICENSE_DATA_REPO_NO_SCHEME = github.com/spdx/license-list-data.git
-LICENSE_DATA_REPO_NO_SCHEME = github.com/goneall/license-list-data.git
+LICENSE_DATA_REPO_NO_SCHEME = github.com/spdx/license-list-data.git
 LICENSE_DATA_REPO = https://$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_DATA_URL = https://$(LICENSE_LIST_GITHUB_TOKEN)@$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_OUTPUT_DIR = .tmp
@@ -25,7 +22,7 @@ LICENSE_SOURCE_DIR = src
 LICENSE_SOURCE = $(strip $(if $(and $(or $(filter $(NUM_FILES_CHANGED),1), $(filter $(NUM_FILES_CHANGED),2)), $(filter $(NUM_SOURCE_FILE_CHANGED),1)), $(SOURCE_FILE_CHANGED), $(LICENSE_SOURCE_DIR)));
 .PHONY: validate-canonical-match
 validate-canonical-match: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA) $(LICENSE_OUTPUT_DIR)
-	echo Publishing source files form $(LICENSE_SOURCE)
+	echo Validating source files from $(LICENSE_SOURCE)
 	java -jar -DLocalFsfFreeJson=true -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator '$(LICENSE_SOURCE:;=)' '$(LICENSE_OUTPUT_DIR)' 1.0 2000-01-01 $(TEST_DATA) expected-warnings
 
 .PHONY: deploy-license-data
