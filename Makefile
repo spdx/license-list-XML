@@ -14,7 +14,6 @@ VERSION = $(subst V,,$(subst v,,$(GITVERSION)))
 RELEASE_DATE = $(shell date '+%Y-%m-%d')
 COMMIT_MSG = License list build $(VERSION) using license list publisher $(TOOL_VERSION)
 RELEASE_MSG = Adding release matching the license list XML tag $(VERSION)
-# Note - the following only works for pull requests - does not work for pushes
 NUM_FILES_CHANGED = $(shell git diff --name-only $(INPUT_BASE_REF) $(GITHUB_SHA) | wc -l)
 SOURCE_FILE_CHANGED = $(strip $(shell git diff --name-only $(INPUT_BASE_REF) $(GITHUB_SHA) | grep 'src/'))
 NUM_SOURCE_FILE_CHANGED = $(shell git diff --name-only $(INPUT_BASE_REF) $(GITHUB_SHA) | grep 'src/' | wc -l)
