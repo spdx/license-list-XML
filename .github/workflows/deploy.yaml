@@ -20,7 +20,7 @@ jobs:
             # Pull Request
             git fetch origin $GITHUB_BASE_REF --depth=1
             export BASE_REF=origin/$GITHUB_BASE_REF
-          elif [ ${{ github.event.before }} ]; then
+          elif [ ${{ github.event.before }} != 0000000000000000000000000000000000000000 ]; then
              # Push
             git fetch origin ${{ github.event.before }} --depth=1
             export BASE_REF=${{ github.event.before }}
