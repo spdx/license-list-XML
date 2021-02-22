@@ -1,0 +1,38 @@
+on: 
+  push:
+    branches:
+      - master
+    tags:
+      - "*"
+jobs:
+  validate_canonical_match:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-java@v1
+        with:
+          java-version: '11'
+      - uses: actions/checkout@v2
+      - name: Fetch changes for git diff
+        id: fetchdiff
+        run: |
+          if [ $GITHUB_BASE_REF ]; then
+            # Pull Request
+            git fetch origin $GITHUB_BASE_REF --depth=1
+            export BASE_REF=origin/$GITHUB_BASE_REF
+          elif [ ${{ github.event.before }} != 0000000000000000000000000000000000000000 ]; then
+             # Push
+            git fetch origin ${{ github.event.before }} --depth=1
+            export BASE_REF=${{ github.event.before }}
+          else
+            # This is the first commit in the branch - use the last for the compare
+            export BASE_REF=$(git log -n 1 --pretty=format:"%H")
+          fi
+          echo "::set-output name=BASE_REF::$BASE_REF"
+      - run: echo ${{steps.fetchdiff.outputs.BASE_REF}}
+      - run: git config --global user.email "gary@sourceauditor.com"
+      - run: git config --global user.name "License Publisher (maintained by Gary O'Neall)"
+      - run: make deploy-license-data
+        env:
+          LICENSE_LIST_GITHUB_TOKEN: ${{ secrets.LICENSE_LIST_GITHUB_TOKEN }}
+          INPUT_BASE_REF: ${{ steps.fetchdiff.outputs.BASE_REF }}
