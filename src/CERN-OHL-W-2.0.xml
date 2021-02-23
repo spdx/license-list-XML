@@ -1,5 +1,5 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license isOsiApproved="false" licenseId="CERN-OHL-W-2.0" name="CERN Open Hardware Licence Version 2 - Weakly Reciprocal" listVersionAdded="3.9">
+  <license isOsiApproved="true" licenseId="CERN-OHL-W-2.0" name="CERN Open Hardware Licence Version 2 - Weakly Reciprocal" listVersionAdded="3.9">
     <crossRefs>
       <crossRef>https://www.ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2</crossRef>
     </crossRefs>
