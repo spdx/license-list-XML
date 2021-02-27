@@ -43,11 +43,11 @@ release-license-data: deploy-license-data
 
 .PRECIOUS: licenseListPublisher-%.jar
 licenseListPublisher-%.jar:
-	curl -L https://dl.bintray.com/spdx/spdx-tools/org/spdx/licenseListPublisher/$*/licenseListPublisher-$*-jar-with-dependencies.jar >$@
+	curl -L https://repo1.maven.org/maven2/org/spdx/licenseListPublisher/$*/licenseListPublisher-$*-jar-with-dependencies.jar >$@
 
 .PRECIOUS: licenseListPublisher-%.jar.asc
 licenseListPublisher-%.jar.asc:
-	curl -L https://dl.bintray.com/spdx/spdx-tools/org/spdx/licenseListPublisher/$*/licenseListPublisher-$*-jar-with-dependencies.jar.asc >$@
+	curl -L https://repo1.maven.org/maven2/org/spdx/licenseListPublisher/$*/licenseListPublisher-$*-jar-with-dependencies.jar.asc >$@
 
 .PHONY: licenseListPublisher-%.jar-valid
 licenseListPublisher-%.jar-valid: licenseListPublisher-%.jar.asc licenseListPublisher-%.jar goneall.gpg
