@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: CC0-1.0
 
-TOOL_VERSION = 2.1.23
+TOOL_VERSION = 2.2.0
 TEST_DATA = test/simpleTestForGenerator
 GIT_AUTHOR = License Publisher (maintained by Gary O'Neall) <gary@sourceauditor.com>
 GIT_AUTHOR_EMAIL = gary@sourceauditor.com
@@ -43,11 +43,11 @@ release-license-data: deploy-license-data
 
 .PRECIOUS: licenseListPublisher-%.jar
 licenseListPublisher-%.jar:
-	curl -L https://dl.bintray.com/spdx/spdx-tools/org/spdx/licenseListPublisher/$*/licenseListPublisher-$*-jar-with-dependencies.jar >$@
+	curl -L https://repo1.maven.org/maven2/org/spdx/licenseListPublisher/$*/licenseListPublisher-$*-jar-with-dependencies.jar >$@
 
 .PRECIOUS: licenseListPublisher-%.jar.asc
 licenseListPublisher-%.jar.asc:
-	curl -L https://dl.bintray.com/spdx/spdx-tools/org/spdx/licenseListPublisher/$*/licenseListPublisher-$*-jar-with-dependencies.jar.asc >$@
+	curl -L https://repo1.maven.org/maven2/org/spdx/licenseListPublisher/$*/licenseListPublisher-$*-jar-with-dependencies.jar.asc >$@
 
 .PHONY: licenseListPublisher-%.jar-valid
 licenseListPublisher-%.jar-valid: licenseListPublisher-%.jar.asc licenseListPublisher-%.jar goneall.gpg
