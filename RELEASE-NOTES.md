@@ -19,9 +19,9 @@ The test / build / deploy CI system has been migrated from Travis to GitHub Acti
 
 Updates to various documentation, cleanup of markup for various licenses and other minor changes.
 
-See all PRs for 3.11 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.11+release%22+is%3Aclosed
+See all PRs for 3.12 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.12+release%22+is%3Aclosed
 
-See comparision of changes from 3.10 to 3.11: https://github.com/spdx/license-list-XML/compare/v3.10...v3.11
+See comparision of changes from 3.11 to 3.12: https://github.com/spdx/license-list-XML/compare/v3.11...v3.12
 
 ## version 3.11 - 2020-11-25
 
