@@ -20,7 +20,7 @@ NUM_SOURCE_FILE_CHANGED = $(shell git diff --name-only $(INPUT_BASE_REF) $(GITHU
 LICENSE_SOURCE_DIR = src
 LICENSE_SOURCE = $(strip $(if $(and $(or $(filter $(NUM_FILES_CHANGED),1), $(filter $(NUM_FILES_CHANGED),2)), $(filter $(NUM_SOURCE_FILE_CHANGED),1)), $(SOURCE_FILE_CHANGED), $(LICENSE_SOURCE_DIR)));
 # these files are copied directly into the website directory
-STATIC_FILES = equivalentwords.txt
+STATIC_FILES = equivalentwords.csv
 STATIC_FILES_DEST = $(LICENSE_OUTPUT_DIR)/website/
 
 .PHONY: validate-canonical-match
