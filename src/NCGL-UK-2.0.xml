@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-    <license licenseId="NCGL-UK-2.0" name="Non-Commercial Government Licence" listVersionAdded="2.0">
+    <license licenseId="NCGL-UK-2.0" name="Non-Commercial Government Licence" listVersionAdded="3.9">
         <crossRefs>
             <crossRef>http://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/version/2/</crossRef>
         </crossRefs>
