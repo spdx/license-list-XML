@@ -12,7 +12,8 @@ The purpose of the SPDX License List is to enable efficient and reliable identif
 Please note, a license not on the SPDX License List can be included in an SPDX document by using a 'LicenseRef-' and including the full license text as per the specification. 
 
 ## When 
-* SPDX License List releases are done on quarterly basis (more or less) at the end of January, April, July, and October. We schedule one month behind the usual quarterly calendar cadence to accommodate the reality that many peole have other commitments at quarter-end.
+* SPDX License List releases are done on quarterly basis (more or less) at the end of January, April, July, and October. We schedule one month behind the usual quarterly calendar cadence to accommodate the reality that many peole have other commitments at quarter-end
+* See https://github.com/spdx/license-list-XML/blob/master/RELEASE-NOTES.md for a summary of each release
 * All PRs to be included as part of release must be merged 1 week prior to release date to allow time for actual release work
 * Any new issues raised within the month of the next release will likely be tagged for the following release, unless it is an easy-to-resolve issue
 
