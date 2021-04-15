@@ -9,7 +9,12 @@ The purpose of the SPDX License List is to enable efficient and reliable identif
 ## How
 * For more about how SPDX license identifiers are used in an SPDX document, a software bill of materials, or other places that store license data, see [SPDX Specification](https://spdx.org/specifications), Sections 3, 4, and 6 and Appendices II, IV, and V.
 * For examples of use of SPDX license identifiers in source code, see https://spdx.org/ids.
-Please note, a license not on the SPDX License List can be included in an SPDX document by using a 'LicenseRef-' and including the full license text as per the specification. If you think there is a license that should be on the SPDX License List, please follow the instructions [CONTRIBUTING](https://github.com/spdx/license-list-XML/blob/master/CONTRIBUTING.md)
+Please note, a license not on the SPDX License List can be included in an SPDX document by using a 'LicenseRef-' and including the full license text as per the specification. 
+
+## When 
+* SPDX License List releases are done on quarterly basis (more or less) at the end of January, April, July, and October. We schedule one month behind the usual quarterly calendar cadence to accommodate the reality that many peole have other commitments at quarter-end.
+* All PRs to be included as part of release must be merged 1 week prior to release date to allow time for actual release work
+* Any new issues raised within the month of the next release will likely be tagged for the following release, unless it is an easy-to-resolve issue
 
 # This Repository
 This repository contains the XML source and schema files used to generate the authoritative, supported SPDX list file formats, including the web pages you see at [spdx.org/licenses](https://spdx.org/licenses/) and other generated data formats found in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data).
@@ -17,10 +22,8 @@ This repository contains the XML source and schema files used to generate the au
 # How to contribute/participate
 We welcome participants and contributions! The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done via:
 * **mailing list**: Please introduce yourself and let us know a bit about your interest in SPDX! The mailing list is our traditional form of communication. Join the mailing list, see archive, and manage your subscription [via lists.spdx.org](https://lists.spdx.org/g/Spdx-legal). 
-* **bi-weekly calls**: used to discuss topics and issues that may be difficult to only discuss via email or via Github. Information on the bi-weekly calls and the working area for the SPDX Legal Team, can be found on the [SPDX legal team wiki](https://wiki.spdx.org/view/Legal_Team)
+* **bi-weekly calls**: used to discuss topics and issues that may be difficult to only discuss via email or via Github. Bi-weekly calls and conference calls info is sent prior to the calls via the mailing list. If you join the mailing list, you should get a recurring invite at the beinning of each calendar year. Meeting minutes for the calls are in the [SPDX meetings repo](https://github.com/spdx/meetings/tree/master/legal); older meeting minutes can be found at http://wiki.spdx.org/
 * **this Github repo**: comments and issues and PRs related to specific changes to the files that comprise the SPDX License List, e.g., update a URL, recommend additional markup for matching purposes, or other such changes. 
-
-
 
 See [our contribution documentation](CONTRIBUTING.md) for details.
 
