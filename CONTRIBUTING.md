@@ -11,7 +11,7 @@ Please familiarize yourself with the SPDX License List and its supporting docume
 # Join the mailing list and our bi-weekly calls
 
 The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done via:
-* **join the mailing list**: Please introduce yourself and let us know a bit about your interest in SPDX! The mailing list is our traditional form of communication. Join the mailing list, see archive, and manage your subscription at [via lists.spdx.org](https://lists.spdx.org/g/Spdx-legal).
+* **join the mailing list**: Please introduce yourself and let us know a bit about your interest in SPDX! The mailing list is our traditional form of communication. Join the mailing list, see archive, and manage your subscription at [lists.spdx.org](https://lists.spdx.org/g/Spdx-legal).
 * **join the bi-weekly calls**: Bi-weekly conference call info is sent prior to the calls via the mailing list. If you join the mailing list, you should get a recurring invite at the beginning of each calendar year. Meeting minutes for the calls are in the [SPDX meetings repo](https://github.com/spdx/meetings/tree/master/legal); historical meeting minutes can be found at http://wiki.spdx.org/
 
 # Getting started 
