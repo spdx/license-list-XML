@@ -28,8 +28,6 @@ Below are some ways you can get started participating and contributing!
 * Request a new license be added to the SPDX License List by following the instructions HERE ADDLINK
 
 * Email the mailing list about how you are using or questions about the SPDX License List 
-* 
 * Recommend additional markup for matching purposes
-
 
 
