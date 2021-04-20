@@ -9,7 +9,7 @@ The purpose of the SPDX License List is to enable efficient and reliable identif
 ## How
 * For more about how SPDX license identifiers are used in an SPDX document, a software bill of materials, or other places that store license data, see [SPDX Specification](https://spdx.org/specifications), Sections 3, 4, and 6 and Appendices II, IV, and V.
 * For examples of use of SPDX license identifiers in source code, see https://spdx.org/ids.
-Please note, a license not on the SPDX License List can be included in an SPDX document by using a 'LicenseRef-' and including the full license text as per the specification. 
+Please note, a license not on the SPDX License List can be included in an SPDX document by using a 'LicenseRef-' as the license name’s prefix and including the full license text as per the specification. 
 
 ## When 
 * SPDX License List releases are done on a quarterly basis (more or less) at the end of January, April, July, and October. We schedule our License List releases one month behind the usual quarterly calendar cadence to accommodate the reality that many people contributing have other commitments at quarter-end.
