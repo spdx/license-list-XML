@@ -25,7 +25,7 @@ Below are some ways you can get started participating and contributing!
 
 * Review PRs 
 
-* Request a new license be added to the SPDX License List by following the instructions HERE ADDLINK
+* Request a new license be added to the SPDX License List by following the [request new license] (https://github.com/spdx/license-list-XML/blob/master/DOCS/request-new-license.md) instructions
 
 * Email the [mailing list](https://lists.spdx.org/g/spdx-legal) about how you are using or questions about the SPDX License List 
 * Recommend additional markup for matching purposes
