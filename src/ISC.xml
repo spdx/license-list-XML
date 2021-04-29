@@ -16,7 +16,7 @@
       <p>Permission to use, copy, modify, and<optional>/or</optional> distribute this software for any purpose with or without fee is
          hereby granted, provided that the above copyright notice and this permission notice appear in all
          copies.</p>
-      <p>THE SOFTWARE IS PROVIDED "AS IS" AND <alt match=".+" name="copyrightHolder">COPYRIGHT HOLDER</alt> DISCLAIMS ALL
+      <p>THE SOFTWARE IS PROVIDED "AS IS" AND <alt match=".+" name="author">THE AUTHOR</alt> DISCLAIMS ALL
          WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
          FITNESS. IN NO EVENT SHALL <alt match=".+" name="authorLiability">THE AUTHOR</alt> BE LIABLE FOR ANY
          SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF
