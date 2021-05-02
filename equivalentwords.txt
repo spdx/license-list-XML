@@ -31,7 +31,7 @@ organization,organisation
 organize,organise
 percent,per cent
 practice,practise
-program,programme
+program,programme 
 realize,realise
 recognize,recognise
 signaling,signalling
