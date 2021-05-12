@@ -1,11 +1,11 @@
 # Before you contribute to the SPDX License List
 Please familiarize yourself with the SPDX License List and its supporting documentation, so that you understand the pertinent context around the list itself:
 * [License inclusion principles](DOCS/license-inclusion-principles.md) 
-* 
+
 * [Explanation of the fields contained on the list](DOCS/license-fields.md)
-* 
+
 * [SPDX License List Matching Guidelines](https://spdx.org/spdx-license-list/matching-guidelines) provides guidelines to be used for the purposes of matching licenses and license exceptions against those included on the SPDX License List.
-* 
+
 * [SPDX Specification](https://spdx.org/specifications): It is helpful to be familiar with certain sections of the SPDX Specification thatuse or deal with the SPDX License List. In particular: sub-sections related to license information in Section 3, 4, and 6; Appendices II, IV, and V.
 
 # Join the mailing list and our bi-weekly calls
@@ -25,7 +25,7 @@ Below are some ways you can get started participating and contributing!
 
 * Review PRs 
 
-* Request a new license be added to the SPDX License List by following the [request new license] (https://github.com/spdx/license-list-XML/blob/master/DOCS/request-new-license.md) instructions
+* Request a new license be added to the SPDX License List by following the [request new license](https://github.com/spdx/license-list-XML/blob/master/DOCS/request-new-license.md) instructions
 
 * Email the [mailing list](https://lists.spdx.org/g/spdx-legal) about how you are using or questions about the SPDX License List 
 * Recommend additional markup for matching purposes
