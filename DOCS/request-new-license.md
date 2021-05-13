@@ -25,4 +25,6 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 3. If accepted, the new license or exception will be need to be prepared in the proper XML format and plain text test file via a Pull Request and reviewed as appropriate. The plain text test file should be UTF-8 encoded and match the text and formatting of the original license. The Pull Request is ideally done by the license submitter, with help from experienced members of the SPDX legal team, as needed.
 
 4. The new license/exception will be officially added for the next release of the SPDX License List.
-  * Note: Once a license has been accepted to be added to the SPDX License List, it is fine to start using the SPDX identifier, even if the official release has not yet occurred. 
+
+Note: Once a license has been accepted to be added to the SPDX License List, it is fine to start using the SPDX identifier, even if the official release has not yet occurred. 
+Note: If a license is *not* accepted for inclusion on the SPDX License List, you can use the 'LicenseRef-[idstring]' tag to identify your license, as per [SPDX specification, section 6](https://spdx.github.io/spdx-spec/6-other-licensing-information-detected/)
