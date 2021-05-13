@@ -43,18 +43,14 @@
           <alt match="name\(s\)|name|name" name="nameClause4">name</alt>
             <alt match=".+" name="organizationClause4">"Apache" and "Apache Software Foundation"</alt> must
           not be used to endorse or promote products derived from this software without prior written
-          permission. For written permission, please contact
-          <alt match=".+" name="contactClause4">apache@apache.org</alt>.
+          permission. <optional>For written permission, please contact apache@apache.org</optional>.
 
       </item>
          <item>
             <bullet>5.</bullet>
-        Products derived from this software may not be called
-          <alt match=".+" name="name1Clause5">"Apache" [ex. "Jakarta," "Apache," or "Apache Commons,"]</alt> nor may
-          <alt match=".+" name="name2clause5">"Apache" [ex. the names]</alt> appear in their name, without
-          prior written permission of
-          <alt match=".+" name="name3clause5">the Apache Software Foundation</alt>.
-
+        <alt match="(Products derived from this software may not be called\s.+nor may\s.+appear in their name, without prior written permission of\s.+.|Products may not include\s.+in their name, without prior written permission of\s.+.)" name="Clause5">Products derived from this software may not be called "Apache" 
+		[ex. "Jakarta," "Apache," or "Apache Commons,"] nor may "Apache" [ex. the names] appear in their name, 
+		without prior written permission of the Apache Software Foundation.</alt>
       </item>
       </list>
       <p>THIS SOFTWARE IS PROVIDED ''AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED

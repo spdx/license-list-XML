@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="Unlicense" name="The Unlicense">
+   <license isOsiApproved="true" licenseId="Unlicense" name="The Unlicense">
       <crossRefs>
-         <crossRef>http://unlicense.org/</crossRef>
+         <crossRef>https://unlicense.org/</crossRef>
       </crossRefs>
       <notes>This is a public domain dedication</notes>
     <text>
@@ -13,7 +13,7 @@
       <p>In jurisdictions that recognize copyright laws, the author or authors of this software dedicate any and
          all copyright interest in the software to the public domain. We make this dedication for the benefit
          of the public at large and to the detriment of our heirs and
-        <br/>successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all
+        successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all
              present and future rights to this software under copyright law.
       </p>
       <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
@@ -21,7 +21,7 @@
          NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
          OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
          OTHER DEALINGS IN THE SOFTWARE.</p>
-      <p>For more information, please refer to &lt;http://unlicense.org/&gt;</p>
+      <optional><p>For more information, please refer to &lt;https://unlicense.org/&gt;</p></optional>
     </text>
   </license>
 </SPDXLicenseCollection>

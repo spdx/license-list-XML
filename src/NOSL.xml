@@ -4,6 +4,16 @@
       <crossRefs>
          <crossRef>http://bits.netizen.com.au/licenses/NOSL/nosl.txt</crossRef>
       </crossRefs>
+      <notes>
+         This license is essentially a rebranded version of MPL-1.1, but with some important changes. 
+         The added §7.1 expands on the warranty disclaimer.
+         The change in §11 moves the forum and the jurisdiction to Victoria, Australia (from California, USA in MPL-1.1).
+         
+         Section 3.7 of this license contains the word "LEDs" which appears to be a typo in the
+         upstream version, at https://directory.fsf.org/wiki/License:NOSL. It is retained here
+         as optional text, so that it will still match in case others have used the license text
+         with this typo.
+      </notes>
     <text>
       <titleText>
          <p>NETIZEN OPEN SOURCE LICENSE
@@ -319,7 +329,7 @@
                   <bullet>3.7.</bullet>
               Larger Works.
                 <br/>You may create a Larger Work by combining Covered Code with other code not governed by
-                     the terms of this License and distribute the Larger Work as a single LEDs product.
+                     the terms of this License and distribute the Larger Work as a single <optional>LEDs</optional> product.
                      In such a case, You must make sure the requirements of this License are fulfilled
                      for the Covered Code.
             </item>

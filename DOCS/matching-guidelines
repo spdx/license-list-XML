@@ -1,7 +1,7 @@
 <!--this is the HTML for the webpage at https://spdx.org/spdx-license-list/matching-guidelines - this is here to enable tracking of changes on that page -->
 
 <div id="content-area">
-	<p><strong>SPDX License List Matching Guidelines, v2.0</strong></p>
+	<p><strong>SPDX License List Matching Guidelines, v2.1</strong></p>
 
 	<p>This document provides guidelines to be used for the purposes of matching licenses and license exceptions against those included on the SPDX License List. There is no intent here to make a judgment or interpretation, but merely to ensure that when one SPDX user identifies a license as &quot;BSD 3-clause,&quot; for example, it is indeed the same license as what someone else identifies as &quot;BSD 3-clause&quot; and the same license as what is listed on the SPDX License List. Examples of how to apply some of the matching guidelines to a license or exception are provided via templates. &nbsp;Templates are comprised of technical markup within the master license text file to provide further or specific guidance to SPDX document creators or tool makers. &nbsp;Not all licenses or exceptions will have templates.</p>
 
@@ -65,102 +65,7 @@
 
 	<p style="padding-left: 30px;"><span style="text-decoration: underline;">8.1 Purpose:</span>&nbsp; English uses different spelling for some words. By identifying the spelling variations for words found or likely to be found in licenses, we avoid the possibility of a non-match due to the same word being spelled differently. This list is not meant to be an exhaustive list of all spelling variations, but meant to capture the words most likely to be found in open source software licenses.</p>
 
-	<p style="padding-left: 60px;"><span style="text-decoration: underline;">8.1.1 Guideline:</span>&nbsp; The words in the following columns are considered equivalent and interchangeable. Templates do not include markup for this guideline.</p>
-
-	<table border="1" style="margin-bottom:1em;margin-top:1em;width:400px;">
-		<tbody style="border-top-style: none;">
-			<tr>
-				<td style="font-family: Verdana, Tahoma, &quot;DejaVu Sans&quot;, sans-serif;">Column 1</td>
-				<td style="font-family: Verdana, Tahoma, &quot;DejaVu Sans&quot;, sans-serif;">Column 2</td>
-			</tr>
-			<tr>
-				<td style="font-family: Verdana, Tahoma, &quot;DejaVu Sans&quot;, sans-serif;">1. Acknowledgement&nbsp;<br />
-					2. Analog&nbsp;<br />
-					3. Analyze&nbsp;<br />
-					4. Artifact&nbsp;<br />
-					5. Authorization&nbsp;<br />
-					6. Authorized&nbsp;<br />
-					7. Caliber&nbsp;<br />
-					8. Canceled&nbsp;<br />
-					9. Capitalizations&nbsp;<br />
-					10. Catalog&nbsp;<br />
-					11. Categorize&nbsp;<br />
-					12. Center&nbsp;<br />
-					13. Emphasized&nbsp;<br />
-					14. Favor&nbsp;<br />
-					15. Favorite&nbsp;<br />
-					16. Fulfill&nbsp;<br />
-					17. Fulfillment&nbsp;<br />
-					18. Initialize&nbsp;<br />
-					19. Judgement&nbsp;<br />
-					20. Labeling&nbsp;<br />
-					21. Labor&nbsp;<br />
-					22. License&nbsp;<br />
-					23. Maximize&nbsp;<br />
-					24. Modeled&nbsp;<br />
-					25. Modeling&nbsp;<br />
-					26. Offense&nbsp;<br />
-					27. Optimize&nbsp;<br />
-					28. Organization&nbsp;<br />
-					29. Organize&nbsp;<br />
-					30. Practice&nbsp;<br />
-					31. Program&nbsp;<br />
-					32. Realize&nbsp;<br />
-					33. Recognize&nbsp;<br />
-					34. Signaling&nbsp;<br />
-					35. Sublicense&nbsp;<br />
-					36. Sub-license&nbsp;<br />
-					37. Utilization&nbsp;<br />
-					38. While&nbsp;<br />
-					39. Wilfull&nbsp;<br />
-					40. Noncommercial&nbsp;<br />
-					41. Percent&nbsp;<br />
-					42. Copyright holder</td>
-				<td style="font-family: Verdana, Tahoma, &quot;DejaVu Sans&quot;, sans-serif;">1. Acknowledgment&nbsp;<br />
-					2. Analogue&nbsp;<br />
-					3. Analyse&nbsp;<br />
-					4. Artefact&nbsp;<br />
-					5. Authorisation&nbsp;<br />
-					6. Authorised&nbsp;<br />
-					7. Calibre&nbsp;<br />
-					8. Cancelled&nbsp;<br />
-					9. Capitalisations&nbsp;<br />
-					10. Catalogue&nbsp;<br />
-					11. Categorise&nbsp;<br />
-					12. Centre&nbsp;<br />
-					13. Emphasised&nbsp;<br />
-					14. Favour&nbsp;<br />
-					15. Favourite&nbsp;<br />
-					16. Fulfil&nbsp;<br />
-					17. Fulfilment&nbsp;<br />
-					18. Initialise&nbsp;<br />
-					19. Judgment&nbsp;<br />
-					20. Labelling&nbsp;<br />
-					21. Labour&nbsp;<br />
-					22. Licence&nbsp;<br />
-					23. Maximise&nbsp;<br />
-					24. Modelled&nbsp;<br />
-					25. Modelling&nbsp;<br />
-					26. Offence&nbsp;<br />
-					27. Optimise&nbsp;<br />
-					28. Organisation&nbsp;<br />
-					29. Organise&nbsp;<br />
-					30. Practise&nbsp;<br />
-					31. Programme&nbsp;<br />
-					32. Realise&nbsp;<br />
-					33. Recognise&nbsp;<br />
-					34. Signalling&nbsp;<br />
-					35. Sub-license&nbsp;<br />
-					36. Sub license&nbsp;<br />
-					37. Utilisation&nbsp;<br />
-					38. Whilst&nbsp;<br />
-					39. Wilful&nbsp;<br />
-					40. Non-commercial&nbsp;<br />
-					41. Per cent&nbsp;<br />
-					42. Copyright owner</td>
-			</tr>
-		</tbody>
-	</table>
+	<p style="padding-left: 60px;"><span style="text-decoration: underline;">8.1.1 Guideline:</span>&nbsp; The words in each line of the text file available at&nbsp;<a href="https://github.com/spdx/license-list-XML/blob/master/equivalentwords.txt">https://github.com/spdx/license-list-XML/blob/master/equivalentwords.txt</a> are considered equivalent and interchangeable. Templates do not include markup for this guideline.</p>
 
 	<p><strong>9. Copyright Symbol</strong></p>
 
@@ -185,4 +90,20 @@
 	<p style="padding-left: 30px;"><span style="text-decoration: underline;">12.1 Purpose:</span>&nbsp; To avoid a license mismatch merely because extraneous text that&nbsp;appears at the end of the terms of a license is different or missing. This also&nbsp;avoids a mismatch if the extraneous text merely serves as a license notice example and includes a specific copyright holder&#39;s name.</p>
 
 	<p style="padding-left: 60px;"><span style="text-decoration: underline;">12.1.1 Guideline:</span>&nbsp; Ignore any text that occurs after the obvious end of the&nbsp;license and does not include substantive text of the license, for example: text that occurs after a statement such as, &quot;END OF TERMS&nbsp;AND CONDITIONS,&quot; or an exhibit or appendix that includes an example or instructions on to how to&nbsp;apply the license to your code. Do not apply this guideline or ignore text that is comprised of additional&nbsp;license terms (e.g., permitted additional terms under GPL-3.0, section 7). Templates do not include markup for this guideline.</p>
+
+	<p><strong>13. HTTP Protocol</strong></p>
+
+	<p style="padding-left: 30px;"><span style="text-decoration: underline;">13.1 Purpose:</span>&nbsp; To avoid a license mismatch due to a difference in a hyperlink protocol (e.g. http vs. https).</p>
+
+	<p style="padding-left: 60px;"><span style="text-decoration: underline;">13.1.1 Guideline:</span>&nbsp; HTTP:// and HTTPS:// should be considered equivalent. Templates may or may not include markup for this guideline.</p>
 </div>
+
+<hr />
+<p><strong>Revision history</strong></p>
+
+<p>2020-02-11, v2.1:</p>
+
+<ul>
+	<li>Moved equivalent words table from section 8 into license-list-XML repo.</li>
+	<li>Added section 13 with HTTP Protocol guideline.</li>
+</ul>

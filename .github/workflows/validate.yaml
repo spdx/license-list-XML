@@ -1,0 +1,46 @@
+on: 
+  pull_request:
+  workflow_dispatch:
+  push:
+    branches-ignore: master
+jobs:
+  validate_schema:
+    name: Validate schema
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '9'
+      - run: |
+          npm install
+          npm test
+  validate_canonical_match:
+    name: Validate canonical match
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-java@v1
+        with:
+          java-version: '11'
+      - uses: actions/checkout@v2
+      - name: Fetch changes for git diff
+        id: fetchdiff
+        run: |
+          if [ $GITHUB_BASE_REF ]; then
+            # Pull Request
+            git fetch origin $GITHUB_BASE_REF --depth=1
+            export BASE_REF=origin/$GITHUB_BASE_REF
+          elif [ ${{ github.event.before }} != 0000000000000000000000000000000000000000 ]; then
+             # Push
+            git fetch origin ${{ github.event.before }} --depth=1
+            export BASE_REF=${{ github.event.before }}
+          else
+            # This is the first commit in the branch - use the first commit
+            export BASE_REF=$(git log -n 1 --pretty=format:"%H")
+          fi
+          echo "::set-output name=BASE_REF::$BASE_REF"
+      - run: echo ${{steps.fetchdiff.outputs.BASE_REF}}
+      - name: Validate canonical match
+        run: make validate-canonical-match
+        env: 
+          INPUT_BASE_REF: ${{ steps.fetchdiff.outputs.BASE_REF }}

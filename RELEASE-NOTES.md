@@ -1,5 +1,168 @@
 # Release Notes for SPDX License List
 
+## version 3.12 - 2021-03-07
+
+New licenses/exceptions added: 10
+
+1. BSD-3-Clause-Modification
+2. BSD-4-Clause-Shortened
+3. CC-BY-SA-2.1-JP
+4. C-UDA-1.0
+5. DRL-1.0
+6. FreeBSD-DOC
+7. GD
+8. MIT-Modern-Variant
+9. NAIST-2003
+10. OGDL-Taiwan-1.0
+
+The test / build / deploy CI system has been migrated from Travis to GitHub Actions.
+
+Updates to various documentation, cleanup of markup for various licenses and other minor changes.
+
+See all PRs for 3.12 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.12+release%22+is%3Aclosed
+
+See comparision of changes from 3.11 to 3.12: https://github.com/spdx/license-list-XML/compare/v3.11...v3.12
+
+## version 3.11 - 2020-11-25
+
+New licenses/exceptions added: 6
+
+1. ANTLR-PD-fallback
+1. BUSL-1.1
+1. CC-BY-3.0-US
+1. CC-BY-SA-2.0-UK
+1. HTMLTIDY
+1. MIT-open-group
+
+Update several licenses to note that they have become OSI-approved.
+
+Updates and cleanup of markup for various licenses and other minor changes.
+
+See all PRs for 3.11 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.11+release%22+is%3Aclosed
+
+See comparision of changes from 3.10 to 3.11: https://github.com/spdx/license-list-XML/compare/v3.10...v3.11
+
+## version 3.10 - 2020-08-03
+
+New licenses/exceptions added: 20
+
+1. BSD-2-Clause-Views
+1. CC-BY-NC-ND-3.0-IGO
+1. CC-BY-SA-3.0-AT
+1. CC-BY-3.0-AT
+1. EPICS
+1. GFDL-1.1-invariants-only
+1. GFDL-1.1-invariants-or-later
+1. GFDL-1.1-no-invariants-only
+1. GFDL-1.1-no-invariants-or-later
+1. GFDL-1.2-invariants-only
+1. GFDL-1.2-invariants-or-later
+1. GFDL-1.2-no-invariants-only
+1. GFDL-1.2-no-invariants-or-later
+1. GFDL-1.3-invariants-only
+1. GFDL-1.3-invariants-or-later
+1. GFDL-1.3-no-invariants-only
+1. GFDL-1.3-no-invariants-or-later
+1. GLWTPL
+1. NIST-PD
+1. NIST-PD-fallback
+
+Extensive updates to documentation for workflow to add new licenses.
+
+Deprecate BSD-2-Clause-FreeBSD as substantively identical to BSD-2-Clause-Views.
+
+Updates and cleanup of markup for various licenses and other minor changes.
+
+See all PRs for 3.10 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.10+release%22+is%3Aclosed
+
+See comparision of changes from 3.9 to 3.10: https://github.com/spdx/license-list-XML/compare/v3.9...v3.10
+
+## version 3.9 - 2020-05-15
+
+New licenses/exceptions added: 16
+
+1. CAL-1.0
+1. CAL-1.0-Combined-Work-Exception
+1. CERN-OHL-P-2.0
+1. CERN-OHL-S-2.0
+1. CERN-OHL-W-2.0
+1. Hippocratic-2.1
+1. LGPL-3.0-linking-exception
+1. MulanPSL-2.0
+1. NCGL-UK-2.0
+1. O-UDA-1.0
+1. OGC-1.0
+1. Parity-7.0.0
+1. PolyForm-Noncommercial-1.0.0
+1. PolyForm-Small-Business-1.0.0
+1. SHL-2.0
+1. SHL-2.1
+
+Deprecate BSD-2-Clause-NetBSD as substantively identical to BSD-2-Clause.
+
+Update and expand license inclusion principles.
+
+Update matching guidelines to v2.1.
+
+Add and update various documentation and legal team meeting details.
+
+Add helper script to enable renaming licenses for use in preparing XML and test
+files.
+
+Updates and cleanup of markup for various licenses and other minor changes.
+
+See all PRs for 3.9 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.9+release%22+is%3Aclosed
+
+See comparision of changes from 3.8 to 3.9: https://github.com/spdx/license-list-XML/compare/v3.8...v3.9
+
+## version 3.8 - 2020-02-09
+
+New licenses/exceptions added: 9
+
+1. GPL-3.0-linking-exception
+1. GPL-3.0-linking-source-exception
+1. libselinux-1.0
+1. NTP-0
+1. OFL-1.0-RFN
+1. OFL-1.0-no-RFN
+1. OFL-1.1-RFN
+1. OFL-1.1-no-RFN
+1. PSF-2.0
+
+Updates and cleanup of markup for various licenses and other minor changes.
+
+Add machine-readable copy of "equivalent words" from matching guidelines.
+
+See all PRs for 3.8 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.8+release%22+is%3Aclosed
+
+See comparision of changes from 3.7 to 3.8: https://github.com/spdx/license-list-XML/compare/v3.7...v3.8
+
+## version 3.7 - 2019-10-22
+
+New licenses/exceptions added: 6
+
+1. etalab-2.0
+1. MulanPSL-1.0
+1. OGL-Canada-2.0
+1. SSH-OpenSSH
+1. SSH-short
+1. UCL-1.0
+
+Updates and cleanup of markup for various licenses and other minor changes.
+
+Add and update documentation regarding the history of the SPDX License List and
+development of license inclusion guidelines.
+
+Technical fixes to license list publisher to handle appropriate display of
+optional text fields.
+
+Add helper script to enable testing a single license XML file rather than
+requiring re-test of entire repo.
+
+See all PRs for 3.7 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.7+release%22+is%3Aclosed
+
+See comparision of changes from 3.6 to 3.7: https://github.com/spdx/license-list-XML/compare/v3.6...v3.7
+
 ## version 3.6 - 2019-07-10
 
 New licenses/exceptions added: 10
@@ -29,7 +192,6 @@ Cleanup of stray whitespace across the repository.
 See all PRs for 3.6 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.6+release%22+is%3Aclosed
 
 See comparision of changes from 3.5 to 3.6: https://github.com/spdx/license-list-XML/compare/v3.5...v3.6
-
 
 ## version 3.5 - 2019-04-02
 

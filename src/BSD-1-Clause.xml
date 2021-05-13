@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <license licenseId="BSD-1-Clause" name="BSD 1-Clause License">
+  <license isOsiApproved="true" licenseId="BSD-1-Clause" name="BSD 1-Clause License">
     <crossRefs>
       <crossRef>https://svnweb.freebsd.org/base/head/include/ifaddrs.h?revision=326823</crossRef>
     </crossRefs>
