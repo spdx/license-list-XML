@@ -1,5 +1,18 @@
 # Release Notes for SPDX License List
 
+## version 3.13 - 2021-05-15
+
+New licenses/exceptions added: 2
+
+1. BSD-3-Clause-No-Military-License
+2. CDL-1.0
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+See all PRs for 3.13 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.13%22+is%3Aclosed
+
+See comparision of changes from 3.12 to 3.13: https://github.com/spdx/license-list-XML/compare/v3.12...v3.13
+
 ## version 3.12 - 2021-03-07
 
 New licenses/exceptions added: 10
