@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="NLOD-2.0"
-            name="Norwegian Licence for Open Government Data (NLOD) 2.0">
+            name="Norwegian Licence for Open Government Data (NLOD) 2.0"
+            listVersionAdded="3.14">
       <crossRefs>
          <crossRef>http://data.norge.no/nlod/en/2.0</crossRef>
       </crossRefs>
