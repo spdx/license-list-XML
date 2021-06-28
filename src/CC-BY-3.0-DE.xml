@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="CC-BY-NC-ND-3.0-DE"
+   <license isOsiApproved="false" licenseId="CC-BY-3.0-DE"
             name="Creative Commons Namensnennung 3.0 Deutschland" listVersionAdded="3.14">
       <crossRefs>
          <crossRef>https://creativecommons.org/licenses/by/3.0/de/legalcode</crossRef>
