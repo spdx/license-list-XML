@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <exception licenseId="deluge-openssl-exception" name="Deluge OpenSSL Exception" listVersionAdded="3.5">
+      <crossRefs>
+         <crossRef>https://git.deluge-torrent.org/deluge/tree/LICENSE</crossRef>
+      </crossRefs>
+      <notes>Generally identical to debian-openssl-exception, but some language from the end of its first sentence is omitted here.</notes>
+    <text>
+      <p>In addition, as a special exception, the copyright holders give
+         permission to link the code of portions of this program with the
+         OpenSSL library.</p>
+      <p>You must obey <alt match=".+" name="underlyingLicense">the underlying license</alt> in all respects
+         for all of the code used other than OpenSSL.  If you modify
+         file(s) with this exception, you may extend this exception to your
+         version of the file(s), but you are not obligated to do so.  If you
+         do not wish to do so, delete this exception statement from your
+         version.  If you delete this exception statement from all source
+         files in the program, then also delete it here.</p>
+    </text>
+  </exception>
+</SPDXLicenseCollection>
