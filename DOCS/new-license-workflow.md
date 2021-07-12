@@ -120,9 +120,7 @@ You're done! Yes, there may be more advanced cases where more work than this is 
 
 ### Test locally
 
-When you send the pull request (below), our [CI/CD](https://en.wikipedia.org/wiki/CI/CD) tool [Travis](https://travis-ci.org/github/spdx/license-list-XML) will run all of the tests to make sure everything is OK.
-
-However, that can take quite a bit of time since it runs the tests for every single license in the list. If you make a mistake, you may be waiting a while to learn about it. Often it's much faster to test things locally first. There are three ways to do this:
+When you send the pull request (below), our [CI/CD](https://en.wikipedia.org/wiki/CI/CD) tool will run all of the tests to make sure everything is OK. However, often it's much faster to test things locally first. There are three ways to do this:
 
 #### Use your browser to test the XML file
 
@@ -134,7 +132,7 @@ Of course, keep in mind that this only tests that the XML file is valid XML. The
 
 #### Run all tests on your machine
 
-You can run the same tests Travis will, just on your local machine so it's a little faster than waiting for the Travis return trip.
+You can run (on your local machine) the same tests that the CI/CD tool does automatically when you make a pull request. They might run a little faster on your machine, and of course this doesn't require approval like the CI/CD pipeline does if you're a first-time contributor to the License List!
 
 This requires that you're familiar with the command line and ensuring that script dependencies are all installed. Learning these things is left as an exercise for the reader.
 
