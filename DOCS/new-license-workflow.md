@@ -36,7 +36,7 @@ If the license/exception is accepted, make a note in the issue, add the [label](
 
 The final step is to create the license XML and test .txt files.
 
-While you can do this using the [SPDX Online tools](https://spdxtools.sourceauditor.com/), you can also [clone (fork) the license-list-XML repository (repo)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-forks), make the edits on your clone of the repo, then [send a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). The clone-and-edit process is currently necessary for the test .txt file regardless, as the SPDX Online tools do not yet support adding a test .txt file (see issue [here](https://github.com/spdx/spdx-online-tools/issues/206)).
+While you can do this using the [SPDX Online tools](https://tools.spdx.org/), you can also [clone (fork) the license-list-XML repository (repo)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-forks), make the edits on your clone of the repo, then [send a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). The clone-and-edit process is currently necessary for the test .txt file regardless, as the SPDX Online tools do not yet support adding a test .txt file (see issue [here](https://github.com/spdx/spdx-online-tools/issues/206)).
 
 The following steps assume you're working from a clone of the repo, but we have some basic steps afterwards if you'd like to edit the XML using the SPDX Online tools.
 
