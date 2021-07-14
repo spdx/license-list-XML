@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
     <license licenseId="CDLA-Permissive-2.0"
         name="Community Data License Agreement Permissive 2.0"
-        listVersionAdded="3.14">
+        isOsiApproved="false" listVersionAdded="3.14">
         <crossRefs>
             <crossRef>https://cdla.dev/permissive-2-0</crossRef>
         </crossRefs>
