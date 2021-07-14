@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="CC-BY-NC-SA-2.0-UK" name="Creative Commons Attribution - Non-Commercial - Share-Alike 2.0 England and Wales">
+   <license isOsiApproved="false" licenseId="CC-BY-NC-SA-2.0-UK" name="Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales">
       <crossRefs>
          <crossRef>https://creativecommons.org/licenses/by-nc-sa/2.0/uk/legalcode</crossRef>
       </crossRefs>
