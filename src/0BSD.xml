@@ -5,6 +5,9 @@
          <crossRef>http://landley.net/toybox/license.html</crossRef>
       </crossRefs>
     <text>
+      <titleText>
+         <p><alt name="title" match="(BSD Zero[ -]Clause|Zero[ -]Clause BSD)( License)?( \(0BSD\))?">BSD Zero Clause License</alt></p>
+      </titleText>
       <copyrightText>
          <p>Copyright (C) YEAR by AUTHOR EMAIL</p>
       </copyrightText>
