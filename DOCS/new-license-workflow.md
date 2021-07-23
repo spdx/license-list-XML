@@ -18,7 +18,7 @@ New license requests are to be assigned to an SPDX legal team member and that pe
 3. If the submitter is not the license author or steward, ask for that contact or try to find that person or organization to make them aware the license has been submitted.
 4. Check the submission for any other missing information, e.g., working URL, examples of use, full text, standard header, etc. You can find the field definitions in the [DOCS/license-fields](https://github.com/spdx/license-list-XML/blob/master/DOCS/license-fields.md) document.
 Ask the submitter for any additional info needed, preferably via the GitHub issue, if possible. Record any updates there.
-    1. The "standard header" or "official license header" is defined in the [SPDX Matching Guidelines (sec. 1.1.1)](https://spdx.dev/license-list/matching-guidelines/) as "specific text specified within the license itself to be put in the header of files."
+    1. The "standard header" or "official license header" is defined in section 1.1.1 of the [SPDX Matching Guidelines](https://spdx.github.io/spdx-spec/appendix-II-license-matching-guidelines-and-templates/) as "specific text specified within the license itself to be put in the header of files."
 5. Review the following, bring any questions to legal team:
     1. Is this an open source license?
     2. Is the short identifier unique? Does this license have a short identifier that is used elsewhere already (e.g., Fedora)?
@@ -171,7 +171,7 @@ The [SPDX Online tools](https://tools.spdx.org/) are an option for editing the X
     1. The current XML output does not implement some of XML tagging and may mark every new line with a paragraph tag depending on input. If this has happened, it may be more efficient to re-submit the license text, using a wrapped text version.
     1. Make sure to include listVersionAdded= and the correct license list version number for the upcoming release
     1. Check for a standard license header
-    1. Check if there should be any Notes based on Notes field description in the [Overview page](https://spdx.dev/license-list/)
+    1. Check if any notes should be added (see the field description in the [DOCS/license-fields](https://github.com/spdx/license-list-XML/blob/master/DOCS/license-fields.md) document for more information)
     1. Check that we have a working URL for the license text in the wild. If using a link in GitHub, include a link to a specific commit
     1. Check all the XML formatting: the current XML output does not insert the bullet or list tags. Use a previously submitted license as reference for how to format
     1. If you have questions about text that could be optional or could be replaceable, add a comment to the PR, once made or add a reviewer to check it
