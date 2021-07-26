@@ -5,6 +5,11 @@
          <crossRef>https://www.isc.org/downloads/software-support-policy/isc-license/</crossRef>
          <crossRef>https://opensource.org/licenses/ISC</crossRef>
       </crossRefs>
+      <notes>
+         The ISC License text changed 'and' to 'and/or' in July 2007. ISC has released their license
+         text under the following public-domain-equivalent license: "Permission to use, copy, modify,
+         and/or distribute this License text for any purpose with or without fee is hereby granted. (like SPDX: 0BSD)"
+      </notes>
     <text>
       <titleText>
          <p><alt name="title" match="(The )?ISC License( \(ISC[L]?\))?:?">ISC License</alt></p>
