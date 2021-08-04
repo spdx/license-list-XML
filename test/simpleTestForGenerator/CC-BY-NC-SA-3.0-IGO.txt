@@ -2,7 +2,7 @@ THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS
 
 1. Definitions
 
-    a. “IGO” means, solely and exclusively for purposes of this License, an organization established by a treaty or other instrument governed by international law and possessing its own international legal personality. Other organizations established to carry out activities across national borders and that accordingly enjoy immunity from legal process are also IGOs for the sole and exclusive purposes of this License. IGOs may include as members, in addition to states, other entities.
+    a. "IGO" means, solely and exclusively for purposes of this License, an organization established by a treaty or other instrument governed by international law and possessing its own international legal personality. Other organizations established to carry out activities across national borders and that accordingly enjoy immunity from legal process are also IGOs for the sole and exclusive purposes of this License. IGOs may include as members, in addition to states, other entities.
     b. "Work" means the literary and/or artistic work eligible for copyright protection, whatever may be the mode or form of its expression including digital form, and offered under the terms of this License. It is understood that a database, which by reason of the selection and arrangement of its contents constitutes an intellectual creation, is considered a Work.
     c. "Licensor" means the individual, individuals, entity or entities that offer(s) the Work under the terms of this License and may be, but is not necessarily, an IGO.
     d. "You" means an individual or entity exercising rights under this License.
