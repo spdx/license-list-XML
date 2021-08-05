@@ -3,6 +3,7 @@
    <license isOsiApproved="true" licenseId="0BSD" name="BSD Zero Clause License">
       <crossRefs>
          <crossRef>http://landley.net/toybox/license.html</crossRef>
+         <crossRef>https://opensource.org/licenses/0BSD</crossRef>
       </crossRefs>
     <text>
       <titleText>
