@@ -18,7 +18,7 @@ New license requests are to be assigned to an SPDX legal team member and that pe
 3. If the submitter is not the license author or steward, ask for that contact or try to find that person or organization to make them aware the license has been submitted.
 4. Check the submission for any other missing information, e.g., working URL, examples of use, full text, standard header, etc. You can find the field definitions in the [DOCS/license-fields](https://github.com/spdx/license-list-XML/blob/master/DOCS/license-fields.md) document.
 Ask the submitter for any additional info needed, preferably via the GitHub issue, if possible. Record any updates there.
-    1. The "standard header" or "official license header" is defined in the [SPDX Matching Guidelines (sec. 1.1.1)](https://spdx.dev/license-list/matching-guidelines/) as "specific text specified within the license itself to be put in the header of files."
+    1. The "standard header" or "official license header" is defined in section 1.1.1 of the [SPDX Matching Guidelines](https://spdx.github.io/spdx-spec/appendix-II-license-matching-guidelines-and-templates/) as "specific text specified within the license itself to be put in the header of files."
 5. Review the following, bring any questions to legal team:
     1. Is this an open source license?
     2. Is the short identifier unique? Does this license have a short identifier that is used elsewhere already (e.g., Fedora)?
@@ -45,8 +45,8 @@ The following steps assume you're working from a clone of the repo, but we have 
 ### Add the test .txt file
 
 1. The test files are in the `test/simpleTestForGenerator/` directory of your clone of the license-list-XML repo.
-1. Locate the canonical text for the license. There should be a link to this in the issue, but if there isn't please ask for it from the license steward. Don't proceed until you have confirmed that you have the canonical text.
-1. Copy the text of the license and add it to an appropriately named .txt file (see above for naming guidelines). This must be UTF-8 encoded. Special characters such as smart quotes should be avoided. Do try to keep formatting elements such as section indentation, _using spaces to make the indentation rather than using tabs_. For example, here's one of many indented sections in the [CC-BY-NC-ND-3.0-IGO.txt file](../test/simpleTestForGenerator/CC-BY-NC-ND-3.0-IGO.txt):
+2. Locate the canonical text for the license. There should be a link to this in the issue, but if there isn't please ask for it from the license steward. Don't proceed until you have confirmed that you have the canonical text.
+3. Copy the text of the license and add it to an appropriately named .txt file (see above for naming guidelines). This must be UTF-8 encoded. Special characters such as smart quotes should be avoided. Do try to keep formatting elements such as section indentation, _using spaces to make the indentation rather than using tabs_. For example, here's one of many indented sections in the [CC-BY-NC-ND-3.0-IGO.txt file](../test/simpleTestForGenerator/CC-BY-NC-ND-3.0-IGO.txt):
 ```
 8. Miscellaneous
 
@@ -59,19 +59,19 @@ That's it! The test .txt file is now ready to go and you can move on to the XML 
 ### Add the XML file
 
 1. The license XML files are in the `src` directory. If the license you're working on does not yet have an XML file there, find the XML file for a similar license then copy it to be the basis of the new license XML file. For instance, for the _K-9 Robotic Dog Hardware License_ (henceforth referred to by its licenseId), you could copy the _CERN Open Hardware License v1.1_ file, `CERN-OHL-1.1.xml` to `K-9RDHL.xml`, then go from there.
-1. Set the attributes in the `license` tag:
+2. Set the attributes in the `license` tag:
     * licenseId: Set to the licenseId for that license. This must match the licenseId used for to name both the XML and test .txt files.
     * name: The canonical name of the license. This must match the name of the license in the test .txt file. The value set in this attribute is what will appear in the [SPDX License List](https://spdx.org/licenses/).
     * isOsiApproved: Set to `true` if the license has been [approved by the Open Source Initiative](https://opensource.org/licenses) and `false` else.
     * listVersionAdded: Set to the [SPDX License List Version](https://github.com/spdx/license-list-XML/milestones) in which this license is being added. This version is set in the Milestone assigned to the issue.
     * If you copied the XML file of another license, remove any attributes used for that license but not needed for this new one.
-1. Set the value of the `crossRef` tag to the URL for the canonical version of the license.
+3. Set the value of the `crossRef` tag to the URL for the canonical version of the license.
     * This should be the same as the URL used for the text added to the test .txt file above.
     * If the XML file you copied includes any additional `crossRef` tags, make sure you remove them.
-1. Optionally, include a `notes` tag with any miscellaneous notes that would be relevant to users of the license.
+4. Optionally, include a `notes` tag with any miscellaneous notes that would be relevant to users of the license.
     * `notes` is typically used to explain things like why a license has an entry on the list separate from another identical or nearly-identical license.
     * License interpretation comments should generally _not_ be included in a `notes` tag.
-1. Add the text of the license in the `text` tag. There are several special things to pay attention to here:
+5. Add the text of the license in the `text` tag. There are several special things to pay attention to here:
     * The text must be the same text used in the test .txt file above. This is why it makes sense to do the test .txt file before the XML: it makes it easy to cut/paste the correct text into the XML file.
     * The title of the license should be wrapped in `<titleText></titleText>` tags. The value here should match the value in the `name` attribute in the `license` tag above.
     * Every paragraph should be wrapped in `<p></p>` tags, including the text in the `<titleText>` tag. Text in list tags (see below) do not need to be wrapped in `<p>` tags.
@@ -136,16 +136,16 @@ You can run (on your local machine) the same tests that the CI/CD tool does auto
 This requires that you're familiar with the command line and ensuring that script dependencies are all installed. Learning these things is left as an exercise for the reader.
 
 1. Change to the directory where you've cloned the `license-list-XML` repo
-1. Run `make validate-canonical-match`
-1. Go make a cup of tea or something ☕️, because this will take a few minutes to complete
+2. Run `make validate-canonical-match`
+3. Go make a cup of tea or something ☕️, because this will take a few minutes to complete
 
 #### Test just the one license you added
 
 If you don't feel like a cup of tea right now, you can run the `make validate-canonical-match` process against a single file instead of the entire corpus of licenses:
 
 1. Change to the directory where you've cloned the `license-list-XML` repo
-1. Run `./test-one-license licenseId`, replacing (of course) the `licenseId` with (naturally) the licenseId of the license in question
-1. Don't make that cup of tea, since you won't have time
+2. Run `./test-one-license licenseId`, replacing (of course) the `licenseId` with (naturally) the licenseId of the license in question
+3. Don't make that cup of tea, since you won't have time
 
 ### Send the pull request (PR) for the XML and .txt files
 
@@ -169,14 +169,14 @@ The [SPDX Online tools](https://tools.spdx.org/) are an option for editing the X
 
 1. Go to SPDX Online tools and to [License Requests](https://tools.spdx.org/app/license_requests/); click on your license and “edit XML”. Review XML file - make sure to include or check:
     1. The current XML output does not implement some of XML tagging and may mark every new line with a paragraph tag depending on input. If this has happened, it may be more efficient to re-submit the license text, using a wrapped text version.
-    1. Make sure to include listVersionAdded= and the correct license list version number for the upcoming release
-    1. Check for a standard license header
-    1. Check if there should be any Notes based on Notes field description in the [Overview page](https://spdx.dev/license-list/)
-    1. Check that we have a working URL for the license text in the wild. If using a link in GitHub, include a link to a specific commit
-    1. Check all the XML formatting: the current XML output does not insert the bullet or list tags. Use a previously submitted license as reference for how to format
-    1. If you have questions about text that could be optional or could be replaceable, add a comment to the PR, once made or add a reviewer to check it
+    2. Make sure to include listVersionAdded= and the correct license list version number for the upcoming release
+    3. Check for a standard license header
+    4. Check if any notes should be added (see the field description in the [DOCS/license-fields](https://github.com/spdx/license-list-XML/blob/master/DOCS/license-fields.md) document for more information)
+    5. Check that we have a working URL for the license text in the wild. If using a link in GitHub, include a link to a specific commit
+    6. Check all the XML formatting: the current XML output does not insert the bullet or list tags. Use a previously submitted license as reference for how to format
+    7. If you have questions about text that could be optional or could be replaceable, add a comment to the PR, once made or add a reviewer to check it
 2. Before submitting the PR, you may want to run the test suite locally to catch any errors when comparing the XML against the test .txt file. Typically you can do this by running “make validate-canonical-match” from your checked-out copy of the license-list-XML repo.
 3. Once the XML is done, “submit changes” in the tool, which will create a new PR in the repo. Tag the PR to be reviewed by at least one other member of the legal team before merging.
 4. Once the PR is created in the repo, add a .txt file for the license in the test/simpleTestForGenerator directory
-4. Check to see if the PR passes the automated test suite on check-in.  If it does not pass, evaluate the cause and resolve it.  If you need assistance, contact one of the technical leads (@goneall or @zvr) for assistance.
-4. Once review has been completed and there are no further question, merge PR, and close issue.
+5. Check to see if the PR passes the automated test suite on check-in.  If it does not pass, evaluate the cause and resolve it.  If you need assistance, contact one of the technical leads (@goneall or @zvr) for assistance.
+6. Once review has been completed and there are no further question, merge PR, and close issue.
