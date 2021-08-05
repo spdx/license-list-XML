@@ -6,9 +6,7 @@
          <crossRef>https://opensource.org/licenses/ISC</crossRef>
       </crossRefs>
       <notes>
-         The ISC License text changed 'and' to 'and/or' in July 2007. ISC has released their license
-         text under the following public-domain-equivalent license: "Permission to use, copy, modify,
-         and/or distribute this License text for any purpose with or without fee is hereby granted. (like SPDX: 0BSD)"
+         The ISC License text changed 'and' to 'and/or' in July 2007. 
       </notes>
     <text>
       <titleText>
