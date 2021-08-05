@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="ZPL-2.1" name="Zope Public License 2.1">
+   <license isOsiApproved="true" licenseId="ZPL-2.1" name="Zope Public License 2.1">
       <crossRefs>
          <crossRef>http://old.zope.org/Resources/ZPL/</crossRef>
       </crossRefs>

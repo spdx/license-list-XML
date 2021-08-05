@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="CC-BY-2.5-AU"
-            name="Creative Commons Attribution 2.5 Australia">
+            name="Creative Commons Attribution 2.5 Australia" listVersionAdded="3.14">
       <crossRefs>
          <crossRef>https://creativecommons.org/licenses/by/2.5/au/legalcode</crossRef>
       </crossRefs>

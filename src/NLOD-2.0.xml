@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="NLOD-1.0"
-            name="Norwegian Licence for Open Government Data (NLOD) 1.0">
+   <license isOsiApproved="false" licenseId="NLOD-2.0"
+            name="Norwegian Licence for Open Government Data (NLOD) 2.0"
+            listVersionAdded="3.14">
       <crossRefs>
-         <crossRef>http://data.norge.no/nlod/en/1.0</crossRef>
+         <crossRef>http://data.norge.no/nlod/en/2.0</crossRef>
       </crossRefs>
       <notes>Norwegian translation available here:
-         http://data.norge.no/nlod/no/1.0</notes>
+         http://data.norge.no/nlod/no/2.0</notes>
     <text>
       <titleText>
-         <p>Norwegian Licence for Open Government Data (NLOD) 1.0</p>
+         <p>Norwegian Licence for Open Government Data (NLOD) 2.0</p>
       </titleText>
           <p>Preface of licence</p>
       <p>This licence grants you the right to copy, use and distribute
@@ -249,7 +250,9 @@
       <list>
         <item>
             <bullet>*</bullet>
-          for all information: Open Government Licence (version 1.0),
+          for all information: Open Government Licence (version 1.0,
+             2.0 and 3.0), Creative Commons Attribution Licence
+             (international version 4.0 and norwegian version 4.0),
         </item>
         <item>
             <bullet>*</bullet>
@@ -272,17 +275,13 @@
             <bullet>10.</bullet>
           New versions of the licence
             <br/>The licensee may choose to use the information
-                 covered by this licence under any new versions
-                 of the Norwegian licence for Open Government
-                 data (NLOD) issued by the responsible ministry
-                 (currently the Ministry of Government
-                 Administration, Reform and Church Affairs)
-                 when these versions are final and official,
-                 unless the licensor when making the
-                 information available under this licence
-                 specifically has stated that solely version
-                 1.0 of this licence may be used.
-
+            covered by this licence under any new versions of the
+            Norwegian licence for Open Government data (NLOD) issued by
+            the responsible ministry (currently the Ministry of Local
+            Government and Modernisation) when these versions are final
+            and official, unless the licensor when making the
+            information available under this licence specifically has
+            stated that solely version 2.0 of this licence may be used.
         </item>
         <item>
             <bullet>11.</bullet>
