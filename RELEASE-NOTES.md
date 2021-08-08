@@ -1,5 +1,29 @@
 # Release Notes for SPDX License List
 
+## version 3.14 - 2021-08-08
+
+New licenses/exceptions added: 13
+
+1. CC-BY-NC-SA-2.0-FR
+2. CC-BY-NC-SA-2.0-UK
+3. CC-BY-2.5-AU
+4. CC-BY-3.0-NL
+5. CC-BY-3.0-DE
+6. CC-BY-NC-3.0-DE
+7. CC-BY-NC-ND-3.0-DE
+8. CC-BY-NC-SA-3.0-DE
+9. CC-BY-ND-3.0-DE
+10. CC-BY-SA-3.0-DE
+11. CDLA-Permissive-2.0
+12. NLOD-2.0
+13. OPUBL-1.0
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+See all PRs for 3.14 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.14%22+is%3Aclosed
+
+See comparision of changes from 3.13 to 3.14: https://github.com/spdx/license-list-XML/compare/v3.13...v3.14
+
 ## version 3.13 - 2021-05-15
 
 New licenses/exceptions added: 2
