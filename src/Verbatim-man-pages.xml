@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+    <license isOsiApproved="false"
+             licenseId="Verbatim-man-pages"
+             listVersionAdded="3.15"
+             name="The &#34;Verbatim&#34; License (man-pages)">
+        <crossRefs>
+            <crossRef>https://www.kernel.org/doc/man-pages/licenses.html</crossRef>
+        </crossRefs>
+        <text>
+            <copyrightText>
+                <p>Copyright (c) &lt;year&gt;, &lt;owner&gt;.</p>
+            </copyrightText>
+    
+            <p>
+                Permission is granted to make and distribute verbatim copies of this
+                manual provided the copyright notice and this permission notice are
+                preserved on all copies.
+            </p>
+            <p>
+                Permission is granted to copy and distribute modified versions of
+                this manual under the conditions for verbatim copying, provided that
+                the entire resulting derived work is distributed under the terms of
+                a permission notice identical to this one.
+            </p>
+            <p>
+                Since the Linux kernel and libraries are constantly changing, this
+                manual page may be incorrect or out-of-date.  The author(s) assume
+                no responsibility for errors or omissions, or for damages resulting
+                from the use of the information contained herein.  The author(s) may
+                not have taken the same level of care in the production of this
+                manual, which is licensed free of charge, as they might when working
+                professionally.
+            </p>
+            <p>
+                Formatted or processed versions of this manual, if unaccompanied by
+                the source, must acknowledge the copyright and authors of this work.
+            </p>
+        </text>
+    </license>
+</SPDXLicenseCollection>
