@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="Verbatim-man-pages" listVersionAdded="3.15" name="The &quot;Verbatim&quot; License (man-pages)">
+   <license isOsiApproved="false" licenseId="Linux-man-pages-copyleft" listVersionAdded="3.15" name="Linux man-pages Copyleft">
       <crossRefs>
          <crossRef>https://www.kernel.org/doc/man-pages/licenses.html</crossRef>
       </crossRefs>
