@@ -9,7 +9,7 @@
     <text>
       <copyrightText>
          <p>This program, "bzip2", the associated library "libbzip2", and all documentation, are
-            copyright (C) 1996-<optional>2010</optional> Julian R Seward. All rights reserved.</p>
+            copyright (C) 1996-2010 Julian R Seward. All rights reserved.</p>
       </copyrightText>
 
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
@@ -45,7 +45,7 @@
          THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
          OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
          SUCH DAMAGE.</p>
-      <p><optional>Julian Seward, jseward@bzip.org bzip2/libbzip2 version <optional>1.0.6 of 6 September 2010</optional></optional></p>
+      <p><optional>Julian Seward, jseward@bzip.org bzip2/libbzip2 version 1.0.6 of 6 September 2010</optional></p>
       <p><optional>PATENTS: To the best of my knowledge, bzip2 and libbzip2 do not use any patented algorithms.
          However, I do not have the resources to carry out a patent search. Therefore I cannot give any
          guarantee of the above statement.</optional></p>
