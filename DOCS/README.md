@@ -5,6 +5,7 @@ Included here is:
 * [License inclusion principles](license-inclusion-principles.md) for adding new licenses or exceptions to the SPDX License List
 * [New license workflow](./new-license-workflow.md) - the workflow for adding approved new licenses to the SPDX License List
 * [Request new license](request-new-license.md) - instructions for how to request a new license be reviewed for addition to the SPDX License List
+* [Submission reponse template](submission-response-template.md) - a 'fill-in-the-blanks' template for responding to new license submissions
 
 Also see [CONTRIBUTING](./CONTRIBUTING.md) for general information about contributing.
 
