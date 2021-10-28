@@ -34,7 +34,7 @@ The following information describes how each field on the license and exception 
 * If the license is [OSI-approved](https://opensource.org/licenses), this field will indicate "Y" and otherwise left blank
 
 **F) FSF Free/Libre?**
-* If the license is [considered free by the FSF](https://www.gnu.org/licenses/license-list.en.html), this field will indicate "Y" and otherwise left blank
+* If the license is [listed as free by the FSF](https://www.gnu.org/licenses/license-list.en.html), this field will indicate "Y". If the license is listed as not free by the FSF, the field will indicate "N". Otherwise, the field will be left blank.
 
 **G) Text**
 * Full license text of the license or exception
