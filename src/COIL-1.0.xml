@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-    <license isOsiApproved="false" licenseId="COIL-1.0" name="Copyfree Open Innovation License">
+    <license isOsiApproved="false" licenseId="COIL-1.0" name="Copyfree Open Innovation License" listVersionAdded="3.15">
         <crossRefs>
             <crossRef>https://coil.apotheon.org/plaintext/01.0.txt</crossRef>
         </crossRefs>
