@@ -1,5 +1,26 @@
 # Release Notes for SPDX License List
 
+## version 3.15 - 2021-11-14
+
+New licenses/exceptions added: 4
+
+1. COIL-1.0
+2. Community-Spec-1.0
+3. FDK-AAC
+4. Linux-man-pages-copyleft
+
+Note that "Linux-man-pages-copyleft" was initially merged as "Verbatim-man-pages", but at the community's request the ID was updated prior to inclusion in the release. See https://github.com/spdx/license-list-XML/issues/1310 for more details.
+
+Added template for reviews of new license requests, to evaluate against the license inclusion principles. See https://github.com/spdx/license-list-XML/blob/master/DOCS/submission-response-template.md for the review template.
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+Updated to latest version of the License List Publisher.
+
+See all PRs for 3.15 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.15%22+is%3Aclosed
+
+See comparision of changes from 3.14 to 3.15: https://github.com/spdx/license-list-XML/compare/v3.14...v3.15
+
 ## version 3.14 - 2021-08-08
 
 New licenses/exceptions added: 13
