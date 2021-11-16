@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="SchemeReport"
-            name="Scheme Language Report License">
+            name="Scheme Language Report License" listVersionAdded="3.16">
 
     <text>
       <p>Code derived from the document "Revised Report on 
