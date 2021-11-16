@@ -5,10 +5,7 @@
 
     <text>
       <p>Code derived from the document "Revised Report on 
-        Scheme", is distributed under the following license:
-      </p>
-      <p>
-        <copyrightText>Copyright (c) 1985 William Clinger</copyrightText>
+        Scheme" and subsequent revisions, is distributed under the following license:
       </p>
       <p>We intend this report to belong to the entire Scheme community,
         and so we grant permission to copy it in whole or in part without fee.
