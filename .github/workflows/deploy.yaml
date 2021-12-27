@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/setup-java@v1
         with:
-          java-version: '16'
+          java-version: '11'
       - uses: actions/checkout@v2
       - name: Fetch changes for git diff
         id: fetchdiff
