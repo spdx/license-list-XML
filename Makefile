@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: CC0-1.0
 
-TOOL_VERSION = 2.2.4
+TOOL_VERSION = 2.2.5
 TEST_DATA = test/simpleTestForGenerator
 GIT_AUTHOR = License Publisher (maintained by Gary O'Neall) <gary@sourceauditor.com>
 GIT_AUTHOR_EMAIL = gary@sourceauditor.com
