@@ -101,13 +101,6 @@
       </p>
       <p>**use** means anything you do with the software requiring one of your licenses.</p>
       <p>**trademark** means trademarks, service marks, and similar rights.</p>
-      <optional>
-         <standardLicenseHeader>
-           <p>Copyright [name of copyright owner].</p>
-           <p>Licensed under the Elastic License 2.0;</p>
-           <p>you may not use this file except in compliance with the Elastic License 2.0.</p>
-        </standardLicenseHeader>
-      </optional>
     </text>
   </license>
 </SPDXLicenseCollection>
