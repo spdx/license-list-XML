@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="Elastic-2.0" name="Elastic License 2.0">
+   <license isOsiApproved="false" licenseId="Elastic-2.0" name="Elastic License 2.0" listVersionAdded="3.16">
       <crossRefs>
          <crossRef>https://www.elastic.co/licensing/elastic-license</crossRef>
          <crossRef>https://github.com/elastic/elasticsearch/blob/master/licenses/ELASTIC-LICENSE-2.0.txt</crossRef>
