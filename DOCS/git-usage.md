@@ -60,7 +60,7 @@ For the following steps, we'll assume that you're adding a new license called th
 5. After the files are created and saved, the files exist on your hard drive, but they are not yet saved to the new branch. If you type `git status` again, git sees the files are there but are not currently tracked by Git: ![screenshot from typing `git status` with untracked files](/DOCS/images/git-usage-git-status-untracked.png)
 6. The next step is to "**add**" the files, so that Git will start tracking them. The easiest way to do this is to specify "src" and "test" in the add command, which would add any new files that are found in the "src/" or "test/" directories:
   * **Add the files to be staged**: `git add src test`
-7. Now the files are "staged", but confusingly they haven't yet been committed to the branch. If you type `git status` again it will tell you this: ~[screenshot from typing `git status` with added files](/DOCS/images/git-usage-git-status-added.png)
+7. Now the files are "staged", but confusingly they haven't yet been committed to the branch. If you type `git status` again it will tell you this: ![screenshot from typing `git status` with added files](/DOCS/images/git-usage-git-status-added.png)
 8. Next, you'll "commit" the changes, which actually inserts them into your local branch:
   * **Commit the files**: `git commit -m "Add XYZ license"`
   * In the commit command, the `-m` flag lets you add a one-line message to the commit. If you omit `-m` and the quoted message, it will take you to a text editor where you can type a longer message.
@@ -88,7 +88,7 @@ To run the license template checks on your local system, after creating the lice
 
 This will compare the license(s) to the test text file(s) and report any errors that are found. If errors are encountered, then you can correct the errors, re-test and make sure you get a passing test, before continuing with step 5.
 
-## Consider including a DCO Signed-off-by statement
+## Optional: Consider including a DCO Signed-off-by statement
 
 Many open source projects use the [Developer's Certificate of Origin (DCO)](https://developercertificate.org/) sign-off process as part of their contribution mechanisms.
 
