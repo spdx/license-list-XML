@@ -14,17 +14,15 @@ This guide assumes that you've already done the following:
 
 * set up a GitHub account
 * forked the **upstream** repo (https://github.com/spdx/license-list-XML) into your own **personal** repo (e.g., https://github.com/swinslow/license-list-XML)
-* your forked repo's master branch should currently be in-line with the upstream repo.
-  * In other words, the upstream repo and your repo should both have the same "latest commit" ID: ![screenshot of commit ID in GitHub UI](/DOCS/images/git-usage-commit-id.png)
-  * If the commit IDs are different, you can use the UI to fetch the differences from upstream into your repo: ![screenshot of fetch upstream option in GitHub UI](/DOCS/images/git-usage-fetch-upstream-ui.png)
+* [installed Git](https://github.com/git-guides/install-git)
 * opened a text terminal program
   * Linux: if you aren't sure, look for a program called something like "Terminal", "xterm" or "gnome-terminal"
   * MacOS: there is a built-in text terminal at /Applications/Utilities/Terminal
-  * Windows: _to be filled in by someone else with Windows terminal experience_
-* [installed Git](https://github.com/git-guides/install-git)
+  * Windows: start the 'Git Bash' program, which you should be able to find in your Start Menu
 * selected and installed a text editor
   * [Visual Studio Code](https://code.visualstudio.com) is a common option.
   * [Vim](https://www.vim.org) or [Emacs](https://www.gnu.org/software/emacs/) if you're feeling adventurous...
+* Install Java version 11 or higher. See the [OpenJDK Installation Instructions](https://access.redhat.com/documentation/en-us/openjdk/11) for details. Note that there are other open source and commercial Java runtimes and development kits available.
 
 For this guide, I'll use my account name [**swinslow**](https://github.com/swinslow) wherever you should use your own account name.
 
@@ -64,10 +62,8 @@ For the following steps, we'll assume that you're adding a new license called th
   * **Add the files to be staged**: `git add src test`
 7. Now the files are "staged", but confusingly they haven't yet been committed to the branch. If you type `git status` again it will tell you this: ~[screenshot from typing `git status` with added files](/DOCS/images/git-usage-git-status-added.png)
 8. Next, you'll "commit" the changes, which actually inserts them into your local branch:
-  * **Commit the files**: `git commit -s -m "Add XYZ license"`
-  * ![screenshot from typing `git commit`](/DOCS/images/git-usage-git-commit.png)
+  * **Commit the files**: `git commit -m "Add XYZ license"`
   * In the commit command, the `-m` flag lets you add a one-line message to the commit. If you omit `-m` and the quoted message, it will take you to a text editor where you can type a longer message.
-  * The `-s` flag adds the DCO `Signed-off-by:` line to the commit message. If you're having issues when using this flag, let me know, there might be one other piece of setup needed for you to enable it.
 9. At this point, your local copy of the "xyz" branch is 1 commit ahead of the "master" branch, because you've created and inserted the commit with these files into the xyz branch. The next thing you'll do is push the "xyz" branch up to your personal repo on GitHub:
   * **Push to personal (origin) repo on GitHub**: `git push origin xyz`
   * If you go to your personal GitHub repo, it will alert to you that the branch was pushed: ![screenshot of pushed branch on GitHub UI](/DOCS/images/git-usage-push-ui.png)
@@ -90,9 +86,27 @@ To run the license template checks on your local system, after creating the lice
 * **Test a single license**: `./test-one-license xyz`
   * note that the dot-slash (`./`) are necessary here, and that `xyz` should be replaced with the ID of the single license that you want to test
 
-**FIXME: to confirm whether more details are needed to install Java, make, etc. so the checker tools can run**
-
 This will compare the license(s) to the test text file(s) and report any errors that are found. If errors are encountered, then you can correct the errors, re-test and make sure you get a passing test, before continuing with step 5.
+
+## Consider including a DCO Signed-off-by statement
+
+Many open source projects use the [Developer's Certificate of Origin (DCO)](https://developercertificate.org/) sign-off process as part of their contribution mechanisms.
+
+Although the SPDX License List does not currently require DCO sign-offs, you might consider including a DCO "Signed-off-by:" statement in your commits. This helps to act as an assertion that you have the right to contribute the materials that you are contributing to the repo.
+
+(Please note that DCO sign-offs are different from [cryptographic signing of commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).)
+
+If you want to include DCO sign-offs in your commit messages, you can do the following:
+
+1. **One-time setup: set up your Git config**: edit your Git configuration file to include the following, with your details:
+```
+[user]
+        name = YOUR NAME
+        email = YOUR@EMAIL.ADDRESS
+```
+2. **Include -s in commits**: Now, whenever you type `git commit`, also include a `-s` in the command, such as the following: `git commit -s -m "Add XYZ license"`
+
+After Git is configured as shown above, `git commit -s` will automatically include the correct `Signed-off-by:` line with your name and email address in the commit message.
 
 ## Other Resources
 
