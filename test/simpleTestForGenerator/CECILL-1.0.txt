@@ -3,9 +3,9 @@ CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL
 Avertissement
 
 Ce contrat est une licence de logiciel libre issue d’une concertation entre ses auteurs afin que le respect de deux grands principes préside à sa rédaction:
-	•	d’une part, sa conformité au droit français, tant au regard du droit de la responsabilité civile que du droit de la propriété intellectuelle et de la protection qu’il offre aux auteurs et titulaires des droits patrimoniaux sur un logiciel.
-	•	d’autre part, le respect des principes de diffusion des logiciels libres: accès au code source, droits étendus conférés aux utilisateurs.
 
+d’une part, sa conformité au droit français, tant au regard du droit de la responsabilité civile que du droit de la propriété intellectuelle et de la protection qu’il offre aux auteurs et titulaires des droits patrimoniaux sur un logiciel.
+d’autre part, le respect des principes de diffusion des logiciels libres: accès au code source, droits étendus conférés aux utilisateurs.
 Les auteurs de la licence CeCILL1 sont:
 
 Commissariat à l’Energie Atomique – CEA, établissement public de caractère scientifique technique et industriel, dont le siège est situé 31-33 rue de la Fédération, 75752 PARIS cedex 15.
@@ -32,8 +32,7 @@ Dans ce contrat, les termes suivants, lorsqu’ils seront écrits avec une lettr
 
 Contrat: désigne le présent contrat de licence, ses éventuelles versions postérieures et annexes.
 
-Logiciel: désigne le logiciel sous sa forme de Code Objet et/ou de Code Source et le cas échéant sa documentation, dans leur état au moment de l’acceptation du
-Contrat par le Licencié.
+Logiciel: désigne le logiciel sous sa forme de Code Objet et/ou de Code Source et le cas échéant sa documentation, dans leur état au moment de l’acceptation du Contrat par le Licencié.
 
 Logiciel Initial: désigne le Logiciel sous sa forme de Code Source et de Code Objet et le cas échéant sa documentation, dans leur état au moment de leur première diffusion sous les termes du Contrat.
 
@@ -51,12 +50,9 @@ Contributeur: désigne le Licencié auteur d’au moins une Contribution.
 
 Concédant: désigne le Titulaire ou toute personne physique ou morale distribuant le Logiciel sous le Contrat.
 
-Contributions: désigne l’ensemble des modifications, corrections, traductions, adaptations et/ou nouvelles fonctionnalités intégrées dans le Logiciel par tout
+Contributions: désigne l’ensemble des modifications, corrections, traductions, adaptations et/ou nouvelles fonctionnalités intégrées dans le Logiciel par tout Contributeur, ainsi que les Modules Statiques.
 
-Contributeur, ainsi que les Modules Statiques.
-
-Module: désigne un ensemble de fichiers sources y compris leur documentation qui, une fois compilé sous forme exécutable, permet de réaliser des fonctionnalités ou
-services supplémentaires à ceux fournis par le Logiciel.
+Module: désigne un ensemble de fichiers sources y compris leur documentation qui, une fois compilé sous forme exécutable, permet de réaliser des fonctionnalités ou services supplémentaires à ceux fournis par le Logiciel.
 
 Module Dynamique: désigne tout Module, créé par le Contributeur, indépendant du Logiciel, tel que ce Module et le Logiciel sont sous forme de deux exécutables indépendants qui s’exécutent dans un espace d’adressage indépendant, l’un appelant l’autre au moment de leur exécution.
 
@@ -73,9 +69,9 @@ Le Contrat a pour objet la concession par le Concédant au Licencié d’une Lic
 Article 3 - ACCEPTATION
 
 3.1. L’acceptation par le Licencié des termes du Contrat est réputée acquise du fait du premier des faits suivants:
-	•	(i) le chargement du Logiciel par tout moyen notamment par téléchargement à partir d’un serveur distant ou par chargement à partir d’un support physique;
-	•	(ii) le premier exercice par le Licencié de l’un quelconque des droits concédés par le Contrat.
 
+(i) le chargement du Logiciel par tout moyen notamment par téléchargement à partir d’un serveur distant ou par chargement à partir d’un support physique;
+(ii) le premier exercice par le Licencié de l’un quelconque des droits concédés par le Contrat.
 3.2. Un exemplaire du Contrat, contenant notamment un avertissement relatif aux spécificités du Logiciel, à la restriction de garantie et à la limitation à un usage par des utilisateurs expérimentés a été mis à disposition du Licencié préalablement à son acceptation telle que définie à l'article 3.1 ci dessus et le Licencié reconnaît en avoir pris connaissances.
 
 Article 4 - ENTREE EN VIGUEUR ET DUREE
@@ -92,15 +88,17 @@ Article 5 - ETENDUE DES DROITS CONCEDES
 
 Le Concédant concède au Licencié, qui accepte, les droits suivants sur le Logiciel pour toutes destinations et pour la durée du Contrat dans les conditions ci-après détaillées.
 
-Par ailleurs, le Concédant concède au Licencié à titre gracieux les droits d’exploitation du ou des brevets qu’il détient sur tout ou partie des inventions
-implémentées dans le Logiciel.
+Par ailleurs, le Concédant concède au Licencié à titre gracieux les droits d’exploitation du ou des brevets qu’il détient sur tout ou partie des inventions implémentées dans le Logiciel.
 
 5.1. DROITS D’UTILISATION
 
 Le Licencié est autorisé à utiliser le Logiciel, sans restriction quant aux domaines d’application, étant ci-après précisé que cela comporte:
-	1.	la reproduction permanente ou provisoire du Logiciel en tout ou partie par tout moyen et sous toute forme.
-	2.	le chargement, l’affichage, l’exécution, ou le stockage du Logiciel sur tout support.
-	3.	la possibilité d’en observer, d’en étudier, ou d’en tester le fonctionnement afin de déterminer les idées et principes qui sont à la base de n’importe quel élément de ce Logiciel; et ceci, lorsque le Licencié effectue toute opération de chargement, d’affichage, d’exécution, de transmission ou de stockage du Logiciel qu’il est en droit d’effectuer en vertu du Contrat.
+
+la reproduction permanente ou provisoire du Logiciel en tout ou partie par tout moyen et sous toute forme.
+
+le chargement, l’affichage, l’exécution, ou le stockage du Logiciel sur tout support.
+
+la possibilité d’en observer, d’en étudier, ou d’en tester le fonctionnement afin de déterminer les idées et principes qui sont à la base de n’importe quel élément de ce Logiciel; et ceci, lorsque le Licencié effectue toute opération de chargement, d’affichage, d’exécution, de transmission ou de stockage du Logiciel qu’il est en droit d’effectuer en vertu du Contrat.
 
 5.2. DROIT D’APPORTER DES CONTRIBUTIONS
 
@@ -115,47 +113,67 @@ Le droit de distribution et de diffusion comporte notamment le droit de transmet
 Le Licencié est autorisé à redistribuer des copies du Logiciel, modifié ou non, à des tiers dans les conditions ci-après détaillées.
 
 5.3.1. REDISTRIBUTION DU LOGICIEL SANS MODIFICATION
+
 Le Licencié est autorisé à redistribuer des copies conformes du Logiciel, sous forme de Code Source ou de Code Objet, à condition que cette redistribution respecte les dispositions du Contrat dans leur totalité et soit accompagnée:
-	1.	d’un exemplaire du Contrat,
-	2.	d’un avertissement relatif à la restriction de garantie et de responsabilité du Concédant telle que prévue aux articles 8 et 9,
+
+d’un exemplaire du Contrat,
+
+d’un avertissement relatif à la restriction de garantie et de responsabilité du Concédant telle que prévue aux articles 8 et 9,
+
 et que, dans le cas où seul le Code Objet du Logiciel est redistribué, le Licencié permette aux futurs Licenciés d’accéder facilement au Code Source complet du Logiciel en indiquant les modalités d’accès, étant entendu que le coût additionnel d’acquisition du Code Source ne devra pas excéder le simple coût de transfert des données.
 
 5.3.2. REDISTRIBUTION DU LOGICIEL MODIFIE
+
 Lorsque le Licencié apporte une Contribution au Logiciel, les conditions de redistribution du Logiciel Modifié sont alors soumises à l’intégralité des dispositions du Contrat.
+
 Le Licencié est autorisé à redistribuer le Logiciel Modifié, sous forme de Code Source ou de Code Objet, à condition que cette redistribution respecte les dispositions du Contrat dans leur totalité et soit accompagnée:
-	1.	d’un exemplaire du Contrat,
-	2.	d’un avertissement relatif à la restriction de garantie et de responsabilité du concédant telle que prévue aux articles 8 et 9,
+
+d’un exemplaire du Contrat,
+
+d’un avertissement relatif à la restriction de garantie et de responsabilité du concédant telle que prévue aux articles 8 et 9,
+
 et que, dans le cas où seul le Code Objet du Logiciel Modifié est redistribué, le Licencié permette aux futurs Licenciés d’accéder facilement au Code Source complet du Logiciel Modifié en indiquant les modalités d’accès, étant entendu que le coût additionnel d’acquisition du Code Source ne devra pas excéder le simple coût de transfert des données.
 
 5.3.3. REDISTRIBUTION DES MODULES DYNAMIQUES
+
 Lorsque le Licencié a développé un Module Dynamique les conditions du Contrat ne s’appliquent pas à ce Module Dynamique, qui peut être distribué sous un contrat de licence différent.
 
 5.3.4. COMPATIBILITE AVEC LA LICENCE GPL
+
 Dans le cas où le Logiciel, Modifié ou non, est intégré à un code soumis aux dispositions de la licence GPL, le Licencié est autorisé à redistribuer l’ensemble sous la licence GPL.
+
 Dans le cas où le Logiciel Modifié intègre un code soumis aux dispositions de la licence GPL, le Licencié est autorisé à redistribuer le Logiciel Modifié sous la licence GPL.
 
 Article 6 - PROPRIETE INTELLECTUELLE
 
 6.1. SUR LE LOGICIEL INITIAL
+
 Le Titulaire est détenteur des droits patrimoniaux sur le Logiciel Initial. Toute utilisation du Logiciel Initial est soumise au respect des conditions dans lesquelles le Titulaire a choisi de diffuser son œuvre et nul autre n’a la faculté de modifier les conditions de diffusion de ce Logiciel Initial.
+
 Le Titulaire s'engage à maintenir la diffusion du Logiciel initial sous les conditions du Contrat et ce, pour la durée visée à l'article 4.2.
 
 6.2. SUR LES CONTRIBUTIONS
+
 Les droits de propriété intellectuelle sur les Contributions sont attachés au titulaire de droits patrimoniaux désigné par la législation applicable.
 
 6.3. SUR LES MODULES DYNAMIQUES
+
 Le Licencié ayant développé un Module Dynamique est titulaire des droits de propriété intellectuelle sur ce Module Dynamique et reste libre du choix du contrat régissant sa diffusion.
 
 6.4. DISPOSITIONS COMMUNES
 
 6.4.1. Le Licencié s’engage expressément:
-	1.	à ne pas supprimer ou modifier de quelque manière que ce soit les mentions de propriété intellectuelle apposées sur le Logiciel;
-	2.	à reproduire à l’identique lesdites mentions de propriété intellectuelle sur les copies du Logiciel.
+
+à ne pas supprimer ou modifier de quelque manière que ce soit les mentions de propriété intellectuelle apposées sur le Logiciel;
+
+à reproduire à l’identique lesdites mentions de propriété intellectuelle sur les copies du Logiciel.
+
 6.4.2. Le Licencié s’engage à ne pas porter atteinte, directement ou indirectement, aux droits de propriété intellectuelle du Titulaire et/ou des Contributeurs et à prendre, le cas échéant, à l’égard de son personnel toutes les mesures nécessaires pour assurer le respect des dits droits de propriété intellectuelle du Titulaire et/ou des Contributeurs.
 
 Article 7 - SERVICES ASSOCIES
 
 7.1. Le Contrat n’oblige en aucun cas le Concédant à la réalisation de prestations d’assistance technique ou de maintenance du Logiciel.
+
 Cependant le Concédant reste libre de proposer ce type de services. Les termes et conditions d’une telle assistance technique et/ou d’une telle maintenance seront alors déterminés dans un acte séparé. Ces actes de maintenance et/ou assistance technique n’engageront que la seule responsabilité du Concédant qui les propose.
 
 7.2. De même, tout Concédant est libre de proposer, sous sa seule responsabilité, à ses licenciés une garantie, qui n’engagera que lui, lors de la redistribution du Logiciel et/ou du Logiciel Modifié et ce, dans les conditions qu’il souhaite. Cette garantie et les modalités financières de son application feront l’objet d’un acte séparé entre le Concédant et le Licencié.
@@ -169,11 +187,13 @@ Article 8 - RESPONSABILITE
 Article 9 - GARANTIE
 
 9.1. Le Licencié reconnaît que l’état actuel des connaissances scientifiques et techniques au moment de la mise en circulation du Logiciel ne permet pas d’en tester et d’en vérifier toutes les utilisations ni de détecter l’existence d’éventuels défauts. L’attention du Licencié a été attirée sur ce point sur les risques associés au chargement, à l’utilisation, la modification et/ou au développement et à la reproduction du Logiciel qui sont réservés à des utilisateurs avertis.
+
 Il relève de la responsabilité du Licencié de contrôler, par tous moyens, l’adéquation du produit à ses besoins, son bon fonctionnement et de s'assurer qu’il ne causera pas de dommages aux personnes et aux biens.
 
 9.2. Le Concédant déclare de bonne foi être en droit de concéder l'ensemble des droits attachés au Logiciel (comprenant notamment les droits visés à l'article 5).
 
 9.3. Le Licencié reconnaît que le Logiciel est fourni «en l'état» par le Concédant sans autre garantie, expresse ou tacite, que celle prévue à l’article 9.2 et notamment sans aucune garantie sur sa valeur commerciale, son caractère sécurisé, innovant ou pertinent.
+
 En particulier, le Concédant ne garantit pas que le Logiciel est exempt d'erreur, qu’il fonctionnera sans interruption, qu’il sera compatible avec l’équipement du Licencié et sa configuration logicielle ni qu’il remplira les besoins du Licencié.
 
 9.4. Le Concédant ne garantit pas, de manière expresse ou tacite, que le Logiciel ne porte pas atteinte à un quelconque droit de propriété intellectuelle d’un tiers portant sur un brevet, un logiciel ou sur tout autre droit de propriété. Ainsi, le Concédant exclut toute garantie au profit du Licencié contre les actions en contrefaçon qui pourraient être diligentées au titre de l’utilisation, de la modification, et de la redistribution du Logiciel. Néanmoins, si de telles actions sont exercées contre le Licencié, le Concédant lui apportera son aide technique et juridique pour sa défense. Cette aide technique et juridique est déterminée au cas par cas entre le Concédant concerné et le Licencié dans le cadre d’un protocole d’accord. Le Concédant dégage toute responsabilité quant à l’utilisation de la dénomination du Logiciel par le Licencié. Aucune garantie n’est apportée quant à l’existence de droits antérieurs sur le nom du Logiciel et sur l’existence d’une marque.
@@ -181,11 +201,13 @@ En particulier, le Concédant ne garantit pas que le Logiciel est exempt d'erreu
 Article 10 - RESILIATION
 
 10.1. En cas de manquement par le Licencié aux obligations mises à sa charge par le Contrat, le Concédant pourra résilier de plein droit le Contrat trente (30) jours après notification adressée au Licencié et restée sans effet.
+
 10.2. Le Licencié dont le Contrat est résilié n’est plus autorisé à utiliser, modifier ou distribuer le Logiciel. Cependant, toutes les licences qu’il aura concédées antérieurement à la résiliation du Contrat resteront valides sous réserve qu’elles aient été effectuées en conformité avec le Contrat.
 
 Article 11 - DISPOSITIONS DIVERSES
 
 11.1. CAUSE EXTERIEURE
+
 Aucune des Parties ne sera responsable d’un retard ou d’une défaillance d’exécution du Contrat qui serait dû à un cas de force majeure, un cas fortuit ou une cause extérieure, telle que, notamment, le mauvais fonctionnement ou les interruptions du réseau électrique ou de télécommunication, la paralysie du réseau liée à une attaque informatique, l’intervention des autorités gouvernementales, les catastrophes naturelles, les dégâts des eaux, les tremblements de terre, le feu, les explosions, les grèves et les conflits sociaux, l’état de guerre…
 
 11.2. Le fait, par l’une ou l’autre des Parties, d’omettre en une ou plusieurs occasions de se prévaloir d’une ou plusieurs dispositions du Contrat, ne pourra en aucun cas impliquer renonciation par la Partie intéressée à s’en prévaloir ultérieurement.
@@ -195,6 +217,7 @@ Aucune des Parties ne sera responsable d’un retard ou d’une défaillance d�
 11.4. Dans l’hypothèse où une ou plusieurs des dispositions du Contrat s’avèrerait contraire à une loi ou à un texte applicable, existants ou futurs, cette loi ou ce texte prévaudrait, et les Parties feraient les amendements nécessaires pour se conformer à cette loi ou à ce texte. Toutes les autres dispositions resteront en vigueur. De même, la nullité, pour quelque raison que ce soit, d’une des dispositions du Contrat ne saurait entraîner la nullité de l’ensemble du Contrat.
 
 11.5. LANGUE
+
 Le Contrat est rédigé en langue française et en langue anglaise. En cas de divergence d’interprétation, seule la version française fait foi.
 
 Article 12 - NOUVELLES VERSIONS DU CONTRAT
@@ -212,5 +235,6 @@ Article 13 - LOI APPLICABLE ET COMPETENCE TERRITORIALE
 13.2. A défaut d’accord amiable dans un délai de deux (2) mois à compter de leur survenance et sauf situation relevant d’une procédure d’urgence, les différends ou litiges seront portés par la Partie la plus diligente devant les Tribunaux compétents de Paris.
 
 1 Ce: CEA, C: CNRS, I: INRIA, LL: Logiciel Libre
+
 
 Version 1 du 21/06/2004

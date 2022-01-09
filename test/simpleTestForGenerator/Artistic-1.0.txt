@@ -45,5 +45,3 @@ Definitions:
 8. The name of the Copyright Holder may not be used to endorse or promote products derived from this software without specific prior written permission.
 
 9. THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
-
-The End

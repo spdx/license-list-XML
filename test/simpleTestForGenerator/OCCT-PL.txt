@@ -1,12 +1,11 @@
 Open CASCADE Technology Public License
 Version 6.6, April 2013
-
 OPEN CASCADE releases and makes publicly available the source code of the software Open CASCADE Technology to the free software development community under the terms and conditions of this license.
 
 It is not the purpose of this license to induce you to infringe any patents or other property right claims or to contest validity of any such claims; this license has the sole purpose of protecting the integrity of the free software distribution system, which is implemented by public license practices. Many people have made generous contributions to the wide range of software distributed through that system in reliance on consistent application of that system; it is up to the author/donor to decide if he or she is willing to distribute software through any other system and a licensee cannot impose that choice.
 
 Please read this license carefully and completely before downloading this software. By downloading, using, modifying, distributing and sublicensing this software, you indicate your acceptance to be bound by the terms and conditions of this license. If you do not want to accept or cannot accept for any reasons the terms and conditions of this license, please do not download or use in any manner this software.
- 
+
 1. Definitions
 
 Unless there is something in the subject matter or in the context inconsistent therewith, the capitalized terms used in this License shall have the following meaning.
@@ -26,23 +25,23 @@ Unless there is something in the subject matter or in the context inconsistent t
 "Software": means the Original Code, the Modifications, the combination of Original Code and any Modifications or any respective portions thereof.
 
 "You" or "Your": means an individual or a legal entity exercising rights under this License
- 
+
 2. Acceptance of license
 By using, reproducing, modifying, distributing or sublicensing the Software or any portion thereof, You expressly indicate Your acceptance of the terms and conditions of this License and undertake to act in accordance with all the provisions of this License applicable to You.
- 
+
 3. Scope and purpose
 This License applies to the Software and You may not use, reproduce, modify, distribute, sublicense or circulate the Software, or any portion thereof, except as expressly provided under this License. Any attempt to otherwise use, reproduce, modify, distribute or sublicense the Software is void and will automatically terminate Your rights under this License.
- 
+
 4. Contributor license
 Subject to the terms and conditions of this License, the Initial Developer and each of the Contributors hereby grant You a world-wide, royalty-free, irrevocable and non-exclusive license under the Applicable Intellectual Property Rights they own or control, to use, reproduce, modify, distribute and sublicense the Software provided that:
 
-     You reproduce in all copies of the Software the copyright and other proprietary notices and disclaimers of the Initial Developer as they appear in the Original Code and attached hereto as Schedule "A" and any other notices or disclaimers attached to the Software and keep intact all notices in the Original Code that refer to this License and to the absence of any warranty;
+You reproduce in all copies of the Software the copyright and other proprietary notices and disclaimers of the Initial Developer as they appear in the Original Code and attached hereto as Schedule "A" and any other notices or disclaimers attached to the Software and keep intact all notices in the Original Code that refer to this License and to the absence of any warranty;
 
-     You include a copy of this License with every copy of the Software You distribute;
+You include a copy of this License with every copy of the Software You distribute;
 
-     If you distribute or sublicense the Software (as modified by You or on Your behalf as the case may be), You cause such Software to be licensed as a whole, at no charge, to all third parties, under the terms and conditions of the License, making in particular available to all third parties the source code of the Software;
+If you distribute or sublicense the Software (as modified by You or on Your behalf as the case may be), You cause such Software to be licensed as a whole, at no charge, to all third parties, under the terms and conditions of the License, making in particular available to all third parties the source code of the Software;
 
-     You document all Your Modifications, indicate the date of each such Modification, designate the version of the Software You used, prominently include a file carrying such information with respect to the Modifications and duplicate the copyright and other proprietary notices and disclaimers attached hereto as Schedule "B" or any other notices or disclaimers attached to the Software with your Modifications.
+You document all Your Modifications, indicate the date of each such Modification, designate the version of the Software You used, prominently include a file carrying such information with respect to the Modifications and duplicate the copyright and other proprietary notices and disclaimers attached hereto as Schedule "B" or any other notices or disclaimers attached to the Software with your Modifications.
 
 For greater certainty, it is expressly understood that You may freely create Derivative Programs (without any obligation to publish such Derivative Program) and distribute same as a single product. In such case, You must ensure that all the requirements of this License are fulfilled for the Software or any portion thereof.
 
@@ -77,11 +76,11 @@ In case of termination, as provided in Section 3 above, You agree to immediately
 The Initial Developer may publish new versions of this License from time to time. Once Original Code has been published under a particular version of this License, You may choose to continue to use it under the terms and conditions of that version or use the Original Code under the terms of any subsequent version of this License published by the Initial Developer.
 
 15. Miscellaneous
-     15.1 Relationship of the Parties This License will not be construed as creating an agency, partnership, joint venture or any other form of legal association between You and the Initial Developer, and You will not represent to the contrary, whether expressly, by implication or otherwise.
+15.1 Relationship of the Parties This License will not be construed as creating an agency, partnership, joint venture or any other form of legal association between You and the Initial Developer, and You will not represent to the contrary, whether expressly, by implication or otherwise.
 
-     15.2 Independent Development Nothing in this License will impair the Initial Developer's right to acquire, license, develop, have others develop for it, market or distribute technology or products that perform the same or similar functions as, or otherwise compete with, Modifications, Derivative Programs, technology or products that You may develop, produce, market or distribute.
+15.2 Independent Development Nothing in this License will impair the Initial Developer's right to acquire, license, develop, have others develop for it, market or distribute technology or products that perform the same or similar functions as, or otherwise compete with, Modifications, Derivative Programs, technology or products that You may develop, produce, market or distribute.
 
-     15.3 Severability If for any reason a court of competent jurisdiction finds any provision of this License, or portion thereof, to be unenforceable, that provision of the License will be enforced to the maximum extent permissible so as to effect the economic benefits and intent of the parties, and the remainder of this License will continue in full force and extent.
+15.3 Severability If for any reason a court of competent jurisdiction finds any provision of this License, or portion thereof, to be unenforceable, that provision of the License will be enforced to the maximum extent permissible so as to effect the economic benefits and intent of the parties, and the remainder of this License will continue in full force and extent.
 
 END OF THE TERMS AND CONDITIONS OF THIS LICENSE
 
@@ -90,23 +89,23 @@ OPEN CASCADE is a French société par actions simplifiée having its registered
 Open CASCADE Technology Public License
 Schedule "A"
 
-     The content of this file is subject to the Open CASCADE Technology Public License (the "License"). You may not use the content of this file except in compliance with the License. Please obtain a copy of the License at opencascade.com and read it completely before using this file.
+The content of this file is subject to the Open CASCADE Technology Public License (the "License"). You may not use the content of this file except in compliance with the License. Please obtain a copy of the License at opencascade.com and read it completely before using this file.
 
-     The Initial Developer of the Original Code is OPEN CASCADE, with main offices at 1, place des Frères Montgolfier, 78280, Guyancourt, France. The Original Code is copyright © OPEN CASCADE SAS, 2001. All rights reserved. "The Original Code and all software distributed under the License are distributed on an "AS IS" basis, without warranty of any kind, and the Initial Developer hereby disclaims all such warranties, including without limitation, any warranties of merchantability, fitness for a particular purpose or non-infringement.
+The Initial Developer of the Original Code is OPEN CASCADE, with main offices at 1, place des Frères Montgolfier, 78280, Guyancourt, France. The Original Code is copyright © OPEN CASCADE SAS, 2001. All rights reserved. "The Original Code and all software distributed under the License are distributed on an "AS IS" basis, without warranty of any kind, and the Initial Developer hereby disclaims all such warranties, including without limitation, any warranties of merchantability, fitness for a particular purpose or non-infringement.
 
-     Please see the License for the specific terms and conditions governing rights and limitations under the License".
-     End of Schedule "A"
+Please see the License for the specific terms and conditions governing rights and limitations under the License".
+End of Schedule "A"
 
 Open CASCADE Technology Public License
 Schedule "B"
 
-     "The content of this file is subject to the Open CASCADE Technology Public License (the "License"). You may not use the content of this file except in compliance with the License. Please obtain a copy of the License at opencascade.com and read it completely before using this file.
+"The content of this file is subject to the Open CASCADE Technology Public License (the "License"). You may not use the content of this file except in compliance with the License. Please obtain a copy of the License at opencascade.com and read it completely before using this file.
 
-     The Initial Developer of the Original Code is OPEN CASCADE, with main offices at 1, place des Frères Montgolfier, 78280, Guyancourt, France. The Original Code is copyright © Open CASCADE SAS, 2001. All rights reserved.
+The Initial Developer of the Original Code is OPEN CASCADE, with main offices at 1, place des Frères Montgolfier, 78280, Guyancourt, France. The Original Code is copyright © Open CASCADE SAS, 2001. All rights reserved.
 
-     Modifications to the Original Code have been made by ________________________. Modifications are copyright © [Year to be included]. All rights reserved.
+Modifications to the Original Code have been made by  . Modifications are copyright © [Year to be included]. All rights reserved.
 
-     The software Open CASCADE Technology and all software distributed under the License are distributed on an "AS IS" basis, without warranty of any kind, and the Initial Developer hereby disclaims all such warranties, including without limitation, any warranties of merchantability, fitness for a particular purpose or non-infringement.
+The software Open CASCADE Technology and all software distributed under the License are distributed on an "AS IS" basis, without warranty of any kind, and the Initial Developer hereby disclaims all such warranties, including without limitation, any warranties of merchantability, fitness for a particular purpose or non-infringement.
 
-     Please see the License for the specific terms and conditions governing rights and limitations under the License"
-     End of Schedule "B"
+Please see the License for the specific terms and conditions governing rights and limitations under the License"
+End of Schedule "B"

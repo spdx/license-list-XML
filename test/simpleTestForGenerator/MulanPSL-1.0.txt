@@ -1,5 +1,4 @@
 木兰宽松许可证, 第1版
-
 木兰宽松许可证， 第1版
 
 2019年8月 http://license.coscl.org.cn/MulanPSL
@@ -55,10 +54,11 @@ Copyright (c) [2019] [name of copyright holder]
 You can use this software according to the terms and conditions of the Mulan PSL v1.
 You may obtain a copy of Mulan PSL v1 at:
     http://license.coscl.org.cn/MulanPSL
-THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
+THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY OR FIT FOR A PARTICULAR
+PURPOSE.
 See the Mulan PSL v1 for more details.
 Mulan Permissive Software License，Version 1
-
 Mulan Permissive Software License，Version 1 (Mulan PSL v1)
 
 August 2019 http://license.coscl.org.cn/MulanPSL
@@ -103,14 +103,15 @@ How to apply the Mulan Permissive Software License，Version 1 (Mulan PSL v1) to
 
 To apply the Mulan PSL v1 to your work, for easy identification by recipients, you are suggested to complete following three steps:
 
-i. Fill in the blanks in following statement, including insert your software name, the year of the first publication of your software, and your name identified as the copyright owner;
-ii. Create a file named “LICENSE” which contains the whole context of this License in the first directory of your software package;
-iii. Attach the statement to the appropriate annotated syntax at the beginning of each source file.
-
+Fill in the blanks in following statement, including insert your software name, the year of the first publication of your software, and your name identified as the copyright owner;
+Create a file named “LICENSE” which contains the whole context of this License in the first directory of your software package;
+Attach the statement to the appropriate annotated syntax at the beginning of each source file.
 Copyright (c) [2019] [name of copyright holder]
 [Software Name] is licensed under the Mulan PSL v1.
 You can use this software according to the terms and conditions of the Mulan PSL v1.
 You may obtain a copy of Mulan PSL v1 at:
     http://license.coscl.org.cn/MulanPSL
-THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
+THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY OR FIT FOR A PARTICULAR
+PURPOSE.
 See the Mulan PSL v1 for more details.

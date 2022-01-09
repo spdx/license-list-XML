@@ -1,6 +1,4 @@
-
 木兰宽松许可证, 第2版
-
 木兰宽松许可证， 第2版
 
 2020年1月 http://license.coscl.org.cn/MulanPSL2
@@ -64,9 +62,7 @@ THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND,
 EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
 MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
 See the Mulan PSL v2 for more details.
-
 Mulan Permissive Software License，Version 2
-
 Mulan Permissive Software License，Version 2 (Mulan PSL v2)
 
 January 2020 http://license.coscl.org.cn/MulanPSL2
@@ -115,10 +111,9 @@ How to Apply the Mulan Permissive Software License，Version 2 (Mulan PSL v2) to
 
 To apply the Mulan PSL v2 to your work, for easy identification by recipients, you are suggested to complete following three steps:
 
-i. Fill in the blanks in following statement, including insert your software name, the year of the first publication of your software, and your name identified as the copyright owner;
-ii. Create a file named "LICENSE" which contains the whole context of this License in the first directory of your software package;
-iii. Attach the statement to the appropriate annotated syntax at the beginning of each source file.
-
+Fill in the blanks in following statement, including insert your software name, the year of the first publication of your software, and your name identified as the copyright owner;
+Create a file named "LICENSE" which contains the whole context of this License in the first directory of your software package;
+Attach the statement to the appropriate annotated syntax at the beginning of each source file.
 Copyright (c) [Year] [name of copyright holder]
 [Software Name] is licensed under Mulan PSL v2.
 You can use this software according to the terms and conditions of the Mulan PSL v2.
@@ -128,4 +123,4 @@ THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND,
 EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
 MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
 See the Mulan PSL v2 for more details.
-
+Copyright © 中国开源云联盟 京ICP备05013730号-37

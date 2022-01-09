@@ -1,5 +1,4 @@
 Secure Messaging Protocol (SMP) Libraries [ACL, CML, SFL]
-
 Distribution Rights
 
 All source code for the SMP is being provided at no cost and with no financial limitations regarding its use and distribution. Organizations can use the SMP without paying any royalties or licensing fees. The SMP was originally developed by the U.S. Government. BAE Systems is enhancing and supporting the SMP under contract to the U.S. Government. The U.S. Government is furnishing the SMP software at no cost to the vendor subject to the conditions of the SMP Public License provided with the SMP software.
@@ -22,8 +21,8 @@ The SMP Software is provided without warranty or guarantee of any nature, expres
 
 The U.S. Government cannot be held liable for any damages either directly or indirectly caused by the use of the SMP Software.
 
-It is not permitted to copy, sublicense, distribute or transfer any of the SMP Software except as expressly indicated herein.  Any attempts to do otherwise will be considered a violation of this License and your rights to the SMP Software will be voided.
+It is not permitted to copy, sublicense, distribute or transfer any of the SMP Software except as expressly indicated herein. Any attempts to do otherwise will be considered a violation of this License and your rights to the SMP Software will be voided.
 
-The SMP uses the Enhanced SNACC (eSNACC) Abstract Syntax Notation One (ASN.1) C++ Library to ASN.1 encode and decode security-related data objects.  The eSNACC ASN.1 C++ Library is covered by the ENHANCED SNACC SOFTWARE PUBLIC LICENSE.  None of the GNU public licenses apply to the eSNACC ASN.1 C++ Library.  The eSNACC Compiler is not distributed as part of the SMP.
+The SMP uses the Enhanced SNACC (eSNACC) Abstract Syntax Notation One (ASN.1) C++ Library to ASN.1 encode and decode security-related data objects. The eSNACC ASN.1 C++ Library is covered by the ENHANCED SNACC SOFTWARE PUBLIC LICENSE. None of the GNU public licenses apply to the eSNACC ASN.1 C++ Library. The eSNACC Compiler is not distributed as part of the SMP.
 
 Copyright © 1997-2002 National Security Agency

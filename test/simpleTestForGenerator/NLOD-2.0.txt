@@ -70,7 +70,7 @@ A licence compatible by contract shall mean the following licences:
      * for all information: Open Government Licence (version 1.0, 2.0 and 3.0), Creative Commons Attribution Licence (international version 4.0 and norwegian version 4.0),
      * for those parts of the information which do not constitute databases: Creative Commons Attribution Licence (generic version 1.0, 2.0, 2.5 and unported version 3.0) and Creative Commons Navngivelse 3.0 Norge,
      * for those parts of the information which constitute databases: Open Data Commons Attribution License (version 1.0).
-     
+
 This provision does not prevent other licences from being compatible with this licence based on their content.
 
 10. New versions of the licence
