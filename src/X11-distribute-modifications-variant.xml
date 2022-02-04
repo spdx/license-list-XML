@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="X11-distribute-modifications-variant" name="X11 License Distribution Modification Variant">
+   <license isOsiApproved="false" licenseId="X11-distribute-modifications-variant" name="X11 License Distribution Modification Variant" listVersionAdded="3.16">
       <crossRefs>
          <crossRef>https://github.com/mirror/ncurses/blob/master/COPYING</crossRef>
       </crossRefs>
