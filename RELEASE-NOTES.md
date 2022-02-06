@@ -1,5 +1,30 @@
 # Release Notes for SPDX License List
 
+## version 3.16 - 2022-02-06
+
+New licenses/exceptions added: 6
+
+1. App-s2p
+2. DL-DE-BY-2.0
+3. Elastic-2.0
+4. Jam
+5. SchemeReport
+6. X11-distribute-modifications-variant
+
+Deprecated licenses/exceptions: 1
+
+1. bzip2-1.0.5
+
+Added documentation describing how to use the Git command line to create and test new license XML files. See https://github.com/spdx/license-list-XML/blob/master/DOCS/git-usage.md for more information.
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+Updated to latest version of the License List Publisher.
+
+See all PRs for 3.16 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.16%22+is%3Aclosed
+
+See comparision of changes from 3.15 to 3.16: https://github.com/spdx/license-list-XML/compare/v3.15...v3.16
+
 ## version 3.15 - 2021-11-14
 
 New licenses/exceptions added: 4
