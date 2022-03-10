@@ -1,14 +1,33 @@
-# New License Workflow
+<span id="top"> </span>
+
+# Table of Contents
+
+- ### <a href="#workflow"> New License Workflow </a>
+- ### <a href="#check"> Things to check for initial request </a>
+- ### <a href="#not_accepted"> If license not accepted </a>
+- ### <a href="#accepted"> If license is accepted workflow </a>
+
+<br>
+
+---
+
+<br>
+
+### <span id="workflow"></span>New License Workflow
 
 > ⚠️ **NOTA BENE:** A GitHub account is required for the New License Workflow. If you do not have a GitHub account yet, you must [create one](https://github.com/join) (for free) to continue with the workflow.
 
-This document provides guidance and checklists for SPDX legal team members who are assigned to shepherd a new license request.
+- This document provides guidance and checklists for SPDX legal team members who are assigned to shepherd a new license request.
 
-The instructions here assume the requester has already submitted the new license/exception request via the [SPDX online tools](https://tools.spdx.org). Note that it is also possible for license requests to be submitted directly as Issues in the GitHub repo; when this occurs, they will not appear on the SPDX online tools page.
+- The instructions here assume the requester has already submitted the new license/exception request via the [SPDX online tools](https://tools.spdx.org). Note that it is also possible for license requests to be submitted directly as Issues in the GitHub repo; when this occurs, they will not appear on the SPDX online tools page.
 
-New license requests are to be assigned to an SPDX legal team member and that person is responsible for following the request through to its final determination.  Make sure to add yourself as the Assignee in the license request issue here on GitHub, add the [label](https://github.com/spdx/license-list-XML/labels) `new license/exception request`, and add the appropriate release milestone to the issue.
+- New license requests are to be assigned to an SPDX legal team member and that person is responsible for following the request through to its final determination.  Make sure to add yourself as the Assignee in the license request issue here on GitHub, add the [label](https://github.com/spdx/license-list-XML/labels) `new license/exception request`, and add the appropriate release milestone to the issue.
 
-## Things to check for initial request:
+##### <a href="#top"> Back to Top</a>
+
+<br>
+
+### <span id="check"></span>Things to Check for Initial Request
 
 1. Is the license or exception already on the SPDX License List?  Has it been submitted and rejected previously? (If yes, go to "If license not accepted")
 2. Is the license or exception similar enough to an existing license or exception that additional markup could accommodate a match and there is no need to add the license?
@@ -26,19 +45,27 @@ Ask the submitter for any additional info needed, preferably via the GitHub issu
     4. Record all notes in Issue
 6. If the legal team determines that more information is needed, the information should be requested in the Issue, tagging the requester and/or steward(s) and add the [label](https://github.com/spdx/license-list-XML/labels) `new license/exception: waiting for submitter`. If a response is not received within a reasonable amount of time, a follow-up request should be sent. If a response is not received to either request the next release (or two, if close to a release at first correspondence), the Issue will be closed.
 
-## If license not accepted:
+##### <a href="#top"> Back to Top</a>
 
-If the license/exception has not been accepted (for whatever reason, including it is already represented on the license list), make a note in the issue as to why, add the [label](https://github.com/spdx/license-list-XML/labels) to `new license/exception: Not accepted`, inform the submitter, update the issue as needed, and close.
+<br>
 
-## If license is accepted:
+### <span id="not_accepted"></span>If License not Accepted
 
-If the license/exception is accepted, make a note in the issue, add the [label](https://github.com/spdx/license-list-XML/labels) `new license/exception: Accepted`.
+- If the license/exception has not been accepted (for whatever reason, including it is already represented on the license list), make a note in the issue as to why, add the [label](https://github.com/spdx/license-list-XML/labels) to `new license/exception: Not accepted`, inform the submitter, update the issue as needed, and close.
 
-The final step is to create the license XML and test .txt files.
+##### <a href="#top"> Back to Top</a>
 
-While you can do this using the [SPDX Online tools](https://tools.spdx.org/), you can also [clone (fork) the license-list-XML repository (repo)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-forks), make the edits on your clone of the repo, then [send a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). The clone-and-edit process is currently necessary for the test .txt file regardless, as the SPDX Online tools do not yet support adding a test .txt file (see issue [here](https://github.com/spdx/spdx-online-tools/issues/206)).
+<br>
 
-The following steps assume you're working from a clone of the repo, but we have some basic steps afterwards if you'd like to edit the XML using the SPDX Online tools.
+### <span id="accepted"></span>If License is Accepted Workflow
+
+- If the license/exception is accepted, make a note in the issue, add the [label](https://github.com/spdx/license-list-XML/labels) `new license/exception: Accepted`.
+
+- The final step is to create the license XML and test .txt files.
+
+- While you can do this using the [SPDX Online tools](https://tools.spdx.org/), you can also [clone (fork) the license-list-XML repository (repo)](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-forks), make the edits on your clone of the repo, then [send a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). The clone-and-edit process is currently necessary for the test .txt file regardless, as the SPDX Online tools do not yet support adding a test .txt file (see issue [here](https://github.com/spdx/spdx-online-tools/issues/206)).
+
+- The following steps assume you're working from a clone of the repo, but we have some basic steps afterwards if you'd like to edit the XML using the SPDX Online tools.
 
 > ⚠️ **NOTA BENE:** All files rely on the `licenseId` (short identifier) for the license. The XML and test .txt files must be named identically using that `licenseId` value. For instance, if you're adding the _K-9 Robotic Dog Hardware License_ with a `licenseId` of _K-9RDHL_, you will have an XML file named `K-9RDHL.xml` and a test .txt file named `K-9RDHL.txt`.
 
@@ -180,3 +207,7 @@ The [SPDX Online tools](https://tools.spdx.org/) are an option for editing the X
 4. Once the PR is created in the repo, add a .txt file for the license in the test/simpleTestForGenerator directory
 5. Check to see if the PR passes the automated test suite on check-in.  If it does not pass, evaluate the cause and resolve it.  If you need assistance, contact one of the technical leads (@goneall or @zvr) for assistance.
 6. Once review has been completed and there are no further question, merge PR, and close issue.
+
+##### <a href="#top"> Back to Top</a>
+
+<br>
