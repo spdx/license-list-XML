@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="LZMA-SDK-462-to-465" name="LZMA SDK License (versions 4.57 or earlier)">
+      <crossRefs>
+         <crossRef>https://www.7-zip.org/sdk.html</crossRef>
+         <crossRef>https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/</crossRef>
+      </crossRefs>
+      <notes>
+         The license text currently displayed on the 7-zip SDK website is not the same as any of the
+         lzma.txt file in the root folders of the .tar.bz SDK distributions (versions 922 and below)
+         that are hosted on SourceForge, nor is it the same as the .7z distributions (versions 935 and
+         above) which shifted the license text to DOC\lzma-sdk.txt.
+
+         This license applies to versions between 4.62 and 4.65 (inclusive).
+      </notes>
+      <text>
+          LICENSE
+          -------
+        <p>
+          LZMA SDK is written and placed in the public domain by Igor Pavlov.
+        </p>
+      </text>
+  </license>
+</SPDXLicenseCollection>
