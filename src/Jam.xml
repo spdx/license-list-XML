@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="Jam" name="Jam License" listVersionAdded="3.16">
+   <license isOsiApproved="true" licenseId="Jam" name="Jam License" listVersionAdded="3.16">
     <crossRefs>
 	<crossRef>https://www.boost.org/doc/libs/1_35_0/doc/html/jam.html</crossRef>
 	<crossRef>https://web.archive.org/web/20160330173339/https://swarm.workshop.perforce.com/files/guest/perforce_software/jam/src/README</crossRef>
