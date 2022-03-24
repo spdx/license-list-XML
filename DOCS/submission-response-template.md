@@ -20,10 +20,10 @@
 ### 1. Does the license substantially comply with one of the free/open content definitions?
 *Approval by the organisation that publishes the definition is not required*
 
-### 2. Does the license have substantial use such that it is likely to be encountered (ie. use in many projects, or in one significant project)?
-*For recently written licenses, definitive plans for it to be used in at least one significant project satisfies this*
+### 2. Is the license structured to be generally usable by anyone, and not specific to one organisation or project?
 
-### 3. Is the license structured to be generally usable by anyone, and not specific to one organisation or project?
+### 3. Does the license have substantial use such that it is likely to be encountered (ie. use in many projects, or in one significant project)?
+*For recently written licenses, definitive plans for it to be used in at least one or a few significant projects may satisfy this*
 
 ### 4. Is the license primarily intended to facilitate the free distribution of content with limited restrictions?
 
