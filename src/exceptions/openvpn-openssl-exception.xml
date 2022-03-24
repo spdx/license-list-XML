@@ -9,8 +9,8 @@
       <titleText>
          <p>Special exception for linking OpenVPN with OpenSSL:</p>
       </titleText>
-      <p>In addition, as a special exception, OpenVPN Technologies, Inc.
-         gives permission to link the code of this program with the
+      <p>In addition, as a special exception, <alt match=".+" name="organization">OpenVPN Technologies, Inc.</alt>
+         gives permission to link <optional>the code</optional> of this program with the
          OpenSSL Library (or with modified versions of OpenSSL that use
          the same license as OpenSSL), and distribute linked
          combinations including the two. You must obey the GNU General
