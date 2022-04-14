@@ -174,6 +174,18 @@ If you don't feel like a cup of tea right now, you can run the `make validate-ca
 2. Run `./test-one-license licenseId`, replacing (of course) the `licenseId` with (naturally) the licenseId of the license in question
 3. Don't make that cup of tea, since you won't have time
 
+### Handling Duplicate Licenses
+
+The CI/CD pipeline will fail if it detects an existing license with matching license text.  If this occurs, manually review the duplicate license.  If this is expected (e.g. if the duplicate license is a deprecated version of the same license), add the following to the [expected-warnings](https://github.com/spdx/license-list-XML/blob/master/expected-warnings) file:
+
+```
+,"Duplicates licenses: DUPLICATE_LICENSE_ID, MY_LICENSE_ID","Duplicates licenses: MY_LICENSE_ID, DUPLICATE_LICENSE_ID"
+```
+
+where `DUPLICATE_LICENSE_ID` is the license ID of the duplicate license and `MY_LICENSE_ID` is the license ID of the license you are adding.
+
+If the duplicate license is not expected and you believe the licenses are indeed different, review the license XML for both licenses for any `<Optional>...` or `<Alt ...` tags that may cause a match.
+
 ### Send the pull request (PR) for the XML and .txt files
 
 You're nearly done! All that's left is for you to tell the team you're done and the work is ready for review and merging.
