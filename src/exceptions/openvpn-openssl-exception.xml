@@ -11,7 +11,7 @@
       </titleText>
       <p>In addition, as a special exception, <alt name="copyrightHolder"
          match=".+">OpenVPN Technologies, Inc.</alt>
-         give<optional>s</optional> permission to link <alt name="thisProgram" match="(the code of
+         <alt name="give" match="give|gives">gives</alt> permission to link <alt name="thisProgram" match="(the code of
          this program)|(this program)">the code of this program</alt> with the
          OpenSSL Library (or with modified versions of OpenSSL that use
          the same license as OpenSSL), and distribute linked
