@@ -21,7 +21,7 @@
       <p>
         You should have received a copy of the GNU Affero General Public License
         along with this program. If not, see
-	      &lt;http<optional spacing="none">s</optional>://www.gnu.org/licenses/&gt;</p>
+	      &lt;https://www.gnu.org/licenses/&gt;</p>
     </standardLicenseHeader>
     <notes>
       This version was released: 19 November 2007. This license identifier refers to the choice
@@ -39,7 +39,7 @@
     </titleText>
     <p>
       Copyright (C) 2007 Free Software Foundation, Inc.
-      &lt;http<optional spacing="none">s</optional>://fsf.org/&gt;
+      &lt;https://fsf.org/&gt;
     </p>
     <p>
       Everyone is permitted to copy and distribute verbatim copies
@@ -832,7 +832,7 @@
       <p>
         You should have received a copy of the GNU Affero General
 	Public License along with this program. If not, see
-	&lt;http<optional spacing="none">s</optional>://www.gnu.org/licenses/&gt;.
+	&lt;https://www.gnu.org/licenses/&gt;.
       </p>
       <p>
         Also add information on how to contact you by electronic and paper mail.
@@ -851,7 +851,7 @@
         or school, if any, to sign a "copyright disclaimer" for
         the program, if necessary. For more information on this,
 	and how to apply and follow the GNU AGPL, see
-	&lt;http<optional spacing="none">s</optional>://www.gnu.org/licenses/&gt;.
+	&lt;https://www.gnu.org/licenses/&gt;.
       </p>
     </optional>
     </text>

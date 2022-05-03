@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: CC0-1.0
 
-TOOL_VERSION = 2.2.1
+TOOL_VERSION = 2.2.6
 TEST_DATA = test/simpleTestForGenerator
 GIT_AUTHOR = License Publisher (maintained by Gary O'Neall) <gary@sourceauditor.com>
 GIT_AUTHOR_EMAIL = gary@sourceauditor.com
@@ -8,7 +8,7 @@ LICENSE_DATA_REPO_NO_SCHEME = github.com/spdx/license-list-data.git
 LICENSE_DATA_REPO = https://$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_DATA_URL = https://$(LICENSE_LIST_GITHUB_TOKEN)@$(LICENSE_DATA_REPO_NO_SCHEME)
 LICENSE_OUTPUT_DIR = .tmp
-GITVERSION = $(shell git describe --always || echo 'UNKNOWN')
+GITVERSION = $(shell git describe --always --tags || echo 'UNKNOWN')
 # Remove leading 'v' or 'V'
 VERSION = $(subst V,,$(subst v,,$(GITVERSION)))
 RELEASE_DATE = $(shell date '+%Y-%m-%d')

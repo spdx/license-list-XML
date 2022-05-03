@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="bzip2-1.0.5"
-            name="bzip2 and libbzip2 License v1.0.5">
+            name="bzip2 and libbzip2 License v1.0.5"
+            isDeprecated="true" deprecatedVersion="3.16">
       <crossRefs>
          <crossRef>https://sourceware.org/bzip2/1.0.5/bzip2-manual-1.0.5.html</crossRef>
           <crossRef>http://bzip.org/1.0.5/bzip2-manual-1.0.5.html</crossRef>
       </crossRefs>
+      <notes>
+		bzip2-1.0.5 is being deprecated in favor of bzip2-1.0.6, which is now equivalent
+		as of License List version 3.16 with the addition of markup for version numbering
+		and the optional PATENTS statement, which was not specific to bzip2 1.0.5.
+      </notes>
     <text>
       <titleText>
          <p>Version 1.0.5 of 10 December 2007</p>

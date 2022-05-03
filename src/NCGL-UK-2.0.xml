@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
     <license licenseId="NCGL-UK-2.0" name="Non-Commercial Government Licence" listVersionAdded="3.9">
         <crossRefs>
-            <crossRef>https://github.com/spdx/license-list-XML/blob/master/src/Apache-2.0.xml</crossRef>
+            <crossRef>http://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/version/2/</crossRef>
         </crossRefs>
         <text>
             <titleText>Non-Commercial Government Licence

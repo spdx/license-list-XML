@@ -1,5 +1,88 @@
 # Release Notes for SPDX License List
 
+## version 3.16 - 2022-02-06
+
+New licenses/exceptions added: 6
+
+1. App-s2p
+2. DL-DE-BY-2.0
+3. Elastic-2.0
+4. Jam
+5. SchemeReport
+6. X11-distribute-modifications-variant
+
+Deprecated licenses/exceptions: 1
+
+1. bzip2-1.0.5
+
+Added documentation describing how to use the Git command line to create and test new license XML files. See https://github.com/spdx/license-list-XML/blob/master/DOCS/git-usage.md for more information.
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+Updated to latest version of the License List Publisher.
+
+See all PRs for 3.16 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.16%22+is%3Aclosed
+
+See comparision of changes from 3.15 to 3.16: https://github.com/spdx/license-list-XML/compare/v3.15...v3.16
+
+## version 3.15 - 2021-11-14
+
+New licenses/exceptions added: 4
+
+1. COIL-1.0
+2. Community-Spec-1.0
+3. FDK-AAC
+4. Linux-man-pages-copyleft
+
+Note that "Linux-man-pages-copyleft" was initially merged as "Verbatim-man-pages", but at the community's request the ID was updated prior to inclusion in the release. See https://github.com/spdx/license-list-XML/issues/1310 for more details.
+
+Added template for reviews of new license requests, to evaluate against the license inclusion principles. See https://github.com/spdx/license-list-XML/blob/master/DOCS/submission-response-template.md for the review template.
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+Updated to latest version of the License List Publisher.
+
+See all PRs for 3.15 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.15%22+is%3Aclosed
+
+See comparision of changes from 3.14 to 3.15: https://github.com/spdx/license-list-XML/compare/v3.14...v3.15
+
+## version 3.14 - 2021-08-08
+
+New licenses/exceptions added: 13
+
+1. CC-BY-NC-SA-2.0-FR
+2. CC-BY-NC-SA-2.0-UK
+3. CC-BY-2.5-AU
+4. CC-BY-3.0-NL
+5. CC-BY-3.0-DE
+6. CC-BY-NC-3.0-DE
+7. CC-BY-NC-ND-3.0-DE
+8. CC-BY-NC-SA-3.0-DE
+9. CC-BY-ND-3.0-DE
+10. CC-BY-SA-3.0-DE
+11. CDLA-Permissive-2.0
+12. NLOD-2.0
+13. OPUBL-1.0
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+See all PRs for 3.14 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.14%22+is%3Aclosed
+
+See comparision of changes from 3.13 to 3.14: https://github.com/spdx/license-list-XML/compare/v3.13...v3.14
+
+## version 3.13 - 2021-05-15
+
+New licenses/exceptions added: 2
+
+1. BSD-3-Clause-No-Military-License
+2. CDL-1.0
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+See all PRs for 3.13 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.13%22+is%3Aclosed
+
+See comparision of changes from 3.12 to 3.13: https://github.com/spdx/license-list-XML/compare/v3.12...v3.13
+
 ## version 3.12 - 2021-03-07
 
 New licenses/exceptions added: 10
