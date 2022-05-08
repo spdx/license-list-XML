@@ -7,7 +7,7 @@
       <crossRef>https://github.com/juju/errors/blob/master/LICENSE</crossRef>
     </crossRefs>
     <notes>
-      Unlike GPL-3.0-linking-exception, this exception it is not based on a suggested template from
+      Unlike GPL-3.0-linking-exception, this exception is not based on a suggested template from
       the Free Software Foundation's FAQ about the GPL. It is being added as it has been used
       in several projects as a linking exception to LGPL-3.0.
     </notes>
