@@ -1,5 +1,27 @@
 # Release Notes for SPDX License List
 
+## version 3.17 - 2022-05-08
+
+New licenses/exceptions added: 5
+
+1. Arphic-1999
+2. Baekmuk
+3. Bitstream-Vera
+4. KiCad-libraries-exception
+5. mplus
+
+For the LGPL-3.0 collection of licenses, added GPL-3.0 text as optional inclusion at end of license text.
+
+Migrated SPDX License List FAQs from SPDX website into license-list-XML repo in MarkDown format.
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+Updated to latest version of the License List Publisher.
+
+See all PRs for 3.17 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.17%22+is%3Aclosed
+
+See comparision of changes from 3.16 to 3.17: https://github.com/spdx/license-list-XML/compare/v3.16...v3.17
+
 ## version 3.16 - 2022-02-06
 
 New licenses/exceptions added: 6
