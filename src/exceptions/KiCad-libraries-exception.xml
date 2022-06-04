@@ -1,5 +1,5 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-  <exception isOsiApproved="false" licenseId="KiCad-libraries-exception" listVersionAdded="3.17" name="KiCad Libraries Exception">
+  <exception licenseId="KiCad-libraries-exception" listVersionAdded="3.17" name="KiCad Libraries Exception">
     <crossRefs>
       <crossRef>https://www.kicad.org/libraries/license/</crossRef>
     </crossRefs>
