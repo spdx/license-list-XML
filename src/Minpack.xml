@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Minpack"
-   name="Minpack License" listVersionAdded="">
+   name="Minpack License" listVersionAdded="3.18">
       <crossRefs>
          <crossRef>http://www.netlib.org/minpack/disclaimer</crossRef>
          <crossRef>https://gitlab.com/libeigen/eigen/-/blob/master/COPYING.MINPACK</crossRef>
