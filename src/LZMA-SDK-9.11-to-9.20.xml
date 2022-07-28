@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="LZMA-SDK-911-to-920" name="LZMA SDK License (versions 9.11 to 9.20)">
+   <license isOsiApproved="false" licenseId="LZMA-SDK-9.11-to-9.20" name="LZMA SDK License (versions 9.11 to 9.20)" listVersionAdded="3.18">
       <crossRefs>
          <crossRef>https://www.7-zip.org/sdk.html</crossRef>
          <crossRef>https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/</crossRef>
@@ -14,8 +14,14 @@
          This license applies to versions between 9.11 and 9.20 (inclusive).
       </notes>
       <text>
+         <titleText>
+         <p>
           LICENSE
+         </p>
+         <p>
           -------
+         </p>
+         </titleText>
         <p>
           LZMA SDK is written and placed in the public domain by Igor Pavlov.
         </p>
