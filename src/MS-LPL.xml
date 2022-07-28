@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="MS-LPL" name="Microsoft Limited Public License">
+   <license isOsiApproved="false" licenseId="MS-LPL" name="Microsoft Limited Public License" listVersionAdded="3.18">
       <crossRefs>
          <crossRef>https://www.openhub.net/licenses/mslpl</crossRef>
          <crossRef>https://github.com/gabegundy/atlserver/blob/master/License.txt</crossRef>
