@@ -3,6 +3,7 @@
    <exception licenseId="389-exception" name="389 Directory Server Exception">
       <crossRefs>
          <crossRef>http://directory.fedoraproject.org/wiki/GPL_Exception_License_Text</crossRef>
+         <crossRef>https://web.archive.org/web/20080828121337/http://directory.fedoraproject.org/wiki/GPL_Exception_License_Text</crossRef>
       </crossRefs>
       <notes>Specified to be associated with GPL-2.0</notes>
     <text>
