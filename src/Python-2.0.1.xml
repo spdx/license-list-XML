@@ -20,7 +20,7 @@
                <bullet>1.</bullet>
                This LICENSE AGREEMENT is between the Python Software Foundation
                ("PSF"), and the Individual or Organization ("Licensee")
-               accessing and otherwise using <alt match="this software ("Python")|Python 3.10.6|Python 2.0.1" name="software"> this software ("Python")</alt>
+               accessing and otherwise using <alt match="this software \(\"Python\"\)|Python(( [0-9]+)\.([0-9]+)\.([0-9]+))?" name="software"> this software ("Python")</alt>
                in source or binary form and its associated documentation.
             </item>
             <item>
