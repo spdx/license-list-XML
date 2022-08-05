@@ -12,7 +12,10 @@
       <text>
          <titleText>
             <p>
-               PSF LICENSE AGREEMENT FOR PYTHON 3.10.6
+               PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
+            </p>
+            <p>
+               --------------------------------------------
             </p>
          </titleText>
          <list>
@@ -87,6 +90,9 @@
                BEOPEN.COM LICENSE AGREEMENT FOR PYTHON 2.0
             </p>
             <p>
+               -------------------------------------------
+            </p>
+            <p>
                BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1
             </p>
          </titleText>
@@ -155,7 +161,10 @@
          </list>
          <titleText>
             <p>
-               CNRI OPEN SOURCE GPL-COMPATIBLE LICENSE AGREEMENT
+               CNRI LICENSE AGREEMENT FOR PYTHON 1.6.1
+            </p>
+            <p>
+               ---------------------------------------
             </p>
          </titleText>
          <list>
