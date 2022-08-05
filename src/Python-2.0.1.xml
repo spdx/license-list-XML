@@ -59,7 +59,7 @@
                PSF SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER
                USERS OF PYTHON <alt match="(([0-9]+)\.([0-9]+)\.([0-9]+))?" name="version">2.0.1</alt> FOR ANY INCIDENTAL, SPECIAL, OR
                CONSEQUENTIAL DAMAGES OR LOSS AS A RESULT OF MODIFYING,
-               DISTRIBUTING, OR OTHERWISE USING PYTHON <alt match="(([0-9]+)\.([0-9]+)\.([0-9]+))?"" name="version">2.0.1</alt>, OR ANY DERIVATIVE
+               DISTRIBUTING, OR OTHERWISE USING PYTHON <alt match="(([0-9]+)\.([0-9]+)\.([0-9]+))?" name="version">2.0.1</alt>, OR ANY DERIVATIVE
                THEREOF, EVEN IF ADVISED OF THE POSSIBILITY THEREOF.
             </item>
             <item>
