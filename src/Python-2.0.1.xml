@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="Python-2.0.1" name="Python Software
-   Foundation License 2.0.1" listVersionAdded="3.18">
+   <license licenseId="Python-2.0.1" name="Python License 2.0.1" listVersionAdded="3.18">
       <crossRefs>
          <crossRef>https://www.python.org/download/releases/2.0.1/license/</crossRef>
          <crossRef>https://docs.python.org/3/license.html</crossRef>
          <crossRef>https://github.com/python/cpython/blob/main/LICENSE</crossRef>
       </crossRefs>
       <notes>
-         This is the stack of licenses used for Python version 1.6.1 onward.
+         For Python release 1.6.1, apparently the CNRI-Python license part of the stack was replaced with CNRI-Python-GPL-Compatible
       </notes>
       <text>
          <titleText>
