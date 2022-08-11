@@ -1,5 +1,30 @@
 # Release Notes for SPDX License List
 
+## version 3.18 - 2022-08-11
+
+New licenses/exceptions added: 10
+
+1. CC-BY-3.0-IGO
+2. GStreamer-exception-2005
+3. GStreamer-exception-2008
+4. LZMA-SDK-9.11-to-9.20
+5. LZMA-SDK-9.22
+6. MS-LPL
+7. Minpack
+8. mpi-permissive
+9. NICTA-1.0
+10. Python-2.0.1
+
+Corrected designation of KiCad-libraries-exception (added in 3.17) as an exception rather than a license.
+
+Implemented license decision template for improved clarity on legal team decisions regarding license submission requests.
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+See all PRs for 3.18 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.18%22+is%3Aclosed
+
+See comparision of changes from 3.17 to 3.18: https://github.com/spdx/license-list-XML/compare/v3.17...v3.18
+
 ## version 3.17 - 2022-05-08
 
 New licenses/exceptions added: 5
