@@ -48,9 +48,9 @@ After all of this is done, you should be all set to start adding new licenses.
 
 For the following steps, we'll assume that you're adding a new license called the XYZ license.
 
-1. In the terminal, make sure you're starting on the master branch, and that it's up to date with the upstream's master:
-  * **Change to the master branch**: `git checkout master`
-  * **Pull in any updates from upstream**: `git pull upstream master`
+1. In the terminal, make sure you're starting on the main branch, and that it's up to date with the upstream's main:
+  * **Change to the main branch**: `git checkout main`
+  * **Pull in any updates from upstream**: `git pull upstream main`
 2. Now that it's synced with upstream, you'll create a branch into which you'll commit your changes. I'm calling it "xyz" here for the new license, but you can name it anything unique.
   * **Create new branch**: `git checkout -b xyz`
 3. When the new branch is created, git will also automatically change it so that the new branch is your working branch. You can type `git status` to see your current working branch: ![screenshot from typing `git status` on clean repo](/DOCS/images/git-usage-git-status-clean.png)
@@ -64,10 +64,10 @@ For the following steps, we'll assume that you're adding a new license called th
 8. Next, you'll "commit" the changes, which actually inserts them into your local branch:
   * **Commit the files**: `git commit -m "Add XYZ license"`
   * In the commit command, the `-m` flag lets you add a one-line message to the commit. If you omit `-m` and the quoted message, it will take you to a text editor where you can type a longer message.
-9. At this point, your local copy of the "xyz" branch is 1 commit ahead of the "master" branch, because you've created and inserted the commit with these files into the xyz branch. The next thing you'll do is push the "xyz" branch up to your personal repo on GitHub:
+9. At this point, your local copy of the "xyz" branch is 1 commit ahead of the "main" branch, because you've created and inserted the commit with these files into the xyz branch. The next thing you'll do is push the "xyz" branch up to your personal repo on GitHub:
   * **Push to personal (origin) repo on GitHub**: `git push origin xyz`
   * If you go to your personal GitHub repo, it will alert to you that the branch was pushed: ![screenshot of pushed branch on GitHub UI](/DOCS/images/git-usage-push-ui.png)
-10. Finally, the last step is to create a Pull Request from the "xyz" branch in your personal repo, into the "master" branch in the main upstream repo:
+10. Finally, the last step is to create a Pull Request from the "xyz" branch in your personal repo, into the "main" branch in the main upstream repo:
   * **Initiate the pull request**: click the "Compare and pull request" button shown above
   * From there, it will show you the same Pull Request editor screen that you've seen before in the GitHub UI. Edit the PR message if desired, and when you're ready, click "Create pull request".
 

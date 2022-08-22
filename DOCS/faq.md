@@ -150,7 +150,7 @@ expression: `Apache-2.0 AND MIT AND GPL-2.0`.
 ### <span id="request"></span>How do I request adding a license to SPDX License List?
 
 Follow the instructions here:
-https://github.com/spdx/license-list-XML/blob/master/CONTRIBUTING.md
+https://github.com/spdx/license-list-XML/blob/main/CONTRIBUTING.md
 
 ##### <a href="#top"> Back to Top</a>
 
