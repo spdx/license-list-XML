@@ -17,7 +17,7 @@
          without fee is hereby granted, provided that the above copyright notice appears in all copies<optional spacing="after">,</optional> and that
          both that copyright notice and this permission notice appear in supporting documentation, and that the
          name of <alt match=".+" name="copyrightHolder1">the copyright holder</alt> not be used in advertising or publicity
-         pertaining to distribution of the software without specific<optional spacing="after">,</optional> written permission.</p>
+         pertaining to distribution of the software without specific<optional spacing="after">,</optional> written <optional>prior</optional> permission.</p>
       <p><alt match=".+" name="copyrightHolder2">THE COPYRIGHT HOLDER</alt> <alt match="DISCLAIM(S)?" name="disclaim">DISCLAIM</alt> ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
          INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL <alt match=".+" name="copyrightHolder3">THE COPYRIGHT HOLDER</alt> BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY
          DAMAGES WHATSOEVER RESULTING FROM <optional>THE</optional> LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
