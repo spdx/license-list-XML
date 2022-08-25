@@ -612,7 +612,7 @@
         <br/>Software distributed under the License is distributed on an "AS IS" basis, WITHOUT
              WARRANTY OF ANY KIND, either express or implied. See the License for the specific language
              governing rights and limitations under the License.
-        <br/>The Original Code is <alt name="code" match=".+">______________________</alt>.
+        <br/>The Original Code <alt name="code" match=".+">is______________________</alt>.
         <br/>The Original Developer is not the Initial Developer and is <alt name="originalDeveloper" match=".+">__________</alt>. If left blank, the Original
              Developer is the Initial Developer.
         <br/>The Initial Developer of the Original Code is <alt name="initialDeveloper" match=".+">____________</alt>. All portions of the code written by
