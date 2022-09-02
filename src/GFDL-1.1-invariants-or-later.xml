@@ -461,8 +461,8 @@
         Copyright (c) YEAR YOUR NAME. Permission is granted to copy,
         distribute and/or modify this document under the terms of the
         GNU Free Documentation License, Version 1.1 or any later version
-        published by the Free Software Foundation; with <alt name="invariantSections" match="the Invariant Sections
-        being .+|no Invariant Sections">the Invariant Sections
+        published by the Free Software Foundation; with
+		<alt name="invariantSections" match="the Invariant Sections being .+|no Invariant Sections">the Invariant Sections
         being LIST THEIR TITLES</alt>, with <alt name="frontCoverTexts" match="the Front-Cover Texts being .+|no Front-Cover Texts">the Front-Cover Texts being LIST</alt>,
         and with <alt name="backCoverTexts" match="the Back-Cover Texts being .+|no Back-Cover Texts">the Back-Cover Texts being LIST</alt>. A copy of the license is
         included in the section entitled "GNU Free Documentation License".
