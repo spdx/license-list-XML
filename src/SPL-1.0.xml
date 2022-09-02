@@ -500,7 +500,7 @@
          http://www.sun.com/</p>
          <p>The Original Code is <alt name="code" match=".+">_________________</alt>.
          The Initial Developer of the Original Code is <alt name="initialDeveloper" match=".+">___________</alt>.
-         Portions created by <alt name="createdBy" match=".+">______</alt> are Copyright (C) <alt name="copyright" match=".+">_________</alt>.
+         Portions created by <alt name="createdBy" match=".+">______</alt> are Copyright <alt name="copyright" match=".+">(C)_________</alt>.
          All Rights Reserved.</p>
          <p>Contributor(s): <alt name="contributor" match=".+">______________________________________</alt>.</p>
          <p>Alternatively, the contents of this file may be used under the terms of the <alt name="altLicense" match=".+">_____ license</alt> (the <alt name="altLicenseShort1" match=".+">?[___] License?</alt>), in which case the provisions of <alt name="altLicenseShort2" match=".+">[______]</alt> License are applicable instead of those above. If
