@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="FPA" name="Fairfield Programming Association General Code License">
       <crossRefs>
-         <crossRef>https://about.fairfieldprogramming.org/license/code</crossRef>
+         <crossRef>https://about.fairfieldprogramming.org/licenses/code</crossRef>
       </crossRefs>
     <text>
       <titleText>
