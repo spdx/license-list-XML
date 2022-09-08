@@ -1,0 +1,23 @@
+# SPDX-License-Identifier: 0BSD OR CC0-1.0
+
+name: Comment automatically on accepted license requests
+
+on:
+  push:
+    branches:
+      - '**'
+  schedule:
+    - cron: '0 06,16,18 * * *' # every day at 06:00, 16:00 and 18:00.
+
+jobs:
+  comment:
+    name: Comment automatically on accepted license requests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install git3po
+        run: npm install -g git3po
+      - name: Run `git3po` to leave comment
+        env:
+          GIT3PO_GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: git3po -c auto-comment.yaml
