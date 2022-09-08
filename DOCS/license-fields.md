@@ -2,6 +2,7 @@
 The following information describes how each field on the license and exception list is treated.
 
 **A) Full Name**
+* The full name should use the title found in the license file or be consistent with naming from other well-known sources (i.e., OSI, Fedora, etc.), where applicable. If possible and applicable, input from the license author or steward should be sought.
 * The full name may omit certain word, such as "the," for alphabetical sorting purposes
 * No commas in full name of license or exception
 * The word "version" is not spelled out; "v" or nothing is used to indicate license version (for space reasons)
