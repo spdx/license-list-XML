@@ -127,8 +127,8 @@ Specification](https://spdx.github.io/spdx-spec/appendix-IV-SPDX-license-express
 
 Disjunctive licensing can be represented via a license expression using
 the OR operator. For example, a file that is disjunctively licensed
-under either the GPL-2.0 or MIT would be represented using the following
-disjunctive expression: `GPL-2.0 OR MIT`.
+under either the GPL-2.0-only or MIT would be represented using the following
+disjunctive expression: `GPL-2.0-only OR MIT`.
 
 ##### <a href="#top"> Back to Top</a>
 
@@ -138,8 +138,8 @@ disjunctive expression: `GPL-2.0 OR MIT`.
 
 Conjunctive licensing can be represented via a license expression using
 the AND operator. For example, a file that is subject to the Apache-2.0,
-MIT, and GPL-2.0 would be represented using the following conjunctive
-expression: `Apache-2.0 AND MIT AND GPL-2.0`.
+MIT, and GPL-2.0-or-later would be represented using the following conjunctive
+expression: `Apache-2.0 AND MIT AND GPL-2.0-or-later`.
 
 ##### <a href="#top"> Back to Top</a>
 
