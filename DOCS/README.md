@@ -28,7 +28,7 @@ To use the template:
 1. Edit the comment, ticking the appropriate boxes on the template. You can either save the comment and tick the boxes using your pointing device (mouse), or you can edit the markdown to tick the boxes by putting an `x` in between the brackets. For example:
 ```
 - [ ] unticked
-- [ ] ticked
+- [x] ticked
 ```
 4. Add any additional comments you wish to include in your response.
 
