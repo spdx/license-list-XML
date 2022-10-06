@@ -8,19 +8,19 @@
 
 *These must all be satisfied to allow inclusion in the license list*
 
-### Is the submitted license unique, that is, it does not match another license already on the License List as per the matching guidelines?
+### Is the submitted license unique, that is, it does not match another license already on the License List as per the [matching guidelines](https://spdx.org/spdx-license-list/matching-guidelines)?
 
 ### If a software license, does it apply to source code and not only to executables?
 
 ### Does the license have identifiable and stable text, and is not in the midst of drafting?
 
-### Has the license steward, if any, committed to versioning new versions in the future and to not modify it after addition to the list?
+### Has the license steward, if any, committed to versioning new versions and to not modify it after addition to the list?
 
 ## Other factors for inclusion
 
 *Roughly in order of descending importance*
 
-### 1. Does the license substantially comply with one of the free/open content definitions?
+### 1. Does the license substantially comply with one of the free/open content definitions? (examples include the [Open Source Definition](https://opensource.org/osd) and the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines))
 
 *Approval by the organisation that publishes the definition is not required*
 
