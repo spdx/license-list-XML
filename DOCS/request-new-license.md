@@ -5,11 +5,11 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 
 1. Join the [legal team mailing list](https://lists.spdx.org/g/spdx-legal).
 
-2.  Review the [license inclusion principles](DOCS/license-inclusion-principles.md).
+2.  Review the [license inclusion principles](license-inclusion-principles.md).
 
 3.  Check the [SPDX License List](https://spdx.org/licenses/), keeping in mind the [SPDX License List Matching Guidelines](https://spdx.org/spdx-license-list/matching-guidelines) and issues labeled [new license/exception request](https://github.com/spdx/license-list-XML/labels/new%20license%2Fexception%20request) to ensure this license or exception has not been previously requested.
 
-4. If your license is not already SPDX License List, submit your request via the SPDX Online Tool [Submit New License](https://tools.spdx.org/app/submit_new_license/) using the guidance provided there. Also see the [explanation of the fields contained on the list](DOCS/license-fields.md).
+4. If your license is not already SPDX License List, submit your request via the SPDX Online Tool [Submit New License](https://tools.spdx.org/app/submit_new_license/) using the guidance provided there. Also see the [explanation of the fields contained on the list](license-fields.md).
    * Note: You must have a Github account in order to use this tool/process.
    * Note: Whether you use the [Submit New License](https://tools.spdx.org/app/submit_new_license/) tool or submit manually via a new issue, you will need to provide *all* of the information as per the form in the tool. Incomplete submissions will delay the process.
 
