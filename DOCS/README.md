@@ -10,7 +10,3 @@ Included here is:
 * [FAQ](faq.md) - FAQ related to SPDX License List that is linked to from the SPDX.dev website
 
 Also see [CONTRIBUTING](./CONTRIBUTING.md) for general information about contributing.
-
-* [Matching Guidelines](matching-guidelines): the editable HTML\* used on https://spdx.org/spdx-license-list/matching-guidelines which contains the guidelines to determine what is a license match
-
-\*The purpose of storing the HTML here is to enable review, comment, and tracking of changes made to these pages. Changes will be tracked here via issues, comments and PRs, and then posted to the appropriate webpage at SPDX.org by someone who has webpage edit privileges (i.e., member of core leadership team)
