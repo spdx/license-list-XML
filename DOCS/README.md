@@ -1,4 +1,4 @@
-This folder contains documentation that is critical for understanding the SPDX License List.
+The files in this folder help the community collaborate and provide a standard interface for both reviewing and recording decisions on whether to include a license in the list.
 
 ## Folder contents
 
