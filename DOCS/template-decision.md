@@ -1,11 +1,22 @@
 # License Inclusion Decision
+
 ## Decision:
-* approved or not-approved
-## Full name:
-* record full name to be used
-## Short id:
-* record final decision on short id to be used
-## XML markup:
-* description of any mark-up for replaceable or omitable text needed
+
+- [ ] approved
+- [ ] not approved
+
+## License full name
+
+_record full name that will be used in the license list_
+
+## Short ID
+
+_record final decision on short id to be used; **take care** as it is policy that this id never change_
+
+## XML markup
+
+_describe any markup for replaceable or omitable text needed in the XML for the license_
+
 ## Additional rationale or notes on decision:
-* Add any additional information beyond what has already been recorded in the issue comments
+
+_add any additional information, including optionally a summary of what is recorded in the issue comments_
