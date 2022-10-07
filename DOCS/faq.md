@@ -51,12 +51,12 @@ SPDX short identifiers have also proven to be useful in a similar way
 outside of an SPDX document. For example, many open source projects have
 begun to use the short identifier as an accurate, concise, and
 machine-readable way to signal the license for each source code
-file. For more information on this use and examples, see [Appendix V of
+file. For more information on this use and examples, see [Annex E of
 the SPDX
-Specification](https://spdx.github.io/spdx-spec/appendix-V-using-SPDX-short-identifiers-in-source-files/).
+Specification](https://spdx.github.io/spdx-spec/v2.3/using-SPDX-short-identifiers-in-source-files/).
 
 The SPDX License List also includes a set of [license matching
-guidelines](https://spdx.github.io/spdx-spec/appendix-II-license-matching-guidelines-and-templates/)
+guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/)
 to ensure that the license identifiers are used in a consistent and
 reliable way.
 
@@ -87,9 +87,7 @@ identifier.
 When a license identified in the software package is not found in the
 list of approved SPDX licenses, one can add the license text to the SPDX
 file and define a new license label. That license identifier is defined
-only for that specific SPDX document. This is explained in [Section 6 of
-the SPDX
-Specification](https://spdx.github.io/spdx-spec/6-other-licensing-information-detected/).
+only for that specific SPDX document. This is explained in [Clause 10 of the SPDX Specification](https://spdx.github.io/spdx-spec/v2.3/other-licensing-information-detected/).
 
 ##### <a href="#top"> Back to Top</a>
 
@@ -116,8 +114,8 @@ introduced the concept of license expressions and moved the license
 exceptions to a sub-list, in order to accommodate a more realistic
 combination of licenses and exceptions. Exceptions are to be used with
 the WITH operator. For more information about license expressions, see
-[Appendix IV of the SPDX
-Specification](https://spdx.github.io/spdx-spec/appendix-IV-SPDX-license-expressions/).
+[Annex D of the SPDX
+Specification](https://spdx.github.io/spdx-spec/v2.3/SPDX-license-expressions/).
 
 ##### <a href="#top"> Back to Top</a>
 
