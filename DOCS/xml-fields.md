@@ -41,7 +41,7 @@ Within the .xml file, the first and last lines of the file should be the followi
 
 ### `<license>` or `<exception>` tag
 
-The main tag used to define the license or exception is, unsurprisingly, `<license>` or `<exception>`. All of the remaining content will be enclosed within a `<license></license>` or `<exception></exception>` pair of tags.
+The main tag used to define the license or exception is, unsurprisingly, **`<license>`** or **`<exception>`**. All of the remaining content will be enclosed within a `<license></license>` or `<exception></exception>` pair of tags.
 
 There are two mandatory attributes for every `<license>` and `<exception>` tag:
 * `licenseId`: the unique SPDX Identifier for the license; should be identical to the filename
@@ -69,7 +69,7 @@ There are three optional first-level metadata fields that can be nested immediat
 
 Then, the actual license text would be contained within the `<text></text>` section:
 
-* **`<text>`** (mandatory): Defines the actual text and templating for the license
+* **`<text>`**: Defines the actual text and templating for the license
 
 Example:
 
@@ -124,8 +124,8 @@ Example:
 ```
 1. text 1
 2. text 2
-  * text *
-  - text -
+  * text abc
+  - text def
 ```
 
 could be represented as:
@@ -139,10 +139,10 @@ could be represented as:
         <bullet>2.</bullet> text 2
         <list>
             <item>
-                <bullet>*</bullet> text *
+                <bullet>*</bullet> text abc
             </item>
             <item>
-                <bullet>-</bullet> text -
+                <bullet>-</bullet> text def
             </item>
         </list>
     </item>
