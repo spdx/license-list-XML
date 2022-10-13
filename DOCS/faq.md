@@ -35,6 +35,13 @@ hardware, or documentation. The SPDX License List includes a
 standardized short identifier, the full name, the license text, and a
 canonical permanent URL for each license and exception.
 
+It is more than just a list, though. The SPDX License List incorporates
+* [license inclusion principles](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-inclusion-principles.md) regarding what is eligible for inclusion on the SPDX License List
+* [matching guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/) provide parameters as to what constitutes a match to a license or exception on the SPDX License List
+* an [explanation of the fields](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-fields.md) used in the SPDX License List
+
+The authoritative files for the SPDX License List are stored in XML source files in a [Github repo](https://github.com/spdx/license-list-XML). These files are used to generated the supported SPDX License List formats, including the web pages and other data formats found in [license-list-data repo](https://github.com/spdx/license-list-data).
+
 ##### <a href="#top"> Back to Top</a>
 
 <br>
