@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <exception isOsiApproved="false" licenseId="x11vnc-openssl-exception"
+   <exception licenseId="x11vnc-openssl-exception"
    name="x11vnc OpenSSL Exception" listVersionAdded="3.19">
       <crossRefs>
          <crossRef>https://github.com/LibVNC/x11vnc/blob/master/src/8to24.c#L22</crossRef>
