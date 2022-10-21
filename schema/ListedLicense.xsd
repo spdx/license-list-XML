@@ -327,7 +327,7 @@
 			</documentation>
 		</annotation>
 		<sequence>
-			<element name="item" type="tns:formattedAltStandardLicenseHeaderTextType"/>
+			<element name="item" type="tns:formattedAltStandardLicenseHeaderTextType" minOccurs="1" maxOccurs="unbounded"/>
 		</sequence>
 	</complexType>
 	<complexType name="emptyType">
