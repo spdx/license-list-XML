@@ -326,10 +326,9 @@
 				</xhtml:p>
 			</documentation>
 		</annotation>
-		<choice minOccurs="1" maxOccurs="unbounded">
+		<sequence>
 			<element name="item" type="tns:formattedAltStandardLicenseHeaderTextType"/>
-			<element name="list" type="tns:listStandardLicenseHeaderType"/>
-		</choice>
+		</sequence>
 	</complexType>
 	<complexType name="emptyType">
 		<annotation>
