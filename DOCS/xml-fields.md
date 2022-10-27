@@ -49,7 +49,8 @@ There are two mandatory attributes for every `<license>` and `<exception>` tag:
 
 There are two additional attributes which are optional, but highly encouraged:
 * `isOsiApproved` (for licenses, not exceptions): either "true" or "false" based on whether this license has been approved by the [Open Source Initiative](https://opensource.org/licenses/alphabetical)
-* `listVersionAdded`: in which release version of the SPDX License List was the license first added, e.g. "3.19"
+* `listVersionAdded`: in which release version of the SPDX License List was the license first added, e.g. "3.19".
+  * Typically you'll check the currently-released version at https://spdx.org/licenses/ and increment the minor version by 1 for a new license.
 
 Finally, if the license ID has been deprecated, two additional attributes should be included:
 * `isDeprecated`: should be "true" if the license ID is deprecated
@@ -57,12 +58,14 @@ Finally, if the license ID has been deprecated, two additional attributes should
 
 Note that the deprecated tags refer to whether the ID has been deprecated _by SPDX_ -- in other words, if the SPDX Legal Team no longer recommends that the identifier should be used. Licenses that have been described as "deprecated" or "superseded" by the _license author_ might no longer be recommended to use for new code, but their identifiers remain valid License IDs on the SPDX License List.
 
+Deprecated license identifiers will be listed at the bottom of the SPDX License List page at https://spdx.org/licenses/.
+
 ### License metadata
 
 There are three optional first-level metadata fields that can be nested immediately under `<license>` or `<exception>`, each of which is optional:
 
-* **`<crossRefs>`**: Defines cross-references to URLs where the license can be found in the wild
-* **`<notes>`**: Describes general comments about the license
+* **`<crossRefs>`**: Defines cross-references to URLs where the license can be found in use by one or a few projects, and (if applicable) where posted by the license steward
+* **`<notes>`**: Describes general comments about the license; if deprecated, also briefly explain the reason for deprecating the license identifier
 * **`<obsoletedBys>`** (if license is deprecated): Lists the license(s) that should be used instead of this deprecated license
 
 ### License text
@@ -163,7 +166,7 @@ The **<alt>** tag includes two attributes:
 * `name`: specifies a unique name for this matching element
 * `match`: specifies a [POSIX extended regular expression (ERE)](http://pubs.opengroup.org/onlinepubs/9699919799/) for what text will match
 
-Note that an example of actually-matching text should be included between the `<alt>` and `</alt>` tags, as the specified example is what will be rendered on the SPDX License List website page.
+Note that an example of actually-matching text should be included between the `<alt>` and `</alt>` tags, as the specified example is what will be rendered on the SPDX License List website page and in license text files provided by SPDX. To the extent a license has a "canonical" or "most commonly used" standard language, use that in the match between the `alt` tags.
 
 Learning regular expressions is outside the scope of this document. However, here are a few of the most common patterns, taken from [BSD-3-Clause](https://github.com/spdx/license-list-XML/blob/main/src/BSD-3-Clause.xml) which is a good example of using several `<alt>` tags effectively:
 * `<alt match="are|is" name="tobe">are</alt>`: Matches if the text is either the word "are" or the word "is"
