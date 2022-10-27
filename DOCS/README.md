@@ -12,6 +12,7 @@ Also see [CONTRIBUTING](./CONTRIBUTING.md) for general information about contrib
 
 * [Request new license](request-new-license.md) - instructions for how to request a new license be reviewed for addition to the SPDX License List
 * [New license workflow](./new-license-workflow.md) - the workflow for adding approved new licenses to the SPDX License List
+* [XML template fields](./xml-fields.md) - describes the structure and fields for creating XML templates for licenses
 * [Git usage](git-usage.md) - guidance for setting up and using Git on your own system to contribute to the SPDX License List on GitHub
 
 ## License submission templates
