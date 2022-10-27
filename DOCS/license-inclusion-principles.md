@@ -10,7 +10,8 @@ Determining whether a candidate license should be included on the SPDX License L
  <li>Software licenses that apply only to executables and do not provide for the availability of the source code will not be included on the SPDX License List.</li>
  <li>The license has identifiable and stable text; it is not in the midst of drafting.</li>
  <li>The license steward, if any, is committed to not modifying after addition to the list and to versioning new versions in the future.</li>
-</ol>  
+</ol>
+
 **Other factors (roughly in order of importance):**
 1. The license substantially complies with one of the following open source definitions (even if not submitted for approval or these organization have not considered the license):
   * [Open Source Definition (OSD)](https://opensource.org/osd) from the Open Source Initiative (OSI)
