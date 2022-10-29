@@ -4,13 +4,14 @@ Determining whether a candidate license should be included on the SPDX License L
 ## Candidate License Analysis
 
 **Definitive factors:**
-* The submitted license must not match another license already on the SPDX License List as per the SPDX matching guidelines.
-* All OSI-approved licenses will be included on the SPDX License List.
-  * This is consistent with early collaboration between SPDX and OSI (2011) to ensure that all OSI-approved licenses were represented on the SPDX License List. Also at that time, OSI began using the SPDX license identifiers in their URLs and on the license pages.
-* Software licenses that apply only to executables and do not provide for the availability of the source code will not be included on the SPDX License List.
-* The license has identifiable and stable text; it is not in the midst of drafting.
-* The license steward, if any, is committed to not modifying after addition to the list and to versioning new versions in the future.
-  
+<ol type="A">
+ <li>The submitted license must not match another license already on the SPDX License List as per the SPDX matching guidelines.</li>
+ <li>All OSI-approved licenses will be included on the SPDX License List.</li>
+ <li>Software licenses that apply only to executables and do not provide for the availability of the source code will not be included on the SPDX License List.</li>
+ <li>The license has identifiable and stable text; it is not in the midst of drafting.</li>
+ <li>The license steward, if any, is committed to not modifying after addition to the list and to versioning new versions in the future.</li>
+</ol>
+
 **Other factors (roughly in order of importance):**
 1. The license substantially complies with one of the following open source definitions (even if not submitted for approval or these organization have not considered the license):
   * [Open Source Definition (OSD)](https://opensource.org/osd) from the Open Source Initiative (OSI)
@@ -33,7 +34,7 @@ Comments on license inclusion will be noted in the Github issue for the license 
 ## In the beginning...
 The first beta version of the SPDX License List was published in August 2010 and had approximately one hundred licenses on it. The initial set of licenses was included based on informal discussion and consensus on the SPDX working group calls and email list. Although various "guidelines" were identified in regards to which licenses to include or not by way of ad hoc discussion, formal guidelines were not articulated. Decisions or guidelines that evolved by implication included the following:
 * Include commonly found open source licenses. Although discussion was not explicit in regards to how to define an "open source license," this was always an implicit guiding principle.
-* Include all OSI approved licenses, both current and those approved but now deprecated. The rationale being that once OSI-approved, always OSI-approved and deprecated licenses still appear "in the wild".
+* Include all OSI approved licenses, both current and those approved but now deprecated. The rationale being that once OSI-approved, always OSI-approved and deprecated licenses still appear "in the wild". This involved early collaboration between SPDX and OSI (2011) to accurately identify and ensure that all OSI-approved licenses were represented on the SPDX License List. At that time, OSI began using the SPDX license identifiers in their URLs and on the license pages.
 
 At some point in these early days, there was consensus to include _all_ of the Creative Commons licenses, even though the NC and ND variants do not fit the OSD. Other older licenses that were accepted on the list by consensus before we had formal inclusion guidelines may also fall under this "grand-licensed-in" reality.
 
