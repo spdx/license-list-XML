@@ -1,9 +1,9 @@
-<span id="top"> </span>
+note: use the table of contents icon in the upper left hand corner of this window
 
 The SPDX License List
 =====================
 
-# <span id="what"></span>What is the SPDX License List?
+# What is the SPDX License List?
 
 The SPDX License List is an integral part of the SPDX Specification. The
 SPDX License List itself is a list of commonly found licenses and
@@ -50,7 +50,7 @@ Specification](https://spdx.github.io/spdx-spec/v2.3/using-SPDX-short-identifier
 ## What is an “exception”?
 An “exception” on the SPDX License List is text that is not a stand-alone license, but grants an exception to a license condition or additional permissions beyond those granted in the license is modifies.
 
-## <span id="exception"></span>Where are license exceptions? Why are they listed separately?
+## Why are exceptions listed separately?
  
 In 2015, SPDX 2.0 introduced the concept of license expressions and moved the license
 exceptions to a sub-list, in order to accommodate a more realistic
@@ -60,13 +60,13 @@ the WITH operator. For more information about license expressions, see
 [Annex D of the SPDX
 Specification](https://spdx.github.io/spdx-spec/v2.3/SPDX-license-expressions/).
 
-## How do I know what license or exception corresponds to a short identifier?
+## What are these "matching guidelines" about?
 The SPDX License List also includes a set of [license matching
 guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/)
 that define what is a match and to ensure that the license identifiers are used in a consistent and
 reliable way. 
 
-## Does the license text need to be exactly the same as the text at spdx.org in order to apply the SPDX short identifier correctly?
+## Does the license text need to be the same to use an SPDX short identifier?
  There are some non-substantive variations formally allowed, unique to each license. For example, capitalization, white space, and use of different bullets or numbering would not be considered a different license. Another example is if the license text includes the name of the author or a generic "author", this is not considered a legally substantive difference to the license terms themselves, and can be considered the same license. Such text is denoted with special tags in the XML file and denoted by red text on the webpages.  
  
 See the matching guidelines at Annex B License matching guidelines and templates (Informative) of the Specification for details.
@@ -85,7 +85,7 @@ The SPDX project is comprised of various teams who focus on different aspects of
 
 The SPDX-legal team leads are listed here: https://spdx.dev/about/governance/
 
-# <span id="request"></span>How do I request adding a license to the SPDX License List?
+# How do I request adding a license to the SPDX License List?
 
 Follow the instructions here:
 https://github.com/spdx/license-list-XML/blob/main/DOCS/request-new-license.md
