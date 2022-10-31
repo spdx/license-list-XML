@@ -47,6 +47,9 @@ file. For more information on this use and examples, see [Annex E of
 the SPDX
 Specification](https://spdx.github.io/spdx-spec/v2.3/using-SPDX-short-identifiers-in-source-files/).
 
+## What is an “exception”?
+An “exception” on the SPDX License List is text that is not a stand-alone license, but grants an exception to a license condition or additional permissions beyond those granted in the license is modifies.
+
 ## <span id="exception"></span>Where are license exceptions? Why are they listed separately?
  
 In 2015, SPDX 2.0 introduced the concept of license expressions and moved the license
@@ -80,10 +83,16 @@ The SPDX contributors who participate in the project as part of the SPDX-legal t
 
 The SPDX project is comprised of various teams who focus on different aspects of the overall project.  The SPDX-legal team is comprised of lawyers, project managers, engineers, developers, and other people interested in licensing issues. Anyone is welcome and we aim to be a friendly group!
 
+The SPDX-legal team leads are listed here: https://spdx.dev/about/governance/
+
+# <span id="request"></span>How do I request adding a license to the SPDX License List?
+
+Follow the instructions here:
+https://github.com/spdx/license-list-XML/blob/main/DOCS/request-new-license.md
+
+
 ## How does one handle licenses not found in the SPDX License List?
 
 When a license identified in the software package is not found in the
-list of approved SPDX licenses, one can add the license text to the SPDX
-file and define a new license label. That license identifier is defined
-only for that specific SPDX document. This is explained in [Clause 10 of the SPDX Specification](https://spdx.github.io/spdx-spec/v2.3/other-licensing-information-detected/).
+list of approved SPDX licenses, one can define a new license label, using `LicenseRef-<name>`..This is explained in [Clause 10 of the SPDX Specification](https://spdx.github.io/spdx-spec/v2.3/other-licensing-information-detected/).
 
