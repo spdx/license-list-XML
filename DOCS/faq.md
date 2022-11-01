@@ -39,7 +39,7 @@ license identification.
 
 SPDX short identifiers have also proven to be useful in a similar way
 outside of an SPDX document. For example, many open source projects use the short identifier 
-in source files by putting the tag ".... at the top of each file. This provides an accurate, concise, and
+in source files by putting the tag `SPDX-License-Identifier:` at the top of each file. This provides an accurate, concise, and
 machine-readable way to signal the license for each source code
 file. For more information on this use and examples, see [Annex E of
 the SPDX
