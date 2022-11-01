@@ -116,4 +116,4 @@ MIT, and GPL-2.0-or-later would be represented using the following conjunctive
 expression: `Apache-2.0 AND MIT AND GPL-2.0-or-later`
  
 # How are license identifiers used in an SPDX Document?
-The SPDX specification includes fields to record license information at the [package}(https://spdx.github.io/spdx-spec/v2.3/package-information/), [file](https://spdx.github.io/spdx-spec/v2.3/file-information/), and [snipped](https://spdx.github.io/spdx-spec/v2.3/snippet-information/) level. 
+The SPDX specification includes fields to record license information at the [package](https://spdx.github.io/spdx-spec/v2.3/package-information/), [file](https://spdx.github.io/spdx-spec/v2.3/file-information/), and [snippet](https://spdx.github.io/spdx-spec/v2.3/snippet-information/) level. 
