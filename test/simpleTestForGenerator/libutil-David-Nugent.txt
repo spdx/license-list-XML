@@ -1,4 +1,4 @@
-Copyright (c) 1995 David Nugent &gt;davidn@blaze.net.au&lt;
+Copyright (c) 1995 David Nugent <davidn@blaze.net.au>
 All rights reserved.
 
 
