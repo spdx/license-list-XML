@@ -1,4 +1,4 @@
-Copyright (c) 1995 Peter Wemm <peter@FreeBSD.org>
+Copyright (c) 1995 David Nugent 
 All rights reserved.
 
 
