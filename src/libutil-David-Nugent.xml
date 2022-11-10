@@ -3,6 +3,7 @@
    <license isOsiApproved="false" licenseId="libutil-David-Nugent"
    name="libutil David Nugent License" listVersionAdded="3.19">
       <crossRefs>
+         <crossRef>http://web.mit.edu/freebsd/head/lib/libutil/login_ok.3</crossRef>
          <crossRef>https://cgit.freedesktop.org/libbsd/tree/man/setproctitle.3bsd</crossRef>
       </crossRefs>
       <notes>
