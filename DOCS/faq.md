@@ -23,7 +23,7 @@ enable expressing composite licensing scenarios, such as when more than one lice
 
 The authoritative files for the SPDX License List are stored in XML source files 
 in a [Github repo](https://github.com/spdx/license-list-XML). These files are 
-used to generated the supported SPDX License List formats, including the 
+used to generate the supported SPDX License List formats, including the 
 web pages and other data formats found in [license-list-data repo](https://github.com/spdx/license-list-data).
 
 There are also certain sections in the SPDX specification related to license information. 
