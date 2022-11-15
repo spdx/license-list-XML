@@ -6,7 +6,7 @@
          <crossRef>http://web.mit.edu/freebsd/head/lib/libutil/login_ok.3</crossRef>
          <crossRef>https://cgit.freedesktop.org/libbsd/tree/man/setproctitle.3bsd</crossRef>
       </crossRefs>
-      <notes>
+      <notes>This is a legacy BSD-like license, but includes a specific requirement in the first clause requiring retention of the copyright notice "immediately at the beginning of the file".
       </notes>
       <text>
          <copyrightText>
