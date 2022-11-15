@@ -4,7 +4,7 @@
       <crossRefs>
          <crossRef>http://code.qt.io/cgit/qt/qtbase.git/tree/LGPL_EXCEPTION.txt</crossRef>
       </crossRefs>
-      <notes>Used with the LGPL-2.1, which is mentioned explicitly in the exception text.</notes>
+      <notes>Used with LGPL-2.1-only, which is mentioned explicitly in the exception text.</notes>
     <text>
       <titleText>
          <p><alt name="nokia" match="The Qt Company|Nokia|">The Qt Company</alt> Qt LGPL Exception version 1.1</p>

@@ -5,7 +5,7 @@
          <crossRef>http://directory.fedoraproject.org/wiki/GPL_Exception_License_Text</crossRef>
          <crossRef>https://web.archive.org/web/20080828121337/http://directory.fedoraproject.org/wiki/GPL_Exception_License_Text</crossRef>
       </crossRefs>
-      <notes>Specified to be associated with GPL-2.0</notes>
+      <notes>Specified to be associated with GPL-2.0-only</notes>
     <text>
       <p>This Program is free software; you can redistribute it and/or
        modify it under the terms of the GNU General Public License as
