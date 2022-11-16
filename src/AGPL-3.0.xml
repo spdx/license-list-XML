@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
   <license licenseId="AGPL-3.0" isOsiApproved="true"
-  name="GNU Affero General Public License v3.0"
+  name="GNU Affero General Public License v3.0 only"
   isDeprecated="true" deprecatedVersion="3.0">
     <obsoletedBys>
       <obsoletedBy>AGPL-3.0-only</obsoletedBy>
