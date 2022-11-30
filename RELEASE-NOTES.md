@@ -1,5 +1,27 @@
 # Release Notes for SPDX License List
 
+## version 3.19 - 2022-11-30
+
+New licenses/exceptions added: 5
+
+1. checkmk
+2. FSFULLRWD
+3. Knuth-CTAN
+4. libutil-David-Nugent
+5. x11vnc-openssl-exception
+
+Many improvements to documentation, including new docs on XML template fields and license list release process, and a rework of the FAQs.
+
+Improvements to documentation and requested fields for online license request tool.
+
+Renamed `master` branch to `main` and made conforming edits.
+
+Cleanup of markup for many licenses and other minor changes.
+
+See all PRs for 3.19 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.19%22+is%3Aclosed
+
+See comparision of changes from 3.18 to 3.19: https://github.com/spdx/license-list-XML/compare/v3.18...v3.19
+
 ## version 3.18 - 2022-08-11
 
 New licenses/exceptions added: 10
