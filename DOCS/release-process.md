@@ -2,6 +2,16 @@
 
 ## Overview
 
+The SPDX License List is released on approximately a quarterly basis (every three months), staggered one month from the standard calendar quarters. We aim to push a release shortly following the end of January, April, July and October.
+
+When a new license is accepted to add to the SPDX License List and its corresponding PR is merged, the license text and ID does _not_ immediately appear on the [SPDX License List website](https://spdx.org/licenses). The ID will not appear until a release is pushed on the cadence described above and pursuant to the steps described below.
+
+In the interim, the new license will appear on the license list preview site at https://spdx.github.io/license-list-data/. Note that this is only a preview site and does NOT represent an officially-released version of the license list.
+
+Requesters may be uncertain as to whether they should use a newly-added license identifier, during the period between merging the PR and the subsequent license list release. Until the next release is pushed, the license identifier will not officially be included on the SPDX License List (and tooling that uses the License List likely will not recognize the new ID). While it is possible that in extraordinary circumstances a newly-added ID could be modified or removed prior to the release, the SPDX Legal Team aims to avoid doing so unless necessary.
+
+## Steps for pushing a release
+
 * Step 1: Finalize release issues and PRs
 * Step 2: Pull and tag release versions
 * Step 3: Push files to website
