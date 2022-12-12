@@ -11,21 +11,22 @@ At that time, OSI began using the SPDX license identifiers in their URLs and on 
 
 ## Old and "deprecated" licenses
 
-The following licenses were confirmed by the OSI as having been OSI-approved, but may not (readily) appear on the OSI website
+The following licenses were confirmed by the OSI as having been OSI-approved, but may not (readily) appear on the OSI website:
 
 * AFL-1.1
 * AFL-1.2
 * AFL-2.0
 * AFL-2.1
-* APSL-1.0
-* APSL-1.1
 * APSL-1.2
 * OSL-2.0
 
-ADD LINKS TO DISCUSSION ON THESE, AS CAN BE FOUND
+See SPDX-legal email list from April 2012 [here](https://lists.spdx.org/g/Spdx-legal/message/311?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Arecentpostdate%2Fsticky%2C%2Cosi%2C20%2C2%2C300%2C22080203) and 
+[here](https://lists.spdx.org/g/Spdx-legal/message/312?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Arecentpostdate%2Fsticky%2C%2Cosi%2C20%2C2%2C300%2C22080204) for confirmation of these licenses having been OSI-approved.
 
 ## Artistic License variations
 The SPDX License List includes three variants of the Artistic License v1.0. The OSI also explicitly approved two variants: one with clause 8 and without. Because the presence of clause 8 or absence presents a substantive difference, SPDX added them as separate licenses. 
+
+Also note that Perl link has 10 clause version of license, whereas OSI link has 9 clause with note at top about additional clause.  for searching/templating reasons, these should probably be listed as two different licenses. Suggest naming as follows:
 
 * Artistic-1.0
 * Artistic-1.0-cl8
