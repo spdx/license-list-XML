@@ -1,49 +1,58 @@
 # A History of OSI-approved licenses and the SPDX License List
 
-In the early days of the SPDX License List, it was decided that the list should include all OSI approved licenses, both current and those approved but now deprecated. The rationale being that once OSI-approved, always OSI-approved and that deprecated licenses may still appear "in the wild". 
+In the early days it was decided that the SPDX License List should include all licenses that were ever OSI-approved licenses. The rationale being that once OSI-approved, always OSI-approved and that even old or deprecated licenses may still appear "in the wild". 
 
-This involved early collaboration between SPDX and OSI (2011) to accurately identify and ensure that all OSI-approved licenses were represented on the SPDX License List. To do so, SPDX needed input from the OSI as to the status of many older or previous versions of licenses that weren't explicitly listed on the OSI website. This was done via email... ADD LINKS
-
-(add background here as to history and SPDX matching texts, etc.)
+This involved early collaboration between SPDX and OSI starting around 2011 and onward. As the SPDX-legal team sought to accurately identify all OSI-approved licenses and their corresonpding text to ensure that representation on the SPDX License List. This involved cross-collaboration between SPDX-legal and various OSI representagives, with most communication occurring on the SPDX-legal mailing list, OSI's license-disucss mailing list, or both. 
 
 At that time, OSI began using the SPDX license identifiers in their URLs and on the license pages.
 
+This page seeks to explain some of the challenges that this reconciliation work encountered, especially where a solution to the challenge may still leave questions for people currently looking at or using both the SPDX License List and the OSI list of approved licenses. 
+
+
 
 ## Old and "deprecated" licenses
+The following licenses were confirmed by the OSI as having been OSI-approved, even thought these licenses do not or may not (readily) appear on the OSI website:
 
-The following licenses were confirmed by the OSI as having been OSI-approved, but may not (readily) appear on the OSI website:
-
-* AFL-1.1
-* AFL-1.2
-* AFL-2.0
-* AFL-2.1
-* APSL-1.2
-* OSL-2.0
+* `AFL-1.1`
+* `AFL-1.2`
+* `AFL-2.0`
+* `AFL-2.1`
+* `APSL-1.2`
+* `OSL-2.0`
 
 See SPDX-legal email list from April 2012 [here](https://lists.spdx.org/g/Spdx-legal/message/311?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Arecentpostdate%2Fsticky%2C%2Cosi%2C20%2C2%2C300%2C22080203) and 
 [here](https://lists.spdx.org/g/Spdx-legal/message/312?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Arecentpostdate%2Fsticky%2C%2Cosi%2C20%2C2%2C300%2C22080204) for confirmation of these licenses having been OSI-approved.
 
 ## Artistic License variations
-The SPDX License List includes three variants of the Artistic License v1.0. The OSI also explicitly approved two variants: one with clause 8 and without. Because the presence of clause 8 or absence presents a substantive difference, SPDX added them as separate licenses. 
+The OSI also explicitly approved two variants as stated at the top of the page: one with clause 8 and without. Because the presence or absence of clause 8 presents a substantive difference, SPDX added them as two separate licenses. 
 
-Also note that Perl link has 10 clause version of license, whereas OSI link has 9 clause with note at top about additional clause.  for searching/templating reasons, these should probably be listed as two different licenses. Suggest naming as follows:
+In the course of this research, it was also discovered that the text for the Artistic License 1.0 that was listed on the OSI website did not match the text of the Artistic License used by Perl, despite a note on the OSI webpage saying so.  The Artistic License 1.0 on the Perl site has 10 clauses, thus adversion of license, whereas OSI link has 9 clause with note at top about additional clause.  
 
-* Artistic-1.0
-* Artistic-1.0-cl8
+As a result SPDX added 3 licenses to accommodate these variations:
 
-In the course of this research, it was also discovered that the text for the Artistic License 1.0 that was listed on the OSI website did not match the text of the Artistic License used by Perl (despite text on the OSI saying so).  ADD LINKS RE THIS DISCUSSION
+* `Artistic-1.0`
+* `Artistic-1.0-cl8`
+* `Artistic-1.0-Perl`
 
-* Artistic-1.0-Perl
+## License exceptions
+In at least one case, the OSI approved a license exception, referred to as [eCos License version 2.0](https://opensource.org/licenses/eCos-2.0) and lists the SPDX identifiers as "eCos-2.0"
 
-=======
-(remainder copied from list at https://gist.github.com/mxmehl/1e7a3aed4ff14a8ddfd4aff8ab4de552 with some preliminary notes - which I'll update as I go through the various cateogories/explanations)
+However, when SPDX 2.0 came out in YEAR, exceptions were moved to their own part of the SPDX License List, to be used with the `WITH` operator to allow more extensible and varied license expressions.
 
-=======
+The current, correct SPDX License expression for the license combination shown on the OSI site would be: `GPL-2.0-or-later WITH eCos-exception-2.0`
 
-## Marked as not OSI compliant in SPDX, but actually on OSI's list
+## Licenses that allow for variations by way of a different license notice
+These are licesnes that were approved by the OSI in full. These licenses allow legally substantive variations based on use of a different license notice. This variataion warranted distinct SPDX identifiers to indicate whether or not the allowed variation is being triggered. All of these variations include a Note in the SPDX License List entry explaining this. 
 
-- [ ] eCos-2.0
-This is an exception and is on the SPDX License List. It is (or was) listed on OSI. Need to find history in archives. 
+* 'CAL-1.0-Combined-Work-Exception'
+* 'MPL-2.0-no-copyleft-exception'
+* 'OFL-1.1-no-RFN'
+* 'OFL-1.1-RFN'
+
+=====
+still need to address these:
+====
+
 
 ## Not in SPDX list, but in OSI's list
 
@@ -54,14 +63,9 @@ I recall this had some issues that were never resolved - will have to dig that u
 
 ## Not in OSI list, but in SPDX's list
 
-- [ ] CAL-1.0-Combined-Work-Exception
-- [ ] MPL-2.0-no-copyleft-exception
-- [ ] OFL-1.1-no-RFN
-- [ ] OFL-1.1-RFN
-These are all licenses that allow legally substantive variations that warranted a distinct SPDX identifiers, but without being a different "version" and thus only listed as one license on the OSI list
 
 * GPL-3.0-with-GCC-exception
-
+what is the quesiton here?
 
 * LGPL-2.0
 this is a deprecated SPDX license id, not sure what the question is here?
