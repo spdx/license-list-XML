@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <hi />
+   <license licenseId="Invalid" name="Invalid test license">
+    <text>
+      <p>This license will fail validation because of the "hi" tag in line 3</p>
+    </text>
+  </license>
+</SPDXLicenseCollection>
