@@ -26,7 +26,8 @@
               match="the OCaml Core System|opam|the Library">the OCaml Core
               System</alt>, and distribute that executable file under terms of
               your choice, without any of the additional requirements listed in
-              clause 6 of the GNU Lesser General Public License. By "a publicly
+              clause 6 of the GNU <alt name="libraryTypo2" match="Library|Lesser">Lesser</alt> 
+                General Public License. By "a publicly
               distributed version of <alt name="linkedSoftwareName4"
               match="the OCaml Core System|opam|the Library">the OCaml Core
               System</alt>", we mean either the unmodified <alt
@@ -36,9 +37,11 @@
               name="linkedSoftwareName6"
               match="the OCaml Core System|opam|the opam|the Library">
               the OCaml Core System</alt> that is distributed under the
-              conditions defined in clause 2 of the GNU Lesser General Public
+              conditions defined in clause 2 of the GNU <alt name="libraryTypo3" match="Library|Lesser">Lesser</alt> 
+                General Public
               License. This exception does not however invalidate any other
-              reasons why the executable file might be covered by the GNU Lesser
+              reasons why the executable file might be covered by the GNU 
+                <alt name="libraryTypo4" match="Library|Lesser">Lesser</alt>
               General Public License.
             </p>
         </text>
