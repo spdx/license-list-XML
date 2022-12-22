@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="IJG-short" name="Independent JPEG Group License - short">
+   <license isOsiApproved="false" licenseId="IJG-short" name="Independent JPEG Group License - short" listVersionAdded="3.20">
       <crossRefs>
          <crossRef>https://sourceforge.net/p/xmedcon/code/ci/master/tree/libs/ljpg/</crossRef>
       </crossRefs>
-    <text>
-      <titleText>
-         <p>Independent JPEG Group License - short</p>
-      </titleText>
-
+  <notes>This license is a shorter, presumably earlier version of IJG</notes>
+  <text>
       <p>The authors make NO WARRANTY or representation, either express or implied, with respect to this software,
          its quality, accuracy, merchantability, or fitness for a particular purpose. This software is provided
          "AS IS", and you, its user, assume the entire risk as to its quality and accuracy.</p>
