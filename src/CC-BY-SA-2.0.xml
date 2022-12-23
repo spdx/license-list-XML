@@ -254,7 +254,8 @@
             <bullet>8.</bullet>
 			Miscellaneous
         </item>
-            <list>
+	    <item>
+	    <list>
                <item>
                   <bullet>a.</bullet>
             Each time You distribute or publicly digitally perform the Work or a Collective Work, the
@@ -289,6 +290,7 @@
                mutual written agreement of the Licensor and You.
           </item>
             </list>
+	    </item>
       </list>
       <p>Creative Commons is not a party to this License, and makes no warranty whatsoever in connection with the
          Work. Creative Commons will not be liable to You or any party on any legal theory for any damages

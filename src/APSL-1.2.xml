@@ -20,7 +20,8 @@
              to the terms of this Apple Public Source License version 1.2 (or subsequent version thereof)
              ("License"). As used in this License:
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>1.1</bullet>
             "Applicable Patent Rights" mean: (a) in the case where Apple is the grantor of
@@ -101,7 +102,8 @@
                entity.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>2.</bullet>
           Permitted Uses; Conditions &amp; Restrictions.Subject to the terms and conditions of this
              License, Apple hereby grants You, effective on the date You accept this License and download
@@ -109,14 +111,16 @@
              Apple's Applicable Patent Rights and copyrights covering the Original Code, to do the
              following:
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>2.1</bullet>
             You may use, reproduce, display, perform, modify and distribute Original Code, with or
                without Modifications, solely for Your internal research and development and/or Personal
                Use, provided that in each instance:
           </item>
-            <list>
+	    <item>
+	    <list>
                <item>
                   <bullet>(a)</bullet>
               You must retain and reproduce in all copies of Original Code the copyright and other
@@ -131,12 +135,14 @@
                  hereunder, except as permitted under Section 6.
             </item>
             </list>
-            <item>
+    	    </item>
+	    <item>
                <bullet>2.2</bullet>
             You may use, reproduce, display, perform, modify and Deploy Covered Code, provided that in
                each instance:
           </item>
-            <list>
+	    <item>
+	    <list>
                <item>
                   <bullet>(a)</bullet>
               You must satisfy all the conditions of Section 2.1 with respect to the Source Code of the
@@ -165,7 +171,8 @@
                  information on how and where to obtain such Source Code.
             </item>
             </list>
-            <item>
+    	    </item>
+	    <item>
                <bullet>2.3</bullet>
             You expressly acknowledge and agree that although Apple and each Contributor grants the
                licenses to their respective portions of the Covered Code set forth herein, no assurances
@@ -179,12 +186,14 @@
                responsibility to acquire that license before distributing the Covered Code.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>3.</bullet>
           Your Grants. In consideration of, and as a condition to, the licenses granted to You under this
              License:
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>(a)</bullet>
             You hereby grant to Apple and all third parties a non-exclusive, royalty-free license, under
@@ -203,7 +212,8 @@
                distribution.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>4.</bullet>
           Larger Works. You may create a Larger Work by combining Covered Code with other code not governed
              by the terms of this License and distribute the Larger Work as a single product. In each such
@@ -296,12 +306,14 @@
             <bullet>12.</bullet>
           Termination.
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>12.1</bullet>
             Termination. This License and the rights granted hereunder will terminate:
           </item>
-            <list>
+	    <item>
+	    <list>
                <item>
                   <bullet>(a)</bullet>
               automatically without notice from Apple if You fail to comply with any term(s) of this
@@ -318,7 +330,8 @@
                  License, commence an action for patent infringement against Apple.
             </item>
             </list>
-            <item>
+    	    </item>
+	    <item>
                <bullet>12.2</bullet>
             Effect of Termination. Upon termination, You agree to immediately stop any further use,
                reproduction, modification, sublicensing and distribution of the Covered Code and to
@@ -332,11 +345,13 @@
                prejudice to any other right or remedy of any party.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>13.</bullet>
           Miscellaneous.
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>13.1</bullet>
             Government End Users. The Covered Code is a "commercial item" as defined in FAR
@@ -402,6 +417,7 @@
          rédigés en anglais.</p>
               </item>
         </list>
+	</item>
       </list>
       <optional>
          <p>EXHIBIT A.</p>

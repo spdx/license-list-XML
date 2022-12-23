@@ -58,7 +58,8 @@
              prominent notice in each changed file stating how and when you changed that file, and provided
              that you do at least ONE of the following:
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a)</bullet>
             place your modifications in the Public Domain or otherwise make them Freely Available, such
@@ -81,12 +82,14 @@
             make other distribution arrangements with the Copyright Holder.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>4.</bullet>
           You may distribute the programs of this Package in object code or executable form, provided that
              you do at least ONE of the following:
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a)</bullet>
             distribute a Standard Version of the executables and library files, together with
@@ -108,7 +111,8 @@
             make other distribution arrangements with the Copyright Holder.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>5.</bullet>
           You may charge a reasonable copying fee for any distribution of this Package. You may charge any
              fee you choose for support of this Package. You may not charge a fee for this Package itself.

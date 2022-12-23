@@ -49,7 +49,8 @@
             <bullet>0.</bullet>
           Definitions.
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a)</bullet>
             "Program", below, refers to any program or work distributed under the terms of this
@@ -69,7 +70,8 @@
             "You", below, refers to each licensee.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>1.</bullet>
           Scope.
             <br/>This license governs the copying, distribution, and modification of the Program. Other
@@ -95,7 +97,8 @@
                  works, provided that you meet the following conditions:
 
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a)</bullet>
             The copyright notice and disclaimer on the Program must be reproduced and included in the
@@ -113,14 +116,16 @@
                distribution of further derivative works.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>4.</bullet>
           Modification and redistribution under open license.
             <br/>You may modify your copy or copies of the Program, and distribute the resulting derivative
                  works, provided that you meet the following conditions:
 
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a)</bullet>
             The copyright notice and disclaimer on the Program must be reproduced and included in the
@@ -141,7 +146,8 @@
                all third parties under the terms of this License.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>5.</bullet>
           Implied acceptance.
             <br/>You may not copy or distribute the Program or any derivative works except as expressly

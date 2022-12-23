@@ -99,7 +99,7 @@
             to distribute copies or phonorecords of, display publicly, perform publicly, and perform
                publicly by means of a digital audio transmission Derivative Works;
           </item>
-            </list>
+  	    </list>
             <p>The above rights may be exercised in all media and formats whether now known or hereafter
                devised. The above rights include the right to make such modifications as are technically
                necessary to exercise the rights in other media and formats. All rights not expressly
@@ -180,7 +180,8 @@
             By offering the Work for public release under this License, Licensor represents and warrants
                that, to the best of Licensor's knowledge after reasonable inquiry:
           </item>
-               <list>
+	  	<item>
+	  	<list>
                   <item>
                      <bullet>i.</bullet>
               Licensor has secured all rights in the Work necessary to grant the license rights
@@ -195,7 +196,8 @@
                  other tortious injury to any third party.
             </item>
                </list>
-               <item>
+	       </item>
+	       <item>
                   <bullet>b.</bullet>
             EXCEPT AS EXPRESSLY STATED IN THIS LICENSE OR OTHERWISE AGREED IN WRITING OR REQUIRED BY
                APPLICABLE LAW, THE WORK IS LICENSED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF

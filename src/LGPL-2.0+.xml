@@ -273,7 +273,8 @@
              Library and of the other library facilities is otherwise permitted, and provided that you do
              these two things:
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a)</bullet>
             Accompany the combined library with a copy of the same work based on the Library, uncombined
@@ -287,7 +288,8 @@
                work.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>8.</bullet>
           You may not copy, modify, sublicense, link with, or distribute the Library except as expressly
              provided under this License. Any attempt otherwise to copy, modify, sublicense, link with, or

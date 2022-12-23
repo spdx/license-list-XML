@@ -30,7 +30,8 @@
           <bullet>1.</bullet>
           Definitions
         </item>
-        <list>
+	<item>
+	<list>
           <item>
             <bullet>a.</bullet>
             "Collective Work" means a work, such as a periodical issue, anthology or
@@ -93,7 +94,8 @@
             NoDerivatives, ShareAlike.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
           <bullet>2.</bullet>
           Fair Dealing and Other Rights. Nothing in this Licence excludes or modifies, or is intended
           to exclude or modify, (including by reducing, limiting, or restricting) the rights of You or others to
@@ -105,7 +107,7 @@
           Licence Grant. Subject to the terms and conditions of this Licence, Licensor hereby grants
           You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable
           copyright) licence to exercise the rights in the Work as stated below:
-        <list>
+	<list>
           <item>
             <bullet>a.</bullet>
             to reproduce the Work, to incorporate the Work into one or more Collective Works,
@@ -131,7 +133,8 @@
             <bullet>e.</bullet>
             For the avoidance of doubt, where the Work is a musical composition:
           </item>
-          <list>
+	  <item>
+	  <list>
             <item>
               <bullet>i.</bullet>
               Performance Royalties Under Blanket Licences. Licensor will
@@ -150,7 +153,8 @@
               in other jurisdictions).
             </item>
           </list>
-          <item>
+	  </item>
+	  <item>
             <bullet>f.</bullet>
             Webcasting Rights and Statutory Royalties. For the avoidance of doubt, where
             the Work is a sound recording, Licensor will not collect, whether individually or via
@@ -273,7 +277,8 @@
               <bullet>a.</bullet>
               in the case of goods, any one or more of the following:
             </item>
-            <list>
+	    <item>
+	    <list>
               <item>
                 <bullet>i.</bullet>
                 the replacement of the goods or the supply of equivalent goods;
@@ -291,11 +296,13 @@
                 the payment of the cost of having the goods repaired; or
               </item>
             </list>
-            <item>
+	    </item>
+	    <item>
               <bullet>b.</bullet>
               in the case of services:
             </item>
-            <list>
+	    <item>
+	    <list>
               <item>
                 <bullet>i.</bullet>
                 the supplying of the services again; or
@@ -305,7 +312,8 @@
                 the payment of the cost of having the services supplied again.
               </item>
             </list>
-          </list>
+     	    </item>
+    	  </list>
         </item>
         <item>
           <bullet>7.</bullet>

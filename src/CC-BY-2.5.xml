@@ -29,7 +29,8 @@
             <bullet>1.</bullet>
           Definitions
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a.</bullet>
             "Collective Work" means a work, such as a periodical issue, anthology or
@@ -71,7 +72,8 @@
                despite a previous violation.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>2.</bullet>
           Fair Use Rights. Nothing in this license is intended to reduce, limit, or restrict any rights
              arising from fair use, first sale or other limitations on the exclusive rights of the
@@ -83,7 +85,8 @@
              worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable
              copyright) license to exercise the rights in the Work as stated below:
         </item>
-        <list>
+	<item>	
+	<list>
             <item>
                <bullet>a.</bullet>
             to reproduce the Work, to incorporate the Work into one or more Collective Works, and to
@@ -108,7 +111,8 @@
                <bullet>e.</bullet>
             For the avoidance of doubt, where the work is a musical composition:
           </item>
-            <list>
+	    <item>
+	    <list>
                <item>
                   <bullet>i.</bullet>
               Performance Royalties Under Blanket Licenses. Licensor waives the exclusive right to
@@ -125,7 +129,8 @@
                  Section 115 of the US Copyright Act (or the equivalent in other jurisdictions).
             </item>
             </list>
-            <item>
+	    </item>
+	    <item>
                <bullet>f.</bullet>
             Webcasting Rights and Statutory Royalties. For the avoidance of doubt, where the Work is a
                sound recording, Licensor waives the exclusive right to collect, whether individually or
@@ -138,12 +143,14 @@
                granted by Licensor are hereby reserved.</p>
             </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>4.</bullet>
           Restrictions. The license granted in Section 3 above is expressly made subject to and limited by
              the following restrictions:
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a.</bullet>
             You may distribute, publicly display, publicly perform, or publicly digitally perform the
@@ -185,7 +192,8 @@
                authorship credit.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>5.</bullet>
           Representations, Warranties and Disclaimer
           <p>UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE WORK AS-IS AND
@@ -207,7 +215,8 @@
             <bullet>7.</bullet>
           Termination
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a.</bullet>
             This License and the rights granted hereunder will terminate automatically upon any breach by
@@ -228,11 +237,13 @@
                effect unless terminated as stated above.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>8.</bullet>
           Miscellaneous
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a.</bullet>
             Each time You distribute or publicly digitally perform the Work or a Collective Work, the
@@ -267,6 +278,7 @@
                mutual written agreement of the Licensor and You.
           </item>
         </list>
+	</item>
       </list>
       <p>Creative Commons is not a party to this License, and makes no warranty whatsoever in connection with the
          Work. Creative Commons will not be liable to You or any party on any legal theory for any damages
