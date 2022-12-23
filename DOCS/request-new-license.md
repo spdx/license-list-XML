@@ -28,4 +28,4 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 4. The new license/exception will be officially added and appear on the SPDX License List website for the next release of the SPDX License List.
 
 Note: Once a license has been accepted and to be added to the SPDX License List and the associated files merged, it is fine to start using the SPDX identifier, even if the official release has not yet occurred. 
-Note: If a license is *not* accepted for inclusion on the SPDX License List, you can use the 'LicenseRef-[idstring]' tag to identify your license, as per the [SPDX specification, clause 10](https://spdx.github.io/spdx-spec/6-other-licensing-information-detected/)
+Note: If a license is *not* accepted for inclusion on the SPDX License List, you can use the 'LicenseRef-[idstring]' tag to identify your license, as per the [SPDX specification, clause 10](https://spdx.github.io/spdx-spec/v2.3/other-licensing-information-detected/)
