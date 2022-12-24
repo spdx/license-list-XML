@@ -92,7 +92,8 @@
           <p>Licensor hereby grants you a world-wide, royalty-free, non-exclusive license, subject to third
              party intellectual property claims, to do the following:</p>
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a.</bullet>
             Use, reproduce, modify, display, perform, sublicense and distribute Licensed Product or
@@ -118,7 +119,8 @@
                portions thereof or Derivative Works thereof.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>2.</bullet>
           Grant of License to Modifications From Contributor.
           <p>"Modifications" means any additions to or deletions from the substance or structure of
@@ -130,7 +132,8 @@
              world-wide, royalty-free, non-exclusive license, subject to third party intellectual property
              claims, to do the following:</p>
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a.</bullet>
             Use, reproduce, modify, display, perform, sublicense and distribute any Modifications created
@@ -146,7 +149,8 @@
                portions thereof or Derivative Works thereof.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>3.</bullet>
           Exclusions From License Grant.
           <p>Nothing in this License shall be deemed to grant any rights to trademarks, copyrights, patents,
@@ -162,7 +166,8 @@
             <bullet>4.</bullet>
           Your Obligations Regarding Distribution.
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a.</bullet>
             Application of This License to Your Modifications. As an express condition for your use of
@@ -208,7 +213,8 @@
                <bullet>d.</bullet>
             Intellectual Property Matters.
           </item>
-            <list>
+	  <item>
+	  <list>
                <item>
                   <bullet>i.</bullet>
               Third Party Claims. If you have knowledge that a license to a third party's
@@ -236,7 +242,8 @@
                  have sufficient rights to grant the rights conveyed by this License.
             </item>
             </list>
-            <item>
+	    </item>
+	    <item>
                <bullet>e.</bullet>
             Required Notices. You must duplicate this License in any documentation you provide along with
                the Source Code of any Modifications you create or to which you contribute, and which you
@@ -278,7 +285,8 @@
                Licensed Product or any Modifications thereto.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>5.</bullet>
           Inability to Comply Due to Statute or Regulation.
           <p>If it is impossible for you to comply with any of the terms of this License with respect to some
@@ -301,7 +309,8 @@
             <bullet>7.</bullet>
           Versions of This License.
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a.</bullet>
             Version. The Motosoto Open Source License is derived from the Jabber Open Source License. All
@@ -329,7 +338,8 @@
                Licensor or any Contributor.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>8.</bullet>
           Disclaimer of Warranty.
           <p>LICENSED PRODUCT IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS, WITHOUT WARRANTY
@@ -345,7 +355,8 @@
             <bullet>9.</bullet>
           Termination.
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>a.</bullet>
             Automatic Termination Upon Breach. This license and the rights granted hereunder will
@@ -389,7 +400,8 @@
                shall survive termination.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>10.</bullet>
           Limitation of Liability.
         </item>

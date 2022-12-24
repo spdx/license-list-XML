@@ -314,10 +314,9 @@
 				</xhtml:p>
 			</documentation>
 		</annotation>
-		<choice minOccurs="1" maxOccurs="unbounded">
-			<element name="item" type="tns:formattedAltTextType"/>
-			<element name="list" type="tns:listType"/>
-		</choice>
+		<sequence>
+			<element name="item" type="tns:formattedAltTextType" minOccurs="1" maxOccurs="unbounded"/>
+		</sequence>
 	</complexType>
 	<complexType name="listStandardLicenseHeaderType">
 		<annotation>
@@ -327,10 +326,9 @@
 				</xhtml:p>
 			</documentation>
 		</annotation>
-		<choice minOccurs="1" maxOccurs="unbounded">
-			<element name="item" type="tns:formattedAltStandardLicenseHeaderTextType"/>
-			<element name="list" type="tns:listStandardLicenseHeaderType"/>
-		</choice>
+		<sequence>
+			<element name="item" type="tns:formattedAltStandardLicenseHeaderTextType" minOccurs="1" maxOccurs="unbounded"/>
+		</sequence>
 	</complexType>
 	<complexType name="emptyType">
 		<annotation>
