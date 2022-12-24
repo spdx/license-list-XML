@@ -5,7 +5,7 @@ Determining whether a candidate license should be included on the SPDX License L
 
 **Definitive factors:**
 <ol type="A">
- <li>The submitted license must not match another license already on the SPDX License List as per the [SPDX matching guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/).</li>
+ <li>The submitted license must not match another license already on the SPDX License List as per the <a href="https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/">SPDX matching guidelines</a>.</li>
  <li>All OSI-approved licenses will be included on the SPDX License List.</li>
  <li>Software licenses that apply only to executables and do not provide for the availability of the source code will not be included on the SPDX License List.</li>
  <li>The license has identifiable and stable text; it is not in the midst of drafting.</li>
