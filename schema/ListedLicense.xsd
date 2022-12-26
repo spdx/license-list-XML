@@ -247,6 +247,33 @@
 				</documentation>
 			</annotation>
 		</group>
+		<attribute name="name" type="string" use="required">
+			<annotation>
+				<documentation xml:lang="en">
+					<xhtml:p>
+						<xhtml:code>name</xhtml:code> is a unique (within the license/exception) name for this <xhtml:code>altType</xhtml:code> element.
+					</xhtml:p>
+				</documentation>
+			</annotation>
+		</attribute>
+		<attribute name="match" type="string" use="required">
+			<annotation>
+				<documentation xml:lang="en">
+					<xhtml:p>
+						<xhtml:code>match</xhtml:code> is the <xhtml:a href="http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html#tag_09_04">POSIX extended regular expression (ERE)</xhtml:a> defining allowed matches.  Where possible, alternates are listed in order of decreasing numbers of matched characters, which allows for regular expression engines using both POSIX's <xhtml:a href="http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html#tag_09_01_02">longest-match</xhtml:a> semantics and those which prefer the leftmost branch (e.g. <xhtml:a href="https://golang.org/pkg/regexp/#Compile">Go</xhtml:a>, <xhtml:a href="https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf#sec-alternative.cE">JavaScript</xhtml:a>, <xhtml:a href="http://perldoc.perl.org/perlre.html#Combining-RE-Pieces">Perl</xhtml:a>, <xhtml:a href="https://docs.python.org/3.5/library/re.html#regular-expression-syntax">Python</xhtml:a>, etc.)
+					</xhtml:p>
+				</documentation>
+			</annotation>
+		</attribute>
+		<attribute name="spacing" type="string" default="before">
+			<annotation>
+				<documentation xml:lang="en">
+					<xhtml:p>
+						<xhtml:code>spacing</xhtml:code> defines how spacing is handled around the alt text.  Since XML does not preserve white space, to render the text from the license XML we need to provide hints to the tools that translate the XML to text (or other formats).  Valid values are <xhtml:code>none</xhtml:code> for no spaces before or after the alt text; <xhtml:code>before</xhtml:code> (default) for a space before, but not after the alt text; <xhtml:code>after</xhtml:code> for a space after, but not before the alt text; <xhtml:code>both</xhtml:code>a space before and after the alt text.
+					</xhtml:p>
+				</documentation>
+			</annotation>
+		</attribute>
 	</complexType>
 	<complexType name="altType" mixed="true">
 		<annotation>
