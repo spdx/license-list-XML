@@ -230,6 +230,24 @@
 			</annotation>
 		</attribute>
 	</complexType>
+	<complexType name="altParagraphType" mixed="true">
+		<annotation>
+			<documentation xml:lang="en">
+				<xhtml:p>
+					<xhtml:code>altParagraphType</xhtml:code> represents alternative content within a paragraph, where the SPDX considers several alternatives legally equivalent.  The <xhtml:code>match</xhtml:code> will support the legally equivalent alternatives.  While the SPDX will aim to exclude legally-signicant differences in <xhtml:code>match</xhtml:code>, this is not always possible.  Consumers are encouraged to review matched text manually and make their own conclusions about legal significance.
+				</xhtml:p>
+			</documentation>
+		</annotation>
+		<group ref="tns:formattedFixedParagraphGroup" minOccurs="0" maxOccurs="unbounded">
+			<annotation>
+				<documentation xml:lang="en">
+					<xhtml:p>
+						This formatted content (potentially empty) is the canonical text recommended by the SPDX.  It should match at least one version of the canonical text currently recommended by the license steward, if any.
+					</xhtml:p>
+				</documentation>
+			</annotation>
+		</group>
+	</complexType>
 	<complexType name="altType" mixed="true">
 		<annotation>
 			<documentation xml:lang="en">
@@ -275,6 +293,25 @@
 			</annotation>
 		</attribute>
 	</complexType>
+	<complexType name="optionalParagraphType" mixed="true">
+		<annotation>
+			<documentation xml:lang="en">
+				<xhtml:p>
+					<xhtml:code>optionalType</xhtml:code> is formatted text within a paragraph that is not legally significant.  The legal meaning of the license/exception is the same regardless of whether the optional text is included or not.
+				</xhtml:p>
+			</documentation>
+		</annotation>
+		<group ref="tns:formattedAltParagraphGroup" minOccurs="0" maxOccurs="unbounded"/>
+		<attribute name="spacing" type="string" default="before">
+			<annotation>
+				<documentation xml:lang="en">
+					<xhtml:p>
+						<xhtml:code>spacing</xhtml:code> defines how spacing is handled around the optional text.  Since XML does not preserve white space, to render the text from the license XML we need to provide hints to the tools that translate the XML to text (or other formats).  Valid values are <xhtml:code>none</xhtml:code> for no spaces before or after the optional text; <xhtml:code>before</xhtml:code> (default) for a space before, but not after the optional text; <xhtml:code>after</xhtml:code> for a space after, but not before the optional text; <xhtml:code>both</xhtml:code>a space before and after the optional text.
+					</xhtml:p>
+				</documentation>
+			</annotation>
+		</attribute>		
+	</complexType>
 	<complexType name="optionalType" mixed="true">
 		<annotation>
 			<documentation xml:lang="en">
@@ -293,6 +330,18 @@
 				</documentation>
 			</annotation>
 		</attribute>		
+	</complexType>
+	<complexType name="optionalStandardLicenseHeaderParagraphType" mixed="true">
+		<group ref="tns:formattedAltStandardLicenseHeaderParagraphGroup" minOccurs="0" maxOccurs="unbounded"/>
+		<attribute name="spacing" type="string" default="before">
+			<annotation>
+				<documentation xml:lang="en">
+					<xhtml:p>
+						<xhtml:code>spacing</xhtml:code> defines how spacing is handled around the optional text.  Since XML does not preserve white space, to render the text from the license XML we need to provide hints to the tools that translate the XML to text (or other formats).  Valid values are <xhtml:code>none</xhtml:code> for no spaces before or after the optional text; <xhtml:code>before</xhtml:code> (default) for a space before, but not after the optional text; <xhtml:code>after</xhtml:code> for a space after, but not before the optional text; <xhtml:code>both</xhtml:code>a space before and after the optional text.
+					</xhtml:p>
+				</documentation>
+			</annotation>
+		</attribute>
 	</complexType>
 	<complexType name="optionalStandardLicenseHeaderType" mixed="true">
 		<group ref="tns:formattedAltStandardLicenseHeaderTextGroup" minOccurs="0" maxOccurs="unbounded"/>
@@ -339,6 +388,16 @@
 			</documentation>
 		</annotation>
 	</complexType>
+		<complexType name="formattedFixedParagraphType" mixed="true">
+		<annotation>
+			<documentation xml:lang="en">
+				<xhtml:p>
+					<xhtml:code>formattedFixedParagraphType</xhtml:code> is formatted text without lists, optional or variable portions.
+				</xhtml:p>
+			</documentation>
+		</annotation>
+		<group ref="tns:formattedFixedParagraphGroup" minOccurs="0" maxOccurs="unbounded"/>
+	</complexType>
 	<complexType name="formattedFixedTextType" mixed="true">
 		<annotation>
 			<documentation xml:lang="en">
@@ -348,6 +407,16 @@
 			</documentation>
 		</annotation>
 		<group ref="tns:formattedFixedTextGroup" minOccurs="0" maxOccurs="unbounded"/>
+	</complexType>
+	<complexType name="formattedAltParagraphType" mixed="true">
+		<annotation>
+			<documentation xml:lang="en">
+				<xhtml:p>
+					<xhtml:code>formattedAltParagraphType</xhtml:code> is formatted text that allows optional and variable portions but disallows lists.
+				</xhtml:p>
+			</documentation>
+		</annotation>
+		<group ref="tns:formattedAltParagraphGroup" minOccurs="0" maxOccurs="unbounded"/>
 	</complexType>
 	<complexType name="formattedAltTextType" mixed="true">
 		<annotation>
@@ -359,9 +428,28 @@
 		</annotation>
 		<group ref="tns:formattedAltTextGroup" minOccurs="0" maxOccurs="unbounded"/>
 	</complexType>
+	<complexType name="formattedAltStandardLicenseHeaderParagraphType" mixed="true">
+		<group ref="tns:formattedAltStandardLicenseHeaderParagraphGroup" minOccurs="0" maxOccurs="unbounded"/>
+	</complexType>
 	<complexType name="formattedAltStandardLicenseHeaderTextType" mixed="true">
 		<group ref="tns:formattedAltStandardLicenseHeaderTextGroup" minOccurs="0" maxOccurs="unbounded"/>
 	</complexType>
+	<group name="formattedFixedParagraphGroup">
+		<annotation>
+			<documentation xml:lang="en">
+				<xhtml:p>
+					<xhtml:code>formattedFixedParagraphGroup</xhtml:code> is formatted text without lists, optional or variable portions.  The children for <xhtml:code>formattedAltStandardLicenseHeaderParagraphGroup</xhtml:code> have the same semantics, except for the fixed/alt and standard license header distinctions.  See the <xhtml:code>formattedAltStandardLicenseHeaderParagraphGroup</xhtml:code> documentation for details on the attribute semantics.
+				</xhtml:p>
+			</documentation>
+		</annotation>
+		<choice>
+			<element name="p" type="tns:formattedFixedParagraphType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="bullet" type="string" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="br" type="tns:emptyType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="titleText" type="tns:formattedFixedParagraphType" minOccurs="0" maxOccurs="1"/>
+			<element name="copyrightText" type="tns:formattedFixedParagraphType" minOccurs="0" maxOccurs="1"/>
+		</choice>
+	</group>
 	<group name="formattedFixedTextGroup">
 		<annotation>
 			<documentation xml:lang="en">
@@ -371,12 +459,31 @@
 			</documentation>
 		</annotation>
 		<choice>
-			<element name="p" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="p" type="tns:formattedFixedParagraphType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="bullet" type="string" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="list" type="tns:listType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="br" type="tns:emptyType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="titleText" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1"/>
 			<element name="copyrightText" type="tns:formattedFixedTextType" minOccurs="0" maxOccurs="1"/>
+		</choice>
+	</group>
+	
+	<group name="formattedAltParagraphGroup">
+		<annotation>
+			<documentation xml:lang="en">
+				<xhtml:p>
+					<xhtml:code>formattedAltParagraphGroup</xhtml:code> is formatted text with optional and variable portions without lists.  The children for <xhtml:code>formattedAltStandardLicenseHeaderParagraphGroup</xhtml:code> have the same semantics, except for the standard license header distinction.  See the <xhtml:code>formattedAltStandardLicenseHeaderParagraphGroup</xhtml:code> documentation for details on the attribute semantics.
+				</xhtml:p>
+			</documentation>
+		</annotation>
+		<choice>
+			<element name="p" type="tns:formattedAltParagraphType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="bullet" type="string" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="optional" type="tns:optionalParagraphType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="alt" type="tns:altParagraphType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="br" type="tns:emptyType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="titleText" type="tns:formattedAltParagraphType" minOccurs="0" maxOccurs="1"/>
+			<element name="copyrightText" type="tns:formattedAltParagraphType" minOccurs="0" maxOccurs="1"/>
 		</choice>
 	</group>
 	<group name="formattedAltTextGroup">
@@ -388,7 +495,7 @@
 			</documentation>
 		</annotation>
 		<choice>
-			<element name="p" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="p" type="tns:formattedAltParagraphType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="bullet" type="string" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="list" type="tns:listType" minOccurs="0" maxOccurs="unbounded"/>
 			<element name="optional" type="tns:optionalType" minOccurs="0" maxOccurs="unbounded"/>
@@ -398,9 +505,69 @@
 			<element name="copyrightText" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
 		</choice>
 	</group>
+	<group name="formattedAltStandardLicenseHeaderParagraphGroup">
+		<choice>
+			<element name="p" type="tns:formattedAltStandardLicenseHeaderParagraphType" minOccurs="0" maxOccurs="unbounded">
+				<annotation>
+					<documentation xml:lang="en">
+						<xhtml:p>
+							<xhtml:code>p</xhtml:code> is a paragraph with the same semantics as in <xhtml:a href="https://www.w3.org/TR/html52/grouping-content.html#elementdef-p">HTML</xhtml:a>.
+						</xhtml:p>
+					</documentation>
+				</annotation>
+			</element>
+			<element name="bullet" type="string" minOccurs="0" maxOccurs="unbounded">
+				<annotation>
+					<documentation xml:lang="en">
+						<xhtml:p>
+							<xhtml:code>bullet</xhtml:code> is a list-item bullet.
+						</xhtml:p>
+					</documentation>
+				</annotation>
+			</element>
+			<element name="optional" type="tns:optionalStandardLicenseHeaderParagraphType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="alt" type="tns:altParagraphType" minOccurs="0" maxOccurs="unbounded"/>
+			<element name="br" type="tns:emptyType" minOccurs="0" maxOccurs="unbounded">
+				<annotation>
+					<documentation xml:lang="en">
+						<xhtml:p>
+							<xhtml:code>br</xhtml:code> is a line break with the same semantics as in <xhtml:a href="https://www.w3.org/TR/html52/textlevel-semantics.html#the-br-element">HTML</xhtml:a>.
+						</xhtml:p>
+					</documentation>
+				</annotation>
+			</element>
+			<element name="titleText" type="tns:formattedAltStandardLicenseHeaderParagraphType" minOccurs="0" maxOccurs="1">
+				<annotation>
+					<documentation xml:lang="en">
+						<xhtml:p>
+							<xhtml:code>titleText</xhtml:code> is the title of the license/exception.  This that the content should be formatted as a header and that it optional (as described in <xhtml:content>optionalType</xhtml:content>).
+						</xhtml:p>
+					</documentation>
+				</annotation>
+			</element>
+			<element name="copyrightText" type="tns:formattedAltStandardLicenseHeaderParagraphType" minOccurs="0" maxOccurs="1">
+				<annotation>
+					<documentation xml:lang="en">
+						<xhtml:p>
+							<xhtml:code>copyrightText</xhtml:code> is the <xhtml:em>content</xhtml:em> copyright statement.  Some licenses/exceptions (e.g. the GPL family) include a copright line for the license/exception itself; <xhtml:code>copyrightText</xhtml:code> should not be used for those cases.
+						</xhtml:p>
+					</documentation>
+				</annotation>
+			</element>
+			<element name="standardLicenseHeader" type="tns:formattedAltStandardLicenseHeaderParagraphType" minOccurs="0" maxOccurs="1">
+				<annotation>
+					<documentation xml:lang="en">
+						<xhtml:p>
+							<xhtml:code>standardLicenseHeader</xhtml:code> is the license steward's recommended text for per-file license grants.  Place this element within <xhtml:code>text</xhtml:code> when the license contains the recommended grant text (for example, in an appendix).  Make <xhtml:code>standardLicenseHeader</xhtml:code> a sibling of <xhtml:code>text</xhtml:code> when the license does not contain the recommended grant text.
+						</xhtml:p>
+					</documentation>
+				</annotation>
+			</element>
+		</choice>
+	</group>
 	<group name="formattedAltStandardLicenseHeaderTextGroup">
 		<choice>
-			<element name="p" type="tns:formattedAltStandardLicenseHeaderTextType" minOccurs="0" maxOccurs="unbounded">
+			<element name="p" type="tns:formattedAltStandardLicenseHeaderParagraphType" minOccurs="0" maxOccurs="unbounded">
 				<annotation>
 					<documentation xml:lang="en">
 						<xhtml:p>
