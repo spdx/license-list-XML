@@ -156,6 +156,8 @@ could be represented as:
 
 If a license template should match regardless of whether or not a particular section of text is present, then that text can be surrounded with **`<optional>...</optional>`** tags.
 
+By default, when rendered on the [SPDX License List website](https://spdx.org/licenses), a space will be included before and after the optional text. If the tag includes a `spacing="none"` attribute, e.g. `<optional spacing="none">`, then these spaces will be omitted. This is useful if, for instance, the optional text is a suffix to a word or a quotation mark where the optional portion should not be separated by a space.
+
 Note that some annotated portions of text (specifically `<titleText>` and `<copyrightText>`) are deemed to be "optional" automatically, so the `<optional>` tag is not needed where those are present.
 
 ### Replaceable text
