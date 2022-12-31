@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: 0BSD OR CC0-1.0
 
 repo: spdx/license-list-XML
-startAt: 2022-09-07
+startAt: 2022-12-01
 pullRequests: false
 filters:
   - type: issue
