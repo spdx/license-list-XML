@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="CC-BY-NC-SA-2.0-DE"
-            name="Creative Commons Attribution Non Commercial Share Alike 2.0 Germany" listVersionAdded="3.14">
+            name="Creative Commons Attribution Non Commercial Share Alike 2.0 Germany" listVersionAdded="3.20">
       <crossRefs>
          <crossRef>https://creativecommons.org/licenses/by-nc-sa/2.0/de/legalcode</crossRef>
       </crossRefs>
     <text>
       <titleText>
-          <p>Namensnennung — Nicht-kommerziell — Weitergabe unter gleichen Bedingungen 2.0</p>
+          <p>Creative Commons Namensnennung — Nicht-kommerziell — Weitergabe unter gleichen Bedingungen 2.0</p>
       </titleText>
       <p>CREATIVE COMMONS IST KEINE RECHTSANWALTSGESELLSCHAFT UND LEISTET KEINE RECHTSBERATUNG. DIE WEITERGABE DIESES LIZENZENTWURFES FÜHRT ZU KEINEM MANDATSVERHÄLTNIS. CREATIVE COMMONS ERBRINGT DIESE INFORMATIONEN OHNE GEWÄHR. CREATIVE COMMONS ÜBERNIMMT KEINE GEWÄHRLEISTUNG FÜR DIE GELIEFERTEN INFORMATIONEN UND SCHLIEßT DIE HAFTUNG FÜR SCHÄDEN AUS, DIE SICH AUS IHREM GEBRAUCH ERGEBEN.</p>
 
