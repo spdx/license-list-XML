@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="OpenPBS-2.3"
-   name="OpenPBS v2.3 Software License" listVersionAdded="">
+   name="OpenPBS v2.3 Software License" listVersionAdded="3.20">
       <crossRefs>
          <crossRef>https://github.com/adaptivecomputing/torque/blob/master/PBS_License.txt</crossRef>
          <crossRef>https://www.mcs.anl.gov/research/projects/openpbs/PBS_License.txt</crossRef>
       </crossRefs>
-      <standardLicenseHeader>
-      </standardLicenseHeader>
-      <notes>
-      </notes>
       <text>
-         <p>
+         <titleText>
             OpenPBS (Portable Batch System) v2.3 Software License
-         </p>
-         <p>
+         </titleText>
+         <copyrightText>
             Copyright (c) 1999-2000 Veridian Information
             Solutions, Inc. All rights reserved.
-         </p>
-         <p>
-            --------------------------------------------------------------------------- For a license to use or redistribute the OpenPBS software under conditions other than those described below, or to purchase support for this software, please contact Veridian Systems, PBS Products Department ("Licensor") at:
-         </p>
-         <p>
-            www.OpenPBS.org +1 650 967-4675 sales@OpenPBS.org 877 902-4PBS (US toll-free) ---------------------------------------------------------------------------
-         </p>
+         </copyrightText>
+         <optional>
+            ---------------------------------------------------------------------------
+            <p>
+               For a license to use or redistribute the OpenPBS software
+               under conditions other than those described below, or
+               to purchase support for this software, please contact
+               Veridian Systems, PBS Products Department ("Licensor") at:
+            </p>
+            <p>
+               www.OpenPBS.org +1 650 967-4675
+               sales@OpenPBS.org 877 902-4PBS (US toll-free)
+            </p>
+            ---------------------------------------------------------------------------
+         </optional>
          <p>
             This license covers use of the OpenPBS v2.3 software (the
             "Software") at your site or location, and, for certain
