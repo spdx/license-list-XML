@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="HGL"
+   name="HGL General License" listVersionAdded="">
+      <crossRefs>
+         <crossRef>https://evgnomon.org/hgl/</crossRef>
+      </crossRefs>
+      <standardLicenseHeader>
+      </standardLicenseHeader>
+      <notes>
+      </notes>
+      <text>
+         <p>
+            IN THE NAME OF FREEDOM HGL GENERAL LICENSE JULY
+            2022 Copyright (C) 2022 evgnomon.org by Hamed
+            Ghasemzadeh, ALL RIGHTS RESERVED hg@evgnomon.org
+         </p>
+         <p>
+            IT IS NOT PROHIBITED TO COPY AND
+            DISTRIBUTE VERBATIM COPIES OF THIS LICENSE.
+         </p>
+         <p>
+            PREAMBLE We think license modification is not needed for those who
+            want to use and/or improve our work which is why we put conditions
+            on the way you can distribute a derivative work based on our work.
+            We as an independent person receive your improvements under the same
+            terms and conditions that you have received our work if you choose
+            to distribute this work or a derivate work based on this work.
+         </p>
+         <p>
+            This license, among other terms, does not prevent using our
+            work in a closed source as long as no distribution takes
+            place. The risk of being stuck in an obsolete work, that no
+            one else contributes to, could be reduced by continuously
+            trying to request useful contributions be taken back into
+            this work under this license. Welcome to make a closed source
+            work based on our work consistent with this license and
+            welcome to contribute back to this work under this license.
+         </p>
+         <p>
+            As we encourage you to use our work in a non-distributed closed
+            source, we should protect ourselves against an alienated person
+            who seeks dominance. First, we can always choose to have the upper
+            hand by distributing to users which let us and our users improve
+            forever without changing the license, and without getting divided.
+            Second, our distribution can always be more affordable than those
+            who don't distribute. These two let us eventually catch up. We
+            protect ourselves for the moment that an alienated person can
+            not stand anymore and the users get released towards our work.
+            This license rules until that day, there and afterward forever.
+         </p>
+         <p>
+            All rights are reserved for copyright holders to be able to
+            protect the covered work for the purpose of this License.
+         </p>
+         <p>
+            DEFINITIONS THE COVENANT the zero term of this agreement PERSON
+            individual or legal entity RESTRICT to control something by law
+            WORK what is protectable under copyright law MODIFY add to or
+            delete from the work CODE a work represented by a particular
+            arrangement or sequence of numbers, symbols, letters, words,
+            on memory which is protectable under copyright SOURCE CODE
+            a kind of code which is preferred for making modifications
+            RECEIVE the situation that our work is transferred to a person
+            in copy for use DEPENDENT owning more than fifty percent
+            (50%) of the outstanding shares or beneficial ownership of the
+            work performed by a person DISTRIBUTE the situation that an
+            independent person receives our work for use COVERED WORK work
+            which is covered under this License DERIVATIVE WORK work which is
+            "derivative work" under copyright law based on the covered work
+            0. Copying, modification and distribution of the covered work
+            and derivative work based on the covered work is not restricted
+            only if the following four conditions are all separately met:
+         </p>
+         <p>
+            The source code of the distributed derivative work and thereby
+            the distributed covered work is also distributed for all receivers
+            of the distributed work. And a distributed derivative work based
+            on the covered work is also licensed under this License without
+            further term or condition or enforcing compliance by third parties
+            including the state. And distribution of the covered work and a
+            derivative work must keep the copyright notice and reference to
+            this License. And * the following disclaimer appropriately published
+            in the documentation and/or other materials provided with the
+            distribution. 2. In order to have the covered work useful in a
+            system with pieces under different licenses which are separately
+            distributed consistent with the covenant, such a separately
+            distributed work can exceptionally aggregate the covered work (or
+            a derivative work based on the covered work) on the same medium
+            without having the whole come into the scope of this License.
+            The covered work or a derivative work based on the covered work
+            can likewise aggregate a part which is separately distributed
+            consistent with the covenant and under a different license
+            without having the whole come into the scope of this license.
+         </p>
+         <p>
+            EXCEPT WHEN OTHERWISE STATED IN WRITING, THE COPYRIGHT
+            HOLDERS AND/OR OTHER PARTIES PROVIDE THE WORK "AS IS"
+            WITHOUT IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR
+            PURPOSE, NON-INFRINGEMENT, MERCHANTABILITY AND TITLE,
+            AND ANY OTHER KIND OF EXPRESS OR IMPLIED WARRANTIES.
+         </p>
+         <p>
+            IN NO EVENT SHALL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO
+            MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE BE
+            LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+            CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
+            OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, LOSS OF GOODWILL,
+            DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+            ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+            OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+            OUT OF THE USE OF THIS WORK OR AS A RESULT OF OUR LICENSE (OR THE
+            AGREEMENT), EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+         </p>
+         <p>
+            However, You may at your option offer support, warranty,
+            indemnity, or other liability obligations and/or rights
+            consistent with this License in exchange for a fee.
+         </p>
+         <p>
+            END OF TERMS AND CONDITIONS APPLICATION You apply
+            this License on your work by referencing a verbatim
+            copy of this License visible for receivers.
+         </p>
+         <p>
+            Programs can print the copyright notice in the terminal like this:
+         </p>
+         <p>
+            &lt; one line to give the program's name and a brief
+            idea of what it does. &gt; Copyright (C) &lt;year(s)&gt;
+            &lt;name of author&gt;. All rights reserved. License HGL:
+            HGL General License &lt;http://evgnomon.org/hgl&gt; There
+            is NO warranty express or implied; to the extent permitted
+            by law. Source files under HGL contain this header:
+         </p>
+         <p>
+            License-Identifier: HGL Copyright (C) &lt;year(s)&gt; &lt;name
+            of author&gt;. All rights reserved. Copyright (C) &lt;year(s)&gt;
+            &lt;name of author of the derivative work&gt;. All rights reserved.
+         </p>
+      </text>
+   </license>
+</SPDXLicenseCollection>
