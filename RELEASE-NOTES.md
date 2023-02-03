@@ -105,7 +105,7 @@ New licenses/exceptions added: 4
 
 Note that "Linux-man-pages-copyleft" was initially merged as "Verbatim-man-pages", but at the community's request the ID was updated prior to inclusion in the release. See https://github.com/spdx/license-list-XML/issues/1310 for more details.
 
-Added template for reviews of new license requests, to evaluate against the license inclusion principles. See https://github.com/spdx/license-list-XML/blob/master/DOCS/submission-response-template.md for the review template.
+Added template for reviews of new license requests, to evaluate against the license inclusion principles. See https://github.com/spdx/license-list-XML/blob/master/DOCS/template-license-review-checklist.md for the review template.
 
 Updates to various documentation, adjustments to markup for various licenses and other minor changes.
 
