@@ -31,8 +31,8 @@ If accepted, two files will be need to be prepared for each license or exception
 
 1. __Create the XML file__: There are two ways to created the files for the new license. Either way, you will need to first ensure you have created a clone/fork of the license-list-XML repository (do not rename the fork). 
     * If the license was sumbitted via the [SPDX Online Tool](https://tools.spdx.org/app/license_requests/), you can use the `edit the XML` function for the license request in the SPDX Online Tool to create the XML file and a pull request, as described in [this video](https://drive.google.com/file/d/1EGyD1_hVrhMMeU2K7tsiaWlmCX7rJBbV/view?usp=share_link). 
-    * Alternatively, you can use Git to clone (fork) the license-list-XML repository (repo), make the edits on your clone of the repo, then send a pull request, as described in [this document](https://github.com/spdx/license-list-XML/blob/main/DOCS/git-usage.md) and [this video](https://drive.google.com/file/d/10deXLZWNvWl7zjKczf-DuJx3oooN_7CI/view?usp=share_link). 
-    * Either way, [XML fields](https://github.com/spdx/license-list-XML/blob/main/DOCS/xml-fields.md) is helpful for specific guidance on the implementing the XML tags.
+    * Alternatively, you can use Git to clone (fork) the license-list-XML repository (repo), make the edits on your clone of the repo, then send a pull request, as described in [this document](git-usage.md) and [this video](https://drive.google.com/file/d/10deXLZWNvWl7zjKczf-DuJx3oooN_7CI/view?usp=share_link).
+    * Either way, [XML fields](xml-fields.md) is helpful for specific guidance on the implementing the XML tags.
 
 1. __Create the text file__: In the same pull request where you created the XML file, create a new .txt file in the `test/simpleTestForGenerator/` directory of your clone or branch of the license-list-XML repo. This must be UTF-8 encoded. Special characters such as smart quotes should be avoided. Do try to keep formatting elements such as section indentation, _using spaces to make the indentation rather than using tabs_.
     * Use the canonical text for the license. There should be a link to this in the submission issue.
