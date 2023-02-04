@@ -7,7 +7,7 @@ The [SPDX License List](https://spdx.org/licenses/) is an integral part of the S
 The purpose of the SPDX License List is to enable efficient and reliable identification of such licenses and exceptions in an SPDX document, in source files or elsewhere. The SPDX short identifiers combined with the matching guidelines ensures that anyone can reliably know exactly what license text is being referred to for a given SPDX identifier.
 
 ## How
-* For more about how SPDX license identifiers are used in an SPDX document, a software bill of materials, or other places that store license data, see [SPDX Specification](https://spdx.org/specifications), Sections 3, 4, and 6 and Appendices II, IV, and V.
+* For more about how SPDX license identifiers are used in an SPDX document, a software bill of materials, or other places that store license data, see [SPDX Specification](https://spdx.org/specifications), Clauses 7, 8, and 10 and Annexes B, D, and E.
 * For examples of use of SPDX license identifiers in source code, see https://spdx.org/ids.
 Please note, a license not on the SPDX License List can be included in an SPDX document by using a 'LicenseRef-' as the license name’s prefix and including the full license text as per the specification. 
 
