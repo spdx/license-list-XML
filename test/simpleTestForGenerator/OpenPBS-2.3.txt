@@ -75,7 +75,3 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 This license will be governed by the laws of the Commonwealth of Virginia,
 without reference to its choice of law rules.
 
-Addendum
-To obtain complete source code for OpenPBS and modifications/additions
-provided in torque visit www.openpbs.org and/or
-www.supercluster.org/downloads.
