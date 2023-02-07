@@ -18,8 +18,6 @@ regarding what is eligible for inclusion on the SPDX License List
 provide parameters as to what constitutes a match to a license or exception on the SPDX License List
 * an [explanation of the fields](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-fields.md) 
 used in the SPDX License List
-* [license expression syntax](LINK) 
-enable expressing composite licensing scenarios, such as when more than one license applies, there is a choice of license, or an exception or additional terms apply to the license
 
 The authoritative files for the SPDX License List are stored in XML source files 
 in a [Github repo](https://github.com/spdx/license-list-XML). These files are 
