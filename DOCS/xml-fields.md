@@ -170,7 +170,7 @@ The **<alt>** tag includes two attributes:
 
 Note that an example of actually-matching text should be included between the `<alt>` and `</alt>` tags, as the specified example is what will be rendered on the SPDX License List website page and in license text files provided by SPDX. To the extent a license has a "canonical" or "most commonly used" standard language, use that in the match between the `alt` tags.
 
-Learning regular expressions is outside the scope of this document. However, here are a few of the most common patterns, taken from [BSD-3-Clause](https://github.com/spdx/license-list-XML/blob/main/src/BSD-3-Clause.xml) which is a good example of using several `<alt>` tags effectively:
+Learning regular expressions is outside the scope of this document. However, here are a few of the most common patterns, taken from [BSD-3-Clause](../src/BSD-3-Clause.xml) which is a good example of using several `<alt>` tags effectively:
 * `<alt match="are|is" name="tobe">are</alt>`: Matches if the text is either the word "are" or the word "is"
 * `<alt match="EXPRESS(ED)?" name="express">EXPRESS</alt>`: Matches if the text is either the word "EXPRESS" or the word "EXPRESSED"
 * `<alt match=".+" name="copyrightHolderAsIs">THE COPYRIGHT HOLDERS AND CONTRIBUTORS</alt>`: Matches anything as long as it consists of at least one or more characters
@@ -179,4 +179,4 @@ Learning regular expressions is outside the scope of this document. However, her
 
 "Smart quotes" (the curly quotation mark characters) are a pain. Only "non-smart" quotes should be included in templates. In particular, if you are copying from a Word document, there's a good chance it will paste smart quotes, so check carefully.
 
-Some characters (such as `<` and `>`, or double-quotes within an already-quoted attribute string) cannot be included as-is in license templates, because they will be interpreted as having a different meaning in XML. These would need to be replaced with special character codes. Again, [BSD-3-Clause](https://github.com/spdx/license-list-XML/blob/main/src/BSD-3-Clause.xml) is a good example of a couple of these.
+Some characters (such as `<` and `>`, or double-quotes within an already-quoted attribute string) cannot be included as-is in license templates, because they will be interpreted as having a different meaning in XML. These would need to be replaced with special character codes. Again, [BSD-3-Clause](../src/BSD-3-Clause.xml) is a good example of a couple of these.

@@ -13,7 +13,7 @@ Please note, a license not on the SPDX License List can be included in an SPDX d
 
 ## When 
 * SPDX License List releases are done on a quarterly basis (more or less) at the end of January, April, July, and October. We schedule our License List releases one month behind the usual quarterly calendar cadence to accommodate the reality that many people contributing have other commitments at quarter-end.
-* See https://github.com/spdx/license-list-XML/blob/master/RELEASE-NOTES.md for a summary of each release
+* See [RELEASE-NOTES.md](RELEASE-NOTES.md) for a summary of each release
 * All PRs to be included as part of release must be merged 1 week prior to release date to allow time for actual release work
 * Any new issues raised within the month of the next release will likely be tagged for the following release, unless it is an easy-to-resolve issue
 
@@ -26,7 +26,7 @@ We welcome participants and contributions! The SPDX License List is maintained b
 * **calls**: We use conference calls to make decisions on topics and issues that may be difficult to discuss only via email or GitHub. These calls are on the second and fourth Thursday of each month at 12:00 US Eastern Time. Information, including a link to join online, is sent prior to the calls to the SPDX Legal Team mailing list. Meeting minutes for the calls are in the [SPDX meetings repo](https://github.com/spdx/meetings/tree/master/legal); minutes from meetings before March 2020 can be found at http://wiki.spdx.org/
 * **this GitHub repo**: We use this repository for comments, issues and pull requests related to specific changes to the files that comprise the SPDX License List. This includes new licenses, updates to an existing license, improvements to documentation and other changes.
 
-Please see [DOCS](https://github.com/spdx/license-list-XML/blob/master/DOCS) and [CONTRIBUTING.md](https://github.com/spdx/license-list-XML/blob/master/CONTRIBUTING.md) for more information. We also have an [FAQ](https://github.com/spdx/license-list-XML/blob/main/DOCS/faq.md) that you may find helpful!
+Please see [DOCS](DOCS) and [CONTRIBUTING.md](CONTRIBUTING.md) for more information. We also have an [FAQ](DOCS/faq.md) that you may find helpful!
 
 # Consuming License Data from this Repository
 Output files in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data) are generated from the XML source in this repository.  These output files are stable and well-supported, and make the License List available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://github.com/spdx/tools) (or create your own) to consume the supported formats of the license list.

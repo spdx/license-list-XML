@@ -12,11 +12,11 @@ standardized short identifier, the full name, the license text, and a
 canonical permanent URL for each license and exception.
 
 It is more than just a list, though. The SPDX License List incorporates
-* [license inclusion principles](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-inclusion-principles.md) 
+* [license inclusion principles](license-inclusion-principles.md)
 regarding what is eligible for inclusion on the SPDX License List
 * [matching guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/) 
 provide parameters as to what constitutes a match to a license or exception on the SPDX License List
-* an [explanation of the fields](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-fields.md) 
+* an [explanation of the fields](license-fields.md)
 used in the SPDX License List
 * [license expression syntax](LINK) 
 enable expressing composite licensing scenarios, such as when more than one license applies, there is a choice of license, or an exception or additional terms apply to the license
@@ -73,7 +73,7 @@ The license text on the HTML pages implement some easy-to-view aspects of the [m
 
 # What is the criteria for inclusion on the SPDX License List?
 
-The [license inclusion principles](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-inclusion-principles.md) include a list of factors, some of which are more important than others. You should read the guidelines in full, but some of the key factors include: use of the license on significant projects: the license free and open, or if not, does it make the source code available; the license text is understandable and stable (i.e., it is not in the midst of drafting). For more information on how inclusion guidelines for the SPDX License List have evolved over time, see https://github.com/spdx/license-list-XML/blob/main/DOCS/license-inclusion-principles.md#historical-background.
+The [license inclusion principles](license-inclusion-principles.md) include a list of factors, some of which are more important than others. You should read the guidelines in full, but some of the key factors include: use of the license on significant projects: the license free and open, or if not, does it make the source code available; the license text is understandable and stable (i.e., it is not in the midst of drafting). For more information on how inclusion guidelines for the SPDX License List have evolved over time, see [DOCS/license-inclusion-principles.md#historical-background](license-inclusion-principles.md#historical-background).
 
 
 ## Who decides what is included on the SPDX License list?
@@ -91,7 +91,7 @@ A license identifier is "deprecated" when there is an updated license identifier
 # How do I request adding a license to the SPDX License List?
 
 Follow the instructions here:
-https://github.com/spdx/license-list-XML/blob/main/DOCS/request-new-license.md
+[DOCS/request-new-license.md](request-new-license.md)
 
 
 ## How does one handle licenses not found in the SPDX License List?
