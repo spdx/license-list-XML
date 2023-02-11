@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="CFITSIO"
-   name="CFITSIO License" listVersionAdded="">
+   name="CFITSIO License" listVersionAdded="3.20">
       <crossRefs>
          <crossRef>https://heasarc.gsfc.nasa.gov/docs/software/fitsio/c/f_user/node9.html</crossRef>
       </crossRefs>
