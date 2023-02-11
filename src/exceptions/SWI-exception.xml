@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <exception>
+   <exception licenseId="SWI-exception" name="SWI exception" listVersionAdded="3.20">
    <crossRefs>
       <crossRef>https://github.com/SWI-Prolog/packages-clpqr/blob/bfa80b9270274f0800120d5b8e6fef42ac2dc6a5/clpqr/class.pl</crossRef>
    </crossRefs>
