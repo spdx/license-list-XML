@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="QPL-1.0-INRIA-2004-exception"
+   <exception isOsiApproved="false" licenseId="QPL-1.0-INRIA-2004-exception"
    name="INRIA QPL 1.0 2004 variant exception" listVersionAdded="">
       <crossRefs>
          <crossRef>https://git.frama-c.com/pub/frama-c/-/blob/master/licenses/Q_MODIFIED_LICENSE</crossRef>
@@ -18,5 +18,5 @@
             additional requirements listed in clause 6c of the Q Public license.
          </p>
       </text>
-   </license>
+   </exception>
 </SPDXLicenseCollection>
