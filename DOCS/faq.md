@@ -11,15 +11,10 @@ hardware, or documentation. The SPDX License List includes a
 standardized short identifier, the full name, the license text, and a
 canonical permanent URL for each license and exception.
 
-It is more than just a list, though. The SPDX License List incorporates
-* [license inclusion principles](license-inclusion-principles.md)
-regarding what is eligible for inclusion on the SPDX License List
-* [matching guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/) 
-provide parameters as to what constitutes a match to a license or exception on the SPDX License List
-* an [explanation of the fields](license-fields.md)
-used in the SPDX License List
-* [license expression syntax](LINK) 
-enable expressing composite licensing scenarios, such as when more than one license applies, there is a choice of license, or an exception or additional terms apply to the license
+It is more than just a list, though. Don’t just gloss over what’s written before
+[each](https://spdx.org/licenses/#preamble) [section](https://spdx.org/licenses/#deprecated)
+of the list. That information will help you use and contribute to the SPDX
+License List.
 
 The authoritative files for the SPDX License List are stored in XML source files 
 in a [Github repo](https://github.com/spdx/license-list-XML). These files are 
