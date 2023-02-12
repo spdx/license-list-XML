@@ -4,9 +4,10 @@ Unless otherwise noted, images and video on JPL public web sites (public sites e
 
 By electing to download the material from this web site the user agrees:
 
-that Caltech makes no representations or warranties with respect to ownership of copyrights in the images, and does not represent others who may claim to be authors or owners of copyright of any of the images, and makes no warranties as to the quality of the images. Caltech shall not be responsible for any loss or expenses resulting from the use of the images, and you release and hold Caltech harmless from all liability arising from such use.
-to use a credit line in connection with images. Unless otherwise noted in the caption information for an image, the credit line should be "Courtesy NASA/JPL-Caltech."
-that the endorsement of any product or service by Caltech, JPL or NASA must not be claimed or implied.
+1. that Caltech makes no representations or warranties with respect to ownership of copyrights in the images, and does not represent others who may claim to be authors or owners of copyright of any of the images, and makes no warranties as to the quality of the images. Caltech shall not be responsible for any loss or expenses resulting from the use of the images, and you release and hold Caltech harmless from all liability arising from such use.
+2. to use a credit line in connection with images. Unless otherwise noted in the caption information for an image, the credit line should be "Courtesy NASA/JPL-Caltech."
+3. that the endorsement of any product or service by Caltech, JPL or NASA must not be claimed or implied.
+
 Special Cases:
 
 * Prior written approval must be obtained to use the NASA insignia logo (the blue "meatball" insignia), the NASA logotype (the red "worm" logo) and the NASA seal. These images may not be used by persons who are not NASA employees or on products (including Web pages) that are not NASA sponsored. In addition, no image may be used to explicitly or implicitly suggest endorsement by NASA, JPL or Caltech of commercial goods or services. Requests to use NASA logos may be directed to Bert Ulrich, Public Services Division, NASA Headquarters, Code POS, Washington, DC 20546, telephone (202) 358-1713, fax (202) 358-4331, email bert.ulrich@hq.nasa.gov.
