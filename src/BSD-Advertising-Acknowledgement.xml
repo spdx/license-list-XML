@@ -50,11 +50,11 @@
          </list>
          <p>
             THIS SOFTWARE IS PROVIDED BY<alt
-            name="nameDislaimer" match=".+">DAVID GIFFIN</alt>
+            name="nameDisclaimer" match=".+">DAVID GIFFIN</alt>
             ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING,
             BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
             AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
-            SHALL<alt name="nameDislaimer2" match=".+">DAVID GIFFIN</alt>
+            SHALL<alt name="nameDisclaimer2" match=".+">DAVID GIFFIN</alt>
             OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
             INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
             (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
