@@ -1,7 +1,6 @@
 Tip: use the table of contents icon in the upper left hand corner of this window to see a list of FAQs
 
-The SPDX License List
-=====================
+# The SPDX License List
 
 ## What is the SPDX License List?
 The SPDX License List is an integral part of the SPDX Specification. The
