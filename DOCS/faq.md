@@ -6,18 +6,16 @@ Tip: use the table of contents icon in the upper left hand corner of this window
 The SPDX License List is an integral part of the SPDX Specification. The
 SPDX License List itself is a list of commonly found licenses and
 exceptions used in free and open or collaborative software, data,
-hardware, or documentation. The SPDX License List includes a
-standardized short identifier, the full name, the license text, and a
+hardware, or documentation. The SPDX License List includes [various fields](license-fields.md), notably:
+a standardized short identifier, the full name, the license text, and a
 canonical permanent URL for each license and exception.
 
-It is more than just a list, though. The SPDX License List incorporates
+It is more than just a list, though. The SPDX License List relies on:
 * [license inclusion principles](license-inclusion-principles.md)
 regarding what is eligible for inclusion on the SPDX License List
 * [matching guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/) 
 provide parameters as to what constitutes a match to a license or exception on the SPDX License List
-* an [explanation of the fields](license-fields.md)
-used in the SPDX License List
-* [license expression syntax](LINK) 
+* [license expression syntax](https://spdx.github.io/spdx-spec/v2.3/SPDX-license-expressions/)
 enable expressing composite licensing scenarios, such as when more than one license applies, there is a choice of license, or an exception or additional terms apply to the license
 
 The authoritative files for the SPDX License List are stored in XML source files 
@@ -45,7 +43,7 @@ the SPDX
 Specification](https://spdx.github.io/spdx-spec/v2.3/using-SPDX-short-identifiers-in-source-files/).
 
 ### What is an “exception”?
-An “exception” on the SPDX License List is text that is not a stand-alone license, but grants an exception to a license condition or additional permissions beyond those granted in the license is modifies.
+An “exception” on the SPDX License List is text that is not a stand-alone license, but grants an exception to a license condition or additional permissions beyond those granted in the license it modifies.
 
 ### Why are exceptions listed separately?
 In 2015, SPDX 2.0 introduced the concept of license expressions and moved the license
@@ -65,7 +63,7 @@ reliable way.
 ### Does the license text need to be the same to use an SPDX short identifier?
 There are some non-substantive variations formally allowed, unique to each license. For example, capitalization, white space, and use of different bullets or numbering would not be considered a different license. Another example is if the license text includes the name of the author or a generic "author", this is not considered a legally substantive difference to the license terms themselves, and can be considered the same license. Such text is denoted with special tags in the XML file and denoted by red text on the webpages.  
  
-See the [matching guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/) for details.
+See the [matching guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/) for details or the [XML file](https://github.com/spdx/license-list-XML/tree/main/src) for the specific license for particular details.
 
 ### What does the blue text and red text mean in the license list entry?
 The license text on the HTML pages implement some easy-to-view aspects of the [matching guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/) by displaying omitable text in blue and replaceable text in red.
@@ -76,7 +74,7 @@ The [license inclusion principles](license-inclusion-principles.md) include a li
 
 
 ### Who decides what is included on the SPDX License list?
-The SPDX contributors who participate in the project as part of the SPDX-legal team apply a set of license inclusion guidelines when determining whether a license may be included in the SPDX License List. Anyone can weigh in as to whether they think a license or exception should be included, but factors that are not relevant to the license inclusion guidelines will not be persuasive.  
+The SPDX contributors who participate in the project as part of the SPDX-legal team apply the [license inclusion guidelines](license-inclusion-principles.md) when determining whether a license may be included in the SPDX License List. Anyone can weigh in as to whether they think a license or exception should be included, but factors that are not relevant to the license inclusion guidelines will not be persuasive.  
 
 ### Who is SPDX-legal?
 
