@@ -42,6 +42,6 @@ If accepted, two files will be need to be prepared for each license or exception
 
 4. The new license/exception will be officially added and appear on the SPDX License List website for the next release of the SPDX License List.
 
-NOTE: Once a license has been accepted and to be added to the SPDX License List and the associated files merged, it is fine to start using the SPDX identifier, even if the official release has not yet occurred. 
+NOTE: As per the [SPDX License List Release Process](release-process.md), when a new license or exception is accepted to add to the SPDX License List and its corresponding PR is merged, the text and ID will not immediately appear on the SPDX License List website until a release. In the interim, the new license will appear on the license list preview site at https://spdx.github.io/license-list-data/. 
 
 
