@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <exception>
+   <exception licenseId="Autoconf-exception-generic" name="Autoconf generic exception" listVersionAdded="3.20">
    <crossRefs>
       <crossRef>https://launchpad.net/ubuntu/precise/+source/xmltooling/+copyright</crossRef>
       <crossRef>https://tracker.debian.org/media/packages/s/sipwitch/copyright-1.9.15-3</crossRef>
