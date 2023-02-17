@@ -1,5 +1,66 @@
 # Release Notes for SPDX License List
 
+## version 3.20 - 2023-02-17
+
+New licenses/exceptions added: 40
+
+1.  AdaCore-doc
+2.  Autoconf-exception-generic
+3.  BSD-4.3RENO
+4.  BSD-4.3TAHOE
+5.  BSD-Advertising-Acknowledgement
+6.  BSD-Attribution-HPND-disclaimer
+7.  Bitstream-Charter
+8.  Brian-Gladman-3-Clause
+9.  CC-BY-NC-SA-2.0-DE
+10. CFITSIO
+11. CMU-Mach
+12. Clips
+13. Cornell-Lossless-JPEG
+14. GNAT-exception
+15. Graphics-Gems
+16. HP-1986
+17. HPND-Markus-Kuhn
+18. HPND-export-US
+19. HPND-sell-variant-MIT-disclaimer
+20. IEC-Code-Components-EULA
+21. IJG-short
+22. JPL-image
+23. Kazlib
+24. LOOP
+25. MIT-Wu
+26. Martin-Birgmeier
+27. OFFIS
+28. OpenPBS-2.3
+29. QPL-1.0-INRIA-2004
+30. QPL-1.0-INRIA-2004-exception
+31. snprintf
+32. SunPro
+33. SWI-exception
+34. Symlinks
+35. TPDL
+36. TPL-1.0
+37. TTWL
+38. UCAR
+39. w3m
+40. xlock
+
+Added historical timeline for the license list.
+
+Recorded and made available links to videos showing two different processes for creating license XML files, and improved related process documentation.
+
+Added and improved markup for many licenses and many minor improvements to other documentation.
+
+Adjusted ListedLicense XSD schema to remove directly-nested lists that had resulted in invalid HTML, and made corresponding fixes to XML for many licenses.
+
+Fixed broken validate-schema CI check and simplified test-one-license script.
+
+Updated to latest version of the License List Publisher.
+
+See all PRs for 3.20 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.20%22+is%3Aclosed
+
+See comparision of changes from 3.19 to 3.20: https://github.com/spdx/license-list-XML/compare/v3.19...v3.20
+
 ## version 3.19 - 2022-11-30
 
 New licenses/exceptions added: 5
