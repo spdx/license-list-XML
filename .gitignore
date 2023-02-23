@@ -6,6 +6,8 @@
 !/.editorconfig
 !/.gitattributes
 !/.gitignore
+!/.travis.yml
+!/.github
 
 /resources
 /licenseListPublisher-*.jar*
