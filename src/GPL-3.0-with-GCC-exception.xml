@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="true" licenseId="GPL-3.0-with-GCC-exception" isDeprecated="true" deprecatedVersion="2.0rc2"
+   <license isOsiApproved="true" licenseId="GPL-3.0-with-GCC-exception" deprecatedVersion="2.0rc2"
             name="GNU General Public License v3.0 w/GCC Runtime Library exception">
       <obsoletedBys>
          <obsoletedBy>GPL-3.0 WITH GCC-exception-3.1</obsoletedBy>

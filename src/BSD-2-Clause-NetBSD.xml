@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="BSD-2-Clause-NetBSD"
             name="BSD 2-Clause NetBSD License"
-            isDeprecated="true" deprecatedVersion="3.9">
+            deprecatedVersion="3.9">
       <obsoletedBys>
         <obsoletedBy>BSD-2-Clause</obsoletedBy>
       </obsoletedBys>
