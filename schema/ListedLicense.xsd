@@ -48,7 +48,6 @@
 			<element name="text" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
 		</all>
 		<attribute name="licenseId" type="string" use="required" />
-		<attribute name="isDeprecated" type="boolean"/>
 		<attribute name="name" type="string" use="required" />
 		<attribute name="listVersionAdded" type="string"/>
 		<attribute name="deprecatedVersion" type="string"/>
@@ -106,15 +105,6 @@
 				<documentation xml:lang="en">
 					<xhtml:p>
 						<xhtml:code>isOsiApproved</xhtml:code> is true if and only if the license is approved by Open Source Initiative as listed <xhtml:a href="https://opensource.org/licenses">here</xhtml:a>.
-					</xhtml:p>
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="isDeprecated" type="boolean">
-			<annotation>
-				<documentation xml:lang="en">
-					<xhtml:p>
-						<xhtml:code>isDeprecated</xhtml:code> is true if and only if the short identifier has been superseded by another.  See the <xhtml:code>deprecatedVersion</xhtml:code> documentation for more details.
 					</xhtml:p>
 				</documentation>
 			</annotation>
