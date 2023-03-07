@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isDeprecated="true" deprecatedVersion="2.0rc2" licenseId="GPL-3.0-with-autoconf-exception"
+   <license deprecatedVersion="2.0rc2" licenseId="GPL-3.0-with-autoconf-exception"
             name="GNU General Public License v3.0 w/Autoconf exception">
       <obsoletedBys>
          <obsoletedBy>GPL-3.0 WITH Autoconf-exception-3.0</obsoletedBy>
