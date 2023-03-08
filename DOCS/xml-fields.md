@@ -54,7 +54,7 @@ There are two additional attributes which are optional, but highly encouraged:
 - `listVersionAdded`: in which release version of the SPDX License List was the license first added, e.g. "3.19".
   - Typically you'll check the currently-released version at https://spdx.org/licenses/ and increment the minor version by 1 for a new license.
 
-Finally, if the license ID has been deprecated, two additional attributes should be included:
+Finally, if the license ID has been deprecated, one additional attribute should be included:
 
 - `deprecatedVersion`: in which release version of the SPDX License List was the license first marked as deprecated, e.g. "3.19"
 
