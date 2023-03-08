@@ -5,9 +5,9 @@
          <crossRef>https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License</crossRef>
       </crossRefs>
     <text>
-      <titleText>
+      <copyrightText>
          <p>Copyright 1992, 1993, 1994 Henry Spencer. All rights reserved.</p>
-      </titleText>
+      </copyrightText>
 
       <p>This software is not subject to any license of the American Telephone and Telegraph Company or of the
          Regents of the University of California.
