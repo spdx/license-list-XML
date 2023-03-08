@@ -52,8 +52,7 @@ There are two additional attributes which are optional, but highly encouraged:
 * `listVersionAdded`: in which release version of the SPDX License List was the license first added, e.g. "3.19".
   * Typically you'll check the currently-released version at https://spdx.org/licenses/ and increment the minor version by 1 for a new license.
 
-Finally, if the license ID has been deprecated, two additional attributes should be included:
-* `isDeprecated`: should be "true" if the license ID is deprecated
+Finally, if the license ID has been deprecated, one additional attribute should be included:
 * `deprecatedVersion`: in which release version of the SPDX License List was the license first marked as deprecated, e.g. "3.19"
 
 Note that the deprecated tags refer to whether the ID has been deprecated _by SPDX_ -- in other words, if the SPDX Legal Team no longer recommends that the identifier should be used. Licenses that have been described as "deprecated" or "superseded" by the _license author_ might no longer be recommended to use for new code, but their identifiers remain valid License IDs on the SPDX License List.
