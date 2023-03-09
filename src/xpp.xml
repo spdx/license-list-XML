@@ -37,14 +37,16 @@
         </item>
         <item>
             <bullet>4)</bullet>
-          The name "Indiana Univeristy" and "Indiana Univeristy Extreme! Lab" shall not be used to endorse
-             or promote products derived from this software without prior written permission from Indiana
+           The name &quot;Indiana <alt match="Univeristy|University" name="uni1">Univeristy</alt>&quot; <alt match="and|or" name="and">and</alt> &quot;Indiana <alt match="Univeristy|University" name="uni2">Univeristy</alt> Extreme! Lab&quot; 
+           shall not be used to endorse or promote products derived from this software without prior written permission from Indiana
              University. For written permission, please contact http://www.extreme.indiana.edu/.
         </item>
         <item>
             <bullet>5)</bullet>
-          Products derived from this software may not use "Indiana Univeristy" name nor may "Indiana
-             Univeristy" appear in their name, without prior written permission of the Indiana University.
+          Products derived from this software may not use &quot;Indiana <alt match="Univeristy|University" name="uni3">Univeristy</alt>&quot; 
+          name nor may &quot;Indiana
+          <alt match="Univeristy|University" name="uni4">Univeristy</alt>&quot; appear in their name, 
+          without prior written permission of the Indiana University.
              Indiana University provides no reassurances that the source code provided does not infringe
              the patent or any other intellectual property rights of any other entity. Indiana University
              disclaims any liability to any recipient for claims brought by any other entity based on

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isDeprecated="true" deprecatedVersion="2.0rc2" licenseId="GPL-2.0-with-classpath-exception"
+   <license deprecatedVersion="2.0rc2" licenseId="GPL-2.0-with-classpath-exception"
             name="GNU General Public License v2.0 w/Classpath exception">
       <obsoletedBys>
          <obsoletedBy>GPL-2.0 WITH Classpath-exception-2.0</obsoletedBy>
@@ -9,7 +9,7 @@
       <crossRefs>
          <crossRef>https://www.gnu.org/software/classpath/license.html</crossRef>
       </crossRefs>
-
+      <notes>DEPRECATED: Use license expression including main license, "WITH" operator, and identifier: Classpath-exception-2.0</notes>
     <text>
 	     <p>insert GPL v2 license text here</p>
 	     <p>Class Path Exception</p>

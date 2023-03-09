@@ -3,6 +3,7 @@
    <license isOsiApproved="true" licenseId="Artistic-2.0" name="Artistic License 2.0">
       <crossRefs>
          <crossRef>http://www.perlfoundation.org/artistic_license_2_0</crossRef>
+         <crossRef>https://www.perlfoundation.org/artistic-license-20.html</crossRef>
          <crossRef>https://opensource.org/licenses/artistic-license-2.0</crossRef>
       </crossRefs>
       <notes>This license was released: 2006</notes>
@@ -107,7 +108,7 @@
              how it differs from the Standard Version, including, but not limited to, documenting any
              non-standard features, executables, or modules, and provided that you do at least ONE of the
              following:
-          <list>
+	  <list>
                <item>
                   <bullet>(a)</bullet>
               make the Modified Version available to the Copyright Holder of the Standard Version, under
@@ -125,7 +126,8 @@
               allow anyone who receives a copy of the Modified Version to make the Source form of the
                  Modified Version available to others under
             </item>
-               <list>
+	       <item>
+	       <list>
                   <item>
                      <bullet>(i)</bullet>
                 the Original License or
@@ -139,8 +141,9 @@
                    Distributor Fees are allowed.
               </item>
                </list>
+       	       </item>
           </list>
-        </item>
+  	</item>
       </list>
 
       <p>Distribution of Compiled Forms of the Standard Version or Modified Versions without the Source</p>

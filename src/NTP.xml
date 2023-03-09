@@ -19,7 +19,7 @@
          the name
         <alt match=".+" name="TMname">(TrademarkedName)</alt> not be used in advertising or publicity pertaining
         to distribution of the software without specific, written prior permission.
-        <alt match=".+" name="TMname">(TrademarkedName)</alt> makes no representations about the suitability
+	<alt match=".+" name="TMname">(TrademarkedName)</alt> makes no representations about the suitability <optional>of</optional>
         this software for any purpose. It is provided "as is" without express or implied warranty.
       </p>
     </text>

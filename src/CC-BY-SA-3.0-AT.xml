@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-    <license isOsiApproved="false" licenseId="CC-BY-SA-3.0-AT" name="Creative Commons Attribution-Share Alike 3.0 Austria" listVersionAdded="3.10">
+    <license isOsiApproved="false" licenseId="CC-BY-SA-3.0-AT" name="Creative Commons Attribution Share Alike 3.0 Austria" listVersionAdded="3.10">
         <crossRefs>
             <crossRef>https://creativecommons.org/licenses/by-sa/3.0/at/legalcode</crossRef>
         </crossRefs>

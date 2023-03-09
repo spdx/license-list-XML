@@ -9,10 +9,10 @@
     <notes>
       This license was released: 29 June 2007. This license identifier refers to the
       choice to use code under GPL-3.0-or-later (i.e., GPL-3.0 or some later version),
-      as distinguished from use of code under GPL-3.0-only. The license notice (as seen
-      in the Standard License Header field below)  states which of these applies
-      the code in the file. The example in the exhibit to the license shows the license
-      notice for the "or later" approach.
+      as distinguished from the use of code under GPL-3.0-only. The license notice (as seen
+      in the Standard License Header field below) states which of these applies to
+      the code in the file. The example in the How to Apply These Terms appendix of the 
+      license shows the "or later" approach.
     </notes>
     <text>
     <titleText>
@@ -23,7 +23,7 @@
     </titleText>
     <p>
       Copyright © 2007 Free Software Foundation, Inc.
-      &lt;http<optional spacing="none">s</optional>://fsf.org/&gt;
+      &lt;https://fsf.org/&gt;
     </p>
     <p>
       Everyone is permitted to copy and distribute verbatim copies
@@ -797,7 +797,7 @@
       <p>
         You should have received a copy of the GNU General
 	Public License along with this program. If not, see
-	&lt;http<optional spacing="none">s</optional>://www.gnu.org/licenses/&gt;.
+	&lt;https://www.gnu.org/licenses/&gt;.
       </p>
       </standardLicenseHeader>
       <p>
@@ -826,7 +826,7 @@
         programmer) or school, if any, to sign a “copyright disclaimer”
         for the program, if necessary. For more information on
 	this, and how to apply and follow the GNU GPL, see
-	&lt;http<optional spacing="none">s</optional>://www.gnu.org/licenses/&gt;.
+	&lt;https://www.gnu.org/licenses/&gt;.
       </p>
       <p>
         The GNU General Public License does not permit incorporating
@@ -835,7 +835,7 @@
         linking proprietary applications with the library. If this
         is what you want to do, use the GNU Lesser General Public
 	License instead of this License. But first, please read
-	&lt;http<optional spacing="none">s</optional>://www.gnu.org/<alt match="philosophy|licenses" name="philicenses">licenses</alt>/why-not-lgpl.html&gt;.
+	&lt;https:<alt match="//www.gnu.org/philosophy/why-not-lgpl\.html&gt;\.|//www.gnu.org/licenses/why-not-lgpl\.html&gt;\." name="philicenses">//www.gnu.org/licenses/why-not-lgpl.html&gt;.</alt>
       </p>
     </optional>
     </text>

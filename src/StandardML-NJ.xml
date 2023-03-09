@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="StandardML-NJ" isDeprecated="true" deprecatedVersion="2.0rc2"
+   <license isOsiApproved="false" licenseId="StandardML-NJ" deprecatedVersion="2.0rc2"
             name="Standard ML of New Jersey License">
       <obsoletedBys>
          <obsoletedBy>SMLNJ</obsoletedBy>
       </obsoletedBys>
       <crossRefs>
-         <crossRef>http://www.smlnj.org//license.html</crossRef>
+         <crossRef>https://www.smlnj.org/license.html</crossRef>
       </crossRefs>
+       <notes>DEPRECATED: Duplicate license, use identifier: SMLNJ</notes>
     <text>
       <titleText>
          <p>STANDARD ML OF NEW JERSEY COPYRIGHT NOTICE, LICENSE AND DISCLAIMER.</p>

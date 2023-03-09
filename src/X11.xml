@@ -22,13 +22,13 @@
          portions of the Software.</p>
       <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
          LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
-         NO EVENT SHALL THE X CONSORTIUM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+         NO EVENT SHALL <alt match=".+" name="nameDisclaimer">THE X CONSORTIUM</alt> BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
          ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
          USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
-      <p>Except as contained in this notice, the name of the X Consortium shall not be used in advertising or
+      <p>Except as contained in this notice, the name of <alt match=".+" name="name2Disclaimer">the X Consortium</alt> shall not be used in advertising or
          otherwise to promote the sale, use or other dealings in this Software without prior written
-         authorization from the X Consortium.</p>
-      <p>X Window System is a trademark of X Consortium, Inc.</p>
+	      authorization from <alt match=".+" name="name3Disclaimer">the X Consortium.</alt></p>
+      <optional><p>X Window System is a trademark of X Consortium, Inc.</p></optional>
     </text>
   </license>
 </SPDXLicenseCollection>

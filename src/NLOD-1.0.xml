@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="NLOD-1.0"
-            name="Norwegian Licence for Open Government Data">
+            name="Norwegian Licence for Open Government Data (NLOD) 1.0">
       <crossRefs>
          <crossRef>http://data.norge.no/nlod/en/1.0</crossRef>
       </crossRefs>
@@ -9,7 +9,7 @@
          http://data.norge.no/nlod/no/1.0</notes>
     <text>
       <titleText>
-         <p>Norwegian Licence for Open Government Data (NLOD)</p>
+         <p>Norwegian Licence for Open Government Data (NLOD) 1.0</p>
       </titleText>
           <p>Preface of licence</p>
       <p>This licence grants you the right to copy, use and distribute

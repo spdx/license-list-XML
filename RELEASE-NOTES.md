@@ -1,5 +1,260 @@
 # Release Notes for SPDX License List
 
+## version 3.20 - 2023-02-17
+
+New licenses/exceptions added: 40
+
+1.  AdaCore-doc
+2.  Autoconf-exception-generic
+3.  BSD-4.3RENO
+4.  BSD-4.3TAHOE
+5.  BSD-Advertising-Acknowledgement
+6.  BSD-Attribution-HPND-disclaimer
+7.  Bitstream-Charter
+8.  Brian-Gladman-3-Clause
+9.  CC-BY-NC-SA-2.0-DE
+10. CFITSIO
+11. CMU-Mach
+12. Clips
+13. Cornell-Lossless-JPEG
+14. GNAT-exception
+15. Graphics-Gems
+16. HP-1986
+17. HPND-Markus-Kuhn
+18. HPND-export-US
+19. HPND-sell-variant-MIT-disclaimer
+20. IEC-Code-Components-EULA
+21. IJG-short
+22. JPL-image
+23. Kazlib
+24. LOOP
+25. MIT-Wu
+26. Martin-Birgmeier
+27. OFFIS
+28. OpenPBS-2.3
+29. QPL-1.0-INRIA-2004
+30. QPL-1.0-INRIA-2004-exception
+31. snprintf
+32. SunPro
+33. SWI-exception
+34. Symlinks
+35. TPDL
+36. TPL-1.0
+37. TTWL
+38. UCAR
+39. w3m
+40. xlock
+
+Added historical timeline for the license list.
+
+Recorded and made available links to videos showing two different processes for creating license XML files, and improved related process documentation.
+
+Added and improved markup for many licenses and many minor improvements to other documentation.
+
+Adjusted ListedLicense XSD schema to remove directly-nested lists that had resulted in invalid HTML, and made corresponding fixes to XML for many licenses.
+
+Fixed broken validate-schema CI check and simplified test-one-license script.
+
+Updated to latest version of the License List Publisher.
+
+See all PRs for 3.20 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.20%22+is%3Aclosed
+
+See comparision of changes from 3.19 to 3.20: https://github.com/spdx/license-list-XML/compare/v3.19...v3.20
+
+## version 3.19 - 2022-11-30
+
+New licenses/exceptions added: 5
+
+1. checkmk
+2. FSFULLRWD
+3. Knuth-CTAN
+4. libutil-David-Nugent
+5. x11vnc-openssl-exception
+
+Many improvements to documentation, including new docs on XML template fields and license list release process, and a rework of the FAQs.
+
+Improvements to documentation and requested fields for online license request tool.
+
+Renamed `master` branch to `main` and made conforming edits.
+
+Cleanup of markup for many licenses and other minor changes.
+
+See all PRs for 3.19 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.19%22+is%3Aclosed
+
+See comparision of changes from 3.18 to 3.19: https://github.com/spdx/license-list-XML/compare/v3.18...v3.19
+
+## version 3.18 - 2022-08-11
+
+New licenses/exceptions added: 10
+
+1. CC-BY-3.0-IGO
+2. GStreamer-exception-2005
+3. GStreamer-exception-2008
+4. LZMA-SDK-9.11-to-9.20
+5. LZMA-SDK-9.22
+6. MS-LPL
+7. Minpack
+8. mpi-permissive
+9. NICTA-1.0
+10. Python-2.0.1
+
+Corrected designation of KiCad-libraries-exception (added in 3.17) as an exception rather than a license.
+
+Implemented license decision template for improved clarity on legal team decisions regarding license submission requests.
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+See all PRs for 3.18 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.18%22+is%3Aclosed
+
+See comparision of changes from 3.17 to 3.18: https://github.com/spdx/license-list-XML/compare/v3.17...v3.18
+
+## version 3.17 - 2022-05-08
+
+New licenses/exceptions added: 5
+
+1. Arphic-1999
+2. Baekmuk
+3. Bitstream-Vera
+4. KiCad-libraries-exception
+5. mplus
+
+For the LGPL-3.0 collection of licenses, added GPL-3.0 text as optional inclusion at end of license text.
+
+Migrated SPDX License List FAQs from SPDX website into license-list-XML repo in MarkDown format.
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+Updated to latest version of the License List Publisher.
+
+See all PRs for 3.17 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.17%22+is%3Aclosed
+
+See comparision of changes from 3.16 to 3.17: https://github.com/spdx/license-list-XML/compare/v3.16...v3.17
+
+## version 3.16 - 2022-02-06
+
+New licenses/exceptions added: 6
+
+1. App-s2p
+2. DL-DE-BY-2.0
+3. Elastic-2.0
+4. Jam
+5. SchemeReport
+6. X11-distribute-modifications-variant
+
+Deprecated licenses/exceptions: 1
+
+1. bzip2-1.0.5
+
+Added documentation describing how to use the Git command line to create and test new license XML files. See [DOCS/git-usage.md](DOCS/git-usage.md) for more information.
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+Updated to latest version of the License List Publisher.
+
+See all PRs for 3.16 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.16%22+is%3Aclosed
+
+See comparision of changes from 3.15 to 3.16: https://github.com/spdx/license-list-XML/compare/v3.15...v3.16
+
+## version 3.15 - 2021-11-14
+
+New licenses/exceptions added: 4
+
+1. COIL-1.0
+2. Community-Spec-1.0
+3. FDK-AAC
+4. Linux-man-pages-copyleft
+
+Note that "Linux-man-pages-copyleft" was initially merged as "Verbatim-man-pages", but at the community's request the ID was updated prior to inclusion in the release. See https://github.com/spdx/license-list-XML/issues/1310 for more details.
+
+Added template for reviews of new license requests, to evaluate against the license inclusion principles. See [DOCS/template-license-review-checklist.md](DOCS/template-license-review-checklist.md) for the review template.
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+Updated to latest version of the License List Publisher.
+
+See all PRs for 3.15 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.15%22+is%3Aclosed
+
+See comparision of changes from 3.14 to 3.15: https://github.com/spdx/license-list-XML/compare/v3.14...v3.15
+
+## version 3.14 - 2021-08-08
+
+New licenses/exceptions added: 13
+
+1. CC-BY-NC-SA-2.0-FR
+2. CC-BY-NC-SA-2.0-UK
+3. CC-BY-2.5-AU
+4. CC-BY-3.0-NL
+5. CC-BY-3.0-DE
+6. CC-BY-NC-3.0-DE
+7. CC-BY-NC-ND-3.0-DE
+8. CC-BY-NC-SA-3.0-DE
+9. CC-BY-ND-3.0-DE
+10. CC-BY-SA-3.0-DE
+11. CDLA-Permissive-2.0
+12. NLOD-2.0
+13. OPUBL-1.0
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+See all PRs for 3.14 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.14%22+is%3Aclosed
+
+See comparision of changes from 3.13 to 3.14: https://github.com/spdx/license-list-XML/compare/v3.13...v3.14
+
+## version 3.13 - 2021-05-15
+
+New licenses/exceptions added: 2
+
+1. BSD-3-Clause-No-Military-License
+2. CDL-1.0
+
+Updates to various documentation, adjustments to markup for various licenses and other minor changes.
+
+See all PRs for 3.13 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.13%22+is%3Aclosed
+
+See comparision of changes from 3.12 to 3.13: https://github.com/spdx/license-list-XML/compare/v3.12...v3.13
+
+## version 3.12 - 2021-03-07
+
+New licenses/exceptions added: 10
+
+1. BSD-3-Clause-Modification
+2. BSD-4-Clause-Shortened
+3. CC-BY-SA-2.1-JP
+4. C-UDA-1.0
+5. DRL-1.0
+6. FreeBSD-DOC
+7. GD
+8. MIT-Modern-Variant
+9. NAIST-2003
+10. OGDL-Taiwan-1.0
+
+The test / build / deploy CI system has been migrated from Travis to GitHub Actions.
+
+Updates to various documentation, cleanup of markup for various licenses and other minor changes.
+
+See all PRs for 3.12 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.12+release%22+is%3Aclosed
+
+See comparision of changes from 3.11 to 3.12: https://github.com/spdx/license-list-XML/compare/v3.11...v3.12
+
+## version 3.11 - 2020-11-25
+
+New licenses/exceptions added: 6
+
+1. ANTLR-PD-fallback
+1. BUSL-1.1
+1. CC-BY-3.0-US
+1. CC-BY-SA-2.0-UK
+1. HTMLTIDY
+1. MIT-open-group
+
+Update several licenses to note that they have become OSI-approved.
+
+Updates and cleanup of markup for various licenses and other minor changes.
+
+See all PRs for 3.11 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.11+release%22+is%3Aclosed
+
+See comparision of changes from 3.10 to 3.11: https://github.com/spdx/license-list-XML/compare/v3.10...v3.11
+
 ## version 3.10 - 2020-08-03
 
 New licenses/exceptions added: 20

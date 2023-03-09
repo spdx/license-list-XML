@@ -57,7 +57,8 @@
                  unmodified copy of this License with the Program:
 
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>(a)</bullet>
             You may copy and distribute literal (i.e., verbatim) copies of the Program's source code as
@@ -69,13 +70,15 @@
                throughout the world, in any medium.
           </item>
         </list>
-        <item>
+	</item>
+	<item>
             <bullet>2.</bullet>
           Restrictions.
             <br/>This license is subject to the following restrictions:
 
         </item>
-        <list>
+	<item>
+	<list>
             <item>
                <bullet>(a)</bullet>
             Distribution of the Program or any work based on the Program by a commercial organization to
@@ -86,7 +89,8 @@
                exhaustive enumeration of prohibited activities). The following methods of distribution
                involving payment shall not in and of themselves be a violation of this restriction:
           </item>
-            <list>
+	    <item>
+	    <list>
                <item>
                   <bullet>(i)</bullet>
               Posting the Program on a public access information storage and retrieval service for
@@ -111,7 +115,8 @@
                  enumeration.)
             </item>
             </list>
-            <item>
+	    </item>
+	    <item>
                <bullet>(b)</bullet>
             Activities other than copying, distribution and modification of the Program are not subject
                to this License and they are outside its scope. Functional use (running) of the Program is
@@ -125,7 +130,8 @@
                publish that in whole or in part contains or is derived from the Program or any part
                thereof ("the Work"):
           </item>
-            <list>
+	    <item>
+	    <list>
                <item>
                   <bullet>(i)</bullet>
               If you have modified the Program, you must cause the Work to carry prominent notices
@@ -183,8 +189,10 @@
                  parties are not compelled to copy the source code along with the object code.</p>
                </item>
             </list>
-        </list>
-        <item>
+	    </item>
+    	</list>
+	</item>
+	<item>
             <bullet>3.</bullet>
           Reservation of Rights.
             <br/>No rights are granted to the Program except as expressly set forth herein. You may not

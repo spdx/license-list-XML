@@ -7,8 +7,8 @@
       </crossRefs>
 
     <text>
-      <p>"THE BEER-WARE LICENSE" (Revision 42):
-      <br></br>&lt;phk@FreeBSD.ORG&gt; wrote this file. As long as you retain
+       <p>"THE BEER-WARE LICENSE" (Revision 42):</p>
+      <p><alt match="&lt;phk@FreeBSD.ORG&gt;|&lt;phk@login.dkuug.dk&gt;" name="email">&lt;phk@FreeBSD.ORG&gt;</alt> wrote this file. As long as you retain
          this notice you can do whatever you want with this stuff. If we meet some day, and you think this
          stuff is worth it, you can buy me a beer in return Poul-Henning Kamp</p>
     </text>

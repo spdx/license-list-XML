@@ -48,7 +48,6 @@
 			<element name="text" type="tns:formattedAltTextType" minOccurs="0" maxOccurs="1"/>
 		</all>
 		<attribute name="licenseId" type="string" use="required" />
-		<attribute name="isDeprecated" type="boolean"/>
 		<attribute name="name" type="string" use="required" />
 		<attribute name="listVersionAdded" type="string"/>
 		<attribute name="deprecatedVersion" type="string"/>
@@ -106,15 +105,6 @@
 				<documentation xml:lang="en">
 					<xhtml:p>
 						<xhtml:code>isOsiApproved</xhtml:code> is true if and only if the license is approved by Open Source Initiative as listed <xhtml:a href="https://opensource.org/licenses">here</xhtml:a>.
-					</xhtml:p>
-				</documentation>
-			</annotation>
-		</attribute>
-		<attribute name="isDeprecated" type="boolean">
-			<annotation>
-				<documentation xml:lang="en">
-					<xhtml:p>
-						<xhtml:code>isDeprecated</xhtml:code> is true if and only if the short identifier has been superseded by another.  See the <xhtml:code>deprecatedVersion</xhtml:code> documentation for more details.
 					</xhtml:p>
 				</documentation>
 			</annotation>
@@ -265,6 +255,15 @@
 				</documentation>
 			</annotation>
 		</attribute>
+		<attribute name="spacing" type="string" default="before">
+			<annotation>
+				<documentation xml:lang="en">
+					<xhtml:p>
+						<xhtml:code>spacing</xhtml:code> defines how spacing is handled around the alt text.  Since XML does not preserve white space, to render the text from the license XML we need to provide hints to the tools that translate the XML to text (or other formats).  Valid values are <xhtml:code>none</xhtml:code> for no spaces before or after the alt text; <xhtml:code>before</xhtml:code> (default) for a space before, but not after the alt text; <xhtml:code>after</xhtml:code> for a space after, but not before the alt text; <xhtml:code>both</xhtml:code>a space before and after the alt text.
+					</xhtml:p>
+				</documentation>
+			</annotation>
+		</attribute>
 	</complexType>
 	<complexType name="optionalType" mixed="true">
 		<annotation>
@@ -305,10 +304,9 @@
 				</xhtml:p>
 			</documentation>
 		</annotation>
-		<choice minOccurs="1" maxOccurs="unbounded">
-			<element name="item" type="tns:formattedAltTextType"/>
-			<element name="list" type="tns:listType"/>
-		</choice>
+		<sequence>
+			<element name="item" type="tns:formattedAltTextType" minOccurs="1" maxOccurs="unbounded"/>
+		</sequence>
 	</complexType>
 	<complexType name="listStandardLicenseHeaderType">
 		<annotation>
@@ -318,10 +316,9 @@
 				</xhtml:p>
 			</documentation>
 		</annotation>
-		<choice minOccurs="1" maxOccurs="unbounded">
-			<element name="item" type="tns:formattedAltStandardLicenseHeaderTextType"/>
-			<element name="list" type="tns:listStandardLicenseHeaderType"/>
-		</choice>
+		<sequence>
+			<element name="item" type="tns:formattedAltStandardLicenseHeaderTextType" minOccurs="1" maxOccurs="unbounded"/>
+		</sequence>
 	</complexType>
 	<complexType name="emptyType">
 		<annotation>
