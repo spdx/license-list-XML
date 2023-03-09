@@ -1,8 +1,16 @@
-name: New license request
-description: Submit a new license or exception request to the SPDX List.
+name: New license request via GitHub Issue Template
+description: Submit a new license or exception request to SPDX 
 title: "New license request: "
 labels: ["new license/exception request"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        ### PLEASE NOTE
+        
+        For submitters who are less familiar with using Git and GitHub, it may be easier to submit a request using the [SPDX Online Tools](https://tools.spdx.org/app/submit_new_license/). This may also make it easier for you to make use of the online tools' XML editor to create the license XML template if the request is approved.
+        
+        Please consider this when deciding whether to submit this request using the template below, or using the SPDX Online Tools.
   - type: textarea
     id: introduction
     attributes:
