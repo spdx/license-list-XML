@@ -11,8 +11,8 @@
             OpenPBS (Portable Batch System) v2.3 Software License
          </titleText>
          <copyrightText>
-            Copyright (c) 1999-2000 Veridian Information
-            Solutions, Inc. All rights reserved.
+            <p>Copyright (c) 1999-2000 Veridian Information
+               Solutions, Inc. All rights reserved.</p>
          </copyrightText>
          <optional>
             ---------------------------------------------------------------------------
@@ -39,8 +39,7 @@
          </p>
          <list>
             <item>
-               <bullet>1.</bullet>
-               <p>
+            <p><bullet>1.</bullet>
                   Commercial and/or non-commercial use of the Software
                   is permitted provided a current software registration
                   is on file at www.OpenPBS.org. If use of this software
@@ -49,8 +48,7 @@
                </p>
             </item>
             <item>
-               <bullet>2.</bullet>
-               <p>
+               <p><bullet>2.</bullet>
                   Redistribution in any form is only permitted for
                   non-commercial, non-profit purposes. There can be no
                   charge for the Software or any software incorporating the
@@ -59,8 +57,7 @@
                </p>
             </item>
             <item>
-               <bullet>3.</bullet>
-               <p>
+              <p> <bullet>3.</bullet>
                   Any Redistribution of source code must retain
                   the above copyright notice and the acknowledgment
                   contained in paragraph 6, this list of conditions
@@ -91,8 +88,7 @@
                </p>
             </item>
             <item>
-               <bullet>6.</bullet>
-               <p>
+               <p><bullet>6.</bullet>
                   All advertising materials mentioning features or use of
                   the Software must display the following acknowledgment:
                </p>
@@ -104,8 +100,7 @@
                </p>
             </item>
             <item>
-               <bullet>7.</bullet>
-               <p>
+               <p><bullet>7.</bullet>
                   DISCLAIMER OF WARRANTY
                </p>
                <p>
