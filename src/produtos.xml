@@ -1,0 +1,22 @@
+<produtos>
+    <produto>
+        <nome>Lechuga negra</nome>
+        <descricion>Lechuga provenientes de la costa gallega</descricion>
+        <prezo>14.20</prezo>
+    </produto>
+    <produto>
+        <nome>Tomates golden</nome>
+        <descricion>Tomates de Cantabria</descricion>
+        <prezo>30.11</prezo>
+    </produto>
+    <produto>
+        <nome>Zanahoria morrona</nome>
+        <descricion>Zanahorias cultivadas en As Mariñas</descricion>
+        <prezo>5.01</prezo>
+    </produto>
+    <produto>
+        <nome>Cebollas blancas</nome>
+        <descricion>Cebolla de temporada</descricion>
+        <prezo>4.78</prezo>
+    </produto>
+</produtos>
