@@ -237,7 +237,7 @@ The date on which the Initial Work was first available under this License: _____
 
 PART 3: GOVERNING JURISDICTION
 
-For the purposes of this License, the Governing Jurisdiction is _________________________________________________.  [Initial Contributor to Enter Governing Jurisdiction here]
+For the purposes of this License, the Governing Jurisdiction is _________________________________________________. [Initial Contributor to Enter Governing Jurisdiction here]
 
 PART 4: THIRD PARTIES
 
