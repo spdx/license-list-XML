@@ -16,7 +16,7 @@ You are free to:
 
 You must, where you do any of the above:
 		acknowledge the source of the Information by including any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence;
-		 If the Information Provider does not provide a specific attribution statement, or if you are using Information from several Information Providers and multiple attributions are not practical in your product or application, you may consider using the following:  Contains public sector information licensed under the Open Government Licence v1.0.
+		 If the Information Provider does not provide a specific attribution statement, or if you are using Information from several Information Providers and multiple attributions are not practical in your product or application, you may consider using the following: Contains public sector information licensed under the Open Government Licence v1.0.
 		ensure that you do not use the Information in a way that suggests any official status or that the Information Provider endorses you or your use of the Information;
 		ensure that you do not mislead others or misrepresent the Information or its source;
 		ensure that your use of the Information does not breach the Data Protection Act 1998 or the Privacy and Electronic Communications (EC Directive) Regulations 2003.
@@ -48,15 +48,15 @@ Definitions
 
 In this licence, the terms below have the following meanings:
 
-‘Information’ means information protected by copyright or by database right (for example, literary and artistic works, content, data and source code) offered for use under the terms of this licence.
+‘Information’ means information protected by copyright or by database right (for example, literary and artistic works, content, data and source code) offered for use under the terms of this licence.
 
-‘Information Provider’ means the person or organisation providing the Information under this licence.
+‘Information Provider’ means the person or organisation providing the Information under this licence.
 
-‘Licensor’ means any Information Provider which has the authority to offer Information under the terms of this licence or the Controller of Her Majesty’s Stationery Office, who has the authority to offer Information subject to Crown copyright and Crown database rights and Information subject to copyright and database right that has been assigned to or acquired by the Crown, under the terms of this licence.
+‘Licensor’ means any Information Provider which has the authority to offer Information under the terms of this licence or the Controller of Her Majesty’s Stationery Office, who has the authority to offer Information subject to Crown copyright and Crown database rights and Information subject to copyright and database right that has been assigned to or acquired by the Crown, under the terms of this licence.
 
-‘Use’ as a verb, means doing any act which is restricted by copyright or database right, whether in the original medium or in any other medium, and includes without limitation distributing, copying, adapting, modifying as may be technically necessary to use it in a different mode or format.
+‘Use’ as a verb, means doing any act which is restricted by copyright or database right, whether in the original medium or in any other medium, and includes without limitation distributing, copying, adapting, modifying as may be technically necessary to use it in a different mode or format.
 
-‘You’ means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence.
+‘You’ means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence.
 
 About the Open Government Licence
 The Controller of Her Majesty’s Stationery Office (HMSO) has developed this licence as a tool to enable Information Providers in the public sector to license the use and re-use of their Information under a common open licence. The Controller invites public sector bodies owning their own copyright and database rights to permit the use of their Information under this licence.
