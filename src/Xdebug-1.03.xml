@@ -10,9 +10,7 @@
          but omits the last part of the 4th clause
       </notes>
       <text>
-         <optional>
             --------------------------------------------------------------------
-         </optional>
          <titleText>
             The Xdebug License, version 1.03<br></br>
             (Based on "The PHP License", version 3.01)
@@ -22,9 +20,7 @@
                Copyright (c) 2003-2022 Derick Rethans. All rights reserved.
             </p>
          </copyrightText>
-         <optional>
             --------------------------------------------------------------------
-         </optional>
          <p>
             Redistribution and use in source and binary
             forms, with or without modification, is permitted
