@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <exception>
+   <exception licenseId="vsftpd-openssl-exception" name="vsftpd OpenSSL exception" 
+   listVersionAdded="3.21">
    <crossRefs>
       <crossRef>https://git.stg.centos.org/source-git/vsftpd/blob/f727873674d9c9cd7afcae6677aa782eb54c8362/f/LICENSE</crossRef>
       <crossRef>https://launchpad.net/debian/squeeze/+source/vsftpd/+copyright</crossRef>
