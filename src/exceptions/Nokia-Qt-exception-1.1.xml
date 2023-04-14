@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <exception licenseId="Nokia-Qt-exception-1.1" name="Nokia Qt LGPL exception 1.1" isDeprecated="true" deprecatedVersion="3.1">
+   <exception licenseId="Nokia-Qt-exception-1.1" name="Nokia Qt LGPL exception 1.1" deprecatedVersion="3.1">
       <obsoletedBys>
          <obsoletedBy>Qt-LGPL-exception-1.1</obsoletedBy>
       </obsoletedBys>

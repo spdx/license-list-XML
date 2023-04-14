@@ -26,7 +26,7 @@ Requesters may be uncertain as to whether they should use a newly-added license 
 
 ### Draft release notes
 
-* Add a new release text section to the top of [RELEASE-NOTES.md](https://github.com/spdx/license-list-XML/blob/main/RELEASE-NOTES.md)
+* Add a new release text section to the top of [RELEASE-NOTES.md](../RELEASE-NOTES.md)
 * Mimic the same pattern as the prior release notes, listing each license or exception added in this release, together with brief notes about any other significant changes in this release
 * Create compare link by changing tag numbers in previous release
 * The PR to add the release notes should be the last PR merged before the release is tagged
@@ -94,4 +94,4 @@ This also assumes that you have used the AWS S3 scripts to make a local copy of 
 
 ### Notify the mailing list
 
-* Send an email to the spdx-legal mailing list announcing the release, using content from [RELEASE-NOTES.md](https://github.com/spdx/license-list-XML/blob/main/RELEASE-NOTES.md), in a format similar to https://lists.spdx.org/g/Spdx-legal/message/3201
+* Send an email to the spdx-legal mailing list announcing the release, using content from [RELEASE-NOTES.md](../RELEASE-NOTES.md), in a format similar to https://lists.spdx.org/g/Spdx-legal/message/3201

@@ -1,0 +1,59 @@
+name: New license request via GitHub Issue Template
+description: Submit a new license or exception request to SPDX 
+title: "New license request: "
+labels: ["new license/exception request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### PLEASE NOTE
+        
+        For submitters who are less familiar with using Git and GitHub, it may be easier to submit a request using the [SPDX Online Tools](https://tools.spdx.org/app/submit_new_license/). This may also make it easier for you to make use of the online tools' XML editor to create the license XML template if the request is approved.
+        
+        Please consider this when deciding whether to submit this request using the template below, or using the SPDX Online Tools.
+  - type: textarea
+    id: introduction
+    attributes:
+      label: Introduction
+      description: Briefly explain how this license meets the [license inclusion principles](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-inclusion-principles.md)
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: License Name
+      description: Full name or title of license
+    validations:
+      required: true
+  - type: input
+    id: identifier
+    attributes:
+      label: Suggested short identifier
+      description: See [Explanation of SPDX License List Fields, section B)](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-fields.md) for more details
+  - type: input
+    id: url
+    attributes:
+      label: URL to license text
+  - type: dropdown
+    id: osi-status
+    attributes:
+      label: OSI Status
+      options:
+        - I don't know
+        - Approved
+        - Not Submitted
+        - Submitted, but pending
+        - Rejected
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: License author or steward
+      description: If not known, put 'Unknown'
+  - type: textarea
+    id: usages
+    attributes:
+      label: URL to project(s) that use license
+    validations:
+      required: true

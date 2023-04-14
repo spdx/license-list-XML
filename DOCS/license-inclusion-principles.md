@@ -28,7 +28,21 @@ The SPDX legal team will also consider any additional information considered rel
 
 Comments on license inclusion will be noted in the Github issue for the license (or reference to meeting minutes, as necessary). Some license requests may be decided solely via comments in the Github issue and some may involve discussion on the bi-weekly legal call. Thus it is imperative that requestors join the mailing list and calls to fully participate.
 
-*last updated Mar 2020*
+# License Exceptions
+
+The SPDX License List also includes an [Exceptions List](https://spdx.org/licenses/exceptions-index.html). As indicated on that page, the Exceptions List _does not_ list stand-alone licenses. Rather, it is intended for additional text that grants an exception to a license condition or additional permissions beyond those granted in a license.
+
+Candidate submissions for the Exceptions List are considered for inclusion according to the following factors:
+1. The exception is not a stand-alone license.
+2. The exception either:
+  * grants an exception to a license condition; and/or
+  * grants an addition permission beyond those granted in a license.
+3. The exception does not impose additional restrictions or limitations beyond those granted in the underlying license.
+4. The exception has actual, substantial use such that it is likely to be encountered.
+
+The SPDX legal team uses the same process for evaluation and consideration of Exceptions as for Licenses (e.g., submission for consideration; discussion via GitHub issues; and community review and approval).
+
+*last updated Mar 2023*
 
 # Historical Background
 ## In the beginning...
