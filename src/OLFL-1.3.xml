@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="true" licenseId="OLFL-1.3" name="Open Logistics Foundation License Version 1.3">
+   <license isOsiApproved="true" licenseId="OLFL-1.3" name="Open Logistics Foundation License Version 1.3" listVersionAdded="3.21">
       <crossRefs>
          <crossRef>https://openlogisticsfoundation.org/licenses/</crossRef>
          <crossRef>https://opensource.org/license/olfl-1-3/</crossRef>
