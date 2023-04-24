@@ -1,12 +1,12 @@
 on: 
   push:
     branches:
-      - main
+      
     tags:
-      - "*"
+      - 
 jobs:
   validate_canonical_match:
-    name: Deploy
+    name: 
     runs-on: ubuntu-latest
     steps:
       - uses: actions/setup-java@v1
