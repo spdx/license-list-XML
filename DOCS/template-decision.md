@@ -24,3 +24,6 @@ _add any information that is to be included in the Notes field_
 ## Additional rationale or notes on decision:
 
 _add any additional information, including optionally a summary of what is recorded in the issue comments_
+
+## Next steps ##
+If the license has been accepted, please follow [the accepted-license process to create the PR](https://github.com/spdx/license-list-XML/blob/main/DOCS/request-new-license.md#accepted-license-process). 
