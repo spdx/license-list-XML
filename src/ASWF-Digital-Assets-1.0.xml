@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="ASWF-Digital-Assets-1.0"
-   name="ASWF Digital Assets License version 1.0">
+   name="ASWF Digital Assets License version 1.0" listVersionAdded="1.0">
       <crossRefs>
          <crossRef>https://github.com/AcademySoftwareFoundation/foundation/blob/main/digital_assets/aswf_digital_assets_license_v1.0.txt</crossRef>
       </crossRefs>
@@ -12,10 +12,7 @@
             </p>
          </titleText>
          <p>
-            ASWF Digital Assets License v1.0
-         </p>
-         <p>
-            License for "Asset Name" (the "Asset Name").
+            License for &lt;Asset Name&gt; (the "Asset Name").
          </p>
          <p>
             "Asset Name" Copyright "Year" "Asset Owner". All rights reserved.
