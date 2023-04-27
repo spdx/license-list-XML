@@ -179,3 +179,4 @@ Learning regular expressions is outside the scope of this document. However, her
 "Smart quotes" (the curly quotation mark characters) are a pain. Only "non-smart" quotes should be included in templates. In particular, if you are copying from a Word document, there's a good chance it will paste smart quotes, so check carefully.
 
 Some characters (such as `<` and `>`, or double-quotes within an already-quoted attribute string) cannot be included as-is in license templates, because they will be interpreted as having a different meaning in XML. These would need to be replaced with special character codes. Again, [BSD-3-Clause](../src/BSD-3-Clause.xml) is a good example of a couple of these.
+* `<` and `>` will need to be replaced in the XML file with: `&lt;` and `&gt;`
