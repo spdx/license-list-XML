@@ -19,15 +19,15 @@ fair dealing or fair use or any other copyright
 or database right exceptions and limitations.
 
 You are free to:
-    - copy, publish, distribute and transmit the information
-    - adapt the information 
-    - exploit the information commercially and non-
+    * copy, publish, distribute and transmit the information
+    * adapt the information 
+    * exploit the information commercially and non-
     commercially, for example, by combining it with other 
     information, or by  including it in your own product or 
     application
 
 You must (where you do any of the above):
-    - acknowledge the source of the information in your
+    * acknowledge the source of the information in your
     product or application by including the following
     attribution statement and, where possible, provide a
     link to this licence: Contains Parliamentary information
@@ -41,14 +41,14 @@ by the Licensor, will end automatically.
 Exemptions
 
 This licence does not cover the use of:
-    -personal data in the information;
-    - information that has neither been published nor disclosed
+    * personal data in the information;
+    * information that has neither been published nor disclosed
     under information access legislation (including the 
     Freedom of Information Acts for the UK and Scotland) by or
     with the consent of the Licensor;
-    - the Royal Arms and the Crowned Portcullis;
-    - third party rights the Licensor is not authorised to license; 
-    - information subject to other intellectual property rights,
+    * the Royal Arms and the Crowned Portcullis;
+    * third party rights the Licensor is not authorised to license; 
+    * information subject to other intellectual property rights,
     including patents, trademarks, and design rights
 
 Non-endorsment
