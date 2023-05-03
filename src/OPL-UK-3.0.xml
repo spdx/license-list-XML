@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="OPL-UK-3.0" name="United
-   Kingdom Open Parliament Licence v3.0" listVersionAdded="">
+   Kingdom Open Parliament Licence v3.0" listVersionAdded="3.21">
       <crossRefs>
          <crossRef>https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/</crossRef>
       </crossRefs>
