@@ -7,7 +7,7 @@ is available under this licence freely and flexibly, with
 only a few conditions. Using information under this licence
 
 Use of copyright and database right material made
-available under this licence (the information) indicates
+available under this licence (the information’) indicates
 your acceptance of the terms and conditions below.
 
 The Licensor grants you a worldwide, royalty-free,
@@ -59,7 +59,7 @@ that the Licensor endorses you or your use of the Information.
 
 No warranty
 
-The information is licensed as is and the
+The information is licensed ‘as is’ and the
 Licensor excludes all representations, warranties,
 obligations and liabilities in relation to the
 information to the maximum extent permitted by law.
@@ -76,12 +76,14 @@ Definitions
 
 In this licence, the terms below have the following meanings:
 
-Information means information protected by copyright
+‘Information’ means information protected by copyright
 or by database right (for example, literary and
 artistic works, content, data and source code)
 offered for use under the terms of this licence.
 
-Licensor means—
+‘Information Provider’ means either House of Parliament.
+
+‘Licensor’ means—
 (a) in relation to copyright, the Speaker of the House of
 Commons and the Clerk of the Parliaments representing
 the House of Commons and House of Lords respectively, and
@@ -89,13 +91,13 @@ the House of Commons and House of Lords respectively, and
 Officer of the House of Commons and the Corporate
 Officer of the House of Lords respectively.
 
-Use means doing any act which is restricted by copyright
+‘Use’ means doing any act which is restricted by copyright
 or database right, whether in the original medium or in any
 other medium, and includes without limitation distributing,
 copying, adapting and modifying as may be technically
 necessary to use it in a different mode or format.
 
-You means the natural or legal person, or body of persons
+‘You’ means the natural or legal person, or body of persons
 corporate or incorporate, acquiring rights under this licence.
 
 About the Open Parliament Licence
