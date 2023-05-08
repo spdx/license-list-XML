@@ -6,8 +6,10 @@
          <crossRef>https://github.com/novnc/noVNC/blob/master/core/crypto/des.js#L24</crossRef>
       </crossRefs>
       <text>
-         <p>
+         <copyrightText>
             Copyright (c) 1996 Widget Workshop, Inc. All Rights Reserved.
+         </copyrightText>
+         <p>
             Permission to use, copy, modify, and distribute this software
             and its documentation for NON-COMMERCIAL or COMMERCIAL purposes
             and without fee is hereby granted, provided that this copyright
