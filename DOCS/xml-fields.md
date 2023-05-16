@@ -52,8 +52,7 @@ There are two additional attributes which are optional, but highly encouraged:
 * `listVersionAdded`: in which release version of the SPDX License List was the license first added, e.g. "3.19".
   * Typically you'll check the currently-released version at https://spdx.org/licenses/ and increment the minor version by 1 for a new license.
 
-Finally, if the license ID has been deprecated, two additional attributes should be included:
-* `isDeprecated`: should be "true" if the license ID is deprecated
+Finally, if the license ID has been deprecated, one additional attribute should be included:
 * `deprecatedVersion`: in which release version of the SPDX License List was the license first marked as deprecated, e.g. "3.19"
 
 Note that the deprecated tags refer to whether the ID has been deprecated _by SPDX_ -- in other words, if the SPDX Legal Team no longer recommends that the identifier should be used. Licenses that have been described as "deprecated" or "superseded" by the _license author_ might no longer be recommended to use for new code, but their identifiers remain valid License IDs on the SPDX License List.
@@ -158,7 +157,7 @@ If a license template should match regardless of whether or not a particular sec
 
 By default, when rendered on the [SPDX License List website](https://spdx.org/licenses), a space will be included before and after the optional text. If the tag includes a `spacing="none"` attribute, e.g. `<optional spacing="none">`, then these spaces will be omitted. This is useful if, for instance, the optional text is a suffix to a word or a quotation mark where the optional portion should not be separated by a space.
 
-Note that some annotated portions of text (specifically `<titleText>` and `<copyrightText>`) are deemed to be "optional" automatically, so the `<optional>` tag is not needed where those are present.
+Note that some annotated portions of text (specifically `<titleText>`, `<bullet>` and `<copyrightText>`) are deemed to be "replaceable text" automatically, so the `<optional>` tag is not allowed where those are present.
 
 ### Replaceable text
 
@@ -170,7 +169,9 @@ The **<alt>** tag includes two attributes:
 
 Note that an example of actually-matching text should be included between the `<alt>` and `</alt>` tags, as the specified example is what will be rendered on the SPDX License List website page and in license text files provided by SPDX. To the extent a license has a "canonical" or "most commonly used" standard language, use that in the match between the `alt` tags.
 
-Learning regular expressions is outside the scope of this document. However, here are a few of the most common patterns, taken from [BSD-3-Clause](https://github.com/spdx/license-list-XML/blob/main/src/BSD-3-Clause.xml) which is a good example of using several `<alt>` tags effectively:
+Also note that some annotated portions of text (specifically `<titleText>`, `<bullet>` and `<copyrightText>`) are deemed to be "replaceable text" automatically, so the `<alt>` tag is not allowed where those are present.
+
+Learning regular expressions is outside the scope of this document. However, here are a few of the most common patterns, taken from [BSD-3-Clause](../src/BSD-3-Clause.xml) which is a good example of using several `<alt>` tags effectively:
 * `<alt match="are|is" name="tobe">are</alt>`: Matches if the text is either the word "are" or the word "is"
 * `<alt match="EXPRESS(ED)?" name="express">EXPRESS</alt>`: Matches if the text is either the word "EXPRESS" or the word "EXPRESSED"
 * `<alt match=".+" name="copyrightHolderAsIs">THE COPYRIGHT HOLDERS AND CONTRIBUTORS</alt>`: Matches anything as long as it consists of at least one or more characters
@@ -179,4 +180,5 @@ Learning regular expressions is outside the scope of this document. However, her
 
 "Smart quotes" (the curly quotation mark characters) are a pain. Only "non-smart" quotes should be included in templates. In particular, if you are copying from a Word document, there's a good chance it will paste smart quotes, so check carefully.
 
-Some characters (such as `<` and `>`, or double-quotes within an already-quoted attribute string) cannot be included as-is in license templates, because they will be interpreted as having a different meaning in XML. These would need to be replaced with special character codes. Again, [BSD-3-Clause](https://github.com/spdx/license-list-XML/blob/main/src/BSD-3-Clause.xml) is a good example of a couple of these.
+Some characters (such as `<` and `>`, or double-quotes within an already-quoted attribute string) cannot be included as-is in license templates, because they will be interpreted as having a different meaning in XML. These would need to be replaced with special character codes. Again, [BSD-3-Clause](../src/BSD-3-Clause.xml) is a good example of a couple of these.
+* `<` and `>` will need to be replaced in the XML file with: `&lt;` and `&gt;`

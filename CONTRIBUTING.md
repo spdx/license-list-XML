@@ -19,13 +19,13 @@ Below are some ways you can get started participating and contributing!
 
 * Commenting on new license requests: Once you have familiarized yourself with the [License inclusion principles](DOCS/license-inclusion-principles.md), comment on new license requests as to whether you think the license should be included on the SPDX License List in any issue labeled ["new license/exception request"](https://github.com/spdx/license-list-XML/issues?q=is%3Aopen+is%3Aissue+label%3A%22new+license%2Fexception+request%22+-label%3A%22new+license%2Fexception%3A+Accepted%22)
 
-* Make suggestions to improvement for documentation: Newcomers have a great perspective as to the effectiveness of documentation! You can make suggestions via an issue, if you want to discuss the changes or if there is something specific that could be updated, then create a PR
+* Make suggestions to improve the documentation: Newcomers have a great perspective as to the effectiveness of documentation! You can make suggestions via an issue, if you want to discuss the changes or if there is something specific that could be updated, then create a PR
 
-* Help prepare files for licenses approved to be added to the SPDX License List by following the [new license workflow](https://github.com/spdx/license-list-XML/blob/main/DOCS/new-license-workflow.md)
+* Help prepare files for licenses approved to be added to the SPDX License List by following the [new license workflow](DOCS/new-license-workflow.md)
 
 * Review PRs 
 
-* Request a new license be added to the SPDX License List by following the [request new license](https://github.com/spdx/license-list-XML/blob/main/DOCS/request-new-license.md) instructions
+* Request a new license be added to the SPDX License List by following the [request new license](DOCS/request-new-license.md) instructions
 
 * Email the [mailing list](https://lists.spdx.org/g/spdx-legal) about how you are using or questions about the SPDX License List 
 * Recommend additional markup for matching purposes

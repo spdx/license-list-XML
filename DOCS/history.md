@@ -24,7 +24,7 @@
 * Jan 2018: [SPDX License List v3.0 release](https://spdx.dev/license-list-3-0-released/) converts original files to XML format implementing matching guidelines and revised GNU licenses identifiers. SPDX-legal evolves to full use of Github for maintaining the SPDX License List
 * Summer 2018: GSoC project creates online license submission tool
 * mid-2019: Start discussions to revisit and update license inclusion guidelines. Discussions occur in [Github issue](https://github.com/spdx/license-list-XML/issues/925), [legal calls](https://wiki.spdx.org/view/Legal_Team/Minutes/2019-10-17), and then a [pull request](https://github.com/spdx/license-list-XML/pull/985) into early 2020. 
-* Mar 2020: New license inclusion guidelines [finalized and published](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-inclusion-principles.md) in the DOCS section of the SPDX License List Github repo, instead of a page on the website, as they had been previously. 
+* Mar 2020: New license inclusion guidelines [finalized and published](license-inclusion-principles.md) in the DOCS section of the SPDX License List Github repo, instead of a page on the website, as they had been previously.
 * Sept 2021: The SPDX specificaton is [recognized as an ISO standard](https://www.linuxfoundation.org/press/featured/spdx-becomes-internationally-recognized-standard-for-software-bill-of-materials)
 * July 2022: [Fedora officially adopts the use of SPDX license identifiers](https://communityblog.fedoraproject.org/important-changes-to-software-license-information-in-fedora-packages-spdx-and-more/) in the license metadata of Fedora package spec files.
 

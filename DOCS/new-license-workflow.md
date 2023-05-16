@@ -35,7 +35,7 @@
     2. If it’s a case that additional markup would create match, then may want to discuss with legal team to ensure markup is non-substantive or differences in text do not alter legal meaning (if so, this cuts towards adding a new license). For more on this see the [Matching Guidelines](https://spdx.org/spdx-license-list/matching-guidelines), guideline #2 in particular.
     3. If additional markup can accommodate the license, then the license does not need to be added: inform the requester, comment on the issue as such, then create a PR for the existing license with the additional markup, and close issue once the PR has been merged.
 3. If the submitter is not the license author or steward, ask for that contact or try to find that person or organization to make them aware the license has been submitted.
-4. Check the submission for any other missing information, e.g., working URL, examples of use, full text, standard header, etc. You can find the field definitions in the [DOCS/license-fields](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-fields.md) document.
+4. Check the submission for any other missing information, e.g., working URL, examples of use, full text, standard header, etc. You can find the field definitions in the [DOCS/license-fields](license-fields.md) document.
 Ask the submitter for any additional info needed, preferably via the GitHub issue, if possible. Record any updates there.
     1. The "standard header" or "official license header" is defined in section 1.1.1 of the [SPDX Matching Guidelines](https://spdx.github.io/spdx-spec/appendix-II-license-matching-guidelines-and-templates/) as "specific text specified within the license itself to be put in the header of files."
 5. Review the following, bring any questions to legal team:
@@ -176,7 +176,7 @@ If you don't feel like a cup of tea right now, you can run the `make validate-ca
 
 ### Handling Duplicate Licenses
 
-The CI/CD pipeline will fail if it detects an existing license with matching license text.  If this occurs, manually review the duplicate license.  If this is expected (e.g. if the duplicate license is a deprecated version of the same license), add the following to the [expected-warnings](https://github.com/spdx/license-list-XML/blob/main/expected-warnings) file:
+The CI/CD pipeline will fail if it detects an existing license with matching license text.  If this occurs, manually review the duplicate license.  If this is expected (e.g. if the duplicate license is a deprecated version of the same license), add the following to the [expected-warnings](../expected-warnings) file:
 
 ```
 ,"Duplicates licenses: DUPLICATE_LICENSE_ID, MY_LICENSE_ID","Duplicates licenses: MY_LICENSE_ID, DUPLICATE_LICENSE_ID"
@@ -210,7 +210,7 @@ The [SPDX Online tools](https://tools.spdx.org/) are an option for editing the X
     1. The current XML output does not implement some of XML tagging and may mark every new line with a paragraph tag depending on input. If this has happened, it may be more efficient to re-submit the license text, using a wrapped text version.
     2. Make sure to include listVersionAdded= and the correct license list version number for the upcoming release
     3. Check for a standard license header
-    4. Check if any notes should be added (see the field description in the [DOCS/license-fields](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-fields.md) document for more information)
+    4. Check if any notes should be added (see the field description in the [DOCS/license-fields](license-fields.md) document for more information)
     5. Check that we have a working URL for the license text in the wild. If using a link in GitHub, include a link to a specific commit
     6. Check all the XML formatting: the current XML output does not insert the bullet or list tags. Use a previously submitted license as reference for how to format
     7. If you have questions about text that could be optional or could be replaceable, add a comment to the PR, once made or add a reviewer to check it

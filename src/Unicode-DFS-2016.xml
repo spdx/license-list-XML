@@ -3,6 +3,8 @@
     <license isOsiApproved="true" licenseId="Unicode-DFS-2016" listVersionAdded="2.6"
             name="Unicode License Agreement - Data Files and Software (2016)">
         <crossRefs>
+            <crossRef>https://www.unicode.org/license.txt</crossRef>
+            <crossRef>http://web.archive.org/web/20160823201924/http://www.unicode.org/copyright.html#License</crossRef>
             <crossRef>http://www.unicode.org/copyright.html</crossRef>
         </crossRefs>
         <text>
