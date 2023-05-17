@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="cryptsetup-OpenSSL-exception"
-   name="cryptsetup OpenSSL exception" listVersionAdded="">
+   name="cryptsetup OpenSSL exception" listVersionAdded="3.21">
       <crossRefs>
          <crossRef>https://gitlab.com/cryptsetup/cryptsetup/-/blob/main/COPYING</crossRef>
          <crossRef>https://gitlab.nic.cz/datovka/datovka/-/blob/develop/COPYING</crossRef>
