@@ -6,11 +6,11 @@ Please familiarize yourself with the SPDX License List and its supporting docume
 
 * [SPDX License List Matching Guidelines](https://spdx.org/spdx-license-list/matching-guidelines) provides guidelines to be used for the purposes of matching licenses and license exceptions against those included on the SPDX License List.
 
-* [SPDX Specification](https://spdx.org/specifications): It is helpful to be familiar with certain sections of the SPDX Specification that use or deal with the SPDX License List. In particular: sub-sections related to license information in Section 3, 4, and 6; Appendices II, IV, and V.
+* [SPDX Specification](https://spdx.org/specifications): It is helpful to be familiar with certain sections of the SPDX Specification that use or deal with the SPDX License List. In particular: sub-sections related to license information in Section 7, 8, and 10; Appendices B, D, and E.
 
 # Join the mailing list and our bi-weekly calls
 
-The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done via:
+The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done in this Github repo and via:
 * **join the mailing list**: Please introduce yourself and let us know a bit about your interest in SPDX! The mailing list is our traditional form of communication. Join the mailing list, see archive, and manage your subscription at [lists.spdx.org](https://lists.spdx.org/g/Spdx-legal).
 * **join the bi-weekly calls**: Bi-weekly conference call info is sent prior to the calls via the mailing list. If you join the mailing list, you should get a recurring invite at the beginning of each calendar year. Meeting minutes for the calls are in the [SPDX meetings repo](https://github.com/spdx/meetings/tree/main/legal); historical meeting minutes can be found at http://wiki.spdx.org/
 
@@ -21,7 +21,7 @@ Below are some ways you can get started participating and contributing!
 
 * Make suggestions to improve the documentation: Newcomers have a great perspective as to the effectiveness of documentation! You can make suggestions via an issue, if you want to discuss the changes or if there is something specific that could be updated, then create a PR
 
-* Help prepare files for licenses approved to be added to the SPDX License List by following the [new license workflow](DOCS/new-license-workflow.md)
+* Help prepare files for licenses approved to be added to the SPDX License List by following the [new license workflow](DOCS/request-new-license.md)
 
 * Review PRs 
 
