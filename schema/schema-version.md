@@ -4,5 +4,5 @@ The following table maps the License List Version to the Schema Version used and
 
 |License List Version(s)|Schema Version|
 |--|--|
-| < 3.21 | Unversioned |
-| 3.22 | 1.0.0 |
+| version 3.21 and prior versions | Unversioned |
+| version 3.22 and later | 1.0.0 |
