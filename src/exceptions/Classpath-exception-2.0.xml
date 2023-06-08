@@ -8,8 +8,9 @@
     <text>
       <p>Linking this library statically or dynamically with other modules
          is making a combined work based on this library. Thus, the
-         terms and conditions of the GNU General Public License cover
-         the whole combination.</p>
+         terms and conditions of the GNU General Public License
+         <optional spacing="before">version 2</optional> cover the whole
+         combination.</p>
       <p>As a special exception, the copyright holders of this library
          give you permission to link this library with independent
          modules to produce an executable, regardless of the license
