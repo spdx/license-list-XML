@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="LLGPL"
+   <exception licenseId="LLGPL"
    name="LLGPL Preamble" listVersionAdded="3.21">
       <crossRefs>
          <crossRef>http://opensource.franz.com/preamble.html</crossRef>
@@ -77,5 +77,5 @@
             your derivative thereof) that is incorporated into this executable.
          </p>
       </text>
-   </license>
+   </exception>
 </SPDXLicenseCollection>
