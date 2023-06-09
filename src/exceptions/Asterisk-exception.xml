@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license licenseId="Asterisk-exception"
+   <exception licenseId="Asterisk-exception"
    name="Asterisk exception" listVersionAdded="3.21">
       <crossRefs>
          <crossRef>https://github.com/asterisk/libpri/blob/7f91151e6bd10957c746c031c1f4a030e8146e9a/pri.c#L22</crossRef>
@@ -15,5 +15,5 @@
             that copy of Asterisk, instead of the license terms granted here.
          </p>
       </text>
-   </license>
+   </exception>
 </SPDXLicenseCollection>
