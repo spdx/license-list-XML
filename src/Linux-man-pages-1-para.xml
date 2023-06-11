@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="Linux-man-pages-one-para"
-   name="Linux man-pages One Paragraph" listVersionAdded="3.21">
+   <license isOsiApproved="false" licenseId="Linux-man-pages-1-para"
+   name="Linux man-pages - 1 paragraph" listVersionAdded="3.21">
       <crossRefs>
-         <crossRef>https://github.com/mkerrisk/man-pages/blob/master/man2/getcpu.2#L4-L7</crossRef>
+         <crossRef>https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/getcpu.2#n4</crossRef>
       </crossRefs>
       <text>
          <p>
