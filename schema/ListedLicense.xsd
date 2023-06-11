@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:tns="http://www.spdx.org/license" targetNamespace="http://www.spdx.org/license" elementFormDefault="qualified">
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:tns="http://www.spdx.org/license" targetNamespace="http://www.spdx.org/license" elementFormDefault="qualified" version="1.0.0">
 	<annotation>
 		<documentation xml:lang="en">
 			<xhtml:h1>SPDX License List XML Schema</xhtml:h1>
