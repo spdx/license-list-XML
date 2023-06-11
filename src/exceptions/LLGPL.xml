@@ -24,7 +24,7 @@
             a Lisp program if certain clarifications are made. This document
             details those clarifications. Accordingly, the license for
             <alt match="the open-source Lisp applications|AllegroServe" name="app">the
-            open-source Lisp applications</a> consists of this document plus
+            open-source Lisp applications</alt> consists of this document plus
             the LGPL. Wherever there is a conflict between this document
             and the LGPL, this document takes precedence over the LGPL.
          </p>
