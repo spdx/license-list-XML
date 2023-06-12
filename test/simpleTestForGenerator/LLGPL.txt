@@ -1,4 +1,4 @@
-Prequel to the Gnu Lesser General Public License
+Preamble to the Gnu Lesser General Public License
 
 Copyright (c) 2016 Franz Inc., Berkeley, CA 94704
 
