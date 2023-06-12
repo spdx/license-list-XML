@@ -8,6 +8,7 @@
          <crossRef>https://github.com/ivmai/libatomic_ops/blob/master/LICENSE</crossRef>
       </crossRefs>
       <text>
+         <copyrightText>Copyright (c) ...</copyrightText>
          <p>
             THIS MATERIAL IS PROVIDED AS IS, WITH ABSOLUTELY NO
             WARRANTY EXPRESSED OR IMPLIED. ANY USE IS AT YOUR OWN RISK.
@@ -19,9 +20,11 @@
             granted, provided the above notices are retained, and a notice that
             the code was modified is included with the above copyright notice.
          </p>
+         <optional>
          <p>
             A few files have other copyright holders.
          </p>
+         </optional>
       </text>
    </license>
 </SPDXLicenseCollection>
