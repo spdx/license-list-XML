@@ -21,10 +21,9 @@ or database right exceptions and limitations.
 You are free to:
     * copy, publish, distribute and transmit the information
     * adapt the information 
-    * exploit the information commercially and non-
-    commercially, for example, by combining it with other 
-    information, or by  including it in your own product or 
-    application
+    * exploit the information commercially and non-commercially, 
+    for example, by combining it with other information, 
+    or by  including it in your own product or application
 
 You must (where you do any of the above):
     * acknowledge the source of the information in your
