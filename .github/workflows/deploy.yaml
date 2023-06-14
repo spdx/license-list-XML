@@ -11,6 +11,7 @@ jobs:
     steps:
       - uses: actions/setup-java@v3
         with:
+          distribution: 'temurin'
           java-version: '11'
       - uses: actions/checkout@v3
       - name: Fetch changes for git diff
