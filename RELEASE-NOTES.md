@@ -1,5 +1,52 @@
 # Release Notes for SPDX License List
 
+## version 3.21 - 2023-06-18
+
+New licenses/exceptions added: 28
+
+1.  Asterisk-exception
+2. ASWF-Digital-Assets-1.0
+3. ASWF-Digital-Assets-1.1
+4. Autoconf-exception-macro
+5. Boehm-GC
+6. CC-BY-SA-3.0-IGO
+7. cryptsetup-OpenSSL-exception
+8. dtoa
+9. GPL-3.0-interface-exception
+10. Inner-Net-2.0
+11. Latex2e-translated-notice
+12. libpri-OpenH323-exception
+13. Linux-man-pages-1-para
+14. Linux-man-pages-copyleft-2-para
+15. Linux-man-pages-copyleft-var
+16. LLGPL
+17. metamail
+18. MIT-Festival
+19. NIST-Software
+20. OLFL-1.3
+21. OPL-UK-3.0
+22. SGP4
+23. TermReadKey
+24. UnixCrypt
+25. vsftpd-openssl-exception
+26. Widget-Workshop
+27. Xdebug-1.03
+28. Xfig
+
+Added documentation for inclusion principles for exceptions on the SPDX Exceptions List.
+
+Removed `isDeprecated` field from licenses and exceptions in favor of `deprecatedVersion` alone.
+
+Added and improved markup for many licenses and many minor improvements to other documentation.
+
+Updated to latest version of the License List Publisher and GitHub Actions dependencies.
+
+Designated current license list XML schema as version 1.0.0.
+
+See all PRs for 3.21 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.21%22+is%3Aclosed
+
+See comparision of changes from 3.20 to 3.21: https://github.com/spdx/license-list-XML/compare/v3.20...v3.21
+
 ## version 3.20 - 2023-02-17
 
 New licenses/exceptions added: 40
