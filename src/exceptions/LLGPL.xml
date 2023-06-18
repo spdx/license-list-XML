@@ -15,18 +15,17 @@
             Copyright (c) 2000 Franz Incorporated, Berkeley, CA 94704
          </copyrightText>
          <p>
-            The concept of the GNU Lesser General Public License version 2.1
-            ("LGPL") has been adopted to govern the use and distribution of
-            <alt match="above-mentioned application|AllegroServe" name="app1">above-mentioned application</alt>. 
-            However, the LGPL uses terminology
+	    <optional>Franz Inc. has adopted the concept of the GNU Lesser General Public License version 2.1 ("LGPL") to govern the use and distribution of AllegroServe.</optional>
+	    <optional>The concept of the GNU Lesser General Public License version 2.1 ("LGPL") has been adopted to govern the use and distribution of above-mentioned application</optional>.
+	    However, <optional>the</optional> LGPL uses terminology
             that is more appropriate for a program written in C than one
-            written in Lisp. Nevertheless, the LGPL can still be applied to
+	    written in Lisp. Nevertheless, <optional>the</optional> LGPL can still be applied to
             a Lisp program if certain clarifications are made. This document
             details those clarifications. Accordingly, the license for
             <alt match="the open-source Lisp applications|AllegroServe" name="app">the
             open-source Lisp applications</alt> consists of this document plus
-            the LGPL. Wherever there is a conflict between this document
-            and the LGPL, this document takes precedence over the LGPL.
+	    <optional>the</optional> LGPL. Wherever there is a conflict between this document
+	    and the LGPL, this document takes precedence over <optional>the</optional> LGPL.
          </p>
          <p>
             A "Library" in Lisp is a collection of Lisp functions, data and
@@ -74,7 +73,7 @@
             5 of the LGPL states that the former results in an executable
             that is a "work that uses the Library." Section 5 of the LGPL
             states that the latter results in one that is a "derivative of the
-            Library", which is therefore covered by the LGPL. Since Lisp only
+	    Library", which is therefore covered by <optional>the</optional> LGPL. Since Lisp only
             offers one choice, which is to link the Library into an executable
             at build time, we declare that, for the purpose applying the LGPL
             to the <alt match="Library|AllegroServe Library" name="library13">Library</alt>, 
