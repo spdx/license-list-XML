@@ -8,13 +8,12 @@ body:
       value: |
         ### PLEASE NOTE
         
-        For submitters who are less familiar with using Git and GitHub, it may be easier to submit a request using the [SPDX Online Tools](https://tools.spdx.org/app/submit_new_license/). This may also make it easier for you to make use of the online tools' XML editor to create the license XML template if the request is approved.
+        It is preferable to submit a request using the [SPDX Online Tools](https://tools.spdx.org/app/submit_new_license/). This makes it easier for you to make use of the online tools' XML editor to create the license XML template if the request is approved.
         
-        Please consider this when deciding whether to submit this request using the template below, or using the SPDX Online Tools.
   - type: textarea
     id: introduction
     attributes:
-      label: Introduction
+      label: How license meets inclusion principles
       description: Briefly explain how this license meets the [license inclusion principles](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-inclusion-principles.md)
     validations:
       required: true
