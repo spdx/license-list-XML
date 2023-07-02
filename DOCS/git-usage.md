@@ -56,7 +56,7 @@ For the following steps, we'll assume that you're adding a new license called th
 3. When the new branch is created, git will also automatically change it so that the new branch is your working branch. You can type `git status` to see your current working branch: ![screenshot from typing `git status` on clean repo](/DOCS/images/git-usage-git-status-clean.png)
 4. Now, since you're on the new branch, go ahead and create the new files in your text editor for the license you're adding. The two files for the "XYZ" license would be:
   * license template XML file: `src/XYZ.xml`
-  * test text file: `test/simpleTestForGenerator/XML.txt`
+  * test text file: `test/simpleTestForGenerator/XYZ.txt`
 5. After the files are created and saved, the files exist on your hard drive, but they are not yet saved to the new branch. If you type `git status` again, git sees the files are there but are not currently tracked by Git: ![screenshot from typing `git status` with untracked files](/DOCS/images/git-usage-git-status-untracked.png)
 6. The next step is to "**add**" the files, so that Git will start tracking them. The easiest way to do this is to specify "src" and "test" in the add command, which would add any new files that are found in the "src/" or "test/" directories:
   * **Add the files to be staged**: `git add src test`
