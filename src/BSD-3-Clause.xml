@@ -31,7 +31,7 @@
                 <alt match="(The name of.+may not)|(Neither the name of.+nor the names of its contributors may)|( Neither the name of.+nor the names of its authors and contributors may)|(Neither the name of.+nor the names of contributors may)|(Neither the name.+nor the names of contributors may)|(The names of its contributors may not)|(The names of any contributors may not)|(The names.+must not)|(None of the names of.+and any contributors may)" name="organizationClause3">
                  Neither the name of the copyright holder nor the names of its contributors may</alt>
                  be used to endorse or promote products derived from this
-               <alt match="software|work" name="software">software</alt> without <optional>specific</optional> prior written permission. <optional>To obtain permission, contact <alt match=".+" contact="contact">&lt;email&gt;</alt>.</optional>
+               <alt match="software|work" name="software">software</alt> without <optional>specific</optional> prior written permission. <optional>To obtain permission, contact &lt;email&gt;.</optional>
             </item>
         </list>
         <p>THIS SOFTWARE IS PROVIDED <alt match=".*" name="copyrightHolderAsIs">BY THE COPYRIGHT HOLDERS AND
