@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <exception>
+   <exception licenseId="Autoconf-exception-generic-3.0" name="Autoconf generic exception for GPL-3.0" listVersionAdded="3.22">
    <crossRefs>
       <crossRef>https://src.fedoraproject.org/rpms/redhat-rpm-config/blob/rawhide/f/config.guess</crossRef>
    </crossRefs>
