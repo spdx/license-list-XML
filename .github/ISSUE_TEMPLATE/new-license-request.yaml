@@ -67,7 +67,7 @@ body:
       label: URL to project(s) that use license
     validations:
       required: true
-   - type: textarea
+  - type: textarea
     id: full-text
     attributes:
       label: paste text of license here
