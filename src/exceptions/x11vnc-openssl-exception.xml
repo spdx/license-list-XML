@@ -13,7 +13,7 @@
             In addition, as a special exception, <alt name="author" match=".+">AUTHOR</alt> gives permission
             to link <alt name="project" match=".+">the code of its release of x11vnc</alt> with the OpenSSL project's
             "OpenSSL" library (or with modified versions of it that use the
-            same license as the "OpenSSL" library), and <optional>to</optional distribute the linked
+            same license as the "OpenSSL" library), and <optional>to</optional> distribute the linked
             executables. You must obey the GNU General Public License in all
             respects for all of the code used other than "OpenSSL". If you
             modify <alt name="file" match=".+">this file</alt>, you may extend this exception to your version
