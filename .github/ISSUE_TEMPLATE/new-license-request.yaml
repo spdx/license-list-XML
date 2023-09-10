@@ -8,7 +8,7 @@ body:
       value: |
         ### PLEASE NOTE
         
-        It is preferable to submit a request using the [SPDX Online Tools](https://tools.spdx.org/app/submit_new_license/). This makes it easier for you to make use of the online tools' XML editor to create the license XML template if the request is approved.
+        It is preferable to submit a request using the [SPDX Online Tools](https://tools.spdx.org/app/submit_new_license/). This makes it easier for you to make use of the online tools' XML editor to create the license XML template if the request is approved. If you do use this issue template, please be prepared to help create the XML and TXT files if your license is accepted.
         
   - type: textarea
     id: introduction
@@ -29,10 +29,21 @@ body:
     attributes:
       label: Suggested short identifier
       description: See [Explanation of SPDX License List Fields, section B)](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-fields.md) for more details
+    validations:
+      required: true
+   - type: dropdown
+    id: license-exception
+    attributes:
+      label: License or Exception?
+      options: 
+        - license
+        - exception
   - type: input
     id: url
     attributes:
       label: URL to license text
+    validations:
+      required: true
   - type: dropdown
     id: osi-status
     attributes:
@@ -54,5 +65,11 @@ body:
     id: usages
     attributes:
       label: URL to project(s) that use license
+    validations:
+      required: true
+   - type: textarea
+    id: full-text
+    attributes:
+      label: paste text of license here
     validations:
       required: true
