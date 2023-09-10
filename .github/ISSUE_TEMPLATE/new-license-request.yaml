@@ -8,7 +8,7 @@ body:
       value: |
         ### PLEASE NOTE
         
-        It is preferable to submit a request using the [SPDX Online Tools](https://tools.spdx.org/app/submit_new_license/). This makes it easier for you to make use of the online tools' XML editor to create the license XML template if the request is approved. If you do use this issue template, please be prepared to help creat the XML and TXT files if your license is accepted.
+        It is preferable to submit a request using the [SPDX Online Tools](https://tools.spdx.org/app/submit_new_license/). This makes it easier for you to make use of the online tools' XML editor to create the license XML template if the request is approved. If you do use this issue template, please be prepared to help create the XML and TXT files if your license is accepted.
         
   - type: textarea
     id: introduction
