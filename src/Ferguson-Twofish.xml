@@ -6,13 +6,6 @@
          <crossRef>https://github.com/wernerd/ZRTPCPP/blob/6b3cd8e6783642292bad0c21e3e5e5ce45ff3e03/cryptcommon/twofish.c#L113C3-L127</crossRef>
       </crossRefs>
       <text>
-         <copyrightText>
-            <p>
-               Fast, portable, and easy-to-use Twofish implementation,<br/>
-               Version 0.3.<br/>
-               Copyright (c) 2002 by Niels Ferguson.
-            </p>
-         </copyrightText>
          <p>
             The author hereby grants a perpetual license to everybody to
             use this code for any purpose as long as the copyright message is included
