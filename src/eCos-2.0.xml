@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isDeprecated="true" deprecatedVersion="2.0rc2" licenseId="eCos-2.0" name="eCos license version 2.0">
+   <license deprecatedVersion="2.0rc2" licenseId="eCos-2.0" name="eCos license version 2.0">
       <obsoletedBys>
           <obsoletedBy>GPL-2.0-or-later WITH eCos-exception-2.0</obsoletedBy>
       </obsoletedBys>

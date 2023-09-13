@@ -1,0 +1,75 @@
+name: New license request via GitHub Issue Template
+description: Submit a new license or exception request to SPDX 
+title: "New license request: "
+labels: ["new license/exception request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### PLEASE NOTE
+        
+        It is preferable to submit a request using the [SPDX Online Tools](https://tools.spdx.org/app/submit_new_license/). This makes it easier for you to make use of the online tools' XML editor to create the license XML template if the request is approved. If you do use this issue template, please be prepared to help create the XML and TXT files if your license is accepted.
+        
+  - type: textarea
+    id: introduction
+    attributes:
+      label: How license meets inclusion principles
+      description: Briefly explain how this license meets the [license inclusion principles](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-inclusion-principles.md)
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: License Name
+      description: Full name or title of license
+    validations:
+      required: true
+  - type: input
+    id: identifier
+    attributes:
+      label: Suggested short identifier
+      description: See [Explanation of SPDX License List Fields, section B)](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-fields.md) for more details
+    validations:
+      required: true
+  - type: dropdown
+    id: license-exception
+    attributes:
+      label: License or Exception?
+      options: 
+        - license
+        - exception
+  - type: input
+    id: url
+    attributes:
+      label: URL to license text
+    validations:
+      required: true
+  - type: dropdown
+    id: osi-status
+    attributes:
+      label: OSI Status
+      options:
+        - I don't know
+        - Approved
+        - Not Submitted
+        - Submitted, but pending
+        - Rejected
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: License author or steward
+      description: If not known, put 'Unknown'
+  - type: textarea
+    id: usages
+    attributes:
+      label: URL to project(s) that use license
+    validations:
+      required: true
+  - type: textarea
+    id: full-text
+    attributes:
+      label: paste text of license here
+    validations:
+      required: true

@@ -9,10 +9,11 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-java@v1
+      - uses: actions/setup-java@v3
         with:
+          distribution: 'temurin'
           java-version: '11'
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Fetch changes for git diff
         id: fetchdiff
         run: |

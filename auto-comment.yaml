@@ -1,0 +1,29 @@
+# SPDX-License-Identifier: 0BSD OR CC0-1.0
+
+repo: spdx/license-list-XML
+startAt: 2023-02-23
+pullRequests: false
+filters:
+  - type: issue
+    criteria:
+      state: closed
+      labels:
+        $and:
+          - $in: 'new license/exception: Accepted'
+          - $nin: 'Acceptance Notification Sent'
+
+actions:
+  - type: add_comment
+    body: >
+      This new license/exception request has been accepted and the information
+      for the license/exception has been merged to the repository. Thank you to
+      everyone who has participated!
+
+      The license/exception will be published at https://spdx.org/licenses/ as
+      part of the next SPDX License List release, which is expected to be in
+      three months' time or sooner. In the interim, the new license will appear
+      on the license list preview site at https://spdx.github.io/license-list-data/.
+
+      **This is an automated message.**
+  - type: add_label
+    label: 'Acceptance Notification Sent'

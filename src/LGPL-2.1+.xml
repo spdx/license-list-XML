@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="true" licenseId="LGPL-2.1+"  isDeprecated="true" deprecatedVersion="2.0rc2"
+   <license isOsiApproved="true" licenseId="LGPL-2.1+" deprecatedVersion="2.0rc2"
             name="GNU Lesser General Public License v2.1 or later">
       <obsoletedBys>
          <obsoletedBy>LGPL-2.1-or-later</obsoletedBy>

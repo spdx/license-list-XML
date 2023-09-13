@@ -1,5 +1,113 @@
 # Release Notes for SPDX License List
 
+## version 3.21 - 2023-06-18
+
+New licenses/exceptions added: 28
+
+1.  Asterisk-exception
+2. ASWF-Digital-Assets-1.0
+3. ASWF-Digital-Assets-1.1
+4. Autoconf-exception-macro
+5. Boehm-GC
+6. CC-BY-SA-3.0-IGO
+7. cryptsetup-OpenSSL-exception
+8. dtoa
+9. GPL-3.0-interface-exception
+10. Inner-Net-2.0
+11. Latex2e-translated-notice
+12. libpri-OpenH323-exception
+13. Linux-man-pages-1-para
+14. Linux-man-pages-copyleft-2-para
+15. Linux-man-pages-copyleft-var
+16. LLGPL
+17. metamail
+18. MIT-Festival
+19. NIST-Software
+20. OLFL-1.3
+21. OPL-UK-3.0
+22. SGP4
+23. TermReadKey
+24. UnixCrypt
+25. vsftpd-openssl-exception
+26. Widget-Workshop
+27. Xdebug-1.03
+28. Xfig
+
+Added documentation for inclusion principles for exceptions on the SPDX Exceptions List.
+
+Removed `isDeprecated` field from licenses and exceptions in favor of `deprecatedVersion` alone.
+
+Added and improved markup for many licenses and many minor improvements to other documentation.
+
+Updated to latest version of the License List Publisher and GitHub Actions dependencies.
+
+Designated current license list XML schema as version 1.0.0.
+
+See all PRs for 3.21 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.21%22+is%3Aclosed
+
+See comparision of changes from 3.20 to 3.21: https://github.com/spdx/license-list-XML/compare/v3.20...v3.21
+
+## version 3.20 - 2023-02-17
+
+New licenses/exceptions added: 40
+
+1.  AdaCore-doc
+2.  Autoconf-exception-generic
+3.  BSD-4.3RENO
+4.  BSD-4.3TAHOE
+5.  BSD-Advertising-Acknowledgement
+6.  BSD-Attribution-HPND-disclaimer
+7.  Bitstream-Charter
+8.  Brian-Gladman-3-Clause
+9.  CC-BY-NC-SA-2.0-DE
+10. CFITSIO
+11. CMU-Mach
+12. Clips
+13. Cornell-Lossless-JPEG
+14. GNAT-exception
+15. Graphics-Gems
+16. HP-1986
+17. HPND-Markus-Kuhn
+18. HPND-export-US
+19. HPND-sell-variant-MIT-disclaimer
+20. IEC-Code-Components-EULA
+21. IJG-short
+22. JPL-image
+23. Kazlib
+24. LOOP
+25. MIT-Wu
+26. Martin-Birgmeier
+27. OFFIS
+28. OpenPBS-2.3
+29. QPL-1.0-INRIA-2004
+30. QPL-1.0-INRIA-2004-exception
+31. snprintf
+32. SunPro
+33. SWI-exception
+34. Symlinks
+35. TPDL
+36. TPL-1.0
+37. TTWL
+38. UCAR
+39. w3m
+40. xlock
+
+Added historical timeline for the license list.
+
+Recorded and made available links to videos showing two different processes for creating license XML files, and improved related process documentation.
+
+Added and improved markup for many licenses and many minor improvements to other documentation.
+
+Adjusted ListedLicense XSD schema to remove directly-nested lists that had resulted in invalid HTML, and made corresponding fixes to XML for many licenses.
+
+Fixed broken validate-schema CI check and simplified test-one-license script.
+
+Updated to latest version of the License List Publisher.
+
+See all PRs for 3.20 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.20%22+is%3Aclosed
+
+See comparision of changes from 3.19 to 3.20: https://github.com/spdx/license-list-XML/compare/v3.19...v3.20
+
 ## version 3.19 - 2022-11-30
 
 New licenses/exceptions added: 5
@@ -84,7 +192,7 @@ Deprecated licenses/exceptions: 1
 
 1. bzip2-1.0.5
 
-Added documentation describing how to use the Git command line to create and test new license XML files. See https://github.com/spdx/license-list-XML/blob/master/DOCS/git-usage.md for more information.
+Added documentation describing how to use the Git command line to create and test new license XML files. See [DOCS/git-usage.md](DOCS/git-usage.md) for more information.
 
 Updates to various documentation, adjustments to markup for various licenses and other minor changes.
 
@@ -105,7 +213,7 @@ New licenses/exceptions added: 4
 
 Note that "Linux-man-pages-copyleft" was initially merged as "Verbatim-man-pages", but at the community's request the ID was updated prior to inclusion in the release. See https://github.com/spdx/license-list-XML/issues/1310 for more details.
 
-Added template for reviews of new license requests, to evaluate against the license inclusion principles. See https://github.com/spdx/license-list-XML/blob/master/DOCS/submission-response-template.md for the review template.
+Added template for reviews of new license requests, to evaluate against the license inclusion principles. See [DOCS/template-license-review-checklist.md](DOCS/template-license-review-checklist.md) for the review template.
 
 Updates to various documentation, adjustments to markup for various licenses and other minor changes.
 

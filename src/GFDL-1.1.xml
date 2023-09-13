@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
   <license licenseId="GFDL-1.1" isOsiApproved="false"
   name="GNU Free Documentation License v1.1"
-  isDeprecated="true" deprecatedVersion="3.0">
+  deprecatedVersion="3.0">
     <obsoletedBys>
       <obsoletedBy>GFDL-1.1-only</obsoletedBy>
       <obsoletedBy expression="GFDL-1.1+">GFDL-1.1-or-later</obsoletedBy>
