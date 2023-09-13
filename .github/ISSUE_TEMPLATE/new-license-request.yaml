@@ -31,7 +31,7 @@ body:
       description: See [Explanation of SPDX License List Fields, section B)](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-fields.md) for more details
     validations:
       required: true
-   - type: dropdown
+  - type: dropdown
     id: license-exception
     attributes:
       label: License or Exception?
