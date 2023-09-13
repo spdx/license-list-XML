@@ -27,8 +27,8 @@
 
       <p>Permission to use, copy, modify<optional spacing="none">,</optional> and distribute this software and its documentation for any purpose and
          without fee is hereby granted<optional spacing="none">,</optional> provided that the above copyright notice appear in all copies<optional spacing="after">,</optional>
-         <optional>and</optional> that both <optional>that</optional>
-         <optional>the</optional> copyright notice
+         <optional>and</optional> that both <alt name="that" match="that|the">that</alt>
+          copyright notice
          and this permission notice  <alt name="appear" match="appear|appears">appear</alt> in supporting documentation<optional>, and that the name <optional>of</optional>
             <alt match=".*" name="copyrightHolder0">&lt;copyright holder&gt;</alt>
             <alt match=".*" name="orRelated">&lt;or related entities&gt;</alt>
