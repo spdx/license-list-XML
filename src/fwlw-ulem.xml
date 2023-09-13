@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="fwlw-ulem"
+   name="fwlw and ulem License" listVersionAdded="3.22">
+      <crossRefs>
+         <crossRef>https://mirrors.nic.cz/tex-archive/macros/latex/contrib/fwlw/README</crossRef>
+      </crossRefs>
+      <notes>
+         TBD
+      </notes>
+      <text>
+         <copyrightText>
+            Copyright (C) 1993,1995 by Donald Arseneau
+            Vancouver, Canada, email asnd@triumf.ca
+         </copyrightText>
+         <p>
+            This
+            <optional>
+               software
+            </optional>
+            package may be freely used, transmitted, reproduced, or modified
+            <optional>
+               for any purpose
+            </optional>
+            provided that this
+            <optional>
+               copyright
+            </optional>
+            notice is left intact.
+         </p>
+      </text>
+   </license>
+</SPDXLicenseCollection>
