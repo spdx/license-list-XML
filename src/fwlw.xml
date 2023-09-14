@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="fwlw-ulem"
-   name="fwlw and ulem License" listVersionAdded="3.22">
+   name="fwlw License" listVersionAdded="3.22">
       <crossRefs>
          <crossRef>https://mirrors.nic.cz/tex-archive/macros/latex/contrib/fwlw/README</crossRef>
       </crossRefs>
