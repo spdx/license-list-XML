@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="ulem"
-   name="ulem License" listVersionAdded="">
+   name="ulem License" listVersionAdded="3.22">
       <crossRefs>
          <crossRef>https://mirrors.ctan.org/macros/latex/contrib/ulem/README</crossRef>
       </crossRefs>
