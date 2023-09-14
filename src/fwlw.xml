@@ -14,19 +14,8 @@
             Vancouver, Canada, email asnd@triumf.ca
          </copyrightText>
          <p>
-            This
-            <optional>
-               software
-            </optional>
-            package may be freely used, transmitted, reproduced, or modified
-            <optional>
-               for any purpose
-            </optional>
-            provided that this
-            <optional>
-               copyright
-            </optional>
-            notice is left intact.
+            This software package may be freely used, transmitted, reproduced, or modified
+            provided that this notice is left intact.
          </p>
       </text>
    </license>
