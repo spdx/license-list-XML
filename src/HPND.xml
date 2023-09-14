@@ -18,7 +18,7 @@
          <p>Historical Permission Notice and Disclaimer</p>
       </titleText>
       <copyrightText>
-         <p>&lt;copyright notice&gt;</p>
+         <p>Copyright &lt;year&gt; &lt;copyright holder&gt;</p>
       </copyrightText>
 
       <p>Permission to use, copy, modify<optional spacing="none">,</optional> and distribute this software and its documentation for any purpose and
