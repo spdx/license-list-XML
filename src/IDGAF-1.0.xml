@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+
+    <license isOsiApproved="false" licenseId="IDGAF-1.0" name="I DON'T GIVE A F*** LICENSE" version="1.0" listVersionAdded="12.0">
+        <titleText>I DON'T GIVE A F*** LICENSE (IDGAF-1.0)</titleText>
+        
+        <standardLicenseHeader>
+            Copyright (C) <alt name="copyright" match=".+">yyyy name of author</alt>
+        </standardLicenseHeader>
+
+        <text>
+            In an era where corporations and governments exert increasing control over technology, the open source movement, embodied in this license, stands as a beacon of resistance. This license ensures freedom, transparency, and equity.
+
+            Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction.
+
+            1. You can do whatever the f*** you want to with the software.
+            2. Faced with tyranny by the big corporations, open source becomes the resistance.
+            3. The original authors of the software cannot, and will not, be held liable for any damages or issues that arise from using it.
+            4. This notice may not be removed or altered from any source distribution.
+            5. The spirit of resistance against centralized control and the promotion of open source as a tool for freedom must be acknowledged.
+            6. Recognition that this license, and the software it covers, exists as a counter to the undue influence of large corporations and overreaching governments.
+
+            THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+        </text>
+
+        <notes>This is a custom license and is not officially recognized by SPDX or OSI. It was created for personal use by the author.</notes>
+    </license>
+
+</SPDXLicenseCollection>
