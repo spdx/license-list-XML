@@ -1,4 +1,4 @@
-(c) Copyright [dates of first publication], Silicon Graphics, Inc.
+(c) Copyright 1993, Silicon Graphics, Inc.
 ALL RIGHTS RESERVED
 Permission to use, copy, modify, and distribute this software for
 any purpose and without fee is hereby granted, provided that the above
