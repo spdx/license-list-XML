@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="SGI-OpenGL" listVersionAdded="" name="SGI OpenGL License">
+   <license isOsiApproved="false" licenseId="SGI-OpenGL" listVersionAdded="3.22" name="SGI OpenGL License">
       <crossRefs>
          <crossRef>https://gitlab.freedesktop.org/mesa/glw/-/blob/master/README?ref_type=heads</crossRef>
       </crossRefs>
