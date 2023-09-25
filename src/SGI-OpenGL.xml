@@ -6,12 +6,9 @@
       </crossRefs>
       <notes />
     <text>
-      <titleText>
-        <p>(c) Copyright [dates of first publication], Silicon Graphics, Inc.<br/>
-           ALL RIGHTS RESERVED</p>
-      </titleText>
       <copyrightText>
-         <p>Copyright (C) [dates of first publication] Silicon Graphics, Inc. All Rights Reserved.</p>
+        <p>(c) Copyright 1993, Silicon Graphics, Inc.<br/>
+           ALL RIGHTS RESERVED</p>
       </copyrightText>
 
       <p>Permission to use, copy, modify, and distribute this software for
