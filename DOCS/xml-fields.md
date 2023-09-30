@@ -173,6 +173,7 @@ Also note that some annotated portions of text (specifically `<titleText>`, `<bu
 
 Learning regular expressions is outside the scope of this document. However, here are a few of the most common patterns, taken from [BSD-3-Clause](../src/BSD-3-Clause.xml) which is a good example of using several `<alt>` tags effectively:
 * `<alt match="are|is" name="tobe">are</alt>`: Matches if the text is either the word "are" or the word "is"
+* `<alt match="Lesser|Library|()" name="lesser">Lesser</alt>`: Matches if the text is either the word "Lesser" or "Library" or neither
 * `<alt match="EXPRESS(ED)?" name="express">EXPRESS</alt>`: Matches if the text is either the word "EXPRESS" or the word "EXPRESSED"
 * `<alt match=".+" name="copyrightHolderAsIs">THE COPYRIGHT HOLDERS AND CONTRIBUTORS</alt>`: Matches anything as long as it consists of at least one or more characters
 
