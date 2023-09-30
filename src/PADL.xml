@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="PDAL"
-   name="PDAL License" listVersionAdded="3.22">
+   <license isOsiApproved="false" licenseId="PADL"
+   name="PADL License" listVersionAdded="3.22">
       <crossRefs>
          <crossRef>https://git.openldap.org/openldap/openldap/-/blob/master/libraries/libldap/os-local.c?ref_type=heads#L19-23</crossRef>
       </crossRefs>
