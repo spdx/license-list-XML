@@ -1,5 +1,64 @@
 # Release Notes for SPDX License List
 
+## version 3.22 - 2023-10-05
+
+New licenses/exceptions added: 48
+
+1. Adobe-Utopia
+2. Autoconf-exception-generic-3.0
+3. BSD-3-Clause-flex
+4. BSD-3-Clause-HP
+5. BSD-3-Clause-Sun
+6. BSD-Inferno-Nettverk
+7. BSD-Systemics
+8. check-cvs
+9. Cronyx
+10. DL-DE-ZERO-2.0
+11. FBM
+12. Ferguson-Twofish
+13. Furuseth
+14. fwlw
+15. GCC-exception-2.0-note
+16. GNU-compiler-exception
+17. HP-1989
+18. HPND-DEC
+19. HPND-doc
+20. HPND-doc-sell
+21. HPND-export-US-modify
+22. HPND-Pbmplus
+23. HPND-sell-regexpr
+24. HPND-UC
+25. Kastrup
+26. lsof
+27. Lucida-Bitmap-Fonts
+28. magaz
+29. McPhee-slideshow
+30. MIT-testregex
+31. MMIXware
+32. MPEG-SSG
+33. PADL
+34. pnmstitch
+35. python-ldap
+36. SANE-exception
+37. SGI-OpenGL
+38. SL
+39. Soundex
+40. ssh-keyscan
+41. stunnel-exception
+42. swrule
+43. Texinfo-exception
+44. TTYP0
+45. UBDL-exception
+46. ulem
+47. URT-RLE
+48. Zeeff
+
+Added and improved markup for many licenses and many minor improvements to other documentation.
+
+See all PRs for 3.22 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.22%22+is%3Aclosed
+
+See comparision of changes from 3.21 to 3.22: https://github.com/spdx/license-list-XML/compare/v3.21...v3.22
+
 ## version 3.21 - 2023-06-18
 
 New licenses/exceptions added: 28
