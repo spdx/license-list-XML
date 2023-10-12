@@ -1,18 +1,25 @@
 # How do I know if a license matches to a license already on the SPDX License List?
 
-As the SPDX License List grows, we need to rely on tooling more and more to check if a license found is or is not already on the SPDX License List to then determine if it should be submitted. This document provides information on various helpful tools and other guidance to help with this task. 
+As the SPDX License List grows, we need to rely on tooling more and more to check if a license found matches to a license already on the SPDX License List. This document provides information on various helpful tools and other guidance to help with this task.
 
 ## SPDX Check License
-SPDX Check License (source code)- is a Django application in which you paste the text of a license or exception into a text box and it will match it against all the licenses and exceptions in the SPDX License List, implementing the SPDX Matching Guidelines. Because of its thoroughness, this tool may take more time to give an answer than SPDX-license-diff. It will tell you if there is a match or not and if it finds a close match, but won’t indicate a diff.
+SPDX Check License is part of the SPDX Online Tool suite and allows you to paste the text of a license or exception into a text box and it will match it against all the licenses and exceptions in the SPDX License List, implementing the SPDX Matching Guidelines. Because of its thoroughness, this tool may take a bit of time to give an answer. It will tell you if there is a match or not and if it finds a close match, but won’t indicate a diff. This is an open source Django application and the source code is located HERE
 
 ## SPDX-license-diff
-SPDX-license-diff is a Firefox and Chromium/Chrome plugin that compares highlighted text of a license as displayed on a web page to find the closest match to something on the SPDX License List. If a match to an SPDX identifier is given as close to but less than 100%, SPDX-license-diff will show you differences in the texts.
-
-### Good for: 
-Quick identification as compared to SPDX License List for a specific license text.
+SPDX-license-diff is a Firefox and Chromium/Chrome plugin. Once installed, you can highlight the text of a license on a web pages and it will find the closest matches, on the SPDX License List. The results will indicate a percentage match and a drop-down of licenses with decreasing matches, displays the differences in the texts.  This is a TYPE open source tool and the code is located HERE
 
 ### Tips for using: 
-In some cases, differences will display that are actually accounted for by the SPDX matching guidelines. If it’s a close match, (e.g., only the name of the copyright holder or author, or other non-substantive seeming differences) it is recommended to cross-check against the actual template that the SPDX license list uses to implement (some of) the matching guidelines.
+In some cases, differences will display that are actually accounted for by the SPDX matching guidelines. If it’s a close match, (e.g., only the name of the copyright holder or author, or other non-substantive seeming differences) it is recommended to cross-check against the actual XML template for the given license.
 
+## Google site search
+Sometimes you might use one or both of the above tools and still think there is something familiar about the license. You can also try using a Google site search and search on a specific phrase of text.  To do this, type the following into the search bar `site:https://spdx.org/licenses/  "specific text phrase between quotes"
 
+# Guidance related to specific licenses
+
+## Historical Permission and Notice Disclaimer (HPND)
+
+text here
+## BSD-3-Clause
+
+text here
 
