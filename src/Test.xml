@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="true" licenseId="test-license"
+   name="Test license - please ignore" listVersionAdded="">
+      <crossRefs>
+         <crossRef>http://example.com</crossRef>
+      </crossRefs>
+      <notes>
+      </notes>
+      <text>
+         <p>
+            test please ignore
+         </p>
+      </text>
+   </license>
+</SPDXLicenseCollection>
