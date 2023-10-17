@@ -25,8 +25,14 @@ To do so, type the following into the search bar `site:https://spdx.org/licenses
 
 ## Historical Permission and Notice Disclaimer (HPND)
 
-text here
+`HPND` was [submitted to the Open Source Initiative for approval in 2002](http://lists.opensource.org/pipermail/license-discuss_lists.opensource.org/2002-November/006304.html) with the goal of being able to recognize the many open source packages that use this template. 
+
+Because it has a lot of templating, license matching tools may have a hard time identifying license that matches to the multiple variations allowed by the template. As of recently, the SPDX License List has added additional variants that do not match any of the templating options which may mean something HPND-like will be picked up by the licnese matching tools.
+
+In any case, if you find a license that starts with `Permission to use, copy, modify, and distribute this software and
+its documentation for any purpose and without fee is hereby granted,` it may be worth taking a closer look at `HPND` and other licenses that are related to it currently on the SPDX License List.
+
 ## BSD-3-Clause
 
-text here
+`BSD-3-Clause` is one of the licenses that provided incentive to accommodate "replaceable" text as explained in section XX of the SPDX License Matching Guidelines. 
 
