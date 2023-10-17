@@ -29,10 +29,11 @@ To do so, type the following into the search bar `site:https://spdx.org/licenses
 
 Because it has a lot of templating, license matching tools may have a hard time identifying license that matches to the multiple variations allowed by the template. As of recently, the SPDX License List has added additional variants that do not match any of the templating options which may mean something HPND-like will be picked up by the licnese matching tools.
 
-In any case, if you find a license that starts with `Permission to use, copy, modify, and distribute this software and
-its documentation for any purpose and without fee is hereby granted,` it may be worth taking a closer look at `HPND` and other licenses that are related to it currently on the SPDX License List.
+In any case, if you find a license that starts with `Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted,` it may be worth taking a closer look at `HPND` and other licenses that are related to it currently on the SPDX License List.
 
 ## BSD-3-Clause
 
-`BSD-3-Clause` is one of the licenses that provided incentive to accommodate "replaceable" text as explained in section XX of the SPDX License Matching Guidelines. 
+`BSD-3-Clause` is one of the licenses that provided incentive to accommodate "replaceable" text as explained in section B.3.4 of the [SPDX License Matching Guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/). Specifically, clause 3 may include different names or different wording to accommodate the restriction on use of the name that are non-substantive differences. 
+
+If you find a license that matches mostly matches to `BSD-3-Clause` except differences such as this, you will need to look at the [XML file](https://github.com/spdx/license-list-XML/blob/main/src/BSD-3-Clause.xml) to get an accurate representation of what variations are allowed for the license you found to still be considered a match to `BSD-3-Clause`. If you have a hard time seeing the various mark-up options in the XML file, we created THIS FILE that displays the markup options in a more visually accessible way. 
 
