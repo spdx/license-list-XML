@@ -15,10 +15,11 @@
                         Modifications and Current Implimentation Copyright (C)
                         2000 W3Works, LLC.
                 </p>
-        </copyrightText>
+
         <p>
                 All rights reserved.
         </p>
+                    </copyrightText>
         <p>
                 Current <alt name="implimentation" match="implimentation|implementation">implimentation</alt> contains modifications made by
                 <alt name="author" match=".*">W3Works, LLC</alt>.  The
