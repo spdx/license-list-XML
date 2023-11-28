@@ -6,7 +6,7 @@ The files in this folder contains documentation important to understanding the S
 * [License inclusion principles](license-inclusion-principles.md) for adding new licenses or exceptions to the SPDX License List
 * [FAQ](faq.md) - FAQ related to SPDX License List that is linked to from the SPDX.dev website
 
-Also see [CONTRIBUTING](./CONTRIBUTING.md) for general information about contributing to the License List project.
+Also see [CONTRIBUTING](../CONTRIBUTING.md) for general information about contributing to the License List project.
 
 ## Process explanations
 
