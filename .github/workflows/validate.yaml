@@ -8,7 +8,7 @@ jobs:
     name: Validate schema
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Set up Python 3.10
         uses: actions/setup-python@v3
         with:
@@ -27,7 +27,7 @@ jobs:
       - uses: actions/setup-java@v1
         with:
           java-version: '11'
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Fetch changes for git diff
         id: fetchdiff
         run: |

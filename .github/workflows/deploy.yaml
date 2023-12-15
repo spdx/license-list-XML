@@ -13,7 +13,7 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: '11'
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Fetch changes for git diff
         id: fetchdiff
         run: |
