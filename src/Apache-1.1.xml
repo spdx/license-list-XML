@@ -8,7 +8,7 @@
       <notes>This license has been superseded by Apache License 2.0</notes>
     <text>
       <titleText>
-         <p>Apache License 1.1</p>
+         <p><alt match="(Apache License 1\.1|The Apache Software License, Version 1\.1|The Apache Software License Version 1\.1)" name="licenseNameClause">Apache License 1.1</alt></p>
       </titleText>
       <copyrightText>
          <p>Copyright (c) 2000 The Apache Software Foundation. All rights reserved.</p>
@@ -66,9 +66,9 @@
       <p>
          <optional>This software consists of voluntary contributions made by many individuals on behalf of the Apache
        Software Foundation. For more information on the Apache Software Foundation, please see
-       http://www.apache.org/. Portions of this software are based upon public domain software originally
-       written at the National Center for Supercomputing Applications, University of Illinois,
-      Urbana-Champaign.</optional>
+       <alt match="(http://www\.apache\.org|<http://www\.apache\.org>)" name="urlClause">http://www.apache.org/</alt>.
+       Portions of this software are based upon public domain software originally written at the National Center for
+       Supercomputing Applications, University of Illinois, Urbana-Champaign.</optional>
       </p>
     </text>
   </license>
