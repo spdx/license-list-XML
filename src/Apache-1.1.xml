@@ -66,7 +66,7 @@
       <p>
          <optional>This software consists of voluntary contributions made by many individuals on behalf of the Apache
        Software Foundation. For more information on the Apache Software Foundation, please see
-       <alt match="(http://www\.apache\.org|<http://www\.apache\.org>)" name="urlClause">http://www.apache.org/</alt>.
+       <alt match="(http://www\.apache\.org|&lt;http://www\.apache\.org&gt;)" name="urlClause">http://www.apache.org/</alt>.
        Portions of this software are based upon public domain software originally written at the National Center for
        Supercomputing Applications, University of Illinois, Urbana-Champaign.</optional>
       </p>
