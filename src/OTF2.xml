@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license licenseId="OTF2" name="OTF2 License Agreement" listVersionAdded="3.23">
+      <crossRefs>
+         <crossRef>https://perftools.pages.jsc.fz-juelich.de/cicd/otf2/tags/otf2-3.0/pdf/otf2.pdf</crossRef>
+      </crossRefs>
+      <text>
+         <copyrightText>
+          Copyright (c) 2009-2012, RWTH Aachen University, Germany<br />
+          Copyright (c) 2009-2012, Gesellschaft fuer numerische Simulation mbH
+                                   Braunschweig, Germany<br />
+          Copyright (c) 2009-2021, Technische Universitaet Dresden, Germany<br />
+          Copyright (c) 2009-2012, University of Oregon, Eugene, USA<br />
+          Copyright (c) 2009-2021, Forschungszentrum Juelich GmbH, Germany<br />
+          Copyright (c) 2009-2014, German Research School for Simulation Sciences GmbH,
+                                   Juelich/Aachen, Germany<br />
+          Copyright (c) 2009-2013, Technische Universitaet Muenchen, Germany<br />
+
+          All rights reserved.
+         </copyrightText>
+         <p>
+            Redistribution and use in source and binary
+            forms, with or without modification, are permitted
+            provided that the following conditions are met:
+         </p>
+         <list>
+            <item>
+               <bullet>1.</bullet>
+               Redistributions of source code must retain the above copyright
+               notice, this list of conditions and the following disclaimer.
+            </item>
+            <item>
+               <bullet>2.</bullet>
+               Redistributions in binary form must reproduce the
+               above copyright notice, this list of conditions and
+               the following disclaimer in the documentation and/or
+               other materials provided with the distribution.
+            </item>
+            <item>
+               <bullet>3.</bullet>
+               Neither the names of<br />
+                  RWTH Aachen University,<br />
+                  Gesellschaft fuer numerische Simulation mbH Braunschweig,<br />
+                  Technische Universitaet Dresden,<br />
+                  University of Oregon, Eugene,<br />
+                  Forschungszentrum Juelich GmbH,<br />
+                  German Research School for Simulation Sciences GmbH, or the<br />
+                  Technische Universitaet Muenchen,<br />
+                 nor the names of their contributors may be used to endorse or promote
+                 products derived from this software without specific prior written
+                 permission.
+            </item>
+         </list>
+         <p>
+            THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+            "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+            LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+            A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+            OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+            SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+            LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+            DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+            THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+            (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+            OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+         </p>
+      </text>
+   </license>
+</SPDXLicenseCollection>
