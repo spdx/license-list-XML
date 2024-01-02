@@ -21,21 +21,17 @@
         </p>
                     </copyrightText>
         <p>
-                Current <alt name="implimentation" match="implimentation|implementation">implimentation</alt> contains modifications made by
-                <alt name="author" match=".*">W3Works, LLC</alt>.  The
-                modifications remain copyright of <alt name="author" match=".*">W3Works, LLC</alt>
-                and attribution for these
-                modification should be made to
-                <alt name="author" match=".*">W3Works, LLC</alt>.  These modifications and
+                Current <alt name="implimentation" match="implimentation|implementation">implimentation</alt> 
+                contains modifications made by W3Works, LLC. The modifications remain copyright of W3Works, LLC
+                and attribution for these modification should be made to W3Works, LLC.  These modifications and
                 this copyright must remain with this package.
         </p>
         <p>
         Additions to the Restrictions set out below are:
-        1. All advertising
-        materials mentioning features or use of this software must display
+        1. All advertising materials mentioning features or use of this software must display
         the following <alt name="acknowledgement" match="acknowledgement|acknowledgment">acknowledgement</alt>:
         This product <alt name="inculdes" match="inculdes|includes">inculdes</alt> software developed by
-        <alt name="author" match=".*">W3Works, LLC (http://www.w3works.com)</alt>
+        W3Works, LLC (http://www.w3works.com)
         </p>
         <p>
         NO ADDITIONAL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED
@@ -76,10 +72,10 @@
                 provided with the distribution.
                 3. All advertising materials mentioning features or use of this software must display the
                 following <alt name="acknowledgement" match="acknowledgement|acknowledgment">acknowledgement</alt>: This product includes software
-                developed by <alt name="developer" match=".*">Systemics Ltd (http://www.systemics.com/)</alt>
+                developed by Systemics Ltd (http://www.systemics.com/)
         </p>
         <p>
-                THIS SOFTWARE IS PROVIDED BY SYSTEMICS LTD ``AS IS'' AND ANY
+                THIS SOFTWARE IS PROVIDED BY SYSTEMICS LTD ''AS IS'' AND ANY
                 EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
                 THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
                 PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
