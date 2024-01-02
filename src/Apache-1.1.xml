@@ -8,7 +8,7 @@
       <notes>This license has been superseded by Apache License 2.0</notes>
     <text>
       <titleText>
-         <p><alt match="(Apache License 1\.1|The Apache Software License, Version 1\.1|The Apache Software License Version 1\.1)" name="licenseNameClause">Apache License 1.1</alt></p>
+         <p>Apache License 1.1</p>
       </titleText>
       <copyrightText>
          <p>Copyright (c) 2000 The Apache Software Foundation. All rights reserved.</p>
