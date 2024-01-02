@@ -4,9 +4,9 @@ Please familiarize yourself with the SPDX License List and its supporting docume
 
 * [Explanation of the fields contained on the list](DOCS/license-fields.md)
 
-* [SPDX License List Matching Guidelines]([https://spdx.org/spdx-license-list/matching-guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/)) provides guidelines to be used for the purposes of matching licenses and license exceptions against those included on the SPDX License List.
+* [SPDX License List Matching Guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/) provides guidelines to be used for the purposes of matching licenses and license exceptions against those included on the SPDX License List.
 
-* [SPDX Specification]([https://spdx.org/specifications](https://spdx.dev/use/specifications/)): It is helpful to be familiar with certain sections of the SPDX Specification that use or deal with the SPDX License List. In particular: sub-sections related to license information in Section 7, 8, and 10; Appendices B, D, and E.
+* [SPDX Specification](https://spdx.org/specifications](https://spdx.dev/use/specifications/): It is helpful to be familiar with certain sections of the SPDX Specification that use or deal with the SPDX License List. In particular: sub-sections related to license information in Section 7, 8, and 10; Appendices B, D, and E.
 
 # Join the mailing list and our bi-weekly calls
 
