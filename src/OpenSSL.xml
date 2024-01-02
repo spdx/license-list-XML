@@ -5,7 +5,7 @@
          <crossRef>http://www.openssl.org/source/license.html</crossRef>
       </crossRefs>
       <notes>The OpenSSL toolkit stays under a dual license, i.e. both the conditions of the OpenSSL License and the
-         original SSLeay license apply to the toolkit.</notes>
+         original SSLeay license apply to the toolkit. In some rare cases, the order of the two licenses may be switched; as a quasi-exception to matching guideline B.3.2, this would still be considered a match.</notes>
     <text>
       <titleText>
          <p>OpenSSL License</p>
