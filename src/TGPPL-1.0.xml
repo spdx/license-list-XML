@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="TGPPL-1.0" name="Transitive
-   Grace Period Public Licence 1.0" listVersionAdded="3.23">
+   <license isOsiApproved="false" licenseId="TGPPL-1.0" name="Transitive Grace Period Public Licence 1.0" listVersionAdded="3.23">
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing/TGPPL</crossRef>
          <crossRef>https://tahoe-lafs.org/trac/tahoe-lafs/browser/trunk/COPYING.TGPPL.rst</crossRef>
