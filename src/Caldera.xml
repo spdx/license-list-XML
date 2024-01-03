@@ -6,7 +6,7 @@
       </crossRefs>
 
     <text>
-      <p>Caldera International, Inc. hereby grants a fee free license that includes the rights use, modify and
+     <optional> <p>Caldera International, Inc. hereby grants a fee free license that includes the rights use, modify and
          distribute this named source code, including creating derived binary products created from the source
          code. The source code for which Caldera International, Inc. grants rights are limited to the following
          UNIX Operating Systems that operate on the 16-Bit PDP-11 CPU and early versions of the 32-Bit UNIX
@@ -18,6 +18,7 @@
         International, Inc.
       </p>
       <p>The following copyright notice applies to the source code files for which this license is granted.</p>
+     </optional>
       <p>Copyright(C) Caldera International Inc. 2001-2002. All rights reserved.</p>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
