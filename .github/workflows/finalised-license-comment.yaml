@@ -14,7 +14,7 @@ jobs:
     name: Comment automatically on accepted license requests
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Install git3po
         run: npm install -g git3po
       - name: Run `git3po` to leave comment
