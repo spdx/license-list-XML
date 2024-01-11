@@ -1,0 +1,308 @@
+ข้อกำหนดและเงื่อนไขการให้ใช้ข้อมูลของศูนย์กลางข้อมูลเปิดภาครัฐ
+
+เวอร์ชัน ๑.๐
+
+ศูนย์กลางข้อมูลเปิดภาครัฐ ดำเนินการโดยสำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน) หรือ
+สพร. เพื่ออำนวยความสะดวกในการให้บริการแก่ประชาชนและการดำเนินงานของหน่วยงานของรัฐผ่านระบบ
+ดิจิทัล ทำหน้าที่ประสานงานให้หน่วยงานของรัฐจัดส่งหรือเชื่อมโยงข้อมูลที่ต้องเปิดเผยแก่ประชาชน
+โดยได้เปิดกว้างให้หน่วยงานของรัฐ เผยแพร่ข้อมูลบนเว็บไซต์ https://data.go.th เพื่อให้สามารถค้นหาและ
+เข้าถึงข้อมูลของภาครัฐได้ง่าย ส่งเสริมให้เกิดการมีส่วนร่วมและตรวจสอบการดำเนินงานของหน่วยงานของรัฐ
+ได้โดยสะดวก และสามารถนำข้อมูลไปพัฒนานวัตกรรมในด้านต่าง ๆ ของประเทศ
+
+ผู้ใช้ข้อมูลสามารถเข้าใช้ข้อมูลในเว็บไซต์นี้ได้ ภายใต้การยอมรับข้อกำหนดและเงื่อนไขการอนุญาตให้
+ใช้ข้อมูลเปิดภาครัฐ ดังนี้
+
+คำนิยาม
+
+“ข้อกำหนด” หมายความว่า ข้อกำหนดและเงื่อนไขการให้ใช้ข้อมูลของศูนย์กลางข้อมูลเปิดภาครัฐ
+
+“ข้อมูล” หมายความว่า สิ่งที่สื่อความหมายให้รู้เรื่องราวข้อเท็จจริงหรือเรื่องอื่นใด ไม่ว่าการสื่อ
+ความหมายนั้นจะทำได้โดยสภาพของสิ่งนั้นเองหรือโดยผ่านวิธีการใด ๆ และไม่ว่าจะได้จัดทำไว้ในรูปของ
+เอกสาร แฟ้ม รายงาน หนังสือ แผนผัง แผนที่ ภาพวาด ภาพถ่าย ภาพถ่ายดาวเทียม ฟิล์ม การบันทึกภาพหรือ
+เสียง การบันทึกโดยเครื่องคอมพิวเตอร์ เครื่องมือตรวจวัด การสำรวจระยะไกล หรือวิธีอื่นใดที่ทำให้สิ่งที่บันทึก
+ไว้ปรากฏได้
+
+“ข้อมูลเปิดภาครัฐ” หมายความว่า ข้อมูลที่หน่วยงานของรัฐต้องเปิดเผยต่อสาธารณะตามกฎหมายว่า
+ด้วยข้อมูลข่าวสารของราชการในรูปแบบข้อมูลดิจิทัลที่สามารถเข้าถึงและใช้ได้อย่างเสรี ไม่จำกัดแพลตฟอร์ม
+ไม่เสียค่าใช้จ่าย เผยแพร่ ทำซ้ำ หรือใช้ประโยชน์ได้โดยไม่จำกัดวัตถุประสงค์
+
+“ผู้ใช้ข้อมูล” หมายความว่า บุคคล คณะบุคคล นิติบุคคล หน่วยงาน หรือองค์กรทั้งภาครัฐและ
+ภาคเอกชนทั้งในประเทศและต่างประเทศ ที่เข้าใช้ข้อมูลซึ่งเผยแพร่บนศูนย์กลางข้อมูลเปิดภาครัฐ และตกลง
+ยอมรับเงื่อนไขการใช้ข้อมูลภายใต้ข้อกำหนด
+
+“ผู้ให้บริการข้อมูล” หมายถึง บุคลากร เจ้าหน้าที่ หรือผู้ดูแล ศูนย์กลางข้อมูลเปิดภาครัฐ
+
+“สำนักงาน” หมายความว่า สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน)
+
+“ศูนย์กลางข้อมูลเปิดภาครัฐ” หมายความว่า ระบบเทคโนโลยีสารสนเทศและเครือข่ายเชื่อมโยง
+ที่สำนักงานจัดให้มีขึ้นเพื่อประสานงานให้หน่วยงานของรัฐจัดส่งหรือเชื่อมโยงข้อมูลที่ต้องเปิดเผยแก่ประชาชน
+มาเปิดเผยในรูปแบบข้อมูลดิจิทัลต่อสาธารณะ
+
+“การใช้ข้อมูล” หมายความว่า การนำข้อมูลไม่ว่าทั้งหมดหรือบางส่วนไปใช้ประโยชน์ไม่ว่าจะด้วย
+รูปแบบหรือวิธีการใด ๆ หรือเพื่อวัตถุประสงค์ใด ๆ อันชอบด้วยกฎหมายของผู้ใช้ข้อมูล และภายใต้
+การยอมรับการปฏิบัติตามข้อกำหนด
+
+ข้อกำหนดและเงื่อนไขของข้อกำหนด
+
+เมื่อหน่วยงานของรัฐนำชุดข้อมูลขึ้นเผยแพร่บนศูนย์กลางข้อมูลเปิดภาครัฐแล้ว หน่วยงานของรัฐต้อง
+ยอมรับและปฏิบัติตามข้อกำหนดนี้ และให้ผู้ใช้ข้อมูลใช้สิทธิโดยไม่จำกัดแต่เพียงผู้เดียว (Non Exclusive
+License) โดยไม่จำกัดพื้นที่และไม่จำกัดเวลาในการใช้ข้อมูล ไม่ต้องขออนุญาตใช้สิทธิ และไม่เสียค่าตอบแทน
+การใช้สิทธิแต่อย่างใด
+
+สิทธิและหน้าที่ของผู้ใช้ข้อมูล
+
+ผู้ใช้ข้อมูล มีสิทธิและหน้าที่ในการใช้ข้อมูลในศูนย์กลางข้อมูลเปิดภาครัฐ ดังนี้
+
+(๑) ทำซ้ำ เผยแพร่ แจกจ่าย หรือใช้ประโยชน์ในรูปแบบอื่นใด เพื่อวัตถุประสงค์ในการพัฒนา
+บริการและนวัตกรรมต่าง ๆ หรือเพื่อประโยชน์อื่นใดในการพัฒนาเศรษฐกิจและสังคมของ
+ประเทศ
+
+(๒) ประยุกต์ใช้ข้อมูล โดยวิธีการหรือรูปแบบต่าง ๆ ซึ่งไม่เป็นการปรับเปลี่ยนเนื้อหาสาระของ
+ข้อมูลให้สื่อความหมายผิดไปจากเดิม
+
+(๓) ใช้ประโยชน์ในข้อมูลโดยการรวมข้อมูลเข้ากับข้อมูลอื่น ๆ หรือการนำข้อมูลมาเป็นส่วนหนึ่งใน
+การศึกษา วิเคราะห์ วิจัย พัฒนาบริการและนวัตกรรม หรือการดำเนินการอื่นใดเพื่อมุ่งให้เกิด
+ประโยชน์แก่ส่วนรวมในการพัฒนาเศรษฐกิจและสังคมของประเทศ
+
+(๔) การใช้ข้อมูลต้องมีการอ้างอิงถึงแหล่งข้อมูลที่เข้าถึงและหน่วยงานหรือบุคคลผู้เป็นเจ้าของ
+ข้อมูลด้วยทุกครั้ง
+
+(๕) ปฏิบัติตามมาตรฐาน ข้อกำหนด และหลักเกณฑ์ที่เกี่ยวข้องกับการใช้ข้อมูลเปิดภาครัฐตาม
+ที่คณะกรรมการพัฒนารัฐบาลดิจิทัล หรือสำนักงานกำหนด หรือที่จะออกใช้บังคับต่อไป
+
+ทั้งนี้ ผู้ใช้ข้อมูลต้องใช้ข้อมูลเพื่อวัตถุประสงค์ดังกล่าวข้างต้นโดยชอบด้วยกฎหมายและไม่ขัดต่อ
+ความสงบเรียบร้อยหรือศีลธรรมอันดีของประชาชน
+
+การอ้างอิงข้อมูลจากศูนย์กลางข้อมูลเปิดภาครัฐ
+
+ในการนำข้อมูลไม่ว่าทั้งหมดหรือบางส่วนไปใช้งาน หรือดำเนินการอื่นเพื่อวัตถุประสงค์ดังกล่าว
+ข้างต้นโดยชอบด้วยกฎหมายของผู้ใช้ข้อมูล ผู้ใช้ข้อมูลต้องอ้างอิงถึงหน่วยงานของรัฐที่เป็นผู้จัดทำข้อมูล โดย
+ใส่ข้อความเพื่อแสดงถึงแหล่งที่มาของข้อมูลเปิดภาครัฐ ทั้งนี้ ถ้าข้อมูลนั้นไม่ได้ระบุถึงหน่วยงานของรัฐที่เป็น
+ผู้จัดทำข้อมูล หรือเป็นข้อมูลที่เกิดจากการรวบรวมข้อมูลมาจากหน่วยงานของรัฐหลายแห่ง ให้ผู้ใช้ข้อมูลใช้
+รูปแบบการอ้างอิงโดยใช้ข้อความดังนี้
+
+“สิทธิการใช้ข้อมูลภายใต้ข้อกำหนดการให้ใช้ข้อมูลของศูนย์กลางข้อมูลเปิดภาครัฐ”
+
+การอ้างอิงถึงหน่วยงานของรัฐดังกล่าวข้างต้น ถือเป็นสาระสำคัญของเงื่อนไขการใช้บริการนี้ หากผู้ใช้
+ข้อมูลไม่ปฏิบัติตาม ถือว่าข้อมูลในส่วนที่รูปแบบการอ้างอิงไม่ถูกต้องเป็นการใช้ข้อมูลโดยไม่ได้รับอนุญาต
+
+ข้อยกเว้น
+
+การให้ใช้ข้อมูลตามเงื่อนไขการใช้บริการนี้ ไม่ครอบคลุมถึง
+
+(๑) ข้อมูลที่มีกฎหมายห้ามมิให้เปิดเผยอยู่ในเนื้อหาข้อมูล เว้นแต่เป็นไปตามข้อยกเว้นของกฎหมาย
+ว่าด้วยการนั้น
+
+(๒) โลโก้ เครื่องหมายราชการ หรือตราสัญลักษณ์ของหน่วยงานของรัฐหรือของผู้ให้บริการข้อมูล
+และตราแผ่นดิน ยกเว้นกรณีที่โลโก้ เครื่องหมาย หรือตราดังกล่าวเป็นส่วนหนึ่งของเอกสารหรือ
+ชุดข้อมูล
+
+(๓) เครื่องหมายสัญลักษณ์ทางทหาร
+
+(๔) สิทธิในทรัพย์สินทางปัญญาของข้อมูล ไม่ว่าสิทธินั้นจะเป็นของบุคคล องค์กร หรือหน่วยงานอื่น
+ซึ่งผู้ให้บริการข้อมูลไม่มีอำนาจที่จะอนุญาต
+
+เงื่อนไขการรับรอง
+
+การใช้ข้อมูลภายใต้เงื่อนไขการใช้ข้อมูลนี้ ไม่ถือเป็นการให้ใช้สิทธิในข้อมูลลักษณะที่แสดงถึงสถานะ
+อย่างเป็นทางการใด ๆ ระหว่างผู้ให้บริการข้อมูลและผู้ใช้ข้อมูล และไม่ถือว่าผู้ให้บริการข้อมูลรับรองการใช้
+ข้อมูลของผู้ใช้ข้อมูลแต่อย่างใด
+
+ข้อยกเว้นความรับผิด
+
+ข้อมูลที่อนุญาตให้ผู้ใช้ข้อมูลใช้เป็นข้อมูลดิบ ที่มีคุณลักษณะหรือคุณสมบัติอยู่ในสภาพเดิม โดย
+ผู้ให้บริการข้อมูลไม่ได้เป็นผู้จัดเก็บ รวบรวม หรือจัดทำขึ้นเอง หากแต่ผู้ให้บริการข้อมูลเป็นผู้ประสานหรือ
+ดำเนินการที่เกี่ยวข้องเพื่อให้หน่วยงานของรัฐจัดส่งหรือเชื่อมโยงข้อมูลมาที่ศูนย์กลางข้อมูลเปิดภาครัฐ ดังนั้น
+ผู้ให้บริการข้อมูลจึงไม่ได้ให้การรับรองความถูกต้องหรือความสมบูรณ์ของข้อมูล และไม่ถือว่าผู้ให้บริการข้อมูล
+และผู้ใช้ข้อมูลมีความผูกพันเป็นตัวแทนหรือหุ้นส่วนระหว่างกัน ตลอดจนผู้ให้บริการข้อมูลไม่รับรองและไม่
+รับผิดชอบต่อความเสียหายใด ๆ ที่เกิดจากการใช้งานข้อมูลของผู้ใช้ข้อมูล
+
+ผู้ให้บริการข้อมูล ขอสงวนสิทธิ์ในการระงับชั่วคราวหรือยกเลิกการเผยแพร่ข้อมูลบนศูนย์กลางข้อมูล
+เปิดภาครัฐ หรือยกเลิกการให้ข้อมูลต่อไปไม่ว่ากรณีใด ๆ โดยไม่จำต้องบอกกล่าวล่วงหน้า และไม่ก่อให้เกิด
+ความรับผิดชอบใด ๆ แก่ผู้ให้บริการข้อมูล
+
+กฎหมายที่ใช้บังคับ
+
+การดำเนินการเปิดเผยข้อมูลนี้ เป็นไปตามพระราชบัญญัติการบริหารงานและการให้บริการภาครัฐ
+ผ่านระบบดิจิทัล พ.ศ.๒๕๖๒ โดยมีวัตถุประสงค์ให้มีการเปิดเผยข้อมูลหรือข่าวสารสาธารณะที่หน่วยงานของ
+รัฐจัดทำและครอบครองในรูปแบบและช่องทางดิจิทัล เพื่อให้ประชาชนเข้าถึงได้โดยสะดวก มีส่วนร่วมและ
+ตรวจสอบการดำเนินงานของรัฐ และสามารถนำข้อมูลไปพัฒนาบริการและนวัตกรรมที่จะเป็นประโยชน์ต่อ
+ประเทศในด้านต่าง ๆ โดยคณะกรรมการพัฒนารัฐบาลดิจิทัลกำหนดประเภท รูปแบบ และมาตรฐานของ
+ข้อมูลที่เปิดเผยแก่ประชาชนโดยศูนย์กลางข้อมูลเปิดภาครัฐ ให้เป็นแนวทางและมาตรฐานเดียวกัน รวมทั้ง
+สอดคล้องกับหลักการเปิดเผยข้อมูลที่เป็นสากล
+
+การตรวจสอบที่มาของข้อมูล
+
+การตรวจสอบว่าข้อมูลที่ปรากฏเป็นข้อมูลภายใต้ข้อกำหนดนี้ สามารถตรวจสอบข้อมูลได้ที่เว็บไซต์
+ภายใต้ Domain Name ชื่อ “data.go.th” เท่านั้น หรือสอบถามข้อมูลได้ที่ ศูนย์บริการลูกค้า (DGA Contact
+Center) หมายเลขโทรศัพท์ ๐ ๒๖๑๒ ๖๐๖๐ หรืออีเมล์ contact@dga.or.th
+
+----
+
+Terms and Conditions for DGA Open Government License
+
+Version 1.0
+
+Open Government Data Platform provided by Digital Government Development Agency
+(Public Organization) (DGA), is broadenly facilitated the public and government organizations
+by digital system. DGA supports government organizations to share or connect their data to
+the public, openly published on the website at https://data.go.th, for the purposes of
+transparently providing data search and access to the public as well as promoting their
+involvement in and inspection on governmental activities and encouraging them to further
+use the data to develop innovations and services, which would be benefitial to the country
+in certain aspects.
+
+The user will be able to use the data, which are contained on Open Government Data Platform
+or thereunder, under the agreement to be bound by and comply with the following terms
+and conditions for DGA Open Government License.
+
+Definitions
+
+“Terms” means the terms and conditions for DGA Open Government License
+
+“Data” means information are presented as facts or others as the same meaning.
+Whether such presentation could be known or assumed by its conditions or conveying through
+any methods, and whether it would be in any forms of documents, files, reports, books, charts,
+maps, pictures, photos, satellite imaginaries, films, videos or voice records, information stored
+in or processed by a computer, measuring tools, remote sensing or other methods which are
+used to present thereof.
+
+“Government Open Data” means Open Data in any digital forms whereof government
+organizations have to disclose to the public in accordance with the laws related to the
+digitalization of the Official Information, where are transparently reachable for the public, not
+restricted under the limitation of platforms, without any fees of publishing, copying, or
+benefitially processing such Data with no limitation under lawful purposes.
+
+“User” means individuals, including body of persons, juristic persons, agencies and
+organizations, wherever within or outside of the country, access to use the Data, which are
+published on or throughout Open Government Data Platform, and agree with the Terms.
+
+“Service Provider” means personnel, staffs or administors of Open Government Data
+Platform.
+
+“DGA” means Digital Government Development Agency (Public Organization)
+
+“Open Government Data Platform” means information technology management
+system and network, which DGA has established to facilitate government organizations for the
+purposes of sharing or connecting their Data to the public in digitalization.
+
+“Use of Data” means the processing of Data, either in a whole or in a part, by whatever
+means or methods under lawful purposes, abided by the User and the agreement of the
+Terms.
+
+Terms and Conditions of the Term
+
+When the government organization has published the dataset on Open Government Data
+Platform, the government organization hereby, at that time, accept and comply with the
+following terms and conditions. The government organization hereby license the non-
+exclusive rights to the User in the scope of the Use of Data therefrom, without the limitations
+of territory or period. The User shall not be required any further authorizations and licensing
+fees of executing such rights.
+
+Rights and Obligations of the User
+
+The User has rights and obligations on the Use of Data on or throughout Open Government
+Data Platform as follows:
+
+(1) The User can copy, publish, distribute or benefitially processing the Data in
+whatever methods, for the purposes of enhancing services and innovations or
+other purposes in relation to be the benefits of developing the country’s
+economy and society.
+
+(2) The User can apply the Data by any means or methods, of which do not change
+substantive definitions to be misled from the originals.
+
+(3) The User can usefully process the Data by means of either gathering the Data
+therefrom together with other data or utilizing them to be a part of education,
+analysis, research, service and innovation enhancement or other purposes aiming
+to be the benefits of the country’s economic and social development.
+
+(4) The User shall state references for the Use of Data, at all the time, which are
+referred to the sources of Data and organizations or individuals whom such Data
+owned by.
+
+(5) The User shall comply with the applicable standards, the Terms and other rules
+and regulations pertaining to the open data prescribed by Digital Government
+Development Commission or DGA, which are currently enforced or will be later
+enforced.
+
+However, the User shall process the Data hereunder subject to lawful purposes
+and not against public orders or good morals.
+
+References for the Use of Data from Open Government Data Platform
+
+To Use the Data, either entirely or partially thereof, for uses or hereunder subject to lawful
+purposes abided by the User, the User shall specify the references to the government
+organization who is the producer of such Data by stating the sources of Data. Unless the Data
+would not be identified such government organization or gathered from several government
+organizations, in the cases herebefore, the references shall be stated as below:
+
+“The right to Use the Data is subject to the terms and conditions for DGA Open Government
+License”
+
+The abovementioned references of the source of Data are substantive to this Terms. In case
+of no reference specified, the Data without the reference deem to be contrary to this Terms.
+
+Exceptions
+
+The permission of the Use of Data under this Terms is not included the exception listed as
+below:
+
+(1) The Data which are contained therein are the prohibited data that cannot be
+disclosed under the applicable laws, unless there is an exception under such
+applicable law.
+
+(2) Logos, government’s symbols or the government organization’s or DGA’s official
+emblems and any symbols related to national identity, unless such logo, symbol
+or official emblem are inseparably involved in documents or dataset.
+
+(3) Military insignia and Uniform
+
+(4) The rights of intellectual property related to the Data such as copyrights, patents,
+trademarks or other rights as the same meaning, whether such rights owned by
+individuals, organizations, or other juristic persons, which DGA has no legitimate
+power to authorize thereof.
+
+TERMS OF WARRANTY
+
+THE USE OF DATA PROCESSED BY THE USER UNDER THIS TERMS SHALL NOT DEEM TO
+GRANT ANY OFFICIAL RIGHTS, IN RELATION TO SUCH DATA, BETWEEN DGA AND THE USER,
+WHICH WILL EXECUTE ANY BILATERAL LEGAL STATUS, AND DGA SHALL PROVIDE NO WARRANTY
+TO THE DATA THEREOF.
+
+LIMITATION OF LIABILITY
+
+THE PROVIDED DATA THAT HAVE BEEN AUTHORIZED TO USE UNDER OPEN GOVERNMENT DATA
+PLATFORM, ARE RAW DATA WHICH HAVE THE SAME QUALITIES OR CONDITIONS AS THEIR
+ORIGINALS. DGA DOES NOT STORE, COLLECT OR CREATE THE DATA THEREFROM; ONLY
+PROVIDES THE OPEN GOVERNMENT DATA PLATFORM IN ORDER TO FACILITATE THE
+GOVERNMENT ORGANIZATIONS FOR THE PURPOSES OF CENTRALIZING TO PUBLICLY PROVIDE
+OR CONNECT THE DATA THEREOF TO THE PUBLIC. DGA WILL NOT BE LIABLE FOR THE
+ACCURACY OR INTEGRITY OF DATA, AND NEITHER DGA NOR THE USER IS AUTHORIZED TO MAKE
+REPRESENTATIONS ON BEHALF OF THE OTHER, AND THIS WILL NOT CONSTRUE TO CREATE A
+RELATIONSHIP OF PARTNERSHIP BETWEEN DGA AND THE USER. DGA SHALL NOT PROVIDE
+WARRANTIES OR LIABILITIES FOR ANY DAMAGE FROM THE VIOLATIONS OF LAWS INCURRED BY
+THE USER OR WHOEVER RELATED TO THE USE OF DATA.
+
+DGA RESERVES THE RIGHTS TO TEMPORARILY SUSPEND OR TERMINATE THE PUBLICATION OF
+DATA ON THE OPEN GOVERNMENT DATA PLATFORM OR TERMINATE THE PROVIDING OF DATA
+AS IT DEEMS TO BE APPROPRIATE WITHOUT PRIOR NOTICE. DGA SHALL NOT OBLIGATE TO BE
+LIABLE FOR ANY DAMAGE WHICH MAY ARISE THEREFROM.
+
+Governing Laws
+
+The disclosure of Data under this Terms in adherence to Digitalization of Public Administration
+and Services Delivery Act, B.E. 2562 (2019), for the purposes of public data or announcement
+produced and processed by government organizations through digital means and channels for
+the purposes of encouraging the convenient access of the Data to the public as well as
+promoting their involvement in and inspection on governmental activities and supporting
+them to further use the data to develop innovations and services which would be benefitial
+to the country in certain aspects. The Digital Government Development Commission shall
+specify the types, forms, and standards of the data disclosed to the public by the Open
+Government Data Platform. Such specification shall be consistent and compatible with
+universally accepted principles of open data.
+
+Inquiry of the Sources of Data
+
+The User can inquire the sources of Data under this Terms via the website under a domain
+name as “Data.go.th” or DGA Contact Center, Tel: 02 612 6060 or email: contact@dga.or.th
