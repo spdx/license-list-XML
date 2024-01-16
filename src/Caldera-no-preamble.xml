@@ -8,9 +8,9 @@
         This is identical to Caldera License, but does not include first paragraph.
       </notes>
     <text>
-      <titleText>
+      <copyrightText>
         <p>Copyright(C) Caldera International Inc. 2001-2002. All rights reserved.</p>
-      </titleText>
+      </copyrightText>
       <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided
          that the following conditions are met:</p>
       <p>Redistributions of source code and documentation must retain the above copyright notice, this list of
