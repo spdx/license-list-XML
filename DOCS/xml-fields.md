@@ -177,6 +177,8 @@ Learning regular expressions is outside the scope of this document. However, her
 * `<alt match="EXPRESS(ED)?" name="express">EXPRESS</alt>`: Matches if the text is either the word "EXPRESS" or the word "EXPRESSED"
 * `<alt match=".+" name="copyrightHolderAsIs">THE COPYRIGHT HOLDERS AND CONTRIBUTORS</alt>`: Matches anything as long as it consists of at least one or more characters
 
+Note: If a license has a fair amount of markup in an <alt> tag, you may need to add `\s+` between words to allow matching in spite of line breaks or multiple spaces. See [BSD-3-Clause](../src/BSD-3-Clause.xml) and [MIT](../src/MIT.xml) for examples. 
+
 ### Other things to watch out for
 
 "Smart quotes" (the curly quotation mark characters) are a pain. Only "non-smart" quotes should be included in templates. In particular, if you are copying from a Word document, there's a good chance it will paste smart quotes, so check carefully.
