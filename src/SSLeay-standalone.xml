@@ -5,8 +5,7 @@
          <crossRef>http://www.openssl.org/source/license.html</crossRef>
       </crossRefs>
       <notes>
-         This is the other license of the two-license stack - 
-         the original SSLeay license apply to the toolkit.
+         This is the second license in the OpenSSL two-license stack as a standalone option.
       </notes>
       <text>
          <titleText>
