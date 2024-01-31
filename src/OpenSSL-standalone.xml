@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="OpenSSL-standalone" name="OpenSSL License - standalone">
+   <license isOsiApproved="false" licenseId="OpenSSL-standalone" name="OpenSSL License - standalone" listVersionAdded="3.23">
       <crossRefs>
-         <crossRef>http://www.openssl.org/source/license.html</crossRef>
+         <crossRef>https://library.netapp.com/ecm/ecm_download_file/ECMP1196395</crossRef>
+         <crossRef>https://hstechdocs.helpsystems.com/manuals/globalscape/archive/cuteftp6/open_ssl_license_agreement.htm</crossRef>
       </crossRefs>
       <notes>
          This is the first license in the OpenSSL two-license stack as a standalone option.
@@ -10,7 +11,7 @@
       <text>
          <titleText>
             <p>
-               OpenSSL License (standalone)
+               OpenSSL License
             </p>
          </titleText>
          <copyrightText>
