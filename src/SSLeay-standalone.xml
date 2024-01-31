@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="SSLeay-standalone" name="SSLeay License - standalone">
+   <license isOsiApproved="false" licenseId="SSLeay-standalone" name="SSLeay License - standalone" listVersionAdded="3.23">
       <crossRefs>
-         <crossRef>http://www.openssl.org/source/license.html</crossRef>
+         <crossRef>https://www.tq-group.com/filedownloads/files/software-license-conditions/OriginalSSLeay/OriginalSSLeay.pdf</crossRef>
       </crossRefs>
       <notes>
          This is the second license in the OpenSSL two-license stack as a standalone option.
