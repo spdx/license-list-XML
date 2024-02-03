@@ -13,7 +13,7 @@
     <text>
       <p>
 	The <alt match=".+" name="projectName">Totem</alt> project hereby grant permission for non-gpl compatible GStreamer plugins to be used and distributed together with GStreamer and <alt match=".+" name="projectName">Totem</alt>. This permission 
-<alt match="are|is" name="tobe">are</alt above and beyond the permissions granted by the GPL license <alt match=".+" name="projectName">Totem</alt> is covered by.
+<alt match="are|is" name="tobe">are</alt> above and beyond the permissions granted by the GPL license <alt match=".+" name="projectName">Totem</alt> is covered by.
       </p>
     </text>
   </exception>
