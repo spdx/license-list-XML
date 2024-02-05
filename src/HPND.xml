@@ -37,7 +37,7 @@
       </p>
       <optional>
         <p>
-            <alt match=".*" name="copyrightHolder2">&lt;copyright holder&gt;</alt> <alt match+"DISCLAIMS|DISCLAIM" name="disclaim">DISCLAIMS</alt> ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING
+            <alt match=".*" name="copyrightHolder2">&lt;copyright holder&gt;</alt> <alt match="DISCLAIMS?" name="disclaim">DISCLAIMS</alt> ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING
            ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS<alt match="[.,]*" name="period">.</alt> IN NO EVENT SHALL
            <alt match=".*" name="copyrightHolder3">&lt;copyright holder&gt;</alt> BE LIABLE FOR ANY SPECIAL, INDIRECT OR <alt match="CONSEQUENTIAL|COSEQUENTIAL" name"consequential">CONSEQUENTIAL</alt> DAMAGES
            OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
