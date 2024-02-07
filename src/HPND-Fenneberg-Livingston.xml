@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="HPND-Fenneberg-Livingston"
-            name="Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant" license listVersionAdded="3.23">
+            name="Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant" listVersionAdded="3.23">
       <crossRefs>
          <crossRef>https://github.com/FreeRADIUS/freeradius-client/blob/master/COPYRIGHT#L32</crossRef>
          <crossRef>https://github.com/radcli/radcli/blob/master/COPYRIGHT#L34</crossRef>
