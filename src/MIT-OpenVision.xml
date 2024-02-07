@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="MIT-OpenVision"
-   name="MIT OpenVision variant" listVersionAdded="3.23">
+   <license isOsiApproved="false" licenseId="OpenVision"
+   name="OpenVision License" listVersionAdded="3.23">
       <crossRefs>
          <crossRef>https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L66-L98</crossRef>
          <crossRef>https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html</crossRef>
