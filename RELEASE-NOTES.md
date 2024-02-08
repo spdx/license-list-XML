@@ -1,5 +1,61 @@
 # Release Notes for SPDX License List
 
+## version 3.23 - 2024-02-08
+
+New licenses/exceptions added: 43
+
+1. Adobe-Display-PostScript
+2. AML-glslang
+3. bcrypt-Solar-Designer
+4. Bison-exception-1.24
+5. Brian-Gladman-2-Clause
+6. BSD-2-Clause-Darwin
+7. BSD-3-Clause-acpica
+8. BSD-Source-beginning-file
+9. BSD-Systemics-W3Works
+10. Caldera-no-preamble
+11. CC-BY-3.0-AU
+12. CMU-Mach-nodoc
+13. DEC-3-Clause
+14. DRL-1.1
+15. fmt-exception
+16. FSFAP-no-warranty-disclaimer
+17. GCR-docs
+18. Gmsh-exception
+19. GNOME-examples-exception
+20. gtkbook
+21. hdparm
+22. HPND-Fenneberg-Livingston
+23. HPND-INRIA-IMAG
+24. HPND-Kevlin-Henney
+25. HPND-MIT-disclaimer
+26. HPND-sell-MIT-disclaimer-xserver
+27. ISC-Veillard
+28. LPD-document
+29. Mackerras-3-Clause
+30. Mackerras-3-Clause-acknowledgment
+31. mailprio
+32. OpenSSL-standalone
+33. OpenVision
+34. Pixar
+35. radvd
+36. SAX-PD-2.0
+37. softSurfer
+38. SSLeay-standalone
+39. Sun-PPP
+40. TGPPL-1.0
+41. UMich-Merit
+42. Unicode-3.0
+43. xkeyboard-config-Zinoviev
+
+Added first draft of documentation regarding processes for license matching to avoid duplicates on the License List.
+
+Added and improved markup for many licenses and many minor improvements to other documentation.
+
+See all PRs for 3.23 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.23%22+is%3Aclosed
+
+See comparision of changes from 3.22 to 3.23: https://github.com/spdx/license-list-XML/compare/v3.22...v3.23
+
 ## version 3.22 - 2023-10-05
 
 New licenses/exceptions added: 48
