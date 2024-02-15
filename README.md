@@ -21,12 +21,10 @@ Please note, a license not on the SPDX License List can be included in an SPDX d
 This repository contains the XML source and schema files used to generate the authoritative, supported SPDX list file formats, including the web pages you see at [spdx.org/licenses](https://spdx.org/licenses/) and other generated data formats found in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data).
 
 # How to contribute/participate
-We welcome participants and contributions! The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done via:
-* **mailing list**: Please introduce yourself and let us know a bit about your interest in SPDX! The mailing list is our traditional form of communication. To join the SPDX Legal Team mailing list, send an email to `Spdx-legal+subscribe@lists.spdx.org` or visit https://lists.spdx.org/g/Spdx-legal (where you can also see the list's archives).
-* **calls**: We use conference calls to make decisions on topics and issues that may be difficult to discuss only via email or GitHub. These calls are on the second and fourth Thursday of each month at 12:00 US Eastern Time. Information, including a link to join online, is sent prior to the calls to the SPDX Legal Team mailing list. Meeting minutes for the calls are in the [SPDX meetings repo](https://github.com/spdx/meetings/tree/master/legal); minutes from meetings before March 2020 can be found at http://wiki.spdx.org/
-* **this GitHub repo**: We use this repository for comments, issues and pull requests related to specific changes to the files that comprise the SPDX License List. This includes new licenses, updates to an existing license, improvements to documentation and other changes.
+We welcome participants and contributions! The SPDX License List is maintained by the SPDX Legal Team. 
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how we work, how to request a new license, or other ways you can contribute.
 
-Please see [DOCS](DOCS) and [CONTRIBUTING.md](CONTRIBUTING.md) for more information. We also have an [FAQ](DOCS/faq.md) that you may find helpful!
+If you are new to SPDX, it may be helpful to check out the [FAQ](DOCS/faq.md)  and other [Documentation](DOCS.md)
 
 # Consuming License Data from this Repository
 Output files in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data) are generated from the XML source in this repository.  These output files are stable and well-supported, and make the License List available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://github.com/spdx/tools) (or create your own) to consume the supported formats of the license list.
