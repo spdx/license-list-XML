@@ -3,15 +3,16 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 
 # How to request a new license or exception to the SPDX License List
 
-1.  Review the [license inclusion principles](license-inclusion-principles.md). Please refrain from submitting licenses that clearly do not meet these principles, for example, a license for which the text is not finalized or is a non-FOSS license only used for a small or personal project.
+1.  Review the [license inclusion principles](license-inclusion-principles.md).
+    * NOTE: Please refrain from submitting licenses that clearly do not meet these principles, for example, a license for which the text is not finalized or is a non-FOSS license only used for a small or personal project.
+    * NOTE: Make sure the license isn't already on the SPDX License List. This [guidance](license-match.md) can help with this task.
 
-    1.  Check the [SPDX License List](https://spdx.org/licenses/), keeping in mind the [SPDX License List Matching Guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/) and issues labeled [new license/exception request](https://github.com/spdx/license-list-XML/labels/new%20license%2Fexception%20request) to ensure your license or exception has not been previously requested.
-
-2. If your license is not already on the SPDX License List, submit your request via the SPDX Online Tool [Submit New License](https://tools.spdx.org/app/submit_new_license/) using the guidance provided there. Also see the [explanation of the fields contained on the list](license-fields.md).
+2. Submit your request via the SPDX Online Tool [Submit New License](https://tools.spdx.org/app/submit_new_license/) (preferred method) using the guidance provided there. Also see the [explanation of the fields contained on the list](license-fields.md). Alternatively, you may use the new license request issue template. 
    * NOTE: You must have a Github account in order to use this tool/process.
-   * NOTE: Whether you use the [Submit New License](https://tools.spdx.org/app/submit_new_license/) tool or submit manually via a new issue, you will need to provide *all* of the information as per the form in the tool. Incomplete submissions will delay the process.
+   * NOTE: You need to provide *all* of the information as per the form or issue template. Incomplete submissions waste time and may be closed.
 
-3. Submitters are expected to follow and participate in the discussion and answer any request for additional information via the issue and comments. Please note, if submitters are unresponsive for several months, the issue will be closed without making a final decision.
+3. Follow your issue and particpate in the discussion or answer any request for additional information via the issue and comments.
+    * NOTE: If submitters are unresponsive for several months or cannot address the guidance for submitting a license, the issue may be closed without a decision.
 
 # Review Process
 
