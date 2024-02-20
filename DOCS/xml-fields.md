@@ -1,6 +1,6 @@
 # XML template fields
 
-This document describes the XML fields that are available for use in the [XML license templates](../src/) that define the licenses on the [SPDX License List](https://spdx.org/licenses).
+This document describes the XML fields that are used in the [XML license templates](../src/), which define the licenses on the [SPDX License List](https://spdx.org/licenses) and implement some aspects of the [matching guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/).
 
 The following details are just a summary and recommendations on use of the fields. The formal schema definition is available in [`schema/ListedLicense.xsd`](../schema/ListedLicense.xsd).
 
@@ -18,13 +18,11 @@ The XML template for each license is stored in a separate file in the [`src/` di
 
 For license exceptions, the same pattern is used, with exceptions stored in the [`src/exceptions/` directory](../src/exceptions).
 
-A corresponding "test text" file, with a plain text version of the license or exception, should be added to the [`test/simpleTestForGenerator/` directory](../test/simpleTestForGenerator). Unlike the XML files, the same directory is used for the test files for licenses as well as exceptions. This text file will be used by the CI system to confirm that the XML template actually matches the "test text" for each license and exception.
+A corresponding "test text" file, a plain text version of the license or exception, is stored in the [`test/simpleTestForGenerator/` directory](../test/simpleTestForGenerator). Unlike the XML files, the same directory is used for the test files for licenses as well as exceptions. This text file will be used by the CI system to confirm that the XML template actually matches the "test text" for each license and exception.
 
 ### Whitespace and formatting
 
-We aren't picky about tabs vs. spaces, number of spaces for indenting, etc.
-
-At some point maybe we'll pick a standard and update the existing files, but we haven't yet, so use whatever you like.
+We aren't picky about tabs vs. spaces, number of spaces for indenting, etc. At some point maybe we'll pick a standard and update the existing files, but we haven't yet, so use whatever you like. That being said, if you use the [SPDX Online Tools-license submission](https://tools.spdx.org/app/license_requests/) to create the XML and TXT files, there is a "beautify" option that formats the file nicely. 
 
 ### Beginning and end matter
 
@@ -61,7 +59,7 @@ Deprecated license identifiers will be listed at the bottom of the SPDX License 
 
 ### License metadata
 
-There are three optional first-level metadata fields that can be nested immediately under `<license>` or `<exception>`, each of which is optional:
+There are three optional first-level metadata fields that can be placed immediately under `<license>` or `<exception>`, each of which is optional:
 
 * **`<crossRefs>`**: Defines cross-references to URLs where the license can be found in use by one or a few projects, and (if applicable) where posted by the license steward
 * **`<notes>`**: Describes general comments about the license; if deprecated, also briefly explain the reason for deprecating the license identifier
@@ -95,10 +93,10 @@ Example:
 Some portions of the license text can be surrounded by annotation tags, to denote certain sections of the license text:
 
 * **`<titleText>`**: indicates the title of the license, if specified in the license text itself
-* **`<copyrightText>`**: indicates where a copyright notice would be placed for the licensed code
+* **`<copyrightText>`**: indicates where a copyright notice would be placed for the licensed code. Because the copyright notice is not part of the license and thus ignored as related to matching a license, it does not matter if the the copyright notice includes a specific name or is generic.
   * Note that `<copyrightText>` should _not_ be used for copyright notices that apply to the copyright in the license text itself!
 * **`<standardLicenseHeader>`**: indicates a standard way that the license recommends specifying the license, e.g. in code comments
-  * Note that `<standardLicenseHeader>` should _only_ be used if it is defined by the license text itself!
+  * Note that `<standardLicenseHeader>` should _only_ be used if it is defined by the license text itself! Remove this tag if there is no `<standardLicenseHeader>`
   * Typically, this would be located in an appendix titled something like "How to apply the license to your work"
 
 ### Paragraphs and newlines
@@ -155,7 +153,7 @@ could be represented as:
 
 If a license template should match regardless of whether or not a particular section of text is present, then that text can be surrounded with **`<optional>...</optional>`** tags.
 
-By default, when rendered on the [SPDX License List website](https://spdx.org/licenses), a space will be included before and after the optional text. If the tag includes a `spacing="none"` attribute, e.g. `<optional spacing="none">`, then these spaces will be omitted. This is useful if, for instance, the optional text is a suffix to a word or a quotation mark where the optional portion should not be separated by a space.
+By default, when rendered on the [SPDX License List website](https://spdx.org/licenses), a space will be included before and after the optional text. If the tag includes a `spacing="none"` attribute, e.g. **`<optional spacing="none">`**, then these spaces will be omitted. This is useful if, for instance, the optional text is a suffix to a word or a quotation mark where the optional portion should not be separated by a space.
 
 Note that some annotated portions of text (specifically `<titleText>`, `<bullet>` and `<copyrightText>`) are deemed to be "replaceable text" automatically, so the `<optional>` tag is not allowed where those are present.
 
@@ -164,7 +162,7 @@ Note that some annotated portions of text (specifically `<titleText>`, `<bullet>
 Some licenses contain portions of language that can match to a variety of alternative texts. This is called "replaceable text", and is denoted with the **`<alt>...</alt>`** tag.
 
 The **<alt>** tag includes two attributes:
-* `name`: specifies a unique name for this matching element
+* `name`: specifies a unique name for this matching element. If there is more than one of the same element, it is good practice and recommended to add numbers for such similar alt tags. 
 * `match`: specifies a [POSIX extended regular expression (ERE)](http://pubs.opengroup.org/onlinepubs/9699919799/) for what text will match
 
 Note that an example of actually-matching text should be included between the `<alt>` and `</alt>` tags, as the specified example is what will be rendered on the SPDX License List website page and in license text files provided by SPDX. To the extent a license has a "canonical" or "most commonly used" standard language, use that in the match between the `alt` tags.
