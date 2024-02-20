@@ -1,32 +1,23 @@
-# Before you contribute to the SPDX License List
-Please familiarize yourself with the SPDX License List and its supporting documentation, so that you understand the pertinent context around the list itself:
-* [License inclusion principles](DOCS/license-inclusion-principles.md) 
+# Contributing
+The SPDX License List is maintained by the [SPDX legal team](https://spdx.dev/engage/participate/legal-team/). This repo is used for the submission and review of licenses, as well as maintaining [documentation](DOCS) related to the SPDX License List. Suggestions with a larger scope, cross-functional issues, and questions should be directed to the [SPDX-legal mailing list](https://lists.spdx.org/g/Spdx-legal). 
 
-* [Explanation of the fields contained on the list](DOCS/license-fields.md)
+## Submitting a license for consideration
+To submit a license for consideration for the SPDX License List, follow the process for [requesting a new license](request-new-license.md). Please be sure to review the relevant documentation prior to your submission, notably, the [license inclusion principles](DOCS/license-inclusion-principles.md). Each license submission requires review and incomplete or inappropriate submissions only take away the precious time of a small number of volunteers from other tasks.
 
-* [SPDX License List Matching Guidelines](https://spdx.github.io/spdx-spec/latest/license-matching-guidelines-and-templates/) provides guidelines to be used for the purposes of matching licenses and license exceptions against those included on the SPDX License List.
+## Minor updates
+Minor changes such as markup and typo fixes may be submitted directly to this repository (either as issues or pull-requests) without previous discussion. 
+If you find a broken URL for a license, you may make a pull request to add the new URL, but please note our policy to [retain old URLs](DOCS/license-fields.md), which can be helpful for matching. 
 
-* [SPDX Specification](https://spdx.dev/use/specifications/): It is helpful to be familiar with certain sections of the SPDX Specification that use or deal with the SPDX License List. In particular: sub-sections related to license information in Section 7, 8, and 10; Appendices B, D, and E.
+## Improvements to documentation
+Newcomers have a great perspective as to the effectiveness of documentation! You can make suggestions via an issue, if you want to discuss the changes. If there is something needs updating, a typo, or other minor improvements, feel free to go ahead and create a PR!
 
-# Join the mailing list and our bi-weekly calls
+## Reviewing submitted licenses
+Once you have familiarized yourself with the [License inclusion principles](DOCS/license-inclusion-principles.md), comment on new license requests as to whether you think the license meets the License Inclusion Principles and therefore should be included on the SPDX License List, in any issue labeled ["new license/exception request"](https://github.com/spdx/license-list-XML/issues?q=is%3Aopen+is%3Aissue+label%3A%22new+license%2Fexception+request%22+-label%3A%22new+license%2Fexception%3A+Accepted%22).
 
-The SPDX License List is maintained by the SPDX Legal Team. Work and discussion is primarily done in this Github repo and via:
-* **join the mailing list**: Please introduce yourself and let us know a bit about your interest in SPDX! The mailing list is our traditional form of communication. Join the mailing list, see archive, and manage your subscription at [lists.spdx.org](https://lists.spdx.org/g/Spdx-legal).
-* **join the bi-weekly calls**: Bi-weekly conference call info is sent prior to the calls via the mailing list. If you join the mailing list, you should get a recurring invite at the beginning of each calendar year. Meeting minutes for the calls are in the [SPDX meetings repo](https://github.com/spdx/meetings/tree/main/legal).
+## Major changes
+Examples of a major change include: a change to policies (such as the license includiont principles); additional fields; additional functionality. It is recommended to raise a major change on the mailing list first, which may also lead to a scheduled discussion on an upcoming call. Some changes may warrant use of the [Change Proposal](https://github.com/spdx/change-proposal) process. 
 
-# Getting started 
-Below are some ways you can get started participating and contributing!
+## Questions about the SPDX License List
+Please use the [mailing list](https://lists.spdx.org/g/spdx-legal) for questions about the SPDX License List or to let us know about how you are using it!
 
-* Commenting on new license requests: Once you have familiarized yourself with the [License inclusion principles](DOCS/license-inclusion-principles.md), comment on new license requests as to whether you think the license should be included on the SPDX License List in any issue labeled ["new license/exception request"](https://github.com/spdx/license-list-XML/issues?q=is%3Aopen+is%3Aissue+label%3A%22new+license%2Fexception+request%22+-label%3A%22new+license%2Fexception%3A+Accepted%22)
-
-* Make suggestions to improve the documentation: Newcomers have a great perspective as to the effectiveness of documentation! You can make suggestions via an issue, if you want to discuss the changes or if there is something specific that could be updated, then create a PR
-
-* Help prepare files for licenses approved to be added to the SPDX License List by following the [new license workflow](DOCS/request-new-license.md)
-
-* Review PRs 
-
-* Request a new license be added to the SPDX License List by following the [request new license](DOCS/request-new-license.md) instructions
-
-* Email the [mailing list](https://lists.spdx.org/g/spdx-legal) about how you are using or questions about the SPDX License List 
-* Recommend additional markup for matching purposes
 
