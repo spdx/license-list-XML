@@ -16,7 +16,7 @@ The following information describes how each field on the license and exception 
 * Where applicable, the abbreviation will be followed by a dash and then the version number, in X.Y format. If the license or exception has not been versioned by the author, yet there are multiple versions, a year or other such differentiator can be used
 * Short identifiers should be as short in length as possible while staying consistent with all other criteria
 * Short identifiers for exceptions should include the word "exception" unless there is a compelling reason not to; and should only include a version number if the exception itself is versioned
-* XML tag = `licenseId' within the `license` tag
+* XML tag = `licenseId` within the `license` tag
 
 ## C) Other web pages for license/exception
 * Include URL for the official text of the license or exception
