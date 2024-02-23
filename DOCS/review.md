@@ -3,7 +3,7 @@
 ## If it has a `used in major distro` label
 These are generally easier to review, especially if you are just starting out. 
 
-The `used in a major distro` label indicates that 1) the license has been found in either Fedora or Debian, and therefore meets the [Fedora](https://docs.fedoraproject.org/en-US/legal/license-approval/) or [Debian](https://www.debian.org/social_contract#guidelines) free/open license criteria. This means that the question of elgibility for inclusion on the SPDX License List mostly settled (see LINK for more on this). 
+The `used in a major distro` label indicates that 1) the license has been found in either Fedora or Debian, and therefore meets the [Fedora](https://docs.fedoraproject.org/en-US/legal/license-approval/) or [Debian](https://www.debian.org/social_contract#guidelines) free/open license criteria. This means that the question of eligibility for inclusion on the SPDX License List mostly settled (see LINK for more on this). 
 
 The key remaining things to check are:
 
