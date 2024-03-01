@@ -42,8 +42,8 @@ Within the .xml file, the first and last lines of the file should be the followi
 The main tag used to define the license or exception is, unsurprisingly, **`<license>`** or **`<exception>`**. All of the remaining content will be enclosed within a `<license></license>` or `<exception></exception>` pair of tags.
 
 There are two mandatory attributes for every `<license>` and `<exception>` tag:
-* `licenseId`: the unique SPDX Identifier for the license; should be identical to the filename
-* `name`: the longer "real name" of the license
+* `licenseId`: the unique SPDX Identifier for the license; should be identical to the filename. See [license-fields:short-identifier](license-fields.md#b-short-identifier) for a full description of this field.
+* `name`: the longer or full title of the license (if there is one); see [license-fields:full-name](license-fields.md#a-full-name) for a full description of this field.
 
 There are two additional attributes which are optional, but highly encouraged:
 * `isOsiApproved` (for licenses, not exceptions): either "true" or "false" based on whether this license has been approved by the [Open Source Initiative](https://opensource.org/licenses/alphabetical)
@@ -61,8 +61,8 @@ Deprecated license identifiers will be listed at the bottom of the SPDX License 
 
 There are three optional first-level metadata fields that can be placed immediately under `<license>` or `<exception>`, each of which is optional:
 
-* **`<crossRefs>`**: Defines cross-references to URLs where the license can be found in use by one or a few projects, and (if applicable) where posted by the license steward
-* **`<notes>`**: Describes general comments about the license; if deprecated, also briefly explain the reason for deprecating the license identifier
+* **`<crossRefs>`**: Defines cross-references to URLs where the license can be found in use by one or a few projects, and (if applicable) where posted by the license steward. See [license-fields:web-pages](license-fields.md#c-other-web-pages-for-licenseexception) for more information about this field.
+* **`<notes>`**: Describes general comments about the license; if deprecated, also briefly explain the reason for deprecating the license identifier. See [license-fields:Notes](license-fields.md#d-notes) for more information about this field. If there are not Notes, then remove this tag from the XML file.
 * **`<obsoletedBys>`** (if license is deprecated): Lists the license(s) that should be used instead of this deprecated license
 
 ### License text
@@ -95,9 +95,8 @@ Some portions of the license text can be surrounded by annotation tags, to denot
 * **`<titleText>`**: indicates the title of the license, if specified in the license text itself
 * **`<copyrightText>`**: indicates where a copyright notice would be placed for the licensed code. Because the copyright notice is not part of the license and thus ignored as related to matching a license, it does not matter if the the copyright notice includes a specific name or is generic.
   * Note that `<copyrightText>` should _not_ be used for copyright notices that apply to the copyright in the license text itself!
-* **`<standardLicenseHeader>`**: indicates a standard way that the license recommends specifying the license, e.g. in code comments
-  * Note that `<standardLicenseHeader>` should _only_ be used if it is defined by the license text itself! Remove this tag if there is no `<standardLicenseHeader>`
-  * Typically, this would be located in an appendix titled something like "How to apply the license to your work"
+* **`<standardLicenseHeader>`**: indicates a standard way that the license recommends specifying the license, see license-fields:standard-license-header](license-fields.md#h-standard-license-header) for a full descriptioin of this field.
+  * If there is no `<standardLicenseHeader>`, remove this tag (the online submission tool may add it automatically)
 
 ### Paragraphs and newlines
 
