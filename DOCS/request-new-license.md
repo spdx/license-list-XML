@@ -12,13 +12,13 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
    * NOTE: You need to provide *all* of the information as per the form or issue template. Incomplete submissions waste time and may be closed.
 
 3. Follow your issue and particpate in the discussion or answer any request for additional information via the issue and comments.
-    * NOTE: If submitters are unresponsive for several months or cannot address the guidance for submitting a license, the issue may be closed without a decision.
+    * NOTE: If submitters are unresponsive for several months, the issue may be closed without a decision.
 
 # Review Process
 
-1. The SPDX Legal Team will discuss any submissions for new licenses or exceptions via comments in the Github issue and on our bi-weekly calls as needed. Please follow the comments and respond accordingly if there are questions or additional information requested.
-    1. New licenses may be approved if 3 SPDX-legal team members (at least 1 lawyer) sign-off that the license is acceptable AND there is no objection raised from the greater SPDX-legal community within the Github issue comments. If there are objections, then the issue will be labeled "discuss on legal call" and will be discussed on an upcoming bi-weekly call.
-    2. New licenses that have already met the criteria to be allowed in [Fedora](https://docs.fedoraproject.org/en-US/legal/license-approval/) or [Debian](https://www.debian.org/social_contract) and code under the license exists in that distro, can be approved by 2 SPDX-legal team members.
+1. The SPDX Legal Team will review any submissions for new licenses or exceptions via comments in the Github issue and on the bi-weekly calls as needed. Please follow the comments and respond accordingly if there are questions or additional information requested.
+    1. New licenses may be approved if 3 SPDX-legal team members (at least 1 lawyer) agree that the license meets the [license inclusion principles](license-inclusion-principles.md) AND there is no objection raised from the greater SPDX-legal community within the Github issue comments. If there are objections, then the issue may be labeled "discuss on legal call" and discussed on an upcoming bi-weekly call.
+    2. New licenses may be approved by 2 SPDX-legal team members if the license has already met the criteria to be allowed in [Fedora](https://docs.fedoraproject.org/en-US/legal/license-approval/) or [Debian](https://www.debian.org/social_contract) and code under the license exists in that distro. This is because the combination of the license being in a major distro (e.g., Fedora or Debian) and the nature of the Fedora and Debian license criteria means that the license already meets two of the most important factors for inclusion on the SPDX License List: it is an open source license and it has substantial use by way of being used in a major distro. These issues will be labeled with 'used in major distro'.
   
 2. Issues will be labeled either `new license/exception: Accepted` or `new license/exception: Not Accepted` as appropriate with an explanation and the Issue closed for the latter case.
 
