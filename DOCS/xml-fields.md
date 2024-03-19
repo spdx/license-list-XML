@@ -164,7 +164,7 @@ The **<alt>** tag includes two attributes:
 * `name`: specifies a unique name for this matching element. If there is more than one of the same element, it is good practice and recommended to add numbers for such similar alt tags. 
 * `match`: specifies a [POSIX extended regular expression (ERE)](http://pubs.opengroup.org/onlinepubs/9699919799/) for what text will match
 
-An example of actually-matching text should be included between the `<alt>` and `</alt>` tags; this text will be rendered on the SPDX License List website page and in license text files provided by SPDX. To the extent a license has a "canonical" or "most commonly used" standard language, use that in the match between the `alt` tags.
+An example of actually-matching text should be included between the `<alt>` and `</alt>` tags; this text will be rendered on the SPDX License List website page and in files provided in [SPDX license-list-data}(https://github.com/spdx/license-list-data). To the extent a license has a "canonical" or "most commonly used" standard language, use that in the match between the `alt` tags.
 
 Also note that some annotated portions of text (specifically `<titleText>`, `<bullet>` and `<copyrightText>`) are deemed to be "replaceable text" automatically, so the `<alt>` tag is not allowed where those are present.
 
