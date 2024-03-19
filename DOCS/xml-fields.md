@@ -2,9 +2,9 @@
 
 This document describes the XML fields that are used in the [XML license templates](../src/), which define the licenses on the [SPDX License List](https://spdx.org/licenses) and implement some aspects of the [matching guidelines](https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/).
 
-The following details are just a summary and recommendations on use of the fields. The formal schema definition is available in [`schema/ListedLicense.xsd`](../schema/ListedLicense.xsd).
+The goal of this document is to provide a more "human-readable" guide for creating and formatting an XML file. The formal schema definition is available in [`schema/ListedLicense.xsd`](../schema/ListedLicense.xsd).
 
-The "General structure" section below describes in plain language the way that license XML files are structured. Then, the "Template fields" section provides more specific details about the individual fields.
+The "General structure" section below describes in plain language the way that license XML files are structured. Then, the "Template fields" section provides more specific details about the individual XML tags.
 
 Except where explicitly stated otherwise, assume that "license" means "license or license exception" in the following details.
 
@@ -22,11 +22,11 @@ A corresponding "test text" file, a plain text version of the license or excepti
 
 ### Whitespace and formatting
 
-We aren't picky about tabs vs. spaces, number of spaces for indenting, etc. At some point maybe we'll pick a standard and update the existing files, but we haven't yet, so use whatever you like. That being said, if you use the [SPDX Online Tools-license submission](https://tools.spdx.org/app/license_requests/) to create the XML and TXT files, there is a "beautify" option that formats the file nicely. 
+We aren't picky about tabs vs. spaces, number of spaces for indenting, etc. (And note, whitespace is not relevant for matching license text.) That being said, if you use the [SPDX Online Tools-license submission](https://tools.spdx.org/app/license_requests/) to create the XML and TXT files, there is a "beautify" option that formats the file nicely. 
 
 ### Beginning and end matter
 
-Within the .xml file, the first and last lines of the file should be the following:
+Within the .xml file, the first and last lines of the file must be the following:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -39,7 +39,7 @@ Within the .xml file, the first and last lines of the file should be the followi
 
 ### `<license>` or `<exception>` tag
 
-The main tag used to define the license or exception is, unsurprisingly, **`<license>`** or **`<exception>`**. All of the remaining content will be enclosed within a `<license></license>` or `<exception></exception>` pair of tags.
+The main tag used to define the license or exception is **`<license>`** or **`<exception>`**. All of the remaining content will be enclosed within a `<license></license>` or `<exception></exception>` pair of tags.
 
 There are two mandatory attributes for every `<license>` and `<exception>` tag:
 * `licenseId`: the unique SPDX Identifier for the license; should be identical to the filename. See [license-fields:short-identifier](license-fields.md#b-short-identifier) for a full description of this field.
@@ -53,7 +53,7 @@ There are two additional attributes which are optional, but highly encouraged:
 Finally, if the license ID has been deprecated, one additional attribute should be included:
 * `deprecatedVersion`: in which release version of the SPDX License List was the license first marked as deprecated, e.g. "3.19"
 
-Note that the deprecated tags refer to whether the ID has been deprecated _by SPDX_ -- in other words, if the SPDX Legal Team no longer recommends that the identifier should be used. Licenses that have been described as "deprecated" or "superseded" by the _license author_ might no longer be recommended to use for new code, but their identifiers remain valid License IDs on the SPDX License List.
+Note that the deprecated tags refer to whether the ID has been deprecated _by SPDX_ -- in other words, if the SPDX Legal Team no longer recommends that the identifier be used. Licenses that have been described as "deprecated" or "superseded" by the _license author_ might no longer be recommended to use for new code, but their identifiers remain valid License IDs on the SPDX License List.
 
 Deprecated license identifiers will be listed at the bottom of the SPDX License List page at https://spdx.org/licenses/.
 
@@ -67,7 +67,7 @@ There are three optional first-level metadata fields that can be placed immediat
 
 ### License text
 
-Then, the actual license text would be contained within the `<text></text>` section:
+Next, the actual license text would be contained within the `<text></text>` section:
 
 * **`<text>`**: Defines the actual text and templating for the license
 
@@ -90,9 +90,9 @@ Example:
 
 ### Section annotation markers
 
-Some portions of the license text can be surrounded by annotation tags, to denote certain sections of the license text:
+Some portions of text can be surrounded by annotation tags. These are all optional:
 
-* **`<titleText>`**: indicates the title of the license, if specified in the license text itself
+* **`<titleText>`**: indicates the title of the license, if specified in the license text itself. If the license does not have a title, then this tag is not needed.
 * **`<copyrightText>`**: indicates where a copyright notice would be placed for the licensed code. Because the copyright notice is not part of the license and thus ignored as related to matching a license, it does not matter if the the copyright notice includes a specific name or is generic.
   * Note that `<copyrightText>` should _not_ be used for copyright notices that apply to the copyright in the license text itself!
 * **`<standardLicenseHeader>`**: indicates a standard way that the license recommends specifying the license, see license-fields:standard-license-header](license-fields.md#h-standard-license-header) for a full descriptioin of this field.
@@ -150,7 +150,7 @@ could be represented as:
 
 ### Optional text
 
-If a license template should match regardless of whether or not a particular section of text is present, then that text can be surrounded with **`<optional>...</optional>`** tags.
+If a license template should match regardless of whether or not a particular section of text is present, then that text can be surrounded with **`<optional>...</optional>`** tags. 
 
 By default, when rendered on the [SPDX License List website](https://spdx.org/licenses), a space will be included before and after the optional text. If the tag includes a `spacing="none"` attribute, e.g. **`<optional spacing="none">`**, then these spaces will be omitted. This is useful if, for instance, the optional text is a suffix to a word or a quotation mark where the optional portion should not be separated by a space.
 
@@ -164,7 +164,7 @@ The **<alt>** tag includes two attributes:
 * `name`: specifies a unique name for this matching element. If there is more than one of the same element, it is good practice and recommended to add numbers for such similar alt tags. 
 * `match`: specifies a [POSIX extended regular expression (ERE)](http://pubs.opengroup.org/onlinepubs/9699919799/) for what text will match
 
-Note that an example of actually-matching text should be included between the `<alt>` and `</alt>` tags, as the specified example is what will be rendered on the SPDX License List website page and in license text files provided by SPDX. To the extent a license has a "canonical" or "most commonly used" standard language, use that in the match between the `alt` tags.
+An example of actually-matching text should be included between the `<alt>` and `</alt>` tags; this text will be rendered on the SPDX License List website page and in license text files provided by SPDX. To the extent a license has a "canonical" or "most commonly used" standard language, use that in the match between the `alt` tags.
 
 Also note that some annotated portions of text (specifically `<titleText>`, `<bullet>` and `<copyrightText>`) are deemed to be "replaceable text" automatically, so the `<alt>` tag is not allowed where those are present.
 
