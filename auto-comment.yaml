@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: 0BSD OR CC0-1.0
 
 repo: spdx/license-list-XML
-startAt: 2023-02-23
+startAt: 2024-03-14
 pullRequests: false
 filters:
   - type: issue
@@ -9,8 +9,9 @@ filters:
       state: closed
       labels:
         $and:
-          - $in: 'new license/exception: Accepted'
-          - $nin: 'Acceptance Notification Sent'
+          - $includes: 'new license/exception: Accepted'
+          - $not:
+              $includes: 'Acceptance Notification Sent'
 
 actions:
   - type: add_comment
