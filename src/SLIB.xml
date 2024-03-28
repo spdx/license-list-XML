@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <license isOsiApproved="false" licenseId="SLIB"
+   name="SLIB License">
+      <crossRefs>
+         <crossRef>https://cvs.savannah.gnu.org/viewvc/slib/slib/COPYING?revision=1.2&view=markup</crossRef>
+      </crossRefs>
+      <text>
+         <titleText>
+           SLIB LICENSE
+         </titleText>
+         <p>
+           Copyright (C) YEAR AUTHOR
+         </p>
+         <p>
+           Permission to copy this software, to modify it, to redistribute it,
+           to distribute modified versions, and to use it for any purpose is
+           granted, subject to the following restrictions and understandings.
+         </p>
+         <p>
+           1.  Any copy made of this software must include this copyright notice
+           in full.
+         </p>
+         <p>
+           2.  I have made no warranty or representation that the operation of
+           this software will be error-free, and I am under no obligation to
+           provide any services, by way of maintenance, update, or otherwise.
+         </p>
+         <p>
+           3.  In conjunction with products arising from the use of this
+           material, there shall be no use of my name in any advertising,
+           promotional, or sales literature without prior written consent in
+           each case.
+         </p>
+      </text>
+   </license>
+</SPDXLicenseCollection>
