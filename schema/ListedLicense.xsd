@@ -356,7 +356,7 @@
 		<annotation>
 			<documentation xml:lang="en">
 				<xhtml:p>
-					<xhtml:code>formatttedFixedTextGroup</xhtml:code> is formatted text without optional or variable portions.  The children for <xhtml:code>formattedAltStandardLicenseHeaderTextGroup</xhtml:code> have the same semantics, except for the fixed/alt and standard license header distinctions.  See the <xhtml:code>formattedAltStandardLicenseHeaderTextGroup</xhtml:code> documentation for details on the attribute semantics.
+					<xhtml:code>formattedFixedTextGroup</xhtml:code> is formatted text without optional or variable portions.  The children for <xhtml:code>formattedAltStandardLicenseHeaderTextGroup</xhtml:code> have the same semantics, except for the fixed/alt and standard license header distinctions.  See the <xhtml:code>formattedAltStandardLicenseHeaderTextGroup</xhtml:code> documentation for details on the attribute semantics.
 				</xhtml:p>
 			</documentation>
 		</annotation>
@@ -373,7 +373,7 @@
 		<annotation>
 			<documentation xml:lang="en">
 				<xhtml:p>
-					<xhtml:code>formatttedAltTextGroup</xhtml:code> is formatted text with optional and variable portions.  The children for <xhtml:code>formattedAltStandardLicenseHeaderTextGroup</xhtml:code> have the same semantics, except for the standard license header distinction.  See the <xhtml:code>formattedAltStandardLicenseHeaderTextGroup</xhtml:code> documentation for details on the attribute semantics.
+					<xhtml:code>formattedAltTextGroup</xhtml:code> is formatted text with optional and variable portions.  The children for <xhtml:code>formattedAltStandardLicenseHeaderTextGroup</xhtml:code> have the same semantics, except for the standard license header distinction.  See the <xhtml:code>formattedAltStandardLicenseHeaderTextGroup</xhtml:code> documentation for details on the attribute semantics.
 				</xhtml:p>
 			</documentation>
 		</annotation>
