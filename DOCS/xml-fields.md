@@ -22,7 +22,7 @@ A corresponding "test text" file, a plain text version of the license or excepti
 
 ### Whitespace and formatting
 
-We aren't picky about tabs vs. spaces, number of spaces for indenting, etc. (And note, whitespace is not relevant for matching license text.) That being said, if you use the [SPDX Online Tools-license submission](https://tools.spdx.org/app/license_requests/) to create the XML and TXT files, there is a "beautify" option that formats the file nicely. 
+We aren't picky about tabs vs. spaces, number of spaces for indenting, etc. (And note, whitespace is not relevant for matching license text.) That being said, if you use the [SPDX Online Tools-license submission](https://tools.spdx.org/app/submit_new_license/) to create the XML and TXT files, there is a "beautify" option that formats the file nicely. 
 
 ### Beginning and end matter
 
@@ -95,7 +95,7 @@ Some portions of text can be surrounded by annotation tags. These are all option
 * **`<titleText>`**: indicates the title of the license, if specified in the license text itself. If the license does not have a title, then this tag is not needed.
 * **`<copyrightText>`**: indicates where a copyright notice would be placed for the licensed code. Because the copyright notice is not part of the license and thus ignored as related to matching a license, it does not matter if the the copyright notice includes a specific name or is generic.
   * Note that `<copyrightText>` should _not_ be used for copyright notices that apply to the copyright in the license text itself!
-* **`<standardLicenseHeader>`**: indicates a standard way that the license recommends specifying the license, see license-fields:standard-license-header](license-fields.md#h-standard-license-header) for a full descriptioin of this field.
+* **`<standardLicenseHeader>`**: indicates a standard way that the license recommends specifying the license, see [license-fields:standard-license-header](license-fields.md#h-standard-license-header) for a full descriptioin of this field.
   * If there is no `<standardLicenseHeader>`, remove this tag (the online submission tool may add it automatically)
 
 ### Paragraphs and newlines
@@ -164,7 +164,7 @@ The **<alt>** tag includes two attributes:
 * `name`: specifies a unique name for this matching element. If there is more than one of the same element, it is good practice and recommended to add numbers for such similar alt tags. 
 * `match`: specifies a [POSIX extended regular expression (ERE)](http://pubs.opengroup.org/onlinepubs/9699919799/) for what text will match
 
-An example of actually-matching text should be included between the `<alt>` and `</alt>` tags; this text will be rendered on the SPDX License List website page and in files provided in [SPDX license-list-data}(https://github.com/spdx/license-list-data). To the extent a license has a "canonical" or "most commonly used" standard language, use that in the match between the `alt` tags.
+An example of actually-matching text should be included between the `<alt>` and `</alt>` tags; this text will be rendered on the SPDX License List website page and in files provided in [SPDX license-list-data](https://github.com/spdx/license-list-data). To the extent a license has a "canonical" or "most commonly used" standard language, use that in the match between the `alt` tags.
 
 Also note that some annotated portions of text (specifically `<titleText>`, `<bullet>` and `<copyrightText>`) are deemed to be "replaceable text" automatically, so the `<alt>` tag is not allowed where those are present.
 
