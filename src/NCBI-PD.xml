@@ -6,12 +6,17 @@
          <crossRef>https://github.com/ncbi/datasets/blob/0ea4cd16b61e5b799d9cc55aecfa016d6c9bd2bf/LICENSE.md</crossRef>
          <crossRef>https://github.com/ncbi/gprobe/blob/de64d30fee8b4c4013094d7d3139ea89b5dd1ace/LICENSE</crossRef>
          <crossRef>https://github.com/ncbi/egapx/blob/08930b9dec0c69b2d1a05e5153c7b95ef0a3eb0f/LICENSE</crossRef>
+         <crossRef>https://github.com/ncbi/datasets/blob/master/LICENSE.md</crossRef>
       </crossRefs>
       <text>
          <titleText>
-            <p>PUBLIC DOMAIN NOTICE<br></br>National Center for Biotechnology Information</p>
+            <p>PUBLIC DOMAIN NOTICE<br />National Center for Biotechnology Information</p>
          </titleText>
-         <p><optional>With the exception of certain third-party files summarized below, </optional><alt match="This|this" name="this">this</alt> software<optional>/database</optional><optional> is a "United States Government Work" under the terms of the United States Copyright Act.  It</optional> was <alt match="written|created" name="written">written</alt> as part of the <alt match="author's official duties as a United States Government employee|authors' official duties as United States Government employees" name="govemployee">authors' official duties as United States Government employees</alt> and <alt match="thus cannot be copyrighted|is not subject to copyright in the United States \(17 USC 105\)" name="nocopyright">thus cannot be copyrighted</alt>.  <optional>This software<optional>/database</optional> is freely available to the public for use. </optional>The <alt match="NLM|National Library of Medicine|National Library of Medicine \(NLM\)" name="nlm">NLM</alt><optional> and the U.S. Government</optional> have not placed any restriction on its use or reproduction.</p>
+         <p><optional>With the exception of certain third-party files summarized below, </optional>
+            this software<optional>/database</optional>
+            <optional> is a "United States Government Work" under the terms of the United States Copyright Act.  It</optional> 
+            was <alt match="written|created" name="written">written</alt> as part of the 
+            <alt match="author's official duties as a United States Government employee|authors' official duties as United States Government employees" name="govemployee">authors' official duties as United States Government employees</alt> and <alt match="thus cannot be copyrighted|is not subject to copyright in the United States \(17 USC 105\)" name="nocopyright">thus cannot be copyrighted</alt>.  <optional>This software<optional>/database</optional> is freely available to the public for use. </optional>The <alt match="NLM|National Library of Medicine|National Library of Medicine \(NLM\)" name="nlm">NLM</alt><optional> and the U.S. Government</optional> have not placed any restriction on its use or reproduction.</p>
          <p><optional>Although all reasonable efforts have been taken to ensure the accuracy and reliability of the software and data, the NLM and the U.S. Government do not and cannot warrant the performance or results that may be obtained by using this software or data. </optional>The NLM <optional>and the U.S. Government</optional> disclaim all warranties, express or implied, including warranties of performance, merchantability or fitness for any particular purpose.</p>
          <!-- the author's [sic] is present in some variants of the license -->
          <p>Please cite <alt match="the author|the authors|the author's|the author\(s\)|NCBI|NLM" name="authors1">authors</alt> in any work or product based on this material.</p>
