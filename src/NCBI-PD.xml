@@ -14,9 +14,10 @@
          </titleText>
          <p><optional>With the exception of certain third-party files summarized below, </optional>
             this software<optional>/database</optional> is a "United States Government Work" under 
-            the terms of the United States Copyright Act.  It
-            was written as part of the 
-            <alt match="author's official duties as a United States Government employee|authors' official duties as United States Government employees" name="govemployee">authors' official duties as United States Government employees</alt> and <alt match="thus cannot be copyrighted|is not subject to copyright in the United States \(17 USC 105\)" name="nocopyright">thus cannot be copyrighted</alt>.  
+            the terms of the United States Copyright Act.  It was written as part of the 
+            <alt match="authors'|author's" name="author1">author's</alt> official duties as <optional>a</optional>
+            United States Government <alt match="employees|employee" name="employee">employees</alt> and 
+            <alt match="thus cannot be copyrighted|is not subject to copyright in the United States \(17 USC 105\)" name="nocopyright">thus cannot be copyrighted</alt>.  
             This software<optional>/database</optional> is freely available to the public for use. 
             The <alt match="NLM|National Library of Medicine|National Library of Medicine \(NLM\)" name="nlm">NLM</alt> 
             and the U.S. Government have not placed any restriction on its use or reproduction.</p>
@@ -27,7 +28,8 @@
            The NLM and the U.S. Government disclaim all warranties, express or implied, including 
             warranties of performance, merchantability or fitness for any particular purpose.</p>
          
-         <p>Please cite <alt match="the author|the authors|the author's|the author\(s\)|NCBI|NLM" name="authors1">authors</alt> in any work or product based on this material.</p>
+         <p>Please cite <alt match="the author|the authors|NCBI" name="authors1">the author</alt> in 
+            any work or product based on this material.</p>
 
          <optional>
             <p>EXCEPTIONS (in all cases excluding NCBI-written makefiles):</p>
