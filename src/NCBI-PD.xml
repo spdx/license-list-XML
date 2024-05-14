@@ -17,7 +17,7 @@
             the terms of the United States Copyright Act.  It was written as part of the 
             <alt match="authors'|author's" name="author1">author's</alt> official duties as <optional>a</optional>
             United States Government <alt match="employees|employee" name="employee">employees</alt> and 
-            <alt match="thus cannot be copyrighted|is not subject to copyright in the United States \(17 USC 105\)" name="nocopyright">thus cannot be copyrighted</alt>.  
+            thus cannot be copyrighted.  
             This software<optional>/database</optional> is freely available to the public for use. 
             The <alt match="NLM|National Library of Medicine|National Library of Medicine \(NLM\)" name="nlm">NLM</alt> 
             and the U.S. Government have not placed any restriction on its use or reproduction.</p>
