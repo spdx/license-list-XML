@@ -107,7 +107,7 @@ Any variation of quotations (single, double, curly, etc.) should be considered e
 
 ### B.7.1  Purpose <a name="B.7.1"></a>
 
-To avoid the possibility of a non-match due to  the existence or absence of code comment indicators placed within the license text, e.g., at the start of each line of text, or repetitive characters to establish a separation of text, e.g., ---, ===, ___, or ***.
+To avoid the possibility of a non-match due to the existence or absence of code comment indicators placed within the license text, e.g., at the start of each line of text, or repetitive characters to establish a separation of text, e.g., ---, ===, ___, or ***.
 
 ### B.7.2  Guideline <a name="B.7.2"></a>
 
