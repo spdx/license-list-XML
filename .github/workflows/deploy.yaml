@@ -4,6 +4,11 @@ on:
       - main
     tags:
       - "*"
+
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   validate_canonical_match:
     name: Deploy
