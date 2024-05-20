@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="RRDtool-FLOSS-exception-2.0"
+   <exception licenseId="RRDtool-FLOSS-exception-2.0"
    name="RRDtool FLOSS exception 2.0" listVersionAdded="3.24">
       <crossRefs>
          <crossRef>https://github.com/oetiker/rrdtool-1.x/blob/master/COPYRIGHT#L25-L90</crossRef>
@@ -108,5 +108,5 @@
             Zope Public License 2.0/2.1
          </p>
       </text>
-   </license>
+   </exception>
 </SPDXLicenseCollection>
