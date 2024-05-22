@@ -34,29 +34,29 @@ Requesters may be uncertain as to whether they should use a newly-added license 
 
 ## Step 2: Pull and tag release versions
 
-Note: the following assumes that your local copies of the repos have `upstream` defined as the `github.com/spdx` branches. Use the current milestone in place of `3.19` throughout the steps below.
+Note: the following assumes that your local copies of the repos have `upstream` defined as the `github.com/spdx` branches. Use the current milestone in place of `3.24.0` throughout the steps below.
 
 ### Pull and tag release in license-list-XML
 
 * Use `git pull` to pull the current version of the license-list-XML repo to your local disk:
-* Tag the release: `git tag -a v3.19 -m "version 3.19 of the SPDX License List"`
-* Push tag to upstream: `git push upstream v3.19`
+* Tag the release: `git tag -a v3.24.0 -m "version 3.24.0 of the SPDX License List"`
+* Push tag to upstream: `git push upstream v3.24.0`
 * After pushing the tag, wait for the CI check to complete before going on to the next step!
 
 ### Create the GitHub release in license-list-XML
 
 * In the [list of license-list-XML tags](https://github.com/spdx/license-list-XML/tags), click on the "..." on the right side of the tag, and select "Create release"
 * Fill in content:
-  * title: `Version 3.19 of the SPDX License List`
-  * notes: copy from MarkDown for [RELEASE-NOTES.md](https://raw.githubusercontent.com/spdx/license-list-XML/main/RELEASE-NOTES.md)
+  * title: `Version 3.24.0 of the SPDX License List`
+  * notes: copy from Markdown for [RELEASE-NOTES.md](https://raw.githubusercontent.com/spdx/license-list-XML/main/RELEASE-NOTES.md)
 * Click "Publish Release"
 
 ### Pull and tag release in license-list-data
 
 * Make sure the CI checks from pushing the tag for license-list-XML have completed!
 * Use `git pull` to pull the current version of the license-list-data repo to your local disk
-* Tag the release: `git tag -a v3.19 -m "version 3.19 of the SPDX License List"`
-* Push tag to upstream: `git push upstream v3.19`
+* Tag the release: `git tag -a v3.24.0 -m "version 3.24.0 of the SPDX License List"`
+* Push tag to upstream: `git push upstream v3.24.0`
 * After pushing the tag, wait for the CI check to complete before going on to the next step!
 
 ### Create the GitHub release in license-list-data
@@ -72,7 +72,7 @@ This also assumes that you have used the AWS S3 scripts to make a local copy of 
 
 ### Prepare archive files
 
-* Create archive files in the `website/` subdirectory in the license-list-data repository named `htmlfiles-v3.19/`
+* Create archive files in the `website/` subdirectory in the license-list-data repository named `htmlfiles-v3.24.0/`
 * In your local copy of the spdx.org S3 bucket, create a new subdirectory `S3DIR/licenses/archive/archived_ll_vx.xx` where `x.xx` is the version of the PREVIOUSLY PUBLISHED license list being replaced,
 * Copy (NON-RECURSIVELY) the files from `S3DIR/licenses` to `S3DIR/licenses/archive/archived_ll_vx.xx`.
   * IMPORTANT NOTE: Do NOT do a recursive copy, only copy the files and do NOT copy any subdirectories.
