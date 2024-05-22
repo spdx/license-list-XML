@@ -1,7 +1,8 @@
-# Release History  of the SPDX License List
+# Release History of the SPDX License List
 
 | Release | Date |
 | ----- | ----- |
+| v3.24.0 | 2024-05-22 |
 | v3.23 | 2024-02-08 |
 | v3.22 | 2023-10-05 |
 | v3.21 | 2023-06-18 |
