@@ -1,5 +1,51 @@
 # Release Notes for SPDX License List
 
+## version 3.24.0 - 2024-05-22
+
+New licenses/exceptions added: 25
+
+1. 3D-Slicer-1.0
+2. AMD-newlib
+3. any-OSI
+4. Asterisk-linking-protocols-exception
+5. BSD-2-Clause-first-lines
+6. Catharon
+7. cve-tou
+8. Gutmann
+9. HPND-export-US-acknowledgement
+10. HPND-export2-US
+11. HPND-Intel
+12. HPND-merchantability-variant
+13. HPND-sell-variant-MIT-disclaimer-rev
+14. HPND-UC-export-US
+15. MIT-Khronos-old
+16. NCBI-PD
+17. NCL
+18. OAR
+19. PCRE2-exception
+20. pkgconf
+21. PPL
+22. RRDtool-FLOSS-exception-2.0
+23. Sun-PPP-2000
+24. threeparttable
+25. xzoom
+
+Began including ".0" patch version for release version tags to align with SPDX 3.0 requirements.
+
+Added and improved markup for many licenses, including fixes to markup for several Creative Commons licenses.
+
+Added notes on historical releases and added `listVersionAdded` tags for many previously-added licenses.
+
+Added first draft of documentation regarding processes for common review practices, and minor improvements to other documentation.
+
+Fixed technical issue when merging multiple PRs in close succession.
+
+Fixed typo in license list schema XSD file.
+
+See all PRs for 3.24.0 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.24.0%22+is%3Aclosed
+
+See comparision of changes from 3.23 to 3.24.0: https://github.com/spdx/license-list-XML/compare/v3.23...v3.24.0
+
 ## version 3.23 - 2024-02-08
 
 New licenses/exceptions added: 43
