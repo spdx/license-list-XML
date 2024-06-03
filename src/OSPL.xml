@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://spdx.org/license">
+    <license>
+        <licenseId>OSPL</licenseId>
+        <name>Open Source Protection License</name>
+        <licenseText><![CDATA[
+Open Source Protection License (OSPL)
+=====================================
+
+Terms and Conditions
+---------------------
+The Open Source Protection License (OSPL) is a legally binding agreement designed to facilitate open and collaborative development while protecting the rights and vision of the original author. By using, copying, modifying, or distributing the work (the "Work"), you agree to abide by the terms and conditions of this license.
+
+1. Definitions
+--------------
+• "Work" refers to any copyrighted material, including software, hardware designs, documentation, or other creative content, covered by this license.
+• "You" refers to an individual or entity exercising rights under this license.
+• "Author" refers to the original creator of the Work.
+• "Adaptation" means a work based upon the Work, including modifications, enhancements, or derivative works.
+• "Commercial Use" refers to any use primarily intended for or directed towards commercial advantage or monetary compensation.
+
+2. Grant of License
+--------------------
+Subject to the terms and conditions of this OSPL, the Author grants You a worldwide, royalty-free, non-exclusive license to:
+
+• Copy, reproduce, and share the Work.
+• Create Adaptations of the Work, provided that such Adaptations align with the original Author's vision, as interpreted in good faith.
+
+3. Redistribution
+------------------
+You may distribute copies of the Work or Adaptations thereof, provided that:
+
+• You include a copy of this OSPL with every copy of the Work or Adaptation.
+• Any redistribution, including commercial redistribution, must provide appropriate credit to the Author. For non-commercial redistribution, credit is not required but recommended.
+• The Work and any Adaptation thereof must be licensed under the OSPL.
+
+4. Attribution
+---------------
+1) For any use, distribution, or reproduction of the Work in a commercial context, You must provide appropriate credit to the Author, indicating the original creation by the Author. This attribution should be included in a manner reasonable to the medium or means of use.
+2) Non-commercial use, distribution, or reproduction of the Work does not require attribution, though it is appreciated.
+
+5. No Warranty
+---------------
+1) The Work is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+2) In no event shall the Author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Work or the use or other dealings in the Work.
+
+6. Limitation of Liability
+---------------------------
+To the maximum extent permitted by applicable law, in no event shall the Author be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of the use of or inability to use the Work, even if the Author has been advised of the possibility of such damages.
+
+7. Termination
+---------------
+This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License. Individuals or entities who have received Adaptations or copies of the Work from You under this License, however, will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses.
+
+8. Miscellaneous
+-----------------
+1) If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
+2) This License constitutes the entire agreement between the parties with respect to the Work licensed here. It supersedes any prior agreements, understandings, or arrangements between the parties relating to the Work.
+
+Additional Clauses
+-------------------
+Preservation of Integrity: Adaptations should respect the original Work's integrity and not misrepresent the Author’s vision.
+Notification of Use: It is recommended, though not required, that You notify the Author when you use the Work for significant projects or commercial purposes.
+Contribution Back: It is encouraged that any improvements or modifications You make to the Work be shared back with the community under the same terms.
+
+By exercising any rights to the Work provided here, You accept and agree to be bound by the terms of this OSPL.
+
+Acknowledgement
+----------------
+This license is inspired by the principles of open-source collaboration and community-driven development, modeled after licenses such as CC-BY-SA and other open-source licenses.
+        ]]></licenseText>
+        <standardLicenseHeader><![CDATA[
+This work is licensed under the Open Source Protection License (OSPL).
+]]></standardLicenseHeader>
+        <licenseComments>
+This license is inspired by the principles of open-source collaboration and community-driven development, modeled after licenses such as CC-BY-SA and other open-source licenses.
+        </licenseComments>
+        <seeAlso>https://www.nebulaone.org/license.html</seeAlso>
+        <isOsiApproved>false</isOsiApproved>
+    </license>
+</SPDXLicenseCollection>
