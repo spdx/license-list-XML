@@ -1,12 +1,15 @@
 # A History of OSI-approved licenses and the SPDX License List
 
-Early on, the SPDX License List should include all licenses that were ever OSI-approved licenses. The rationale being that once OSI-approved, always OSI-approved and that even old or "deprecated" (by way of a newer version or other such circumstance) licenses may still appear "in the wild". (Note: the OSI and SPDX use "deprecated" in different ways.)
+In the first releases of the SPDX License List, it was determined that the SPDX License List should include all licenses that were ever OSI-approved. The rationale being that once OSI-approved, always OSI-approved and that even old or "deprecated" (by way of a newer version or other such circumstance) licenses may still appear "in the wild". (Note: the OSI and SPDX use "deprecated" in different ways.)
 
 In 2011, OSI [began using the SPDX license identifiers](https://opensource.org/minutes20110608) in their URLs and on the license pages.
 
 The SPDX-legal team sought to accurately identify all OSI-approved licenses and their corresponding text to ensure representation on the SPDX License List. This involved cross-collaboration between SPDX-legal and various OSI representatives, with most communication occurring on the SPDX-legal mailing list, OSI's license-disucss mailing list, or both. John Cowan, Martin Michlmayr, Karl Fogel, and Luis Villa were among the OSI board members who helped Jilayne Lovejoy from SPDX-legal on researching the various issues. 
 
-This page seeks to explain some of the challenges that this reconciliation work encountered, especially where a solution to the challenge may still leave questions for people currently looking at or using both the SPDX License List and the OSI list of approved licenses. Any suggestions that had been made in the past for a possible reconciliation have been reproduced here as well. 
+This page seeks to explain some of the challenges that this reconciliation work encountered, especially where a solution to the challenge may still leave questions for people currently looking at or using both the SPDX License List and the OSI list of approved licenses. Any suggestions that had been made in the past but not implemented or that would aid in clarifiction have been added here as well. 
+
+If or as things get updated, we will try to update this page in a timely manner.
+(last update: July 1, 2024)
 
 ## Old and "deprecated" licenses
 The following old or "deprecated" licenses were confirmed by the OSI as having been OSI-approved, even though these licenses do not or may not (readily) appear on the OSI website any longer:
@@ -21,7 +24,7 @@ The following old or "deprecated" licenses were confirmed by the OSI as having b
 See SPDX-legal email list from April 2012 [here](https://lists.spdx.org/g/Spdx-legal/message/311?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Arecentpostdate%2Fsticky%2C%2Cosi%2C20%2C2%2C300%2C22080203) and 
 [here](https://lists.spdx.org/g/Spdx-legal/message/312?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Arecentpostdate%2Fsticky%2C%2Cosi%2C20%2C2%2C300%2C22080204) for confirmation of these licenses having been OSI-approved.
 
-Suggestion: Consider listing all licenses ever approved on OSI website to retain a full historical record.
+Suggestion: Consider listing all licenses ever approved on OSI website to retain a full historical record (even if noted as superceded).
 
 ## Artistic License variations
 The OSI explicitly approved two variants of [Artistic License 1.0](https://opensource.org/licenses/Artistic-1.0) as stated at the top of the page: with clause 8 and without. Because the presence or absence of clause 8 presents a substantive difference, SPDX added them as two separate licenses. 
@@ -46,7 +49,7 @@ Note that OSI has the GPL-2.0-or-later license notice on its page for the eCos e
 Suggestion: Update the [eCos](https://opensource.org/licenses/eCos-2.0) page to use the current `eCos-exception-2.0` identifier and change the URL to https://opensource.org/licenses/eCos-exception-2.0. Clarify what versions of GPL it is approved for.
 
 ## Licenses that allow for variations by way of a different license notice
-These are licesnes that were approved by the OSI in full. These licenses allow legally substantive variations based on use of a different license notice. This variataion warranted distinct SPDX identifiers to indicate whether or not the allowed variation is being triggered. All of these variations include a Note in the SPDX License List entry explaining this. 
+These are licenses that were approved by the OSI in full. These licenses allow legally substantive variations based on use of a different license notice. This variataion warranted distinct SPDX identifiers to indicate whether or not the allowed variation is being triggered. All of these variations include a Note in the SPDX License List entry explaining this. 
 
 * `CAL-1.0-Combined-Work-Exception`
 * `MPL-2.0-no-copyleft-exception`
@@ -59,7 +62,7 @@ Suggestion: OSI could add the variant SPDX ids to the license pages.
 
 * [Jabber Open Source License](https://opensource.org/licenses/jabberpl) - This is a case where the text on the OSI site is not the same as the archived text at http://archive.jabber.org/core/JOSL.pdf SPDX would consider these two texts as different licenses, and was trying to clarify with the OSI which text was submitted and approved by OSI. Martin Michlmayr and Jilayne discussed this back in 2013 (https://lists.spdx.org/g/Spdx-legal/topic/22080295#475), but never reached a resolution. Jilayne emailed the OSI Board about this issue in July 2019. 
 
-Suggestion: SPDX could recognize both variants on the SPDX License List and note the one that is specifically OSI-approved is the one that matches that exact text on the OSI site?  This would require distinct names and identifiers. 
+Suggestion: SPDX could recognize both variants on the SPDX License List and note the one that is specifically OSI-approved. This would require clarification from OSI as to which one was approved and make any updates to its site accordingly. If both variants were OSI-approve, then a new entry would be warranted on the OSI site. 
 
 * CVW: MITRE Collaborative Virtual Workspace License
 
