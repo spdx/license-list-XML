@@ -71,21 +71,11 @@ still need to research issue here
 # from Max's list - still to address: 
 ## Not in OSI list, but in SPDX's list
 
-* GPL-3.0-with-GCC-exception
 
-what is the quesiton here?
-
-* LGPL-2.0
-
-this is a deprecated SPDX license id, not sure what the question is here?
 
 * MIT-Modern-Variant
 
-### False-positives
 
-- Many mismatches in GPL/LGPL/AGPL because of -only/-or-later/+. I unified those
-
-what do you mean my mismatches? and "unified those"?
 
 # OSI issues
 
