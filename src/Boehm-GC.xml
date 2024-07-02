@@ -6,6 +6,7 @@
          <crossRef>https://fedoraproject.org/wiki/Licensing:MIT#Another_Minimal_variant_(found_in_libatomic_ops)</crossRef>
          <crossRef>https://github.com/uim/libgcroots/blob/master/COPYING</crossRef>
          <crossRef>https://github.com/ivmai/libatomic_ops/blob/master/LICENSE</crossRef>
+         <crossRef>https://github.com/MariaDB/server/blob/11.6/libmysqld/lib_sql.cc</crossRef>
       </crossRefs>
       <text>
          <copyrightText>Copyright (c) ...</copyrightText>
@@ -14,8 +15,8 @@
             WARRANTY EXPRESSED OR IMPLIED. ANY USE IS AT YOUR OWN RISK.
          </p>
          <p>
-            Permission is hereby granted to use or copy this program for any
-            purpose, provided the above notices are retained on all copies.
+            Permission <optional>is hereby granted</optional> to use or copy this <alt name="program" match="program|software">program</alt> for any
+            purpose, <optional>is hereby granted without fee,</optional> provided the above notices are retained on all copies.
             Permission to modify the code and to distribute modified code is
             granted, provided the above notices are retained, and a notice that
             the code was modified is included with the above copyright notice.
