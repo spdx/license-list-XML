@@ -1,6 +1,6 @@
 # A History of OSI-approved licenses and the SPDX License List
 
-In the first releases of the SPDX License List, it was determined that the SPDX License List should include all licenses that were ever OSI-approved. The rationale being that once OSI-approved, always OSI-approved and that even old or "deprecated" (by way of a newer version or other such circumstance) licenses may still appear "in the wild". (Note: the OSI and SPDX use "deprecated" in different ways.)
+In the first releases of the SPDX License List, it was determined that the SPDX License List should include all licenses that were ever OSI-approved. (A policy that SPDX-legal maintains to this day.) The rationale being that once OSI-approved, always OSI-approved and that even old or "deprecated" (by way of a newer version or other such circumstance) licenses may still appear "in the wild". (Note: the OSI and SPDX use the term "deprecated" in different ways.)
 
 In 2011, OSI [began using the SPDX license identifiers](https://opensource.org/minutes20110608) in their URLs and on the license pages.
 
@@ -8,8 +8,12 @@ The SPDX-legal team sought to accurately identify all OSI-approved licenses and 
 
 This page seeks to explain some of the challenges that this reconciliation work encountered, especially where a solution to the challenge may still leave questions for people currently looking at or using both the SPDX License List and the OSI list of approved licenses. Any suggestions that had been made in the past but not implemented or that would aid in clarifiction have been added here as well. 
 
-If or as things get updated, we will try to update this page in a timely manner.
+Since that time, the OSI began more actively reviewing licenses and the website got updated in various ways; and SPDX adopted new policies, such as the license expression syntax. As a result, other issues have appeared in term of "matching" up the licenses that appear on both lists.
+
+This document is an effort to capture the history, as well as acknowledge and identify some issues, which in some cases, may have suggested resolutions.  This list may not be exhaustive. As things get updated, we will try to update this page in a timely manner.
 (last update: July 1, 2024)
+
+# Outstanding issues
 
 ## Old and "deprecated" licenses
 The following old or "deprecated" licenses were confirmed by the OSI as having been OSI-approved, even though these licenses do not or may not (readily) appear on the OSI website any longer:
@@ -42,11 +46,15 @@ Suggestion: OSI add the SPDX ids, `Artistic-1.0` and `Artistic-1.0-cl8` to [this
 And add the SPDX id, `Artistic-1.0-Perl` on [this page](https://opensource.org/licenses/Artistic-Perl-1.0) and update that note accordingly as well. 
 
 ## License exceptions
-In at least one case, the OSI approved a license exception, referred to as [eCos License version 2.0](https://opensource.org/licenses/eCos-2.0) and lists the SPDX identifiers as "eCos-2.0". This is probably because this license was originally on the SPDX License List as a stand alone license. However, when SPDX 2.0 came out in May 2015, exceptions were moved to their own part of the SPDX License List to be used with the `WITH` operator to allow more extensible and varied license expressions, see https://spdx.org/licenses/eCos-2.0.html and now see https://spdx.org/licenses/eCos-exception-2.0.html
+In at least two cases, the OSI approved a license exception: 
+* [eCos License version 2.0](https://opensource.org/licenses/eCos-2.0) and lists the SPDX identifiers as `eCos-2.0`
+* [wxWindows Library License](https://spdx.org/licenses/wxWindows.html) and lists the SPDX identifier as `wxWindows`
+This is probably because these licenses were originally on the SPDX License List as a stand alone licenses. However, when SPDX 2.0 came out in May 2015, exceptions were moved to their own part of the SPDX License List to be used with the `WITH` operator to allow more extensible and varied license expressions, see https://spdx.org/licenses/eCos-2.0.html and now see https://spdx.org/licenses/eCos-exception-2.0.html
+and https://spdx.org/licenses/wxWindows.html and now see https://spdx.org/licenses/WxWindows-exception-3.1.html
 
 Note that OSI has the GPL-2.0-or-later license notice on its page for the eCos exception, which would use the SPDX license expression: `GPL-2.0-or-later WITH eCos-exception-2.0`. Did OSI _only_ approve this exception for GPL-2.0-or-later? 
 
-Suggestion: Update the [eCos](https://opensource.org/licenses/eCos-2.0) page to use the current `eCos-exception-2.0` identifier and change the URL to https://opensource.org/licenses/eCos-exception-2.0. Clarify what versions of GPL it is approved for.
+Suggestion: Update the pages to use the current SPDX identifier for the exception (or the full SPDX license expression). Clarify what versions of GPL it is approved for.
 
 ## Licenses that allow for variations by way of a different license notice
 These are licenses that were approved by the OSI in full. These licenses allow legally substantive variations based on use of a different license notice. This variataion warranted distinct SPDX identifiers to indicate whether or not the allowed variation is being triggered. All of these variations include a Note in the SPDX License List entry explaining this. 
@@ -55,6 +63,7 @@ These are licenses that were approved by the OSI in full. These licenses allow l
 * `MPL-2.0-no-copyleft-exception`
 * `OFL-1.1-no-RFN`
 * `OFL-1.1-RFN`
+* GNU license family, see https://github.com/OpenSourceOrg/licenses/issues/87
 
 Suggestion: OSI could add the variant SPDX ids to the license pages.
 
@@ -64,34 +73,15 @@ Suggestion: OSI could add the variant SPDX ids to the license pages.
 
 Suggestion: SPDX could recognize both variants on the SPDX License List and note the one that is specifically OSI-approved. This would require clarification from OSI as to which one was approved and make any updates to its site accordingly. If both variants were OSI-approve, then a new entry would be warranted on the OSI site. 
 
-* CVW: MITRE Collaborative Virtual Workspace License
+* [CVW: MITRE Collaborative Virtual Workspace License](https://opensource.org/license/cvw) - Needs further research as to when it was OSI approved and how it didn't get on SPDX License List as well.
 
-still need to research issue here
+## Other issues
+* [The W3C® SOFTWARE NOTICE AND LICENSE](https://opensource.org/license/w3c) - uses SPDX id, `W3C-20150513` but licnese text does not seem to match??
+* 
 
-# from Max's list - still to address: 
-## Not in OSI list, but in SPDX's list
-
-
-
-* MIT-Modern-Variant
-
+## OSI site missing SPDX id
+* [OCLC-2.0](https://opensource.org/license/oclc2-php) - see https://spdx.org/licenses/OCLC-2.0.html - is marked as OSI-approved on SPDX License List
+* https://opensource.org/license/python-2-0 uses the right SPDX id in the URL (which is from many years ago), but has the wrong SPDX on the actual page text
 
 
-# OSI issues
-
-## Unclear status
-
-* EUPL-1.1 is not on OSI's site but only EUPL-1.2. However, the 1.2 entry links to the 1.1 detail site, and there exists an additional 1.2 URL. So OSI's listing seems confused. It's therefore unclear which licenses are approved.
-
-need to do some research on this one
-
-## Mismatch of IDs in OSI and SPDX
-Probably mistakes on OSI's side.
-
-These may be cases of the licenses being submitted to SPDX before OSI approved them and no one at OSI realized. Or they were submitted at a similar time and never cross-checked on the final SPDX id.
-
-- [ ] LiLiQ-P vs. LiLiQ-P-1.1
-- [ ] LiLiQ-R vs. LiLiQ-R-1.1
-- [ ] LiLiQ-R+ vs. LiLiQ-Rplus-1.1
-- [ ] UPL vs. UPL-1.0
-- [ ] WXwindows vs. wxWindows
+Also see https://github.com/OpenSourceOrg/licenses/issues/62 for other issues that have been addressed - thanks Gary O'Neall!
