@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <exception licenseId="agpl-3.0-linking-exception"
-   name="AGPL-3.0 Linking Exception" listVersionAdded="">
+   name="AGPL-3.0 Linking Exception" listVersionAdded="3.25">
    <crossRefs>
       <crossRef>https://web.archive.org/web/20210124015834/http://mo.morsi.org/blog/2009/08/13/lesser_affero_gplv3/</crossRef>
       <crossRef>https://github.com/moll/node-mitm/blob/bbf24b8bd7596dc6e091e625363161ce91984fc7/LICENSE#L8-L11</crossRef>
