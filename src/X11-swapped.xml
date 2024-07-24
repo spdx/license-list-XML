@@ -4,7 +4,7 @@
       <crossRefs>
          <crossRef>https://github.com/fedeinthemix/chez-srfi/blob/master/srfi/LICENSE</crossRef>
       </crossRefs>
-      <notes>This is same as X11, but the final paragraphs was swapped.</notes>
+      <notes>This is same as X11, but the order of the last two paragraphs is swapped.</notes>
     <text>
       <titleText>
          <p>X11 License</p>
