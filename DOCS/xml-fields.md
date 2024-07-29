@@ -47,11 +47,11 @@ There are two mandatory attributes for every `<license>` and `<exception>` tag:
 
 There are two additional attributes which are optional, but highly encouraged:
 * `isOsiApproved` (for licenses, not exceptions): either "true" or "false" based on whether this license has been approved by the [Open Source Initiative](https://opensource.org/licenses/alphabetical)
-* `listVersionAdded`: in which release version of the SPDX License List was the license first added, e.g. "3.19".
-  * Typically you'll check the currently-released version at https://spdx.org/licenses/ and increment the minor version by 1 for a new license.
+* `listVersionAdded`: in which release version of the SPDX License List was the license first added, e.g., "3.24.0".
+  * Typically you'll check the currently-released version at https://github.com/spdx/license-list-XML/releases and increment the minor version by 1 for a new license. E.g., when last release is "3.24.0" you add there "3.25.0".
 
 Finally, if the license ID has been deprecated, one additional attribute should be included:
-* `deprecatedVersion`: in which release version of the SPDX License List was the license first marked as deprecated, e.g. "3.19"
+* `deprecatedVersion`: in which release version of the SPDX License List was the license first marked as deprecated, e.g. "3.24.0"
 
 Note that the deprecated tags refer to whether the ID has been deprecated _by SPDX_ -- in other words, if the SPDX Legal Team no longer recommends that the identifier be used. Licenses that have been described as "deprecated" or "superseded" by the _license author_ might no longer be recommended to use for new code, but their identifiers remain valid License IDs on the SPDX License List.
 
