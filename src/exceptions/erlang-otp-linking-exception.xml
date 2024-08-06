@@ -10,13 +10,11 @@
       This exception is based on the suggested template from the Free Software Foundation's FAQ about the GPL.
     </notes>
     <text>
-      <titleText>
 	<optional>
 	<p>
 	  Additional permission under GNU AGPL version 3 section 7
 	</p>
 	</optional>
-      </titleText>
       <p>
 	If you modify this Program, or any covered work, by linking or
 	combining it with runtime libraries of Erlang/OTP as released by
