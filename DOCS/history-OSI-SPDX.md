@@ -2,7 +2,7 @@
 
 In the first releases of the SPDX License List, it was determined that the SPDX License List should include all licenses that were ever OSI-approved. (A policy that SPDX-legal maintains to this day.) The rationale being that once OSI-approved, always OSI-approved and that even old or "deprecated" (by way of a newer version or other such circumstance) licenses may still appear "in the wild". (Note: the OSI and SPDX use the term "deprecated" in different ways.)
 
-In 2011, OSI [began using the SPDX license identifiers](https://opensource.org/minutes20110608) in their URLs and on the license pages.
+In 2011, OSI [began using the SPDX license identifiers](https://opensource.org/meeting-minutes/minutes20110608) in their URLs and on the license pages.
 
 The SPDX-legal team sought to accurately identify all OSI-approved licenses and their corresponding text to ensure representation on the SPDX License List. This involved cross-collaboration between SPDX-legal and various OSI representatives, with most communication occurring on the SPDX-legal mailing list, OSI's license-disucss mailing list, or both. John Cowan, Martin Michlmayr, Karl Fogel, and Luis Villa were among the OSI board members who helped Jilayne Lovejoy from SPDX-legal on researching the various issues. 
 
