@@ -215,7 +215,7 @@ XML files do not require specific markup to implement this guideline.
 
 ### B.15.1 Template access <a name="B.15.1"></a>
 
-The license XML can be accessed in the license-list-data repository under the license-list-XML directory.  Although the license list XML files can also be found in the [license-list-XML](https://github.com/spdx/license-list-XML) repo, users are encouraged to use the published versions in the [license-list-data](https://github.com/spdx/license-list-data) repository.  The license-list-data repository is tagged by release.  Only tagged released versions of the license list are considered stable.
+The license XML can be accessed in the license-list-data repository under the license-list-XML directory.  Although the license list XML files can also be found in the [license-list-XML](https://github.com/spdx/license-list-XML) repository, users are encouraged to use the published versions in the [license-list-data](https://github.com/spdx/license-list-data) repository.  The license-list-data repository is tagged by release.  Only tagged released versions of the license list are considered stable.
 
 ### B.15.2 License List XML format <a name="B.15.2"></a>
   
