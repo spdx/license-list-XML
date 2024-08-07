@@ -184,7 +184,7 @@ The following XML tag is used to implement this guideline: `<copyrightText>`
 
 For example: `<copyrightText>Copyright 2022 Linux Foundation</copyrightText>`
 
-## 111 License name or title <a name="11"></a>
+## 11 License name or title <a name="11"></a>
 
 ### 11.1 Purpose <a name="11.1"></a>
 
@@ -209,7 +209,7 @@ To avoid a license mismatch merely because extraneous text that appears at the e
 Ignore any text that occurs after the obvious end of the license and does not include substantive text of the license, for example: text that occurs after a statement such as, "END OF TERMS AND CONDITIONS," or an exhibit or appendix that includes an example or instructions on to how to apply the license to your code. Do not apply this guideline or ignore text that is comprised of additional license terms (e.g., permitted additional terms under GPL-3.0, section 7).
 
 To implement this guideline, use the `<optional>` XML element tag as described
-in [section 2.5](#2.5).
+in [guideline 2.5](#2.5) (“omittable text”).
 
 ## 13 HTTP Protocol <a name="13"></a>
 
@@ -255,7 +255,7 @@ Rule fields begin with a case sensitive tag followed by an equal sign `=`.
 Rule fields:
 
 - type: indicates whether the text is replaceable or omittable as per
-  [Matching Guideline #2](#2) (“Substantive Text”).
+  guidelines in [Section 2](#2) (“Substantive text”).
   - Indicated by `<<var; . . . >>` or
   - Indicated by `<<beginOptional; . . .>>` and `<<endOptional>>` respectively.
   - This field is the first field and is required.
