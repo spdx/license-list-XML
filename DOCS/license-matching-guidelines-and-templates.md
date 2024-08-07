@@ -42,7 +42,11 @@ Matched text should only include that found in the vetted license or exception t
 
 Some licenses include text that refers to the specific copyright holder or author, yet the rest of the license is exactly the same. The intent here is to avoid the inclusion of a specific name in one part of the license resulting in a non-match where the license is otherwise an exact match to the legally substantive terms (e.g., the third clause and disclaimer in the BSD licenses, or the third, fourth, and fifth clauses of Apache-1.1). In these cases, there should be a positive license match.
 
-The text indicated as such can be replaced with similar values (e.g., a different name or generic term; different date) and still be considered a positive match. This rule also applies to text-matching in official license headers (see Guideline: official license headers).
+The text indicated as such can be replaced with similar values
+(e.g., a different name or generic term; different date) and still be
+considered a positive match.
+This rule also applies to text-matching in official license headers
+(see [Guideline: official license headers](#1.2)).
 
 The following XML tag is used to implement this guideline. `<alt>` with 2 attributes:
 
@@ -168,7 +172,9 @@ By having a rule regarding the use of "©", "(c)", or "copyright", we avoid the 
 
 "©", "(c)", or "Copyright" should be considered equivalent and interchangeable.
 
-XML files do not require specific markup to implement this guideline. The copyright symbol is part of the copyright notice, see implementation of that guideline below.
+XML files do not require specific markup to implement this guideline.
+The copyright symbol is part of the copyright notice,
+see implementation of that guideline in [Copyright notice](#10).
 
 ## 10 Copyright notice <a name="10"></a>
 
@@ -209,7 +215,7 @@ To avoid a license mismatch merely because extraneous text that appears at the e
 Ignore any text that occurs after the obvious end of the license and does not include substantive text of the license, for example: text that occurs after a statement such as, "END OF TERMS AND CONDITIONS," or an exhibit or appendix that includes an example or instructions on to how to apply the license to your code. Do not apply this guideline or ignore text that is comprised of additional license terms (e.g., permitted additional terms under GPL-3.0, section 7).
 
 To implement this guideline, use the `<optional>` XML element tag as described
-in [guideline 2.5](#2.5) (“omittable text”).
+in [Guideline: omittable text](#2.5).
 
 ## 13 HTTP Protocol <a name="13"></a>
 
@@ -254,17 +260,17 @@ Rule fields begin with a case sensitive tag followed by an equal sign `=`.
 
 Rule fields:
 
-- type: indicates whether the text is replaceable or omittable as per
-  guidelines in [Section 2](#2) (“Substantive text”).
+- **type**: indicates whether the text is replaceable or omittable as per
+  [Substantive text guidelines](#2).
   - Indicated by `<<var; . . . >>` or
   - Indicated by `<<beginOptional; . . .>>` and `<<endOptional>>` respectively.
   - This field is the first field and is required.
-- name: name of the field in the template.
+- **name**: name of the field in the template.
   - This field is unique within each license template.
   - This field is required.
-- original: the original text of the rule.
+- **original**: the original text of the rule.
   - This field is required for a rule type: `<<var; . . . >>`
-- match: a POSIX extended regular expression (ERE).
+- **match**: a POSIX extended regular expression (ERE).
   - This field is required for a rule type: `<<var; . . . >>`
 
 The [POSIX ERE](http://pubs.opengroup.org/onlinepubs/9699919799/) in the match
