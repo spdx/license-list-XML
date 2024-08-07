@@ -1,4 +1,4 @@
-# Annex B License matching guidelines and templates (Informative)
+# Annex B License list matching guidelines and templates (Informative)
 
 ## B.1 SPDX license list matching guidelines <a name="B.1"></a>
 
