@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Net-SNMP" listVersionAdded="2.6"
-            name="Net-SNMP License" deprecatedVersion="3.25">
+            name="Net-SNMP License" deprecatedVersion="3.25.0">
       <crossRefs>
          <crossRef>http://net-snmp.sourceforge.net/about/license.html</crossRef>
       </crossRefs>
