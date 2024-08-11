@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="DocBook-XML"
-   name="DocBook XML License" listVersionAdded="">
+   name="DocBook XML License" listVersionAdded="3.25">
       <crossRefs>
          <crossRef>https://github.com/docbook/xslt10-stylesheets/blob/efd62655c11cc8773708df7a843613fa1e932bf8/xsl/COPYING#L27</crossRef>
       </crossRefs>
-      <notes>
-      </notes>
+
       <text>
          <copyrightText>
             Copyright<br></br>
-            ---------<br></br>
-            Copyright (C) 1999-2007 Norman Walsh<br></br>
-            Copyright (C) 2003 Jiří Kosek<br></br>
-            Copyright (C) 2004-2007 Steve Ball<br></br>
-            Copyright (C) 2005-2014 The DocBook Project<br></br>
-            Copyright (C) 2011-2012 O'Reilly Media
+           <br /> ---------<br></br>
+           <br /> Copyright (C) 1999-2007 Norman Walsh
+           <br /> Copyright (C) 2003 Jiří Kosek
+           <br /> Copyright (C) 2004-2007 Steve Ball
+           <br /> Copyright (C) 2005-2014 The DocBook Project
+           <br /> Copyright (C) 2011-2012 O'Reilly Media
          </copyrightText>
          <p>
             Permission is hereby granted, free of charge, to any person
@@ -45,9 +44,9 @@
             between the derived package and this Software will exist.
          </p>
          <p>
-            Warranty<br></br>
-            --------<br></br>
-            THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+            Warranty
+            <br />--------
+           <br /> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
             KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
             WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
             PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL NORMAN WALSH
@@ -57,11 +56,11 @@
             THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
          </p>
          <optional>
-            Contacting the Author<br></br>
-            ---------------------<br></br>
-            The DocBook XSL stylesheets are maintained by
-            Norman Walsh, <ndw@nwalsh.com>, and members of
-            the DocBook Project, <docbook-developers@sf.net>
+            <p>Contacting the Author
+            <br />---------------------
+            <br />The DocBook XSL stylesheets are maintained by
+            Norman Walsh, &lt;ndw@nwalsh.com&gt;, and members of
+            the DocBook Project, &lt;docbook-developers@sf.net&gt;
          </optional>
       </text>
    </license>
