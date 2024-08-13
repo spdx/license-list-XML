@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="DocBook-Schema"
-   name="DocBook Schema License" listVersionAdded="3.25">
+   name="DocBook Schema License" listVersionAdded="3.25.0">
       <crossRefs>
          <crossRef>https://github.com/docbook/xslt10-stylesheets/blob/efd62655c11cc8773708df7a843613fa1e932bf8/xsl/assembly/schema/docbook51b7.rnc</crossRef>
       </crossRefs>
