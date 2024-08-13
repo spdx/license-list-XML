@@ -20,9 +20,7 @@ To ensure consistent results by different SPDX document creators when matching l
 
 ### 1.2 Guideline: official license headers <a name="1.2"></a>
 
-The matching guidelines apply to license and exception text, as well as official license headers.
-Official license headers are defined by the SPDX License List as specific text specified within the license itself to be put in the header of files
-(see [explanation of SPDX License List fields](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-fields.md) for more info).
+The matching guidelines apply to license and exception text, as well as official license headers. Official license headers are defined by the SPDX License List as specific text specified within the license itself to be put in the header of files (see [explanation of SPDX License List fields](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-fields.md) for more info).
 
 The following XML tag is used to implement this guideline: `<standardLicenseHeader>`
 
@@ -57,7 +55,7 @@ The following XML tag is used to implement this guideline. `<alt>` with 2 attrib
 
 The original text is enclosed within the beginning and ending alt tags.
 
-For example: `<alt match="(?i:copyright.{0,200})." name="copyright1">Copyright Linux Foundation</alt>`
+For example: `<alt match="(?i:copyright.{0,200})." name="copyright1">Copyright The Linux Foundation</alt>`
 
 The original replaceable text appears on the SPDX License List webpage in red text.
 
@@ -190,7 +188,7 @@ Ignore copyright notices. A copyright notice consists of the following elements,
 
 The following XML tag is used to implement this guideline: `<copyrightText>`
 
-For example: `<copyrightText>Copyright 2022 Linux Foundation</copyrightText>`
+For example: `<copyrightText>Copyright 2022 The Linux Foundation</copyrightText>`
 
 ## 11 License name or title <a name="11"></a>
 
