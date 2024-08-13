@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="DocBook-XML"
-   name="DocBook XML License" listVersionAdded="3.25">
+   name="DocBook XML License" listVersionAdded="3.25.0">
       <crossRefs>
          <crossRef>https://github.com/docbook/xslt10-stylesheets/blob/efd62655c11cc8773708df7a843613fa1e932bf8/xsl/COPYING#L27</crossRef>
       </crossRefs>
