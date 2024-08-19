@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Ubuntu-font-1.0"
-   name="UBUNTU FONT LICENCE v1.0" listVersionAdded="3.25.0">
+   name="Ubuntu Font Licence v1.0" listVersionAdded="3.25.0">
       <crossRefs>
          <crossRef>https://ubuntu.com/legal/font-licence</crossRef>
          <crossRef>https://assets.ubuntu.com/v1/81e5605d-ubuntu-font-licence-1.0.txt</crossRef>
