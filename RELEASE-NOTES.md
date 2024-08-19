@@ -1,5 +1,27 @@
 # Release Notes for SPDX License List
 
+## version 3.25.0 - 2024-08-19
+
+New licenses/exceptions added: 9
+
+1. DocBook-Schema
+2. DocBook-XML
+3. erlang-otp-linking-exception
+4. HIDAPI
+5. HPND-Netrek
+6. romic-exception
+7. Ruby-pty
+8. Ubuntu-font-1.0
+9. X11-swapped
+
+Deprecated Net-SNMP license identifier.
+
+Added and improved markup for several licenses.
+
+See all PRs for 3.25.0 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.25.0%22+is%3Aclosed
+
+See comparison of changes from 3.24.0 to 3.25.0: https://github.com/spdx/license-list-XML/compare/v3.24.0...v3.25.0
+
 ## version 3.24.0 - 2024-05-22
 
 New licenses/exceptions added: 25
