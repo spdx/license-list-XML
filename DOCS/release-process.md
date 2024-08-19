@@ -77,7 +77,7 @@ This also assumes that you have used the AWS S3 scripts to make a local copy of 
 * Copy (NON-RECURSIVELY) the files from `S3DIR/licenses` to `S3DIR/licenses/archive/archived_ll_vx.xx`.
   * IMPORTANT NOTE: Do NOT do a recursive copy, only copy the files and do NOT copy any subdirectories.
 * Edit the file `S3DIR/licenses/archive/archived_ll_vx.xx/index.html`. Add the line below, immediately prior to the line `<h1>SPDX License List</h1>`:
-  * `<p style="color: #FA0207;"><strong>THIS IS NOT THE CURRENT VERSION OF THE SPDX LICENSE LIST. PLEASE USE THE CURRENT VERSION, LOCATED AT: <a href="https://spdx.org/licenses/">https://spdx.org/licenses/</a></p>`
+  * `<p style="color: #FA0207;"><strong>THIS IS NOT THE CURRENT VERSION OF THE SPDX LICENSE LIST. PLEASE USE THE CURRENT VERSION, LOCATED AT: <a href="https://spdx.org/licenses/">https://spdx.org/licenses/</a></strong></p>`
 
 ### Copy new files
 
