@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="Boehm-GC-without-fee"
-   name="Boehm-Demers-Weiser GC License (without fee)" listVersionAdded="3.25.0">
+   name="Boehm-Demers-Weiser GC License (without fee)" listVersionAdded="3.26.0">
       <crossRefs>
          <crossRef>https://github.com/MariaDB/server/blob/11.6/libmysqld/lib_sql.cc</crossRef>
       </crossRefs>
