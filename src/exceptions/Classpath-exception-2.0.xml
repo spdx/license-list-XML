@@ -7,7 +7,7 @@
       </crossRefs>
       <note>This is an exception from the FSF for Classpath. Independent-modules-exception
          is very similar, but has a separate id due to it being used with LGPL and
-      a different lead-in that Classpath-exception-2.0.
+      a different lead-in that Classpath-exception-2.0.</note>
     <text>
       <p>Linking this library statically or dynamically with other modules
          is making a combined work based on this library. Thus, the
