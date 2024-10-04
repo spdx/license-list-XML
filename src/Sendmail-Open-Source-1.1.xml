@@ -5,7 +5,7 @@
       <crossRefs>
          <crossRef>https://github.com/trusteddomainproject/OpenDMARC/blob/master/LICENSE.Sendmail</crossRef>
       </crossRefs>
-      <notes>
+      <notes>Note that this license is distinct and not a different version from Sendmail or Sendmail-8.23
       </notes>
       <text>
          <titleText>
