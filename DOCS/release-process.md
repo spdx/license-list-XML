@@ -26,6 +26,7 @@ Requesters may be uncertain as to whether they should use a newly-added license 
 
 ### Draft release notes
 
+* Update with new version and release date at the top of [RELEASE-HISTORY.md](../RELEASE-HISTORY.md)
 * Add a new release text section to the top of [RELEASE-NOTES.md](../RELEASE-NOTES.md)
 * Mimic the same pattern as the prior release notes, listing each license or exception added in this release, together with brief notes about any other significant changes in this release
 * Create compare link by changing tag numbers in previous release
