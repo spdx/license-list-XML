@@ -4,6 +4,7 @@
    name="Historical Permission Notice and Disclaimer with MIT disclaimer" listVersionAdded="3.23">
       <crossRefs>
          <crossRef>https://metacpan.org/release/NLNETLABS/Net-DNS-SEC-1.22/source/LICENSE</crossRef>
+         <crossRef>https://raw.githubusercontent.com/gbxyz/perl-net-rdap/00302bd794e6d691ff6141a8dadd308b453f9d78/LICENSE</crossRef>
       </crossRefs>
       <notes>
         This is essentially HPND with the disclaimer from MIT license.
@@ -19,8 +20,9 @@
         <p>
                 Permission to use, copy, modify, and distribute this
                 software and its documentation for any purpose and without
-                fee is hereby granted, provided that the original copyright
-                notices appear in all copies and that both copyright notice
+                fee is hereby granted, provided that the
+                <alt match="original copyright notices|above copyright notice" name="original">original copyright notices</alt>
+                appear in all copies and that both <optional>that</optional> copyright notice
                 and this permission notice appear in supporting documentation,
                 and that the name of the author not be used in advertising or
                 publicity pertaining to distribution of the software without
