@@ -166,9 +166,14 @@ The **<alt>** tag includes two attributes:
 
 Learning regular expressions is outside the scope of this document. However, here are a few of the most common patterns for the `match` attribute:
 * `<alt match="are|is">`: Matches if the text is either the word "are" or the word "is"
-* `<alt match="Lesser|Library|()">`: Matches if the text is either the word "Lesser" or "Library" or neither
+* `<alt match="Lesser|Library|()">`: Matches if the text is either the word "Lesser" or "Library" or neither (no word at all)
 * `<alt match="EXPRESS(ED)?">`: Matches if the text is either the word "EXPRESS" or the word "EXPRESSED"
+  * the `?` means that the text in the parenthesis can be present or not. This is functionally similar to the `<optional>` tag.
 * `<alt match=".+" name="copyrightHolderAsIs">THE COPYRIGHT HOLDERS AND CONTRIBUTORS</alt>`: Matches anything as long as it consists of at least one or more characters
+* `<alt match="(Neither the name of .+ nor the names of (specific )? contributors,? may)|...">`: this option combines a few of the attributes above.
+  * the `.+` means any name can be present 
+  * the `?` after `(specific )` means the word "specific" can be present or not, note there is a space between the end of the word and the closing paren
+  * the `?` after the comma after "contributors" means the comma can be present or not
 
 The [BSD-3-Clause](../src/BSD-3-Clause.xml) is a good example of using several `<alt>` tags effectively
 
