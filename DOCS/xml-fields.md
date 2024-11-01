@@ -24,7 +24,7 @@ A corresponding "test text" file, a plain text version of the license or excepti
 
 We aren't picky about tabs vs. spaces, number of spaces for indenting, etc. (And note, whitespace is not relevant for matching license text.) That being said, if you use the [SPDX Online Tools-license submission](https://tools.spdx.org/app/submit_new_license/) to create the XML and TXT files, there is a "beautify" option that formats the file nicely. 
 
-### Beginning and end matter
+### Beginning and end tag: `<SPDXLicenseCollection>`
 
 Within the .xml file, the first and last lines of the file must be the following:
 
@@ -39,33 +39,33 @@ Within the .xml file, the first and last lines of the file must be the following
 
 ### `<license>` or `<exception>` tag
 
-The main tag used to define the license or exception is **`<license>`** or **`<exception>`**. All of the remaining content will be enclosed within a `<license></license>` or `<exception></exception>` pair of tags.
+After the `<SPDXLicenseCollection>` tag, all of the remaining content will be enclosed within a **`<license></license>`** or **`<exception></exception>`** pair of tags.
 
 There are two mandatory attributes for every `<license>` and `<exception>` tag:
 * `licenseId`: the unique SPDX Identifier for the license; should be identical to the filename. See [license-fields:short-identifier](license-fields.md#b-short-identifier) for a full description of this field.
 * `name`: the longer or full title of the license (if there is one); see [license-fields:full-name](license-fields.md#a-full-name) for a full description of this field.
 
-There are two additional attributes which are optional, but highly encouraged:
-* `isOsiApproved` (for licenses, not exceptions): either "true" or "false" based on whether this license has been approved by the [Open Source Initiative](https://opensource.org/licenses/alphabetical)
+There are two additional highly encouraged attributes which are technically optional:
 * `listVersionAdded`: in which release version of the SPDX License List was the license first added, e.g., "3.24.0".
   * Typically you'll check the currently-released version at https://github.com/spdx/license-list-XML/releases and increment the minor version by 1 for a new license. E.g., when last release is "3.24.0" you add there "3.25.0".
+* `isOsiApproved` (for licenses, not exceptions): either "true" or "false" based on whether this license has been approved by the [Open Source Initiative](https://opensource.org/licenses/alphabetical)
 
 Finally, if the license ID has been deprecated, one additional attribute should be included:
 * `deprecatedVersion`: in which release version of the SPDX License List was the license first marked as deprecated, e.g. "3.24.0"
 
-Note that the deprecated tags refer to whether the ID has been deprecated _by SPDX_ -- in other words, if the SPDX Legal Team no longer recommends that the identifier be used. Licenses that have been described as "deprecated" or "superseded" by the _license author_ might no longer be recommended to use for new code, but their identifiers remain valid License IDs on the SPDX License List.
+NOTE: The deprecated tags refer to whether the ID has been deprecated _by SPDX_ -- in other words, if the SPDX Legal Team no longer recommends that the identifier be used. Licenses that have been described as "deprecated" or "superseded" by the _license author_ might no longer be recommended to use for new code, but their identifiers remain valid License IDs on the SPDX License List.
 
 Deprecated license identifiers will be listed at the bottom of the SPDX License List page at https://spdx.org/licenses/.
 
 ### License metadata
 
-There are three optional first-level metadata fields that can be placed immediately under `<license>` or `<exception>`, each of which is optional:
+There are three first-level metadata fields that can be placed immediately under `<license>` or `<exception>`, each of which is optional:
 
 * **`<crossRefs>`**: Defines cross-references to URLs where the license can be found in use by one or a few projects, and (if applicable) where posted by the license steward. See [license-fields:web-pages](license-fields.md#c-other-web-pages-for-licenseexception) for more information about this field.
 * **`<notes>`**: Describes general comments about the license; if deprecated, also briefly explain the reason for deprecating the license identifier. See [license-fields:Notes](license-fields.md#d-notes) for more information about this field. If there are not Notes, then remove this tag from the XML file.
 * **`<obsoletedBys>`** (if license is deprecated): Lists the license(s) that should be used instead of this deprecated license
 
-### License text
+### License `<text>` tag 
 
 Next, the actual license text would be contained within the `<text></text>` section:
 
@@ -90,7 +90,7 @@ Example:
 
 ### Section annotation markers
 
-Some portions of text can be surrounded by annotation tags. These are all optional:
+Inside the `<text>` tag, some portions of specific text can be surrounded by annotation tags. These are all optional:
 
 * **`<titleText>`**: indicates the title of the license, if specified in the license text itself. If the license does not have a title, then this tag is not needed.
 * **`<copyrightText>`**: indicates where a copyright notice would be placed for the licensed code. Because the copyright notice is not part of the license and thus ignored as related to matching a license, it does not matter if the the copyright notice includes a specific name or is generic.
@@ -102,9 +102,7 @@ Some portions of text can be surrounded by annotation tags. These are all option
 
 Separate paragraphs should be surrounded by **`<p>...</p>`** tags.
 
-Newlines can be added at the end of a line with **`<br />`**. Note that this does not need a closing tag, because the `/` within the angle brackets makes it self-closing.
-
-Generally, you should use **`<p>`** tags for each paragraph and should not use **`<br />`** unless you have a good reason.
+Newlines without a paragraph break can be added at the end of a line with **`<br />`**. Note that this does not need a closing tag, because the `/` within the angle brackets makes it self-closing.
 
 ### Lists
 
@@ -154,27 +152,34 @@ If a license template should match regardless of whether or not a particular sec
 
 By default, when rendered on the [SPDX License List website](https://spdx.org/licenses), a space will be included before and after the optional text. If the tag includes a `spacing="none"` attribute, e.g. **`<optional spacing="none">`**, then these spaces will be omitted. This is useful if, for instance, the optional text is a suffix to a word or a quotation mark where the optional portion should not be separated by a space.
 
-Note that some annotated portions of text (specifically `<titleText>`, `<bullet>` and `<copyrightText>`) are deemed to be "replaceable text" automatically, so the `<optional>` tag is not allowed where those are present.
+NOTE: The `<optional>` tag **cannot** be used within: `<titleText>`, `<bullet>`, `<copyrightText>`, or `<alt>`. This is because the text within these tags are deemed to be "replaceable text" automatically, so the `<optional>` tag is not allowed where those are present.
 
-### Replaceable text
+### Replaceable text: `<alt>`
 
 Some licenses contain portions of language that can match to a variety of alternative texts. This is called "replaceable text", and is denoted with the **`<alt>...</alt>`** tag.
+
+An example of actually-matching text should be included between the `<alt>` and `</alt>` tags; this text will be rendered on the SPDX License List website page and in files provided in [SPDX license-list-data](https://github.com/spdx/license-list-data). To the extent a license has a "canonical" or "most commonly used" standard language, use that in the match between the `alt` tags.
 
 The **<alt>** tag includes two attributes:
 * `name`: specifies a unique name for this matching element. If there is more than one of the same element, it is good practice and recommended to add numbers for such similar alt tags. 
 * `match`: specifies a [POSIX extended regular expression (ERE)](http://pubs.opengroup.org/onlinepubs/9699919799/) for what text will match
 
-An example of actually-matching text should be included between the `<alt>` and `</alt>` tags; this text will be rendered on the SPDX License List website page and in files provided in [SPDX license-list-data](https://github.com/spdx/license-list-data). To the extent a license has a "canonical" or "most commonly used" standard language, use that in the match between the `alt` tags.
-
-Also note that some annotated portions of text (specifically `<titleText>`, `<bullet>` and `<copyrightText>`) are deemed to be "replaceable text" automatically, so the `<alt>` tag is not allowed where those are present.
-
-Learning regular expressions is outside the scope of this document. However, here are a few of the most common patterns, taken from [BSD-3-Clause](../src/BSD-3-Clause.xml) which is a good example of using several `<alt>` tags effectively:
-* `<alt match="are|is" name="tobe">are</alt>`: Matches if the text is either the word "are" or the word "is"
-* `<alt match="Lesser|Library|()" name="lesser">Lesser</alt>`: Matches if the text is either the word "Lesser" or "Library" or neither
-* `<alt match="EXPRESS(ED)?" name="express">EXPRESS</alt>`: Matches if the text is either the word "EXPRESS" or the word "EXPRESSED"
+Learning regular expressions is outside the scope of this document. However, here are a few of the most common patterns for the `match` attribute:
+* `<alt match="are|is">`: Matches if the text is either the word "are" or the word "is"
+* `<alt match="Lesser|Library|()">`: Matches if the text is either the word "Lesser" or "Library" or neither (no word at all)
+* `<alt match="EXPRESS(ED)?">`: Matches if the text is either the word "EXPRESS" or the word "EXPRESSED"
+  * the `?` means that the text in the parenthesis can be present or not. This is functionally similar to the `<optional>` tag.
 * `<alt match=".+" name="copyrightHolderAsIs">THE COPYRIGHT HOLDERS AND CONTRIBUTORS</alt>`: Matches anything as long as it consists of at least one or more characters
+* `<alt match="(Neither the name of .+ nor the names of (specific )? contributors,? may)|...">`: this option combines a few of the attributes above.
+  * the `.+` means any name can be present 
+  * the `?` after `(specific )` means the word "specific" can be present or not, note there is a space between the end of the word and the closing paren
+  * the `?` after the comma after "contributors" means the comma can be present or not
 
-Note: If a license has a fair amount of markup in an <alt> tag, you may need to add `\s+` between words to allow matching in spite of line breaks or multiple spaces. See [BSD-3-Clause](../src/BSD-3-Clause.xml) and [MIT](../src/MIT.xml) for examples. 
+The [BSD-3-Clause](../src/BSD-3-Clause.xml) is a good example of using several `<alt>` tags effectively
+
+NOTE: Some annotated portions of text (specifically `<titleText>`, `<bullet>` and `<copyrightText>`) are deemed to be "replaceable text" automatically, so the `<alt>` tag is not allowed where those are present.
+
+NOTE: If a license has a fair amount of markup in an <alt> tag, you may need to add `\s+` between words to allow matching in spite of line breaks or multiple spaces. See [BSD-3-Clause](../src/BSD-3-Clause.xml) and [MIT](../src/MIT.xml) for examples. 
 
 ### Other things to watch out for
 
