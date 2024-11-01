@@ -1,6 +1,4 @@
-Create Commons Public Domain Mark 1.0 Universal (PDM 1.0 DEED)
-
-# No Copyright
+No Copyright
 
 This work has been identified as being free of known restrictions under
 copyright law, including all related and neighboring rights.
@@ -9,7 +7,7 @@ copyright law, including all related and neighboring rights.
 You can copy, modify, distribute and perform the work, even for commercial
 purposes, all without asking permission. See Other Information below.
 
-# Other Information
+Other Information
 
 The work may not be free of known copyright restrictions in all jurisdictions .
 
