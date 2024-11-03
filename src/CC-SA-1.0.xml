@@ -261,6 +261,7 @@
                </list>
             </item>
          </list>
+         <optional>
          <p>
             Creative Commons is not a party to this License, and makes no warranty whatsoever in connection with the
             Work. Creative Commons will not be liable to You or any party on any legal theory for any damages
@@ -277,6 +278,7 @@
             its website or otherwise made available upon request from time to time.
          </p>
          <p>Creative Commons may be contacted at http://creativecommons.org/.</p>
+         </optional>
       </text>
    </license>
 </SPDXLicenseCollection>
