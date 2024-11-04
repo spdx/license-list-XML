@@ -34,7 +34,7 @@
                <bullet>3.</bullet>
                Redistributions of any form whatsoever must retain the
                following acknowledgment: "This product includes software
-               developed by Paul Mackerras &lt;<alt match="(paulus@ozlabs.org|paulus@samba.org)" name="emailAddress">paulus@ozlabs.org</alt>&gt;".
+               developed by Paul Mackerras <alt match="(&lt;paulus@ozlabs.org&gt;|&lt;paulus@samba.org&gt;)" name="emailAddress">&lt;paulus@ozlabs.org&gt;</alt>".
             </item>
          </list>
          <p>
