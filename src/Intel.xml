@@ -2,6 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Intel" name="Intel Open Source License" listVersionAdded="1.17">
       <crossRefs>
+         <crossRef>https://opensource.org/license/Intel</crossRef>
          <crossRef>https://opensource.org/licenses/Intel</crossRef>
       </crossRefs>
       <notes>This license has been deprecated. A note at the top of the OSI license page states, "The Intel Open

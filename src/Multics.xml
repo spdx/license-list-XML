@@ -2,6 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Multics" name="Multics License">
       <crossRefs>
+         <crossRef>https://opensource.org/license/Multics</crossRef>
          <crossRef>https://opensource.org/licenses/Multics</crossRef>
       </crossRefs>
       <notes>
