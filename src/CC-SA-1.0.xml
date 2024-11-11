@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="CC-SA-1.0" name="Creative Common Share Alike 1.0 Generic" listVersionAdded="3.26.0">
+   <license isOsiApproved="false" licenseId="CC-SA-1.0" name="Creative Commons Share Alike 1.0 Generic" listVersionAdded="3.26.0">
       <crossRefs>
          <crossRef>https://creativecommons.org/licenses/sa/1.0/legalcode</crossRef>
       </crossRefs>
       <text>
          <titleText>
-            <p>Creative Commons Legal Code</p>
-            <p>ShareAlike 1.0 Generic</p>
+            <optional><p>Creative Commons Legal Code</p></optional>
+            <p>ShareAlike 1.0 <optional>Generic</optional></p>
          </titleText>
          <optional>
             <p>
