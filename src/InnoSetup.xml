@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="InnoSetup"
-   name="InnoSetup license" listVersionAdded="3.26">
+   name="Inno Setup License" listVersionAdded="3.26.0">
       <crossRefs>
          <crossRef>https://github.com/jrsoftware/issrc/blob/HEAD/license.txt</crossRef>
       </crossRefs>
       <text>
          <titleText>
-            Inno Setup License ==================
+            Inno Setup License<br />
+            ==================
          </titleText>
          <p>
             Except where otherwise noted, all of the documentation and software
             included in the Inno Setup package is copyrighted by Jordan Russell.
          </p>
-         <p>
-            Copyright (C) 1997-2024 Jordan Russell. All rights reserved.
-            Portions Copyright (C) 2000-2024 Martijn Laan. All rights reserved.
-         </p>
-         <p>
-            This software is provided "as-is," without any express
-            or implied warranty. In no event shall the author be held
-            liable for any damages arising from the use of this software.
-         </p>
+         <copyrightText>
+            <p>
+               Copyright (C) 1997-2024 Jordan Russell. All rights reserved.
+               Portions Copyright (C) 2000-2024 Martijn Laan. All rights reserved.
+            </p>
+            <p>
+               This software is provided "as-is," without any express
+               or implied warranty. In no event shall the author be held
+               liable for any damages arising from the use of this software.
+            </p>
+         </copyrightText>
          <p>
             Permission is granted to anyone to use this software for any
             purpose, including commercial applications, and to alter and
