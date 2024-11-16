@@ -2,6 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="NTP" name="NTP License">
       <crossRefs>
+         <crossRef>https://opensource.org/license/NTP</crossRef>
          <crossRef>https://opensource.org/licenses/NTP</crossRef>
       </crossRefs>
     <text>
