@@ -16,7 +16,7 @@
       <p>Permission is hereby granted, free of charge, to any person obtaining a copy of 
          <alt match="this\s+software\s+and\s+associated\s+documentation\s+files|this\s+source\s+file" name="files">
          this software and associated documentation files</alt> (the 
-         <alt match="Software|Materials" name="Software1">Software</alt>), 
+         "<alt match="Software|Materials" name="Software1">Software</alt>"), 
          to deal in the 
          <alt match="Software|Materials" name="Software2">Software</alt> 
          without restriction, including without limitation the rights to use, copy, modify, 
