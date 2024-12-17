@@ -20,6 +20,11 @@ rm "src/$1.xml"
 tests="test/simpleTestForGenerator"
 if [ -f "$tests/$1.txt" ]; then
   mv "$tests/$1.txt" "$tests/$2.txt"
-else
-  echo "No test file found."
 fi
+for test_file in $tests/$1.*.txt; do
+  if [ -f "$test_file" ]; then
+    # Extract the middle part of the filename
+    middle_part=$(echo "$test_file" | sed -E "s/test\/simpleTestForGenerator\/$1\.(.*)\.txt/\1/")
+    mv "$tests/$1.${middle_part}.txt" "$tests/$2.${middle_part}.txt"
+  fi
+done
