@@ -13,7 +13,7 @@
       <optional><p>If you modify libpng you may insert additional notices immediately following this sentence.</p>
       <p>This code is released under the libpng license.</p></optional>
       <optional><p>libpng versions 1.2.6, August 15, 2004, through <alt match=".+" name="version-date">1.4.5, December 9, 2010</alt>, are Copyright (c) 2004,
-         2006-<alt match=".+" name=cyear1">2010</alt> Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as
+         2006-<alt match=".+" name="cyear1">2010</alt> Glenn Randers-Pehrson, and are distributed according to the same disclaimer and license as
          libpng-1.2.5 with the following individual added to the list of Contributing Authors</p>
       <p>Cosmin Truta</p></optional>
       <p>libpng versions 1.0.7, July 1, 2000, <alt match=".+" name="version-date2">through 1.2.5 - October 3, 2002</alt>, are
@@ -51,7 +51,7 @@
         <br/>Willem van Schaik
       </p>
       <p>libpng versions 0.89, June 1996, through 0.96, May 1997, are
-        <br/>Copyright (c) 1996, 1997 Andreas Digger<alt match="", and are distributed|Distributed" name="distributed">
+        <br/>Copyright (c) 1996, 1997 Andreas Digger<alt match=", and are distributed|Distributed" name="distributed">
         <br/>Distributed</alt> according to the same disclaimer and license as libpng-0.88, with the following
              individuals added to the list of Contributing Authors:
       </p>
@@ -66,7 +66,7 @@
 but are released under this license.</p></optional>
          
       <p>libpng versions 0.5, May 1995, through 0.88, January 1996, are
-        <br/>Copyright (c) 1995<alt match=",|-" name=comma">,</alt> 1996 Guy Eric Schalnat, Group 42, Inc.
+        <br/>Copyright (c) 1995<alt match=",|-" name="comma">,</alt> 1996 Guy Eric Schalnat, Group 42, Inc.
       </p>
       <p>For the purposes of this copyright and license, "Contributing Authors" is defined as the following set of
          individuals:</p>
