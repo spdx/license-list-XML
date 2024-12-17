@@ -66,7 +66,7 @@
 but are released under this license.</p></optional>
          
       <p>libpng versions 0.5, May 1995, through 0.88, January 1996, are
-        <br/>Copyright (c) 1995<alt match=",|-" name="comma">,</alt> 1996 Guy Eric Schalnat, Group 42, Inc.
+        <br/>Copyright (c) <alt match="1995, 1996|1995-1996" name="comma">1995, 1996</alt> Guy Eric Schalnat, Group 42, Inc.
       </p>
       <p>For the purposes of this copyright and license, "Contributing Authors" is defined as the following set of
          individuals:</p>
