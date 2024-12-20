@@ -2,6 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Motosoto" name="Motosoto License">
       <crossRefs>
+         <crossRef>https://opensource.org/license/Motosoto</crossRef>
          <crossRef>https://opensource.org/licenses/Motosoto</crossRef>
       </crossRefs>
       <text>
