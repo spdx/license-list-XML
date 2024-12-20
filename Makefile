@@ -1,7 +1,8 @@
 # SPDX-License-Identifier: CC0-1.0
 
-TOOL_VERSION = 3.0.0
+TOOL_VERSION = 3.0.1
 TEST_DATA = test/simpleTestForGenerator
+FULL_TEST_DATA = test/fullTestForGenerator
 GIT_AUTHOR = License Publisher (maintained by Gary O'Neall) <gary@sourceauditor.com>
 GIT_AUTHOR_EMAIL = gary@sourceauditor.com
 LICENSE_DATA_REPO_NO_SCHEME = github.com/spdx/license-list-data.git
@@ -24,18 +25,18 @@ STATIC_FILES = equivalentwords.txt
 STATIC_FILES_DEST = $(LICENSE_OUTPUT_DIR)/website/
 
 .PHONY: validate-canonical-match
-validate-canonical-match: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA) $(LICENSE_OUTPUT_DIR)
+validate-canonical-match: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA) $(FULL_TEST_DATA) $(LICENSE_OUTPUT_DIR)
 	echo Validating source files from $(LICENSE_SOURCE)
-	java -jar -DLocalFsfFreeJson=true -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator '$(LICENSE_SOURCE:;=)' '$(LICENSE_OUTPUT_DIR)' 1.0 2000-01-01 $(TEST_DATA) expected-warnings
+	java -jar -DLocalFsfFreeJson=true -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator '$(LICENSE_SOURCE:;=)' '$(LICENSE_OUTPUT_DIR)' 1.0 2000-01-01 $(TEST_DATA) expected-warnings $(FULL_TEST_DATA)
 
 .PHONY: deploy-license-data
-deploy-license-data: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA)
+deploy-license-data: licenseListPublisher-$(TOOL_VERSION).jar-valid $(TEST_DATA) $(FULL_TEST_DATA)
 	rm -rf '$(LICENSE_OUTPUT_DIR)'
 	git clone --quiet --depth 1 $(LICENSE_DATA_URL) '$(LICENSE_OUTPUT_DIR)'
 	# Clean out the old data directories
 	find '$(LICENSE_OUTPUT_DIR)' -mindepth 1 -maxdepth 1 -name .git -prune -o -name .github -prune -o -type d -exec rm -rf {} \+
 	rm -f $(LICENSE_OUTPUT_DIR)/licenses.md
-	java -jar -DLocalFsfFreeJson=true -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator '$(LICENSE_SOURCE_DIR)' '$(LICENSE_OUTPUT_DIR)' $(VERSION) $(RELEASE_DATE) $(TEST_DATA) expected-warnings
+	java -jar -DLocalFsfFreeJson=true -DlistedLicenseSchema="schema/ListedLicense.xsd" licenseListPublisher-$(TOOL_VERSION).jar LicenseRDFAGenerator '$(LICENSE_SOURCE_DIR)' '$(LICENSE_OUTPUT_DIR)' $(VERSION) $(RELEASE_DATE) $(TEST_DATA) expected-warnings $(FULL_TEST_DATA)
 	$(foreach f, $(STATIC_FILES), cp ${f} $(STATIC_FILES_DEST);)
 	git -C '$(LICENSE_OUTPUT_DIR)' add -A .
 	git config user.email "$(GIT_AUTHOR_EMAIL)"

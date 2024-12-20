@@ -6,4 +6,4 @@ PUBLISHER=licenseListPublisher-${TOOL_VERSION}.jar
 # if license list publisher is not present, download it
 test ! -f ${PUBLISHER}  && make ${PUBLISHER}-valid
 
-java -jar ${PUBLISHER} TestLicenseXML "src/${@}.xml" "test/simpleTestForGenerator/${@}.txt"
+java -jar ${PUBLISHER} TestLicenseXML "src/${@}.xml" "test/simpleTestForGenerator/${@}.txt" "test/fullTestForGenerator"
