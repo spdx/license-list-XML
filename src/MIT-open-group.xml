@@ -4,7 +4,6 @@
              name="MIT Open Group variant" listVersionAdded="3.11">
         <crossRefs>
             <crossRef>https://gitlab.freedesktop.org/xorg/app/iceauth/-/blob/master/COPYING</crossRef>
-            <crossRef>https://gitlab.freedesktop.org/xorg/app/xvinfo/-/blob/master/COPYING</crossRef>
             <crossRef>https://gitlab.freedesktop.org/xorg/app/xsetroot/-/blob/master/COPYING</crossRef>
             <crossRef>https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING</crossRef>
         </crossRefs>
