@@ -1,5 +1,39 @@
 # Release Notes for SPDX License List
 
+## version 3.26.0 - 2024-12-30
+
+New licenses/exceptions added: 19
+
+1. any-OSI-perl-modules
+2. Boehm-GC-without-fee
+3. CC-PDM-1.0
+4. CC-SA-1.0
+5. CGAL-linking-exception
+6. DocBook-Stylesheet
+7. generic-xts
+8. GPL-3.0-389-ds-base-exception
+9. harbour-exception
+10. Independent-modules-exception
+11. InnoSetup
+12. MIPS
+13. MIT-Click
+14. mxml-exception
+15. Sendmail-Open-Source-1.1
+16. SMAIL-GPL
+17. ThirdEye
+18. TrustedQSL
+19. wwl
+
+Added and improved markup for several licenses.
+
+Updated to latest version of the License List Publisher.
+
+Updated text and links for various documentation.
+
+See all PRs for 3.26.0 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.26.0%22+is%3Aclosed
+
+See comparison of changes from 3.25.0 to 3.26.0: https://github.com/spdx/license-list-XML/compare/v3.25.0...v3.26.0
+
 ## version 3.25.0 - 2024-08-19
 
 New licenses/exceptions added: 9
