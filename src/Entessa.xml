@@ -2,6 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Entessa" name="Entessa Public License v1.0">
       <crossRefs>
+         <crossRef>https://opensource.org/license/Entessa</crossRef>
          <crossRef>https://opensource.org/licenses/Entessa</crossRef>
       </crossRefs>
       <notes>This license is mostly a match to Apache-1.1 (except for the addition of "open source" before 
