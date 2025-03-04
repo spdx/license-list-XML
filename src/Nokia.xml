@@ -2,6 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Nokia" name="Nokia Open Source License">
       <crossRefs>
+         <crossRef>https://opensource.org/license/nokia</crossRef>
          <crossRef>https://opensource.org/licenses/nokia</crossRef>
       </crossRefs>
     <text>

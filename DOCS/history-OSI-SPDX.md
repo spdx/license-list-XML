@@ -34,9 +34,9 @@ See SPDX-legal email list from April 2012 [here](https://lists.spdx.org/g/Spdx-l
 Suggestion for OSI: Consider listing all licenses ever approved on OSI website to retain a full historical record (even if noted as superceded).
 
 ## Artistic License variations
-The OSI explicitly approved two variants of [Artistic License 1.0](https://opensource.org/licenses/Artistic-1.0) as stated at the top of the page: with clause 8 and without. Because the presence or absence of clause 8 presents a substantive difference, SPDX added them as two separate licenses. 
+The OSI explicitly approved two variants of [Artistic License 1.0](https://opensource.org/license/Artistic-1.0) as stated at the top of the page: with clause 8 and without. Because the presence or absence of clause 8 presents a substantive difference, SPDX added them as two separate licenses. 
 
-In the course of this research, it was discovered that the text for the Artistic License 1.0 that was listed on the OSI website did not match the text of the Artistic License [used by Perl](https://dev.perl.org/licenses/artistic.html), which has 10 clauses, clause 5, 6, 7, and 8 being different from those on the OSI site. It is still unclear to this day what was originally submitted to OSI or where the text at https://opensource.org/licenses/Artistic-1.0 (either with or without clause 8) has been used in actual code.
+In the course of this research, it was discovered that the text for the Artistic License 1.0 that was listed on the OSI website did not match the text of the Artistic License [used by Perl](https://dev.perl.org/licenses/artistic.html), which has 10 clauses, clause 5, 6, 7, and 8 being different from those on the OSI site. It is still unclear to this day what was originally submitted to OSI or where the text at https://opensource.org/license/Artistic-1.0 (either with or without clause 8) has been used in actual code.
 
 As a result SPDX added 3 licenses to accommodate these variations:
 * `Artistic-1.0`
@@ -45,14 +45,14 @@ As a result SPDX added 3 licenses to accommodate these variations:
 
 OSI added a separate page for `Artistic-1.0-Perl` but the notation describing the variant is still confusing. 
 
-Suggestion for OSI: OSI add the SPDX ids, `Artistic-1.0` and `Artistic-1.0-cl8` to [this page](https://opensource.org/licenses/Artistic-1.0) and update the notation to something like,  “OSI approved this variant of Artistic License 1.0, (Artistic-1.0) with 9 clauses, as well as a variant that contains an additional clause 8 (Artistic-1.0-cl8). There is also the variant used by Perl (Artistic-1.0-Perl), which has differences from the text here in clauses 5, 6, 7 and 8.”
-And add the SPDX id, `Artistic-1.0-Perl` on [this page](https://opensource.org/licenses/Artistic-Perl-1.0) and update that note accordingly as well. 
+Suggestion for OSI: OSI add the SPDX ids, `Artistic-1.0` and `Artistic-1.0-cl8` to [this page](https://opensource.org/license/Artistic-1.0) and update the notation to something like,  “OSI approved this variant of Artistic License 1.0, (Artistic-1.0) with 9 clauses, as well as a variant that contains an additional clause 8 (Artistic-1.0-cl8). There is also the variant used by Perl (Artistic-1.0-Perl), which has differences from the text here in clauses 5, 6, 7 and 8.”
+And add the SPDX id, `Artistic-1.0-Perl` on [this page](https://opensource.org/license/Artistic-Perl-1.0) and update that note accordingly as well. 
 
 These SPDX licenses have an explanation, as appropriate, in the Note field. 
 
 ## License exceptions
 In at least two cases, the OSI approved a license exception with an SPDX id that is not current: 
-* [eCos License version 2.0](https://opensource.org/licenses/eCos-2.0) and lists the SPDX identifiers as `eCos-2.0`
+* [eCos License version 2.0](https://opensource.org/license/eCos-2.0) and lists the SPDX identifiers as `eCos-2.0`
 * [wxWindows Library License](https://spdx.org/licenses/wxWindows.html) and lists the SPDX identifier as `wxWindows`
 This is probably because these licenses were originally on the SPDX License List as a stand alone licenses. However, when SPDX 2.0 came out in May 2015, exceptions were moved to their own part of the SPDX License List to be used with the `WITH` operator to allow more extensible and varied license expressions, see https://spdx.org/licenses/eCos-2.0.html and now see https://spdx.org/licenses/eCos-exception-2.0.html
 and https://spdx.org/licenses/wxWindows.html and now see https://spdx.org/licenses/WxWindows-exception-3.1.html
@@ -74,7 +74,7 @@ Suggestion for OSI: OSI could add the variant SPDX ids to the license pages, and
 
 ## Not in SPDX list, but in OSI's list
 
-* [Jabber Open Source License](https://opensource.org/licenses/jabberpl) - This is a case where the text on the OSI site is not the same as the archived text at http://archive.jabber.org/core/JOSL.pdf SPDX would consider these two texts as different licenses, and was trying to clarify with the OSI which text was submitted and approved by OSI. Martin Michlmayr and Jilayne discussed this back in 2013 (https://lists.spdx.org/g/Spdx-legal/topic/22080295#475), but never reached a resolution. Jilayne emailed the OSI Board about this issue in July 2019. 
+* [Jabber Open Source License](https://opensource.org/license/jabberpl) - This is a case where the text on the OSI site is not the same as the archived text at http://archive.jabber.org/core/JOSL.pdf SPDX would consider these two texts as different licenses, and was trying to clarify with the OSI which text was submitted and approved by OSI. Martin Michlmayr and Jilayne discussed this back in 2013 (https://lists.spdx.org/g/Spdx-legal/topic/22080295#475), but never reached a resolution. Jilayne emailed the OSI Board about this issue in July 2019. 
 
 Suggestion: SPDX could recognize both variants on the SPDX License List and note the one that is specifically OSI-approved. This would require clarification from OSI as to which one was approved and make any updates to its site accordingly. If both variants were OSI-approved, then a new entry would be warranted on the OSI site and on the SPDX License List. 
 
