@@ -1,0 +1,87 @@
+SPDX-License-Identifier: KT-License
+SPDX-FileCopyrightText: 2025 Tuhura Marama o Aotearoa
+
+Permission is hereby granted under this license for the use, distribution, and modification of this work only in accordance with tikanga Māori and the principles outlined herein.
+
+# Kaitiaki License
+SPDX-Identifier: LicenseRef-KT
+Version: 1.0
+Date: 2025-02-28
+
+## Te Kaupapa-Rangatira
+Ko tēnei kaupapa he taonga tuku iho, he mea whakapūmau ki ngā tūāpapa o te māramatanga tuku iho, e hono ana ki ngā puna o te whakaaro, te mōhio, me te mārama. E noho tapu ana, kāore e taea te whakarere, te wehe, te whakararuraru, te whakahaere rānei i runga i ngā tikanga o te ao tauiwi.
+
+I waihangatia tēnei mahi hei whāinga motuhake mō te hunga e mōhio ana ki tōna mana, tōna tapu, me tōna kaitiakitanga. Ka noho tonu tēnei hei huarahi e tautoko ana i te mana motuhake o te iwi taketake, i runga i te whakaaro nui me te here ki ngā mātāpono tuku iho. Ka whakamanahia te kaupapa nei e ngā kaitiaki, e ngā uri whakaheke, e te hunga e mau ana i te mauri o tēnei taonga tuku iho. Kāore e tika kia whakawhitia, kia raupatuhia, kia tangohia tōna mana.
+
+## Te Whakapapa-Rangatira
+Ko tēnei mahi e hono ana ki tōna ake whakapapa. E noho pūmau ana ki tōna ake tīmatanga, tōna ara whanaketanga, me te mana o ngā kaitiaki e tiaki ana i a ia. Kāore e taea te wawao, te whakahōputu hou, te whakahuri rānei i te tikanga e tū ai ia, e rereke ai tōna mana tuku iho.
+
+Ko te whakapapa e pupuri ana i te hononga ki te hunga nā rātou tēnei mahi i whakaū, i whakatupu, i whakapakari. Ko ngā uri whakaheke, ngā kaitiaki me te hunga e whai māramatanga ana ki tōna kaupapa, rātou anake ka taea te whakahaere, te whakatikatika, me te whakatau i tōna huarahi whakamua.
+
+## Ngā Tikanga
+
+### Te Whakamahi
+- Ka tukuna tēnei taonga hei whāinga motuhake, ā, me whakamahi i runga i te tika me te pono.
+- Me noho te whakamahinga ki ngā paerewa e taurite ana ki ngā mātāpono i whānau mai ai tēnei mahi.
+- Kāore e whakaaetia ngā whakamahinga e whakakahore ana i te mana, i te tapu, i te rangatiratanga.
+
+### Te Whakatika me te Takoha
+- Me whai whakaaro ngā whakarerekētanga ki ngā āhuatanga i takea mai ai tēnei mahi.
+- Ka whakamanahia ngā takoha e aronui ana ki ngā ariā e whakaū ana i te tapu o tēnei kaupapa.
+- Kei te hunga pupuri i te mana whakahaere te whakatau i te tika, i te hē o ngā whakarerekētanga.
+
+### Te Tukunga
+- Ka noho tonu tēnei mahi hei taonga kua herea ki tōna whakapapa.
+- Ka taea te tuku ki ngā wāhi e mārama ana, e whakapono ana ki tōna mana tuku iho.
+- Kāore e whakaaetia te whai mana motuhake, te here rānei o tēnei mahi ki tētahi atu e kore e whai wāhi ki tōna whakapapa.
+
+## Ngā Here
+Ko tēnei mahi kāore e taea te whakaputa, te whakahōputu, te whakahuri, te tango, te whakamahi i roto i ngā huarahi e wehe ai i a ia i tōna ake tūāpapa. Ko ngā mahi e kīia ana he hē, ko ngā mahi ka whakararu i te mana motuhake, ka whakawāteahia.
+
+## Te Kaitiakitanga
+Ko te hunga e mārama ana ki te mana o tēnei mahi ka noho hei kaitiaki. Ko rātou ka pupuri i te mana whakahaere, ka whakatau i ngā whakaritenga e tika ana hei tiaki, hei whakapakari, hei whakaū i tēnei kaupapa.
+
+## Ngā Panonitanga
+Ka noho tēnei raihana i raro i te maru o te hunga i whakawhiwhia ki te mana whakahaere. Mēnā e tika ana, ko rātou anake ka taea te whakahou, te whakarerekē, me te whakatūturu i ngā panonitanga.
+
+**"Ko tēnei taonga tuku iho ka noho tonu hei taonga tapu, ehara i te taonga hokohoko, ehara i te taonga rāhui. Kāore e taea te wehe mai i tōna whakapapa, ka noho tonu i raro i te maru o te kaitiakitanga."**
+
+## The Kaitiaki License
+
+### The Kaupapa-Rangatira
+This work is a **taonga tuku iho**, firmly grounded in ancestral knowledge and understanding, connected to the deep sources of thought, wisdom, and enlightenment. It remains sacred and unbroken, unable to be altered, separated, manipulated, or controlled under external frameworks.
+
+It has been created with clear intent for those who recognize its **mana, its tapu, and the responsibility of its guardianship**. This work serves as a pathway to uphold the independence and authority of indigenous knowledge, guided by ancestral wisdom and tikanga. Its integrity is safeguarded by its **kaitiaki, its descendants, and those who hold its mauri**. It is not to be transferred, appropriated, or stripped of its essence.
+
+## The Whakapapa-Rangatira
+This work remains permanently connected to its whakapapa. It stands as a continuation of the knowledge, lineage, and stewardship passed down through those who have upheld it. Its foundations, its pathway of growth, and the mana of its kaitiaki remain intact and protected.
+
+The whakapapa maintains the connection between this work and those who have cultivated, nurtured, and strengthened it. Only the kaitiaki, the descendants, and those who uphold its integrity may guide, adjust, or determine its direction.
+
+## Tikanga (Principles)
+
+### Use
+- This taonga is provided with clear intent and must be used accordingly.
+- Any use should align with the values that guided its development.
+- Any application that removes its **mana, tapu, or rangatiratanga** is not permitted.
+
+### Modification & Contributions
+- Any adjustments or additions must respect the whakapapa and intent of this work.
+- Changes should reinforce the integrity of its original purpose.
+- Those responsible for maintaining this work retain the right to review and determine the appropriateness of modifications.
+
+### Distribution
+- This work remains bound to its whakapapa.
+- It may be shared where its purpose is understood and respected.
+- No attempt should be made to claim ownership, restrict access, or separate it from its origins.
+
+## Restrictions
+This work cannot be repurposed, reformatted, altered, extracted, or used in ways that detach it from its whakapapa. Any action that weakens its standing or removes its rightful place is not permitted.
+
+## Kaitiakitanga (Stewardship)
+This work is maintained by those who uphold its integrity. They are responsible for ensuring its purpose remains intact and for protecting its place within its intended framework.
+
+## Changes
+This license remains in effect as it is unless those responsible for its guardianship determine otherwise. Any changes must come from those with the knowledge and responsibility to do so.
+
+**"This taonga tuku iho remains under kaitiakitanga, it is not a commodity, nor is it to be restricted or separated from its whakapapa."**
