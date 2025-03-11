@@ -2,6 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Python-2.0" name="Python License 2.0">
       <crossRefs>
+         <crossRef>https://opensource.org/license/Python-2.0</crossRef>
          <crossRef>https://opensource.org/licenses/Python-2.0</crossRef>
       </crossRefs>
       <notes>This is the overall Python license as published on the OSI website, which is comprised of several licenses.</notes>

@@ -2,6 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="true" licenseId="Sleepycat" name="Sleepycat License">
       <crossRefs>
+         <crossRef>https://opensource.org/license/Sleepycat</crossRef>
          <crossRef>https://opensource.org/licenses/Sleepycat</crossRef>
       </crossRefs>
     <text>
