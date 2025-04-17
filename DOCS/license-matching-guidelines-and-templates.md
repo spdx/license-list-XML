@@ -109,7 +109,7 @@ Punctuation should be matched, unless otherwise stated in these guidelines or un
 
 ### 5.3 Guideline: hyphens, dashes <a name="5.3"></a>
 
-Any hyphen, dash, en dash, em dash, or other variation should be considered equivalent.
+One or two consecutive hyphen, dash, en dash, em dash, or other variation should be considered equivalent.
 
 ### 5.4 Guideline: Quotes <a name="5.4"></a>
 
