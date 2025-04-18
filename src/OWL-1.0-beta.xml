@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://spdx.org/license">
+  <license>
+    <licenseId>OWL-1.0-beta</licenseId>
+    <name>OpenWaqf License v1.0-beta</name>
+    <licenseText>
+      <![CDATA[
+      OpenWaqf License v1.0-beta (OWL-1.0-beta)
+
+      This is a Beta Version of the OpenWaqf License.
+      We are actively collecting feedback before finalizing version 1.0.
+      To share your thoughts, please email: legal@yufeed.org or join the conversation at https://github.com/yufeed/openwaqf-license/discussions.
+
+      This license incorporates principles of the GNU GPLv3 and Islamic waqf, allowing use, modification, and redistribution under ethical conditions and perpetual public endowment. All derivatives must retain this license to be considered part of the waqf.
+
+      Key features:
+      - Public waqf status (intellectual property as a charitable endowment)
+      - Copyleft inheritance (all derivatives must remain OWL-licensed to retain waqf status)
+      - Ethical use conditions (prohibited for riba, gambling, harmful activity)
+      - Optional DAO or waqf governance for community oversight
+      - Voluntary participation in the Yufeed Waqf Fund
+
+      This license is not compatible with permissive or proprietary licenses (e.g., MIT, BSD, Apache).
+      ]]>    
+    </licenseText>
+    <standardLicenseHeader>
+      <![CDATA[
+      Licensed under the OpenWaqf License v1.0-beta
+      See LICENSE.md for details.
+      ]]>
+    </standardLicenseHeader>
+    <seeAlso>https://github.com/yufeed/openwaqf-license</seeAlso>
+    <seeAlso>https://yufeed.org/fund</seeAlso>
+    <isOsiApproved>false</isOsiApproved>
+    <isFsfLibre>false</isFsfLibre>
+  </license>
+</SPDXLicenseCollection>
