@@ -111,6 +111,21 @@
                made available under the same terms and conditions.
             </item>
          </list>
+         <optional>
+<p>In any published work or commercial product which uses the SOFA
+  software directly, acknowledgement (see www.iausofa.org) is
+  appreciated.</p>
+
+<p>  Correspondence concerning SOFA software should be addressed as
+  follows:</p>
+     <p> By email:  sofa@ukho.gov.uk
+    <br />  By post:   IAU SOFA Center
+     <br />            HM Nautical Almanac Office
+     <br />            UK Hydrographic Office
+     <br />            Admiralty Way, Taunton
+     <br />            Somerset, TA1 2DN
+      <br />           United Kingdom</p>
+         </optional>
       </text>
    </license>
 </SPDXLicenseCollection>
