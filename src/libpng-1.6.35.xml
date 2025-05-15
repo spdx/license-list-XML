@@ -10,7 +10,7 @@
       <text>
          <titleText>
             PNG Reference Library License version 1
-            (for libpng 0.5 through 1.6.35)<br></br>
+            (for libpng 0.5 through 1.6.35)<br />
             -----------------------------------------------------------------------
          </titleText>
          <p>
@@ -21,14 +21,14 @@
             following individuals added to the list of Contributing Authors:
          </p>
          <p>
-            Simon-Pierre Cadieux<br></br>
-            Eric S. Raymond<br></br>
-            Mans Rullgard<br></br>
-            Cosmin Truta<br></br>
-            Gilles Vollant<br></br>
-            James Yu<br></br>
-            Mandar Sahastrabuddhe<br></br>
-            Google Inc.<br></br>
+            Simon-Pierre Cadieux<br />
+            Eric S. Raymond<br />
+            Mans Rullgard<br />
+            Cosmin Truta<br />
+            Gilles Vollant<br />
+            James Yu<br />
+            Mandar Sahastrabuddhe<br />
+            Google Inc.<br />
             Vadim Barkov
          </p>
          <p>
@@ -55,8 +55,8 @@
             following individuals added to the list of Contributing Authors:
          </p>
          <p>
-            Tom Lane<br></br>
-            Glenn Randers-Pehrson<br></br>
+            Tom Lane<br />
+            Glenn Randers-Pehrson<br />
             Willem van Schaik
          </p>
          <p>
@@ -67,11 +67,11 @@
             individuals added to the list of Contributing Authors:
          </p>
          <p>
-            John Bowler<br></br>
-            Kevin Bracey<br></br>
-            Sam Bushell<br></br>
-            Magnus Holmgren<br></br>
-            Greg Roelofs<br></br>
+            John Bowler<br />
+            Kevin Bracey<br />
+            Sam Bushell<br />
+            Magnus Holmgren<br />
+            Greg Roelofs<br />
             Tom Tanner
          </p>
          <p>
@@ -87,10 +87,10 @@
             Authors" is defined as the following set of individuals:
          </p>
          <p>
-            Andreas Dilger<br></br>
-            Dave Martindale<br></br>
-            Guy Eric Schalnat<br></br>
-            Paul Schmidt<br></br>
+            Andreas Dilger<br />
+            Dave Martindale<br />
+            Guy Eric Schalnat<br />
+            Paul Schmidt<br />
             Tim Wegner
          </p>
          <p>
@@ -111,23 +111,19 @@
          <list>
             <item>
                <bullet>1.</bullet>
-               <p>
                   The origin of this source code must not be misrepresented.
-               </p>
             </item>
             <item>
                <bullet>2.</bullet>
-               <p>
                   Altered versions must be plainly marked as such and
                   must not be misrepresented as being the original source.
-               </p>
             </item>
             <item>
                <bullet>3.</bullet>
-               <p>
                   This Copyright notice may not be removed or altered
                   from any source or altered source distribution.
-               </p>
+            </item>
+         </list>
                <p>
                   The Contributing Authors and Group 42, Inc. specifically
                   permit, without fee, and encourage the use of this source
@@ -135,8 +131,7 @@
                   commercial products. If you use this source code in a product,
                   acknowledgment is not required but would be appreciated.
                </p>
-            </item>
-         </list>
+
       </text>
    </license>
 </SPDXLicenseCollection>
