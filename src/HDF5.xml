@@ -5,11 +5,10 @@
       <crossRefs>
          <crossRef>https://github.com/HDFGroup/hdf5/?tab=License-1-ov-file#readme</crossRef>
       </crossRefs>
-      <notes>
-      </notes>
       <text>
          <titleText>
-            Copyright Notice and License Terms for HDF5 (Hierarchical Data Format 5) Software Library and Utilities -----------------------------------------------------------------------------
+            Copyright Notice and License Terms for HDF5 (Hierarchical Data Format 5) Software Library and Utilities<br />
+            -----------------------------------------------------------------------------
          </titleText>
          <copyrightText>
             <p>
