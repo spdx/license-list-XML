@@ -2,7 +2,7 @@
 The SPDX License List is maintained by the [SPDX legal team](https://spdx.dev/engage/participate/legal-team/). This repo is used for the submission and review of licenses, as well as maintaining [documentation](DOCS) related to the SPDX License List. Suggestions with a larger scope, cross-functional issues, and questions should be directed to the [SPDX-legal mailing list](https://lists.spdx.org/g/Spdx-legal). 
 
 ## Submitting a license for consideration
-To submit a license for consideration for the SPDX License List, follow the process for [requesting a new license](request-new-license.md). Please be sure to review the relevant documentation prior to your submission, notably, the [license inclusion principles](DOCS/license-inclusion-principles.md). Each license submission requires review and incomplete or inappropriate submissions only take away the precious time of a small number of volunteers from other tasks.
+To submit a license for consideration for the SPDX License List, follow the process for [requesting a new license](DOCS/request-new-license.md). Please be sure to review the relevant documentation prior to your submission, notably, the [license inclusion principles](DOCS/license-inclusion-principles.md). Each license submission requires review and incomplete or inappropriate submissions only take away the precious time of a small number of volunteers from other tasks.
 
 ## Minor updates
 Minor changes such as markup and typo fixes may be submitted directly to this repository (either as issues or pull-requests) without previous discussion. 

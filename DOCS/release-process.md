@@ -26,6 +26,7 @@ Requesters may be uncertain as to whether they should use a newly-added license 
 
 ### Draft release notes
 
+* Update with new version and release date at the top of [RELEASE-HISTORY.md](../RELEASE-HISTORY.md)
 * Add a new release text section to the top of [RELEASE-NOTES.md](../RELEASE-NOTES.md)
 * Mimic the same pattern as the prior release notes, listing each license or exception added in this release, together with brief notes about any other significant changes in this release
 * Create compare link by changing tag numbers in previous release
@@ -77,7 +78,7 @@ This also assumes that you have used the AWS S3 scripts to make a local copy of 
 * Copy (NON-RECURSIVELY) the files from `S3DIR/licenses` to `S3DIR/licenses/archive/archived_ll_vx.xx`.
   * IMPORTANT NOTE: Do NOT do a recursive copy, only copy the files and do NOT copy any subdirectories.
 * Edit the file `S3DIR/licenses/archive/archived_ll_vx.xx/index.html`. Add the line below, immediately prior to the line `<h1>SPDX License List</h1>`:
-  * `<p style="color: #FA0207;"><strong>THIS IS NOT THE CURRENT VERSION OF THE SPDX LICENSE LIST. PLEASE USE THE CURRENT VERSION, LOCATED AT: <a href="https://spdx.org/licenses/">https://spdx.org/licenses/</a></p>`
+  * `<p style="color: #FA0207;"><strong>THIS IS NOT THE CURRENT VERSION OF THE SPDX LICENSE LIST. PLEASE USE THE CURRENT VERSION, LOCATED AT: <a href="https://spdx.org/licenses/">https://spdx.org/licenses/</a></strong></p>`
 
 ### Copy new files
 

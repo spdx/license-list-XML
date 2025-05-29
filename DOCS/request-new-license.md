@@ -11,7 +11,7 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
    * NOTE: You must have a Github account in order to use this tool/process.
    * NOTE: You need to provide *all* of the information as per the form or issue template. Incomplete submissions waste time and may be closed.
 
-3. Follow your issue and particpate in the discussion or answer any request for additional information via the issue and comments.
+3. Follow your issue and participate in the discussion or answer any request for additional information via the issue and comments.
     * NOTE: If submitters are unresponsive for several months, the issue may be closed without a decision.
 
 # Review Process
