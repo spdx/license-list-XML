@@ -1,4 +1,4 @@
-# Explanation of SPDX License List Fields
+#Explanation of SPDX License List Fields
 The following information describes how each field on the license and exception list is treated. Criteria listed below applies to both licenses and exceptions, unless otherwise noted or obviously not applicable. Where a field maps to an XML tag, that is noted.
 
 ## A) Full Name
