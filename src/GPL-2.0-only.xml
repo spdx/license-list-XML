@@ -62,7 +62,7 @@
       License applies to most of the Free Software Foundation's software
       and to any other program whose authors commit to using it. (Some other
       Free Software Foundation software is covered by the GNU
-      <alt match="Lesser|Library" name="lesserOrLibrary">Lesser</a> General
+      <alt match="Lesser|Library" name="lesserOrLibrary">Lesser</alt> General
       Public License instead.) You can apply it to your programs, too.
     </p>
     <p>
@@ -471,7 +471,7 @@
         proprietary programs.  If your program is a subroutine library, you may
         consider it more useful to permit linking proprietary applications with the
         library.  If this is what you want to do, use the GNU
-        <alt match="Lesser|Library" name="lesserOrLibrary">Lesser</a> General Public License
+        <alt match="Lesser|Library" name="lesserOrLibrary">Lesser</alt> General Public License
         instead of this License.
       </p>
     </optional>
