@@ -1,5 +1,45 @@
 # Release Notes for SPDX License List
 
+## version 3.27.0 - 2025-07-01
+
+New licenses/exceptions added: 21
+
+1. Artistic-dist
+2. Aspell-RU
+3. BSD-2-Clause-pkgconf-disclaimer
+4. CryptoSwift
+5. Digia-Qt-LGPL-exception-1.1
+6. DocBook-DTD
+7. FSFULLRSD
+8. FSL-1.1-ALv2
+9. FSL-1.1-MIT
+10. Game-Programming-Gems
+11. HDF5
+12. libpng-1.6.35
+13. jove
+14. man2html
+15. ngrep
+16. NTIA-PD
+17. polyparse-exception
+18. SOFA
+19. SUL-1.0
+20. Unlicense-libtelnet
+21. Unlicense-libwhirlpool
+
+Added and improved markup for several licenses.
+
+Updated to latest version of the License List Publisher.
+
+Fixed expected warnings identified following update to publisher.
+
+Updated XML schema to disallow lists in paragraphs, and fixed existing markup invalidated by schema change.
+
+Updated license matching guidelines regarding number of consecutive hyphen-like characters.
+
+See all PRs for 3.27.0 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.27.0%22+is%3Aclosed
+
+See comparison of changes from 3.26.0 to 3.27.0: https://github.com/spdx/license-list-XML/compare/v3.26.0...v3.27.0
+
 ## version 3.26.0 - 2024-12-30
 
 New licenses/exceptions added: 19
