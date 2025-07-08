@@ -66,7 +66,7 @@ resources:
 	mkdir -p $@
 
 .PHONY: clean
-clean:
+clean:author
 	rm -rf $(LICENSE_OUTPUT_DIR)
 
 .PHONY: full-clean
