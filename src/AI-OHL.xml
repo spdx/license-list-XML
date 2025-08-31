@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicense xmlns="http://spdx.org/license">
+  <licenseId>AI-OHL</licenseId>
+  <name>AI Open Home License</name>
+
+  <notes>
+    Proprietary, non-commercial license for individual and home-schooling use.
+    Source code is not provided; redistribution/modification are restricted.
+    Contact licensing@ideal-group.org for institutional or commercial permissions.
+  </notes>
+
+  <text><![CDATA[
+AI Open Home License (AI-OHL)
+For Encrypted HTML Software
+
+License Grant
+This AI Open Home License (AI-OHL) permits the use and sharing of equAIzr®, distributed as an encrypted HTML file, subject to the conditions outlined below.
+
+1. Permitted Uses
+
+Personal Use:
+Individuals may download, install, and use the Software for their own personal, non-commercial purposes in accordance with the AI-OHL.
+
+Home Schooling Use (Non-Commercial):
+Individuals may use the Software exclusively for non-commercial home-schooling activities. This includes personal home instruction, use within the individual’s own household, or with others engaged in non-commercial home schooling, as outlined in the AI-OHL.
+
+Sharing for Permitted Uses:
+Individuals are permitted to share the original, encrypted HTML file of the Software with others, provided the recipient also uses the Software solely for personal or non-commercial home-schooling purposes, as defined in this AI-OHL.
+
+2. Prohibited Uses
+
+Institutional or Organizational Use:
+The AI-OHL does not permit use of the Software by or within any formal institution, such as public or private schools (excluding home schooling), companies, nonprofits, or government agencies, without a separate license from the copyright holder.
+
+Commercial Use:
+Any use of the Software for commercial purposes—including sale, paid services, or as part of a product or service offering—is not permitted under the AI-OHL. Such use requires a separate commercial agreement.
+
+Source Code and Modification:
+The Software’s source code is not included under the AI-OHL. Modification, reverse engineering, decryption, or creation of derivative works is not permitted without explicit written permission.
+
+Redistribution Beyond Allowed Sharing:
+The AI-OHL allows sharing only for personal or non-commercial home-schooling use. Redistribution through publication, online posting, mass distribution, or inclusion in other software is not permitted without explicit written permission.
+
+3. Disclaimer
+
+The Software is provided “as is,” without warranty of any kind. The copyright holder is not liable for any damages or losses arising from the use of this work under the AI-OHL.
+
+4. Contact
+
+For questions or to request permission for institutional, organizational, or commercial use outside the scope of the AI-OHL, contact:
+
+IDEAL Group Licensing: licensing@ideal-group.org
+
+By using or sharing the Software, you agree to the terms of the AI Open Home License (AI-OHL).
+  ]]></text>
+
+  <standardLicenseHeader><![CDATA[
+Licensed under the AI Open Home License (AI-OHL).
+Non-commercial personal and home-schooling use only.
+For institutional or commercial permissions, contact licensing@ideal-group.org
+  ]]></standardLicenseHeader>
+
+  <isOsiApproved>false</isOsiApproved>
+  <isFsfLibre>false</isFsfLibre>
+</SPDXLicense>
