@@ -20,7 +20,9 @@
          "<alt match="Software|Materials" name="Software1">Software</alt>"),
          to deal in the
          <alt match="Software|Materials" name="Software2">Software</alt>
-         without restriction, including without limitation the rights to use, copy, modify,
+         without restriction, including without limitation
+         <optional>on</optional>
+         the rights to use, copy, modify,
          merge, publish, distribute, sublicense, and/or sell copies of the
          <alt match="Software|Materials" name="Software3">Software</alt>,
          and to permit persons to whom the
