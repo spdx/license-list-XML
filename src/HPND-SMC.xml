@@ -5,7 +5,7 @@
       <crossRefs>
          <crossRef>https://docs.python.org/3/license.html#execution-tracing</crossRef>
       </crossRefs>
-      <note>This license is very similar to the original HPND template but adds "Python" 
+      <notes>This license is very similar to the original HPND template but adds "Python" 
          in front of software and has slightly different wording in the advertising part, 
          which are not part of the existing HPND template variables.
       </notes>
