@@ -9,8 +9,8 @@
          <optional>
             LICENSE AND DISCLAIMER OF WARRANTIES
          </optional>
-         <TitleText>Standard Generalized Markup Language Users'
-         Group (SGMLUG) SGML Parser Materials</TitleText>
+         <titleText>Standard Generalized Markup Language Users'
+         Group (SGMLUG) SGML Parser Materials</titleText>
          <list>
             <item>
                <bullet>1.</bullet>
@@ -84,3 +84,4 @@
       </text>
    </license>
 </SPDXLicenseCollection>
+
