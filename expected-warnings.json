@@ -18,5 +18,7 @@
 			["OFL-1.1", "OFL-1.1-RFN", "OFL-1.1-no-RFN"],
 			["SMLNJ", "StandardML-NJ"]
 		],
-	"otherWarnings": []
+	"otherWarnings": [
+			"Timeout getting URL value.  URL values will not be filled in for license ID LOOP"
+	]
 }
