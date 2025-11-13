@@ -152,6 +152,8 @@ If a license template should match regardless of whether or not a particular sec
 
 By default, when rendered on the [SPDX License List website](https://spdx.org/licenses), a space will be included before and after the optional text. If the tag includes a `spacing="none"` attribute, e.g. **`<optional spacing="none">`**, then these spaces will be omitted. This is useful if, for instance, the optional text is a suffix to a word or a quotation mark where the optional portion should not be separated by a space.
 
+The `<alt>` can be used within the `<optional>` tag for replaceable text within a larger amount of text that may or may not be present. 
+
 NOTE: The `<optional>` tag **cannot** be used within: `<titleText>`, `<bullet>`, `<copyrightText>`, or `<alt>`. This is because the text within these tags are deemed to be "replaceable text" automatically, so the `<optional>` tag is not allowed where those are present.
 
 ### Replaceable text: `<alt>`
