@@ -14,13 +14,14 @@
          </copyrightText>
          <p>
             International Organization for Standardization 1986 Permission to
-            copy in any form is granted for use with conforming <alt name="name"
-            match="SGML systems|to MHEG-3 engines">SGML systems</alt>
-            and applications as defined <alt name="defined" match="in
-            ISO 8879,|by this Recommendation">in ISO 8879,</alt>
+            copy in any form is granted for use with conforming 
+            <alt name="name" match="SGML systems|to MHEG-3 engines">SGML systems</alt>
+            and applications as defined 
+            <alt name="defined" match="in ISO 8879,|by this Recommendation">in ISO 8879,</alt>
             provided this notice is included in all copies.
          </p>
       </text>
    </license>
 </SPDXLicenseCollection>
+
 
