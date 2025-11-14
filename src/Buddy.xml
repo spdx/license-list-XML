@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="dalse" licenseId="Buddy" name="Buddy License" listVersionAdded="3.28.0">
+   <license isOsiApproved="false" licenseId="Buddy" name="Buddy License" listVersionAdded="3.28.0">
       <crossRefs>
          <crossRef>https://sourceforge.net/p/buddy/gitcode/ci/master/tree/README</crossRef>
       </crossRefs>
+      <notes>This license is similar to MIT-Modern-Variant</notes>
    <text>
       <copyrightText>
          <p>
