@@ -1,0 +1,13 @@
+This software is licensed under the AI Open Home License (AI-OHL).
+
+Permissions:
+- Personal non-commercial use
+- Non-commercial home-schooling use
+- Sharing of the original encrypted HTML file (within permitted uses)
+
+Limitations:
+- No institutional or organizational use
+- No commercial use
+- No modification, reverse engineering, or redistribution beyond allowed sharing
+
+For institutional or commercial use, contact licensing@ideal-group.org
