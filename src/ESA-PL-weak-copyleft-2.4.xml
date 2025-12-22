@@ -137,13 +137,16 @@
                   subject to the terms and conditions of this License, to:
                </p>
                <p>
-                  use the Software; reproduce the Software by any or all
-                  means and in any or all form; Modify the Software and create
-                  works based on the Software; communicate to the public,
-                  including making available, display or perform the Software
-                  or copies thereof to the public; Distribute, sublicense,
-                  lend and rent the Software. The license grant is perpetual
-                  and irrevocable, unless terminated pursuant to Sec. 8.
+                  - use the Software;
+                  - reproduce the Software by any or all
+                  means and in any or all form;
+                  - Modify the Software and create works based on the Software;
+                  - communicate to the public, including making available,
+                  display or perform the Software or copies thereof to the
+                  public;
+                  - Distribute, sublicense, lend and rent the Software. The
+                  license grant is perpetual and irrevocable, unless terminated
+                  pursuant to Sec. 8.
                </p>
             </item>
             <item>
@@ -634,12 +637,10 @@
                   Czech Republic, Denmark, Estonia, Finland, France,
                   Germany, Greece, Hungary, Ireland, Italy, Luxembourg,
                   The Netherlands, Norway, Poland, Portugal, Romania,
-                  Spain, Sweden, Switzerland and the United Kingdom.
+                  Slovenia, Spain, Sweden, Switzerland and the United Kingdom.
                </p>
             </item>
          </list>
       </text>
    </license>
 </SPDXLicenseCollection>
-
-
