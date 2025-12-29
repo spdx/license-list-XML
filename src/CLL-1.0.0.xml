@@ -148,7 +148,7 @@ Copyright YEAR ORGANIZATION and the Founder(s) FOUNDERS</standardLicenseHeader>
 							</list>
 						</item>
 						<item>
-							<bullet>i.</bullet>
+							<bullet>ii.</bullet>
 							<p>Responsibilities of the Contributor</p>
 							<p>This section goes over all responsibilities Contributors must follow when working with this Product's Code Base.</p>
 							<list>
@@ -265,7 +265,7 @@ Copyright YEAR ORGANIZATION and the Founder(s) FOUNDERS</standardLicenseHeader>
 				</item>
                 <item>
                     <bullet>5.</bullet>
-                    <p>5. End User's Clause</p>
+                    <p>End User's Clause</p>
                     <p>This section will go over the rights of the End User, i.e. the Consumer who has this Product installed from another Project that uses the Product.</p>
                     <list>
                         <item>
@@ -285,4 +285,5 @@ Copyright YEAR ORGANIZATION and the Founder(s) FOUNDERS</standardLicenseHeader>
 			</list>
 		</text>
 	</license>
+
 </SPDXLicenseCollection>
