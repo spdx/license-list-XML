@@ -1,0 +1,288 @@
+<SPDXLicenseCollection
+	xmlns="http://www.spdx.org/license">
+	<license isOsiApproved="false" licenseId="CLL-1.0.0" listVersionAdded="" name="Cecil Libraries License (1.0.0)">
+		<crossRefs>
+			<crossRef>https://www.nuget.org/packages/Cecil.ANSI_Utils/1.0.1/License</crossRef>
+			<crossRef>https://github.com/Cecil-Libraries/Cecil-ANSI-Utils#</crossRef>
+			<crossRef>https://github.com/Cecil-Libraries/Cecil-ANSI-Utils/wiki/Licensing-and-Attribution</crossRef>
+		</crossRefs>
+		<standardLicenseHeader>Cecil Libraries License (1.0.0)
+Copyright YEAR ORGANIZATION and the Founder(s) FOUNDERS</standardLicenseHeader>
+		<notes />
+		<text>
+			<p>In the case where it so falls that a Sub-License and this License conflicts, this License dictates. </p>
+			<p>Also, any Licenses applied to this Product outside of this License are deemed as Sub-Licenses unless otherwise stated.</p>
+			<list>
+				<item>
+					<bullet>1.</bullet>
+					<p>Key Terms</p>
+					<p>This section likely self-explanatory goes over any Key Terms that may be unfamiliar to those looking at this License and seeing if their Project breaks it.</p>
+					<list>
+						<item>
+							<bullet>i.</bullet>
+							<p>Founder</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>The person who Originally made this Product. OR under the condition the Product does not come soley from them Definition 2 applies.</p>
+									<bullet>b.</bullet>
+									<p>The group behind a given Product.</p>
+								</item>
+							</list>
+							<bullet>ii.</bullet>
+							<p>Organization</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>The GitHub Team that houses all the Products that this License affects.</p>
+								</item>
+							</list>
+							<bullet>iii.</bullet>
+							<p>Contributors</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>Anyone who has contributed to the Product in any way shape and or form.</p>
+								</item>
+							</list>
+							<bullet>iv.</bullet>
+							<p>Developer</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>The person in which is using this Product for purposes of developing their own projects.</p>
+								</item>
+							</list>
+							<bullet>v.</bullet>
+							<p>Mod-Maker</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>A Developer who is using this Product for purposes of making mods.</p>
+								</item>
+							</list>
+							<bullet>vi.</bullet>
+							<p>Game Developer</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>A Developer who is using this Product for purposes of developing their own games.</p>
+								</item>
+							</list>
+							<bullet>vii.</bullet>
+							<p>End-User</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>Anyone who is using this Product as bi-product of it being shipped with a Developers Project.</p>
+								</item>
+							</list>
+							<bullet>viii.</bullet>
+							<p>Product</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>The project in which this license was applied to.</p>
+								</item>
+							</list>
+							<bullet>ix.</bullet>
+							<p>Project</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>A developers work, be it from Cecil Libraries themselves, The Founder or A Developers.</p>
+								</item>
+							</list>
+						</item>
+					</list>
+				</item>
+				<item>
+					<bullet>2.</bullet>
+					<p>Founder Clause</p>
+					<p>This clause goes over all right's in which the Founder has over the Product this License affects.</p>
+					<list>
+						<item>
+							<bullet>i.</bullet>
+							<p>The Founder reserves the rights to what can or can not be done with their teams Product.</p>
+						</item>
+						<item>
+							<bullet>ii.</bullet>
+							<p>If the Founder deems necessary to request a Developer's Project, to stop using this Product, or alternatively to alter its usage within The Developer's Project, The Founder has the right to request irregardless, however The Founder may only seek to enforce the usage, if the Developer's Project breaks this License or any of this Product's Sub-Licenses from the Founder or the Contributors.</p>
+						</item>
+						<item>
+							<bullet>iii.</bullet>
+							<p>The Founder has the right to restrict any usage of this Product's associated IP's, for example, any Mascots, Assets, Fonts, Screenshots, or Example Code included in the Product or on the Organization's page for the Product.</p>
+						</item>
+					</list>
+				</item>
+				<item>
+					<bullet>3.</bullet>
+					<p>Contributor's Clause</p>
+					<p>This will both go over any right's Contributors have over their code included in the Product, and any requirements for their contribution's to this Product.</p>
+					<list>
+						<item>
+							<bullet>i.</bullet>
+							<p>Right's of the Contributor</p>
+							<p>This sections goes over all right's in which the Contributor has over the usage of their Code within the Product this License affects.</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>The Contributor may put their own License on this Product, under the condition it does NOT violate any rights given by this License over the Product's usage.</p>
+								</item>
+								<item>
+									<bullet>b.</bullet>
+									<p>On the case that a Developer breaks your License, it must be sent into headway to the Founder of this Product.</p>
+								</item>
+								<item>
+									<bullet>c.</bullet>
+									<p>A Contributor's License will only apply to parts of the Codebase in which The contributor is attributed to in the Code Comments.</p>
+								</item>
+								<item>
+									<bullet>d.</bullet>
+									<p>If A Contributor breaks the License of another Contributor, the Contributor that broke it must adhere to whatever policy the Contributor that made it has.</p>
+								</item>
+								<item>
+									<bullet>e.</bullet>
+									<p>All Sub Licenses to the Product must be reviewed both by the Organization and by the Founder, before inclusion, this is done to prevent any too heinous of Licenses from inclusion.</p>
+								</item>
+							</list>
+						</item>
+						<item>
+							<bullet>i.</bullet>
+							<p>Responsibilities of the Contributor</p>
+							<p>This section goes over all responsibilities Contributors must follow when working with this Product's Code Base.</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>The Product's Source Code must remain Open-Source as long as this License stands on this Product.</p>
+								</item>
+								<item>
+									<bullet>b.</bullet>
+									<p>The Product's Source Code and the Code the Contributor added into the Source Code must have full explanation in the form of XML comments, these comments must Include all the following when applicable; Summary, Param Name descriptions, Returns, and a Remarks containing credits that lead back to The Contributor and how The Founder, another Contributor, or a Developer, may contact zed Contributor if need be in the future.</p>
+								</item>
+								<item>
+									<bullet>c.</bullet>
+									<p>Any Code that The Contributor deems to be Obsolete must be marked with `[Obsolete]` in the code base and may not be deleted.</p>
+								</item>
+								<item>
+									<bullet>d.</bullet>
+									<p>The Contributor's Code must NOT break any functionality of another function, class or project.</p>
+								</item>
+								<item>
+									<bullet>e.</bullet>
+									<p>Any Commits you make must have a full and complete bullet pointed list of changes made in the Commit.</p>
+								</item>
+							</list>
+						</item>
+					</list>
+				</item>
+				<item>
+					<bullet>4.</bullet>
+					<p>Developer's Clauses</p>
+					<p>This section will go over 3 clauses related to Developers along with a generalized set of rights among all Developers.</p>
+					<list>
+						<item>
+							<bullet>i.</bullet>
+							<p>Mod Makers Clause</p>
+							<p>This section will go over usage of this Product by Mod Makers.</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>If this Product needs to be placed onto a modding site, rather than including it with The Developers Project stand alone and or uploading it as a separate Project, contact the Founder or the Organization to have the Product placed onto the given site.</p>
+								</item>
+								<item>
+									<bullet>b.</bullet>
+									<p>If the Developer must have the Product shipped with their Project, the Project must list any and all licenses placed upon the Product in some way, shape or form, and on the site hosting the Developers Project, it must state that this Product is shipped with it.</p>
+								</item>
+								<item>
+									<bullet>c.</bullet>
+									<p>If the Founder or Organization deems it necessary, they may get the Developers Project taken down, with allowance for it to go back up under the following condition; The Project uses this Product from a package uploaded to zed site by the Organization or Founder.</p>
+								</item>
+							</list>
+						</item>
+						<item>
+							<bullet>ii.</bullet>
+							<p>Game Developer's Clause</p>
+							<p>This section will go over usage of this Product by Game Developers.</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>This Product may be shipped with the Developers Project, as long as there is a link back to any and all licenses placed upon the Product in some way, shape, and or form.</p>
+								</item>
+								<item>
+									<bullet>b.</bullet>
+									<p>If this Product needs to be placed onto an asset store or similar, contact the Founder or the Organization to have the Product placed onto the given site.</p>
+								</item>
+							</list>
+						</item>
+						<item>
+							<bullet>iii.</bullet>
+							<p>Software Developer's Clause</p>
+							<p>This section will go over usage of this product by Software Developers.</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>This product may be shipped with the Developer's Project, as long as there is a link back to any and all licenses placed upon the Product in some way, shape, and or form.</p>
+								</item>
+								<item>
+									<bullet>b.</bullet>
+									<p>If this Product needs to be placed onto any site in which the Project from the Developer needs it, contact the Founder or the Organization to have the Product placed onto the given site.</p>
+								</item>
+								<item>
+									<bullet>c.</bullet>
+									<p>The Developer may ask for certain functionality be added to the Product to the Founder or Organization, however there is no guarantee it will happen, quick, or soon, in the case it doesn't get added, you may add it yourself to the Product via contribution, or you may make an Extension Product that extends upon this Product, this License must be shipped with it.</p>
+								</item>
+							</list>
+						</item>
+						<item>
+							<bullet>iv.</bullet>
+							<p>Developer's Clause</p>
+							<p>This section will go over usage of this product by all Developers, this clause also applies to the aforementioned Developer's as well.</p>
+							<list>
+								<item>
+									<bullet>a.</bullet>
+									<p>The Developer must utilize this Product as it was intended, do not utilize it for the purpose of exploiting what it does for unfair gain.</p>
+								</item>
+								<item>
+									<bullet>b.</bullet>
+									<p>The Developer must not decompile this Product in any way, shape, or form, it is open source for a reason, look at the direct source code if needed to see what the Product is doing.</p>
+								</item>
+								<item>
+									<bullet>c.</bullet>
+									<p>Try and stray away from reuploading this Product to another site, if it is needed as stated a couple of times now, contact the Founder or Organization for it to be listed.</p>
+								</item>
+								<item>
+									<bullet>d.</bullet>
+									<p>The Developer may request for functionality to be added, if deemed necessary contact the Founder of the Product for the functionality, but first check if the Organization behind it has another Product that adds the Functionality sought.</p>
+								</item>
+								<item>
+									<bullet>e.</bullet>
+									<p>Any Developer may contribute to this Product, however they must follow the Contributors Clause as well.</p>
+								</item>
+							</list>
+						</item>
+					</list>
+				</item>
+                <item>
+                    <bullet>5.</bullet>
+                    <p>5. End User's Clause</p>
+                    <p>This section will go over the rights of the End User, i.e. the Consumer who has this Product installed from another Project that uses the Product.</p>
+                    <list>
+                        <item>
+                            <bullet>i.</bullet>
+                            <p>If the End User finds Exploits, Bugs, or any of the likes, contact the Founder directly so it can be resolved immediately.</p>
+                        </item>
+                        <item>
+                            <bullet>ii.</bullet>
+                            <p>The user may not alter this Product for purposes of altering a Developer's Project and how it works.</p>
+                        </item>
+                        <item>
+                            <bullet>iii.</bullet>
+                            <p>If deemed necessary the Organization or Founder may add more restriction's to this Section.</p>
+                        </item>
+                    </list>
+                </item>
+			</list>
+		</text>
+	</license>
+</SPDXLicenseCollection>
