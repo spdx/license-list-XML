@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+    <license isOsiApproved="false" licenseId="134MFL"
+	name="Misty Foundation License 13.4" listVersionAdded="2.2">
+    <text>
+      <titleText>
+<p>Misty Foundation License 13.4</p>
+      </titleText>
+      <copyrightText>
+         <p>COPYRIGHT (c) YEAR YOUR NAME</p>
+      </copyrightText>
+
+      <p>The Software (the source code, binary form and documentation) is open-sourced, licensed, publicly available and free under the following terms:
+
+Redistributions of the Software must be open-sourced under this license
+
+Redistributions of the Software must not advertise the redistribution with the name of the  creator of the Software or the name(s) of MistyPigeon/MistTechY unless you have written permission
+
+Redistributions of the Software must mention their changes to the Software
+
+The Software (and its redistributions) must have all of this text, its terms, conditions AND THE FOLLOWING:
+</p>
+      <p>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+</p>
+    </text>
+  </license>
+</SPDXLicenseCollection>
