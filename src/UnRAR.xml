@@ -8,9 +8,13 @@
       <text>
          <titleText>
             ****** ***** ****** UnRAR - free utility for RAR archives
+            <br/>
             ** ** ** ** ** ** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            <br/>
             ****** ******* ****** License for use and distribution of
+            <br/>
             ** ** ** ** ** ** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ **
+            <br/>
             ** ** ** ** ** FREE portable version ~~~~~~~~~~~~~~~~~~~~~
          </titleText>
          <p>
@@ -68,3 +72,4 @@
       </text>
    </license>
 </SPDXLicenseCollection>
+
