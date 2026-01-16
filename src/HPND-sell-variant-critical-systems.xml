@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
 <license isOsiApproved="false" licenseId="HPND-sell-variant-critical-systems"
-      name="HPND - sell variant with safety critical systems clause" listVersionAdded="3.28">
+      name="HPND - sell variant with safety critical systems clause" listVersionAdded="3.28.0">
    <crossRefs>
       <crossRef>https://gitlab.freedesktop.org/xorg/driver/xf86-video-voodoo/-/blob/68a5b6d98ae34749cca889f4373b4043d00bfe6a/src/voodoo_dga.c#L12-33</crossRef>
    </crossRefs>
