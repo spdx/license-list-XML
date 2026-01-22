@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="ParaType-Free-Font-1.3"
-   name="ParaType Free Font Licensing Agreement v1.3" listVersionAdded="">
+   name="ParaType Free Font Licensing Agreement v1.3" listVersionAdded="3.28.0">
       <crossRefs>
          <crossRef>https://web.archive.org/web/20161209023955/http://www.paratype.ru/public/pt_openlicense_eng.asp</crossRef>
          <crossRef>https://metadata.ftp-master.debian.org/changelogs//main/f/fonts-paratype/fonts-paratype_20181108-4_copyright</crossRef>
@@ -13,10 +13,10 @@
          <copyrightText>
             Copyright (c) 2009, ParaType Ltd. All Rights Reserved.
          </copyrightText>
-         <p>
+         <optional><p>
             LICENSING AGREEMENT for the fonts with Original Name: PT
             Sans, PT Serif, PT Mono Version 1.3 - January 20, 2012
-         </p>
+         </p></optional>
          <p>
             GRANT OF LICENSE ParaType Ltd grants you the right to use,
             copy, modify the fonts and distribute modified and unmodified
@@ -74,3 +74,4 @@
       </text>
    </license>
 </SPDXLicenseCollection>
+
