@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="false" licenseId="CAPEC-ToU" name="Common Attack
+   <license isOsiApproved="false" licenseId="CAPEC-tou" name="Common Attack
    Pattern Enumeration and Classification License" listVersionAdded="3.28.0">
       <crossRefs>
          <crossRef>https://capec.mitre.org/about/termsofuse.html</crossRef>
@@ -29,3 +29,4 @@
       </text>
    </license>
 </SPDXLicenseCollection>
+
