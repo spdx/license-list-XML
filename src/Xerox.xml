@@ -9,7 +9,7 @@
          <p>Copyright (c) 1995, 1996 Xerox Corporation. All Rights Reserved.</p>
       </copyrightText>
 
-      <p>Use and copying of this software and preparation of derivative works based upon this software are
+      <p><alt match="(Use and copying of this software|Use, reproduction,)" name="useAndCopying">Use and copying of this software</alt> and preparation of derivative works <optional>based upon this software</optional> are
          permitted. Any copy of this software or of any derivative work must include the above copyright notice
          of Xerox Corporation, this paragraph and the one after it. Any distribution of this software or
          derivative works must comply with all applicable United States export control laws.</p>
