@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+<license isOsiApproved="false" licenseId="BOLA-1.1"
+	name="Buena Onda License Agreement v1.1" listVersionAdded="3.28.0">
+	<crossRefs>
+		<crossRef>https://blitiri.com.ar/p/bola/</crossRef>
+	</crossRefs>
+	<text>
+		<optional><p>
+			I don't like licenses, because I don't like having to worry about all this
+			legal stuff just for a simple piece of software I don't really mind anyone
+			using. But I also believe that it's important that people share and give back;
+			so I'm placing this work under the following license.
+		</p></optional>
+
+		<titleText>
+			<p>BOLA - Buena Onda License Agreement (v1.1)<br />
+			------------------------------------------</p>
+		</titleText>
+
+		<p>This work is provided 'as-is', without any express or implied warranty. In no
+		event will the authors be held liable for any damages arising from the use of
+		this work.</p>
+
+		<p>To all effects and purposes, this work is to be considered Public Domain.</p>
+
+		<p>However, if you want to be "buena onda", you should:</p>
+
+		<list>
+			<item><bullet>1.</bullet>Not take credit for it, and give proper recognition to the authors.</item>
+			<item><bullet>2.</bullet>Share your modifications, so everybody benefits from them.</item>
+			<item><bullet>3.</bullet>Do something nice for the authors.</item>
+			<item><bullet>4.</bullet>Help someone who needs it: sign up for some volunteer work or help your
+				neighbour paint the house.</item>
+			<item><bullet>5.</bullet>Don't waste. Anything, but specially energy that comes from natural
+				non-renewable resources. Extra points if you discover or invent something
+				to replace them.</item>
+			<item><bullet>6.</bullet>Be tolerant. Everything that's good in nature comes from cooperation.</item>
+		</list>
+	</text>
+</license>
+</SPDXLicenseCollection>
