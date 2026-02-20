@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <exception licenseId="sqlitestudio-OpenSSL-exception"
-   name="sqlitestudio OpenSSL exception" listVersionAdded="3.28">
+   name="sqlitestudio OpenSSL exception" listVersionAdded="3.28.0">
       <crossRefs>
          <crossRef>https://github.com/pawelsalawa/sqlitestudio/blob/master/LICENSE</crossRef>
       </crossRefs>
