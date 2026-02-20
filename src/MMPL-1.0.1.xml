@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
 <license isOsiApproved="false" licenseId="MMPL-1.0.1"
-	name="Minecraft Mod Public License v1.0.1" listVersionAdded="3.28">
+	name="Minecraft Mod Public License v1.0.1" listVersionAdded="3.28.0">
 	<crossRefs>
 		<crossRef>https://github.com/BuildCraft/BuildCraft/blob/623d323b1868712f29f4a8b0979a02e8d1835131/LICENSE</crossRef>
 		<crossRef>https://mod-buildcraft.com/MMPL-1.0.txt</crossRef>
