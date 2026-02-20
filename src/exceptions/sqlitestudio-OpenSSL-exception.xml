@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+   <exception licenseId="sqlitestudio-OpenSSL-exception"
+   name="sqlitestudio OpenSSL exception" listVersionAdded="3.28.0">
+      <crossRefs>
+         <crossRef>https://github.com/pawelsalawa/sqlitestudio/blob/master/LICENSE</crossRef>
+      </crossRefs>
+      <notes>This exception is shorter variant of cryptsetup-OpenSSL-exception.</notes>
+      <text>
+         <p>
+            <alt name="addition" match="In addition, as|As">In addition, as</alt> a special exception, the copyright
+            holders give permission to link the code of portions
+            of this program with the <alt name="library" match="OpenSSL\s+library|Objective\s+Caml\s+runtime">OpenSSL library</alt>.
+         </p>
+         <p>
+            You must <alt name="obey" match="obey|comply with">obey</alt>
+            the GNU General Public License in all respects
+            for all of the code used other than
+            <alt name="subject" match="OpenSSL|as permitted herein|Objective Caml">OpenSSL</alt>.
+            If you modify
+            file(s) with this exception, you may extend this exception to
+            your version of the file(s), but you are not obligated to do
+            so. If you do not wish to do so, delete this exception statement
+            from your version. If you delete this exception statement from
+            all source files in the program, then also delete it
+            <alt name="where" match="here|in the license file">here</alt>.
+         </p>
+      </text>
+   </exception>
+</SPDXLicenseCollection>
