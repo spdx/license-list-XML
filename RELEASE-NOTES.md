@@ -1,5 +1,55 @@
 # Release Notes for SPDX License List
 
+## version 3.28.0 - 2026-02-20
+
+New licenses/exceptions added: 33
+
+1. Advanced-Cryptics-Dictionary
+2. ALGLIB-Documentation
+3. BOLA-1.1
+4. BSD-3-Clause-Tso
+5. BSD-Mark-Modifications
+6. Buddy
+7. CAPEC-tou
+8. Classpath-exception-2.0-short
+9. ESA-PL-permissive-2.4
+10. ESA-PL-strong-copyleft-2.4
+11. ESA-PL-weak-copyleft-2.4
+12. HPND-sell-variant-critical-systems
+13. HPND-SMC
+14. hyphen-bulgarian
+15. ISO-permission
+16. kvirc-openssl-exception
+17. MIT-STK
+18. MMPL-1.0.1
+19. NIST-PD-TNT
+20. OpenMDW-1.0
+21. OSC-1.0
+22. OSSP
+23. ParaType-Free-Font-1.3
+24. rsync-linking-exception
+25. SGMLUG-PM
+26. Simple-Library-Usage-exception
+27. sqlitestudio-OpenSSL-exception
+28. TekHVC
+29. UnRAR
+30. Vixie-Cron
+31. WordNet
+32. WTFNMFPL
+33. X11-no-permit-persons
+
+Added and improved markup for several licenses.
+
+Updated to latest version of the License List Publisher.
+
+Updates to script for one-off license tests.
+
+Update to documentation regarding XML fields.
+
+See all PRs for 3.28.0 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.28.0%22+is%3Aclosed
+
+See comparison of changes from 3.27.0 to 3.28.0: https://github.com/spdx/license-list-XML/compare/v3.27.0...v3.28.0
+
 ## version 3.27.0 - 2025-07-01
 
 New licenses/exceptions added: 21
