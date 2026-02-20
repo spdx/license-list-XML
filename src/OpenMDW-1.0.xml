@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
 <license isOsiApproved="false" licenseId="OpenMDW-1.0"
-	name="OpenMDW License Agreement v1.0" listVersionAdded="3.28">
+	name="OpenMDW License Agreement v1.0" listVersionAdded="3.28.0">
 	<crossRefs>
 		<crossRef>https://raw.githubusercontent.com/OpenMDW/OpenMDW/refs/heads/main/1.0/LICENSE.openmdw</crossRef>
 		<crossRef>https://openmdw.ai/license/</crossRef>
