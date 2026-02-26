@@ -8,7 +8,7 @@
       <text>
          <p>
             European Space Agency Public License
-            (ESA-PL) Weak Copyleft (Type 2) – v2.4
+            (ESA-PL) Weak Copyleft (Type 2) – v2.5
          </p>
          <list>
             <item>
@@ -627,7 +627,9 @@
                </p>
                <p>
                   GNU General Public License (GPL) version 2 and any subsequent
-                  version CeCILL version 2 and any subsequent version
+                  version
+                  CeCILL version 2 and any subsequent version
+                  European Union Public Licence v1.2
                </p>
             </item>
             <item>
