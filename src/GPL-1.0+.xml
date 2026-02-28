@@ -227,7 +227,8 @@
          "copyright disclaimer" for the program, if necessary. Here a sample; alter the names:</p>
          <p>Yoyodyne, Inc., hereby disclaims all copyright interest in the program `Gnomovision' (a program to
          direct compilers to make passes at assemblers) written by James Hacker.</p>
-         <p>&lt;signature of Ty Coon&gt;, 1 April 1989 Ty Coon, President of Vice</p>
+         <p>&lt;signature of <alt match="Ty Coon|Moe Ghoul" name="sample-signee">Ty Coon</alt>&gt;,
+         1 April 1989 <alt match="Ty Coon|Moe Ghoul" name="sample-signee">Ty Coon</alt>, President of Vice</p>
          <p>That's all there is to it!</p>
       </optional>
     </text>
