@@ -420,8 +420,8 @@
         <br/>the library `Frob' (a library for tweaking knobs) written
         <br/>by James Random Hacker.
       </p>
-         <p>signature of Ty Coon, 1 April 1990
-        <br/>Ty Coon, President of Vice
+         <p>signature of <alt match="Ty Coon|Moe Ghoul" name="sample-signee">Ty Coon</alt>, 1 April 1990
+        <br/><alt match="Ty Coon|Moe Ghoul" name="sample-signee">Ty Coon</alt>, President of Vice
       </p>
          <p>That's all there is to it!</p>
       </optional>
