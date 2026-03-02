@@ -1,4 +1,4 @@
-European Space Agency Public License (ESA-PL) Weak Copyleft (Type 2) – v2.4
+European Space Agency Public License (ESA-PL) Weak Copyleft (Type 2) – v2.5
 
 
 
@@ -40,14 +40,7 @@ European Space Agency Public License (ESA-PL) Weak Copyleft (Type 2) – v2.4
 
 The Licensor, and each Contributor in respect of such Contributor’s Modifications, hereby grants You a world-wide, royalty-free, non-exclusive license under Copyright, subject to the terms and conditions of this License, to:
 
-- use the Software;
-- reproduce the Software by any or all means and in any or all form;
-- Modify the Software and create works based on the Software;
-- communicate to the public, including making available, display or perform the Software or copies thereof to the public;
-- Distribute, sublicense, lend and rent the Software.
-- The license grant is perpetual and irrevocable, unless terminated pursuant to Sec. 8.
-
-
+ use the Software; reproduce the Software by any or all means and in any or all form; Modify the Software and create works based on the Software; communicate to the public, including making available, display or perform the Software or copies thereof to the public; Distribute, sublicense, lend and rent the Software. The license grant is perpetual and irrevocable, unless terminated pursuant to Sec. 8.
 
 2.2 Patents
 
@@ -187,6 +180,7 @@ Compatible licenses are:
 
 GNU General Public License (GPL)  version 2 and any subsequent version
 CeCILL version 2 and any subsequent version
+European Union Public Licence v1.2
 
 
 
