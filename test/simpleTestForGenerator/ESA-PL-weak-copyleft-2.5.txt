@@ -69,7 +69,7 @@ This License does not grant permission to use trade names, trademarks, services 
 
 3.1 Copyleft Clause
 
-All Distribution of the Software and/or Modifications, as Source Code or Object Code, must be, as a whole, either under (a) the terms of this License or the ESA-PL Strong Copyleft license v2.4 or (b) any later version of these Licenses unless the Software is expressly Distributed only under a specific version of the License by a Contributor or (c) the terms of a compatible license as listed in Appendix A to this License. Any obligation in this License to Distribute under the terms of this License, in particular as set out in Sec. 3.2, shall be construed as referring to “this License or a compatible license”.
+All Distribution of the Software and/or Modifications, as Source Code or Object Code, must be, as a whole, either under (a) the terms of this License or the ESA-PL Strong Copyleft license v2.5 or (b) any later version of these Licenses unless the Software is expressly Distributed only under a specific version of the License by a Contributor or (c) the terms of a compatible license as listed in Appendix A to this License. Any obligation in this License to Distribute under the terms of this License, in particular as set out in Sec. 3.2, shall be construed as referring to “this License or a compatible license”.
 
 3.2 Copyleft exceptions
 
