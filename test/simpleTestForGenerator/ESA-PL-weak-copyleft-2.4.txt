@@ -52,9 +52,9 @@ Each Contributor in respect of such Contributor’s Modifications, hereby grants
 
 No patent license is granted for claims that are infringed:
 
-- only as a consequence of further modification of the Patent Licensed Version; or
-- by the combination of the Patent Licensed Version with other software or other devices or hardware, unless such combination was an intended use case of the Patent Licensed Version (e.g. a general purpose library is intended to be used with other software, a satellite navigation software is intended to be used with appropriate hardware); or
-- by a Modification under Patent Claims in the absence of the Contributor’s Modifications or by a combination of the Contributor’s Modifications with software other than the Patent Licensed Version or Modifications thereof.
+only as a consequence of further modification of the Patent Licensed Version; or
+by the combination of the Patent Licensed Version with other software or other devices or hardware, unless such combination was an intended use case of the Patent Licensed Version (e.g. a general purpose library is intended to be used with other software, a satellite navigation software is intended to be used with appropriate hardware); or
+by a Modification under Patent Claims in the absence of the Contributor’s Modifications or by a combination of the Contributor’s Modifications with software other than the Patent Licensed Version or Modifications thereof.
 
 
 2.3 Trademark
