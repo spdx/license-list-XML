@@ -2,7 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <exception licenseId="WxWindows-exception-3.1" name="WxWindows Library Exception 3.1">
       <crossRefs>
-         <crossRef>http://www.opensource.org/licenses/WXwindows</crossRef>
+         <crossRef>http://www.opensource.org/license/WXwindows</crossRef>
       </crossRefs>
       <notes>Typically used with GPL-2.0-only or GPL-2.0-or-later</notes>
     <text>
