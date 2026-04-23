@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-    <license licenseId="MVT-1.1" name="MVT License 1.1">
+    <license licenseId="MVT-1.1" name="MVT License 1.1" isOsiApproved="false" listVersionAdded="3.29.0">
         <crossRefs>
             <crossRef>https://license.mvt.re/1.1/</crossRef>
             <crossRef>https://docs.mvt.re/en/latest/license/</crossRef>
