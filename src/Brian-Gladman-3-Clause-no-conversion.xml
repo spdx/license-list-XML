@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+<license licenseId="Brian-Gladman-3-Clause-no-conversion" name="Brian Gladman 3-Clause License (no conversion clause)" isOsiApproved="false" listVersionAdded="3.29.0">
+
+    <crossRefs>
+        <crossRef>https://github.com/krb5/krb5/blob/kfw-4.0.1-beta1/src/lib/crypto/builtin/aes/aesopt.h</crossRef></crossRefs>
+    <notes>This license is similar to Brian-Gladman-3-Clause but omits the clause about alternative licensing.</notes>
+    <text>
+    <copyrightText>Copyright (c) 2001, Dr Brian Gladman &lt;brg@gladman.uk.net&gt;, Worcester, UK.
+ All rights reserved.</copyrightText>
+  <p>LICENSE TERMS</p>
+
+<p>The free distribution and use of this software in both source and binary
+        form is allowed (with or without changes) provided that:</p>
+ <list>
+        <item><bullet>1.</bullet> distributions of this source code include the above copyright
+       notice, this list of conditions and the following disclaimer;</item>
+        <item><bullet>2.</bullet> distributions in binary form include the above copyright
+      notice, this list of conditions and the following disclaimer
+      in the documentation and/or other associated materials;</item>
+        <item><bullet>3.</bullet>the copyright holder's name is not used to endorse products
+      built using this software without specific written permission.</item>
+</list>
+<p>DISCLAIMER</p>
+<p>This software is provided 'as is' with no explcit or implied warranties
+  in respect of any properties, including, but not limited to, correctness
+ and fitness for purpose.</p>
+ 
+       </text>
+</license>
+</SPDXLicenseCollection>
