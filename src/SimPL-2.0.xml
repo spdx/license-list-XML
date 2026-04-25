@@ -88,11 +88,13 @@
           Anyone prevents you from distributing the software under the terms of the SimPL.
         </item>
       </list>
-      <p>License for the License</p>
-      <p>You may do anything that you want with the SimPL text; it's a license form to use in any way that you
-         find helpful. To avoid confusion, however, if you change the terms in any way then you may not call
-         your license the Simple Public License or the SimPL (but feel free to acknowledge that your license is
-         "based on the Simple Public License").</p>
+      <optional>
+        <p>License for the License</p>
+        <p>You may do anything that you want with the SimPL text; it's a license form to use in any way that you
+           find helpful. To avoid confusion, however, if you change the terms in any way then you may not call
+           your license the Simple Public License or the SimPL (but feel free to acknowledge that your license is
+           "based on the Simple Public License").</p>
+      </optional>
     </text>
   </license>
 </SPDXLicenseCollection>
