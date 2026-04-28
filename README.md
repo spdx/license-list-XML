@@ -31,6 +31,6 @@ Please note, a license not on the SPDX License List can be included in an SPDX d
 * Any new issues raised within the month of the next release will likely be tagged for the following release, unless it is an easy-to-resolve issue
 
 # Consuming License Data from this Repository
-Output files in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data) are generated from the XML source in this repository.  These output files are stable and well-supported, and make the License List available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://github.com/spdx/tools) (or create your own) to consume the supported formats of the license list.
+Output files in the [SPDX license-list-data repository](https://github.com/spdx/license-list-data) are generated from the XML source in this repository.  These output files are stable and well-supported, and make the License List available in RDFa, HTML, text, and JSON formats. You can use [SPDX tools](https://spdx.dev/use/spdx-tools/) (or create your own) to consume the supported formats of the license list.
 
 Please note that the XML format for this repository is internal to the SPDX legal team and is subject to change, so any direct consumers of _this_ repository's source files should expect occasional, backwards-incompatible changes.
