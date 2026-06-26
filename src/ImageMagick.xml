@@ -2,6 +2,7 @@
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
    <license isOsiApproved="false" licenseId="ImageMagick" name="ImageMagick License" listVersionAdded="1.20">
       <crossRefs>
+         <crossRef>https://imagemagick.org/license/</crossRef>
          <crossRef>http://www.imagemagick.org/script/license.php</crossRef>
       </crossRefs>
       <notes>
@@ -282,7 +283,7 @@
          <p>Copyright [yyyy] [name of copyright owner]</p>
          <p>Licensed under the ImageMagick License (the "License"); you may not use this file except in compliance
          with the License. You may obtain a copy of the License at</p>
-         <p>http://www.imagemagick.org/script/license.php</p>
+         <p><alt name="licenseUrl" match="https://imagemagick\.org/license/|http://www\.imagemagick\.org/script/license\.php">https://imagemagick.org/license/</alt></p>
          <p>Unless required by applicable law or agreed to in writing, software distributed under the License is
          distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
          implied. See the License for the specific language governing permissions and limitations under the
