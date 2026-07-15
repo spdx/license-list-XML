@@ -3,7 +3,7 @@
    <license isOsiApproved="false" licenseId="BSD-3-Clause-OpenWebUI"
             name="BSD 3-Clause - OpenWebUI variant">
       <crossRefs>
-         <crossRef>https://fedoraproject.org/wiki/Licensing/BSD_with_Attribution</crossRef>
+         <crossRef>https://github.com/open-webui/open-webui/blob/main/LICENSE</crossRef>
       </crossRefs>
       <notes>
          This license includes the BSD-3-Clause verbatim with additional clauses.
