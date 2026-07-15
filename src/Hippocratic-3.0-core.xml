@@ -6,15 +6,8 @@
          <crossRef>https://firstdonoharm.dev/version/3/0/core.txt</crossRef>
       </crossRefs>
       <notes>
-         <p>
-         This license is there is core text, but then a large number of additional clauses (restrictions) that can be added in any combination via a modular license builder: https://firstdonoharm.dev/build.
-         </p>
-         <p>
-         SPDX License List cannot accommodate all these variations, but will approve the "core" license using the SPDX id: Hippocratic-3.0-core to make sure it's clear what text this is referring to. Using the full word "Hippocratic" to be consistent with existing Hippocratic-2.1 already on the SPDX License List.
-         </p>
-         <p>
-         Note that the many combinations that can be made via the additional clauses would be different licenses due to them being substantively different conditions on the license.
-         </p>
+         This is the core text for this license. However, a large number of additional clauses (restrictions)  can be added in any combination via a modular license builder: https://firstdonoharm.dev/build.
+         The many combinations that can be made via the additional clauses would be different licenses as per the SPDX License List matching guidelines (and need to be submitted separately), due to them being substantively different conditions on the license.
       </notes>
       <text>
          <titleText>
