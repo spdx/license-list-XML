@@ -6,8 +6,8 @@
             <crossRef>https://scancode-licensedb.aboutcode.org/bsd-unchanged</crossRef>
         </crossRefs>
         <notes>
-            This is similar to BSD-2-Clause, except it changes "the following disclaimer"
-            to "the following disclaimer in this position and unchanged" at the first clause.
+            This is the same as BSD-2-Clause, but adds a requirement that the notice
+            remain in the same position unchanged.
         </notes>
         <text>
             <copyrightText>
