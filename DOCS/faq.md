@@ -114,3 +114,10 @@ expression: `Apache-2.0 AND MIT AND GPL-2.0-or-later`
  
 ## How are license identifiers used in an SPDX Document?
 The SPDX specification includes fields to record license information at the [package](https://spdx.github.io/spdx-spec/v2.3/package-information/), [file](https://spdx.github.io/spdx-spec/v2.3/file-information/), and [snippet](https://spdx.github.io/spdx-spec/v2.3/snippet-information/) level. 
+
+## Questions about specific licenses
+
+### Isn't SMLNJ really just HPND?
+SMLNJ was added to the SPDX License List v1.20 in 2013 as part of the review of the Fedora "Good" licenses at that time. This pre-dated the matching guidelines as implemented via the XML templates, as well as some of the tool matching abilities that came later. A more detailed look at HPND variants occurred in 2022) when Fedora officially adopted SPDX ids and the inspection of the actual license texts in the many, many files that comprise a distro led to uncovering the many early years variants of HPND.
+
+In any case, SPDX does not change license ids if we don't have to and given this is kind of "historical", the SMLNJ id has been retained.
