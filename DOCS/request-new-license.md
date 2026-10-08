@@ -5,19 +5,19 @@ Please review the process below and stay engaged with your request.
 # How to request a new license or exception to the SPDX License List
 
 1.  Review the [license inclusion principles](license-inclusion-principles.md).
-    * NOTE: Please refrain from submitting licenses that clearly do not meet these principles, for example, a license for which the text is not finalized or is a non-FOSS license only used for a small or personal project.
-    * NOTE: Make sure the license isn't already on the SPDX License List. This [guidance](license-match.md) can help with this task.
+    * NOTE: Please refrain from submitting licenses that clearly do not meet these principles, and make sure the license isn't already on the SPDX License List. This [guidance](license-match.md) may help.
 
-2. Submit your request via the SPDX Online Tool [Submit New License](https://tools.spdx.org/app/submit_new_license/) (preferred method) using the guidance provided there. Also see the [explanation of the fields contained on the list](license-fields.md). Alternatively, you may use the new license request issue template. 
-   * NOTE: You must have a Github account in order to use this tool/process.
-   * NOTE: You need to provide *all* of the information as per the form or issue template. Incomplete submissions waste time and may be closed.
-
-3. Follow your issue and participate in the discussion or answer any request for additional information via the issue and comments.
-    * NOTE: If submitters are unresponsive for several months, the issue may be closed without a decision.
+2. Submit your request via one of the following ways. Please see the [explanation of the fields contained on the list](license-fields.md) for reference:
+     1.  the SPDX Online Tool [Submit New License](https://tools.spdx.org/app/submit_new_license/) (preferred method) using the guidance provided there.
+     1. You may use the new license request Issue template.
+     1. If you do not have a Github account and are not amenable to creating one, then you may join and send you submission to the spdx-legal mailing list.
+        
+NOTE: You must have a Github account in order to use options (i) and (ii).
+   * NOTE: For options (ii) and (iii) You need to provide *all* of the information as per the form or issue template. Incomplete submissions waste time and may be closed.
 
 # Review Process
 
-1. The SPDX Legal Team will review any submissions for new licenses or exceptions via comments in the Github issue and on the bi-weekly calls as needed. Some license requests may be decided solely via comments in the Github issue, and some may involve discussion on the bi-weekly legal call. Thus it is imperative that requestors join the mailing list and calls to fully participate. Please follow the comments and respond accordingly if there are questions or additional information requested.
+1. The SPDX Legal Team will review any submissions for new licenses or exceptions via comments in the Github issue and on the bi-weekly calls as needed. Some license requests may be decided solely via comments in the Github issue, and some may involve discussion on the bi-weekly legal call. Please follow your issue and participate in the discussion or answer any request for additional information.
     1. New licenses that do not fall under [Fast-track]([ADD LINK](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-inclusion-principles.md)) inclusion may be approved if 3 SPDX-legal team members (at least 1 lawyer) agree that the license meets the [license inclusion principles](license-inclusion-principles.md) AND there is no objection raised from the greater SPDX-legal community within the Github issue comments. If there are objections, then the issue may be labeled "discuss on legal call" and discussed on an upcoming bi-weekly call.
   
 2. Issues will be labeled either `new license/exception: Accepted` or `new license/exception: Not Accepted` as appropriate with an explanation and the Issue closed for the latter case.
