@@ -19,7 +19,7 @@ NOTES:
 
 1. The SPDX Legal Team will review any submissions for new licenses or exceptions via comments in the Github issue and on the bi-weekly calls as needed. Please follow your issue and participate in the discussion or answer any request for additional information.
 
-   New licenses that do not fall under [Fast-track]([ADD LINK](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-inclusion-principles.md)) inclusion may be approved if 3 SPDX-legal team members (at least 1 lawyer) agree that the license meets the [license inclusion principles](license-inclusion-principles.md) AND there is no objection raised from the greater SPDX-legal community within the Github issue comments. If there are objections, then the issue may be labeled "discuss on legal call" and discussed on an upcoming bi-weekly call.
+   New licenses that do not fall under [Fast-track](https://github.com/spdx/license-list-XML/blob/main/DOCS/license-inclusion-principles.md)) inclusion may be approved if 3 SPDX-legal team members (at least 1 lawyer) agree that the license meets the [license inclusion principles](license-inclusion-principles.md) AND there is no objection raised from the greater SPDX-legal community within the Github issue comments. If there are objections, then the issue may be labeled "discuss on legal call" and discussed on an upcoming bi-weekly call.
   
 3. Issues will be labeled either `new license/exception: Accepted` or `new license/exception: Not Accepted` as appropriate with an explanation and the Issue closed for the latter case.
 
