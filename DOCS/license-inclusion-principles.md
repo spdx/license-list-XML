@@ -5,7 +5,7 @@ Determining whether a candidate license or exception should be included on the S
 
 Note: Once a license is added to the SPDX License List, the SPDX license id is immutable.
 
-For a description of the review process, see LINK. For more on the historical background of these guidelines see LINK.
+For more information of the review process, see [request license](https://github.com/spdx/license-list-XML/blob/main/DOCS/request-new-license.md#review-process). For more on the historical background of these guidelines see [LINK](https://github.com/spdx/license-list-XML/blob/main/DOCS/history.md).
 
 ## License Submission Factors
 
@@ -74,4 +74,8 @@ Candidate submissions for the Exceptions List are considered for inclusion accor
 
 The SPDX legal team uses the same process for evaluation and consideration of Exceptions as for Licenses (e.g., submission for consideration; discussion via GitHub issues; and community review and approval).
 
-*last updated September 2026*
+# What if the license or exception does not meet these guidelines? #
+
+The SPDX Specification provides a way to create your own SPDX-compatible license or exception identifier as further described [here](https://github.com/spdx/license-list-XML/blob/main/DOCS/faq.md#how-does-one-handle-licenses-not-found-in-the-spdx-license-list)
+
+*last updated October 2026*
