@@ -29,6 +29,9 @@ _The SPDX Legal Team uses the definition promulgated by the Open Source Initiati
 
 By mid-2019, we had started to see licenses emerge that were not open source, but did provide the source code. In some cases, these licenses were submitted to the OSI, but ultimately not approved. This led the SPDX-legal team to [start to think about](https://lists.spdx.org/g/Spdx-legal/message/2590) how this might impact the license inclusion principles and other updates, including moving the license inclusion principles from a webpage to the [Github repo](https://github.com/spdx/license-list-XML/commits/main/DOCS/license-inclusion-principles.md). Initial discussions started in earnest at the [May 2, 2019 SPDX-legal meeting](https://github.com/spdx/meetings/blob/main/legal/2019/2019-05-02.md) and continued throughout out the rest of the year during meetings, in PRs, and on the mailing list. See [May 16](https://github.com/spdx/meetings/blob/main/legal/2019/2019-05-16.md), [May 30](https://github.com/spdx/meetings/blob/main/legal/2019/2019-05-30.md), [Aug 8](https://github.com/spdx/meetings/blob/main/legal/2019/2019-08-08.md), [Sept 5](https://github.com/spdx/meetings/blob/main/legal/2019/2019-09-05.md), [Oct 17](https://github.com/spdx/meetings/blob/main/legal/2019/2019-10-17.md), [PR861](https://github.com/spdx/license-list-XML/pull/861), and [PR990[(https://github.com/spdx/license-list-XML/pull/861). 
 
-They were finalized in March 2020 .. ADD SUMMARY OF CHANGES HERE AND LINK TO THAT POINT IN TIME...
+They were finalized in March 2020.
 
 Minor formatting or other such non-substantive changes were made over the next few years.
+
+## October 2026 Revision
+These are the current license inclusion guidelines. 
