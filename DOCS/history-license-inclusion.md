@@ -4,7 +4,7 @@ The first beta version of the SPDX License List was published in August 2010 and
 * Include commonly found open source licenses. Although discussion was not explicit in regards to how to define an "open source license," this was always an implicit guiding principle.
 * Include all OSI approved licenses, both current and those approved but now deprecated. The rationale being that once OSI-approved, always OSI-approved and deprecated licenses still appear "in the wild". This involved early collaboration between SPDX and OSI (2011) to accurately identify and ensure that all OSI-approved licenses were represented on the SPDX License List. At that time, OSI began using the SPDX license identifiers in their URLs and on the license pages.
 
-At some point in these early days, there was consensus to include _all_ of the Creative Commons licenses, even though the NC and ND variants do not fit the OSD. Other older licenses that were accepted on the list by consensus before we had formal inclusion guidelines may also fall under this "grand-licensed-in" reality.
+At some point in these early days, there was consensus to include _all_ of the Creative Commons licenses, even though the NC and ND variants do not fit the OSD. Other older licenses that were accepted on the list by consensus before we had formal inclusion guidelines may also fall under this historical reality.
 
 ## First set of inclusion principles - early 2013
 In the waning days of 2012, we realized the need to make it clear and transparent to the world what criteria was being used to determine when to "accept" or "reject" a request to add a license to the SPDX License List. The result of those discussions was the publication of the license inclusion guidelines on the SPDX website in early 2013.
