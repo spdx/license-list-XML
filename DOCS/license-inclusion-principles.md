@@ -1,15 +1,17 @@
 # License Inclusion Guidelines
-The SPDX License List contains licenses that: are commonly found in the supply chain; are generally open or allow for collaborative development; and may cover a variety of distributable content, for example software, data, hardware, documentation, AI models, etc.
+The SPDX License List contains licenses that are commonly found in the supply chain; are generally open or allow for collaborative development; and may cover a variety of distributable content, for example software, data, hardware, documentation, AI models, etc.
 
 Determining whether a candidate license or exception should be included on the SPDX License List requires the SPDX Legal Team to engage in a case-by-case evaluation of each submission based on a number of factors, generally prioritized as set out below. The ultimate decision will be based on the totality of the factors and in consideration of the [SPDX Project's mission and vision](https://spdx.dev/about/overview/). 
 
-Note: Once a license is added to the SPDX License List, the SPDX license id is immutable.
+Note: Once a license is added to the SPDX License List, the SPDX license ID is immutable.
 
-For more information of the review process, see [request license](https://github.com/spdx/license-list-XML/blob/main/DOCS/request-new-license.md#review-process). For more on the historical background of these guidelines see [LINK](https://github.com/spdx/license-list-XML/blob/main/DOCS/history.md).
+Note: Licenses and exceptions that were added before the use of license inclusion guidelines or under prior versions of them, will not be removed from the SPDX License List on that basis. However, they also are not likely to be applicable as precedent to add new licenses or exceptions just because they include similar terms. For more on the historical background of these guidelines see [license inclusion history](https://github.com/spdx/license-list-XML/blob/main/DOCS/history.md).
+
+For more information of the license submission and review process, see [request license](https://github.com/spdx/license-list-XML/blob/main/DOCS/request-new-license.md#review-process). 
 
 ## License Submission Factors
 
-### Prerequisitives:
+### Prerequisites:
 These Prerequisites need to be met before considering a license under the further factors below.
 
 1. The submitted license does not match another license already on the SPDX License List as per the <a href="https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/">SPDX matching guidelines</a>.
@@ -26,9 +28,9 @@ For the following cases,  a license will be added to the SPDX License List witho
     1. The major distro criteria currently includes:
         * Fedora:  licenses that have been assessed as [allowed](https://docs.fedoraproject.org/en-US/legal/license-approval/#_allowed_licenses), [allowed-documentation](https://docs.fedoraproject.org/en-US/legal/license-approval/#_licenses_allowed_for_documentation), [allowed-content](https://docs.fedoraproject.org/en-US/legal/license-approval/#_licenses_allowed_for_content), or [allowed-fonts](https://docs.fedoraproject.org/en-US/legal/license-approval/#_licenses_allowed_for_fonts); or</li>
        * Debian: licenses used for free software in the [‘main’](https://www.debian.org/doc/debian-policy/ch-archive.html#the-main-archive-area) or [‘contrib’](https://www.debian.org/doc/debian-policy/ch-archive.html#the-contrib-archive-area) archive.
-    2. The rationale here is that the combination of the nature of the project's license criteria and the license being in a major distro (e.g., substantial use) means that the license appropriate for inclusion on the SPDX License List. 
+    2. The rationale here is that the combination of the nature of the project's license criteria and the license being in a major distro (e.g., substantial use) means that the license is appropriate for inclusion on the SPDX License List. 
  
-3. Creative Commons variants: Licenses published by Creative Commons will be included on the SPODX License List, subject to confirmation that it has been used in practice for one or more published materials.
+3. Creative Commons variants: Licenses published by Creative Commons will be included on the SPDX License List, subject to confirmation that it has been used in practice for one or more published materials.
     1. Note: From the early stages of the SPDX License List, all of the Creative Commons license variants were included, in spite of some of them not meeting the SPDX License List inclusion guidelines in place at that time.
 
 ### Key Factors:
@@ -45,19 +47,17 @@ and
 
 2. The license has actual, substantial use such that it is likely to be encountered in the supply chain. Substantial use may be demonstrated via use in many projects, or in one or a few significant projects. For example:
     * Substantial use would include a license used in significant upstream projects, such as the Linux kernel, Kubernetes, major Linux distros, etc., including very old licenses still included in such significant upstream open source projects.
-    * Substantial use would NOT include licenses used only in personal projects or projects not likely to be encountered in the software supply chain;, used only by the license drafter, or for projects that do not (yet) have significant usage.
+    * Substantial use would NOT include licenses used: only in personal projects or projects not likely to be encountered in the software supply chain; only by the license drafter; or for projects that do not (yet) have significant usage.
 
 ### Other factors:
 
-1. If the license does not substantively comply with one of the above open source definitions, but the license is primarily intended for free distribution of content (including, in the case of software, its source code) with limited restrictions.
+1. The license does not substantively comply with one of the above open source definitions, but the license is primarily intended for free distribution of content (including, in the case of software, its source code) with limited restrictions.
 2. Software licenses that apply only to executables and do not provide for the availability of the source code will not be included on the SPDX License List. However, licenses applicable to device firmware files which are widely distributed in connection with the Linux kernel or Linux distributions (for example, licenses used in the [linux-firmware](https://gitlab.com/kernel-firmware/linux-firmware/-/blob/main/LICENSE-CRITERIA.md?ref_type=heads) project, or licenses classified by Fedora as “allowed-firmware”) may be considered on a case-by-case basis.
 3. The license is structured to be generally usable by anyone, and is not specific to one project, consortium, or corporation.
 4. The license steward, if any, is aware of and does not oppose its submission to the SPDX License List.
 5. If a prior version of the license was already accepted on the SPDX License List, then a subsequent new version will be reviewed only to the extent it differs from the prior version.
 
-The SPDX legal team will also consider any additional information considered relevant by the license steward or open source community.
-
-Note: Licenses and exceptions that were added before the use of license inclusion guidelines or under prior versions of them, will not be removed from the SPDX License List on that basis. However, they also are not likely to be applicable as precedent to add new licenses or exceptions just because they include similar terms.
+The SPDX Legal Team will also consider any additional information considered relevant by the license steward or open source community.
 
 # License Exceptions
 
@@ -72,10 +72,10 @@ Candidate submissions for the Exceptions List are considered for inclusion accor
     * For example, a restriction on commercial use would impose an additional restriction.
 4. The exception has actual, substantial use such that it is likely to be encountered in the software supply chain.
 
-The SPDX legal team uses the same process for evaluation and consideration of Exceptions as for Licenses (e.g., submission for consideration; discussion via GitHub issues; and community review and approval).
+The SPDX Legal Team uses the same process for evaluation and consideration of Exceptions as for Licenses (e.g., submission for consideration; discussion via GitHub issues; and community review and approval).
 
 # What if the license or exception does not meet these guidelines? #
 
-The SPDX Specification provides a way to create your own SPDX-compatible license or exception identifier as further described [here](https://github.com/spdx/license-list-XML/blob/main/DOCS/faq.md#how-does-one-handle-licenses-not-found-in-the-spdx-license-list)
+The SPDX Specification provides a way to create a SPDX-compatible license or exception identifier for licenses or exceptions that are not on the SPDX License List, using `LicenseRef-<name>` or <AdditionalRef-<name>` as further described [here](https://github.com/spdx/license-list-XML/blob/main/DOCS/faq.md#how-does-one-handle-licenses-not-found-in-the-spdx-license-list)
 
 *last updated October 2026*
