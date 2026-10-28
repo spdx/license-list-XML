@@ -5,16 +5,16 @@ Determining whether a candidate license or exception should be included on the S
 
 Note: Once a license is added to the SPDX License List, the SPDX license ID is immutable.
 
-Note: Licenses and exceptions that were added before the use of license inclusion guidelines or under prior versions of them, will not be removed from the SPDX License List on that basis. However, they also are not likely to be applicable as precedent to add new licenses or exceptions just because they include similar terms. For more on the historical background of these guidelines see [license inclusion history](https://github.com/spdx/license-list-XML/blob/main/DOCS/history.md).
+Note: Licenses and exceptions that were added before the use of license inclusion guidelines or under prior versions of them, will not be removed from the SPDX License List on that basis. However, they also are not likely to be applicable as precedent to add new licenses or exceptions just because they include similar terms. For more on the historical background of these guidelines see [license inclusion history](https://github.com/spdx/license-list-XML/blob/main/DOCS/history-license-inclusion.md).
 
-For more information of the license submission and review process, see [request license](https://github.com/spdx/license-list-XML/blob/main/DOCS/request-new-license.md#review-process). 
+For more information of the license submission and review process, see [request license](https://github.com/spdx/license-list-XML/blob/main/DOCS/request-new-license.md). 
 
 ## License Submission Factors
 
 ### Prerequisites:
 These Prerequisites need to be met before considering a license under the further factors below.
 
-1. The submitted license does not match another license already on the SPDX License List as per the <a href="https://spdx.github.io/spdx-spec/v2.3/license-matching-guidelines-and-templates/">SPDX matching guidelines</a>.
+1. The submitted license does not match another license already on the SPDX License List as per the <a href="https://spdx.github.io/spdx-spec/v3.0.1/annexes/license-matching-guidelines-and-templates/">SPDX matching guidelines</a>.
 2. The license has been finalized and will not be revised any further; and the license text is publicly available.
 
 ### Fast-track inclusion:
