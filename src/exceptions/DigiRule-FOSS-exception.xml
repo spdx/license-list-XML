@@ -23,12 +23,12 @@
             <p>“FOSS Notice” means a notice placed by <alt match="DigiRule Solutions|Oracle or MySQL" name="noticeCompany">DigiRule Solutions</alt>
              in a copy of the <optional>MySQL</optional> Client Libraries stating that such
              copy of the <optional>MySQL</optional> Client Libraries may be distributed under
-             <alt match="DigiRule Solutions.s or FOSS|Oracle.s or MySQL.s FOSS \(or FLOSS\)" name="exceptionName">DigiRule Solutions's or FOSS</alt> License Exception.</p>
+             <alt match="DigiRule Solutions's or FOSS|Oracle's or MySQL's FOSS \(or FLOSS\)" name="exceptionName">DigiRule Solutions's or FOSS</alt> License Exception.</p>
             <p>“Independent Work” means portions of the Derivative Work
              that are not derived from the Program and can
              reasonably be considered independent and separate
              works.</p>
-            <p>“Program” means a copy of <alt match="DigiRule Solutions.s|Oracle.s MySQL" name="programOwner">DigiRule Solutions’s</alt> Client
+            <p>“Program” means a copy of <alt match="DigiRule Solutions's|Oracle's MySQL" name="programOwner">DigiRule Solutions’s</alt> Client
              Libraries that <alt match="contains?" name="contain">contain</alt> a FOSS Notice.</p>
         </item>
         <item>
