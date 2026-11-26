@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+  <license isOsiApproved="false" licenseId="Qt-Library-exception" name="Qt Library exception" listVersionAdded="3.30.0">
+    <crossRefs>
+      <crossRef>https://invent.kde.org/network/konqueror/-/blob/a0867ab237402b7516a7582a6beec1585b97c529/LICENSES/LicenseRef-Qt-exception.txt</crossRef>
+    </crossRefs>
+    <text>
+      <p>
+        As a special exception, the copyright holder(s) give permission to link
+        this program with the Qt Library (commercial or non-commercial edition),
+        and distribute the resulting executable, without including the source
+        code for the Qt library in the source distribution.
+      </p>
+    </text>
+  </license>
+</SPDXLicenseCollection>
