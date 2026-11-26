@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+  <license isOsiApproved="false" licenseId="evilwm" name="evilwm License" listVersionAdded="3.30.0">
+    <crossRefs>
+      <crossRef>https://www.6809.org.uk/evilwm/manual.shtml#licence</crossRef>
+    </crossRefs>
+    <text>
+      <copyrightText>
+        <p>
+          Copyright (C) 1999-2025 Ciaran Anscomb &lt;evilwm@6809.org.uk&gt;
+        </p>
+      </copyrightText>
+
+      <p>
+        This is free software. You can do what you want to it, but if it breaks something, you get to pay for the counselling. The code was originally based on aewm, so this is distributed under the same terms, which follow.
+      </p>
+    </text>
+  </license>
+</SPDXLicenseCollection>
