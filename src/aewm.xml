@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+  <license isOsiApproved="false" licenseId="aewm" name="aewm License" listVersionAdded="3.30.0">
+    <crossRefs>
+      <crossRef>https://www.6809.org.uk/evilwm/manual.shtml#licence</crossRef>
+    </crossRefs>
+    <text>
+      <copyrightText>
+        <p>
+          Copyright (c) 1998-2000 Decklin Foster.
+        </p>
+      </copyrightText>
+
+      <p>
+        THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS", WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES OF ANY KIND. IN NO EVENT SHALL THE AUTHOR BE HELD LIABLE FOR ANY DAMAGES CONNECTED WITH THE USE OF THIS PROGRAM.
+      </p>
+
+      <p>
+        You are granted permission to copy, publish, distribute, and/or sell copies of this program and any modified versions or derived works, provided that this copyright and notice are not removed or altered.
+      </p>
+    </text>
+  </license>
+</SPDXLicenseCollection>
+

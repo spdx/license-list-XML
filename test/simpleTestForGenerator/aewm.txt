@@ -1,0 +1,5 @@
+Copyright (c) 1998-2000 Decklin Foster.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS", WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES OF ANY KIND. IN NO EVENT SHALL THE AUTHOR BE HELD LIABLE FOR ANY DAMAGES CONNECTED WITH THE USE OF THIS PROGRAM.
+
+You are granted permission to copy, publish, distribute, and/or sell copies of this program and any modified versions or derived works, provided that this copyright and notice are not removed or altered.
