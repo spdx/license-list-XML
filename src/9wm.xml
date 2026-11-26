@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+  <license isOsiApproved="false" licenseId="9wm" name="9wm License" listVersionAdded="3.30.0">
+    <crossRefs>
+      <crossRef>https://handwiki.org/wiki/Software:9wm</crossRef>
+    </crossRefs>
+    <text>
+      <p>
+        9wm is free software, and is Copyright (c) 1994 by David Hogan.
+        Permission is granted to all sentient beings to use this software,
+        to make copies of it, and to distribute those copies, provided
+        that:
+      </p>
+
+      <list>
+        <item>
+          <bullet>(1)</bullet> the copyright and licence notices are left intact
+        </item>
+        <item>
+          <bullet>(2)</bullet> the recipients are aware that it is free software
+        </item>
+        <item>
+          <bullet>(3)</bullet> any unapproved changes in functionality are either
+          <list>
+            <item>
+              <bullet>(i)</bullet> only distributed as patches
+            </item>
+            <item>
+              or <bullet>(ii)</bullet> distributed as a new program which is not called 9wm
+              and whose documentation gives credit where it is due
+            </item>
+          </list>
+        </item>
+        <item>
+          <bullet>(4)</bullet> the author is not held responsible for any defects
+          or shortcomings in the software, or damages caused by it.
+        </item>
+      </list>
+
+      <p>
+        There is no warranty for this software.  Have a nice day.
+      </p>
+    </text>
+  </license>
+</SPDXLicenseCollection>
