@@ -410,8 +410,8 @@
          the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Library
          General Public License for more details.</p>
          <p>You should have received a copy of the GNU Library General Public License along with this library; if
-         not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301,
-         USA.</p>
+         not, <alt match="(see\s+&lt;https?://www\.gnu\.org/licenses/?&gt;|write\s+to\s+the\s+Free\s+Software\s+Foundation,(\s+Inc\.,)?\s+.{54,64})\." name="fsfContact">write to the Free Software Foundation,
+         Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA.</alt></p>
          </standardLicenseHeader>
          <p>Also add information on how to contact you by electronic and paper mail.</p>
          <p>You should also get your employer (if you work as a programmer) or your school, if any, to sign a
