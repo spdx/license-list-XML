@@ -5,7 +5,7 @@
          <crossRef>http://llvm.org/foundation/relicensing/LICENSE.txt</crossRef>
          <crossRef>https://web.archive.org/web/20240423023852/https://foundation.llvm.org/relicensing/LICENSE.txt</crossRef>
       </crossRefs>
-      <notes>This exception was created specifically to be used with Apache-2.0</notes>
+      <notes>This exception was created by the LLVM project, specifically to be used with Apache-2.0. It may be used by other projects besides LLVM.</notes>
 	  <text>
 	  <titleText>
 		<p>
