@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPDXLicenseCollection xmlns="http://www.spdx.org/license">
-   <license isOsiApproved="true" licenseId="MIT-Modern-Variant" name="MIT License Modern Variant" listVersionAdded="3.12">
+   <license isOsiApproved="false" licenseId="MIT-Modern-Variant" name="MIT License Modern Variant" listVersionAdded="3.12">
       <crossRefs>
          <crossRef>https://fedoraproject.org/wiki/Licensing:MIT#Modern_Variants</crossRef>
          <crossRef>https://ptolemy.berkeley.edu/copyright.htm</crossRef>
